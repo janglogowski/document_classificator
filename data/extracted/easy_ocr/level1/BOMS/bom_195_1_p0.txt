@@ -1,0 +1,90 @@
+BOM Report
+Customer ID: CANADA
+Coordinator: Jan Kowalski
+Date: 2025-06-24
+Product ID: HF-390A
+Internal No;; 9797405
+Order Qty: 170
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Protective
+2.56
+10%
+9.00
+For
+Sleeve
+export
+50mm
+Power
+2.06
+1.20
+56.40
+Switch
+Control
+2.96
+12.00
+504.00
+Panel
+Mount
+Grease
+3.17
+10%
+1.90
+3.80
+Tube
+2sOml
+Digital
+0.39
+15.00
+660.00
+Eco
+Display
+compliant
+Unit
+Aluminum
+2.97
+10%6
+Bracket
+grade
+Shaft
+1,51
+8.00
+192.00
+SKF brand
+S0Omm
+Packaging
+2.33
+10%6
+1.00
+9.00
+Certitied
+Box
+batch
+Cable Tie
+3,44
+0.95
+18,05
+For
+Pack (100L
+export
+Stainless
+1.82
+10%
+0.35
+12.25
+Eco
+Bolt M8
+compliant
+Total Amount:
+1,644.50
+Approved By: _
+Sourcing Department;
+180.00
+High

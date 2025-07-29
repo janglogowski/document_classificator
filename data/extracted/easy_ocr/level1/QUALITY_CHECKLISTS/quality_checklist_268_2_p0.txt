@@ -1,0 +1,65 @@
+Compliance
+All checklist entries are timestamped for traceability. Ensure all
+~conforming marks are clearly
+documented_
+Check that inspection steps follow the approved procedure
+This checklist captures quality
+inspection points and sampling levels
+Refer to Ihe quality register for sampling-plan references. Confirm
+that sampling levels comply with customer agreements:
+This summary supports the production-release
+quality gate:
+Product ID
+QP-660F
+Customer ID
+BRAZIL
+Iten Descrption
+Set
+Review Points
+Sampling
+Classification
+Notes
+Lcvci
+Item Specs
+Missing distributor intormation
+Level
+Critical impac
+Rubber
+Switch not wolking
+Critical impact
+Carton
+damaged
+Level 
+Needs review
+marxings ncorrect
+Wood splinter or sharp point
+Level !
+Needs review
+on product
+Package
+not sealed
+Level II
+Minor issue observed
+completely
+Incorec
+parcode
+labe_
+Level
+Critical impact
+Product doesn
+Love
+Needs reviev
+Not assembled as per draving
+Levei
+Sharp edges
+plastic
+Level
+Minor issue observed
+components
+Color mismatch
+Levei
+Needs [evlew
+Supervised by:
+Date:
+Log
+Hinge

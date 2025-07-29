@@ -1,0 +1,69 @@
+Product Overview
+NE 2454
+Projecti
+PR-369
+docune
+No:
+Peter Schmiot
+Prepared
+Peter Schmidt
+Approved GV:
+Location; Plant 1C
+Date: 2023-07-26
+crarsurc
+300 Var
+Pneumatic Control Unit
+Design
+Model Type
+Supply Voltage
+230 -
+S0Hz
+Fluid Flow
+75 Lmin
+Charging Time
+Service Intenal
+10 umn retuin; 25 Am
+Reservolr Capacity
+Filtration
+slctiun
+Manua
+Override 32
+Contro'
+Valve
+HLP 46
+Oil Type
+Battery Capacity
+Vane Puma
+Pump Iype
+Level
+dBLA)
+Working Temp
+Hange
+5*Cto45 €
+Noise
+Wzter-CoDlec
+exchancer
+Looing
+230 KR
+weight
+Motor
+Doler
+updates
+Confirm that all test conditions are accurate Y
+Flag
+missing parameters for
+specification
+This summary reflects the latest
+Overall configurationi
+wlthin defined design and safety margins:
+represented
+product template. Materia
+choices Jno
+process
+revision ofthe product data
+Check that all section headers follow Ihe
+sheet has been peer-reviewed by the engineering team:
+data have been verified for compliance. Data
+87.
+months
+Wreent

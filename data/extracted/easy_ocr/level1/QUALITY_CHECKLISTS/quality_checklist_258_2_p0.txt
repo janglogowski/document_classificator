@@ -1,0 +1,52 @@
+Conformance Log
+Archive this list
+the quality-managemen
+syster This summary supports the production-release quality gate:
+Entries include both visua
+and functional inspectian Items. Use this extract
+cooioinate
+sign-off with the QA
+ranager;
+Praduct
+HF-3904
+Customer ID
+BELGIUM
+Item
+Desciption
+Rubher Sopdci
+Sample Iier
+Classification
+Nates
+Review Points
+ProguictRequirements
+Critica
+Minor
+OnHold
+Level WI
+Needs
+Fevlet
+Proquct doesn
+porei
+Visual defect on housing
+Level
+Package
+not sealed
+Level |
+Critical impact
+completely
+Mlnor issue observed
+Coloi
+mismatch
+Instnuction Manua
+missing
+Leveli
+Minor issue ahserved
+damaged
+edges
+plastic
+components
+Loose parts inside packaging
+Supervised by:
+Date:
+Mijor
+shatp

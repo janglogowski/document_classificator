@@ -1,0 +1,101 @@
+Approved bX;
+Anna Nowak
+scnicedd"
+Carlos Garcla
+This maintenance extract
+prepared for
+compliance audit trails. Confirm Ihat service intervals follow Ine
+prevenve
+scncdule- Cncck thal =
+downlimc
+Gvenis ard pro pcily calcqolized ana
+logged_ Refer
+Inc maintenance rcg stcr Ior
+detailed service histories , Use this record
+pian vocomino
+upkeep and repairs
+Entries include
+Mon
+technician
+assinmenis
+par changes
+Section A:
+Machine
+MC220
+MC-290
+KC-225
+KC-245
+KC-252
+Machine
+CNC Milling
+Packaging Line
+Packaging Line
+Hydraulic Press
+Assembly Robot
+Macnine
+Ypc
+Preventve
+Inapecton
+Inep ecuoM
+Preventive
+Inspecton
+Technician
+Peter Schmict
+Anna Nowak
+Ana Nowak
+Anna Noxak
+Pete_ Schmidt
+Durtion
+Comments
+No issues
+'ovnd
+Calibranon
+Trightened loose
+Refilled oil (HLP
+Cnetca
+Od
+Section B:
+Machine
+MC-290
+MC-252
+MC-225
+MC-220
+MC-245
+Machine
+Packaging Line
+Assembly Robot
+Packaging Line
+CNC Milling
+Hycraulic Press
+Machine
+Type
+Inspecion
+Insnecman
+Preventve
+Preventve
+Inspecton
+Technician
+Laura Ross
+Jan Kovalski
+Caros Garcia
+ar
+Rossi
+Peter Schmidt
+Duration
+Comments
+Worn
+gasket
+Tightened Icose
+Replaced
+Senscr
+Replaced fuse
+replace @
+Lells
+coolani
+recalibralea
+Uptime L"o)
+Ertor Count
+comincnts
+95 9526
+Replaced filter
+cdcr

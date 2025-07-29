@@ -1,0 +1,70 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pCS
+17.00
+Switch
+Gasket
+tested OK
+8Omm
+Clamp
+pCS
+1.75
+38.50
+ISO-verified
+120mm
+Bearing
+pCS
+45.00
+6202 ZZ
+Bearing
+Urgent
+6202 ZZ
+Hinge Set
+pcs
+127,50
+Gasket
+20.00
+SKF brand
+Sheet A4
+Gasket
+6.25
+ROHS
+Sheet A4
+compliant
+Hinge Set
+47.50
+Urgent
+Terminal
+3.40
+129.20
+Urgent
+Block 4P
+LED Light
+2.50
+97.50
+Strip
+Clamp
+pCS
+1.75
+5.25
+High grade
+120mm
+Customer ID: CANADA
+Coordinator: Peter Schmidt
+Date; 2022-12-04
+ProductID: XK-61OU
+Internal No_
+4492212
+Order Qty: 31-
+Total Amount:
+535.20
+Ring
+DC?
+Ring

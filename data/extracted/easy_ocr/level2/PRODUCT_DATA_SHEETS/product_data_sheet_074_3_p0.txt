@@ -1,0 +1,31 @@
+Component Overview
+Internal No: 6820987
+Product ID; FT-730X
+Date: 2025-05-03
+Unlt Txpe
+Pneumatic Control Unit
+Operating Pressure
+250bar
+FluidFlow
+4Lmin
+Operating Voltage
+480
+G0Hz
+Protection Class
+IP54
+Pump
+Piston Pumip
+Roservoir Capacity
+160
+HLP 68
+Frame Material
+Stainless Steel Frame -
+Mounting
+Wall-mounted
+Dimensions (LxWxH)
+1200
+700 x 1100 mm
+Prepared by: Peter Schmidt
+Approved by: Laura Rossi
+Typo
+TypO

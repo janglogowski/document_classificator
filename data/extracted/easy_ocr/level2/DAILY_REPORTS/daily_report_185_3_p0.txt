@@ -1,0 +1,145 @@
+Report No: PR-534
+Customer
+POLAND
+Shift:
+(Evening)
+Date: 16-06-2025
+Equipment
+Process
+Worker
+From
+Finish
+Total Time
+Remarks
+Status
+MC-201
+Eesemoi
+Anna Nowak
+0500
+07-07
+Delared
+MC-207
+Drilling
+Piotr
+07.-0
+08.55
+115
+Delay
+progress
+Lewancowski
+MC-205
+Cutting
+Agnieszka
+10.0
+1106
+Delay
+Delayed
+Zielina
+MC-208
+Welding
+Jan Kowalski
+0930
+10.55
+NA
+Completed
+MC206
+Assembly
+Magdalena
+13.15
+13.58
+NAA
+probTe
+Wtkowska
+MC-206
+Cutting
+Mateusz
+1130
+13.27
+Delay
+In progress
+Janma
+MC-205
+Polishing
+Nadia Sauter
+13+0
+1450
+NIA
+Delared
+MC 201
+Welding
+Agnieszka
+06.15
+08.09
+Delay
+Completed
+Zielinska
+MC-202
+Assembly
+Agnieszka
+1030
+12-05
+Delayed
+Zielinska
+MC-206
+Polishing
+Mateusz
+09330
+10.53
+NIA
+Completed
+Jania
+MC-202
+Polishing
+Nadla Sauter
+06-15
+07.20
+Delau
+Deaven
+The perfomance recap supponsthe Moming briefing =
+No cntica
+delays were obsenved
+please
+any
+minor issues noted
+production targets have been logged; deviations are highlighted above  Note any unscheduled
+stops
+the downtime register- Use this summary t0 update the overall producton dashboard Ensure shift-handover
+notes include any Pending issues
+Pant ID
+Planned
+Produced
+Rejected Qty
+Scrap %
+Reworked
+comments
+Qutput
+0t
+Units
+LK-890B
+204
+196
+3.9270
+Scrap
+conilmed
+XK-610U
+166
+162
+2.4193
+Scrap
+contnmed
+TY-3506
+235
+232
+1.2878
+Rework
+needed
+VR-940T
+162
+143
+11.7383
+Rework
+Deeged
+Approved DV:
+Prepared by:
+edend)
+Kootets

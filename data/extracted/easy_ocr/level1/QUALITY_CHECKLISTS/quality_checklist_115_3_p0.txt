@@ -1,0 +1,69 @@
+Compliance
+Review Points
+Check
+Classification
+Remarks
+Intensity
+Product Requirements
+Packaging does not match
+Level III
+Needs review
+signed sample
+Battery not included
+Level/I
+Produc
+dousn tddwer
+ncorreckanantalan
+LevaM
+Minar Issue observed
+Rubber texture
+glossiness
+Level II
+Criticalimpact
+msmatch
+Missing logo
+waring labe
+Levei
+Criticalimpact
+Missing distributor information
+Level
+L0ose
+parts inside packaging
+Levei
+MinorissuB onsenved
+Package
+not se8led
+Level /
+Minor issue observed
+completeyy
+Rubber Switch not working
+Critical impact
+Connectar not warking
+LevelII
+Needs revev
+Nat assembled as per drawing
+Level
+Minor issue observed
+HncDrrec
+Juanut
+gesorumeni
+Levam
+Functionality test failed
+LCVCI
+Minoi ISSUC ODSCNvCo
+Visua
+deteclon
+housing
+LevGi
+Minonissue ODSeNcd
+Paint smearing_
+scratcnes
+Critical impact
+Reference Standards:
+Standard
+Edition
+ISO 9001
+2020
+EC 61010
+4th Ed,
+Log

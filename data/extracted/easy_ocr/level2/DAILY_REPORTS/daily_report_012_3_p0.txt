@@ -1,0 +1,96 @@
+Production Log
+Report No. PR-995
+Customer: BELGIUM
+Snift:
+[Nisht)
+Date: 30-03-2025
+Equlpment
+Operatlon
+Worker
+Begin
+Total
+Uwagi
+Condition
+Time
+MC-208
+Asseincly
+Media Squici
+09-00
+Juu
+Ocau
+Delayed
+HC-202
+Cuttng
+anons
+4.30
+16.20
+110
+Dellyed
+HC-204
+Polihing
+Jan Kowjal547
+08-15
+08.51
+Delayed
+MC-208
+Drlling
+Przemysta
+09.30
+11223
+progress
+Was k
+MC 203
+Drilling
+Dawic
+08.30
+09.09
+Recalctaled
+In progress
+Oszmianczuk
+HC 204
+Polisning
+Magdalena
+11.30
+13.17
+107
+NA
+Completed
+Wiikoriska
+The performance recap supports the morning briefing agenda.All production targets have bcen logged;
+deviations are highlighted above: All operator notes have been archived for {enewErsure routinc maintenance
+DCtce7
+shilts
+maintain consistentoutput No crilical delayskere observed; please aduress any minor
+issues Golcd,
+Item IC
+Planned Qty
+Actual Qty
+Rejected
+Rejection%2
+Rework QTy
+Remarks
+Ch
+KP-JZOE
+167
+164
+8036
+Scrap
+confrmed
+DX-7771
+170
+2841
+9004
+9580
+io-700w
+T44
+15.288=
+Sctap
+Cottmen
+58-I40D
+165
+176
+11.5280
+Rewrork
+nceoei
+APoroved dy:
+Prepared Dy: _

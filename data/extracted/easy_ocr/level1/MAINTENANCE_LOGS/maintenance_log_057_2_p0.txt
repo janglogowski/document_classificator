@@ -1,0 +1,62 @@
+Maintenance Checklist Report
+2025-06-04
+The equlpment
+belo  Includes fault codes and corrective notes Check that aIl dowantlme events #re properly categorlzed and
+lonata
+Conlinm that servlce Interval: (ollow the preventlve schadule
+Aelaty
+the summory
+srvlce uctlons und downtlmas for
+eich mdchine
+spire Parts Used:
+Part Numc
+aty Used
+Swltch assembly
+P-735
+cnyox Modula
+p-LIG0
+Hvdraulic Host
+0-8739
+0.9834
+Mnchina
+Maching
+Technician
+Dowuntim
+Laet Check
+KaLnt
+Nol
+ML /53
+PlasMA
+Lotrecuvl
+unk 0walse
+7202-02-13
+Retilled oll
+Cutted
+MHLP 461
+MC 701
+Latcr Cutici
+Pntwuntive
+Jinkowitke
+2024.07.22
+Snlor
+nclturnted
+MC 792
+pelctnootn
+Lorrecuvt
+MEo
+2024-12-11
+Replaced
+coolant
+Mc7os
+CNC Miing
+Pntwventive
+Yon
+70150777
+Callbratlon
+Machin
+check Ok
+hutnonintd DY;
+Cino: Gurcil
+Oneritor;
+Rot
+Typg

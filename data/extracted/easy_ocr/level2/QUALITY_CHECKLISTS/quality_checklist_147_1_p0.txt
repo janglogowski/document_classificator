@@ -1,0 +1,87 @@
+Conformance Report
+04799763
+Date: 17.07.2025
+Praduct ID
+OX- /771
+CustamerId
+TURKEY
+Icem
+uescnintion
+Cable We Pack(!00
+Use thls extractto coordinate slgn off wlth the QA manager; This checklist coptures quality Inspection polnts and
+sampling levels The following table outlines Inspection criteria and classification levels Archive this Ilst 
+the quality=
+management system Please review Gach checklist polnt and mark the sampling results- Below arethe Items t0 be
+verifiled during the final product review Thls section detalls quality requlrements and test points for the batch. This
+summary supports the production-release quality Bate. Check that Inspectlon steps follow the approved procedure;
+Review Points
+Check
+Caterorv
+Notes
+Intensity
+Product Requtrements
+Critical
+Major
+OnHold
+pnint smnenning
+scnarches
+Crltical Impact
+Connecton molWorrinn
+Level M
+edre
+plastic
+LevelI
+comdonemts
+MissIng loro
+warning Iabel
+Needs fevlew
+Exposed nall with
+Minarissueonserued
+Package
+not sealed
+Level I
+completely
+shipping mark Is Illegible or
+mlssing
+Product doesn tpower on
+Level I
+Packaging does not match
+Level I
+Critical Impact
+suRned samnple
+MissIng dlstributor
+Crltical Impact
+Untarmation
+Carton
+damaged Or
+LevelM
+Minar Issue observed
+Iat KIngs Incorrect
+ncorechdrncodc
+label
+Levcl
+Not assembled
+draming
+Level M
+Minar Issue observed
+AQL Level
+Critical
+Mnar
+pemuit
+Customer
+spediilc
+Please' ensure supervlsed
+Sign-off on any non conforming points; Use this closure report ta update the quality KPI
+dashbonrd: Reler
+notes for any observed delects 0r devlatlons, Ensure that
+remarks have corresponding
+evldence attachments
+Arche this summary
+the audlt-readiness falder, Items marked for hold requlre additlonal
+revlew befare release,
+Minor
+Shatpe
+shatp
+pont
+Lcvt
+Mjlor

@@ -1,0 +1,117 @@
+Production
+Report No : PR-887
+Customer: BELGIUM
+Shint: ,
+(Morningh
+Date: 13-05-2024
+Machine
+procers
+Tecanician
+Start
+End Time
+Time
+Comments
+Condition
+Cce
+Suani
+MC-206
+Drilling
+Agnieszka
+07.00
+08:16
+Racalibrated
+Delayed
+Zieliriska
+MC-20G
+Polishlng
+Przernysta "
+06.40
+07-03
+NIA
+ploBiS:
+Wasik
+MC-205
+Welding
+Anna Nowak
+13.15
+14-18
+progress
+MC-202
+Polishing
+Mapdelena
+06.15
+07.06
+Recalibrated
+Delayed
+Witkolvska
+MC-201
+Drilling
+Kowalski
+05.15
+16
+Racalnratan
+Delayed
+MC-202
+Asgembly
+Anna Nowak
+11;15
+12.23
+Delav
+In proEress
+MC-209
+Drilling
+Dawid
+06.15
+07.14
+NPA
+Completed
+Oszmianczuk
+MC-204
+Cutting
+Dawid
+10.15
+11.26
+Delay
+Completed
+Oszmianczuk
+Item I0
+Planned
+Acual
+Qty
+Rejected
+Scrap %
+Rerorked
+Notes
+Output
+Qty
+Units
+Lp-SSSV
+198
+198
+5.05%0
+Rewvork
+nbedro
+NU-440Z
+13.4500
+TX-820V
+277
+266
+3.9700
+Scrap
+ceninec
+TX-820v
+150
+146
+2.6790
+AZ 300T
+289
+13.1590
+Scrap
+conflrmed
+MR-I60H
+-55"4
+Rewaik
+needed
+Approved by:
+Prepared by: _
+Log

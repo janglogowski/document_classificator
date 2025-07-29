@@ -1,0 +1,69 @@
+Product Data Sheet
+Repor No.: PR-578
+Prcduct ID: 87-6S0F
+Date;
+2024-05-31
+Configuration Type
+Hydlraulic Power Uni
+Fluid Flow
+Pressure
+Control
+75 Umln
+210 p0
+Service Interva
+400V /50 Hz
+500 ,
+Weiaht
+250KE
+Cocling
+10"Cto 50"C
+Ar-cocled oil
+Dimensions (LxWxHJ
+1200 -
+7L0 *
+Mounting
+Walli
+1lu6
+Tounied
+Component Maturials Overview:
+lem
+Base
+Batter) Pack
+Powes Swilch
+Utniurn-Ion Cel Pack
+Spec fication
+Polycarbonate
+10025
+Ge) Pack
+(ppner
+IS0 2768
+6202
+Gasker Sheet A4
+Stec
+10025
+Mhtoa
+DIN EN 10025
+Tocuen
+Pilei
+(Nbr)
+Orerter
+DIN EN 10025
+Wvood
+Ce_centified
+Prepared by: Anna Nowak
+Approved by: Carlos Garcia
+Design
+Valve
+Votteee
+Direcion:
+Woiking
+Tempa
+Ranre
+Vabntor
+Cogling
+Swlicone
+Aubbct
+Bearin?
+DINEN-
+stuin"E25
+Ruboei

@@ -1,0 +1,83 @@
+Unit Data Specification
+Project:
+KP-320E
+Interal No
+4369955
+Prepared
+Kowalski
+Approved By:
+Carlos Garcia
+Location: Plant 2B
+Date; 2024-02-10
+Model Type
+Cooling Circulation
+Rated Pressure
+210
+System
+Throughput
+30 Lmin
+Supply
+480 V ! 60 Hz
+Working TempRange
+C to 45'C
+Mounting
+Wall-mounted
+Frame Materal
+Powder-coated Steel
+pumn
+Type
+Gear
+Controb
+Valve
+Directional 4/3
+Cooling _
+Alr-cooled OIl radiator
+Charging Time
+Dimensions (LxWxH)
+1200
+700 * 1100
+Motor Power
+75kW
+Weight
+230
+Filtration
+10 um
+retum; 25 m
+Reservoir Capacity
+suction
+Service Interval
+1000
+Oil Type
+HLP 68
+Battery Capacity
+Noise Level
+72 dBIA)
+Protection Class
+Material
+Construction:
+Subcomponent
+Composilion
+Teflon Tape Roll
+Teflon Tape Rol
+Bearing 6202
+Stainless Steel 304
+Support Foot Steel
+Stainless Steel
+Power
+Switch
+Polycarbonate
+Copper
+Gasket Sheet A4
+Nitrile Rubber (NBR)
+Connector
+Glass-Filled Nylon
+Capacitor 450V
+Aluminum 6061-T6
+Cable Tie Pack (100)
+Nitrile Rubber (NBR)
+Thermal Fuse
+Ceramic Oxide
+bar
+Voltage
+Punp
+Total

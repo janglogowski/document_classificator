@@ -1,0 +1,55 @@
+Product Overview
+Document No.
+PR-180
+Product ID: RE-850C
+Date: 2024-09-14
+Model Lype
+Pueumatic Contol Unt
+Rated Pressure
+180 bar
+Uhroughput
+JLmin
+perating Voltage
+480
+60Hz
+Control Valve
+Proportional 4/2
+Working
+Range
+d0"C to 50'C
+Frame Materal
+Aluminum Frame
+Mounting
+Wall-mounted
+Total Weight
+250kg
+Component Materials Overview:
+Subcomponent
+Base
+Specitication
+Nut MG
+Zinc-Plated Steel
+DIN EN 10025
+Rubber Gasket BOmm
+Nitrle Rubber (NBR)
+Anticorrosive
+Cooling Gel
+Silicone Rubber
+UL-listed
+Graphite Pad
+Graphite Pad
+CE certified
+LED Light Strip
+Glass-Filled Nylon
+50 2768
+NBR 60mm
+Nitrle Rubber (NBR)
+CE certified
+Capacitor 450V
+Aluminum 6061-T6
+Heat-resistant
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt
+Temp:
+Pacn
+Ring

@@ -1,0 +1,93 @@
+COMPONENT BREAKDOWN
+Customer
+D: CANADA
+Coordinator: Laura Rossi
+Date: 2023-04-12
+Product ID: FT-730X
+nterna
+8951603
+Order Qty; 149
+Please review the itemized list of parts and material specifications before procurement;
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+LED Light
+3.02
+2.50
+32.50
+Strip
+Ventilation
+0.96
+pCS
+117,60
+SKF
+Grid
+brand
+Bearing
+pCS
+1.50
+7.50
+Switch
+6202 ZZ
+tested
+Rubber
+1096
+pcS
+0.50
+6.50
+Gasket
+80mm
+Ventilation
+pcs
+5.60
+184.80
+Grid
+LED Lignt
+2.50
+80.00
+High
+Strip
+grade
+Aluminum
+0.36
+4.50
+180.00
+Li-Ion
+Bracket
+battery
+installed
+Shaft
+1.83
+8.00
+72.00
+Urgent
+soOmm
+Copper
+2.34
+0.60
+3.00
+Li-Ion
+Wire 3mm
+battery
+installed
+Spring
+0.36
+0,05
+1.70
+For
+Washer
+export
+M1O
+This closure summary validates that all parts are approved for release: This final review confirms that all
+items are ready for requisition
+Cross-verify totals with the ERP system for consistency;
+Total Amount:
+685.60
+Approved By: _
+Sourcing Department:

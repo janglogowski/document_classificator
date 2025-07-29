@@ -1,0 +1,97 @@
+Shift Summary
+Repart No;: PR-283
+Customer; FRANcE
+Shife;
+(Evening)
+Date; 07-03-2024
+Machine
+Mas
+Operator
+Bekin
+End Tlmne
+Um e
+Spent
+Comments
+Status
+MC-703
+Cutthng
+Piotr
+0615
+07,08
+Delayed
+Lewdandowskh
+MC-206
+Pollshing
+Premixs(jw
+0ZQO
+07,32
+Delay
+Delayed
+Wsk
+Mc 203
+Cutting
+Wiktor
+06.J0
+07,46
+Delay
+Delayed
+Kopczynaku
+MC 208
+Weldlng
+Anna Nowak
+14 30
+15,12
+Delayed
+MC 202
+Welding
+Aknteszka
+10.30
+11,24
+Recalbrated
+progcess
+Z6e Unska
+MC 208
+Weldlng
+Jan Kowalskl
+13 15
+1510
+Recalbrated
+completeu
+Use this summarv t0 Update the Overall productlon dashboard, All productlon targets have bcen logged; deviatlons
+hlghllghted above; Check Inaterlal consumption agalnst standard usage rates, Ensure routine maintenance
+between s hlfes
+malneale Conslstert output;
+Pcoduct ID
+Plannod
+Produced
+Scrap Qy
+Fallue @
+Reworked
+Notes
+outpul
+Qty
+Unlts
+GL 9805
+124
+120
+2396
+Rework
+needed
+RX-BOZ
+143
+108
+4,427
+Scrap
+confirned
+RM XGON
+241
+232
+9,7370
+Scmd
+conmrmned
+HF-JquA
+200
+0,50%6
+Apmroved bv:
+Prepared bv: =
+Deluy

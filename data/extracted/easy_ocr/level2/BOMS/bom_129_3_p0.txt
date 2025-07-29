@@ -1,0 +1,90 @@
+BILL QF MATERIAL
+This extract shows the bill of components and total projected spend. AII line-item costs are current as per
+verdor quotes: Below Is the componert Ilsting and associated costs for the upcoming production batch:
+All entries reflect the latest inventory and supplier rates Ensure each component meets the
+specified
+quality standards. The following table summarizes the materials and quantities needed for the current
+project.
+Item
+Oty
+VOM
+Rate
+Amount
+Remarks
+Description
+Terminai
+54.40
+Certified
+Block 4P
+batch
+Alurninun
+207.00
+Hinge
+Gracket
+alignment
+adjusted
+Rubber
+0.50
+11.00
+Urgent
+Gasket
+B0mm
+Control
+12,00
+384-00
+Switch
+Panel
+tested OK
+Mount:
+Packaging
+14,00
+SKF brand
+Box
+Heat
+2,70
+29.70 -
+Imported
+Resistant
+Sleeve
+Copper
+8.40
+Certified
+Wire 3mm
+batch
+Plastic
+1.10
+44.00
+150x150
+Heat
+2.70
+40.50
+Resistant
+Sleeve
+LED Light
+2,50
+57,50
+Certified
+Strip
+batch
+Hinge Set
+2.50
+30.00
+Clamp_
+1.75
+87,50
+Certified
+120mm
+batch
+Cross-verify totals with the ERP system for consistency Totals Include estimated over-consumption
+allowances and current unit rates; Ensure archival of this materials summary for compliance records. Final
+amounts include handling and logistics costs where applicable.
+Customer ID: FINLAND
+Coordinator: Carlos Garcia
+Date: 2023-12-23
+Product ID: PL-601Z
+uneina
+NO;
+2888578
+Order Qty: 210
+Covem
+Ring

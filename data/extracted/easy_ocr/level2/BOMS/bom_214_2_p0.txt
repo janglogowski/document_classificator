@@ -1,0 +1,25 @@
+Customer ID: SWEDEN
+Prepared by: Carlos Garcia
+Product ID: XK-61OU
+Internal No:: 1140719
+Item Description
+Vertilalion Grid
+Cable_Tie Pack (100)
+Hex Bolls_M12
+Qly
+499
+884
+440
+UOM
+pCS
+pcs
+Unit Price
+Amount
+794.40
+839.80
+110.00
+Remarks
+ISO-verified
+Imported
+For export
+TOTAL: 3,744.20

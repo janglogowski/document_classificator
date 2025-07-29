@@ -1,0 +1,80 @@
+Production Log
+Redam ND;:
+PR-728
+Cuslamier-
+FINLAND
+Supervisor;
+Kowalski
+pepartment'
+Maintenance
+Date
+22-09-2023
+Snitt:
+Fornine
+Machine
+Task
+Technician
+From
+Duration
+Remare'
+(min)
+MC-201
+Welding
+Magdalena
+12.15
+13.10
+Delay
+Vitkowiska
+MC-20A
+Drilling
+annaNotar
+OS-@C
+09.53
+Deidv
+MC 205
+Welding
+Magdalena
+US-UC
+08.30
+Witkowska
+MC-201
+Drilling
+Nadia Sauter
+06-00
+06.55
+Recalibrated
+MC-205
+Assemblv
+Anna Nowvak
+07.30
+08.3,
+MC- 201
+Welding
+Magdalena
+09-15
+10.04
+Kecambrarcc
+VtkowskJ
+Part ID
+Planned Qty
+Achieved Qty
+scrap
+Rejection
+Remarks
+PW-S1SY
+209
+14.6970
+Kewoneneeded
+5L-430M
+Ood
+CN-150C
+AL-l150
+605
+VF-2Z0D
+100
+00%
+Prepared by:
+LjurjRoss
+Approved pl:
+Carlos Garcia
+9224

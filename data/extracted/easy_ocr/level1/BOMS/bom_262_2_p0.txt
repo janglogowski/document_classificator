@@ -1,0 +1,33 @@
+Customer ID: BRAZIL
+Prepared by: Peter Schmidt
+Product ID: MS-GOOP
+Internal
+7159126
+Item
+Spacer Zmm
+Fuse 54
+Hinge Set
+Ventilation Grid
+Description
+Qty
+943
+460
+925
+716
+UOM
+Unit Price
+0.15
+2.50
+Amount
+141.45
+138.00
+2,312.50
+009.60
+Remarks
+SKF brand
+Li-Ion battery
+Switch tested OK
+ROHS compliant
+installed
+TOTAL: 6,601.55
+No::

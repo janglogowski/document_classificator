@@ -1,0 +1,59 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UoM
+Description
+Amount
+Remarks
+Aluminum
+Bracket
+4.50
+72.00
+Hinge
+allignment
+Ceramic
+BOmm
+2.10
+18.90
+adjusted
+SKF
+brand
+Ring
+120mm
+1.75
+49,00
+Certified
+Packaging
+1,00
+30,00
+Fuse SA
+0.30
+Epoxy Resin
+0.30
+7.30
+Imported
+LED Light
+Strip
+2.50
+45.00
+ROHS
+compilant
+Please confirm suppller lead times -
+ensure tirely delivery of all items;
+Customer ID; TURKEY
+Product ID; ZR-ZOSR
+Coordinator: Peter Schmidt
+Date
+Interns
+No :
+7824262
+2025-06-30
+Order Qty: 187
+Amount:
+442.80
+Rale
+Clamp
+batch
+Fuse
+211.70
+Total

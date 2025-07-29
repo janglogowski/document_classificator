@@ -1,0 +1,90 @@
+Inspection Record
+Please revieweach checklist point and mark the sampling results
+checklis
+captures
+quality inspection
+points and
+samipling
+EvGE
+Archive this list E
+quality-management systeri: This section details quality
+requirements anm
+test points for the batch;
+Product
+PW-515Y
+Customerid
+POLAND
+Item Description
+Stainless Bolt M8
+Inspuction
+Checklist Points
+Sample
+Defect Class
+Remarks
+Tier
+Design Specs
+Hold
+Functionallty test (alled
+Level IIL
+Mma
+Issug Dusuived
+Carton
+damaged
+markings
+Level II
+Needs review
+ncamarm
+Connector not working
+Needs review
+Loos
+inside packaging
+Dead
+insec
+packaging
+Level III
+Incorrectharcode
+Iahe
+Levei
+Mino
+issue onsenved
+Rubber Switch not working
+Level II
+Mino
+Issue
+observed
+Waod splinter or sharp point on
+Level /
+Critica
+IMdact
+product
+Paint smearing
+scraicnus
+Levelll
+Criticac
+IMNDHCI
+Missing distributor Information
+Levell
+Critical Impact
+Exposecd nail with sharp
+Lcci
+Criticab
+Impuc
+Hinges
+(OOS€
+LCVCl
+Critical impact
+Tncorrect Orientation
+Levei
+Critical impac
+Shipping mark
+illegible
+Level III
+missing
+Missing
+warning labe
+Level /
+Supervised by:
+Datc:
+This '
+pars
+point

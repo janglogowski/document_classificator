@@ -1,0 +1,99 @@
+BOM Report
+Customer ID: CANADA
+Coordinator: Laura Rossi
+Date: 2024-04-25
+Product ID: ON-7ZOH
+Internal No:
+2068323
+Order Qty: 356
+This summary lists every item required_
+with per-unit pricing details. The following table
+summarizes the materials and quantities needed for the current project. Below is the component
+listing and associated costs for the upcoming production batch. All entries reflect the latest
+inventory and supplier rates_
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Set
+3.08
+5%
+pcs
+2.50
+35.00
+Eco
+compliant
+Digital
+0.38
+109
+pCS
+15.00
+765.00
+Display Unit
+alignment
+adusted
+Aluminum
+1.48
+pcs
+4.50
+193.50
+Li-Ion
+Bracket
+battery
+installed
+Fuse 5A
+0.34
+pCS
+8.10
+Sensor Clip
+10%0
+PCS
+39.90
+Urgent
+Set
+3.25
+pcs
+2.50
+130.00
+ISO-
+verified
+Shaft
+2.36
+0%0
+pCS
+8,00
+128.00
+Li-Ion
+s0Omm
+battery
+installed
+Digital
+0.57
+2%
+pCS
+15.00
+225.00
+Display Unit
+Control
+3.0
+5%/
+pCS
+1200
+60.00
+Switch
+Panel
+tested
+Mount
+Tota
+Amounc
+584.50_
+Approved By:
+Sourcing Department:
+Hinge
+Hinge
+Hinge

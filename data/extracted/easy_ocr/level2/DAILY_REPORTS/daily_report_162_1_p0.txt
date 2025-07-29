@@ -1,0 +1,85 @@
+DAILY PRODUCTION REPORT
+Report No::
+PR-588
+Customer:
+FRANCE
+Supervisog
+Jan Kowalski
+Department:
+Quallity Control
+12-10-2023
+Shitt:
+(Moming)
+Machine
+Process
+ecnnician
+Start Time
+Total
+Notes
+Guration
+MC-204
+Polishing
+Agnieszka
+09.15
+10.36
+Delay
+Zielinska
+MC 201
+Polishing
+Jan Kowalski
+09,30
+11,16
+106
+N{A
+MC 205
+4esemoi
+Dawid
+08.00
+09.30
+Oszmialiczuk
+MC-207
+Cutting
+Anna Nowak
+13.30
+14.44
+MC-201
+Drilling
+Agnieszka
+12.30
+14.02
+Zielinska
+MC 201
+Polishing
+Wiktor
+12,00
+13,06
+Kopczytiski
+MC 203
+Polishing
+Przemyslaw
+09-WQ
+09.34
+Recalibrated
+Wasik
+Item
+Target Qty
+produced
+Q4
+defect
+Qty
+Failure
+Comments
+LK-S9OP
+867"
+150C
+12.00X
+confirmed
+MU-44
+8895
+Prepared DY:
+Ljura
+Rossi
+4pprovcd Dyz
+Carlos Garcia
+pate
+scop

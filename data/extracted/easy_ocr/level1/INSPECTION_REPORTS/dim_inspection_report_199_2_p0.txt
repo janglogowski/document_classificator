@@ -1,0 +1,71 @@
+echnician
+Larios
+Garcia
+inspection Date
+2024-05-07
+This dataextract
+prepared for quality-control sign-off,
+Ensure measurement methads align with calibration
+standards. Please
+reviei
+the inspection
+for each component listed below: Entries include both pass/fail
+markers and deviation magnitudes
+The following data captures key dimensions and any deviations identified. Check
+that .
+dimensions comply with ISO anc
+company standards-
+Item Code
+MU- HUL
+PL-CUIZ
+oh-/ /W
+CE-JUSL
+X-6IUU
+ZR-2OSR
+component
+Hex Bolts M12
+Rubber Gasket
+Bearng 6202
+Wooden
+Wooden
+Rubber Gaskel
+BuMIM
+Bummt
+dIm;
+Leneth
+unickness
+denth
+Nomina
+14.08
+2u,c8
+50,94
+46,34
+Observed
+F45
+46,48
+TUUC
++U 6
+PasaaFuil
+Inspection notes have been logged for traceability. Archive this inspection summary for regulatory documentation
+Review failed items against the corrective-action register.
+Instrument Calibration Log
+instrument
+Seria
+Calibration
+Micrometer
+38820
+2025-03-03
+Ncromctci
+37906
+2024-10-19
+Lusei
+scannem
+32969
+202502 01
+scanne
+73027
+2024-12-16
+results
+Widln
+Holc
+Dale

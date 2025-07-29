@@ -1,0 +1,53 @@
+Quality Review
+Please review each checklist point and mark the sampling results
+This closure summary indicates compliance
+with inspection criteria. Archive this list In the quality-management syster Beloware the iterns
+be verified
+during the final product review: The following table outlines inspection criteria and classification levels. This
+summary supports the production-release quality gate. Use this list to confirm adherence to AQL ad safety
+standards.
+Product ID
+HF-390A
+Customer ID
+GREECE
+Item Description
+Insulated Tube 25mm
+Audit Criteria
+Sample Tier
+Category
+Remarka
+Item Specs
+Packaging does not match
+Critical impact
+signed sample
+Wrong product size
+Level II
+Need: [eview
+Incortect parcane
+anei
+Critical impact
+Battery not included
+Level !
+Needs
+Teveim
+Carton is damaged or markings
+Level |
+Incotrect
+Dead
+Iive insect
+packaging
+Levell
+Needs review
+Missing distributor Information
+LevelE
+Minoi
+SSuG ODSGiveo
+Functionality test failed
+Lcvci
+Minor issue observed
+0g0 0r warning label
+Level l
+Needs review
+Supervised by:
+Date:
+Missing

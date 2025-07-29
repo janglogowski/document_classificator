@@ -1,0 +1,59 @@
+Product Data Sheet
+Internal No: 2628290
+Product ID: BZ-66OF
+Date: 2024-10-15
+Model Uype
+Hydraulc Power Unit
+Design Pressure_
+210 bar
+Fluid Flow
+30 Lmin
+Voltage
+480
+60Hz
+Frame Materal
+Powder-coated Steel
+Protection Class
+Ip67
+Qil Type
+HLP 46
+Noise Level
+Filtration
+10 pm return;
+Total Weight
+250 kg
+suction
+Control Valve
+Proportional 4/2
+Battery Capacity
+Component Materials Overview:
+Item
+Raw Material
+Specification
+Pressure Valve
+Brass CZ12
+10025
+Uncrm?
+FsO
+Ceramic Oxide
+certified
+Sink
+Aluminun 6061
+Jsled
+LED Light Strip
+ass-Filled
+Anticorrosive
+Wooden
+pallet
+Treated Pine
+certified
+Support Foot Stee
+Stainless Steel 304
+listed
+Nut M6
+Zinc-Plated Stee)
+2768
+Prepared by: Jan Kowalski
+Approved by: Anna Nowak
+25 um
+Hea

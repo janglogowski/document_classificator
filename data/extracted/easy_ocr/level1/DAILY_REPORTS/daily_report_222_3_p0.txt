@@ -1,0 +1,136 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-270
+Customer: BELGIUM
+Shift:
+(Evening)
+Date: 15-07-2025
+Machine
+Operation
+Technician
+From
+End Time
+Mime
+Remarks
+Status
+Spent
+MC-201
+Drilling
+Nadia Sauter
+08;15
+09.42
+Completed
+MC-203
+Cutting
+Mateusz
+11:15
+11345
+Delayed
+Jamzyna
+MC-206
+Welding
+Annx Nawak
+12.30
+13.55
+Recalibrated
+Delayed
+MC-201
+Polishing
+Przemystaw
+11:15
+11.54
+Delay
+Delayed
+Wasik
+MC-207
+Cutting
+Wiktor
+08.30
+10:17
+107
+NYA
+Completed
+Kopczynski
+MC-203
+Welding
+Agnieszka
+11.30
+12.12
+NYA
+In progress
+Zielinska
+MC-207
+Drilling
+Piatr
+3.15
+13.57
+Recalibrated
+Completed
+Lewandowski
+MC-205
+Cutting
+Nadia Sauter
+13 0
+14.18
+Delay
+plopiess
+MC-203
+Welding
+Piotr
+O.00
+11.33
+NYA
+Delayed
+Lewandowski
+MC-206
+Polishing
+Agnieszka
+08.00
+09.19
+Completed
+Zielinska
+Item ID
+planned
+Actual
+Qty
+Scrap Qty
+Scrap
+Rework
+Notes
+Output_
+Count
+BZ-G60F
+174
+148
+14.9496
+Scrap
+contirmed
+NE-2454
+140
+138
+14305
+Rewark
+needed
+TR-?00B
+144
+133
+7.6496
+Scrap
+confirmed
+TL-90OX
+163
+3206
+Rework
+needed
+XK-61OU
+114
+14.9106
+Scrap
+confirmed
+TL-90OX
+106
+100
+5.6696
+Scrap
+confirmed
+Approved by:
+Prepared by:

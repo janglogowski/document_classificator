@@ -1,0 +1,43 @@
+Inspection Record
+The following table outlines inspection criteria and classification levels. Confimm that sampling levels comply
+with customer agreements_
+Check that inspection steps follow the approved
+Drocequre
+This closure
+summary indicales compliance with inspection criteria
+Entries include both visual and functional inspection
+items_ All checklist entries are timestamped for traceability: Please review each checklist point and mark the
+sampling results
+Product ID
+MS-GOQP
+Customer ID
+Item Descrption
+Clamp
+120mm
+Review Points
+Check
+Defect Class
+Remarks
+Intensity
+Product Requirements
+MA
+Hold
+Sharp edges on plastic
+Componenis
+Missing distributor infomation
+Not assembled as per drawing
+Color mismatch
+Leve
+Critical impact
+Shipping mark
+illegible
+missing
+Baltery not_included
+Leve
+Minor Issue observed
+Functionality test failed
+Level
+Critical impact
+Supervised by:
+Date:
+RIg

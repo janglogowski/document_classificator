@@ -1,0 +1,79 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Steel
+5.00
+60.00
+Imported
+Sheet A36
+Grease
+pCS
+1.90
+81.70
+High grade
+Tube
+250m1
+Plastic
+pcs
+0.20
+6.00
+Imported
+Rivets
+Sensor
+pCS
+0.95
+2.85
+ISO-
+Clip
+verfed
+Clamp
+pCS
+1.75
+68.25
+Imported
+Ring
+120mm
+Ceramic
+2.10
+52.50
+8Omm
+Hex Bolts
+pCS
+0.25
+9.00
+ROHS
+M12
+compliant
+Aluminum
+pCs
+4.50
+135.00
+Switch
+Bracket
+tested OK
+Ceramic
+pCS
+2.10
+6.30
+SKF brand
+Disc 80mm
+This final review confirms that all items are ready for requisition_
+All listed components have been
+verified for availability and compliance:
+Customer ID: SWEDEN
+Coordinator: Laura Rossi
+Date:
+2025-05-09
+Product ID: BZ-660F
+Intema
+No:: 9817305
+Order Qty: 238
+Total
+Amount:
+421.60
+Disc

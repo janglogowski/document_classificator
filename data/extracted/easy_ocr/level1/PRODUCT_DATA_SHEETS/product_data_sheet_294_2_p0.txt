@@ -1,0 +1,70 @@
+Unit Data Specification
+Ensure all referenced standards are up
+dute
+Entries include both mechanical and
+lectrical specifications The
+parametcc
+register below includes operating
+and ratings. Belov are the technical
+parameters and construction
+materials farthe unit- This repart extract
+prenared
+for design-verification audits.
+Product ID:
+LK-890B
+Renart
+8873078
+Prepared bv: Laura Rassi
+Anproved bY: Laura Rossi
+Date: 2025-02-28
+Configuration Type
+Hudraulic Powe
+Unit
+Design Pressure
+300 Dar
+Fluid
+48 L{min
+Operating Voltage
+G0 Hz
+Service Interva
+1000
+Motor
+Dimensions (LxWxHI
+1000
+650
+1000 mm
+Cooling
+Air-cooled oil radiator
+Reservoir
+Capacity
+160
+Battery Capacity
+Data sheet has been peer-reviewed by the engineering team This summary reflects the latest revision of the product
+qata
+Overall configuration
+within defined design and safety margins: All specifications meet
+design
+requirements and industry standards;
+any Missinp parameters
+urgent specification updates;
+summar
+comments have been recorded in the revision log
+Ensure
+losean terme
+match the engineering nomenclature
+Material of Construction:
+Part
+Lamposition
+Ring NBR GOmum
+Nitrile Rubber INBR 
+Digital Display Unit
+ABS
+lastic
+Hinge Set
+Stainiess Steei *04
+Wmts
+No;:
+Flov
+powier
+ane
+Flag =

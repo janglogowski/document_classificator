@@ -1,0 +1,91 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descnption
+Copper
+0.60
+24.00
+Hinge
+Wire 3mm
+alignment
+adjusted
+Spacer
+pcs
+0.15
+5.70
+Imported
+2mm
+Battery
+pCs
+25.00
+550.00
+High grade
+Pack
+Power
+pcs
+48.00
+Eco
+Switch
+compliant
+Insulation
+pcs
+3.20
+124.80
+SO-
+Foam Pad
+verified
+Spacer
+pcs
+0.15
+6.75
+Switch
+Zmm
+tested OK
+Heat
+2.70
+75.60
+Certified
+Resistant
+batch
+Sleeve
+Bearing
+pCs
+1.50
+40.50
+Certified
+6202Z2
+batch
+Contro
+pcs
+12.00
+84.00
+grade
+Panel
+Mount
+Heat
+2.70
+121.50
+Li-Ion
+Resistant
+battery
+Sleeve
+installed
+Verify that all remark items meet the sourcing department's standards. This final review confirms
+that all items are ready for requisition
+AlI sourcing notes have been logged for audit purposes_
+Customer_ID: POLAND
+Coordinator: Anna Nowak
+Date: 2023-11-04
+Product ID: ZR-ZOSR
+Internal
+No:
+3662523
+Order Qty: 192
+Tota
+Amount:
+080.85
+High

@@ -1,0 +1,71 @@
+Tolerance Check
+Inspocior
+Laur Rosg
+Ungpeclion Daly
+2025 05-10
+Article No;
+Pw-s15y
+AL-|150
+OP-oGOF
+NU-440Z
+Ms-BOop
+OP-860F
+Componont
+Plasile
+Hex Bolls
+Shalt soomm
+Shalt somin
+Hux Volis
+Plasilc
+Rivals
+Mi2
+Miz
+Rucl
+Mlolnunemant
+Holo
+Hole
+Dapth
+Uneg
+Longin
+Halghe
+Dlamotor
+Kntaui
+14.67
+85,84
+48.97
+6,03
+76,/0
+B01
+Actual
+85 88
+39,0O
+76,84
+DiM
+#0,03
+4004
+Paesifa
+PaSS
+PASS
+PASS
+PASS
+PASS
+PASS
+any components requlring re-machlnlng or adjustment: Thls assussment rallects the Iatost metrology
+resulls_
+Rocord any mneasurament anomallas for fallow-Up analysis-
+AIl dlmonsions wilhin toleranca have
+been marked as OK;
+Irustrumont Calibration Log;:
+Instn umcnt
+Serial No:
+Last Callbration Dato
+CMM
+94287
+2025-01-20
+Caliper
+95336
+2025-01-26
+Caliper
+93265
+2024-12.16
+Flog

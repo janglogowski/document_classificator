@@ -1,0 +1,57 @@
+Unit Configuration
+Document No
+PR-701
+Product ID: VR-940T
+Dale: 2025-05-19
+Model Type
+Cooling Circulation
+Rated Pressure
+210 bar
+System
+Flow Rate
+75 Umin
+Supply Voltage
+480
+60 Hz
+Total Weight
+250 kg
+Control Valve
+Directional 4/3
+Type
+Gear
+Battory Capacity
+Framo Matorial
+Powder coated Steel
+Mounting
+Wall-mounted
+Oil Type
+HLP 46
+Component Materials Overview:
+Part
+Raw Material
+Specification
+Set
+Stainloss Steo
+304
+IP67 rated
+Fuse 54
+Ceramic Oxide
+Electrical grade
+Cooling Gel Pack
+Silicone Rubber
+Heat-resistant
+Support Foot Steel
+Stainless Steel 304
+CE certified
+Cable Te Pack
+Nitrile Rubber (NBR)
+IP6Z rated
+Insulated Tube 25mm
+Thermoplastic Polyurethane
+Anticorrosive
+(TPU)
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt
+Pump
+Pump
+Hinge

@@ -1,0 +1,68 @@
+Quality Inspection List
+Comments
+Inspection Checklist
+Sample
+Severity
+Points
+Tier
+Critical
+Major
+Minor
+OnHold
+Item Specs
+Connector not working
+Critical ipact
+Screws
+GO5E
+missing
+Carton
+damaged
+Needs review
+Level
+markings incorrect
+Critical impact
+Wrong product Size
+Incorrect orientalion
+Critical impact
+Minor issue
+Missing
+warning
+Level
+Observed
+label
+Needs review
+Hinges loose
+Level
+Minor issue
+Rubber Switch not
+Level III
+observed
+Workino
+Shipping mark is illegible
+Level |
+Dr missing
+Wood splinter or snarp
+Level Il
+Critical impact
+product
+Exposed nail with sharp
+Level III
+Needs review
+point
+Missing distributor
+Level II
+Informalion
+LOose
+Inside
+Critical impact
+Level Il
+packaging
+Reference Standards:
+Edition
+Suandaro
+2015
+RoHs
+Ain Ed
+UL 61010
+pont
+ponts

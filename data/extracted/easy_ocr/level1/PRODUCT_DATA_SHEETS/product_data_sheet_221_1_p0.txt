@@ -1,0 +1,95 @@
+Unit Configuration
+Praiect:
+BZ-G60F
+Unerna
+7041553
+Prepared Bv:
+Ljura Koss
+Approved By:
+Carlos Garcia
+Location; Plant 34
+Date; 2025-06-22
+This section detalls the configuration and
+parameter set forthe product: Refer t0 thls configuration summary for unit
+designation mapping_
+Below are the technica
+daramelen
+and construction materials far the unit- Check that all
+materia
+snecs
+align with supplier certitications, This technica
+oveniev
+supparts the praduct-release checklist.
+Confirm that perforiance ranges comply with project requlrements
+Configuration Iype
+Hydraulic Powe
+Unit
+Opcratine
+Pressurc
+Juu dar
+Fluid Flow
+48 Llmin
+Supply Voltage
+60 Hz
+Filtration
+um inline, 10 um return
+Battery Capacity
+10 Ah
+cantro
+Waive
+Manual Ovemde 3/2
+service Interval
+12 months
+euP
+72 dB(
+Total Weight
+250kS
+Dimensions (LxWxHA
+1000
+650
+1000 mm
+Pump
+Type
+Vane Pump
+Protectian
+Cias5
+Reservoir Capacity
+160D
+Cooline
+Water cooled
+Lxchanecr
+Oil Lype
+HLP 46
+Mounting
+Ua-mountec
+Charging Time
+Material
+Stainless
+Working Temp. Range
+10 Cto 50*C
+MaterIal of Construction:
+suocomponent
+Base
+Glass-Filled Nylon
+Pressur
+Valve
+CZ1Z1
+Sheet 436
+Carban Steel 436
+Graphite
+Graphite
+LED Light Strip
+Glass-
+Filled Nylon
+Cable Tie Pack (100)
+Nitrile Rubber INBR 
+Battery Pack
+Lithium-Ion Cell Pack
+Dipia
+Display Unit
+ABS Plastic
+Noise
+Fram €
+Stec
+Frame
+Arass

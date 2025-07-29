@@ -1,0 +1,94 @@
+Dimensional
+Inspection performed by Carlos Garcia on 2024-01-31.
+Product Ref
+Component
+Measurement
+Target
+Obsenved
+Delta
+Status (VKL
+ZR-205R
+Rubber
+Woth
+98.50
+98,55
++0.05
+PASS
+Gasket 80mm
+FT-730X
+Graphite Pad
+Inner
+18.88
+18.78
+0.10
+PASS
+Diameter
+LP-SSSV
+0-Ring NBR
+Wicth
+10.67
+10.60
+007
+PASS
+60mm
+ON-T705
+Shaft 50omm
+Height
+8.59
+8.55
+@O_
+PASS
+MC-54OX
+Rubber
+Length
+97.64
+97.64
++0.00
+PaSS
+Gasket B0mm
+GH7701
+Batter Pack
+Height
+21-29
+21-36
+Llor
+PASS
+MX-AS0L
+Woocen
+Depth
+7.05
++0.09
+PASS
+Pallet
+RM-8son
+Batteny Pack
+nner
+59,45
+59.52
++0,07
+PaSS
+Diameter
+VR-940T
+Wooden
+Height
+45.47
+45.41
+0.06
+PASS
+Pallet
+TR-2003
+BattenPack
+Hole
+36.33
+36-14
+0419
+PASS
+RE-8s0c
+0-Ring NBR
+Length
+45.73
+45.88
+40.15
+PASS
+Fomm
+Log

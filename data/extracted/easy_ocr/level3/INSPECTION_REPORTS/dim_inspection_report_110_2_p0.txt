@@ -1,0 +1,73 @@
+Measurement
+Sheet
+Superisor
+Laura Rossi
+Insdecion
+Date
+2024-09-04
+Product Rel
+RW 515Y
+RE-850C
+RX-3102
+RM-BGON
+WD-lB0S
+Component
+Bearing 6202
+Plasvc
+Graphite Pad
+Shaft 50Omm
+WD-1805
+Rivets
+Steel Sheel
+Plastic
+Dim;
+Length
+Hole
+435
+Rivets
+Thickness
+Depih
+Hole
+Diameter
+Harget
+7476
+17.51
+19.41
+12.04
+56,78
+98.37
+Actya
+74.94
+17.47
+19.38
+12 13
+56.74
+Diff
++0418
+~0.10
+0,.03
++0,09
+98,.48
+Pass Fail
+0,04
++0ii
+Overall inspection summary indicates acceptable quality leveis_
+Piease address any NOK ilems before
+proceeding t0 the next praductian stage
+Review failed items against the corrective-action ,
+verify measuremlent dala with CAD nominal values;
+register. Cross-
+Instrument Calibration
+Instrument
+Serial No;
+Lasi
+Caliper
+Calibration Date
+34614
+2024 1021
+Mictometer
+81957
+2025-04-01
+Summary;
+Inner
+Log:

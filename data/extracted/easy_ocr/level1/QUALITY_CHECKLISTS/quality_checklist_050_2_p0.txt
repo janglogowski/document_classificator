@@ -1,0 +1,81 @@
+Conformance Log
+Use this list to confirm adherence
+AQL and safety standards. Ensure allnon-conforming marks are clearly
+dacumanieo
+Entries Include
+batii visual and furctianal
+Inspection iterns. This summary supparts the
+Droducrion-Teiea5e
+quality gate. The following table outlines inspection criteria and classification levels
+Confirm that sampling levels comply with customer agreements
+All checklist entries are timestamped for
+traceability This section details quality requirements and test points forthe batch:
+Product ID
+MC-54OX
+Customer ID
+BRAZIL
+Item Description
+Hinge Set
+Audit Criteria
+Inspection
+Defect
+Comments
+Depth
+Design Specs
+Critical
+Naior
+Minor
+OnHold
+Missingdistributor
+Level|
+information
+Dustidebris inside
+Minor issue
+Level II
+packaging
+onsened
+Minor issue
+Battery not included
+Level II
+oosenved
+Shipping mark
+illegible
+Needs reviev"
+missing
+Dead or live insect in
+Criticalimpact
+packaging
+Rubber Switch not
+Level III
+working
+Missing logo
+wamning
+[abee
+Incorrectanentatan
+Leveli
+Missing salety labels
+Leveli
+Screws
+Dose
+missing
+Level
+Packaging
+docs not
+LevelIlI
+Critical imipact
+mAtEA
+signed sample
+Rudburtexiute
+Level II
+Llossiness mnismatch
+Waod splinter or sharp
+Leveli
+Needs reviev"
+proquct
+Nat assembled as per
+Level /
+drawine
+Supervised by:
+Date:
+Clats
+poing

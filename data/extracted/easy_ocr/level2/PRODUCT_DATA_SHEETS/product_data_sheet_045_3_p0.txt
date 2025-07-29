@@ -1,0 +1,50 @@
+Unit Configuration
+Roport No
+PR 402
+Precluck ID: PL-001z
+Dato; 22026.01.20
+Modal Typo
+Coollrg Crculodlon
+Rnted Probauig
+250 6u
+Syalom
+Fuld Fow
+40 |u
+Vollugo
+210 V isuil
+Fotnl Wolght
+180 KJ
+Charglng Tmo
+Mountlng
+Wall unuunled
+Pump Typa
+dutr Pump
+Protacilon Cldde
+1pus
+Framna Mntarial
+Numum Frama
+Dlmionelong (LxWxH)
+1000
+060
+100o mimm
+Moldu Luvol
+04 dIU(a)
+Componon
+Mntonula Ovorviuw:
+Subcompohont
+Ruw Malurlni
+Spocllicuilon
+Halaty
+ack
+Luhulm Ion Coll Pack
+IP6/ 4ulud
+FujosA
+Conula Oxidlo
+ISO
+7768
+Poxon Swlich
+Polycmbonalu
+Coppor
+Elactrlenl grado
+Proparod by: Anna Nowak
+Approvad by: Laura Roual

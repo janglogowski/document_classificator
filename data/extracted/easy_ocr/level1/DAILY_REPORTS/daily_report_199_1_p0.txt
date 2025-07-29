@@ -1,0 +1,110 @@
+Shift Summary
+KepoNo.
+PR-537
+Customer'
+NORET
+Supervisor:
+Carlos Garcia
+Department:
+Maintenance
+Dale
+06-202
+Shift:
+(Night)
+Machine ID
+Operation
+Operator
+Start Time
+Finish
+Total
+Comments_
+Guranon
+MC 201
+Assembly
+Piotr
+10.00
+10.56
+NA
+Lewandowski
+MC 204
+Drilling
+Magdalena
+08.15
+09.14
+Witkowska
+MC-201
+Drilling
+Bartosz
+07.00
+08.27
+NYA
+Wawizyniak
+MC-2B
+Polishing
+Wiktor
+13.30
+14.14
+Kopczynski
+MC-202
+Asscmbly
+Wiktor
+09.00
+09.57
+Kopezynski
+MC-204
+Cutting
+Piotr
+13.00
+14-58
+118
+NIA
+Levandawski
+MC-207
+Drilling
+Nadia Sauter
+Iae 
+14-74
+NA
+MC-209
+Welding
+Nadia Sauler
+13.00
+14.12
+MC-201
+Welding
+Wiktor
+09:15
+09.54
+Delay
+Kopczyriski
+MC-202
+Drilling
+Bartosz
+13.30
+14.21
+N/A
+Wawizyniak
+Product ID
+Target Qty
+Achieved Qty
+Defect Qty
+Failure
+Remarks
+PL 6012
+188
+10.1190
+Scrap
+confirmed
+Kv-390K
+202
+202
+0.0096
+Rework needed
+TY-350G
+6896
+Prepared by;
+Anne
+Nowak
+Anprovedpy:
+Laura Rossi
+Delay

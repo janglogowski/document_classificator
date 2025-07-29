@@ -1,0 +1,126 @@
+Shift Summary
+Report No :
+PR-470
+Custcmer:
+FINLAND
+Supervisor:
+Anna Nowak
+Department:
+Packaging
+Date:
+01-10-2023
+Shift:
+(Ngnt)
+Machine
+Operation
+Technician
+Start
+Total
+Uwagi
+duration
+MC-205
+Polishing
+Agnieszka
+14.00
+15.50
+110
+Delay
+Ziclinska
+MC-201
+Drilling
+Nadia Sauter
+08.30
+09.09
+Recalibrated
+MC-206
+Welding
+Przemystaw
+09.15
+09.35
+Wasik
+MC-206
+Welding
+Magdalena
+07.30
+08.51
+Recalibrated
+Witkowska
+MC-207
+Welding
+Nadia Sauter
+14.15
+15-28
+Delay
+MC-205
+Drilling
+Dawid
+14.15
+15.35
+Delay
+Oszmlanczuk
+MC-202
+Polishing
+Agnieszka
+10.15
+11.41
+NA
+Zielinska
+MC-201
+Welding
+Jan Kowalski
+09.15
+09-53
+MC-201
+Assembly
+Dawid
+13.15
+13.44
+NA
+Oszmianczuk
+MC-206
+Polishing
+Agnieszka
+06.00
+07.48
+108
+Delay
+Zielinska
+MC-205
+Welding
+Przemyslaw
+09.00
+10.45
+105
+Delay
+Wasik
+MC-207
+Drilling
+Matcusz
+11.30
+12.27
+Jarzma
+Item ID
+Planned Qty
+Produced Qty
+Defect Qty
+Failure %
+Remarks
+MC-540X
+218
+188
+13.76%
+Scrap
+confirmed
+CE-905L
+163
+14.11%0
+RM-86ON
+193
+14.22%0
+Scrap
+confirmed
+Prepared by:
+Carlos Garcia
+ApprovedDa
+Peter Schnidt
+Time

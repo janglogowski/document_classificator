@@ -1,0 +1,69 @@
+Tolerance Check
+Tochniclan
+Laura Rossi
+Inspociion
+Dale
+2024-04-03
+This roport presents the dimensional measurements and Inspeclion results. Rovlew recorded (olerances
+against englneering specilicallons
+Please reviow Ihe Inspection results for each component Ilstod bolow.
+Itom Codo
+XD T1OR
+NU 4402
+RX-3IOZ
+KP-320E
+CE-90sL
+Componont
+0-Ring NBR
+Graphiito Pad
+Hox Bolts M12
+Woodan Pallot
+Graphlte Pad
+BOmm
+Tinicanexy
+Hole
+Hoight
+Incknoge
+Helghi
+Target
+14,26
+97.30
+89 96
+92 4
+1284
+Actuni
+14,.26
+944
+89.,78
+Y4
+12.79
+DiIt
+UCC
+40i4
+40,04
+CuuS
+pnxsifum
+PASS
+Pass
+PASS
+PASS
+PASS
+Reviow (alled Ilems against Ihe corrective-action reglster; This closure memo confirms Ihat dlmensional
+checks are coniplele:
+ensure sialus
+are updated
+Ihe quality management system: Thls assessment
+rallecis he lalest
+motrology resulls.
+Instrumont Calibrallon Log:
+Instrumont
+Serlal No:
+Last Callbration Date
+Laser Scannor
+55543
+2025-05-28
+Lasem
+Scannor
+85218
+2025-05-03
+0lags 

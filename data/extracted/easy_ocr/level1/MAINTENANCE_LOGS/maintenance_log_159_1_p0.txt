@@ -1,0 +1,94 @@
+Machine
+Equipment
+Type
+Operator
+Duration
+Notes
+MC-295
+Conveyor Belt
+Ccect€
+Anna Nowak
+Pan iC
+Sensc
+Iibaled
+MC-267
+Conveyor Beli
+Ccrrective
+Laura Rosei
+Plant 2B
+Alignment
+hinges
+agjusted
+MC-201
+Assembly
+Preventive
+Jan Kowalski
+Piant IC
+Switch
+Robot
+contacts
+Cieanen
+MC-210
+Hvdraulic
+Inspeclicm
+Anna Nowak
+Piant 2B
+Relilled
+Ptess
+(HLP 461.
+MC-202
+Lathe
+Ccrrective
+Laura Rossi
+Plant 34
+Switch
+contact
+cleaned
+MC 275
+Laser Culier
+Inspectom
+Carlos Garcia
+Plant 34
+Changed oll
+and Mters -
+MC-238
+Cumer
+Inspection
+Jan Kovalski
+Plant 2B
+Replaced
+5AL
+MC-226
+Conveyor Belt
+Inspectici
+Jan Kowalski
+Piant 34
+No Issues
+Touno
+MC-241
+Conveyor Bell
+Inspeclici
+Laura Russ
+Piant -
+Changud
+and Ilers
+Service summares nave
+been Torvarde d
+engineetinc
+eam
+Confirm that all coreclive aclions
+Warp
+propeny
+closed
+cut_ This log summary
+supports the assct-management dashboard Check rema ning lfe-cycles
+ke} componcnis from
+this repont,
+Luoncancn
+Checked
+Calloralion Verlled
+Fmerdency Stor
+Testen
+Sigred oll: _
+Perlormied by:
+Last

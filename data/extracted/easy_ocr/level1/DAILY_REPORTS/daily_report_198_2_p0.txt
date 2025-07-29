@@ -1,0 +1,103 @@
+keuan No :
+PR 926
+Customer
+NORWAY
+Supervisor:
+Peter Schmict
+Department:
+Waintenance
+Snife:
+(Morning_
+28-08-2024
+All throughput figures are recorded for capacity planning: This
+report summarizes the daily operations and output for
+the productian line
+Use this Overview
+assess throughput and
+efficiency levels. The follawing data captures
+production targets;
+actuj
+output
+and any deviations
+Machine
+Task
+Operator
+Start
+Tota
+Temperature
+Power
+Time
+MC-205
+Welding
+Anna Nowak
+12.15
+13.25
+Delay
+73.4
+1.36
+MC-207
+Cutting
+Anna Nowak
+13 00
+14.39
+78.2
+1.,05
+MC-205
+Polishing
+Premistal
+10.15
+11.20
+NZA
+75.5
+2.,31
+Wasik
+MC-207
+Cutting
+Mateusz
+08-00
+08.30
+60.2
+2.19
+Jarzynz
+MC-201
+Assemniy
+Anna Nowak
+07.00
+08.14
+56.9
+1.14
+MC-208
+Assembly
+Piatr
+12.15
+13.04
+Recalibrated
+58.5
+1.67
+Lewandowski
+MC-207
+Assemniy
+Bartosz
+14.15
+15.35
+NJA
+61.1
+2.26
+Wawrzyniak
+MC-207
+Assembly
+Wiktor
+14-30
+15.09
+64.3
+2,36
+Kopczyiski
+Prepared by:
+Jan Rawaiski
+Approved by:
+Lara
+Rossi
+Uwae'
+Time
+Time
+Drjw

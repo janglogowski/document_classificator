@@ -1,0 +1,67 @@
+Inspection Record
+#8676106
+Date: 17.07.2025
+Product ID
+RE-850C
+Customer ID
+FRANCE
+Item Description
+Heat Resistant
+leyvG
+Archive this Uistin the quality-manageinent systemn: Ims closure sUrMATY Indicales comiplancewilh inspection
+criteria, This checklist captures quality inspection points and
+sampling levels ,
+Use this extract to coordinate
+sign-off with the QA manager. Entries include both visual and functional inspection items. Check tat
+inspection steps follaw tne approved procedure.
+Audit Criteria
+Inspection
+Defect '
+Remarks
+Depth
+Item =
+Critical
+Major
+Hinor
+onhold
+Screv
+Dose
+Missing
+Level
+Critical impact
+Not assembled
+Minor issue
+drawn
+Doserved
+Instructon manuals
+missing
+damaged
+Color mismatch
+Exposed nail with
+Level /
+Critical impact
+@oint
+Shipping mark
+illegible
+Level III
+Needs review
+ar missing
+Packaging
+ddes
+JDLMatcn
+Level /
+signed sample
+Minor issue
+Rubber Switch nat warking
+Level II
+onserved
+AQL Level
+Critical
+Default
+Customcr
+specific
+Class
+Specs
+sharp
+Malon
+Hinot

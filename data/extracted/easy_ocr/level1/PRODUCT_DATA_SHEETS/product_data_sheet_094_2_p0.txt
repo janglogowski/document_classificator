@@ -1,0 +1,79 @@
+Product Overview
+Refer
+this configuration summary for unit-designation mapping
+Please review the specifications and materia
+composition listed below. This section dctails the configuration and paramete
+set for the product: Confirm that
+performance ranges comply with project requirements_
+Check that;
+material specs align with
+certifications_
+Ensure
+referenced standards are upto date;
+Product ID
+GL-9805
+interna
+No;;
+PR-423
+Preparec
+bv; Anna Nowak
+Approved bY: Laura Rossi
+Date: 2023-09-21
+Model Type
+Cooling Circulation
+Operating Pressure
+300 bar
+System
+Flow Rate
+48 L{min
+Supply Voltage
+480V / 60Hz
+Mlotor power
+11kW
+Frame Material
+Powder-coated Steel
+Filtration_
+10 um
+FecurD
+Contro
+Valve
+Directiona
+Charging _
+Mime
+This summary reflects the latest revision ofthe product data:
+Document control
+numbers are included far traceability-
+Ensure glossary terms match the engineering nomenclature
+Refer to parameter table for operating ranges and
+Folerjnces
+This closure note indicates the data sheet
+ready for
+ease. Material choices and process data have
+been verified for compliance
+Material -
+Construction:
+Subcomponent
+Composition
+Gaske
+Nitrile Rubber INBR
+Hinge Set
+Stainless Steel 304
+Sneet/36
+Carban Steel 436
+LED Light Strip
+Glass-
+Filled Nylon
+0-Ring NBR 6Omm
+Nitrile Rubber INBR
+Cable Tie Pack (100)
+Nitrile Rubber INBR)
+Connector 2P
+9ias5
+Muon
+Graphite Pad
+Graphite Pad
+Bearing 6202 7
+Stainless Steel 304
+supalier
+inline
+Sheet

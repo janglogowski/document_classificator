@@ -1,0 +1,99 @@
+COMPONENT BREAKDOWN
+allowances. Allline-item costs are current 3e
+materials tally for compliance with budget
+rates. This section outlines the
+Review the
+the latest inventory and supplier -
+per vendor quotes_ All entries reflect -
+summary lists every item
+with per-
+total amounts for assembly- This
+parts, unit prices and
+unit pricing details.
+Rate
+Amount
+Remarks
+UOM
+Item
+Qty
+ISO-veritied
+Description
+0.25
+13.25
+Hex Bolts
+pcs
+M12
+42.75
+High
+pcs
+0.95
+Cable Tie
+Pack (JOQ)
+0.35
+14.00
+For export
+pcs
+Stainless
+Bolt MB
+35.10
+grade
+2.70
+Heat
+Resistant
+Sleeve
+11.90
+For expor
+pcs
+0.35
+Stainless
+Bolt MB
+7.30
+pcs
+compliant
+Epoxy
+Resin Kit
+1.80
+21.60
+Imported
+Protective
+Sleeve
+s0mm
+8.00
+48.00
+Imported
+Shaft
+s0omm
+0.55
+16.50
+Urgent
+pcs
+Rubber
+Stopper
+0.25
+2.50
+ISO-verified
+Hex Bolts
+pcs
+M12
+400
+ISO-verified
+pCS
+0.50
+Rubber
+Gasket
+Bomm
+Nowak
+Date: 2023-10-08
+Coordinator Anna
+180
+Customer ID: BELGIUM
+Interna
+253678
+Order QtY:
+Product ID: MX-AS0L
+487.00
+Total Amount:
+required
+Brade
+Hioh
+277.40

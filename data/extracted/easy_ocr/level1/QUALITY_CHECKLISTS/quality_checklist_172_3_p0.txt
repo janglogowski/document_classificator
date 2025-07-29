@@ -1,0 +1,33 @@
+Conformance Report
+Quality Check Items
+Check
+Defect Class
+Comments
+Intensity
+Design Specs
+Hold
+Paint smearing or scratches
+Level/
+Needs review
+Functionalily test falled
+Level
+Minor Issue observed
+Connector not working
+Level IL
+Missing
+Inoels
+Critical impact
+Wood splinter
+snarp point
+Level II
+on praducl
+Colormismatcn
+Minor issue observed
+Reference Standards:
+Standard
+Edition
+RoHs
+2015
+UL 61010
+4th Ed.
+Isalely

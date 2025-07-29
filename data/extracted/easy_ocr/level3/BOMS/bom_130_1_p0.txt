@@ -1,0 +1,96 @@
+COMPONENT BREAKDOWN
+ID: FRANCE
+Coordinator: Carlos Garcia
+Date: 2024-08-27
+Customer
+Intema
+No : 7342229
+Order Ot: 491
+Product ID;ON-TZOH
+the latest inventory and supplier rates: This extract shows the bill of components
+All entries reflect -
+Review the materials tally for compliance with budget allowances:
+and tota
+projected spend
+material specifications before procurement:
+Please review the itemized Iist f parts
+Consumption
+Extra
+aty
+UoM
+Rate
+Amount
+Remarks
+No
+Item
+Description
+0%,
+pCS
+2.10
+6.30
+Imported
+Ceramic
+2.67
+Disc 80mm
+1.80
+18.00
+SKF
+Protective:
+1,98
+29/
+brand
+Sleeve
+50mm
+0.60
+4.80
+SKF
+Copper
+3.46
+brand
+Wire 3mm
+12.00
+4u8,00
+Switch
+Conirol
+3.11
+29/
+PcS
+tested
+Panel
+OK
+Mount
+0%/
+pCS
+0.15
+3.15.
+Imported
+Spacer
+2.23
+2mm
+0%
+pcs
+0.55
+6.60
+Eco
+Rubber
+3 44
+complant
+Stopper
+0%/
+pcs
+1,20
+15,60
+High
+Power
+1.78
+grade
+Switeh
+confirms that all items are ready for requisition: Verify that all remark items meet
+This final review
+the sourcing department' s standards
+462.45
+Tota
+Amount:
+Approved By:
+Sourcing Department:
+and

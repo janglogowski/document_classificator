@@ -1,0 +1,31 @@
+Customer ID: FRANCE
+Prepared by: Anna Nowak
+Product ID: MC-54OX
+Internal No:: 8665213
+The parts manifest here is designed to support procurerent workflows. All entries reflect the latest
+inventory and suppller rates
+Please revlew the itemized list of parts and material specifications
+before procurement: This extract shows the bill of corponents and total projected spend,
+Description
+Clamp Ring 120mm
+Heat Resistant Sleeve
+Shaft S0Omm
+Qty
+595
+912
+284
+UOM
+pCS
+Unit Price
+1.75
+2.70
+Amount
+1,041.25
+2,462.40
+272.00
+Remarks
+SKF brand
+For axpom
+SKF brand
+TOTAL: 5,775.65
+Jtem

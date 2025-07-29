@@ -1,0 +1,67 @@
+Component Overview
+90oX
+Project:
+Document No
+PR-923
+Prepared BX:
+Anna Nowak
+Approved By:
+Carlos Garcia
+Location; Plant 2B
+Date: 2024-06-15
+Refer to this configuration summary for
+unit-designation mapping: Use this spec sheet -
+validate assembly
+instructions This data shect provides key specilicalions and material details. This report extract
+prepared
+for design-verificalion audits
+Configuration Lype
+Hxdraulic Powver Unit
+Operating Pressure
+250 bar
+Flow Rate
+75 Umin
+Voltage
+230
+50Hz
+Service Interval
+1000
+Motor Power
+kW
+Filtration
+Umi inline
+10 Mmi
+Charging Time
+retum
+Working TempRange
+5"C to 45"C
+Protection Class
+IPS4
+Dimensions (LxWxh)
+1200
+z00x 1100mm
+Frame Material
+Stainless Steel Frame
+Mounting
+Wall-mounted
+Total
+Welght
+230 k9
+HLP 46
+Reservoir Capacity
+Battery Capacity
+Material of Construction:
+Composition
+Part
+Nut M6
+Plated Stee
+Fuse bA
+Ceramic Oxide
+Rubber Gasket
+Nitrile Rubber
+Heal Sink ALU
+Klminum
+6061-T
+Type
+Zinc-
+8omn

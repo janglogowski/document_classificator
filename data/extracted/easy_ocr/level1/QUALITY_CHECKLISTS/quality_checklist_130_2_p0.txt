@@ -1,0 +1,59 @@
+Audit Trail
+AlI checklist entries are iimestamped for traceability. This closure summary indicates compliance with
+inspection criteria
+Bolow are the items
+be verified during the final product review Archive this list in the
+quality-management system:
+Product ID
+-9805
+Customer ID
+GREECE
+Item Descrption
+Aluminum Bracket
+Quality Check Items
+Inspection
+Severity
+Remarks
+Depth
+Component Criteria
+Wood splinter or sharp point
+Level III
+Minor issue observed
+onproduct
+Uncortec
+orientation
+pox
+Level III
+Connector_not working
+Hinges loose
+Levei
+Minor issue observed
+Visual delect on housing
+LevE
+Cutical
+IMACl
+Dead
+live insect
+Level III
+Needs review
+packaging
+Missing safety labels
+Levei
+Minor issue observed
+Exposed nail with sharp point
+Leve
+Minor issue observed
+Rubber
+TcXtCC
+glossiness
+Level =
+Needs review
+mismalch
+Missing dstrbuor_niomation
+Level
+Dustidebris inside packagng
+Level
+Neeas rever
+Supervised by:
+Date:
+GL

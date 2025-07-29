@@ -1,0 +1,69 @@
+Product Data Sheet
+Use this
+confirm engineering
+requirements and tolerances The following information outlines
+penormance
+characteristics and design data. Use this spec shect
+validate assembly instructions Rcfer !
+this configuration
+summarytor
+unit-designation mapping; This report extract
+prepared for design-verification audits;
+Product ID
+GL-9805
+Document No:
+6216312
+Prepared bv: Carlos Garcia
+Approved bY: Peter Schmidt
+Date: 2024-12-26
+Mlade
+Type
+preumalic
+Contra Unit
+Rated
+Pressure
+210 par
+Throughput
+60 L{min
+Supply Voltage
+S0HZ
+Control Valve
+Proportiona
+Material
+Powder-coated
+Noise Leve
+70 dBIAI
+Reservair Capacitv
+160
+Battery Capacity
+10 Ah
+All summary comments have been recorded
+the revision log. This summary reflects the latest revision of the
+product data. Confirm that alltest conditions
+Jr@ accuratelv
+epresented_
+Ensure glossary tefms match the
+engineering nomenclature_
+Archive this summary for future design-change management; All specifications meet the
+design requirements and industry standards
+Material of Construction:
+Subcpmpanent
+Raw Material
+Therra
+FuSk
+Imnic Oride
+Battery Pack
+Lithium-Ion Cel
+Pack
+Stainless Steel 304
+Nitrile Rubber INBR;
+Wooden Pal
+Treated Pine Waod
+Gasket Sheet 44
+Nitrile Rubber INBR 
+shect-
+Frame
+Stcei
+Linee
+RinR
+6onim

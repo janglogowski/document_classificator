@@ -1,0 +1,44 @@
+NORWAY
+Prepared by: Anna Nowak
+Customer ID:
+Internal No : 2659931
+Product ID: VF-220D
+to plan raw-material purchasing: Review the materials tally for
+Refer to tnis
+register
+this schedule of parts to align with sourcing and stock
+compliance with budget allowances: Use
+This extract shows the bill of components and total projected spend: The component
+levels.
+roster below includes unit costs and batch codes_
+Strip
+Stainless Bolt
+Heat Resistant
+Plastic Rivets
+Item
+LED
+M8
+Sleeve
+Description
+409
+915
+Qty
+383
+800
+UOM
+pCS
+Unit Price
+2.50
+183.00
+Amount
+957.50
+280,00
+1104.30
+Remarks
+Certified batch
+Certified batch
+SO-vertied
+Imported
+TOTAL: 2,524.80
+pans
+Light

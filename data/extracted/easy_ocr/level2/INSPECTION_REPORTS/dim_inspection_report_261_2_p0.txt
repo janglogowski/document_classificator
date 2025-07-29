@@ -1,0 +1,79 @@
+Supervisor
+Jan Kowalski
+Inspection Date
+2023-08-25
+Ensure measurement methods allign wilh calibralion standards
+AlI measured values are tiestamped for
+audit purposes. Refer to the dimensional log for all component size readings: This report presents the
+dimensional measurements and inspection rosults
+Item Codc
+MC 540X
+FT73X
+XD ZIOR
+MS GOOP
+MX 450L
+PL-601Z
+CN-150C
+Component
+Pover
+Plaslic
+Hinge Sel
+Graphite
+Ballery
+Graphile
+O-Ring
+Switch
+Pad
+Pack
+Pad
+NBR
+60mm
+Measurement
+Lengi
+Length
+Tnickness
+Unicanese
+Unner
+Thickness
+Width
+Diameter
+Nomiqa
+67.84
+52,62
+78,69
+1L00
+70.59
+4cmal
+68.02
+52.68
+10.83
+Diff
+4,06
+Hm
+Pass/Fail
+This assessment reflects tho Iatest metrology results-
+any components
+requiring re-machining Or
+adjustrnert; This closure iemo confimis Inal dimensional checks are comiplele. Ensure all measuring tools
+were propery calibrated.
+Instrument Calibration
+Instrument
+Serial No:
+Last Callbratlon Date_
+Caliper
+28358
+2024-10-05
+Scanner
+63610
+2024-09-18
+Lase
+Scanne
+53049
+2025-01-10
+Calper
+66162
+2025-05-26
+Rivets
+Fiag
+Log:
+Laset

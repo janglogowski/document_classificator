@@ -1,0 +1,71 @@
+Maintenance Checklist Report
+2024-11-28
+Use this summary
+Torerzst darts
+edacementand
+esqurreceed:
+Check that all downtime
+ents are properiy
+categorized and
+Iopae
+The follo "irg entries deta
+DicmeAndiccnrecncenrerarem MAa
+This section captures & quiprrient status arid any
+maintenance odsenvations
+Spare Parts Used:
+Fart Name
+Fart No
+aty Used
+aucduie
+Paial
+Qil Flte
+1R5A
+Li-Ion Batter Pac C
+04630
+L-on Batten Pack
+0-5260
+Maching
+[quioment
+Operitor
+Duration
+Previdu _
+Not
+Senice
+MC-222
+Aembly
+Preventive
+Peter
+2025-05-20
+Sen00
+Robo
+Scnmiat
+Tczlibrated
+MC-207
+Palat Bcoth
+Inspecuion
+Peter
+2025-02-11
+Sensor
+Scimict
+Mihrated
+MC-292
+Laser Cutter
+Lorrecuive
+Peter
+2024-03-27
+Cnanced oii
+Scnmict
+and Filters
+ML-265
+Latne
+Preveative
+JanKowalske
+2024-0X-UZ
+rlenment
+adjusted
+Appovcd
+JnkawaIkaki
+Serviced Dy:
+Jankowalsk
+sno
+hnie

@@ -1,0 +1,52 @@
+Inspector
+Annz
+Mowak
+pection Date
+2024-09-06
+Revieu
+recorded tolerances against
+engineenne
+specifications. Entries include both pass{fail markers and deviation
+magnitudes. Ensure measurement methods align with calibration standards. All measured values are timestamped for
+audit purposes Use this examination summary
+confirm component conformity: The inspection register below
+highlights any out-of-tolerance parts;
+Item Code
+JD-700W
+GH-770]
+MX-SuL
+MS-60OP
+Pant Name
+Steel Sheet A36
+Hex Bolts M12
+Woooen Palet
+Graphite Pad
+Wdtn
+Widtn
+Tnickness
+Hole
+arzet
+76.07
+51.vC
+Actuz
+75.93
+83.89
+39-07
+51.18
+Deltz
++0.2
+Pass Fail
+Ensure status flags are updated in the quality management system; Cross-verify measurement data with CAD nominal
+values This closure memo contirms that dimensiona
+checks are complete
+Unslrumcnl
+Callbration Log-
+Instrument
+Serial Noj
+Calibration Date
+Laser Scannei
+92325
+2024-07-23
+Laser Scannet
+23983
+2025-02-18

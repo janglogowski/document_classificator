@@ -1,0 +1,79 @@
+Unit Data Specification
+Proj
+WD-1805
+Document No_:
+2158421
+Prepared
+Kowalski
+Approved By:
+Ana Nowak
+Location: Plant 1C
+Date: 2024-06-05
+Confirm that performance ranges comply wilh project requirements_
+Refer t0 this configuration summary for
+unit-designation mapping: The parameter register below includes operating limits and
+This section
+aetalls the configuration and parameter set for the product:  Entries include bolh mechanical and electrical
+specitications
+Unit Uxpe
+Hydraulic Power Unt
+Operating Pressure
+180 bar
+Fluid Flow
+48 Lmin
+Supply Voltage
+480
+60 Hz
+Cooling
+Water-cooled
+Motor Power
+7.5 kw
+exchanger
+Filtration
+10 Um return, 25 pin
+Oil Type
+HLP 32
+suction
+Frame
+Materia
+Stainless Steel Frane
+Protection Class
+Ps5
+Working Temp Range
+10"C
+55"C
+Battery Capacity
+10 An
+Pump Type
+Piston Pump
+Dimensions (LxWxH)
+1000
+650 x 100 m
+Mounting
+Rack frarne
+Charging Time
+Noise Level
+Service Interva
+12 months
+Total Weight
+Control Valve_
+Directional 43
+Material 0i Construction:
+Item
+Raw Materia
+Pressure Valve
+Brass CZ
+Batter Pack
+Lithium-lon Cell Pack
+Wooden Pallet
+Treated Pine
+Fuse 5A
+Ceramic Oxide
+Power Switch
+Polycarbonate
+Cooling Gel Pack
+Balyone Rnbteer Copper
+Rubber Gasket 80mm
+Nitrile Rubber (NBRE
+ratings:
+Wood

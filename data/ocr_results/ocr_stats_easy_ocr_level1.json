@@ -1,0 +1,33 @@
+{
+  "global": {
+    "engine": "easy_ocr",
+    "level": "level1",
+    "total_files": 1808,
+    "total_time_sec": 8760.687,
+    "avg_time_ms_per_file": 4844.0
+  },
+  "documents": {
+    "engine": "easy_ocr",
+    "level": "level1",
+    "folder": "C:\\Users\\janek\\Desktop\\TESTY\\data/extracted/easy_ocr/level1",
+    "total_files": 1808,
+    "min_words": 3,
+    "1st_percentile": 47,
+    "median_words": 141,
+    "mean_words": 143.9308628318584,
+    "99th_percentile": 248,
+    "max_words": 294
+  },
+  "drawings": {
+    "engine": "easy_ocr",
+    "level": "level1",
+    "folder": "C:\\Users\\janek\\Desktop\\TESTY\\data/extracted/easy_ocr/technical_drawings",
+    "total_files": 600,
+    "min_words": 1,
+    "1st_percentile": 1,
+    "median_words": 71,
+    "mean_words": 80.95833333333333,
+    "99th_percentile": 262,
+    "max_words": 411
+  }
+}

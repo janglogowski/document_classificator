@@ -1,0 +1,70 @@
+#9651962
+Inspection Checklist
+Date: 17.07.2025
+Product ID
+CE-905L
+Customer ID
+FRANCE
+Item Descrption
+Plastic Cover 150x150
+All checklist entries are timestamped for traceability Below are the Items
+be verified during the final
+product review: Use this extract t0
+coordinate sign-off with the QA manager. Archive this Iist E
+the quality-
+management systern: This closure summary indicates compliance with inspection criteria. Entries include _
+both visual and functional
+inspection items. Use this list to confirm adherence
+AQL and safety standards_
+Ensure all non-conforming marks
+clearly documented
+The following table outlines inspection criteria and
+classification levels:
+ease review each checklist point and mark the sampling results
+Quality Check Items
+Sample
+Category
+Remarks
+Tier
+Design Specs
+Incorrect quantity Or
+Level Il
+Minor issue observed
+assonmeni
+Leve
+Needs
+Color mismalch
+Dead
+Iive insect mn
+Level
+Needs review
+Packaging
+Shipping mark is illegible
+Level Il
+mnissing
+Critical impact
+Paint smearing
+scralches
+Rubber
+glossiness
+Level II
+Critical impact
+mismatch
+AQL Level
+Crtical
+Major
+Minor
+Default
+Customer specific
+Use tnis closure
+eport l0 update the quality KPI dashboard Confirm that all sampling results are within
+acceptable limits. This final note confirms the checklist
+complete and approved_
+This summary supports
+the end-of-line quality certification All summary comments have been validated by the QA team
+Refer to
+notes for any observed defects
+deviations
+are t
+evie N
+texture

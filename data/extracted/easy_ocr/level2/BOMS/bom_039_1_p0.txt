@@ -1,0 +1,69 @@
+BOM Report
+Customer ID: BELGIUM
+Coordinator: Carlos Garcia
+Dato: 2024-04-03
+Product ID: DX-
+Internal No_
+8476
+Order Qty: 269
+Refer to this parts register tO plan raw-rnaterial purchasing: This section oullines the parts, unit
+prices and total amounts for assembly Review the materials tally for compllance wlth budget
+allowances_
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Grease
+216
+57.00
+Hinge
+Tube 250ml
+alignment
+adjusted
+Spring
+1020
+0.05
+Switch
+Washer
+tested OK
+M1o
+Shatt
+8.00
+256.00
+Li-lon
+soOmm
+battery
+installed
+Bearing
+3.19
+1.50
+10.50
+6202 ZZ
+3.15
+096
+pcs
+0.30
+9.30
+Urgent
+Cable Tie
+0.94
+206
+pcs
+0.95
+13.30
+SKF
+Pack (100}
+brand
+Totat
+Amount:
+346.95
+Approved By:
+Sourcing Department:
+pcs
+DC'
+Fuse

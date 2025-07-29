@@ -1,0 +1,121 @@
+Shift Summary
+keporio :
+PR-832
+Customer
+SWVEDEN
+Supervisor:
+Anna Nowak
+Department:
+Quality Cantrol
+Dalu
+05-08-2023
+Shift:
+(Night)
+Machine
+Task
+Worker
+Begin
+Total
+Comments
+duration
+MC-203
+Polishing
+Piotr
+12.15
+12.49
+Lewanddwski
+MC-205
+Welding
+Jan Kowalski
+08.30
+08;52
+Recalcrate 0
+MC-206
+Polishing
+Przemystaw
+13.00
+13;30
+Delay
+Wasik
+MC-204
+Welding
+Piotr
+09.15
+09.41
+4ecalcrate d
+Lewandowski
+MC-207
+Polishing
+Knnz
+Nowak
+10:15
+NA
+MC-201
+Assembly
+Nadia Sauter
+13.15
+73757
+MC-206
+Cutting
+Dawid
+13.30
+14.17
+Oszmianczuk
+MC-206
+Drilling
+Wiktor
+12.30
+13.59
+NIA
+Kopczyrski
+MC-209
+Assembly
+Piotr
+11.00
+13.00
+120
+Lewandowski
+MC-201
+Polishing
+Wiktor
+13.15
+14.40
+Recalibrated
+Kopczynski
+Item ID
+Target
+Actual Qty
+Rejected Qty
+Rejection'
+Remarks
+QP-660F
+103
+102
+0.9796
+scran
+contrmed
+MX-450L
+239
+220
+9590,
+Scrap
+confrmed
+MS-6OOP
+264
+8.7190
+Rework neened
+HF-390A
+135
+129
+4.4430
+confirmed
+MX-450L
+220
+6.8230
+Scrap
+conmnmed
+Prepared by;_
+Anna Nowak
+Approved bY:
+Jan Kowalski
+Sctep

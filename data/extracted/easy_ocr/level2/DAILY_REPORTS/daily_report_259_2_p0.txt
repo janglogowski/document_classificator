@@ -1,0 +1,143 @@
+Production
+Report No
+Customer
+PR-267
+Supervisor
+Department;
+Carlos Garcia
+Shlft:
+Assemol
+(Moming)
+Below
+an ovcrview
+07-07-2024
+drive continuous
+machine
+performance and output figures for today s =
+improvement actions; The following data'
+shift: Use this shift summary to
+deviations
+This extract shows daily yield,
+anptures production targets, actual oulpul, and
+scrap rales
+and rework occurrences
+Machin
+Process
+Operator
+Start
+Duratio
+Comments
+MC-20g
+Assembl
+Wiktor
+(min)
+Temperatur
+10.0
+10.2
+Kopczynski
+NA
+MC-205
+Assembl
+Nadia Sauter
+09.0
+1.21
+10.1
+MC-207
+Welding
+Piotr
+75.0
+1.32
+06.1
+07.1
+Lewandowsk
+57.9
+2.23
+MC-203
+Polishing
+Wiktor
+10.1
+10,.3
+Delay
+MC-206
+Welding
+Kopczynski
+67 4
+2,58
+Piotr
+06.3
+07.0
+Lewandowsk
+Recalibrate
+56.0
+2.97
+MC-205
+Przemystaw
+13.0
+13.3
+MC-206
+Wasik
+73.6
+2.93
+Dawid
+07,3
+09.1
+Oszmiariczu
+NA
+57.6
+1,69
+MC-205
+Piotr
+06,3
+07.0
+Lewandowsk
+79.4
+1.04
+MC-209
+Welding
+Piotr
+11.0
+11.3
+Lewandowsk
+73.4
+1.52
+MC-203
+Assombi
+Agnieszka
+06.1
+07*4
+MC-207
+Zieliniska_
+Delay
+66.4
+1.46
+Dawid
+11.3
+13,0
+Oszmianczu
+63.6
+1.86
+Mc-203
+Polishing
+Wiktor
+09,3
+Kopczynski_
+11;0
+59.8
+2.13
+Prepared by:_
+Approved by
+Peler Schmiat
+Rossi
+Log
+TURKEL
+ony
+Tme
+Energ
+Used
+Delay
+Cutting
+Delay
+Polishing
+Polishing
+Polishing
+Lauta

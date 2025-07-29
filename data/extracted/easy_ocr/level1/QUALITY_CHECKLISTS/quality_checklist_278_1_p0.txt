@@ -1,0 +1,60 @@
+Inspection Summary
+#1076065
+Date: 17.07.2025
+Product ID
+MX 450L
+Customer ID
+TURKEY
+Item Description
+Cable_ Tie Pack (100)
+Use Ihis llist
+confirm adherence
+AQL and safety standards_
+The following table outlines inspection
+criteria and classification levels. All checklist entries are timestamped for traceability. Check that inspection
+steps follow Ihe approved procedure; Ensure all non-conforming marks are clearly documented_
+Archive (his
+Iist in the quality-management system . This summary supports Ihe production-release quality gate. Refer to
+the quality register for sampling-plan references:
+Audit Criteria
+Sampling
+Severity
+Remarks
+Leve
+Design Specs
+Hold
+Visual delecL
+housing
+Leven
+Minor ussue observed
+Exposed na
+point
+Leve
+Critical impact
+Wrong product size
+Sctews
+Dose
+missing
+Leve
+Rubber texture.
+glossiness
+Level /
+Minor issue observed
+mismaich
+Packaging does not match
+signed sample
+Sharp edges on plastic
+Level /
+Critical impact
+components
+AQL Level
+Critical
+Minor
+Default
+Customer
+pecific
+Checklist results have been reported
+quality manager. All summary comments have been validated by
+the QA team: Items marked for hold require additional review before release. Archive this summary
+audil-readiness folder:
+shar

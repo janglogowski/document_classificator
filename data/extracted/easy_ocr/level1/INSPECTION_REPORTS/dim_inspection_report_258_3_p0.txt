@@ -1,0 +1,108 @@
+Dimensional
+Inspection performed by Jan Kowalski on 2024-05-13.
+The following data captures key dimensions ad any deviatians identified . Use this examination summahy to
+confirm component conformity. Please review the inspection results for each corponent listed below. The
+inspection register below highlights any out-of-tolerance parts;
+Environmental
+Conditions: Temperature: 20.5
+C, Humidity: 46 %
+Item Code
+Part Name
+Measurement
+Nomina
+Actuae
+Delta
+Status (VIX)
+TX-B2Ov
+Ring NBR
+Length
+35.33
+35,46
++0.13
+OK
+60mm
+MR-160H
+Rubber
+Hole
+49,78
+49.78
++0.0u
+Gasket
+Rumm
+XD-TIOR
+Woouen
+Length
+66.07
+66,08
++0.01
+Pallet
+Xk-61OU
+Wcoden
+Inner
+40.81
+40.,82
++0.01
+Pallel
+Dlameter
+QN-TZOH
+Rubber
+Hole
+67.69
+67.78
++0.09
+Ok
+Gasket
+80mm
+RE-B5OC
+Plastic
+Deptn
+68.27
+68.08
+0.19
+Rivets
+SL-430M
+Rubber
+Width
+22.30
+22.44
++0.14
+Gasket
+80mm
+NE-245A
+Steel Sheet
+Inner
+91.02
+91.04
++0,02
+Ok
+A36
+Diameter
+NE-245A
+Plastic
+Length
+91.86
+92.01
++0.15
+Rivets
+TL-9OOX
+Power
+Lengtn
+11.27
+-0,09
+Switch
+VF-2Z0D
+Baltery
+Width
+26.49
+26.32
+0.17
+Pack
+TL-90OX
+Set
+Depth
+83.99
+84.09
++0.40
+Ok
+Log
+Hingo

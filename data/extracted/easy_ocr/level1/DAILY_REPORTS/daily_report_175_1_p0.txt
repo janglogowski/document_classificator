@@ -1,0 +1,89 @@
+Shift Summary
+Redar ND;:
+PR-465
+Cuslamer-
+FINLAND
+gudenvisoi
+Carlos Garcia
+pepartment'
+Packaging
+13-01-2024
+Shift:
+MEveninz
+Machine
+Process
+Worker
+From
+enmTime
+Total
+Uwagi
+duration
+MC-208
+Polishing
+Wiktor
+06-00
+08.00
+Recalibrated
+Kopczynski
+MC-208
+Assembly
+wiktor
+11-15
+12.30
+Kopczyrski
+MC-205
+Assembly
+pmemysiav
+13-00
+14.11
+Delay
+Wasik
+MC-204
+Welding
+Bartosz
+11330
+13,07
+Delay
+Wawrzyniak
+MC-208
+Cutting
+Agnieszka
+13.30
+14.15
+Zielinska
+MC-208
+Assembly
+Nadia Sauter
+07.15
+09,08
+Recalibrated
+MC-201
+Aesembiv
+Piatr
+09-00
+09.49
+NIA
+Lewandovski
+Item
+planned
+Qty
+Achieved Qty
+Detect
+Qty
+Rejection
+Notes
+IL-gooX
+5-8870
+Rewor needed
+PW-S15Y
+4 275
+Rewol needed
+VF-220D
+837
+Rlwonk neeued
+Prepared by:
+Laakoss
+Approved pl:
+Detem
+Schmict
+Date

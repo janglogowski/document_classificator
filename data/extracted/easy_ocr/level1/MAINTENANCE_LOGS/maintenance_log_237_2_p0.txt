@@ -1,0 +1,97 @@
+Machine Log Summary
+2024-07-14
+All technicia
+Cnmmen& AFB
+Bcorded for maintenance treng analusie
+This eervic
+summa
+supports the reliability
+eneine fmng
+eview, This section captures
+equpment sta1u3 and any maintenance Obsenvalions
+Ensure all gatety check;
+Wvere completed durinegericinp
+Ihe iollowing entries deta
+preventive Bnd corrective maintenance IAaka
+Spilnu Purs Uscu;
+Part Namo
+Part No
+Qty Used
+Senso
+Module
+0.7844
+Hvdmaulic Ho
+7537
+Li-on Battery Pack
+P-9910
+Machine
+Equipment
+Type
+perator
+Dolnnme
+Last Cneck
+Notes
+MC ?21
+Plasma
+Pievenime
+Lala
+Rosgi
+2024-01-07
+No Issues
+Cutter
+Tound
+MC-259
+Fudraulic
+preventive
+Carios
+2025-04-27
+No Is3ue3
+Press
+Garcia
+found
+MC-270
+Packaging
+Corrective
+Peter
+2024-04-05
+Callbiation
+Ling
+Schmidi
+Cncc
+MC-ZJB
+PbiniBooin
+Freventie
+Anna
+2023-U9-08
+Replaceo
+Novak
+cootani
+MC-Z22
+CNC Milling
+Freventive
+Laur2
+Kossi
+Z024-US-04
+Nichint
+MC-291
+Kssembly
+Inspection
+2023-12-27
+Sbnson
+Runal
+Kocrkki
+recillibtatud
+MC-ZJU
+CNC Milling
+Correctie
+Anna
+2024-10-24
+Wooden
+Nachine
+Nawak
+paller
+Chackeo
+Signed ott:
+Jan Kowaiski
+Punlormud
+Caros Gurcii

@@ -1,0 +1,89 @@
+COMPONENT BREAKDOWN
+Customer ID: GREECE
+Coordinator: Carlos Garcia
+Date: 2023-05-02
+Product ID: AL-115Q
+Internal No.
+8334887
+Order Qty: 481
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+0.36
+0.20
+5.20
+Imported
+Rivets
+Grease
+2.74
+1.90
+91.20
+Tube
+2s0ml
+Battery
+3.47
+25.00
+700.00
+High
+Pack
+grade
+Plastic
+0,35
+1.10
+16.50
+Li-Ion
+Cover
+battery
+15OxlSO
+installed
+Packaging
+2.67
+10%6
+1.00
+19.00
+Urgent
+Box
+Rubber
+0,93
+10%
+0.55
+1,10
+Stopper
+verified
+Gasket
+1.46
+1.25
+10.00
+Sheet 44
+verified
+Digital
+0.31
+10%
+15.00
+285.00
+SKF brand
+Display
+Unit
+Rubber
+1.62
+10%
+0.50
+4.00
+Gasket
+alignment
+80rnn
+adjusted
+This closure summary validates that all parts are approved for release
+Total Amount:
+1,132.00
+Approved By:_
+Sourcing Department:
+Pcs
+Hinge

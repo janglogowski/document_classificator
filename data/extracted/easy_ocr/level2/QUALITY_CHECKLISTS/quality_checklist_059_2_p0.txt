@@ -1,0 +1,75 @@
+Inspection Sheet
+Confirm that sampling
+comply with customer agreements
+Archive
+list in the quality-management
+systein. This checklis- capiures quality inspaction polnts urid
+sampling levels. Below are the Iternis t0 be verifiad
+during the final productreview Use this extractto coordinate sign-off with the QA manager.
+Product ID
+Gh-7708
+Customer ID
+POLAND
+Itetn Desc;lption
+Plastic Rivets
+pectlon Checklist Polnts
+Inspaction
+Catogary
+Remarks
+Depth
+Itemn Specs
+Exposed
+wlh sharp point
+Minor
+Iee
+observed
+Paint amearingor scratches
+Needareview
+Shipping =
+ilegible
+Criticel impact
+Missing
+Missing Iogo
+werning abel
+LevA
+Wond splinter
+Gnri
+Level II
+Minor issue ooseried
+Oroouct
+Dustdebris inside packaping
+Lavei
+Critical impact
+Rubber Switch not working
+Level II
+Needs reviey
+Not agsembledas pe
+drawing
+Mino
+USSdt
+opsero
+Rubbertexture
+glossiness
+Critical impact
+mismatcn
+Wrong product size
+Level i
+Battery not included
+Level
+Sharp edges
+plastic
+Lovell
+Criticalimpact
+comiponens
+Screw s
+l0ose
+Missina
+Levet
+Mincr issue observed
+Supervised by:
+Date:
+lcvels
+thi3 _
+Lavel
+Tnatk
+No nt

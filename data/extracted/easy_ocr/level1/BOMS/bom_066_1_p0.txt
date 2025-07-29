@@ -1,0 +1,99 @@
+COMPONENT BREAKDOWN
+Customer ID: FRANCE
+Coordinator: Laura Rossi
+Date:
+2024-08-04
+Product ID:
+450L
+Interna
+No.
+3865648
+Order Qly: 82
+Use this breakdown to verify sourcing and cost estimates
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+1.38
+10%
+DCS
+0.25
+9.00
+Li-Ion
+M12
+battery
+installed
+Copper
+2.42
+0.60
+10.80
+Hinge
+Wire 3mm
+alignment
+adjusted
+Spring
+3.31
+0%
+pCS
+0.05
+0.30
+ISO-
+Washer
+verified
+M1o
+Plastic
+2.44
+0%0
+pCS
+0.20
+6.60
+Rivets
+Plastic
+1.62
+DCS
+1.10
+3.30
+Eco
+Cover
+compliant
+150x150
+Battery
+1.84
+10%
+pCS
+25.00
+700.00
+SKF
+Pack
+brand
+Aluminum
+0.37
+10%
+pCS
+4.50
+117.00
+Li-Ion
+Bracket
+battery
+installed
+Aluminum
+1.35
+pcs
+4.50
+76.50
+High
+Bracket
+This closure summary validates that all parts are approved for release.
+Total
+Amount:
+923.50
+Approved By:
+Sourcing Department:
+grade

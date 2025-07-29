@@ -1,0 +1,69 @@
+Inspection Summary
+Audit Criteria
+Sample
+Severity
+Obsenationg
+Tier
+Product Requirements
+Critical
+Major
+OnHold
+Packaging
+duus nal maleh
+Level |
+Critical impact
+signed sample
+mismatch
+Level II
+Functionality test (ailed
+Level
+Rubber Switch not workinp
+LaveI
+Needs [euieu
+Missing logo
+waming
+Level /
+Needs reviewv
+Label
+Package
+not sealed
+Level III
+Minor issue observed
+comdletek
+Sharp edges on plastic
+Minar Issue observed
+components
+Paint smearing
+Critical impact
+scratches
+Wrong product size
+Critical impact
+Not asscmbled a5 pCI
+Level Il
+Minor Issue observed
+drawing
+Missing safety labels
+Minor Issue observed
+Shipping mark E
+illegible
+Needs review
+missing
+Dead
+live insect in
+Level /
+Critical impact
+packagng
+Uncorrecldncntation
+Critical impact
+Screws loose Or missing
+Level Il
+Minor issue observed
+Reference Standards:
+Standard
+Edition
+CE Directive
+2020
+UL 61010
+3rd Ed;
+Minor
+Color

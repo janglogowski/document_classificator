@@ -1,0 +1,78 @@
+BOM Report
+AIl line-item costs are current as per vendor quotes
+Refer to this parts register to plan raw-material
+purchasing: This extract shows the bill of components and total projected spend
+The following table
+summarizes the materials and quantities needed for the current project: Please review the iternized
+list of parts and material specifications before procurement: All entries reflect the latest inventory
+and supplier rates_
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Packaging
+J00
+39.00
+For export
+Box (
+Fuse SA
+alignment
+adjusted
+Power
+46.80
+Urgent
+Switch
+Hex Bolts
+Li-lon
+M12
+battery
+installed
+Epoxy
+pcs
+306.60
+Switch
+Resin Kit
+tested OK
+Set
+pcs
+2.50
+117.50
+Certified
+batch
+Grease
+pCS
+89.30
+Switch
+250ml
+tested OK
+Protective
+81.00
+Urgent
+Sleeve
+50mm
+Rubber
+pCS
+13.50
+Urgent
+Gasket
+80mm
+Customer ID: FRANCE
+Coordinator: Laura Rossi
+Date: 2024-03-16
+Proguct
+D: ZR-2OSR
+Internal No::
+593768
+Order Qty: 449
+Total Amount:
+705.40
+pCS
+Hinge
+pcs
+pCs
+pcs
+Hinge
+Tube

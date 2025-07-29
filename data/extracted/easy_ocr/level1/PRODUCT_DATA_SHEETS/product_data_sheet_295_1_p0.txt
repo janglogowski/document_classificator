@@ -1,0 +1,54 @@
+Project:
+ONJOH
+Document No:
+3524411
+Prepared By:
+Anna Nowak
+Approved By:
+Anna Nowak
+Location: Plant 3A
+Date: 2025-03-03
+Unit Type
+Pneumatic Control Unit
+Rated Prossure
+180 bar
+Fluid Flow
+60 Umin
+Supply Voltage
+400
+50 Hz
+Working Temp Range
+5FC to 45'C
+Total Weight
+250kg
+Battery Capacity
+10 Ah
+Charging Time
+Noise Level
+70 dB(A)
+Cooling
+Water-cooled
+exchanger
+Pump Type
+Piston Pump
+Reservoir Capacity
+Motor Power
+5.5kWV
+Filtration
+um inline, 10 pm
+retum
+Dimensions (LxWxH)
+1200
+700 11OQ mm
+Protection Class
+P54
+Frame Material
+Stainless Steel Frane
+Service Interval
+12 months
+Mounting
+Rack (rame
+Control Valve
+Directional 4/3
+Qil Type
+HLP 32

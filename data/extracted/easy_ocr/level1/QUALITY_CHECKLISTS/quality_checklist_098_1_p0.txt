@@ -1,0 +1,65 @@
+Quality Review
+#3177761
+Date: 17.07.2025
+Product
+MC-S4OX
+Customer
+CANADA
+Item Description
+Cooling Gel Pack
+This summary supports the production-release
+quamty
+Cneck that inspection steps tollow the annroved
+procedure: Entries Include both visual and functional Inspection Items. Please revlew each checklist point and mark
+the sampling
+results This checklist captures quality inspection points and sampling levels; The following tabi
+putlines
+inspection criteria and classification levels; Ensure all non-conforming marks are
+learly documented
+Audit Criteria
+Check
+Severity
+Remarks
+Intensity
+proclct
+Requlrements
+warning label
+Leve
+Rubber Siitch nat warking
+Needs Teviev
+Missing
+distributo
+intarmatiom
+Leve
+Hinges
+DDSE
+Leve
+Needs(eviev
+Instructon mnanu:
+IMISSIng
+Level |
+Needs review
+damaged
+Battery not included
+Exposed
+with sharp
+Leve
+Critical impact
+AQL Level
+Critical
+Major
+Mor
+Default
+Customer specific
+Inspection summary is filed for regulatory compliance
+AIl summan;
+comments
+have been validated by the QA team
+any open issues In the CAPA
+tracking systern: Confirm that all sampling results are within acceptable limits: Use
+this clasure report
+update the quality KPI dashboard.
+Eare
+Missing
+pOrnt
+Flag =

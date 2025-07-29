@@ -1,0 +1,50 @@
+Inspection Record
+This checklist captures quality inspection points and sampling levels. Entries include both visual and
+functional inspection items
+This section details quality requirements and test points for the batch AlI
+checklist entries are timestamped for traceability. This summary supports the production-release quallty
+gate: Ensure all
+non-conforming marks are clearly documented.
+Please review each checklist point and
+mark the sampling results_
+Check that inspection steps follow the approved procedure.
+Product ID
+CN-150C
+Customer ID
+GREECE
+Iten Descrption
+Fuse 54
+Quality Check Items
+Sampling
+Severity
+Comments
+Level
+Product Requirements
+Dead or live insect
+Level
+Critical impact
+packaging
+Color mismatch
+LCVC
+Minor issue observed
+Rubber Switch not wokking
+LevA
+Minor issue
+doservec
+Wood splinter or sharp point on
+Level
+product
+Screws
+oose Or mssing
+Leve
+Needs review
+Package
+not sealed
+Needs review
+completely
+Packaging does not match
+Level IlI
+Critical impact
+signed sample
+Supervised by:
+Date:

@@ -1,0 +1,122 @@
+DAILY PRODUCTION REPORT
+KeporNo-
+PR-579
+Customer
+FRANCE
+Supervisor:
+Carlos Garcia
+Department:
+Mhintenance
+Shift:
+Evening
+12-2023
+Use this shift summary
+drive continuous
+improvementactions
+Use this overviewv
+ass652
+throughput and
+efliciency levels
+This report sumimiarizes the dally operations
+and output (or the production lire.
+Ensure any
+downtime incidents are noted far fallow-UP
+Machine
+Operation
+Operator
+Finish
+Remarks
+Thermal
+Energy
+Spent
+Reading
+(kWh)
+MC-208
+Drilling
+Kowais 
+12.30
+13.10
+105
+MC-206
+Polishing
+Dawid
+07:15
+08.46
+70.6
+Oszmiarczuk
+MC-201
+Polishing
+Jan Kowalski
+08;30
+09.38
+72.6
+MC-201
+Drilling
+Dawid
+12.30
+14.30
+120
+Recalibrated
+77.7
+2.00
+Oszmianczuk
+MC-205
+Welding
+Dawid
+07;30
+09.10
+100
+NIA
+65,0
+2.63
+@szmianczmk
+MC-203
+Welding
+Dawid
+08.30
+10.20
+110
+65.6
+1.97
+Oszmianczuk
+MC-204
+Polishing_
+Nadia Sauter
+732F
+MC-?05
+Cutting
+Anna Nowak
+13-57
+2.90
+MC-201
+Cutting
+Anna
+NDWAK
+14.30
+16.25
+MC-206
+Drilling
+AEMIESZKH
+07.30
+08-24
+NJA
+77.1
+240
+Zielinska
+MC-207
+Welding
+Bartosz
+14.00
+15.29
+75.8
+2.84
+Wawrzyniak
+Prepared
+nna
+Nowak
+Approved by:
+Carlos Garcia
+From
+Time
+Dcluy
+Delay

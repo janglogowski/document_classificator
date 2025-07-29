@@ -1,0 +1,129 @@
+DAILY PRODUCTION REPORT
+Report No;:
+Customer: GREECE
+Shift:
+(Night)
+Date: 16-10-2023
+Machine
+Operation
+Operator
+From
+MC 206
+Remarks
+Asserbly
+Wiktor
+Spent
+07.00
+07,31
+MC-204
+Kopczynski
+Completed
+Assernbly
+Wiktor
+09.30
+10,37
+MC-207
+Kopczynski
+Recalibrated
+piopress
+Nadia
+MC-?04
+1215
+1337
+Piotr
+06.00
+07:48
+progress
+MC-208
+Lewandowski
+Recalibrated
+Completed
+Drilling
+Bartosz
+07.30
+Wawizyriak
+08.54
+MC-207
+leted
+Dawid
+07:15
+08.03
+MC-206
+Oszmianczuk
+Delay
+Campleted
+Assembly
+Agnieszka
+14,00
+Zielinska
+15.22
+N/A
+MC-208
+Complcted
+Dawid
+Oszmianczuk
+10;30
+11.59
+Recalibrated
+Completed
+Verify the final counts
+This clasure
+against inventary records
+Check materiae
+summary signals
+eadiness tor
+consurption against standard
+pending Issues
+the next production run; Ensure
+rates
+Corifirin that scrap percentages
+shift-handover notes include any
+between shifts
+maintain cons
+align with quality benchrnarks , Ensure
+istont output:
+outinc
+maintenarice
+Item ID
+Qty
+Produced
+Defect Qty
+SB-140D
+Qty
+Rejection:
+Reworked
+Remarks
+208
+180
+Units
+13.4600
+AX-3102
+118
+1.6996
+contirmed
+DX-777T
+261
+238
+confirmad
+8,815
+XK-61OU
+Rework
+needed
+3.7904
+Rework
+neaded
+Approved by: _
+Prepared by: _
+PR-154
+Time
+Stoge
+Cutting
+Soutcr
+Welding
+COmp
+Cutting
+Cutting
+Usore
+Planned
+Scrap
+Scrap

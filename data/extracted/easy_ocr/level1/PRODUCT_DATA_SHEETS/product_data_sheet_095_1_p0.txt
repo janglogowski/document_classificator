@@ -1,0 +1,105 @@
+Unit Data Specification
+Praiect:
+CE-905L
+Knernd
+PR-380
+Prepared Bv:
+Anna Nowak
+Approved By:
+Jeter Schmiot
+Location; Plant 34
+Date; 2024-02-14
+This section detalls the configuration and
+parameter set for the product: Use thls sheet =
+confirm engineering
+requlrements and tolerances. The follawing Information
+Dulnes
+performance characteristics and design data. This
+technical overview supports the product-
+lease checklist, Below
+the technica
+parameters and construction
+materlals for the unit: Ensure all referenced standards are Up
+date. The parameter register below Includes
+operating limits and ratings
+Mlade
+Type
+Pneumatic
+Contral Unit
+Design Pressure
+300 bar
+Throughput
+75 L{min
+Operating Voltage
+480
+60 Hz
+Cooling
+Water-cooled exchanger
+Pump Type
+Wane pump
+Cantrolvale
+Directiona
+Dimensions (LxWxH)
+1000* 650* 100Q_
+Working Temp:
+Kange
+-10"Cto 50"C
+Total Weicht
+230kg
+Battery Capacity
+10 Ah
+Mounting
+Rack frame
+Material
+Powder-coated
+Noise Leve
+68 dBIAI
+Mlotor
+Power
+Protection
+Ciass
+Charging
+me
+Oil Type
+XP 46
+Reservoir Capacity
+120 L
+Material of Construction:
+Part
+Base
+Povc
+Dltce
+Fdoeam
+Copper
+Hinge Set
+Stainless
+RubherGasket Summ
+Nitrile Rubber INBR)
+Capacitor 450
+Kiuminum
+6061-T6
+Light Strip
+Glass-Filled
+Myon
+Hex Bolts M1Z
+Zinc
+lated Stee
+bartci
+Pack
+Lithium Ion Cell Pack
+Support
+coot Stee
+Stainless Steel 304
+Bearing 6202
+Stainless Steel 304
+Wooden Pallet
+Treated Pine Wood
+Wiring
+Dom _m
+PVC (Rigid?
+NBR G0mm
+Nitrile Rubber INBRI
+Fram e
+Ster
+Po c
+~Ring

@@ -1,0 +1,52 @@
+Prepared by: Anna Nowak
+Customer ID: FRANCE
+Internal No:: 7838618
+Product ID: TX-820v
+No
+Aluminum
+Spacer
+Terminal
+Terminal
+Copper
+Spacer
+2mm
+Block 4P
+Item
+Wire 3Mm
+2mm
+Bracket
+323
+Description
+Block 
+373
+538
+809
+Oty
+289
+984
+PCS
+PcS
+EcS
+PCS
+PCS
+0415
+3.40
+UoM
+0-15
+Unit Price
+3.40
+0.60
+2,421.00
+121.35
+1,098.20
+982.,60
+590.40
+55,93
+Amount
+Eco
+Remark5
+ISO-
+compliant
+verfed
+TOTAL: 5,269.50
+lmpored

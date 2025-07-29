@@ -1,0 +1,74 @@
+Measurement Summary Sheet
+Inspector
+An Nowak
+Inspection Date
+2024 01-04
+This section delalls the measured values; tolerances, and status Ilags
+Entries include bolth passilall markers
+and deviation magnitudes_
+Use this results summary
+trigger any corrective actions_
+The inspection
+register below highlights any out-of-tolerance
+Check that all dimensions comply with ISO and
+coMdany
+standards,
+Product Ref
+Kv-39OK
+Pw-51SY
+TX-B20v
+GH-770J
+TR-2OOB
+SL- 430M
+Part Name
+Steel Sheet
+Wooden
+Battery Pack
+Waoden
+Hinge Set
+Hex Bolts
+A36
+Dallel
+palal
+M12
+Measurement
+Hale
+Height
+Thickness
+Inner
+Hole
+Width
+Diameter
+Target
+40-93
+27.84
+90.93
+20
+Observed
+46.93
+28 0Q
+90.80
+78,72
+DIff
+4000
+40.16
++0Os
++01e
+40Wu
+Pass Fall
+Overall inspection summary indicates acceptable quality levels .
+Refer t0 deviation column for any out-of-
+tolerance measurements: Inspection notes have been logged for traceability: Confirm that pass rates
+Meet
+the defined acceptance criteria
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+CMM
+99042
+2025-05-19
+CMM
+55834
+2024-10-19
+parts 

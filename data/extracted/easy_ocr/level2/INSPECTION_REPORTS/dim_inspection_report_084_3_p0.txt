@@ -1,0 +1,105 @@
+Component Dimensional Check
+Inspection performed by Anna Nowak on 2024-06-04.
+This report prasents the dimensional measurements and inspection results. Below are the recorded
+measuremonts compared against nominal tolerances Plaase review the inspection results for each
+corponent listed below. This dala extract is prepared for quallty-control sign-off: Review recorded
+tolerances against engineering specifications.
+Environmantal Conditions: Temperature:
+23.4
+C, Humidity: 38 %
+Item Code
+Component
+Measurement
+arget
+Actual
+Delta
+Status (Vix)
+GL-9805
+Steel Shaet
+Inner
+7,.51
++0,01
+436
+Dlameler
+Ty-350G
+Power
+Height
+86,19
+86.33
++0.14
+Switch
+RX-310Z
+Hinge Set
+Length
+93.06
+MS-6OQP
+Hex Bolts
+Height
+19,52
+19.43
+M12
+ON-770H
+Graphile
+Inter
+51,81
+51.80
+0,01
+Pad
+Diameier
+WD-180S
+Graphite
+Width
+98.97
+99.04
++0.07
+Pad
+AL-1150
+Bearing
+Lenglh
+68,83
+68.79
+0,01
+6202
+DX-777T
+Power
+Depth
+61,43
+61.40
+0.03
+Switch
+Kv-390K
+Plastic
+Thickness
+84.33
+84.42
++0.0g
+Rivets
+RM-86ON
+Sleel Sheel
+wvldth
+47.04
+46.94
+~0.10
+A36
+KP-320E
+Rubber
+Width
+98.89
+99.08
++0.19
+Gasket
+Bomm
+GH-770J
+Piaslic
+Vvidth
+77.52
+77.34
+0,18
+Rivets
+RX-310z
+Bearing
+Thickness
+22.67
+22,54
+40,17
+6202

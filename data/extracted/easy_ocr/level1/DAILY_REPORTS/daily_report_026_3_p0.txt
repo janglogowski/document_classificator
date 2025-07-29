@@ -1,0 +1,122 @@
+Shift Summary
+Report No:: PR-132
+Customer: GREECE
+Shift:
+(Night)
+Date: 01-08-2023
+Equipment
+Operation
+Operator
+From
+Finish
+Total
+Notes
+Condition
+duration
+MC-203
+Welding
+Maleusz
+10.30
+11,43
+Delayed
+Jarzyna
+MC-203
+Drilling
+Anna Nowak
+08.15
+09.46
+Completed
+MC-208
+Assembly
+Mateusz
+08.00
+09.01
+Completed
+Jarzyna
+MC-201
+Polishing
+Jan Kowalski
+09.00
+09.43
+Delay
+Completed
+MC-201
+Cutting
+Bartosz
+14,00
+15,53
+Recalibrated
+Completed
+Wawrzyniak
+MC-205
+Polishing
+Anna Nowak
+08.00
+09.26
+progress
+MC-206
+Assembly
+Dawid
+11.30
+11.52
+Delay
+Completed
+Oszmiaiczuk
+MC-206
+Assembly
+Piotr
+14.00
+15,.25
+NA
+Lewandowski
+progress
+MC-202
+Polishing
+Przemyslaw
+08:15
+09:19
+NA
+Delayed
+Wasik
+MC-201
+Drilling
+Agnioszka
+06.00
+06.32
+Zielinska
+progress
+MC-209
+Cutting
+Wiktor
+13.15
+14.49
+Delay
+Delayed
+Kopczynski
+MC-208
+Cutting
+Przemyslaw
+06.00
+07.28
+NA
+Delayed
+Wasik
+Product ID
+Target Qty
+Produced
+Scrap Qty
+Failure %
+Rework Qty
+Remarks
+Qty
+JD-z00w
+139
+133
+4.3200
+Rework
+needed
+10R
+NU-4402
+5526
+Approved by:
+Prepared by:

@@ -1,0 +1,64 @@
+Unit Data Specification
+Docrtent No_ 8520388
+PronaID TX B2
+Dar202-07-19
+Model ype
+Coceng Coraton
+Operaing Pressute
+Z0pa
+aa
+Flod Rate
+75 Lmo
+Oeering Velge
+2
+HoePte
+LA
+Pretedin Clsi
+1i
+Dallieiat
+IS
+Dimenslens
+Luu
+1040
+@Quu
+Senrice Intenrl
+T2morhs
+Cooling
+Hale-oced
+eTclamer
+ReteLeICap
+Ed
+Conto Vaive
+303o43
+Conponen ena0een
+Pat
+Arela
+80am
+CAdkAno)
+Rirter
+@r
+3r22
+CicelBe
+mEl
+1291
+Bd
+KhCPad
+Lel
+82824
+Amihi
+U?
+Iazed Tuze 25nm
+Memorz3c Poyretzte
+Rons cuaar
+@
+Min
+BLlh
+Riqat
+Lika
+ZnRake
+DlE4i
+Peveula
+BX6z.21
+Rclaconan
+Preparedby Laura Rossi
+Approvedby: Carlos Garcia

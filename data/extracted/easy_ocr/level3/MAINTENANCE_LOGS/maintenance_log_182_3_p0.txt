@@ -1,0 +1,123 @@
+Maintenance Checklist Report
+Performed On: 2023-09-17
+Aulhorized bX:
+Catlos Garcia
+Operator
+Peter Schmidt
+Thls service summary supports the re lability engineerlng review. Use this summary
+torecast parts replacement and
+resource needs
+log tecords all malntenance aclivilies performed on the equ pment: Please reviaw Ihis Iog for recent
+service dates, types;
+and remars
+The equipment log below includes fault Codes and corrective notes;
+Sacilon A:
+Machinuld
+MC-276
+~MC-289
+MC-230
+MC-243
+MC-262
+MC-242
+Equlpment
+Lathe
+Paint Booth
+Hydraulic
+Paint Booth
+Plasma Cutter
+Paini Bocih
+Scnce LPe
+Preventive
+Preventie_
+Correciive
+Corrective
+Preventive
+Unapecion
+Technician
+Jan kowaisa
+Laur
+R05si
+Laura Rossi
+Laura Rosse
+Lanos Garcie
+4nna Nowak
+Datntime
+Comments
+Replaced
+Wooden
+Replaced
+Replaced
+Switch
+Lllon
+battery
+(5A}
+(5A}
+(5AJ:
+contacts
+pack
+checked
+cleaned
+serviced,
+Section B:
+Machine ID
+MC-230
+MC-283
+MC-266
+MC-289
+MC-262
+MC-243
+Equlpment
+Hydraulic
+Plasma Culter
+Assembly
+Paini Booih
+Plasma Cattet
+Paint Booth-
+Press
+Robot
+Scrvico Type
+Correciive
+Correcilve
+ottecmve
+Correclive
+Preventie
+Preventvc
+Iochnlclan
+Laurd
+Rossh
+Kowalski
+Peter Schm di
+Canos Garcla
+Peter Schmidt
+Kowalskl
+Downuime
+32
+Commania
+Sunsor
+Rafilled olll
+Sonsor
+Worn gaskel
+Replaced
+No issuC $
+recalinrated
+(HLP 46).
+recalinrated
+repiacen
+fuse (5A)
+ound
+Malntenance notes are archived for compliance audlis. Service summarles have been forwarded
+the engineering team:
+Overall equipment =
+satisfactory post-maintenance- All rainlenance duralions are recorcad for performance
+metrizs; Confirm thal
+comectna 3chone
+Tlene
+properly closed ouL
+Optime
+Error Count
+Comments
+95.6080
+Replacod (lller
+Tns !
+Pr9s?
+cond ton /

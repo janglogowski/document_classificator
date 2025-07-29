@@ -1,0 +1,117 @@
+Production
+Report No_
+PR-381
+Customer: SWEDEN
+Shift:
+(Evening)
+Date: 25-06-2024
+Equipment
+Task
+Operator
+Begin
+End Time
+Jme
+Notes
+Spent
+MC-201
+Drilling
+Maleusz
+14.15
+15*14
+Delayed
+Jarzyna
+MC-201
+Assembly
+Przemyslaw
+12.15
+13.55
+100
+Ok
+Wasik
+progress
+MC-20g
+Assembly
+Wiktor
+11.30
+11.55
+Delay
+Kopczynski
+progress
+MC-201
+Drilling
+Wiktor
+10.30
+12.25
+115
+OK
+Kopczynski
+progress
+MC-202
+Polishing
+Magdalena
+07.00
+08.52
+112
+Ok
+Delayed
+Witkowska
+MC-203
+Welding
+14,15
+16,14
+119
+NIA
+Completed
+Nowak
+MC-203
+Drilling
+Jan
+07:15
+08.16
+NA
+Delayed
+Kowalski
+Item ID
+pianned
+Actual Qty
+Defect Qty
+Failure %
+Rework Qty
+Notes
+PL-601Z
+278
+246
+11.51%0
+Rework
+needed
+HF-390A
+209
+195
+6.70%0
+Rework
+needed
+TY-350G
+265
+239
+9,81%
+Rework
+needed
+LK-890B
+102
+8.1190
+Scrap
+confirmed
+NU-4402
+216
+188
+12.9680
+CE-905L
+129
+5590
+Rework
+needed
+Approved by: 
+Prepared by:
+Log
+Stugo
+Annla

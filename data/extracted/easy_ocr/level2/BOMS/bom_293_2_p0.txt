@@ -1,0 +1,78 @@
+Customer ID: NORWAY
+Product ID: RX-3102
+by:
+Schmidt
+Internal
+8170587
+Refer to this parts
+register to plan raw-
+supplierrates
+Use this
+material
+All entries reflect 
+component
+schedule of parts
+olign with
+the latest inventory and
+listing and associated costs
+sourcing and stock levels_
+designed
+support
+forthe
+upcoming production
+the
+standards,
+procurement workflows
+Ensure
+batch The parts manifest here
+each component
+meets the specified quality
+Item
+Epoxy
+Shaft
+Description
+Resin Kit
+50Omm
+Sensor Clip
+Spring
+Box
+Clip
+Qty
+Washer
+709
+M1o
+UOM
+pcs
+823
+450
+667
+Unit
+7.30
+9.00
+Amount
+175.70
+3,520.00
+0.95
+0.05
+Remarks
+823.00
+427.50
+Switch
+Imported
+33.35
+125.40
+tested OK
+SKF brand
+ROHS
+tested OK
+compliant
+TOTAL: 10,104.95
+Prepared
+Peter =
+No::
+purchasing:
+Below=
+Packaging
+Sensor !
+Prlce
+Switch

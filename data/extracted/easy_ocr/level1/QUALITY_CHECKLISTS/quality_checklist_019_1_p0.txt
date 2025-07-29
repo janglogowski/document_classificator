@@ -1,0 +1,88 @@
+Verification Log
+#6845422
+Date: 17.07.2025
+Product
+MC-S4OX
+Customer ID
+TURKEY
+Item Description
+Spring Washer MIQ
+Ensure
+~contorming marks
+are clearly documented
+Tnis checklist captures
+quality inspection points and
+sampling
+evels This closure summary indicates
+compliance with inspection criteria. The following table outlines
+inspection criteria and classificatian
+evels
+Refer =
+the quality register far sampling-plan references, Check that
+inspection steps follow the appraved pracedure
+Use this extract
+coordinate 5iCn-aff with the QA manager. Below
+are the items
+be verfied during the final product review. This section detalls quality requlrements and test points
+for the batch:
+Audit Criteria
+Sampling
+Classification
+Dbservations
+Level
+Product Requirements
+Hold
+Wodo splinter
+sharp Foint on
+Level IlI
+Needs review
+product
+ctornot working
+Leve
+Critical
+Impact
+Hinges
+aose
+Ilinor Issue Jbserved
+MssIng dlstributor Information
+LUVE
+Praducl duesm
+powcr On
+LevCi
+iinoi ISSUL ouscNcu
+Missing
+warning label
+Levci
+Veedsrevie
+Sharp edges on plastic
+Nceds reviewv
+comidonemls
+Functionality test failed
+Minorissue
+ansened
+Shipping mark is illegible
+Level |
+mussing
+Rubber Switch not
+working_
+Minorissue
+ancened
+Package
+nat sealed
+Level |
+Needs revielv
+complerei
+Paint smearing
+scratches
+screuslacse
+Missine
+Level
+Veeds reviat
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer specific
+MA
+Conne

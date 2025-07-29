@@ -1,0 +1,64 @@
+COMPONENT BREAKDOWN
+Customer ID: FINLAND
+Coordinator: Laura Rossi
+Date; 2023-01-15
+Product ID: MS 60OP
+Internal No.: 394801
+Order Qty: 174
+All line-item costs are current as per vendor quotes. The following table summarizes the materials
+and quantities needed forthe current project: Review the materials tally for compliance with budget
+allowances_
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Clamp
+2.39
+109
+1.75
+28.00
+120mm
+Sensor Clip
+1.34
+590
+PcS
+0.95
+21.85
+For export
+Control
+0.61
+10"
+pcs
+12.00
+48.00
+SKF
+Panel
+brand
+Mount
+Digital
+1,54
+2q0
+15.00
+135.00
+ROHS
+Display Unit
+compliant
+Fuse 5A
+1.14
+10%
+0.30
+11.10
+ROHS
+compliant
+Cross-verify totals with the ERP system for consistency. Final amounts include handling and
+logistics costs where applicable
+Total Amount:
+243.95
+Approved By:
+Sourcing Department:
+Ring

@@ -1,0 +1,39 @@
+Product Data Sheet
+Confirm thal performance ranges comply with project requirements_
+Use this sheet to confirm engineering
+requirements and tolerances_
+Please reviewv tne
+specifications and material composition listed below: The
+following Information outlines performance characteristics and design data, Entries include both mechanical
+and electrical specifications
+This data sheet provides key specifications and material details_
+ProducID;
+CN-1S0C
+Intemal No :
+PR-879
+Prepared by: Anna Nowak
+Approved by: Anna Nowak
+Date: 2024-12-14
+Unit Lype
+Hydraulic Power Unit
+Design Pressure
+180.par
+Throughput
+75 Umin
+Voltage
+230 V { 50 Hz
+Cooling
+Air-cooled oil radiator
+HLP 46
+Total Weight
+180k9
+Service Intenval
+500 h
+Document control numbers
+included for traceabilily. Ensure glossary terms match the enginecring
+nomenclature_
+All summary comments have been recorded in the revision log
+Ensure that the listed
+materials are approved for the application: This summary reflects the latest revision of the product data:
+Iype
+are

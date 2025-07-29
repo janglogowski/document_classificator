@@ -1,0 +1,76 @@
+BILL OF MATERIAL
+Customer ID: FRANCE
+Coordinator: Peter Schmidt
+Date; 2024
+Product ID: BZ 660F
+Internal No.: 4866121
+Order Qty: 191
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+3.34
+590
+pcs
+8.00
+256.00
+Imported
+50Omm
+Hex Bolts
+3.34
+109
+pcs
+0.25
+10.25
+SKF
+M12
+brand
+Battery
+1.79
+590
+25.00
+775.00
+Pack
+Rubber
+0.37
+590
+0.50
+11.00
+Gasket
+alignment
+8Ornm
+adjusted
+Clamp Ring
+2.65
+590
+1.75
+SKF
+120mm
+brand
+Wooden
+2.42
+590
+15.00
+450.00
+Pallet
+battery
+installed
+AIl listed components have been verified for availability and compliance. All sourcing notes have
+been (Ogged
+audit purposes
+Ensure archival of this materials summary for compliance records
+Total Amount:
+1,540.75
+Approved By:
+Sourcing Department:
+pcs
+Hinge
+38.50
+pcs
+U-Ion

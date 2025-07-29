@@ -1,0 +1,36 @@
+Conformance Report
+Review Points
+Sampling
+Severity
+Observations
+Level
+Design Specs
+Package
+not sealed
+compictely
+Sharp edges on plastic
+Level =
+Critical impact
+pomponenis
+Packaging does not match
+Level III
+Needs review
+signed sample
+Coior MismaicN
+Levei
+Minor issue observed
+Missing dstributor intomation
+Level
+Critical impact
+Wood splinter
+sharp point
+Level IlI
+Minor Issue observed
+product
+Reference Standards;
+Standard
+Edition
+ISO 9001
+2020
+EC 61010
+3rd Ed

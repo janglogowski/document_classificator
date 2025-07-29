@@ -1,0 +1,77 @@
+BOM Report
+Customer
+NORWAY
+Coordinator: Peter Schmidt
+Date
+2024-02-06
+Product ID: TY-350G
+Interna
+1880209
+Order Qty: 473
+Tne
+following table summarizes the materials and quantities needed for the current _
+project, Refer to this
+parts register
+plan raw-materia
+purchasing:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Description
+Remarks
+Rubber
+2.09
+pcs
+0.55
+23.65
+Eco
+Stopper
+Copper
+1.52
+1096
+compliant
+0.60
+18.60
+ROHS
+3mm
+compliant
+LED Light
+10%
+2.50
+60.00
+Strip
+Battery
+0.6
+25.00
+475,00
+Pack
+Fuse 5A
+1.21
+10%6
+0.30
+5.10
+ISO-
+verified
+Terminal
+1.86
+10%
+3.40
+176.80
+Li-lon
+Block 4P
+battery
+installed
+This final
+revew
+confirms that all items are ready for requisition:
+Total
+Amomni
+759.15
+Approved By:
+Department:
+Wire
+Sourcing '

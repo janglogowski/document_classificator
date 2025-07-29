@@ -1,0 +1,67 @@
+Inspection Results Summary
+Supervisor
+Lar?
+Rossi
+Inspection Date
+2025-04-09
+This data extract
+prepared far quality-control sign-aff, Use this results summary
+trigger any corrective
+actions
+The inspection register belov highlights any out-of-tolerance parts This summary of measurements supports
+metrology traceability:
+Item Code
+Pu-SiSt
+RM-BGON
+NE-2SA
+UL-SuuX
+CN-150C
+component
+Wooden Fallet
+Wooden Pallet
+Shatt SOOmm
+Bearing 6202 ZZ
+Stee
+Sheet 436
+Measurement
+Hme
+Diamerer
+Hole
+Height
+piameter
+Inner Diameter
+Tamet
+95.00
+8.51
+4527
+90.39
+Obsenved
+45.38
+9046
+Delta
++u-1u
+LO
++0.11
+#06
+H-O
+Pass /Fail
+Review failed items against the corrective-action
+egister. Ensure all measuring tools were properly calibrated.
+Inspection notes have been logged far trareability- Archive this inspectian summary for regulatary documentation:
+Instrument Calibration Log:
+Instrument
+Serial No
+Last Calibration Date
+Lasei
+scamnem
+53533
+2025-03-13
+Calder
+3252
+2024-11-20
+Caliper
+29613
+2025-05-20
+Rlcromcter
+43744
+2u25-03-13

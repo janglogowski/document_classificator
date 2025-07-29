@@ -1,0 +1,84 @@
+Quality Inspection List
+Use thls extractto coordlnate
+slgn-off with the QA manager_
+below ae
+the Iters
+verified during the final
+praduct review This checklist cantures quality inspection points and sampling levels; This closure summary indicates
+compliance with Inspection criteria.
+Product ID
+QN-770h
+custamcrId
+POLAND
+utem
+description
+Insuijted iube 2smm
+Audit Criteria
+Sampling
+Defect Class
+Remarks
+Levei
+Item
+Specs
+Critical
+Major
+OnHold
+Incorrect orientation
+box
+Leve
+Critical impact
+Dezc
+Ive insect in
+Needs review
+packaging
+Sharp edges on plastic
+Level/
+Critical impact
+comdonents
+Rubber Switch not working
+Level !I
+Paint smearing
+scratcnes
+Level
+Mlinar issuE
+Jbserved
+Cartan
+Qamagedor
+Level
+Critical impact
+markings incorrect
+incorrecl quanliiy
+LevelIl
+Critical impact
+45samtmen
+Package
+not sealed
+Level II
+Needs review
+comp
+Wood splinter 
+shan
+point
+Level |
+on product
+Scres
+0ose
+missing
+Level
+Minar issue
+Jbsered
+Connector not wDrking
+Critica  impact
+Colom
+mismnatch
+Level
+Needs revie
+MIsSine distibulor
+Levelil
+information
+Visual defect on housing
+Level
+Needs review
+Supervised by:
+Date: 
+Minor

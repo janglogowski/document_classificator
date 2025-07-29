@@ -1,0 +1,113 @@
+Component Dimensional Check
+Inspection performed by Anna Nowak on 2024-06-04.
+This repori presents tne dimensional
+measuremenis compared
+measurements and inspaction results
+are Ihe recorded
+component [sled
+"nigadas2 rorinal tolerances Please review the inspection results foc
+below; This data extract 
+prepared for qualty-=
+each
+toterances against engineering specifications;
+control sign-off: Review recorded
+Environmental Conditiens: Temperature: 23.4
+38 %
+Item Code
+Component
+Measurement
+GL-9805
+Steel Sheet
+Target
+Actual
+Delta
+Status (VIX)
+436
+Diameter
+1451
++0.01
+T-35G
+Power
+Height
+86.19
+86.33
+Switch
++0.14
+RX 3102
+Hinge Sel
+Length
+Ms-6O0P
+Hex Bolts
+Height
+93.06
+M12
+49.52
+19.43
+=ud
+ON-770H
+Graphite
+Pad
+Diameler
+51-81
+51,80
+:0.01
+WD-180S
+Graphite
+Width
+Pad
+98.97
+99.04
++0.07
+AL-1150
+Bearing
+Length
+68,83
+68.79
+6202 ZZ
+-0.04
+DX7771
+Power
+Depth
+Switch
+61,.43
+61,40
+-0.03
+390k
+Plastic
+Thickness
+84.33
+Rvets
++0.,09
+RM-86ON
+Steel Sheet
+Widlo
+47.04
+A36
+46.94
+0.10
+KP-320E
+Rubber
+Widtn
+Gasket
+98.89
+99.08
++0.19
+8umm
+Gr-770]
+Plastic
+Width
+77.52
+Riets
+77,34
+RX-3102
+Bearing
+Thickness
+22.,67
+6202 72
++0.17
+Balox
+Humidltye =
+Inner
+Innet
+84.42
+22,8+

@@ -1,0 +1,77 @@
+COMPONENT BREAKDOWN
+The component roster below includes unit costs and batch codes. Use this schedule of parts t0
+align with sourcing and stock levels_
+This section outlines the parts
+unit prices and total amounts
+for assembly. Refer t0 this parts register t0 plan raw-material purchasing: Ensure each
+component meets the specified quality standards
+No
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption
+Battery
+pCS
+25.00
+825.00
+High grade
+Pack
+Battery
+pcs
+25.00
+1,375.00
+High grade
+Pack
+Clamp
+pCs
+1.75
+42.00
+Li-Ion
+battery
+120mm
+installed
+Hex Bolts
+pcS
+0.25
+7.50
+Urgent
+M12
+Cable Tie
+pCS
+0.95
+18.05
+Imported
+Pack (100)
+Shaft
+pcs
+8.00
+296.00
+500mm
+alignment
+adjusted
+Plastic
+pCs
+0.20
+8.60
+High grade
+Rivets
+Terminal
+pCS
+3.40
+34.00
+Block 4P
+Customer ID: FRANCE
+Coordinator:_Jan Kowalski
+Date: 2023-10-03
+Product ID; PL-6012
+Intemal
+No;: 7741140
+Order Qty: 309
+Total
+Amount:
+2,606.15
+Ring
+Hinge

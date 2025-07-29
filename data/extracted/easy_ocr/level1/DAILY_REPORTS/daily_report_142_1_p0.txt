@@ -1,0 +1,86 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-131
+Cusiamer-
+FINLAND
+Supervisor:
+Anna Nowak
+Department:
+Painting
+Date;
+20-12-2023
+Shift:
+(Evening)
+Machine
+Process
+Worker
+Start Time
+End Time
+Total
+Uwagi
+duration
+MC-209
+Cutting
+Anma Noivax
+09-00
+10.31
+Recalibratec
+MC-2OA
+Welding
+Piotr
+10.-15
+10.42
+Recalbrateg
+davsk
+MC 207
+Polishing
+KowJiski
+U-1J
+11.3
+MC 209
+Welding
+bawd
+08-00
+09.32
+Osmanczuk
+MC-204
+Polishing
+Przemyslaw
+07-00
+07.53
+Delay
+pianned
+Output
+Achleved Qty
+Defect Qty
+Faine
+Comments
+XK 610U
+206
+185
+10.19%0
+Scrap confirmed
+e3sug
+220
+43547
+Kewoneneeded
+300T
+164
+895
+RM-860N
+085
+Revor needed
+RM-86ON
+186
+590
+Rework needed
+245
+10.587
+Prepared
+Kowakski
+Approved pl:
+Kowalski
+Watik
+Item
+6012
+by:

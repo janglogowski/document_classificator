@@ -1,0 +1,70 @@
+Quality Verification
+All checklist entries are timestamped for traceability. Use this extract to coordinate sign-off with the QA
+manager, Contirm that sampling levee
+comply with customer agreements
+The following table outlines
+inspection criteriaand classification levels .
+Product ID
+ZR-205R
+Customer ID
+GREECE
+Item Description
+Sensor
+Clip
+Review Points
+Sample
+Severity
+Observations
+Componen
+Crucra
+Hold
+Battery not included
+Level IL
+Critical impact
+Scre sioose
+missing
+Minor
+issue onsened
+Instruction manual
+missing
+Level III
+Criticalimpact
+damaged
+Missing distributor
+Level l
+Needs review
+ntanmation
+Connector not working
+Level[
+Critical impact
+Not assembled a5
+Minor issue observed
+drawing
+Wood splinter
+sharp point
+Levell
+Critical impact
+on praduct
+Paint smearing
+scracaes
+Level
+Needsreue
+Product doesn't power on
+LGVEl
+Missing safcty labels
+Packaging docs not match
+Level!
+signed sample
+Dustdebris inside packaging
+Level !
+Criticalimpact
+Color mismatch
+Level II
+Minor issue
+Observed
+Carton is damageo
+Needs review
+markings Incorrect
+Supervised by:_
+Date:
+Tlct

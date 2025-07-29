@@ -1,0 +1,63 @@
+Quality Inspection List
+Thls &Ummary supports thia productlon-relansu quality [nte; Refar to the quallty registor for sampling-plan
+releroncas Usu Ihls extruct
+coordinatu sipn-olf with tho QA manager , Thls soctlon detoila quullty
+requiremonts and tost points for the batch. Ihis checkllst coptures quallty Inspection points and sumpling
+Vevals, Ensure All non-conforing marka are clearly documonted;
+Product ID
+SLAJ0M
+Cuatomcrid
+FRANCE
+Item Desctiptlon
+Control
+Mount
+Inspactian Checkllst Points
+Sompling
+Defect Cinss
+Comments
+Laval
+Itam
+Speca
+Prodluct daesn"
+Jowui un
+LovoI
+Criticol Impact
+Rubber toxture
+glosainosa
+maematch
+Instructian mnnuu I
+Iisbink
+Lavol Il
+Critical Impacl
+Or damorod
+Functionality tast (ailad
+Needs raviow
+Io0su
+Lval
+Nn FMC
+Wood spllntor
+sharp point on
+praduct
+Missig dist Ibutor Inlormation
+LAV
+Packnglng' cloos not match
+Lavol II
+Needs E
+aikned aumplo
+Shipping mork Is Illeriblo
+Nouds roviow
+qgaing
+Mlasing
+waming Iabol
+Noeds ruvioi
+Sharp odres on plastlc
+Lavol |
+Critical Impacl
+comnpanents
+suporvlaad by:
+Dute:
+Pung
+Love
+Hingus
+Kuviem
+Oro

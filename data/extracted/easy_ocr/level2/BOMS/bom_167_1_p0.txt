@@ -1,0 +1,59 @@
+COMPONENT BREAKDOWN
+Customer ID: GREECE
+Coordinator: Jan Kowalski
+Date; 2024-01-20
+Product ID; AL-1150
+Internal No;; 4027238
+Order
+149
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rale
+Amiount
+Remarks
+Description
+Rubber
+2,57
+0.50
+17.50
+For
+Gasket
+export
+8Omm
+Packaging
+1.63
+49.00
+Box
+Erade
+LED Light
+1.38
+125.C0
+Li-Ion
+battery,
+installed
+Fuse 54
+1.32
+1030
+V3u
+4.50
+Rubber
+0.61
+0.50
+20,00
+High
+Gasket
+grade
+30mm
+Amounts reflect current pricing; adjust as necessary for bulk orders; Erisure archival of this materials
+summary for compliance records;
+Total
+Amount
+216,00
+Approved By:
+Sourcing Department:
+Q:
+High
+Sirip

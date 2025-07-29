@@ -1,0 +1,85 @@
+Report No;;
+PR-356
+Custamer:
+NORWAY
+Supervisor:
+Carlos Garcia
+Department:
+Quality Control
+@ate
+18-03-202
+Shift:
+A(Morning)
+Equipment
+Operation
+Worker
+Begin
+End Time
+Duration
+Uwagi
+(min)
+MC-208
+Welding
+Jan Kowalski
+06;00
+07.03
+MC-203
+Welding
+Bartosz
+12.00
+13.54
+NA
+Wawcvniak
+MC-204
+Drilling
+Anna
+Nowak
+09.15
+10.31
+MC-207
+Assembly
+Piotr
+T1:00
+12.20
+Levandawszm
+MC-203
+Welding
+inna
+Nowak
+11-06
+12.54
+Recalibrated
+MC-209
+Welding
+Megdalena
+08.30
+09.56
+Recalibrated
+Witkowska
+Product ID
+planned
+Qty
+Produced
+Qty
+Scrap Qty
+Scrap
+Comments
+BZ-GS0F
+260
+227
+12.6990
+DX-777T
+179
+169
+5.5990
+contirmcd
+GL 9805
+204
+2.4596
+Scrap
+conlirmed
+Prepared
+Lamta Possi
+Approved by:
+Carlos Garcia
+Scrap

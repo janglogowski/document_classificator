@@ -1,0 +1,57 @@
+Unit Configuration
+Document No.
+PR-701
+Product ID: VR-940T
+Date: 2025-05-19
+Model Type
+Cooling Circulalion
+Rated Pressure
+210 bar
+System
+Flow Rate
+75 Umin
+Supply Voltage
+480 V / 60 Hz
+Total Weight
+250
+Control Valve
+Directional 4/3
+Pump
+Gear Pump
+Battery Capacity
+Frame Material
+Powder-coated Steol
+Mounting
+Wall-mounted
+Oil Type
+HLP 46
+Component Materials Overview: .
+Pant
+Raw Material
+Specification
+Set
+Stainless Steel 304
+IP67 rated
+Fuse
+Ceramic Oxide
+Electrical
+Cooling Gel Pack
+Silicone Rubber
+Heat-resistant
+Support Foot
+Stee
+Stainless Steel 304
+certified
+Cabie
+Nitrle Rubber (NBRE
+P67 rated
+Insulated Tube 25mm
+Thermoplastic Polyurethane
+Anticorrosive
+(UPU)
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt
+Type
+Hingo
+grade
+Paca

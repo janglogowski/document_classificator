@@ -1,0 +1,76 @@
+Audit Trail
+Audit Criteria
+Check
+Severity
+Comments
+Intensitu
+Item
+Specs
+Incouect Orientation indox
+Level II
+Missing distributor information
+Critical impact
+Screwvs
+oose
+missing
+Level !
+Critical impact
+Rubber texture
+glossiness
+mismaich
+Level Il
+Critical impact
+Missing logo or warning label
+Level
+Needs
+eview
+Exposed nail with sharp point
+Level !
+Hinges
+IDdse
+LevA
+Minor
+issueobsered
+Nof assembledas
+crawing
+LEvgI
+Critical mpact
+Functionallily test falled
+Levci
+Critical Irpact
+Instruction manualis missing or
+Level IlI
+Needs review
+damazed
+Dead
+live Insectin packaging
+Levei
+Needs revlew
+Color mismatch
+Leve
+Packaging does not match
+Minor issue observed
+signed sample
+Incorect barccde
+abel
+Need:
+review
+safety labels
+Leve
+Loose parts inside packaging
+Leve
+Connector notworking
+Leva
+Needstuview
+lncanecl
+quantily=
+Level II
+assormen
+Reterence Standards:
+Standard
+Edition
+CE Directive
+2020
+IEC 61010
+Ath Ed_
+Nisging

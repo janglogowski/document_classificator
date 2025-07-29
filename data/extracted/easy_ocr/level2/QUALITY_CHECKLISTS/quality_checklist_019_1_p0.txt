@@ -1,0 +1,88 @@
+Verification Log
+#6845422
+Date: 17.07.2025
+Product ID
+MC-54OX
+Customer
+TURKEY
+Item
+Description
+Spring Washer M1Q
+Ensure all non-conforming marks are clearly documented
+This checklist captures quality inspection paints and
+sampling levels This closure summary indicates compliance with inspection criteria. The following table outlines
+insnection criteria
+and classification levels
+Refer =
+lity registe
+sampling-plan references
+Check that
+inspection stens follow the
+approved procedure
+Use this extract
+caordinate sign-off with the QA manager; Belav
+the items
+be verified during the final product review: This section details quality requlrements and test points
+farthe hatch;
+Audit Criteria
+Sampling
+Classification
+Observations
+Levei
+Product Requirements
+Hold
+dod splinter
+sharp point on
+Level III
+Needs review
+product
+Connecto
+not worang
+Leve
+Critical impact
+Hinges
+OOSE
+LEVE
+Miinor Issu@ Oosenved
+Missing dlstributor Information
+CLH
+Producl GOCsM [ powcr On
+LCVC
+Minor ISSUC OuSCNco
+Missing
+waime
+laoel
+LCVC
+Veeds revie
+Sharp edges on plastic
+Nceds reviewv
+comidoneMLS
+Functionality test failed
+Mlinorissue
+anwened
+Shinping mark i5 illegible
+Level !
+missing
+Rubbe
+Switch not working
+Minor issue
+ansenied
+Package
+not sedied
+Level !
+Needs review
+completely
+paint
+smearing
+scratches
+Screws Ioose
+Missint
+Leve
+Needs revieva
+AQL Level
+Critical
+Miaior
+Iinor
+Dcfault
+Customer specific
+Qual

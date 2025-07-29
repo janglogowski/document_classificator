@@ -1,0 +1,56 @@
+Unit Configuration
+This data sheet provides
+kev specifications
+Materio
+details_
+Entries include
+mechanical
+electrical
+specifications
+This report extract is prepared for
+design-verification audits. This section details the configuration and
+parameter set
+forthe product; Confirm that performance ranges comply with project requirements_
+The following
+intormatior
+outlines performance characteristics and design data_
+Product ID
+LP-5S5V
+Document No:
+PR-898
+Preparec
+bv; Carlos Garcia
+Approved bY: Anna Nowak
+Date: 2024-02-07
+Contiguration Type
+Cooling Circulation
+Operating Pressure
+180 bar
+System
+Fluid
+48 L/min
+Supply Voltage
+230V / 50 Hz
+Cooling
+Air-cooled 0ml Taqiatar
+Reservoir Capacity
+Mounting
+W-mountec
+Nois P
+Levp
+68 dBIAI
+Oil Type
+HLP 32
+All specifications meet the design requirements
+Industny standaros
+Matena
+choices and process Gata nave been
+verified for compliance: All summary comments have been recordec
+the revision log; Refer to parameter table for
+operating ranges and
+tolerances Confirm that all test conditions are accurately represented
+Ensure that the listed
+materials are
+approved for the application.
+borh
+Flow

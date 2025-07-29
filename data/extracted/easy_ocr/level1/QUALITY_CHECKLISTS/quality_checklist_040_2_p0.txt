@@ -1,0 +1,60 @@
+Audit Trail
+Archive this list in the quality-management system
+The following table outlines inspection criteria and
+classification levels_ Refer to the quality register for
+sampling-plan references
+This summary supports the
+production-release quallly
+Please review each checklist point and mark the sampling results_
+Use this
+extract to coordinate sign-off with the QA manager: Check that inspection steps follow the approved
+procecure
+Confirm that sampling levels comply with customer agreements
+Product ID
+SL-430M
+Customer ID
+BRAZIL
+Item Descrption
+Ventilation Gid
+Audit Criteria
+Sampling
+Defect Class
+Remarks
+LGvc
+Component Criteria
+Hold
+Functionality test failed
+Level L
+Crtical impact
+Paint smeanng
+scratches
+Leve
+Minor issue
+observed
+Visual
+defect on housing
+Lcvei
+Needs revicw
+Missing logo or warning label
+Needs review
+Product doesnt
+Levei
+Critical impact
+Carton
+damaged
+Level =
+Minor issue observed
+maikings incorrect
+Incorrect quantity
+Level III
+Critical impact
+assortment
+Hinges
+cose
+Levei
+Critical
+IMdact
+Supervised by:
+Date:
+gute;
+Power

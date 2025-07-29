@@ -1,0 +1,101 @@
+Repon No--
+PR 338
+NORWAY
+Custamer
+Carlos Garcia
+Supervisor
+Assembly
+Departmenti
+O1-0:
+2024
+Wate
+Avorning
+shift:
+Worker
+From
+End Time
+Total Time
+Comments
+Machine
+Operation
+Recalibrated
+MC-20S
+Drilling
+Bartosz
+14.30
+15.21
+Wawrzyniak
+13.30
+14.58
+Recalibrated
+MC-208
+Polishing
+Agnieszka
+Ziellnska
+MC- 205
+Polishing
+Piotr
+13.30
+15.11
+101
+Reralunated
+Lewandowski
+MC-204
+Welding
+Wiktor
+09,00
+10.58
+Recalibrated
+Kopczynski
+Dawid
+10.00
+11,29
+N/A
+MC 203
+Cutting
+OszmianczUk
+Kerambraieo
+MC-201
+issembly
+Jan Kowalski
+06,0D
+00.54
+Delay
+MC205
+Assembly
+Wiktor
+10.30
+11,12
+Kopczynski
+MC-207
+Polishing
+Magdalcna
+12.15
+12.38
+Recalibrated
+Witkowska
+Plannea
+Output
+Achieved
+Qt
+Defect Qty
+Scrap
+Uwagi
+Item
+3570
+XD-ZIOR
+6796
+Rework needed
+TX-820v
+Rework needed
+Kv-390k
+230
+5482
+282
+7670
+RE-850C
+Peter
+Schmidt
+Prepareo Jy:
+Carlas Garciz
+Approved BY:

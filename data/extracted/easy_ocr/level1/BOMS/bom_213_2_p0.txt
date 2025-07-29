@@ -1,0 +1,41 @@
+Customer ID: BELGIUM
+Prepared by: Peter Schmidt
+Product ID: QN-77OH
+Internal No:: 8510246
+No
+Item
+Heat
+Shaft S0Omm
+Packaging
+Rubber
+Sheet
+Description
+Resistant
+Box
+Stopper
+A36
+Sleeve
+Qty
+162
+113
+949
+UOM
+Unit Price
+2.70
+5.00
+Amount
+437.40
+432.00
+113.00
+275.00
+745.00
+Remarks
+Switch tested
+Switch tested
+High grade
+Urgent
+OK
+Ok
+TOTAL:
+10,002.40
+Steet

@@ -1,0 +1,40 @@
+Component Overview
+Refer to this configuration summary for unit-designation mapping:
+This data shect provides key
+specifications and material details,
+This section details the configuration and parameter set for the product
+Entries include both mechanical and electncal
+specifications_ The following information outlines performance
+characteristics and design data
+Check that all materia
+specs align with supplier certifications.
+Product
+SL-430M
+Interal No:
+18005
+Prepared by: Jan Kowalski
+Approved by: Carlos Garcia
+Date: 2025-05-24
+Unit Type
+Cooling Circulation
+Rated Pressure
+180 bar
+Syslem
+Flow Rate
+Umin
+Voltage
+230 V IS0Hz
+Filtration
+10 um retum;
+Battery Capacity
+5 An
+suction
+Noiso Level
+68 dB(A)
+Motor Powor
+7.5kWv
+Ensure glossary terms match the engineering nomenclature. Archive this summary for future design-change
+management Confim that all test conditions are accurately represented. Flag any missing parameters for
+urgent specilication updates. Document control numbers are included for traceabillily. Check that all section
+headers follow the product template. All summary comments have been recorded in the revision log
+25 uM

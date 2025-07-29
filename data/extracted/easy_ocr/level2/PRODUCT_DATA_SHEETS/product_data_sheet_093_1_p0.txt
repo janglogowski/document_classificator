@@ -1,0 +1,45 @@
+Unit Data Specification
+Project:
+JD-7ooW
+Internal No
+8585932
+Prepared
+Peler Schriidt
+Approved BX
+KO ASa
+Lacalion; Plant 1C
+Date
+2024-09-12
+Unit Type
+Pneumatic Contro] Unit
+Rated Pressure
+210 bai
+Throughput
+Operating Voltage
+480
+60Hz
+Filtratlon
+Nin irline,
+10 Hmt
+Service Interval
+500
+ratM
+Resetvoir Capacit;
+160
+Charging Vime
+Control Valve
+Manual Override 32
+Motor Power
+kW
+Battery Capacity
+Pump Type
+Vane Pump
+Cooling
+Litccoled 0i
+radiator
+Total Woight
+250kg
+Noise Level
+68 dBLA)
+Protection Class
+IP6

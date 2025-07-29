@@ -1,0 +1,95 @@
+Quality Verification
+Refer
+the quallty
+sampling-plan references_.This checklist caplures quality inspeclion points
+and sampling levels_
+This summary supparts the production-releas8 quality gate. This section details quality
+Fequirenienis and (est points ior Ine balch
+Tius € Osure suinmary Inaicates comnpliance with
+inspection
+criteria_
+Please revibw
+checklist point and mark the sampling resuits_
+The fcllowing table cutlines
+tspeciion crilera and Ciassificalion levels:
+Product ID
+G-770J
+Customor ID
+POLAND
+Description
+Battery Pack
+Inspection Checklist Pcints
+Inspectlon
+Categcry
+Reinarks
+Depth
+Design Specs
+CR
+MA
+Hold
+Dusticebris insice packaging
+Level
+Minor
+observed
+Sharp edges
+plastic
+Critical impact
+camporenis
+product
+Level
+Missing disirihutor
+Level |
+Criticel impact
+Iniormailon
+Incenecl orienlationinbox
+Needs review
+Hinges [oose
+Neecs review
+Insiniclion manual
+missing
+Level IlI
+Needs review:
+or camage?
+Incorrect quantly Or
+Level
+ass0mmment
+Loose pars inside packaging
+Needs review
+Shipping mark
+illegible
+Level III
+Critical impact
+mnissing
+Rubber texture
+glossiness
+Level IIl
+mismatct
+Nct assembled 25 per
+Critical imnpact
+drwing
+Package
+not sealed
+Lovel IlI
+Critical impact
+completely
+Functionalty [est (ailed
+Noeds reViCW
+Dead
+Iive
+Level =
+Needs review}
+packaging
+Wood splinter cr sharp point
+Crilical impact
+on procuct
+Rubber Switch nol working
+Lave
+Suporvised by:
+Dete:
+regisler
+each
+Jtoin
+HS-ulet
+Wrong
+ELO
+insed

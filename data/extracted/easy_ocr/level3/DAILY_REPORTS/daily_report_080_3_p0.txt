@@ -1,0 +1,112 @@
+Production
+Report No.
+Shift: C (Night)
+TURKEY
+Date: 24-04-2025
+Maching
+Process
+Technician
+Begin
+Finish
+Time
+MC 203
+Polishing
+Przemystaw
+Spent
+Uwagi
+Status
+WNasik
+11.00
+711.42
+MC-204
+Cutting
+Agnieszka
+Zielnska
+"09.25
+NA
+progre sS
+MC-204
+Kowalski
+08.30
+10.79
+109
+progress
+MC-204
+Delayed
+05.30
+07.32
+MC-202
+Kowalski_
+Completed
+Maleusz
+07.15
+07.46
+MC-206
+Cutting
+Jarzyna
+Recalibrated
+Agnieszka
+08.30
+08.50
+pratess
+MC-205
+Cutting
+Zatosta
+Compleled
+Wawrzyniak
+15.49
+10g
+Completed
+operator nates
+been archived for
+production run. All production
+ereview; This closfre summary signals ,_
+Were
+observed;
+targets have been logged;
+readiness for the next
+piease address any minor issues
+are highlighted above: No critical
+tor the day;
+noted
+Overall production 
+delays
+performance met expectations
+Product ID
+Qty
+Actual
+Oty
+Scrap @ty
+8Z_S6UF
+201
+Rework
+ZR-2O5R
+Count
+133
+132
+8.4630
+RE-850C
+179
+172
+47590
+3.919
+needed
+Approved by: _
+Log
+PR-J68
+Cus omer:
+09,00
+Orling
+Welding
+Delay
+Culting
+Detay
+1+00
+Delay
+have
+dovations
+Target E
+Scrap 
+Note?
+Rework
+Prepared =

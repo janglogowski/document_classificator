@@ -1,0 +1,138 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-491
+Customer
+CANADA
+Shift:
+(Morning)
+Date: 07-03-2024
+Machine
+Operation
+Operator
+From
+Finish
+Duration
+Remarks
+Stage
+(min)
+MC-207
+Welding
+Mateusz
+07;15
+08;44
+Delayed
+Jalyna
+MC-204
+Polishing
+Nadia Sauter
+08.30
+09:15
+Delayed
+MC-206
+Assembly
+Magdalena
+13.00
+13.32
+Pucelbcated
+prapiasy
+Witkowska
+MC-?09
+Cutting
+Nadia Sauter
+07:00
+08.52
+ptopiess
+MC-205
+Assembly
+Wiktor
+06:15
+07:12
+Delay
+Completed
+Kapczynski
+MC-203
+Polishing
+Magdalena
+10.30
+11.37
+Delayed
+Witkowska
+MC-208
+Cutting
+Bartosz
+08.15
+09.25
+Delay
+niapiess
+Wawrzyniak
+MC-202
+Drilling_
+Jan kowalsk
+11,30
+72.02
+N/A
+piopicss
+MC-206
+Polishing
+Dawid
+13.30
+14.18
+NYA
+Completed
+Oszmianczuk
+MC-207
+Welding
+Wiktor
+09.00
+10.53
+113
+Delayed
+Kopczynski
+MC-201
+Assembly
+Dawid
+08;30
+09.33
+Recalibrated
+Delayed
+Oszmianczuk
+Record any adjustments
+shift schedules or
+staffing here. Archive this output summary for end-of-day
+reporting: Nate any unscheduled stops in the downitimne register. All operatar nates have been archived for
+reviev  Overal
+production perfarmance met expectations for the day- Verity the final counts Against inventory
+records
+Part ID
+Target Qty
+Achieved
+deteci
+Qty
+Scrap
+Reworked
+Comments
+Qty
+Unlts
+MR-160H
+151
+150
+6696
+Rework
+needed
+HF-39OA
+199
+188
+532
+CE-905L
+121
+102
+15.7096
+Rework
+neaded
+MX 450L
+194
+175
+9.7900
+Scrap
+connnmieg
+Approved by;
+Prepared by:_

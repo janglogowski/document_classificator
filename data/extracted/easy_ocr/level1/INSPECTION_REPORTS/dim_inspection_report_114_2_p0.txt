@@ -1,0 +1,87 @@
+Tolerance Check
+ecnnician
+Carlos Garcia
+Inspection Date
+2025 06-25
+Entries include bolh passifail markers and deviation magnitudes. This section detalls lhe measured values;
+tolerances;
+and status flags. Review recorded tolerances against engineering specifications
+Tne inspection
+register below highlights any out-of-tolerance parts; This report presents the dimensional measurements and
+inspection results_
+Product
+XK-61OU
+VF-2ZOD
+XK-610U
+OP-660F
+TL-JOX
+RM-860N
+VF-2Z0D
+Rcf
+Part Name
+Power
+Bearing
+Bearing
+Graphile
+Sleel
+Power
+Hex Balls
+Switch
+62027Z
+620277
+Pad
+Sheet 436
+Switch
+M47
+Dim.
+W
+Width
+Thickness
+Height
+Hole
+Depth
+Width
+Diameter
+Nomina
+86.85
+26.19
+2.63
+75.50
+22.39
+22.39
+Observed
+B6-&
+26.14
+78
+75.52
+22A1
+22.44
+Diff
++0 0 
+0,05
+I0 15
++0,02
++0
++0 01
++005
+passiFam
+Ensure status flags are updated in the quality management System; Cross-verify measurement data with
+CAD nominal values. Overall inspeclion summary indicates acceptable qualily levels.
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+Micrometer
+26835
+2025-03-01
+CMM
+93182
+2025-04-24
+Caliper
+19016
+2024-10-15
+Laser
+Scanner
+167
+2025-02-19
+Log:

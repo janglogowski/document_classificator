@@ -1,0 +1,162 @@
+Inspection performed by Laura Rossi on 2025-04-29_
+Below are the recorded measurements compared
+nomina
+results for
+against
+tolerances: Please review the inspection
+each component listed below. This dala extract
+prepared for quality-control
+Use
+resulls summary to trigger any corrective actions
+Ensure measurement
+sign-off,
+this
+standards_
+This report presents the dimensiona
+methods align with calibration
+measurements and inspection results,
+Environmental Conditions: Temperature
+20.4
+C, Huridity: 58 %
+Item Code_
+Part Name
+Measurement
+Target
+Observed
+VR-940T
+Rubber
+Depth
+Diff
+Status
+67.6
+67.49
+-0.12
+Gasket
+8Onm
+RM-B6ON
+Rubber
+Width
+37.83
+38.02
++0.19
+Gasket
+8Onun
+GL-980S
+Wooden
+Thickness
+26.50
+26.49
+0.01
+Pallet
+TX-820v
+Hex Bolts
+Inner
+27.11
+27.27
++0.16
+M12
+Diameter
+HF-390A
+Wooden
+Length
+46.31
+46.28
+0.03
+Pallcl
+DX-777T
+Powo
+Hole
+60.84
+60.83
+Switch
+~0,01
+SL-430M
+Plastic
+Thickness
+15.77
+15.60
+Rivets_
+0.17
+PL-6012
+Shatt
+Hale
+44.50
+44.34
+0.16
+5Q0mm
+JD-700w
+NBR
+Width
+93.34
+93.43
+6Umm
++0.09
+OK
+DX-777T
+Graphite
+Length
+34.89
+34,85
+0.04
+Pad
+VR-940T
+Steel Sheet
+Height
+71,42
+~0.15
+A36
+ON-77OH
+Wooden
+Height
+43.33
+43.25
+0.08
+Pallet
+ZR-2O5R
+Hex Boits
+Inner
+65.07
+64.91
+M12
+Diameter
+0.16
+JD-700w
+Plastic
+Depth
+99.04
+99.22
+Rivets
++0.18
+SL4JOM
+Hinge Set
+Length
+718
+7,26
++0,08
+Kv-390K
+Shaft
+Inner
+63.07
+63.01
+~0,06
+s0Omn
+Diameter
+TX-820v
+Bearing
+Width
+91.78
+91.78
+6202
++0,00
+CE-9O5L
+Baltery
+Inner
+47.61
+47.79
++0.18
+Pack
+Diameter
+Ok
+(ViX)
+Ring
+71.27

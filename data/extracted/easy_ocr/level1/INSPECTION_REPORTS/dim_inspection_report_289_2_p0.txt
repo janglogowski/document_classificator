@@ -1,0 +1,90 @@
+Dimensional
+ecnnician
+Peter Schmid
+Inspection Date
+2024-07-01
+AlI measured values are limeslamped for audit purposes: Check lhat all dimensions comply with ISO and
+company standards. Refer -
+the dimensional
+log for a
+component size readings. This section details the
+measured values; tolerances_
+and status flags, Please review the inspection results for each component
+listed below. Review recorded tolerances against engineering specifications.
+Product Ref
+QP-660F
+DX-T7T
+WD-180S
+XK-61QU
+GH-770J
+LP-SSSV
+RX-3102
+Component
+Hex Bolts
+Bearing
+Bearing
+Baltery
+Steel
+Rubber
+Shaft
+M12
+6202 ZZ
+6202 ZZ
+Pack
+Sneel 436
+Gaskel
+s0Omtimi
+80mm
+Mcasurcmcnt
+Length
+Depth
+Iinickness
+Lungm
+Depth
+Wcth
+Width
+Targe
+42o7
+98.73
+7287
+92,47
+83.26
+19.55
+Actua
+92.49
+Delta
+40 04
+O:
+40 16
++00u
+LOLOZ
++00
+40i4
+PassiFail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Confirm that pass rates meet the defined acceptance criteria_
+Ensure status flags are updated in the quality
+management system. Cross-verify measurement data with CAD nominal values_
+Flag any components
+requiring re-machining
+adjustment;
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Laser Scanner
+26822
+2025-02-04
+Caliper
+93423
+2024-08-14
+Caliper
+49621
+2024-12-31
+Log

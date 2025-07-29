@@ -1,0 +1,75 @@
+Inspection Checklist
+Review Points
+Check
+Category
+Notes
+Intensity
+Item Specs
+Critical
+Major
+Minor
+OnHold
+Functionalty test alled
+Level
+Culical impact
+Not assembled as per
+Needs review
+arawing
+Dustldebris inside
+Minor issue
+Level |
+packaging
+ooserveo
+Hinges loose
+Level
+Cilical impact
+Package
+not sealed
+Minor issue
+Level II
+completely
+observed
+Connectornot
+working
+Level
+Cntic;
+impact
+Minor issue
+Incorrect barcode or label
+Level
+onseivea
+Dead or Iive insect in
+Critical impact
+packaging
+Minor issue
+Product doesn ( power on
+odecnco
+Missing
+warning
+Level III
+Critical impact
+abel
+WVoo
+splinter
+sharp
+Level /
+Critical impact
+point on product
+Packaging does not
+Level |
+Needs review
+match signed sample
+Instruction manual is
+Critical impact
+missing or damaged
+Carton
+damaged or
+Level III
+marking: incorrect
+Reference Standards:
+Standard
+Edition
+2011
+61010
+A4th Ed;
+Jogo

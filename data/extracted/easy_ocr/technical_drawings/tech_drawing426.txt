@@ -1,0 +1,7 @@
+0 023
+5E3 LLDERCUT DETAIL
+secIInN A-4
+ndpim
+2-204
+502.605
+Dl

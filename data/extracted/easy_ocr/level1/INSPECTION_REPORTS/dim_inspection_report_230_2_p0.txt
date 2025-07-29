@@ -1,0 +1,57 @@
+Tolerance Check
+ingpecion
+Carlos Garcla
+Inspeciion Date
+2024-07-07
+Use Ihis examinalion summary
+conlirm component confarmlly. Belov are Ihe recorded measurements
+compared against nominal tolerances. Entries Include both passifall markers and deviallon magnitudes.
+Product Ref
+MC-54OX
+AZ-JOOT
+KV-39OK
+SLAJOM
+Part Namo
+Wooden Pallet
+Steel Sheet 436
+Bearing 6202 ZZ
+Shalt 500mm
+Dim
+Thlckness
+Dopin
+Hole
+Hole
+Nominal
+30.29
+69,27
+47.39
+91.46
+Actual
+30,35
+69,28
+47.,36
+91,61
+DIff
+40.06
+For01
+40,03
+40.15
+Pass/Fall
+PASS
+PASS
+PASS
+PASS
+Ensure all measuring lools were properly calibraled
+Confin that pass rates meet Ihe delined acceplance
+criteria_
+AlI dimensions within tolerance have been marked as OK
+Instrument Calibration Log:
+Instr ument
+Serial No:
+Last Calibration Date
+Caliper
+99460
+2024-09-27
+Caliper
+21340
+2024-12-05

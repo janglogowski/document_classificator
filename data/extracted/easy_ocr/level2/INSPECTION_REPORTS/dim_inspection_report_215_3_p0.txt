@@ -1,0 +1,112 @@
+Dimensional Log
+Inspection performed by Laura Rossi on 2024-11-04.
+This report presents the dimensional measurements ad inspection results. This section details the measured values;
+tolerances, ard status flags. Use this examination summary
+confirm component conformity- This data extract is
+prepared for quality-control sign-off_
+Environmental Conditions: Temperature: 24.8
+Humidity: 51 %
+Product Ref
+Part Name
+Dim 
+Nominal
+Observed
+Diff
+Status (Vix)
+DX-777T
+Power Switch
+Depth
+37.43
+37.46
++0.03
+AZ-300T
+Bearing 6202
+Width
+95.97
+95.97
+L000
+GL-9805
+Battery Pack
+inner
+23.55
+73 40
+0.15
+Diameter
+Jd-7oow
+Hex Bolts
+Height
+77.93
+77.75
+0,18
+M1z
+TY-350G
+Plastic Rivets
+Hole
+72.39
+72.44
+40,05
+TX-820v
+Graphite
+Hole
+16 9
+MX-450L
+Depth
+RE-850C
+0-Ring NBR
+Width
+83.85
+83.96
++0.11
+60mm
+VF-2200
+Shatt S00mm
+Hegnt
+05.6'
+63.88
++0.01
+KP-320E
+Bearing 6202
+Height
+69.71
+69.70
+-0.01
+DX-777T
+Power Switch
+Height
+12.41
+72.45
+40 04
+JD-Z0ow
+Graphite Pad
+Height
+49.42
+49,45
+40.03
+GL-9805
+Rubber
+Height
+60.42
+60,38
+0.0A
+Gasken*omm
+VF-220D
+Shaft 50Omm
+Hole
+87.03
+87.08
++0lu=
+PW-S15Y
+Power Swltch
+Width
+22.01
+22.16
++0,15
+FT-730X
+Hinge Set
+Thickness
+1387
+13,80
+0.05
+0,05
+Pac
+Hinge

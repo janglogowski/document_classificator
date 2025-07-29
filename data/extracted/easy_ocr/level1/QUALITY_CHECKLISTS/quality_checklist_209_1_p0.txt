@@ -1,0 +1,100 @@
+Inspection Checklist
+#7658372
+Date: 17.07.2025
+Product
+QN-7704
+Customer
+POLAND
+Item
+description
+Gasket Sneet 44
+This checkist
+cantures quality inspection points
+sampling levels
+Confirm that sampling
+levels
+comply with
+cuctomci
+recmcnts
+This section details quality requirements and test points for the batch: Archive this list in the
+lity-management system; Use this extract
+coordinate
+with the Qi manager;
+Quality Check Items
+Check
+Severity
+Camments
+Intensity
+Comgonent Criteria
+Paint smearing
+scratches
+Level
+Rudbe
+texture
+ossiness
+Level
+Minor issue observed
+mismatch
+Nal assembled
+per drawing
+Level
+Critical
+rdacl
+Exposed nall vith sharp point
+Leve
+Minor Issue observed
+Wrong product size
+incorr
+pjrcodc
+labe
+Needs review
+Shipping mark is illegible =
+Critical impact
+[s_MME
+Sharp edges
+plastic
+Minor issue observed
+components
+Missing
+safety labels
+Lete
+Needs review
+Color mismatc
+Critical impact
+@ust'debris insine
+packaging
+LPve
+Needs review
+Product doesn t nower On
+Levp
+Critica
+mdact
+Loose parts inside packaging
+Leve
+Minor Issue Obsened
+Missing distributor information
+LCC
+Critical impact
+Dead or live insect inpackaging
+Leve
+Needs review
+Wood
+splinter or sharp
+Level 
+Critical impact
+product
+SCrcws
+OOSC
+MsSunp
+LevCi
+ISSuC ODsCivcc
+AQL Level
+Critical
+Vaior
+Mlinor
+Default
+Customer
+specific
+5 RO-off
+noint
+Minor

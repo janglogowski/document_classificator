@@ -1,0 +1,82 @@
+BILL OF MATERIAL
+AIl entries reflect the latest iriventory and
+supplier rates. The parts manifest here Is designed to
+support procurement workflows. This extract shows the bill of components and total projected
+spend: Please revicwthe itemized Ulst
+parts and material specifications before procurement. AIl
+lirie-Item costs are current a5 per vendor quotes-
+tem
+Oty
+UOM
+Rate
+Amount
+Remarks
+Description
+Clarp
+1.75
+45.50
+120mm
+Ventilation
+pcs
+5.80
+240.80
+Grid
+Gasket
+12.50
+ISO-verified
+Sheet A4
+Plastic
+pcS
+7.10
+17.60
+Cover
+150x150
+Spacer
+pCS
+0.15
+ROHS
+2mm
+compliant
+Plastic
+pes
+0.20
+8.40
+High grade
+Aivets
+LED Light
+2.50
+95.00
+ROHS
+Strip
+cotnpliant
+Spring
+pcs
+0.05
+1,70
+Imported
+Washer
+M1O
+Hex Bolts
+pcs
+0.25
+4.75
+Irported
+M12
+Gasket
+pCS
+1.25
+56.25
+SKFbrand
+Sheel A4
+The cost subtotal supports financial forecasting for the next cycle.
+Customer ID: GREECE
+Coordinator: Laura Rossi
+Date: 2023-12-13
+Product ID: Lk-890B
+unternal
+5701915
+Order Qty: 413
+Tota
+Amount:
+434.15
+Ring

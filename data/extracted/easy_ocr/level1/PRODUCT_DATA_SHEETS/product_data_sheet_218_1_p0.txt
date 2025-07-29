@@ -1,0 +1,69 @@
+Unit Data Specification
+Project:
+DX- 777T
+Report No
+4465820
+Prepared
+Carlos Garcia
+Approved BY:
+Jan Kowalski
+Location; Plant 1C
+Date: 2024-11-02
+Use this sheet to confirm engineering requirements and tolerances. Ensure all referonced standards are up
+t0 date; This report extract is prepared for design-verification audits.
+Confirm that performance ranges
+comply with project requirements- The parameter register below includes operating limits and
+The
+following information outlines performance characteristics and design data
+Configuration Typc
+Cooling Circulation
+Design Pressure
+300 bar
+Syslem
+Fluid Flow
+75 Umin
+Operating
+480
+60 Hz
+Pump Type
+Vane Pump
+Motor Power
+7.5KWv
+Oil Type
+HLP 68
+Filtration
+10 pm retumn, 25 um
+suction
+Frame Material
+Stainless Steel Frame
+Protection Class
+IP54
+Charging Time
+Dimensions (LxWxH)
+1000 x 650X 1000mn
+Control Valve
+Manual Ovemde 3/2
+Reservoir Capacity
+160
+Noise Level
+68 dBLA)
+Mounting
+Rack frame
+Battery Capacity
+Cooling
+Air-cooled oil radiator
+Material of Construction:
+Item
+Base
+Bearing 6202ZZ
+Stainless Steel 304
+Wooden Palle
+Treated
+Hcat
+Sink ALU
+Aluminum 6061-T6
+LEDLight Stp
+Glass-Filled Nylon
+ratings.
+Voltage
+WooC

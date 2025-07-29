@@ -1,0 +1,58 @@
+Unit Code
+Equipment
+Type
+Techniclan
+Duration
+Notes
+MC-260
+Paint Booth
+Inspeclon
+Peter Schmidt
+Plant IC
+Li-Ion battery
+pack seniced
+MC-265
+Lathe
+nspaction
+Anna Nowvak
+Plant 34
+Worn gasket
+replaced
+MC-245
+CNC Milling
+Cotroctive
+Anna Nowak
+Plant 28
+Machine
+MC-299
+Lalhe
+nspccticn
+Carlos Garcia
+Piant 28
+No issuCS
+Tnnd
+HC-292
+Packaging
+Bnuve
+peter scnmidi
+Pllant 28
+Worn gasket
+Line
+replaced=
+MC-215
+Plasma Culter
+Prauenluo
+Laura Rossi
+Plant IC
+Retilled oil
+(HLP 46).
+Archive this summary in the CMMS for future reference. All maintenance tasks have been completed as per schedule-
+Contirm tnat all corrective actions were properly closed out. Record any spare parts usage for inventory adjustment . Overall
+cquipmont condition
+satistactory post-maintonance
+Lubrication Checked
+Callbration Verfed
+EMe
+Rency Stop Tested
+Authorzed Dy: _
+Operatot:

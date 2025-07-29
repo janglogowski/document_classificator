@@ -1,0 +1,91 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM'
+Rate
+Amount
+Remarks
+Description
+Copper
+0,60
+24,00
+Hinge
+WNire Bmm
+alignment
+adjusted
+Spacer
+pCS
+0.15
+5.70
+Imported
+2mm
+Ballery
+pCS
+25,00
+550,00
+High grade
+Pack
+Power
+pCS
+1,20
+48.00
+Swtch
+compliant
+Insulation
+pCS
+3,20
+124.80"
+ISO:
+Foam Pad
+verfied
+Spacer
+pCS
+0.15
+6.75
+Switch
+2min
+tested CK
+Heal
+2,70
+75,60
+Certified
+Pesistant
+batch
+Sleeve
+Bearing
+pcS
+40,50
+Certified
+6202
+batch
+Control
+pCS
+12.00
+84.00
+grade
+Panel
+Mount
+Heat
+2.70
+121.50
+Li-Ion
+Resistant
+ballery
+leeve
+installed
+Vcrify that all remark items meet the sourcing department $ standards. This final review-confirms
+that all items are ready for requisiiion; AlI sourcing noles have been logged for audit purposes.
+Customer ID: POLAND
+Coordinalor: Anna Nowak
+Date: 2023-11-04
+Product ID; ZR-ZOSR
+nternal
+No . 3862523
+Order
+492
+Tota
+Amount:
+080.85
+EcQ
+High
+Qix:

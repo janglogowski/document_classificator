@@ -1,0 +1,75 @@
+Component Overview
+Project
+MC 540X
+Intemalko:
+PR-824
+Prepared BL
+Laura Rossi
+ApprovedB
+JanKolski
+Location: Plant 1C
+Date: 2024-05-01
+Configuration Type
+Rneumatic Contol Untt
+Operating Rressure
+300 Dar
+Flow Rate
+60 Lmin
+Operating Voltage
+40Q VISHZ
+Filtration
+inline; 10 pm
+Frame Material
+Poxder-coaled Steel
+retum
+Reservoir Capacity
+160
+Motor Power
+5.SkW
+Dimensions (LxWkHL
+1200
+700_
+T100Mm
+Protection Class 
+Ipo
+Noise Level
+Z0dBIAL
+Pump Uxpe
+Piston Pump
+Total Weight
+230kq
+Control Valve
+Manual Ovemde 3/2
+Oil -
+HLP 32
+Charging Time
+2n
+Cooling 
+Air-cooled
+oilTadhaior
+summary relledts the lalest revision of the product data. Document control numbers are included for
+traceability- This closure note indicates the data sheet t
+ready for release. Use this summary to coss-check
+with BOM and inspection reports
+Malerial of Construction:
+Labei
+Composttion
+Prcssure Valve
+Brass CZ121
+Batter  Pack
+Lithium-lon Cell Pack
+Diqttal Display Unit
+ABS Plastic
+Wmng Loon Im
+PVC (Rigid)
+Pouer Sutch
+Polkaponate
+Copper
+Beanng 6202Z7
+Stainless Steel304
+Cooling Gel Pack
+Silicone Rubber
+Fuse 5A
+Ceramic Oxide
+Type
+Tnis

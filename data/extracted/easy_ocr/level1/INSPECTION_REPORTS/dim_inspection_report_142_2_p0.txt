@@ -1,0 +1,70 @@
+Tolerance Check
+Inspeciar
+Cailos Garcia
+Inspeclion
+Dale
+2024-04-18
+This data extract
+prepared for quality-control sign-off. Use this examination summary
+confirm
+component conformity. Entries include both passifail markers and deviation magnitudes
+Please review the
+inspection results for each component listed below Review recorded tolerances against engineering
+specifications:
+Ensure measurement methods align with calibration standards
+Item Code
+QN77OH
+RX- 3102
+VR-940T
+TY-350G
+WD-1808
+A.115Q
+Part Name
+Hex Bolts
+Wooden
+Wooden
+0-Ring NBR
+Shaft S0Omm
+Wooden
+M12
+Pallet
+Pallet
+60mm
+Pallet
+Dim
+Widlh
+widlh
+Hole
+Uhickness
+Height
+hckuesc
+Nominal
+36.91
+56.15
+85.50
+39.79
+48.05
+Observed
+36.76
+39,79
+48,18
+Diff
+PassiFail
+Please address any NOK items before proceeding -
+the next production stage:
+Components failing
+inspection
+immediate review and corrective action_
+Ensure all measuring tools were properly
+calibrated:
+Instrument Calibration Log
+Instrument
+Serial No
+Last Calibration Date
+Micrometer
+98994
+2024-12-05
+Laser Scanner
+3139
+2024-08-02
+require

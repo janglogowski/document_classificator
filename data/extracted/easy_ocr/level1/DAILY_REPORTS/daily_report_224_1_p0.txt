@@ -1,0 +1,89 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-880
+Customer:
+CANADA
+Supervisor:
+Launa
+Rossi
+Department:
+Packaging
+Date:
+2024
+Shift:
+(Evening
+Machine
+Process
+Technician
+Start
+Total
+Comments
+duration
+MC-203
+Assembly
+Mateusz
+11.15
+11.40
+Delay
+Jarzyma
+MC-205
+Assembly
+Piotr
+14.30
+15.16
+Recalibrated
+Lewandowski
+MC-205
+Assembly
+Nadia Sauter
+14.15
+16-05
+110
+Recalibrated
+MC-207
+Cutting
+Mateusz
+12.00
+13.55
+115
+Delay
+Jarzyma
+MC-209
+Polishing
+Jan Kowalski
+Recalibrated
+MC-209
+Drilling
+Jan Kowalski
+09.00
+09.28
+Recalibrated
+MC-207
+Welding
+Wiktor
+07.15
+09.01
+Kopczynski
+MC-204
+Assemoly
+Jan Kowalski
+10.15
+Recalbraled
+Part ID
+Planned Qty
+Achieved Qty
+Rejected Qty
+Scrap
+Uwagi
+BZ-660
+292
+288
+209
+Tocs
+TR-2OOB
+35%0
+Prepared DX:
+Peter Schmdt
+Approved DY:
+Anna Nowak
+Time

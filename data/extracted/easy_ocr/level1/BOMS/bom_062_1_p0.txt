@@ -1,0 +1,91 @@
+BILL OF MATERIAL
+Customer ID: FINLAND
+Coordinator: Laura Rossi
+Date; 2025-06-18
+Product ID: MS-6OOP
+Internal No : 7831570
+Order Qty: 106
+Review the materials tally for compliance with budget allowances. The component roster below
+includes unit costs and batch codes.
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+1.59
+096
+pcs
+8.00
+72.00
+Imported
+soomm
+Sensor Clip
+3.17
+1090
+pcs
+0.95
+11.40
+Li-Ion
+battery
+installed
+Sensor Clip
+0.59
+pcs
+0.95
+26.60
+Imported
+Rubber
+1.98
+596
+0.55
+20.90
+importea
+Stopper
+LED Light
+1.41
+50/
+2,50
+10.00
+ROHS
+Strip
+compliant
+LED Light
+2.64
+24/
+2.50
+110.00
+ISO
+Strip
+verified
+Ventilation
+1,.46
+0%6
+5.60
+212.80
+Grid
+alignment
+adjusted
+Ceramic
+1,77
+596
+2.10
+39.90
+ROHS
+Disc 8Omm
+compliant
+Ensurc this materials summary
+reconciled with the purchase order. Cross-verify totals with the
+ERP system for consistency- Check that component quantities align with production run
+requirements_
+Total Amount:
+503.60
+Approved By:
+Department:
+2c
+Hinge
+Sourcing

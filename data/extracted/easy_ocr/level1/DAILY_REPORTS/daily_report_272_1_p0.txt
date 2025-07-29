@@ -1,0 +1,117 @@
+Production Log
+PR-324
+Renort No;;
+SWEDEN
+Customer
+AnnaNow]
+Super
+TuSd
+Quality
+Contrai
+Deuanmenl:
+31-0
+2024
+Date
+(Night)
+Shift:
+Duration
+Notes
+Machine ID
+Operation
+Technician
+From
+Finish
+(min)
+lena
+08:15
+09.46
+N/A
+MC 204
+Culting
+Magual
+Witkowska
+Przemysav
+13.30
+14.34
+N/A
+MC-203
+Cutting
+Wasik
+Dciay
+MC-206
+Polishing
+AnnaNowak
+11.30
+132
+MC-202
+Cutting
+Magdalena
+10.15
+11.01
+Vkcwska
+Nadia Sauter
+06.00
+07.58
+MC- 201
+Drilling
+N/A
+Wiktor
+09.30
+T1.01
+MC-203
+Drilling
+Kopczynskl
+MC- 201
+Welding
+Agnieszka
+11:00
+11.21
+Zielinske
+Bartosz
+11;15
+12.50
+Delav
+MC-208
+Welding
+Wawrzyniak
+Premustaw
+11:15
+12.19
+N/A
+MC-202
+Welding
+Wasik
+Agnicszka
+08-00
+08.36
+MC-207
+Drilling
+Zieliriska
+MC20e
+Welding_
+Jan Kawalski
+09.15
+11.01
+Planned Qty
+Achlcved Qty
+Rejected QUY
+Rejection %
+Uwari
+Product ID
+26nu
+Scrap
+WD-1805
+133
+130
+confirmed
+9.7636
+Rework needed
+TR-ZOOB
+164
+11.544
+AZ 300T
+234
+Anna Nowak
+Prepared by:
+Anna Nowal
+Approved by:

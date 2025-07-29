@@ -1,0 +1,96 @@
+Audit Trail
+#3850100
+Date: 17.07.2025
+Product ID
+DX-7771
+Cumtomer
+BELGIUM
+Itom Descriptlon
+Epoxy Resin Kit
+Reler =
+the quality register tor sampling-plan references
+This sactian Delails qualit; raqulrements undtest
+points for the batch Entries include both visual and functional inspection items
+Belov are tne items -
+uened
+durang the flral product revlew_ All checklist aritrlas are tiriastamiped (or traceabillty.
+Inspectlon Chucklist
+Check
+Catogory
+Observations
+Dointe
+Intensity
+Componeni
+Criteria
+Critical
+Major
+hinor
+OnHold
+Missing distributor
+Level II
+Needs review
+information
+qetectonhousing
+Nrecs [aviey
+Palnt smcaringor
+LaveliI
+acratches
+Rubhur Switch rot
+Level |
+Critical imdact
+working
+Screws
+00Ye
+Missing
+Leveli
+Critical impact
+Missing logo
+warning
+LavelM
+Wadel
+Incorrect Darcode
+(abel
+Crilical Impact
+Nol assembled a poI
+Critical impact
+drawing
+Cannectornot workinp
+Needs
+TEVelc
+Expusau
+Kvith Shard
+Level MI
+Noeds revIew
+point
+Rubbei
+exiute
+Laveli
+Crirical Impact
+9iossinase
+mismatch
+Shipping mark
+illegible
+Level /
+Criticall impact
+missing
+Carton
+damagedor
+Level II
+Critical impact
+markings incorect
+Sharp edges on plastic
+Level II
+Criticel impact
+components
+Batterynot included
+Level II
+Needs review
+AQL Level
+Critical
+Maor
+Minor
+Default
+Cusiomar
+specific
+Vis e
+nail

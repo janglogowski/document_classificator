@@ -1,0 +1,40 @@
+Inspection Register
+Quality Check Items
+Inspection
+Defect Class
+Observations
+Depth
+Product Requirements
+Dead
+Itve insect in
+Level III
+packaging
+Screws loose or missing
+Level l
+Minor issue observed
+Exposed na
+sharp point
+Product doesnt power on
+Lavel
+Needs review
+Rubber toxture .
+glossiness
+Minor issue observed
+mismalch
+Wrong product
+Rubber
+Switch not working
+Mior issue observed
+Battery not_included
+Levei
+Needs review
+Package
+sealed
+Level Il
+completely
+Reference Standards:
+Standard
+Edition
+RoHS
+2015
+EC 61010

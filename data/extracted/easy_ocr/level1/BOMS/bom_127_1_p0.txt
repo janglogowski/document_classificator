@@ -1,0 +1,102 @@
+BILL OF MATERIAL
+Customer ID: BELGIUM
+Coordinator: Anna Nowak
+Date:
+2024-02-04
+Producl ID: TX-820V
+Interna
+No.
+2919527
+Order Qly: 427
+This extract shows the bill of components and total
+projected spend_
+This section outlines the
+parts
+unit prices and total
+amounts for assembly
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Wooden
+3.12
+10%
+pCs
+15.00
+210.00
+Hinge
+Pallet
+alignment
+adjusted
+Grease
+0.76
+10%
+pCS
+1,90
+34.20
+Li-Ion
+Tube 250ml
+battery
+installed
+Fuse 5A
+1.64
+2%
+DCS
+0,30
+3.30
+Certified
+batch
+Protective
+0.88
+1.80
+7.20
+Sleeve
+summ
+Terminal
+1.05
+0%
+pCs
+3.40
+74.80
+Urgent
+Block 4P
+Plastic
+0.41
+590
+pCS
+0,20
+8.80
+Certified
+Rivets
+batch
+Grease
+2.38
+10%
+DCS
+1.90
+57.00
+ROHS
+Tube 250ml
+compliant
+Clamp
+1.0
+59
+pCS
+1,75
+15.75
+Li-Ion
+120mm
+baltery
+installed
+Total
+Amount:
+411.05
+Approved By:
+Sourcing Department:
+Ring

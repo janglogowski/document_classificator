@@ -1,0 +1,116 @@
+Shift Summary
+Report No:: PR-408
+Customer: CANADA
+Shift:
+(Morning)
+Date: 05-06-2025
+Machine
+Operation
+Operator
+From
+Finish
+Total
+Uwagi
+Status
+Ime
+MC-207
+Polishing
+Bartosz
+07.30
+09.02
+Recalibraled
+Wawzyniak
+progress
+MC-202
+Drilling
+Anna Nowak
+14-00
+15.58
+118
+progress
+MC-201
+Welding
+Dawid
+11.00
+12.36
+Delay
+Completed
+Oszmianczuk
+MC-204
+Polishing
+Nadia Sauter
+10.00
+10.31
+NA
+progress
+MC-208
+Polishing
+Nadia Sauter
+08.00
+09.03
+Delay
+progress
+MC-204
+Assembly
+Nadia Sauter
+13.15
+1440
+Completed
+MC-209
+Drilling
+Maleusz
+11.00
+12.56
+116
+Delay
+Delayed
+Jarzyna
+MC-204
+Assembly
+Przemyslaw
+13.15
+15.13
+118
+Recalibrated
+Wasik
+progress
+All operator notes have been archived for review: No critical delays were observed; please address any
+minor issues noted: Archive this output summary for end-of-day reporting: Overall production performance
+met expectations for the day:
+Product ID
+Target Qty
+Achieved
+Rejected
+Scrap
+Rework Qty
+Uwagi
+Qty
+Qty
+GH-770J
+127
+123
+3.15%
+Rework
+meeded
+GL-980S
+163
+3296
+Rework
+needed
+HF-390A
+230
+13.489
+RM-86ON
+282
+260
+80%0
+DX-777T
+244
+2.46%0
+XD-TIOR
+165
+15.159
+Rework
+needed
+Approved by:
+Prepared by:

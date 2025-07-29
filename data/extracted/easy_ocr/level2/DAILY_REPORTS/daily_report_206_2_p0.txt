@@ -1,0 +1,103 @@
+DAILY PRODUCTION REPORT
+Report
+PR-450
+Custamen
+CANADA
+Supervisor;
+aa
+Departmient;
+Lanstics
+shile;
+Eveninel
+01-04-2024
+Ths sectlon details the
+Inctnc
+activitles recorded during the shuft: Althroughput flrures Jre
+rucardud
+capacity planning: Thls extract shows dally Yield, scrap rates; and rework occurrences Refer to this log
+monitor
+shllt prodluctivity and cycle counts
+Machine
+Task
+Technlclan
+Begin
+End Tlme
+Total
+Note;
+("Ci
+power
+duration
+Dm
+MC-206
+Polishing
+Dawld
+09,J0
+11,24
+114
+Delay
+56.4
+1,02
+Oszmnlanczuk
+MC-202
+Assembly
+mM
+Nowak
+08,00
+09,54
+7J 5
+2.18
+MC 205
+Pollshing
+Jan Kowvalski
+Je
+Jant
+MC-205
+Polishing
+Wiktor
+07,00
+08,57
+1,07
+Kopczynski
+MC-207
+Cutting
+wiktor
+11;15
+12,00
+64.5
+2,97
+Kopczynski
+MC-202
+Welding
+wiktor
+08,00
+09.15
+61.4
+2,79
+Kopczynski
+MC-209
+Cutting
+12.00
+12,36
+55.1
+1,53
+Lewandowski
+MC-202
+Pollshing
+Agnieszka
+10,00
+11,40
+1o0
+2,62
+Zlellnska
+Prepared
+aa
+Hass
+Appraved DY:
+Lal
+R0ss
+No -
+Rossi
+6ey
+Temp
+Piot(
+Ibva

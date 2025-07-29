@@ -1,0 +1,76 @@
+COMPONENT BREAKDOWN
+Customer ID: POLAND
+Coordinator:Peter_Schmidt
+Date: 2023-12-14
+Product ID: VR-940T
+Internal No.: 3615478
+Order Qty: 309
+The
+manifest here is designed to support procurement workflows_
+Ensure each component
+meets the specified quality standards. This extract shows the bill of components and total
+projected spend_
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+0.82
+0%
+pcs
+8.00
+48.00
+Li-Ion
+s00mm
+battery
+installed
+Set
+0.38
+10%
+pCs
+2.50
+110.00
+For
+expor
+Spring
+0.71
+2%/
+pCs
+0.05
+1.75
+ROHS
+Washer
+compliant
+Baltery
+2.44
+29
+pCS
+25.00
+650.00
+Imported
+Pack
+Clamp Ring
+3.48
+0%
+pCS
+1.75
+80.50
+Li-Ion
+120mm
+battery
+installed
+Review this summary against the master budgeting sheet:
+Tota
+Amount:
+890.25
+Approved By:
+Sourcing Department:
+pants
+Hinge
+M1o

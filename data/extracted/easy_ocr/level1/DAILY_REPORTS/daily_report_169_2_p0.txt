@@ -1,0 +1,105 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-963
+Cuslamier-
+3RAZ
+udenvisoi
+Peter Schmict
+pepartment'
+Vaintenance
+Snift;
+(Evening)
+18-06-2024
+Revlew the operational data
+Erad
+compliance with dally
+This dashboard section highlights any production
+bottlenecks The summary below lists each station'
+actuz
+planned output,
+Equipment
+Operation
+Operator
+From
+Finish
+Duration
+Remarks
+emperature
+Energy
+(min)
+(kWh)
+MC-202
+Cutting
+Nadia Sauter
+13,00
+13,37
+Recalibrated
+73.6
+1.76
+MC-202
+Assembly
+Dawid
+09,00
+10,34
+1,54
+Oszmianczuk
+MC-207
+Polishing
+Jan Rovaiski
+14.15
+16,03
+108
+Recalonated
+1.81
+MC-208
+Welding
+Anna
+Nowak
+11,00
+12,02
+Delav
+MC-203
+Cutting
+Przemyslaw
+13.15
+14.57
+102
+73.6
+1.68
+Wasik
+MC-206
+Assembly
+Nadia Sauter
+08.00
+08.23
+121
+MC-209
+Polishing
+Bartosz
+13.30
+14.19
+78.0
+1.05
+Wawmyniak
+MC-208
+Welding
+Piotr
+13,30
+14,58
+Delay
+57.1
+2.18
+Lewandowski
+MC-209
+Cutting
+Agnieszka
+09.00
+10.14
+70.5
+2.95
+Zielinska
+Prepared by:
+Kawalski
+Approved by:
+Anna Nawak
+Boals

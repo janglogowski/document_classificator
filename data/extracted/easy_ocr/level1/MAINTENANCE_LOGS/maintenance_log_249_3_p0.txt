@@ -1,0 +1,139 @@
+Machine Log Summary
+Performed On: 2024-01-23
+Authorized bx;
+Carlos Carcia
+OcGralor
+Anna Navak
+Eniries include wrork orders
+lucmniciam
+a5stunmunls
+Durt chunacs
+clow
+sumirmaiy
+sUrvicu aclions and
+uavaumicS Iur Gjcm macmc
+Check thalall downlime
+vcnls Jru propcly
+calegorized and logged: Use lhs record
+upcoming upkeep and repairs
+technician comments are recorded
+mainienance trend
+analysis, Please review this
+TorrecrneSerce
+dates, types
+remarks
+Section A:
+Machine ID
+MC 277
+MC ?25
+KC ?73
+MC 232
+MC 286
+MC ?92
+Equipment
+Lase
+Cuter
+CNC Milling
+Hydraulic
+CNC Milling
+Conveyor Belt
+Laser Cutter
+Yachine
+Machine
+Lype
+Inspection
+Preventive
+Corrective
+Preventive
+Insdection
+Corrective
+Technician
+Peter Schmid:
+Jan Koxvaiski
+JanKowalski
+Laura Rossi
+Peter Schmid:
+Jan Kaiski
+Dawntime
+Notes
+Changed
+Replaced
+Calibration
+Changed oil
+Wooden
+No issues
+and filters
+(5A):
+cneck OK.
+filters .
+pallat
+Houno
+checked.
+Seclion B;
+Machine
+MC-277
+MC-232
+MC-286
+MC-273
+MC-250
+MC-251
+Equipment
+Laser Culller
+CNC Milling
+Conveyor Bell
+Hydraulic
+Paint Booih
+Lalhe
+Machue
+Picss
+Type
+Inspection
+Inspection
+Prevente
+Prevenve
+Prevenive
+Innspeluoi
+Technician
+Kowalski
+Anna Nota<
+Peler Schmidl
+Laur Ross
+Peler Schdl
+Lauj Rosse
+Downtime
+Notes
+Sansor
+Cdlbration
+antened
+No issues
+Sensor
+Calibration
+[cca bralcd
+check Ok
+loose bolls
+uunu
+fcca lbralcu
+ciicck
+Relur
+Tuinank
+lar Any
+follow-up aclions
+puna
+replacement;
+Ovurall equipmnent condiion
+salislaclory
+Maintenance
+Ensure next preventive service
+scheduled acccrding
+plan. Coniirm Ihat all ccrreciive acions were
+Froperly closed out_ Maintenance notes are archived for compliance audits
+Archive this summary
+CMMS for future
+reterence
+Uptime (%u)
+Error Couint
+Comnments
+93 1396
+Bolt tightened
+Prege
+post

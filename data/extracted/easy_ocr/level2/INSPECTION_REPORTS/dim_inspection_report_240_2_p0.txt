@@ -1,0 +1,75 @@
+Measurement Summary Sheet
+Inspector
+Anna Nowak
+Inspection Date
+2024-01-04
+This section delails Ihe measured values, tolerances, and status flags_
+Entries Include bolh
+passifail markers
+and deviation magnitudes
+Use this results summary
+trigger any corrective actions: The inspection
+register below' highlights any out-of-tolerance parts; Check that all dimensions comply with ISO and
+company standards.
+Product Ref
+KV-390K
+PW-515Y
+TX-B20v
+GH-770J
+TR-ZO0B
+SL-430M
+Part Name
+Steel Sheet
+Wooden
+Battery Pack
+Wooden
+Set
+Hex Bolts
+436
+paet
+pallet
+M12
+Measurement
+Hole
+Height
+Thicknoss
+Tnci
+Hole
+Width
+Diamete
+Target
+46.93
+27.84
+90.93
+78.67
+9.01
+20.47
+Observed
+46.93
+28.00
+90.80
+78.72
+9.10
+20.47
+Diff
+tUI6
+FOOF
+Pass Fail
+Overa
+inspection summary indicates acceptable quality levels.
+Refer t0 devialion column for any out-of-
+tolerance measurements: Inspection notes have been logged for traceability. Confirm that pass rates meet
+the defined acceptance criteria
+Instrument Calibration
+Instrument
+Serial
+Last Calibration Date
+CMM
+99042
+2025-05-19
+CMM
+55834
+2024-10-19
+Hinge
+Log:
+No.

@@ -1,0 +1,50 @@
+Customer ID: TURKEY
+Prepared by: Jan Kowalski
+Product ID: GL-980S
+Internal No.
+2625911
+Review the materials tally for compliance with budget
+Ilowances. Use this schedule of parts t0
+align with sourcing and stock levels.
+Ensure each component meets the specified quality
+standards. Below is the component listing and associated costs for the upcoming production
+batch; This document provides
+detailed breakdown of all components required for the assembly
+process.
+Use this breakdown tO verfy sourcing and cost estimates
+Item
+Plastic Cover
+Sensor Clip
+Control Panel
+Shaft 500mm
+Hex Bolts
+Description
+150x150
+Mount
+M12
+Qty
+999
+470
+852
+582
+860
+UOM
+Unit Price
+12.00
+0.25
+Amount
+098.90
+446.50
+10,.224.00
+4,656.00
+215.00
+Remarks
+For export
+ROHS
+For export
+Urgent
+SKF brand
+compliant
+TOTAL: 16,640.40
+pcs
+Ecs

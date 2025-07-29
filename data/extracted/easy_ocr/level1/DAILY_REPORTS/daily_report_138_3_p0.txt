@@ -1,0 +1,115 @@
+Production Log
+Report No : PR-662
+Customer: CANADA
+Shift:
+(Morning)
+Date: 22-09-2024
+Machine
+Operation
+Technician
+From
+Total
+Uwagi
+Stage
+duration
+MC-208
+Cutling
+Wiktor
+06.00
+06.49
+Compleled
+Kopczynski
+MC-202
+Assembiy
+Anna Nowak
+13.00
+1403
+Delayed
+MC-202
+Piotr
+10.00
+11.48
+108
+Recalibrated
+Delayed
+Lewandowski
+MC-201
+Polishing
+Bartosz
+10.15
+11.14
+Wawrzxniak
+progress
+MC-204
+Pollishing
+Bartosz
+12.15
+13.02
+Delay
+Completed
+Wawrzyniak
+MC-209
+Welding
+Nadia Sauter
+06.30
+07.14
+Delayed
+MC-205
+Welding
+Agnieszka
+07.15
+07-55
+Delay
+Completed
+Ziellnska
+MC-208
+Culling
+Dawid
+14.15
+15.25
+NA
+Compleled
+Oszmianczuk
+MC-201
+Polishing
+09.15
+10.33
+Completed
+Lewandowski
+MC-207
+Cutting
+Agnieszka
+10.15
+11.51
+NA
+Delayed
+Zielinska
+Note any unscheduled stops in the downtime register; This closure summary signals readiness for the next
+production run. Ensure shift-handover notes include any pending issues. No critical delays were observed;
+please address any minor issues noted. Use this summary to update the overall production dashboard:
+Part ID
+Target Qty
+Achieved
+Scrap Qty
+Failure %
+Rework Qty
+Comments
+Qty
+WD-1805
+164
+143
+12.80%
+Rework
+needed
+RE-850C
+162
+143
+11.73%0
+ZR-ZOSR
+245
+220
+10.20%
+Approved by: 
+Prepared by:
+Cutling
+Piotr

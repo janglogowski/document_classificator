@@ -1,0 +1,94 @@
+BOM Report
+Customer ID: FINLAND
+Coordinator: Jan Kowalski
+Date; 2024-11-23
+Product ID: TX-820V
+Internal No.
+9285521
+Order Qty: 59
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+2.87
+590
+pcs
+4.50
+121.50
+Bracket
+alignment
+adjusted
+Battery
+2.24
+290
+pcs
+25.00
+625.00
+Imported
+Pack
+Terminal
+2.79
+590
+3.40
+125.80
+Swtch
+Block 4P
+tested OK
+Copper
+2.45
+1090
+0.60
+31.80
+Certified
+Wire 3mm
+batch
+Clamp Ring
+1.02
+1090
+1.75
+15.75
+Hinge
+120mm
+alignment
+adjusted
+Wooden
+0.83
+290
+15.00
+75.00
+Certified
+Pallet
+batch
+Rubber
+2.14
+096
+pcs
+0.55
+24.20
+Switch
+Stopper
+tested Ok
+Cable Tie
+0.48
+090
+pcs
+0.95
+0.95
+Pack (100)
+Verify that all remark items meet the sourcing department'
+standards- Ensure this materials
+summary
+reconciled with the purchase order.
+Total Amount:
+,020.00
+Approved By:
+Sourcing Department:
+Hinge
+pcs
+pcS

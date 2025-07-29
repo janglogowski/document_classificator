@@ -1,0 +1,44 @@
+Unit Data Specification
+Internal No:: PR-852
+Product IL
+QP-660F
+Date: 2024-11-17
+Configuration Type
+Hxraulic Pover Unit
+Design Pressure
+300 Dar
+Flow Rate
+30 Umnin
+Supply Voltage
+400
+50Hz
+Pump Type
+Piston Pump
+Filtration
+10 pm retur; 25 pm
+SuCtion
+Frame Material
+Aluminum Frame
+Battery Capacity
+Cooling
+Water-cooled
+exchanger
+Component
+Materals Overviewi
+Subcomponent
+Composition
+Speciication
+Rubber
+Gaskel 8Umm
+Rubber
+nlcomosive
+Steel Sheet A36
+Carbon Steel A36
+DINEN 10025
+Battery Pack
+Lithium-Ion Cel
+Pack
+CE certified
+Prepared by: Carlos Garcia
+Approved by: Laura Rossi
+Nurile

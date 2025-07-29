@@ -1,0 +1,68 @@
+BILL OF MATERIAL
+No
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Heat
+2.70
+48.60
+SKF brand
+Resistant
+Sleeve
+Clamp
+pCS
+1.75
+66.50
+ROHS
+compliant
+120mm
+pCS
+0.30
+0.30
+ROHS
+compliant
+Rubber
+pCS
+26.00
+Eco
+Gasket
+compliant
+80mm
+Fuse 5A
+PCS
+High grade
+Plastic
+pCs
+7.40
+Rivets
+Hex Bolts
+pCS
+10.25
+Imported
+M12
+LED Light
+2.50
+100.00
+High
+Strip
+Review this summary against the master budgeting sheet. Ensure archival of this materials
+summary for compliance records.
+Customer ID: BRAZIL
+Coordnator:_ Jan Kowalski
+2023-07-30
+Product ID:
+FT-730X
+Internal
+2519996
+Order Qty: 451
+Total
+Amount:
+266.85
+Ring
+Fuse
+grade
+Date;

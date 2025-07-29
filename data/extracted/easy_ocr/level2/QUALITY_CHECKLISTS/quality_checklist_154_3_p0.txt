@@ -1,0 +1,77 @@
+Inspection Record
+Review Points
+Check
+Defect Class
+coranante
+Intensity
+Design Specs
+Critical
+ainar
+Wood splinter
+OnHold
+point
+Dioduc
+Level /
+Critical Irpact
+Instruction manual is
+Inissing
+damaged
+LevelII
+Crilical impact
+Missing
+warrire
+Leval IlI
+Minor
+issue
+observad
+dofect on
+LevG
+inccnecr
+Minor issue observed
+oncntaion
+Level III
+Miror Jssue observed
+Dead
+Jve insect
+packaging
+Level IlI
+Not assembled #5 per
+drawing
+Lave
+Nuuds revlaw
+Packaging 
+ane3 natmatch
+signed sample
+LevelIlI
+Critical impact
+Missing distributor
+mmormaton
+LevelI
+Criticelimpact
+Package
+nat sealed
+completely
+Dustfdeuris inslde
+Lovel III
+packagirg
+prouuct sizc
+Mncorre C
+barcode or Iabel
+EvCL
+Needs revew
+Reterence
+Needs review'
+Standards:
+Standard
+Edirion
+CE Direcuve
+2020
+61010
+Mojot
+norp
+ogo
+latel
+Vsutl
+housing
+Wronel
+'L

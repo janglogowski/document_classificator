@@ -1,0 +1,56 @@
+Customer ID: GREECE
+Prepared by: Jan Kowalski
+Product ID: JD-ZOOW
+Internal No:: 9918055
+Below is the component listing and associated costs for the upcoming production batch: This extract
+shows the bill of components ad total projected spend: The parts manifest here
+designed t0 support
+procurement workflows Ensure each component meets the specified quality standards. This section
+outlines the parts, unit prices and total amounts for assembly-
+Item
+Battery
+Terminal
+Ceramic
+LED Light
+LEO Light
+Copper
+Description
+Pack
+Block 4P
+Disc 8Omm
+Strip
+Strip
+Wire 3mm
+Qty
+699
+908
+113
+641
+UOM
+Unit Price
+25.00
+210
+2.50
+2.50
+0.60
+Amount
+21,825.00
+2,376.60
+1,835.40
+2,270.00
+282.50
+384.60
+Remarks
+Certified
+Switch
+Li-Ion
+For export
+SKF brand
+batch
+tested
+alignment
+battery
+adjusted
+installed
+TOTAL: 28,974.10
+Hinge

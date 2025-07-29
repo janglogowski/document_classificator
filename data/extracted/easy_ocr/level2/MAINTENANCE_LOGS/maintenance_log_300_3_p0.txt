@@ -1,0 +1,123 @@
+Machine Log Summary
+Performed On: 2025-07-05
+Autnonzed Di
+LAMn
+Rossi
+Queralam;
+Anna Nowvmk
+This IOE records all maintenance activitios petformed
+ihe gquipment
+Please ruvic Ntni; lorlior recent SCNicu Gatcs
+types
+and remarke
+Engute
+sate0 checks  Kere completed qurine
+servicing: Use this summary t0 forecas
+Dart; replacement an0
+resqurceneeds
+Refer to the maintenance register for detailed service histcries
+Section
+Machine ID
+MC-298
+MC-252
+MC-283
+MC-273
+MC265
+MC-Z38
+Machine
+ESsembk
+AEE
+Cutter
+Hydraulic
+pid"Ma
+Cutter
+Plasmacutter
+Hudramlic
+9re8 &
+Pre 9 9
+Sorvico Typo
+Inspuction
+inspuctor
+Corructivo
+Cartucti
+Correctivl
+inspucton
+Technician
+Anna Nowvak
+Carlos
+Carcie
+Anna Nowbk
+AnnaNowar
+Anna Ncwvak
+Anna Nowak
+Dowvntim
+Notos
+Tightoned
+Refilled oil
+Renlaced
+Waadum Dalllot
+Sunsor
+Worn
+loose bolts
+(HLP 461,
+cociang
+checked
+recauutaled
+reniaced
+Seclian
+Machine
+NC-298
+MC-265
+HC-238
+MC-252
+MC-273
+MC-283
+Macnine
+Assembl
+Plasma
+Cutter
+Hydraulic
+Lazercurtet
+Plasma Cutter
+Hydraulic
+Pobot
+Press
+Prosts
+Senvice [ype
+Inapectiog
+Comective
+Pravente
+Cotreciive
+Corrective
+Preventive
+Tc cnnicinm
+Puler Schmmidt
+Jin KC valj 
+Curios Gurcia
+Curlus Gurcid
+Puler Schmiut
+Anna
+Nowak
+Downtime
+Note 9
+KepiacedTu3e
+Wooden pallet
+Replaced fuse
+No Is3ue9
+Alignment of
+Refilled oil
+(S4.
+checked
+found
+(HLP 46) .
+adjustod:
+AIL malintenaincataskahavubcun comdlutudasdur #chudule
+Ensuru that uach survice entry has thc required upprovals
+Uptime (%
+Error Couni
+93 6205
+Replaced filter
+Robot
+Faskut
+hingas
+Noles

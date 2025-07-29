@@ -1,0 +1,51 @@
+Interna
+No.: 1529499
+Praduct
+ZR-ZOSR
+Date: 2023-10-30
+Configuration Type
+Hydraulic Powe
+Rated Pressure
+300 bar
+Fluid Flow
+48 L/tin
+Operating
+Voltage
+230 =
+L50 Hz
+Dimensions (LxWxH)
+1200
+700 * 1100 mm
+Working
+5Ctc
+45"€
+Protection Class
+Total
+Weight
+250kg
+Mounting
+Skid base with vbration
+Filtration
+inline, 10 um return
+pads
+Component Materials Overview:
+Labe
+Specification
+Hex Bolls M1Z
+alem Stee
+Electrica
+Insulated |ube 2smin
+nermiauiasiic Poivuretmanc
+UTPU)
+UL SICC
+Stainless Steel 304
+Heatresistant
+Steel Sheet 436
+Carbon Steel 436
+UL-listed
+Prepared by: Jan Kowalski
+Approved by: Peter Schmidt
+Temp.
+Range
+Bade
+Hinee

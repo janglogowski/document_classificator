@@ -1,0 +1,65 @@
+Unit Configuration
+Report No: 6101563
+Product ID
+CN-1S0C
+Date: 2025-07-16
+Configuration Type
+Cooling Circulation
+Design Pressure
+180 bar
+System
+Flow Rate
+48 min
+Operating Voltage
+480
+60 Hz
+Service Interva
+12 months
+Control
+Valve
+Directional 4/3
+Battery Capacity
+Reservolr Capacity
+120
+Mounting
+Skid base with vibration
+Noise Level
+68 dB(A)
+Motor Power
+7.5kW
+Dimensions (LxWxHI
+1200x 700 * 1100 mm
+Component Materials Overvieu:
+Lade
+Base
+Specification
+LED Light Strip
+Glass-Filled Nylon
+S0 2768
+Teflon Tape Rol
+Teflon Tape Rol
+Class
+Toierance
+0-Ring NBR 60mm
+Nitrile Rubber (NBR)
+CE certified
+Gasket Sheet 44
+Nitrile Rubber INBRI
+RoHS compliant
+Wirng Loom Im
+PVC (Rigid
+DIN EN 10025
+Rubbe
+Nitrile Rubber INBRI
+IP67 rated
+Wooden palet
+Treated Pine Wood
+RoHs compliant
+Ceramic Oxide
+DINEN 10025
+Prepared by: Peter Schmidt
+Approved by: Peter Schmidt
+pid:
+Gaske
+sOmm
+Fusc

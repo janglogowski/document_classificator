@@ -1,0 +1,125 @@
+Auinolzed Dv:
+Jan Kowakki
+purjlol
+Launa
+Ro
+This maintenance
+extract
+prapared
+Ior compliance
+Judil tails
+ialloino antnas detail prevenine ano corracve
+mainicnancc [usr5
+Atucinician commenis aic (cccoud Ior mamnicnancu treno
+anaySis
+Ensure all salcly checks were
+completed
+during servicing; Check that
+downtime
+events are properly categorized
+logged, This service summary
+supports the reliabilily engineering revie "
+This log records
+mairanarce
+aclivitie =
+performed
+the equipment
+Section A:
+Machine
+MC-215
+CC254
+MC-202
+MC-241
+MC-281
+MC-293
+Machine
+Paint Booth
+CNC Milling
+Laine
+Lathe
+Assembly
+Conveyor Belt
+Machnu
+Roba
+Scrvicc Type
+LOIecWe
+Preventive
+Preventive
+insueciion
+Preventive
+Preventive
+Operator
+JaKowalski
+Carlos
+barcia
+Anna Nowak
+Anna Nowak
+Kowalsk
+Jan Koaiski
+Durition
+Comments
+Refilled cil
+Sensor
+Calibraton
+Sensor
+Sensor
+Changed oil
+(HLP 46)
+cec-libraled
+Cneo
+recalibrhled
+recalibraled
+anoemler
+Section B:
+Machine
+MC-293
+MC-249
+MC-?81
+MC-241
+MC-202
+MC-254
+Machine
+Conveyor Beli
+Paint Booth
+Assaml
+Lathe
+Latha
+CNC Milling
+Robol
+Machune
+Senvice
+Ptevenive
+Inspection
+Corre ctive
+Comeciie
+ptevenive
+Preventive
+Operato
+Carlos Garcia
+Peter Schmidi
+Lar?
+Rossi
+Laur)
+Rossi
+Kowalski
+Jan Kowalski
+Duration
+Comments
+Worn gasket
+Switch
+Nj Isqu25
+Sensor
+Sensor
+Sensor
+replacud
+cunlacls
+jouno
+recalibralgd
+f€callbraled
+ruCulibialed
+cicancu
+Uptime ("o)
+Error count
+Notus
+98.4086
+Type

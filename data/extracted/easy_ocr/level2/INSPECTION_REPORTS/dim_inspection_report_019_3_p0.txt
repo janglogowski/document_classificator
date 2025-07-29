@@ -1,0 +1,78 @@
+Inspection performed by Anna Nowak on 2024-01-07 .
+Product
+Part Name
+Dim:
+Target
+Observed
+Delta
+Status (VIX)
+SL-430M
+Power
+Depth
+44.06
+44.04
+-0.02
+Switch
+CN-1S0C
+Hex Bolts
+Inner
+52.57
+52.59
++0.02
+M12
+Diameter
+WD-1805
+Bearing
+Inner
+48.29
+48,14
+-0,15
+6202
+Diameter
+GL-9805
+Battery
+Length
+89.98
+90.07
++0.09
+Pack
+TX-820v
+0-Ring NBR
+Height
+79.54
+79.49
+-0.05
+60mm
+PL-601Z
+Hinge Sel
+Thickness
+52.03
+51.83
+RE-8SOC
+Wooden
+Height
+99.04
+99.10
++0.06
+Pallet
+BZ-660F
+Power
+Depth
+76.87
+76,74
+0,13
+Switch
+QN-770H
+Plastic
+Height
+84.96
+84.85
+-0,11
+Rivets
+MR-160H
+~Ring NBR
+Depth
+63.10
+63.14
++0.04
+60mm

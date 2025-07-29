@@ -1,0 +1,76 @@
+QC Checklist
+Revien
+points
+Sample Tier
+Classification
+Remarks
+Component Criteria
+Hold
+Packaging does not match
+samnie
+Missing distributor information
+Leve
+Visua
+detect
+hausin
+Leve
+Needs revev
+Gebris
+packaging
+Leve
+Product dpesn [ power Dn
+Mlinor ssue Obsenved
+Hinges
+LCUE
+Mnor
+ASt
+obsemed
+Cjd
+Iive inscct in
+packaging
+Minor Issue observed
+Missing IORo or waming label
+Leve
+Nepns revev
+Shipping mark is illegible
+Level
+missing
+Missing satety labels
+eve
+Functionalitytest failed
+Leve
+Critical impact
+Color mismatch
+Leve
+Critical impact
+Rubber Switch not working
+Mnorssuic Oosened
+Package
+noI sedieo
+compietel
+LCVC
+Wrong product size
+Leve
+Needs reviev'
+Exposed nail with sharp point
+Instnuction manua
+missing
+Level II
+Needs reviev'
+damaged
+LOOS €
+pjns
+inside packaging
+Leve
+s5ue Oosened
+Reterence Standards
+Standaro
+Edition
+Rohs
+7070
+EC61010
+grd Ed.
+5Ened
+Dust
+unslce
+Minor

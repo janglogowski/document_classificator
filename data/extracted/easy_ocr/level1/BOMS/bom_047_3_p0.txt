@@ -1,0 +1,86 @@
+COMPONENT BREAKDOWN
+This document provides
+detailed breakdown of all components required for the assembly
+process.
+All entries rellect Ihe latest inventory and supplier rates. The component roster below
+includes unit costs and batch codes_
+Review the materials tally for compliance with budget
+allowances;
+Item
+Oty
+UOM
+Rate
+Amount
+Remarks
+Description
+LED Light
+2.50
+67.50
+Hinge
+Strip
+alignment
+adjusted
+Plastic
+1.10
+29.70
+ROHS
+Covei
+compliant
+150x150
+Plastic
+pcs
+0.20
+9.00
+High grade
+Rivets
+Hex Bolts
+pcs
+0.25
+9.50
+SKF brand
+M12
+Clamp
+pcs
+1.75
+8.75
+For export
+Ring
+120mm
+Contro
+pcs
+12.00
+408.00
+High grade
+Panel
+Mount
+Plastic
+pcS
+0.20
+3.00
+ROHS
+Rivets
+compliant
+Battery
+pCS
+25.00
+200.00
+SKF brand
+Pack
+Shaft
+pcs
+8.00
+264.00
+Li-Ion
+s0Omm
+battery
+installed
+Customer ID: CANADA
+Coordinator: Laura Rossi
+Date: 2024-08-09
+Product ID: SL 430M
+Internal No;: 5260620
+Order Qty: 379
+Total
+Amount:
+999.45
+PCS

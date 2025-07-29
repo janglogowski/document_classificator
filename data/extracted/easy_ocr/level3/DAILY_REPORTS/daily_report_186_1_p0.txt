@@ -1,0 +1,100 @@
+Shift
+Summary
+Repon No
+Customer
+PR 987
+Supervisor:
+BeL GIUM
+Department
+Anna Nowak
+Date
+Painling
+Shift
+25-03-2024
+(Evening]
+Equipment
+Operation
+Worker
+Start
+Time
+Finish
+Total
+MC-204
+Comments
+quration
+MC 206
+Wawrzyniak_
+15.31
+Delay
+Agnieszka
+11.30
+Zieliriska
+13.13
+103
+Delay
+MC-205
+Drilling
+Jan
+12.15
+MC-208
+Kowalski
+13.33
+Welding
+Nadia
+40.15
+Sauter
+11.40
+MC-208
+Recalibrated
+Jan
+11.30
+12.49
+MC-205
+Kowalski
+Assembly
+14.30
+15,41
+Nowak
+Delay
+Part I0
+Planned
+Output
+Produced Oty
+Scrap Qty
+Scrap %
+Kv-3gOK
+160
+Remarks
+158
+MX- 4501
+'2590
+Rework
+266
+245
+needed
+PL -6012
+8.900
+Rewark
+189
+needed
+Az-3OoT
+157
+KV-Jgok
+12.10%
+Scrap
+131
+conimmed
+14 3880
+Approved byi
+Carlos
+Polishing
+Barlosz
+14-15
+WWelding
+Drilling
+Annb
+2390
+Preparcd
+Garcia
+Lauta
+Ross

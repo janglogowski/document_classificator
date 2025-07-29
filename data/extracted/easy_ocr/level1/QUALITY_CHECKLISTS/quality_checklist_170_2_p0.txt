@@ -1,0 +1,62 @@
+Verification Log
+AlI checklist entries are imestamped for traceability. Confirm that sampling levels comply with customer
+agreements. Below are the items t0 be verified during the final product review Entries include both visual
+and functional inspection items. This summary supports the production-release quallly
+Please review
+each checklist point and mark the sampling results.
+Check that inspection steps follow the approved
+procecure
+Use this extract t0 coordinate sign-off with ihe QA manager;
+Product ID
+AZ-3OOT
+Customer ID
+BRAZIL
+Item Descrption
+Rubber Gasket &0mm
+Inspection Checklist
+Inspection
+Classification
+Observations
+Points
+Depth
+Design Specs
+MA
+Hold
+Missing logo
+warning
+Iabol
+Rubber Switch not working
+Levci
+Color mismatch
+Leve
+Critical impact
+Wood splinter
+sharp point
+Critical impact
+on product
+Screws
+oose Or mssing
+Leve
+Needs review
+Product doesn ! power on
+Leve
+Minor Issue observed
+Package
+not sealed
+Needs review
+completely
+Shipping mark is illegible
+Level IlI
+Critical impact
+Lssing
+Dead or Iive insect in
+Level Il
+Minor issue observed
+packaging
+incorect
+orentation in box
+Criticag
+Impaci
+Supervised by:
+Date:
+gute:

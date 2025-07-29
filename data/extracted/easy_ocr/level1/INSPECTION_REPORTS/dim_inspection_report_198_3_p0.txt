@@ -1,0 +1,135 @@
+Measurement Summary Sheet
+Inspection performed by Peter Schmidt on 2024-12-16.
+Article No.
+Part Name
+Measurement
+Target
+Actual
+Diff
+Status (VIX)
+PL-601Z
+Wooden
+Height
+64.,32
+64.13
+0.19
+OK
+Pallel
+XD-T1OR
+0-Ring NBR
+Inner
+71.10
+71.02
+-0.08
+OK
+60mm
+Diameter
+Ms-GOOP
+Plastic
+Height
+58.86
+58.98
++0.12
+Ok
+Rivets
+FT-730X
+NBR
+Height
+5.29
+5.49
++0.20
+Ok
+60mm
+NE-2454
+Bearing
+Length
+35.92
+35.73
+0.19
+OK
+620222
+RE-850C
+Hex Bolts
+Hole
+40,59
+40,63
++0,04
+OK
+M12
+SL-430M
+Plastic
+Length
+9.79
+9.87
++0.08
+Ok
+Rivets
+RM-86ON
+Shatt
+Thickness
+93.18
+93.08
+~0.10
+OK
+500mm
+KP-320E
+Wooden
+Depth
+84.75
+84.69
+-0.06
+OK
+Pallet
+AZ 300T
+Hinge Set
+Hole
+89.67
+89.74
++0.07
+OK
+MR-160H
+Steel Sheet
+Width
+43.19
+43.00
+0.19
+A36
+JD-700w
+NBR
+Thickness
+91,50
+91.46
+~0,04
+60mm
+GH-770J
+Hinge Set
+Length
+25.48
+25.42
+0.06
+XK-610U
+Steel Sheet
+Height
+14.76
+14.84
++0.08
+A36
+JD-7oow
+Shaft
+Inncr
+37.20
+37.16
+0.04
+Ok
+500mm
+Diameter
+Kv-390K
+Battery
+Width
+97.69
+97.86
++0.17
+Ok
+Pack
+Ring
+~-Ring

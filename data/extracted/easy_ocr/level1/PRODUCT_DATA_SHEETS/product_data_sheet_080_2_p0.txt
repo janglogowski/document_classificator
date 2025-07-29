@@ -1,0 +1,86 @@
+Unit Data Specification
+revier
+the specifications and material composition listed below: The parameter register below includes
+operating limits and ratings Check that all material specs align
+supplier certifications Use this sheet;
+confirm
+erpineering requirements and tolerances_ This data sheet provides key specifications and material details;
+Product ID
+Pw-S1S
+Document No:
+6077020
+Prepared bv: Peter Schmiot
+Apnrovem
+by; Peter Schmidt
+Wate
+2023-10-22
+Model Txpe
+Hudraulic Powe
+Unit
+Design Pressure
+180 Dar
+Throughput
+60 Lltin
+A00
+S0Hz
+Pump Type
+Piston Pump
+Total Weicht
+230
+Noise Level
+68 dBIAI
+Cooling
+Kir-cooled ail radiator
+All specifications meet the design requirements and industry standards
+Check that all section headers follow the
+produc
+Lerplate: This closure note
+Indicates tne dala sheet E
+ready for release- AIl surimary comments
+have been
+recordeg
+the revision
+DB: Material choires and
+process
+data have been verified far compliance
+Flag any missing
+parameters for urgent specification updates:
+Material
+Construction:
+Lade
+Camposition
+Stainless
+Steel 304
+Pare
+Jcn
+Fpanamu
+Copper
+Teflon
+Teflon
+Roll
+Wcode
+Treated Pine Waoo
+Battery
+PAC
+Lithium-Ion
+pressure
+Vaive
+Brass CZ121
+LED Light Strip
+Glass-Filled
+Rubber Gasket 8Omm
+Nitrile Rubber INBR)
+Therma
+FuS
+Ceramic Oxlde
+Cable Tie Pack (1001
+Nitrile Rubber INBRL
+Capacitor 4501
+Aluminum 6061-T6
+please
+Math
+Voltage
+Hingel
+Potyca
+IPack
+Nvon

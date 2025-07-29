@@ -1,0 +1,52 @@
+Unit Data Specification
+Document No: 2722327
+Product ID: LK-8908
+Date: 2024-04-11
+Configuration Type
+Cooling Circulation
+Rated Pressure
+250 bar
+System
+Throughput
+30 Limin
+Voltage
+400
+50 Hz
+Dimensions (LxWH)
+1000
+650
+1000 mm
+Frame Materiai
+4uminum
+Cooling
+Water-cooled exchanger
+Pump Type
+Piston
+Pumd
+Cantrolvale
+Proponional 4/2
+Component Materials Overview:
+Lane
+Composition
+Specification
+Gasket
+Nitrile Rubber INBR)
+DIN EN 10025
+Connector ?P
+Glass-Filled
+IS0 2768
+Hinge
+Stainless Steel 304
+Anticorrosive
+Grapnite Pad
+Grapnite Pad
+DIN EN 10025
+Wcoden Pallet
+regted Ping
+Wocd
+Class
+Folernc
+Prepared by: Jan Kowalski
+Approved by: Laura Rossi
+Frame
+Sncel

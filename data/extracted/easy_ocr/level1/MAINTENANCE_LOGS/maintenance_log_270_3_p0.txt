@@ -1,0 +1,100 @@
+Equipment Record Report
+Performed On: 2023-11-05
+AppiCvCd 0Y
+Pclur Schmidt
+Senviced DY3
+Anna Nowak
+Beloiy
+the summary 0f service actions and dowrntimes
+aachmachine
+Please revieva this (cg for recent servic8 dates
+cpes
+anoFamtar[
+Technicia
+comments arerecorded for maintenance trend analysis
+Use this summary
+Totecas
+parts
+Eplacement ano rescurce needs
+This service summary suppotts the reliability cngincering rovigv:.
+Section
+Machine ID
+MC-296
+MC-209
+MC-223
+MC-230
+MC-235
+Equlpment
+Hydraulic Press
+Packaging Line
+Leser Cutter
+Leser Cuttem
+CNC Milling
+Hucninc
+Service Type
+Preventive
+Corrective
+comective
+inspecuon
+Corrective
+Technician
+Jan Kowalskl
+Peter Schmidt
+Jeter Schmidt
+Cano: Gaicia
+Lauta Rorri
+Duration
+Comment
+Tightened
+Dosc
+Refilled oil (HLP
+Icceeuse
+Tightened
+loosc
+Swiich cnntncts
+DCS
+54
+Dolts
+Cleaned
+Section
+Machine ID
+MC-230
+MC ?09
+MC-?35
+MC?23
+ML-296
+Equinmcnt
+Lasur Cuttcm
+Puckudna Linu
+CNchilini
+Lusci
+Cutter
+Hycrjunc Pruss
+Machine
+Service Type
+shecmnn
+Coieciive
+nspeclion
+Preventive
+Unsheclicn
+Technician
+Anna Nowak
+Carlc: Garcin
+Laura Rossi
+Carlo: Garcin
+Lauma
+Porsi
+Duration
+Comments
+Replaced
+Worn gasket
+Replaced
+Replaced fuse
+~Bplaced.
+coolant
+ISAL
+Uptlme
+ount
+Notes
+95.1608
+Ralt Tiantened

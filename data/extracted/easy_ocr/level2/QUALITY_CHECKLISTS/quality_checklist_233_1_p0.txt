@@ -1,0 +1,72 @@
+Audit Trail
+#8560657
+Date: 17.07.2025
+Product ID
+Ig0X
+Customer ID
+BELGIUM
+Utem
+Description
+Digital Displax Unt
+This closure summary incicates compliance Wth inspection cnteria This section details qualily requirements
+and test points for the batch_Please review each checklst pont and mark the sampling results_ All checkist
+entries are timeslamped for traceability: This summary supports the production-release quality gate
+Use this
+confimm adherence
+AOL and safely Standards_
+Confimm that sampling levels comply Kih cuslomer
+agreements_
+Check that inspection steps follow the approved procedure_ Archive this Ist in the quality-
+managerent system Refer to the quality register for sampling-plan references
+Quallty Check Items
+Check
+Severity
+Remarks
+Intensity
+Design Specs
+Loose pans inside packaging
+Level
+Needs revewl
+Exposed
+sham
+Level
+Minor
+Issv2
+obsened
+Misual defect on housing
+Leve
+Cutical impad
+Hinges
+L00SE
+ncoMec Darcode cnadci
+Levei
+Needs revewi
+Not assembled as per drawing
+Color mismatch
+Leve
+Crtcal impact
+Functionalbltest failed
+Levei
+Crtical impact
+Missing distutor ifomation
+Needs revlew!
+Product doesntpoker on
+Level
+snipping Markts Megible &f
+Level |
+Critical impact
+MES4I
+Battem_nolincluded_
+Level
+ncoreci
+quantly Or
+Level Il
+Needs review
+asonment
+AQL Level
+Crtical
+Default
+Customer Specing
+Poit
+Nao
+Hnor

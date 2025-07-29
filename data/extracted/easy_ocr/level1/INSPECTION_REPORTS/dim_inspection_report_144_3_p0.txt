@@ -1,0 +1,114 @@
+Measurement Summary Sheet
+Inspection performed by Laura Rossi on 2023-12-08.
+The following data captures key dimensions and any deviations identified. Check that all dimensions comply with ISO
+and company standards Reler
+the dimensional lcg far all component size readings. This summary of
+medsurements suppon:
+metrology traceability:
+Environmenta
+Conditions: Temperature
+Humidity: 47 %
+Item Code
+Part Name
+Measurement
+Target
+Observed
+Delta
+Status (VKXL
+QN-770H
+Graphite Pad
+Depth
+83.42
+83.43
+4DUI
+PW-515}
+Plastic Rivets
+Height
+66.81
+66.62
+RX-3IOZ
+Battery Pack
+Hole
+86.91
+87.09
++0.18
+GL-9805
+Rubber
+wiuth
+77.05
+77-10
++0.05
+Gaskel
+sorani
+KP 320E
+Hex Bolts
+peoth
+9.44
++0.05
+M1Z
+CN-150C
+Graphite Pad
+wiuth
+89.20
+CN-150C
+Battery Pack
+Hole
+MR-I60H
+Power Switch
+Wiath
+39-47
+05
+XK-61QU
+Rubher
+Hole
+85,00
+84.82
+0,18
+Gasket 8Omm
+XD-710R
+Hinge Set
+We
+99,40
+99.56
++0.16
+piamcic
+CN-150C
+Steel Sheet
+Inner
+10.31
++0.13
+A36
+Diameter
+TL-9OOX
+Plastic Rivets
+Depth
+72.39
+72.43
+Gl-9805
+0-Ring NBR
+Depth
+85,34
+85.36
++0,02
+60mm
+LK-890B
+Hex Bolts
+Thickness
+94.57
+94.54
+0,03
+M1z
+MX-450L
+~Switch
+Height
+70,59
+70.72
++0,13
+ZR-ZOSR
+Rubher
+Height
+1347
+13.19
+40.02
+Gaszet Summ
+Poxe

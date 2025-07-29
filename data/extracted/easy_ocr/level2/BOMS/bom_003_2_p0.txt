@@ -1,0 +1,61 @@
+Customer ID: POLAND
+Prepared by: Peter Schmidt
+Product ID: VR-940T
+Internal No.
+8592730
+Ensure each component meets the specilied quality standards
+Use this schedule of parts t0 allgn
+with sourcing and stock levels. The component roster below Includes unit costs and balch codes_
+The following table summarizes the materials and quantities needed for the current project; Refer
+to (his parts register t0 plan raw-material purchasing:
+Item
+Cable Tle
+Stalnless
+Digital
+Spacer
+Ventilation
+Description
+Pack (100)
+Bolt MB
+Display
+Sheet A36
+2mm
+Grid
+Unil
+Qty
+830
+735
+401
+701
+825
+UOM
+pcs
+pcs
+pCS
+pCs
+pCS
+Unit Price
+0,95
+15.00
+0.15
+Amount
+788.50
+283,85
+11,025.00
+2,005,.00
+105.15
+620.00
+Remarks
+Urgent
+Certified
+ROHS
+ISO-
+For export
+batch
+compllant
+alignment
+verified
+adjusted
+TOTAL: 18,827.50
+Steel
+Hingo

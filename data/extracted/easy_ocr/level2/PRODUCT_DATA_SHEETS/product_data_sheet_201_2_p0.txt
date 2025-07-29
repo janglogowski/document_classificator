@@ -1,0 +1,71 @@
+Product Overview
+This technical overview supports the product-release checklist. Use this sheet
+contirm engineering requirements
+and tolerances. Ensure all referenced standards arc
+date" Below are the technical parameters and construction
+Materials
+for the unit; Use this spec sheet
+validate assembly instructions;
+Product E
+SB-1400
+Unterna
+No;:
+PR-720.
+Prepared bv: Laura Rossi
+Appraved by: Carlos Garcia
+Date: 2024-07-17
+Unit Type
+Cooling Circulation
+Design Pressure
+180 dar
+System
+Throughput
+60 Llmin
+Supply Voltage
+230VLSOHZ
+Working Temp_Range
+10"C to 55C
+Noise Level
+70 dBLA)
+Frame Materiai
+Aluminuim
+ciame
+Recervoir
+Capaclty
+Ensure
+Ossaniterms
+match the engineering nomenclature
+that tne listed materials are
+approved for the
+lication; All specifications meet the design requirements
+and industry standards
+This closure note indicates the
+dala sheet
+ready for release:
+Data sheet has been peer-reviewed by the ergineering team. All summary comments
+have been recarded in the revision log: Overall configuration
+within defined design and safety margins-
+Material of Construction:
+Labe
+Lompasiliam
+Fuse 5A
+Ceramic Oxide
+~Switch
+Polycamonate
+copper
+LED Light Strip
+Glass-Filled Nylan
+Capacitor 450N
+Auminum
+6061-T6
+Hex Bolts M12
+Zinc-Plated Steel
+Teflon Tape Rol
+Teflon Tape Roll
+Cooling Gel Pack
+Silicone Rubber
+Hinge Set
+Stainless Stee
+304
+Ensure
+Poxei

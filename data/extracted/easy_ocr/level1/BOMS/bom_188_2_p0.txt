@@ -1,0 +1,36 @@
+Customer ID: BRAZIL
+Prepared by: Laura Rossi
+Product ID: QN-77OH
+Internal
+3473290
+Item
+Protective Sleeve
+Protective Sleeve
+Insulation Foam
+Hex Bolts M12
+Description
+50mm
+5Omm
+Pad
+Qty
+182
+158
+309
+UOM
+Unit Price
+480
+480
+3.20
+Amount
+327.60
+284.40
+2,467.20
+77.25
+Remarks
+Imported
+Li-Ion battery
+SKF brand
+ROHS compliant
+installed
+TOTAL: 3,156.45
+No::

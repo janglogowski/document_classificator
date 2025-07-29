@@ -1,0 +1,95 @@
+Component Dimensional Check
+Inspection performed by Anna Nowak on 2023-10-07.
+This section details the measured values; tolerances; and status flags. Review recorded tolerances Jgainst engineerng
+speafications_ Use this results summary
+trigger any corrective actions_ This report presents the dimensional
+measurements and inspection results- The followng data captureskey dimensions and
+Cevations iCentified
+Environmental Conditions: Temperature: 24.8
+Humidity: 58 %
+Product Ref
+Component
+Measurement
+Target
+Obsenved
+Delta
+Status (VK)
+LX-8908
+Grapnite Pad
+Hole
+72.96
+73-04
++0.08
+ON-770H
+Hex Bolts
+Tnicness
+59.77
+99-65
+0.12
+M12
+OP-EEOF
+Hex Bolts
+Inner
+45.97
+46.11
++0.14
+M12
+Diameter
+PL-601Z
+Plastic Rivets
+Hndem
+52.20
+52.32
++0.12
+Diameter
+TR-20OB
+Bearing 6202
+Hole
+72.25
+72.22
+0.03
+LP-SSSV
+Shaft SOOmm
+Thickness
+44.40
+44.46
+20.05
+TY-3506
+Rubber
+Height
+67-79
+67.96
+70.17
+Gasket 80mm
+BZ-6E0F
+Shaft SOmm
+Hejeht
+73.24
+7338
+40444
+TR-2003
+Wooden
+Depth
+22.18
+22.24
++0.06
+Pallet
+RE-850C
+Hole
+78.20
+78.14
+0os
+RX-3102
+shalt SoOmm
+Length
+6.06
+6.13
+TuI
+Kelema
+Power Swrtch
+Depth
+7997
+7965
+ld8
+(30'
+Hinge

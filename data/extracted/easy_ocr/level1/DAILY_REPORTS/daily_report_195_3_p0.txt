@@ -1,0 +1,118 @@
+Production
+Report No:: PR-573
+Customer: FINLAND
+Shift: [
+(Evening)
+Date: 29-10-2023
+Machine
+Operation
+Technician
+From
+End Time
+Duration
+Notes
+Stage
+(min)
+MC-208
+Welding
+Wiktor
+13.15
+1404
+progress
+Kopczynski
+MC-203
+Welding
+Magdalena
+11.00
+11.37
+Completed
+Witkowska
+MC-202
+Assemdi
+Anne
+Nowak
+07.15
+08.27
+Recalibrated
+Delayed
+MC-205
+Polishing
+Przemystaw
+12.15
+12-40
+Completed
+Wasik
+MC-209
+Drilling
+JanKowalski
+11315
+1211
+Completed
+MC-207
+Drilling
+Dawid
+08.30
+10.22
+In progress
+Oszmianczuk
+MC-207
+Cutting
+Nowak
+12.00
+12-57
+Completed
+MC-209
+Assembly
+Magdalena
+08.30
+09.12
+NIA
+Completed
+Witkowska
+HC-202
+Welding
+Anna Nowvak
+09.15
+I0-11
+Delay
+Completed
+All operator notes have been archived for review. No critical delays were observed; please address any minor
+Issuee
+noted. Referto remarks for any rework
+quality concerns. Ensure routine
+Maintenance
+between shifts
+maintain consistent outpuL
+Product ID
+Planned
+Achieved
+Scrap Qty
+Failure %6
+Reworked
+Comments
+Output
+Qty
+Units
+RE-850C
+130
+127
+2.3190
+Scrap
+confirmed
+VR-940T
+114
+108
+5.2690
+Rework
+needed
+Zr-205R
+246
+238
+3.2580
+RX-3102
+166
+8370
+Approved by;
+Prepared Dy: _
+Log
+Anna

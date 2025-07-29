@@ -1,0 +1,107 @@
+Tolerance Check
+Inspection performed by Carlos Garcia on 2024-01-29.
+The inspection register below highlights any out-of-tolerance parts. Ensure measurement methods align with
+calibration standards. Check that all dimensions comply with ISO and company standards; Review recorded
+tolerances against engineering specifications.
+Environmental
+Conditions: Temperature: 23.5
+C, Humidity: 33 %
+Item Code
+Part Name
+Dim:
+Nomina
+Observed
+Deita
+Status (VIX)
+MS-6OOP
+Wooden
+Hole
+39.01
+39.20
++0.19
+Pallet
+ZR-ZOSR
+Graphite
+Thickness
+17.47
+17.43
+0.04
+Pad
+WD-180S
+Plastic
+Length
+23.97
+23.95
+0.02
+Rivets
+DX-777T
+Graphite
+Thickness
+60.79
+60.64
+0.15
+Pad
+DX-777T
+Battery
+Thickness
+60.40
+60.32
+0.08
+Pack
+QN-T70H
+Steel Sheet
+Depth
+33.74
+33.80
++0.06
+A36
+GL-9805
+Hex Bolts
+Inner
+54.54
+54.67
++0.13
+M12
+DiameIer
+RE-850C
+Baltery
+Hole
+76.88
+76.79
+0.09
+Pack
+HF-390A
+0-Ring NBR
+Inner
+45.76
+45.68
+0.08
+60n
+Diameter
+AL-1150
+Power
+Width
+73.,47
+73.65
++0.18
+Switch
+TX-820v
+Steel Sheet
+Thickness
+90.56
+90.40
+-0.16
+A36
+MC-S4OX
+Hinge Set
+Depth
+93.16
+002
+XK-610U
+Shaft
+Inner
+65.29
+65.37
++0.08
+500mm
+Diameter

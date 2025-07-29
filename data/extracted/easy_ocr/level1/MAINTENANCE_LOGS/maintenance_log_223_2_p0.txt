@@ -1,0 +1,98 @@
+Check that
+downiime events are properiy cateecrized and
+ogged. This section captures equlpment status and any maintenance
+oksenvations
+Confirm that service intervals follov the preventive schedule: This maintenancc
+etrart
+enared tor cnmoliance
+Zudal Irails
+Sozre parts Used:
+parhame
+panno
+utyused
+Li-Ion Balleny Pac
+P-7779
+Maching
+Maching
+Type
+e chnician
+Vowntimc
+Jrevious
+Notes
+Service
+MC-ZU
+Lonvevor
+Preventive
+Jankowalsk
+2025-01-01
+Li-Icr
+battery pack
+senced
+MC-209
+Plasma
+Preventive
+ankowalske
+2024-11-12
+Wooden
+Cutter
+nallct
+checked
+MC-204
+Convevor
+Cocrertive
+Laura Rosee
+2024-01-10
+Replacedi
+Bell
+cool:ant
+Mc-757
+PIa  I
+Correcivt
+Carlos Garcia
+7074-01-03
+Reohced
+Cuer
+Ccoant
+MC 262
+Bxmhly
+Prawventive
+Ian Knvrllyk
+7074-07-05
+Noi uu
+RODCI
+Tond
+MC-Z93
+Bembiy
+Inspection
+Peter
+2024-05-27
+Replace d
+Robot
+Scnmiat
+Codant
+MC-ZI4
+Laser Cullei
+Coreclive
+Rosae
+2024-07-05
+MC-225
+CNC
+Preventive
+Jankowaiskt
+2025-04-15
+Wooden
+Machine
+pallet
+checked
+MC-224
+Latne
+Locrecuive
+Laric; Garciz
+2023-10-03
+No isues
+Tnuno
+ApprovedEx:
+Jankowalsh
+Serulced
+Anaz Novtak
+Mimine

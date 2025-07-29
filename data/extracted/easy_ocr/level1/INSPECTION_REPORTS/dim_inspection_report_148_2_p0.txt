@@ -1,0 +1,62 @@
+Tolerance Check
+ecnnician
+Laura Ross
+Inspection Date
+2024 04-03
+This report presents the dimiensional measurements and inspeclion results:
+Review recorded lolerances
+against engineering specifications. Please review the inspection results for each component listed below:
+Item Code
+XD-71OR
+NU-440Z
+RX-31z
+KP-320E
+CE-9O5L
+Component
+0-Ring NBR
+Graphite Pad
+Hex Bolts M12
+Wooden Pallet
+Graphite Pad
+60mm
+Thickness
+Hole
+Height
+Thickness
+Height
+Targct
+92.30
+89.96
+92.30
+12 84
+Actua
+14.26
+97.4
+89.78
+92.34
+12.79
+Diff
++0,14
+-0.05
+Pass/Fail
+04ss
+PASS
+PASS
+PASS
+ASS
+Review failed items against the corrective-action register. This closure memo confirms that dimensional
+checks are complete: Ensure status
+are updated in the quality management system. This assessment
+reflects the latest metrology results.
+Instrument Calibration Log:
+Instrumeni
+Serial No_
+Last Calibration Date
+Laser Scanner
+55543
+2025-05-28
+Scanner
+85218
+2025-05-03
+pink
+ilags

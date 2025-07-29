@@ -1,0 +1,104 @@
+Quality Review
+#7404092
+Date: 17.07.2025
+Product
+RM-860N
+Customer
+POLAND
+Item
+Description
+erminz
+Block EP
+Reter
+the quality register tor sampling-plan reterences Archive this list in the quality-management system Use this
+list to confirm adherence to AQL and safety standards_ This closure summary indicates compliance with Inspection
+criteria. This checklist captures quality inspection points
+sampling levels:
+Audit Criteria
+Inspection
+Severity
+Remarks
+Depth
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Dead
+live insect in
+Level II
+Critical impact
+packaging
+Wood splinter
+sharp point
+LevelII
+on proquc
+Incorrect barcoce Or label
+Level
+Needs reviev
+Package
+not sealed
+Tevieu
+Level II
+Needs
+completely
+Not assembled as per
+drwing
+Rubber texture
+Blossiness
+Levell
+Issue
+obsenved
+mismatch
+Paint smearing Or scratches
+Levelli
+Critical impact
+Visua
+dejeg On
+housing
+Leve
+Needs (eviel
+damagedor
+Needs review
+markings
+Incomec
+Packaging does not match
+signed sample
+inside packaging
+LevelII
+Incortect quantty 0r
+Levell
+J5sonmen
+Missing distributor
+Needs review
+information
+Hinges
+0052
+Conei
+DOse
+Mgsing
+levemm
+Connector nol Korking
+Leve
+Minor Issue observed
+Functionality test falled
+level
+Needs review
+Rubber Switch not working
+Needs review
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer
+specific
+Corrective actions are scheduled for identified issues_ All cnticaland major inspection points have been addressed
+Flag any open issues in the CAPA tracking system: Refer to notes for Jny observed defects
+deviations Confim that
+sampling results are within acceptable limits
+and
+Minore
+Carton [
+Loose
+Dints [

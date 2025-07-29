@@ -1,0 +1,96 @@
+Unit Configuration
+Praiect:
+ZR-2O5R
+Report
+Ud `
+PR-986
+Prepared Bv:
+Ljura Koss
+Approved By:
+Carlos Garcia
+Location; Plant 28
+Date; 2023-08-27
+Use thls spec sheetto valldate assembly Instructions
+Check that all material specs allgn with supplier certifications:
+Use this sheet to confirm
+ineering requirements and tolerances
+Confirm that performance ranges comply with
+project requirements
+All data entries
+traceable
+design revision history; Ensure all referenced standards are
+date
+lease revlew the specificatlons and material composition listed below:
+Configuration Iype
+pncumalc
+Lontio
+Umic
+Rated Pressure
+Juu dar
+Hlat Ratc
+Llmin
+Voltage
+60 Hz
+Reservoir Capacity
+160 L
+Cooling
+Air-cooled oil radiator
+Protection Class
+IP65
+Frame Material
+Stainless Steel
+Frame
+Contro_
+Value
+Proportional 4/2
+Filtration
+um inline,
+Nm return
+Pump
+Type
+earpumm
+Noise Leve
+70 dBiA)
+Working 
+Range
+O"C
+Weight
+230
+Dimenslons
+LxWxH)
+1200
+700
+1100 mm
+Mounting
+Rack frame
+Mator Powem
+11kW
+Type
+HLP 46
+Material chpices and process data have been verified f0
+compliance
+Archive this summary for future
+management_
+Data sheet has been peer-reviewed by the engineenng team; This closure note indicates the data sheet
+ready for
+lease. Confirm that all test conditions are accurately represented
+Refer -
+parameter
+table for
+operating ranges and
+tolerances
+Material
+Construction:
+Labe
+Raw Materia
+Thermz
+Fus e
+Ceramic Oxide
+Cooling Gel Pack
+Sucone Rubber
+Fuse 54
+LerJmic
+Oxide
+Temp
+design;
+~change

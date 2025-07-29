@@ -1,0 +1,70 @@
+Shift Summary
+Report No
+PR-822
+Cuslomer
+SWEDEN
+Supervisor:
+Anna Nowak
+Department:
+Assembly
+Shift:
+(Nighu)
+01-04-2024
+ease review today's operation log and output surmary for each workstation: Use this overview
+assess
+throughput and efficiency levels_
+Ensure any downtime incidents are noted for follow-up.
+Equipment
+Operation
+Technician
+From
+Duration
+Remarks
+Temp
+Energy
+(min
+(KWh)
+MC-206
+Welding_
+Nadia Sauter
+09.15
+09.44
+NA
+2.62
+MC- 207
+Welding
+Wiktor
+14.00
+14.37
+Recalibraled
+56.6
+2.53
+Kopczynski
+MC-205
+Welding
+Magdal
+12.15
+12.55
+67,.4
+2.83
+Witkowska
+MC-204
+Welding
+Piotr
+10.30
+11.43
+58.,2
+2.56
+Lewandovski
+MC-209
+Drilling
+Jan Kowalski
+08.30
+09.50
+Recalibrated
+741
+Preparedby:
+Carlos Garcia
+Approved bY:
+Lamta
+Rossi

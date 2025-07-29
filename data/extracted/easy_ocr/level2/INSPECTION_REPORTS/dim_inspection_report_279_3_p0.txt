@@ -1,0 +1,121 @@
+Measurement Summary Sheet
+Inspection performed by Jan Kowalski on 2025-06-06
+The
+following data captures key dimenislons and any deviations identified. Check that all dimensioris comply with ISO
+and compan; standurds Entries include both
+pass/fail markers and deviation magnitudes. Review recorded
+tolcrances Jgainst engineering specifications.
+Enuironmente
+Conditians; Temperature
+Humidity; 42 %
+Item Code
+Component
+Measurement
+Nlaminai
+Actuall
+Diff
+Status (4A
+NE-J454
+Batten Pack
+Widin
+91.62
+91.64
+40.02
+PAsS
+ON-770H
+Plastic Rivets
+Thickness
+10.64
+10.43
+40.19
+PASS
+VR-94OT
+Rubeer
+Hele
+33.50
+33.54
+Ju
+PASS
+Qaskel
+BQrnm
+NU-4402
+Powy
+Swigt
+Width
+29.26
+29.5
+4419
+PASS
+VF-ZZOD
+0-Ring NBR
+Depin
+6.80
+6.E8
++0.CS
+PASS
+Enmm
+5L-430M
+Hinge Set
+Thickness
+83.64
+83.54
+0410
+PASS
+9805
+Bearing 6202
+Deptn
+U5 0
+1547
+40,04
+PasS
+Xk-51OU
+Hinpe
+Height
+2488
+249
+40,02
+PASS
+RM-860n
+Powvel Switcn
+Heignt
+76.70
+76.87
+Ti
+PASS
+VF-Z20D
+Bearing 6202
+Inne
+68.69
+E8.69
+J0.CO
+PASS
+Diameter
+ON-Tz0H
+Graphite Pad
+Depth
+29.50
+29,30
+0,20
+PASS
+FT-730X
+Bearing 6202
+Length
+9.93
+10.10
+40.17
+PASS
+LP-5S5v
+0-Ring NAR
+inner
+7.59
+7,51
+0,08
+PASS
+6 Dmn
+Dameer
+555V
+dsCic
+Thickness
+40.19
+PASS
+Rvet?

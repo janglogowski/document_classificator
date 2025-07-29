@@ -1,0 +1,92 @@
+Dimensional
+Inspection performed by Peter Schmidt on 2024-01-03.
+Item
+Code
+Component
+Nomina
+Actua
+Diff
+(VIX)
+TX-820v
+Waaden
+width
+52.73
+52.92
++0.19
+Pallel
+BZ- 660F
+Graphite Pad
+Helght
+2.23
+GH 770L
+Hinge
+Width
+52.66
+52.76
++0.10
+MR-160H
+Wwooden
+We
+66.77
+66.67
+0.10
+Palel
+Mee
+AZ-JOOT
+Waouem
+Hole
+39.20
+39.06
+0-14
+Pallet
+MS 60OP
+Wwooden
+Hole
+69.04
+69.15
++0.11
+Palel
+Xk 610U
+sleci
+Sheet
+Imncr
+65.31
+65.28
+0.0S
+A36
+Diameter
+MS-6OOP
+Plastic Rivets
+Unner
+30.46
+30.57
++01
+Diameter
+QP-660F
+Ruuuer
+Tnickness
+91.18
+91.25
++0.07
+Gasket Bumm
+QN-770H
+Hinge Set
+Height
+62.68
+62.72
++004
+QP-660F
+0-Ring NBR
+Hole
+5.81
+5.88
++0.07
+60mm
+AL 1150
+Battery Pack
+Depth
+7521
+75.04
+Log
+Dima
+Stalus

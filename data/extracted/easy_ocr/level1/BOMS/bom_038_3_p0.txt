@@ -1,0 +1,90 @@
+BOM Report
+Please review the itemized list of
+and material
+specifications before procurement_ This
+section oullines the parts
+unit prices and total amounts for assembly.
+All entries reflect the latest
+inventory and supplier rates
+The parts manifest here is designed t0 support procurement
+workflows
+This summary lists every item required
+with per-unit pricing details_
+This extract
+shows the bill of components and total projected spend;
+Item
+Qty
+UOM
+Rale
+Amount
+Remarks
+Description
+Rubber
+pCS
+24.50
+Gasket
+80mm
+Plastic
+DCS
+0.20
+8.60
+Certified
+Rivets
+batch
+Plastic
+DCS
+0.20
+Imported
+Rivets
+Plastic
+DCS
+1.10
+12.10
+Eco
+Cover
+compliant
+150x150
+Rubber
+DCS
+6.05
+Switch
+Stopper
+tested OK
+Grease
+DCS
+1.90
+30.40
+Tube
+250ml
+Plastic
+DCS
+0.20
+3.00
+Urgent
+Rivets
+Aluminum
+DCS
+54.00
+SKF brand
+Bracket
+Control
+pCs
+12.00
+612.00
+ROHS
+Panel
+compliant
+Mount
+Totals include estimated over-consumption allowances and current unit rates_
+Customer ID: SWEDEN
+Coordinator: Laura Rossi
+Date;: 2023-03-19
+Product ID: ZR-ZOSR
+Intera
+No.-
+8078187
+Order Qty:
+Tota
+Amount:
+757.45
+pants

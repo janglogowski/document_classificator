@@ -1,0 +1,78 @@
+Jechnician
+Giniot
+Darcid
+Ubuecdon
+2024-05-02
+This data extract i5 prepared for quality-control sign-off. Ensure measurement
+methods align with calibration
+standards Please review the inspection results for each component listed below Entries include
+markers and deviation magnitudes The following data captures key
+both passffail"
+dimensions and any deviations identified Check
+that all dimensions comply with ISO and company standards
+Kem Code
+NU-4402
+PL-EQ1Z
+Gh-770
+Lomponent
+CE90SL
+AG1OU
+ZR-ZOSR
+Botts M12
+Gasket
+Bearng 6202
+Wooten
+Wooren
+Rubber Gasker
+2omm
+Paller
+Falet
+umm
+Lenzu
+Holel
+Wotin
+Urcrness
+Nominz
+12,08
+Depth
+hoel
+2038
+20.65
+5054
+36 R
+Obrened
+12.09
+2045
+20-B
+30-57
+36.27
+16 43
+Dift
+H01
+4.07
+-0-1Y
+Pass (Fail
+Inspection notes have been Iogged for traceability- Archive this inspection summary for E
+cocumentation
+Review falled items against the corrective-action
+rezuiatony
+register-
+Insuument
+Calibration Log:
+instrument
+SerialNo:
+Calibration Date
+Micrometer
+38820
+2025-03-03
+cicromete
+37906
+2024-10-19
+ctnner
+32969
+2025-02-01
+Laser Scanner
+3027
+2024-12-16
+Dle
+Aubber

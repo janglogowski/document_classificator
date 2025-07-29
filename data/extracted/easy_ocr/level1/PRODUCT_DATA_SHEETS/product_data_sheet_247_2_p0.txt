@@ -1,0 +1,85 @@
+Product Data Sheet
+Use this spec sheet
+validate assembly instructions
+This report extract E
+prepared for design-verification audits.
+Confirm that performance ranges comply with project requirements
+Please review
+specifications and material
+composition listed below. The
+following information outlines performance characteristics and design data
+This data
+sheet
+provides key specificatians and materia
+details
+Product ID
+JD-70w
+Interna
+063680
+Preparec
+bv; Laura Rossi
+Anproved bY: Peter Schmidt
+Date
+2023-09-29
+Unit Type
+Hudraulic Powe
+Unit
+Design Pressure
+300 bar
+Fluid
+30 L{min
+Supply Voltage
+400
+50 Hz
+Protection Class
+IP5A
+Mounting
+Skid base with vibratlon
+Pads
+Charging Time
+Weight
+180k3
+Oil Type
+HLP 46
+Dimensions ILXWxHL
+1000
+650 * 1000 MM
+Refer
+parameter table for operating ranges
+tolerances
+Ensure that the listed materials are approved far the
+application; Contirm that all test conditions are accurately represented
+Check that
+section headers follow the
+product template: This closure note indicates the data sheet E
+ready for release
+Material ot Construction:
+Part
+Jase
+Heat Slnk ALU
+Auimninun
+SogIcT6
+Bearing 6202
+Stainless Stee
+Ruboc
+Gasko
+somn
+Mtf
+Rubber INBR
+Capacitor
+450V
+Aluminum 6061-T6
+Stainless Steel 304
+Wooden Pallet
+Treated Pine Wood
+LED Light Strip
+Glass
+Filled
+herma
+FUS@
+Ceramic Oxlde
+hc
+No '
+Flow
+Hinge
+Nvlon

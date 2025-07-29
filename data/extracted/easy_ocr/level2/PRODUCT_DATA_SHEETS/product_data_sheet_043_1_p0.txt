@@ -1,0 +1,78 @@
+Product Overview
+Project:
+MX-A50L
+Report No.
+9268814
+Prepared Byi
+Laura Rossi
+Approved BX'
+Carlos Garcia
+Location; Plant 34
+Date: 2024-08-28
+Below are the technical parameters and construction materials for the unit_ Refer to this configuration
+summary for unit-designation mapping: The following information outlines performance characteristics and
+design data. Check that
+material specs align with
+supplier certifications
+This report extract
+prepared for
+design-verification audits.
+Configuration Type
+Cooling Circulation
+Rated Pressure
+180 bar
+Syslem
+Flow Rate
+48 Umin
+Supply Voltage
+480 V / 60 Hz
+Battery Capacity
+Noise Level
+70 dB(A
+Filtration
+um inline;
+10 HM
+Reservoir Capacity
+160
+Tcturn
+Total Weight
+250 kg
+Dimensions (LxWxH)
+1200
+700 x 1100 mm
+Motor Power
+11 kW
+Service Interval
+1000
+Mounting
+Wall-mounted
+Control Valve
+Directional 4/3
+Oil Type
+HLP 46
+Protection Class
+IP67
+Frame Material
+Aluminum Frame
+Working Temp.Range
+10'C to 50'C
+Pump Type
+Vane Pump
+Overall configuration is within defined design and safety margins. AlI summary comments have been
+recorded in the revision log
+This closure note indicates the data sheet
+ready for release: Document
+control numbers are included for traceability. Data sheet has been peer-reviewed by the engineering team.
+Archive this summary for future design-change management:
+Material
+Construction:
+Item
+Composition
+Pover
+Switch
+Polycarbonal
+Coppem
+Heal Sink ALU
+Aluninum 6061-
+Capacitor 450V
+Aluninum 6061-T6

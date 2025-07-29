@@ -1,0 +1,124 @@
+Tolerance Check
+Inspection performed bY Jan Kowalskl on 2024-08-10.
+AlIMeasured values ar
+timestamped for audit purposes
+Refer
+the dlmensional log for all component
+readings
+Ensure measurement methods align with calibration standards This report presents the dimensional
+measurements
+nspeccion resute
+Delow are tke recorded Measurements
+Comnareu
+against nominal tolerances
+Review recorded toleranres against engineering specifications.
+Environmental Conditions: Temperature
+Humidity: 45 %
+Product Ref
+component
+Measurement
+Tarect
+Acqai
+Dclta
+Status
+QP-G60F
+Power Switch
+nnei
+77.86
+77.89
++0.03
+PASS
+Diameter
+MX-AS0L
+Power Switch
+Unier
+47.00
+47,02
+40,02
+PASS
+pameter
+RE-8S0C
+Hex Botts
+Height
+86.68
+86,80
++0,12
+PASS
+M1z
+NU-4402
+Rubber
+Height
+3035
+30.36
++0.01
+PASS
+Gdstet
+BDmm
+DX-7T
+Shait soomm
+Width
+39.29
+39.30
++0.01
+PASS
+RX-310z
+Hex Bolls
+HeiGht
+37.54
+37 49
+0.05
+PASS
+M1z
+42-300T
+Graphlte Pad
+Hole
+55.03
+JJl
++u14
+PASS
+NU-4402
+Stue
+Sheat
+Hole
+32,89
+32.96
++007
+Pass
+A36
+GL-9805
+Graphite
+Hole
+71.04
+TU-LE
+PASS
+TL 900X
+Power Switch
+Depth
+56.12
+303i
++I8
+PASS
+VF-22OD
+Battery Pack
+Heicht
+70.98
+70,28
+0.10
+PASS
+Tr-ZCoB
+Bearing 6202
+Deplh
+13.,65
+13,83
+40.18
+PASS
+MX-450L
+Rubber
+widtn
+27,71
+27.62
+0.09
+PASS
+Gasket 80mm
+slze
+Ond

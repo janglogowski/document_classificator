@@ -1,0 +1,137 @@
+DAILY PRODUCTION REPORT
+Report No-: PR-357
+Customer 
+BRAZIL
+Shift:
+(Evening)
+Date: 24-10-2024
+Task
+WNorkur
+From
+End Time
+Total
+Uwagi
+Condition
+Equipment
+Time
+MC-201
+Welding
+Mateusz
+10.30
+10.59
+Delayed
+Jarzyna
+MC-202
+Cutting
+Wiktor
+10.30
+11.34
+Recalibrated
+Completed
+Kopczyiski
+MC-205
+Cutting
+Wiktar
+08.30
+07:04
+Deleyed
+Kopczynski
+MC-205
+Drilling
+Piotr
+09.30
+10.11
+Delay
+Completed
+Lewandowski
+MC-203
+Drilling
+Wiktor
+13.30
+14.55
+DrOETESS
+Kopczynski
+MC-202
+Polishing
+Magda
+ena
+14.30
+15.59
+Completed
+Witkowska
+MC-203
+Assambly
+Dawid
+09:15
+10.43
+N/A
+Delayed
+Oszmianczuk
+MC-209
+Polishing
+Jankowals*
+07:15
+09:15
+120
+Recalipratem
+Delaven
+MC-201
+Drilling_
+Nadia Sauter
+10.00
+11319
+Delay
+prokress
+Note
+unscneduledsiods
+downtime register_
+Ensure
+Totine
+maintcnance
+betwveen shifts t0 maintain
+consistent outout: This closure summary signals readiness for the next production run
+Use this summary t0
+update the overall production dashboard
+All production targets have been logged; deviations are highlighted
+aGovC
+Verify the final counts againse
+inuentantrecords
+Part ID
+Planned
+Achieved
+Scrap Qty
+Fallure
+Reworked
+Uwagi
+output
+Qty
+Units
+NE-2454
+202
+176
+12.8790
+WD-1805
+6896
+AZ 300T
+136
+136
+0.0090
+Rewon
+needag
+AL-115Q
+243
+237
+2.4796
+Rework
+needed
+CE-9O5L
+242
+210
+13.,2204
+CN-IS0C
+208
+12.50n
+conirmed
+Approved Dy:
+Prepared by:
+Scrap

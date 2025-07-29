@@ -1,0 +1,94 @@
+Product Data Sheet
+Prpjec;
+RM-8604
+Repon No:
+PR-564
+Prepared By:
+Cardlos Garcia
+Approved Bye
+Peterecnmiot
+Location: Plant 1C
+Date: 2024-02-10
+Use this sheet t0 confitm engineering requirements and tolerances This section details the configuration and
+parameter set for the product Please review the speafications and material composition listed below- Ensure all
+referenced standards are UP
+date. The parameter register Delowindudes operating limits and ratings.Refer to this
+configuration summary for unit-designation mapping All data entries are traceable to design revision history-
+Model TPe
+Hidrulc PowerUnit
+Rated Pressure
+180 bar
+Fluid Flow
+75 Lmin
+Operating Voltage
+230
+S0Hz
+Working Temp;Range
+10 Cto 50C
+Cooling
+Water-cooled exchanger
+Dimensions (LAuxHI
+1000x 650x 1000
+Charging Time
+Oil IyP?
+MiP 32
+Motor Powe
+Z54
+Pume TyPe
+Vane Pump
+Senice Intena
+500
+Resenoir Capacity
+160 [
+Mounting
+Walkmounted
+Total Welght
+230k8
+Ftation
+Mmnline
+IQum retur
+Frame Material
+Eumintm
+Lome
+Noise Level
+<72 dB(A)
+Protection Class
+IP67
+Battery Capacity
+2An
+Material of Construction:
+Pant
+RawMatenai
+Wloocen Pallet
+UEe
+Wcoo
+Insulated Tube
+Wnenod
+Pohurethane (TPuJ
+Digital Display Untt
+ABS Plastic
+Power Swtch
+Polycarbonate
+Copper
+Teilon Tape Ro
+Teflon Tape Rol
+Rubber
+Gasenedmm
+Nitrile Rubber (NBR)
+Fuse
+ceramic Oxce
+Pressure Valve
+Bnse
+Cat
+Nut M6
+Znc
+Plated Steel
+Heat Sink ALU
+Aluminum 6061-16
+Bolts M12
+Zinc-Plated Steel
+Gasket Sheel A4
+Rubber (NBRI
+Jsmm
+Lastic [
+Atfile

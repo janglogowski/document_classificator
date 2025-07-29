@@ -1,0 +1,99 @@
+Production
+Report No;
+PR245
+GRFECE
+Department:
+Peter_Schmiut
+Qale
+Machining
+Shift:
+02-06-2025
+Equlpment
+Process
+Operator
+From
+MC-203
+Drilling
+time
+Total
+Remarks
+10.00
+duration
+MC-203
+Wawzyniak
+104
+Recalibrated
+Magdalana
+13,00
+MC-207
+Witkowska
+13.41
+Recalbrated
+06.15
+MC-207
+Kopczynski
+Magdalena
+10.00
+MC-202
+10.43
+Dawia
+14.330
+Oszmianczyk
+16.28
+118
+Pan ID
+PL 8012
+265
+Qty
+Achioved Qty
+TR-2OOB
+233
+Rejection %
+Notes
+183
+160
+12.0882
+DX7771
+270
+262
+confined
+NU4402
+134
+9690
+Rewvork
+116
+Deeded
+Kv 3gok
+214
+13,4396
+198
+needed
+4836
+Rework
+reeded
+Prepared byi
+Approved by:
+Carlos Garcia
+Peter Schmiat
+Log
+Cusicnier
+supemison
+KEvenina)
+End "
+Baroaz
+11,44
+Porshing
+Driling
+Wiklor
+06-41
+Delay
+Polishlng
+Wikowk
+Deley
+Driling
+peidy
+Planned
+Defact Oty
+12.57%
+Scrap
+Rewom

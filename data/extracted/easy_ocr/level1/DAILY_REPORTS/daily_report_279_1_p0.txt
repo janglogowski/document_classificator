@@ -1,0 +1,100 @@
+Shift Summary
+Repont No::
+PR-789
+Custorner:
+GREECE
+Supervisor:
+Laurakoss
+Department
+Quality Control
+Date
+03-42-2023
+Shit:
+[Morning)
+Machine
+Process
+Technician
+Start Time
+Finist
+Time
+Uwagi
+MC 207
+Cutting
+Kowalski
+08.00
+09.56
+116
+Recallbrated
+MC 203
+Polishing
+Przemystaw
+13.30
+15.06
+Wasik
+MC 202
+Polishing
+Anna Nowak
+10.30
+11.10
+Delav
+MC-202
+Drilling
+Mateusz
+11,00
+12.12
+NYA
+Jalgyme
+MC-206
+Welding
+Agnieszka
+07.30
+09.17
+Ziellriska
+MC 204
+Polishing
+Agnieszka
+06.00
+06.24
+Zielirska
+MC-201
+Assemoiv
+Nadia Sauter
+12.15
+13.06
+MC-204
+Polishing
+Mateusz
+11.30
+12.46
+Jarzyna
+MC 207
+Drilling
+wiktor
+08.15
+08.54
+Recalibrated
+Kopczyriski
+Item
+Target Qty
+Proclced
+Defect Qty
+Rejection
+Commens
+RE-850C
+198
+3596
+BZ-6601
+288
+9.0396
+Rewon needed
+CN-150C
+675
+cantirmem
+MR-16OH
+8.74%
+Prepared by:
+Laurd Rost
+Approved by:
+Peter Schmidt
+Tota
+Scrap

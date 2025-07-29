@@ -1,0 +1,44 @@
+Quality Checklist
+All checklist entries are timestamped for traceability: This section details quality requirements and test points
+for the batch This sumimary supports the production-release quality gate- Use this list to confirm adherence
+AQL and safety standards. Archive this list in the quality-management system_
+Below are the items -
+be verified
+during the final product review" Entries include both visual and functional inspection items
+Product ID
+JD- 700W
+Customer ID
+BRAZIL
+Item Description
+Power =
+witcn
+Review Points
+Sampling
+Defect Class
+Notes
+Levei
+Component Criteria_
+Critical
+Major
+OnHold
+Loose parts inside
+Level |
+Needs review
+packaging
+Connector not working
+Critical impact
+Dead or live insect in
+Minor issue
+Level III
+packaging
+observed
+Functionality test failed
+Minor IssuA
+Incorrect barcodeor label
+observed
+Productdoesn t power On
+Levul
+Needs review
+Supervised by:
+Minor
+Date:

@@ -1,0 +1,114 @@
+Tolerance Check
+Inspection performed by Anna Nowak on 2024-10-08.
+This report presents the dimensional measurements and inspection results. Refer 
+the dimensional
+log ior
+all component size readings
+Check that all dimensions comply with ISO and company standards. Review
+recorded tolerances against engineering
+specifications
+Environmental Conditions: Temperature: 20.6
+C, Humidity: 51 %
+Article No:
+Part Name
+Measurement
+Nominal
+Opserved
+Dift
+Status (VIX)
+VR-940T
+Wooden
+Length
+94.77
+94.88
++0.11
+Pallet
+ZR-2OSR
+Hex Bolts
+Hole @
+49.94
+50.09
++0.15
+OK
+M12
+MS-6OOP
+Plastic
+Hole
+8.18
+8.17
+0.01
+Rivets
+LP-SSSV
+Shaft
+Width
+75.21
+75.17
+~0.04
+Ok
+50mm
+CE-905L
+Plastic
+Inner
+17.27
+17.38
++0.1,
+OK
+Rivets
+Diameter
+PL-6012
+Battery
+Height
+69.44
+69.43
+~0.01
+Pack
+GH-770J
+Battery
+Width
+36.61
+36.54
+-0.07
+Ok
+Pack
+Kv-390K
+Plastic
+Inner
+91,42
+91.29
+-0.13
+OK
+Rivets
+Diameter
+CN-1S0C
+Hex Bolts
+Thickness
+66.02
+66.06
++0.04
+OK
+M12
+HF-390A
+Graphite
+Width
+20,98
+21.15
++0,17
+OK
+Fad
+AL-1150
+Battery
+Inner
+48.78
+48.62
+-0.16
+OK
+Pack
+Diameter
+QP-660F
+Battery
+Length
+81,62
+81,61
+-0,01
+Ok
+Pack

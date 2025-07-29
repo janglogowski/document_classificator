@@ -1,0 +1,91 @@
+Conformance Report
+Use this extractto coordlnate
+sign-off with the QA manager_
+EnsuIc
+all non-conforming
+Mlamks
+are clearly
+documented
+Entries include both visual and functional inspection items: This checklist captures quality inspection
+and sampling levels
+Product ID
+SL 430M
+customcrId
+CANADA
+Item Description
+Stainless Bolt M8
+Audit Criteria
+Sampling
+Severity
+Comments
+Leve
+Product Requirements
+Critica
+Major
+Minor
+OnHold
+Not assembled
+Level IlI
+Critical impact
+drawing
+Screws loose
+missing
+Critical impact
+Exposed nail with sharp point
+Leve
+Needs reviewv
+Wood splinter
+Needs review
+oduc
+Rubber Switch not working
+Leve
+Mlino
+Issue Odsenec
+Missing lcgo Dr warning
+did A
+Leva
+Baltery nDL Incluged
+Minor IS-uL Ousenvec
+product
+Culcd
+Impact
+ncorrect
+barcode
+Tabei
+Critica
+Impact
+Missing distributor
+Critical impact
+Tntormation
+Dead
+nsect in
+Level |
+Minor issue observed
+packaging
+Functionality test failed
+Leve
+Needs review
+Shipping
+illegible
+Level =
+Needs reviewv
+Mus 5inp
+Loose
+parts inside packaging
+Leve
+Critical
+Imnact
+Hinges
+onse
+Leve
+Dust/debris inside packaping
+Miino
+Issue Odsenec
+Supervised bv:
+Date:
+poinu
+sharp-
+point
+Wong
+Lclel
+Mark

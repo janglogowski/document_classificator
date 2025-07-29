@@ -1,0 +1,107 @@
+BILL OF MATERIAL
+Customer ID: TURKEY
+Coordinator: Jan Kowalski
+Date:
+2023-06-07
+Product ID: XK-61OU
+Interna
+No:: 9549183
+Order Qly:
+Below is the component listing and associated costs for the upcoming production batch: Ensure
+each component meets the specified quality standards_
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Packaging
+2.85
+10%
+pcs
+1.00
+52.00
+Switch
+Box
+tested
+OK
+Protective
+3.13
+590
+1.80
+45,00
+Certified
+Sleeve
+batch
+50mm
+LED Light
+1,02
+10%
+2.50
+27,50
+Certified
+Strip
+batch
+Stainless
+2.67
+29
+pcs
+0.35
+14.35
+Bolt M8
+Grease
+0%
+pcs
+1.90
+26.60
+Imported
+Tube 250ml
+Bearing
+0.98
+0%
+pcs
+1.50
+69,00
+Imported
+6202
+Plastic
+0%
+pcs
+1.10
+24.20
+Covei
+150x150
+Grease
+2.82
+590
+pcs
+1.90
+9.50
+For
+Tube 250ml
+export
+Grease
+0.82
+590
+pcs
+1.90
+28.50
+Eco
+Tube 250ml
+compliant
+LED Light
+59
+2.50
+115.00
+SKF
+Strip
+brand
+Total
+Amount:
+411.65
+Approved By:
+Sourcing Department:

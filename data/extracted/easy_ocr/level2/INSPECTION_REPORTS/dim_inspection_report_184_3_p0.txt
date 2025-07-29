@@ -1,0 +1,124 @@
+Component Dimensional Check
+Inspection performed by Carlos Garcia on 2024-06-03.
+Review recorded tolerances against engineering specifications. Below are the recorded measurements
+compared against nominal tolerances Use this results summary t0 trigger any corective actions_ Refer to
+the dimensional log for all component size readings
+Environmental Conditions: Temperature: 23.5 'C, Humidity: 53 %
+Item Code
+Component
+Measurement
+Nomina
+Actua
+Delta
+Status NVE
+PL-6012
+Plastic
+Lengin
+92.49
+92.66
++0.17
+Rivets
+XD-TIOR
+Graphite
+Depth
+22.56
+22.36
+~0.20
+Pad_
+JD-7OOW
+Steel Sheet
+Thickness
+15.57
+15.62
++0.05
+A36
+RM-860N
+Steel Sheet
+Height
+47.85
+47.73
+0.12
+A36
+XD-Z10R
+Hinge Set
+Widtn
+10.57
+10.71
++0.14
+Kv-390K
+Steel Sheet
+Height
+30.34
+30.42
++0.08
+A36
+SB-140D
+Wooden
+Lengin
+23.52
+23.38
+-0.14
+Pallet
+PW-S15Y
+Shaft
+Thickness
+30.74
+30.91
++0.17
+500mm
+DX-TTTT
+Rubber
+Hole 0
+15.10
+14.98
+0.12
+Gasket
+bumm
+AZ-300T
+Shalt
+Hole 0
+35.05
+35.01
+-0.04
+soomm
+SB-140D
+Hinge Set
+Inner
+28.01
+28.06
++0.05
+Diameter
+NE 2454
+Hinge Set
+Hole
+71.78
+71.86
++0.08
+PW-515Y
+Battery
+Height
+67.00
+67.02
++0.02
+Pack
+CN-150C
+Power
+Hole
+57.30
+57.48
++0.18
+Swtch
+ZR-ZOSR
+Beanng
+Height
+20.79
+-0.19
+6202 ZZ
+NE-2454
+Battery
+Depth
+48.10
+48.26
++0.16
+Pack
+20.60

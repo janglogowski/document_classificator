@@ -1,0 +1,94 @@
+Summary
+Customer: SWEDEN
+Report No:: PR-236
+Date: 16-06-2024
+Shift:
+(Morning)
+Comments
+Stage
+Time
+BeEIn
+helay
+Whorker
+Machine
+Operation
+saler
+12 00
+12.40
+Completed
+Nadio
+MC-204
+Welding
+12.15
+12.55
+MC-203
+Assembly
+Piotr
+Delayed
+Lewandowski
+Dely
+Annz
+Nowak
+13.30
+13,57
+NYA
+Delaved
+MC-205
+Polishing
+10.30
+I1.11
+209
+Weldlng
+Przemysiaw
+N/A
+progress
+Wasik
+16.25
+14.30
+MC-205
+Assembln
+Piotr
+Lewandowski
+ne
+standard usage
+consumption zgainst
+any pending
+ssues
+Check material
+production
+shift-handover notes include
+Use this summary
+update
+Ensure
+staffing here
+any adjustments to shift schedules =
+doxuntime
+register.
+unscheduled
+Siops
+dashboard
+Note any
+Rework QY
+Comments
+Relected Qty
+Rejection
+Planned Qty
+Actual QtY
+11.21%0
+Item ID
+FT-73uX
+7,3594
+Scrap
+CN-ISCC
+5,049
+confirmed
+245
+MX-450L
+258
+Prepared by:
+Approvea
+Shift -
+Spent
+proniess
+oieral
+Record

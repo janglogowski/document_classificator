@@ -1,0 +1,60 @@
+Inspection Checklist
+Quality Check Items
+Inspection
+Severity
+Comments
+Depth
+Product Requirements
+Rubber Switchnot working
+Lcvo
+Needs
+EVIBI
+Dustldebris
+packaging
+Minor
+ISSUC Obsencd
+Functionality test failed
+Luvel
+Battory not included
+Needs review
+Level
+Shipping mark
+illegible
+'nissing
+Level |
+Minor issue observed
+Paint smearing
+Scratcnes
+Levei
+Dead
+live insectin
+Critical impact
+Instruction manual
+packaging
+Critical impact
+missing
+damaged
+Level /
+Not assembledas per arawing
+Level [
+Visual defect
+housing
+Luvel
+Critical impact
+Color mismatch
+Critical impact
+Levci
+Critical Impact
+Rubber
+texlure
+Blossiness
+Misiatch
+Level II
+Reference Standards:
+Standard
+Edition
+ISO 9001
+2015
+61010
+Ath Ed
+Insica

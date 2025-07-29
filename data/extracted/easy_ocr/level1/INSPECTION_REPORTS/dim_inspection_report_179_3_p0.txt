@@ -1,0 +1,99 @@
+Inspection performed by Anna Nowak on 2024-05-30.
+Below are the recarded measurements
+campared
+against nominal tolerances; Tne
+following data captures key
+dimensions and any deviations identified. Entries include both pass/fail markers and devation magnitudes Use this
+Camination summan
+confirm component conformity- All measured values are timestamped
+for audit purposes:
+Environment?
+Conditions:
+mture
+24.4
+Humidity: 52 -
+Article No_
+Part Name
+Measurement
+Nominai
+Observed
+Delta
+Status (VKXL
+CE-90SL
+powei swilch
+Wdlm
+01.44
+PASS
+ZR-2OSR
+Powenscinch
+nickness
+44.20
+44.28
+PASS
+VR-940T
+Steel Sheet
+Width
+85.24
+85.43
++0.19
+PASS
+A36
+HF-390A
+Bearing 6202
+Hole
+36.85
+36.68
+O
+PASS
+RE-850C
+Hex Bolts
+Thickness
+11.20
+1404
+0.16
+PASS
+M12
+DX-7771
+Steel Sheet
+wicth
+43.97
+44.12
++0.15
+PASS
+A36
+BZ- 660F
+Battery Pack
+Length
+47.55
++0.15
+PASS
+FT-730X
+Shaft S0Omm
+Hole
+0.08
+PASS
+Kv-390k
+Bearing 6202
+Depth
+37.91
+37.89
+0.02
+PASS
+AZ-30OT
+Hex Bolts
+width
+81.93
+81.97
++0.04
+PASS
+M1z
+SB-1400
+Rubber
+Width
+75,82
+75.67
+0.15
+PASS
+Gasket 80mm
+Temper
+47,40

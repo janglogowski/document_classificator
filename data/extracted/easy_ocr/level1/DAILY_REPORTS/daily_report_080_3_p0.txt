@@ -1,0 +1,101 @@
+Production
+Report No_
+PR-368
+Customer: TURKEY
+Shift:
+(Night)
+Date: 24-04-2025
+Machine
+Process
+Technician
+Begin
+Finish
+Ilme
+Uwagi
+Status
+Spent
+MC-203
+Polishing
+Przemyslaw
+11,00
+11.42
+Wasik
+progress
+MC-204
+Cutting
+Agnieszka
+09.00
+09.25
+NA
+Zielinska
+progress
+MC-204
+Drilling
+Jan
+08.30
+10.19
+109
+Delayed
+Kowalski
+MC-204
+Welding
+Jan
+06.30
+07.32
+Delay
+Completed
+Kowalski
+MC-202
+Cutting
+Mateusz
+07:15
+07.46
+Recalibrated
+Jarzyna
+progress
+MC-206
+Cutting
+Agnieszka
+08.30
+08.50
+Delay
+Completed
+Zielinska
+MC-205
+Cutting
+Banosz
+14.00
+15.49
+109
+Delay
+Completed
+Wawrzyniak
+All operator notes have been archived for review: This closure summary signals readiness for tne next
+production run, All production targets have been logged; deviations are highlighted above: No critical delays
+observed: please address ay minor issues noled
+Overall production performance net expectalions
+for the day:
+Product ID
+Target Qty
+Actual Qty
+Scrap Qty
+Scrap %
+Rework
+Notes
+Count
+BZ-660F
+4626
+ZR-ZUSR
+133
+132
+0.75%6
+RE-850C
+179
+172
+3.91%
+Rework
+needed
+Approvedby:
+Prepared by:
+Log
+were

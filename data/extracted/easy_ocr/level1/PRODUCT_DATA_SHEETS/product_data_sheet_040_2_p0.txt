@@ -1,0 +1,77 @@
+Product Overview
+This data sheet provides key specitications
+Materio
+details. This technical
+oveniew suppons
+the product-release
+checklist: The following information outlines performance characteristics and design data.
+revlew the
+specifications and material composition listed belaw: The parameter register below indudes operating limits and
+ratings,
+praduct Id
+RX-3102
+Report
+PR-840
+Preparec
+bv; Peter Schmiat
+Approved Dy: Jan Kowalski
+wate
+2024-04-19
+Unit Type
+Cooling Circulation
+Design Pressure
+300 bar
+System
+Flow Rate
+75 L{min
+Voltage
+480V
+60Hz
+Cantro
+Waive
+Manual Qverrde 3/2
+Working
+10 ctoss"c
+Frame Material
+Powder-coated Stee
+Weight
+180k3
+Flag any missing parameters for urgent specification updates Materia 
+choices
+and process data nave
+been verified
+for compliance: This closure note indicates the data sheet i
+ready for release: Use this summary
+cross
+check with
+BOM and inspection reports_
+Overall configuration
+within defined design and safety margins
+Material of Construction:
+Labe
+Lomposition
+Hex Bolts M1Z
+Zinc
+Stee
+Support Foot Stee_
+Stainles: Stee
+FuSC
+Leramic Oxdc
+Heaising AlU
+Eumin
+6061-T6
+Jneet
+436
+Carbon Steel 436
+Cooling Gel Pack
+Sicone Rubber
+Connector 2P
+Glass-Filled Nylon
+Dieitd
+Display Unit
+ABS Plastic
+Please
+No :
+Temp
+Range
+plaled

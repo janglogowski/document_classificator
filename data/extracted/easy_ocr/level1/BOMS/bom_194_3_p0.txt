@@ -1,0 +1,73 @@
+BOM Report
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+pCS
+0.20
+0.40
+High grade
+Rivets
+Hex Bolts
+0.25
+10.75
+Urgent
+M12
+Ventilation
+61.60
+Grid
+Fuse 5A
+0.30
+12.60
+compliant
+Plastic
+0.20
+Rivets
+Almminmn
+247.50
+For export
+Bracket
+Ceramic
+2.10
+35.70
+Li-Ion
+Disc 8Omm
+battery
+installed
+Almmninmn
+139.50
+Bracket
+Grease
+1.90
+30.40
+Eco
+Tube 250ml
+compliant
+Plastic
+1.10
+45.10
+ISO-verified
+150x150
+Control
+12.00
+420.00
+For export
+Panel
+Mount
+picaco
+confirm supplier lead times
+ensuro
+timely delivery of all items
+Customer ID: CANADA
+Coordinator: Carlos Garcia
+Date: 2024-07-19
+Product ID: DX 777T
+Internal No:: 1989077
+Order Qty: 101
+Total Amount:
+008.35
+Cover

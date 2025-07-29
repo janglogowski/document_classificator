@@ -1,0 +1,122 @@
+Shift Summary
+Report No::
+PR-875
+Customec
+BRAZIL
+Supervisor;
+Anna Nowak
+Department;
+Machining
+Date
+16-11-2024
+Shift:
+(Evening
+Machine ID
+Task
+Worker
+From
+End Time
+Total
+Remarks
+duration
+MC-207
+Welding
+Wiktor
+10.00
+11.27
+Kopczynski
+MC-209
+Assembly
+Przemyslav
+08.00
+08.29
+Delay
+Wasik
+MC-203
+Drilling
+Mateusz
+14.15
+15.23
+Delay
+Jarzyna
+MC-205
+Cutting
+Anna Nowak
+07.15
+09.15
+Recalibrated
+MC-207
+Drilling
+Jan Kowalski
+10.57
+MC-205
+Welding
+Kowalski
+109
+MC-207
+Drilling
+Mateusz
+1.30
+12.06
+Jarzyna
+MC-205
+Welding
+Dawid
+06.30
+06.57
+Recalibrated
+Oszmianczuk
+MC-204
+Cutting
+Mateusz
+10.15
+11.50
+Jalzyna
+MC-202
+Polishing
+Piotr
+10.00
+11.41
+101
+NA
+Lewandowski
+MC-209
+Polishing
+Jan Kowalski
+07-00
+08.01
+MC-208
+Assembly
+Bartosz
+08.30
+09.36
+Recalibrated
+Wawziak
+Product ID
+Target Qty
+Produced Qty
+Detect Qty
+Rejection %
+Uwag
+NE-2454
+151
+146
+3.31%
+GL-980S
+GL-980S
+180
+69%0
+ZR-2055
+VF-2Z0D
+300
+298
+0.6790
+Rework
+needed
+Prepared by:
+Pcicr
+Schmiat
+Approved bY:
+Peter Schmiat
+Delay
+NA

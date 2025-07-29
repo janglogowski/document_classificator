@@ -1,0 +1,121 @@
+Machine Log Summary
+Performed On: 2025-02-27
+ahma
+Po"i
+Perommeddy:
+Anna Nowak
+The equipment
+Dalcancimoas TAMt coqasandcctrectke
+Dores
+The following entries detail preventive and corrective
+Malntenence98 *9
+Fntrles Incimo
+Vork ciders
+chnicianassienment?
+and dan cnanges
+Tecords
+mainienance
+uctivties perormeo cnthe gquipmcnt
+Ini; sectior
+pturg ; equipMgnt statu; and wny Maintenancg Obsenvaticns
+Section
+Nac hine
+MC-274
+MC-270
+MC-278
+MC-293
+MC-268
+MC-206
+Machlne
+Plasme
+Cuttel
+plaeme
+Cnel
+Assembly
+Packaging
+Larercutter
+CNC Milling
+Robot
+Hucninc
+Service Type
+Correchn/e
+Inspecrion
+Comactiva
+inapection
+Inapection
+insp ection
+Technician
+peter Schmidi
+ankowalst
+Anna Nawak
+Laura H0ssi
+Peler Schmidt
+Lauta Roza
+Duration
+Notcs
+KuAnment
+Worn gasket
+3e0laced
+Calibration
+Tightened
+Sensor
+hinges
+replaced,
+Canan
+checkOk
+Taos#bos
+Tecamaranen
+adiusted.
+Section
+Machinc
+MC-293
+HC-268
+MC-206
+MC-270
+MC-278
+HC-274
+Nac hine
+Packaging
+La3er Cutier
+CNC Milling
+Plasma Cutter
+Assembiy
+Nasma Cutier
+Line
+Maching
+Robo
+Selvice [ype
+Prevenve
+Preventive
+Preventive
+Preventive
+prevenive
+mspachcm
+acanictAn
+owalek
+Kovalee
+An Kowvalski
+Ian Kowvelski
+Carlos Gercia
+Kotvalg 
+Duraltion
+Notes
+Changed oil
+Switch
+Calibration
+Sutcn
+Tchteneo
+und filters
+cuntaci
+cnuckok
+comic
+loose bolts,
+clenned
+cleaned
+Uptime (%6)
+Count
+Comment =
+92.9640
+bolt tiuntenco
+Slento
+on

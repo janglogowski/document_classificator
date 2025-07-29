@@ -1,0 +1,37 @@
+Customer ID: FRANCE
+Prepared by: Laura Rossi
+Product ID: JD-7OOW
+Internal No.: 5706575
+Item
+Insulation Foam
+Spacer Zmm
+Terminal Block
+Set
+Description
+Pad
+Qty
+498
+943
+844
+510
+UOM
+pcs
+pc3
+pcs
+Unit Price
+Amount
+593.60
+141.45
+2.869.60
+1,275.00
+Remarks
+Li-ion pattery
+Urgent
+atignment
+ROHS compliant
+installed
+adjusted
+TOTAL: 5,879.65
+Hinge
+2.50
+Hingo

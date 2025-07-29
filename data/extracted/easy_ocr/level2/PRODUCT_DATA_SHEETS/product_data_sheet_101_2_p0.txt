@@ -1,0 +1,75 @@
+Unit Configuration
+The
+intormation outlines performance characteristics and
+configuration and parameter set for the
+design data. This section details the
+cnecklist This
+product This {echnical overview supports the product-release
+data sheet provides key specifications ad material details.
+This
+design-venfication audits Use this sheet to confim
+report extract /
+prepared f0f
+perfomance ranges comply with
+engineering requirements and lolerances_
+Confim that
+project requirements
+Product ID;
+IR-200B
+Document No:
+3865303
+Schmiat
+Approved by: Laura Rossi
+Dale: 2023-10-79
+Unit
+Hydraulc Power Un
+Rated Pressure
+Flow
+75 Umin
+210 b2r
+Oil Type
+HP46_
+Operating_
+4O0VI
+Dimensions (LxWxH)
+1000
+650
+1000
+Pump Jype
+Gear
+Waler-cooled
+exchanger
+Use tnis summary
+coss-check With BOM and inspection
+approved for the application Check that =
+reports. Ensure that the Iisted materials are
+been peer-reviewed
+all section headers follow the product template  Data sheethas
+Dy the engineering team . Archive this summary for future
+any missing parameters for urgent specification
+design-change management
+updales
+Material 0f Construction:
+Label
+Raw Matenal
+Cable Je PacK( Oo)
+Steel Sheet A36
+Nitrle Rubber NBRIL
+Tefon Tape Rol
+Capon Steel A36
+CapacitorI50V
+efon
+Gasket SheetAa
+Auminum 6061-16
+Ninle Rubber NNBR)
+folowing 
+Prepared
+Peter
+Lype
+Fluid
+Voltage
+B4z
+Pump
+Cooling
+Flag
+Tapel

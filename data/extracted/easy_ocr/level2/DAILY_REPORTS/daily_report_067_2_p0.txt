@@ -1,0 +1,130 @@
+PR-194
+Report
+BELGIUM
+Customer
+Knno
+Nawar
+Supervisor:
+Lssemd
+Department:
+EvCnint
+17-02-2025
+Shift:
+cumimary
+UCive
+continuous Improvement
+incidents are
+noted for follow-UF
+Use this shift =
+overview of
+Ensure any
+Jowntime
+output;
+anu any
+deviations Belaw is
+actions
+The following data captures production targets;
+perfonance and
+figures far today'5 shltt:
+machine
+Temperature
+Pawer
+Total
+Notes
+process
+Technician
+Begin
+Drat
+Machine
+Time
+2.52
+78.0
+08 15
+09.10
+MC-203
+Cutting
+Wiktor
+Kopczyiiski
+59,0
+1.45
+11.15
+12.19
+Lssemdy
+Wiktor
+MC 202
+Kopczyriski
+Recalibrated
+58.3
+11,00
+12.32
+Mc-204
+Cutting
+2.90
+Oszmiarczuk
+Dulav
+70.4
+Cutting
+Przemyslaw
+14.30
+15.25
+MC 205
+Wasik
+2.38
+Jan Kowalski
+11.30
+11.56
+71,8
+1.68
+MC-201
+Polishing
+07.15
+07.42
+MC-201
+Drilling
+Magdale
+Witkowska
+N/A
+76.8
+2.55
+Mnteus
+12.15
+13.08
+MC-204
+Drilling
+Jarzyna
+Delay
+71.7
+1,91
+07.30
+08,32
+MC-201
+Welding
+Wiktor
+Kopczymski
+110
+NA
+77,5
+1.74
+08.00
+09.50
+MC-ZOR
+Drilling
+Magaji
+Witkowska
+13,45
+Delay
+57,.9
+MC-204
+Welding
+Bartosz
+13.15
+Wawrzyniak
+Peter Schmidt
+Prepared DY:
+Cnos
+Approved by:
+ucuai
+oulput
+1.68
+Duwild
+Garci&

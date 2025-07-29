@@ -1,0 +1,82 @@
+COMPONENT BREAKDOWN
+Customer ID: BELGIUM
+Coordinator; Jan Kowalski
+Date: 2025-04-12
+Product ID: DX-7771
+Internal No.
+8222623
+Urdem
+Qty: 208
+Use this breakdown to verify sourcing and cost estimates. This document provides
+detailed
+breakdown of all components required for the assembly process. All entries reflect the latest
+inventory and
+supplier =
+Tates
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Cable Tie
+0.92
+pcs
+0.95
+1.90
+Urgent
+Pack (100)
+Digital
+0.64
+0%0
+pcs
+15.00
+720.00
+SKF
+Display Unit
+brand
+Epoxy Resin
+0%0
+pcs
+7.30
+321.20
+ISO-
+verified
+Protective
+2.72
+096
+1.80
+88.20
+Sleeve
+somm
+2.07
+540
+0.30
+2.10
+grade_
+Battery
+5"0
+25.00
+1,125.00
+SKF
+Pack
+brand
+Battery
+2.71
+10"6
+pcs
+25.00
+1,225.00
+Imported
+Pack
+Ensure this materials summary
+reconciled with the purchase order.
+Total Amount:
+3,483.40
+Approved By:
+Sourcing Department:
+Fuse=
+High

@@ -1,0 +1,98 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-934
+Customer
+BRAZIL
+Supervisor:
+Kowalski
+Department:
+Painting
+Dalu
+11-06-2024
+Shift:
+A(Morning)
+Machine
+Task
+Worker
+From
+Finish
+Total
+Remarks
+dmraton
+MC-205
+Drilling
+Nadia Sauter
+13.00
+14.13
+Recalibrated
+MC 202
+Assembly
+Magdalena
+06.30
+07.25
+WNitkowska
+MC-204
+Polishing
+Kpnieszka
+06.30
+07.49
+Ziclinska
+MC-208
+Cutting
+Mateusz
+1400
+15.29
+Jarzyna
+MC-204
+Welding
+Anna Nowak
+TO:S
+T0-J_
+MC-204
+Assembly
+Nanis
+5amter
+09;15
+11;03
+MC-202
+Welding
+Dawid
+12.30
+12.54
+Oszmianczuk
+Item ID
+Target Qty
+Actua
+Qty
+Derect
+Qty
+Failure
+Remarks
+HF-390A
+132
+124
+6.0696
+Scran
+confirmed
+KV-390K
+2.7096
+RX-3107
+293
+254
+13.3180
+Lk-890B
+139
+10.7930
+WD-180S
+106
+9390
+Scrap
+confirmed
+TY-350G
+204
+1.459u
+Prepared by:
+Peter Schmidt
+Approved DX
+Launa
+Robs

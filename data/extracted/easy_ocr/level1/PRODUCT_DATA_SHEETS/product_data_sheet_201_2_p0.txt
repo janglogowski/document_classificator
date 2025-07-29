@@ -1,0 +1,75 @@
+Product Overview
+This technical overviev" supports the product-release checklist Use this sheet
+confirm engineerine
+requirements
+and tolerances
+Ensure all referenced standards are up
+date: Below are the technica
+parameters andconstruction
+materials far the unit Use this spec sheet to validate assembly instructions;
+Product ID:
+SB-I40D
+interna
+PR-720
+Prepared bv: Laura Rassi
+Anproved bY: Carlas Garcia
+Date: 2024-07-17
+Unit Type
+Coolling Circulation
+Design Pressure
+180 Dar
+System
+Throughput
+60 Lltin
+Supply Voltage
+230 v ,
+50 Hz
+Workingicmp
+Ranec
+10C to 55"C
+Noise Levcl
+70 dBIAJ
+Frame Material
+4luminum
+Arame
+Reservoir Capacity
+Ensur
+glossan
+hfTS
+match the engineering
+nomerciature
+Ensure that the listed materials are approved for the
+applicatian: All specifications meet the design requirements and industry standards, This clasure
+note indicates the
+data sheet
+ready for release Data sheet has been peer-reviewed by the engineering team
+All summary comments
+have been recorded
+the revision log: Overall configuration
+within defined design and safety margins:
+Material of Construction:
+Labe
+Lomposition
+Fuse
+Leramic Oxide
+Manon
+ponam
+Copper
+ED Light Strip
+Glass Filled
+Mvion
+Capacito
+45
+Elumin
+ol6lel6
+Hex Bolts
+Zinc-Plated Stee
+Tetlon
+Teflon Tape
+Cooling Ge
+Silicone Rubber
+Stainless Steel 304
+No .
+Tapc
+Pac
+Hinge

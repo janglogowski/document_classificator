@@ -1,0 +1,72 @@
+Unit Configuration
+Use this spec sheet
+Valdare
+assembly instructions. This report extract
+prepared for design-verification audits.
+Ensure
+referenced standards are up
+date
+Below are the technical parameters and construction materials for the
+unit; The parameter register below includes operating limits ad ratings. Confirm that performance ranges comply
+with project requirements
+The following Information outlines performance characteristics &nd
+dara
+Product =
+SL-430M
+DR-790
+Report
+Prepared by: Anna Nowak
+Approved by: Jan Kowalski
+Dale
+2025-03-01
+Unit Type
+pneumatic Contrc
+Umt
+Design Pressure
+480 bar
+Flow Rate
+48 L/min
+Voltage
+60 Hz
+Mounting
+Wwall-mounied
+Oil Type
+HLP 46
+Dimensions (LxWxH 
+1200
+700 * 1100 mm
+Noise Level
+72 dB(AI
+Reter
+pafamieter
+table for operating
+anges and tolerances
+This closure note indicates the data sneet Is reay ior
+release. Archive this summary for future
+management: Ensure-
+the listed materials are
+approved
+far the
+pplication; Use this summary
+cross-check with BOM anc
+insnectian rcpons
+Flag any missing parameters
+far urgent specitication updates
+Material of Construction:
+Label
+Raw Materiai
+Power Switch
+polvcarbonate
+Copper
+WIrine
+Loom IM
+PVC (Rigid]
+Connecor
+Glass-Filled Nylon
+Bearing 6202 Z2
+Stainless Steel
+design
+Noj
+Inat
+dosten
+~chanze

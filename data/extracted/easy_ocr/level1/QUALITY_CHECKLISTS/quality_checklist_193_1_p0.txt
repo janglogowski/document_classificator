@@ -1,0 +1,89 @@
+Quality Checklist
+#3181699
+Date: 17.07.2025
+Product
+GL-9805
+Customer ID
+TURKEY
+Item Description
+Liamn
+Ring 120mm
+Archive this list in the
+lity-management system
+Belov' are tne Items
+Vermeo
+during the tina
+praduct review
+This checklist captures quality inspection points and sampling levels
+All checklist entries are timestamped for
+traceability. Confirm that sampling
+evels
+comply with customer agreements
+Use this list
+confirm adherenreto
+AQLand safety standards The following table outlines inspection criteria and classification levels. Check that
+inspection steps follow the approved procedure
+Review Points
+Sampling
+Classification
+Notes
+Level
+Component Criterla
+Critical
+Minar
+OnHold
+Incoriccl uarcodc
+labe
+LCvci
+Need: ievicw
+Incorrect arentation
+Levci
+Nccc
+T
+Loior mismatch
+Leve
+Neecs reviem'
+Missing
+Wdmune
+Leve
+Critical impact
+Paint smearing
+scratcnes
+Leve
+Ruhbertexture
+ssiness
+Needs review
+Mismatch
+Hirges
+dose
+Critical impact
+Lopse parts InSiCE packaging
+Leve
+Visual defect on housing
+Dust/debris Inside packaging
+LCvci
+Incorrect quantty
+Level MI
+Minor issue observed
+Iesdmoncm
+Dead
+Tive insectin
+Level |
+Minor issue observed
+packaging
+AQL Level
+Critical
+Vaior
+Minor
+Default
+Customer
+specific
+Use this dlosure repont
+update the quality KPI dashboard, All critical and major inspection points have been
+addressed. Refer
+notes for any observed delects =
+devatons
+Corrective actions are scheduled for Identified
+qual
+Major
+isues;

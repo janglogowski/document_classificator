@@ -1,0 +1,98 @@
+Quality Review
+#6138410
+Date: 17.07.2025
+Product
+JD-Z00W
+Customer
+FINLAND
+Item
+description
+Tnermz
+Fus ?
+Entries include hoth visual and functiona
+Insnection Items
+Reter to the quality register tor sampling-plan reterences
+Archive this list in the quality-management system Please review each checklist point and mark the sampling results_
+Below are the items t0 be verified
+during the final product review;
+Audit Criteria
+Sampling
+Classification
+Remarks
+Level
+Proquct Renuirements
+Functionalitytest failed
+Leva
+Minar issue abserved
+Camton
+damagedor markings
+Level
+incorrect
+Ancorreclanentaton
+eve
+IssuE
+Jeserued
+Hinges
+DOSC
+Leve
+Clicd
+imipaci
+Dust/debris Inside packaging
+CLCN
+Not assembled
+drawinp
+Leve
+reviet
+Instauction
+manuz
+missing
+Level |
+damaged
+Paint smearing
+scratcnes
+Levci
+Necds revicw
+Incorrect parcode
+lahes
+Leve
+Minarissue
+Jbsened
+Runbe
+exmne
+Ossiness
+Levei
+mismatch
+Exposed nail with
+Doint
+Levet
+Runbe
+Switch not working
+leve
+Critica
+impact
+Wrong product size
+Missing safety labels
+LCUC
+Necds reviev
+detect o housing
+Leve
+Critical impact
+Battery not included
+Leve
+Needs review
+Sharp edges
+plastic
+obsenved
+Minor issue
+comnpanents
+AQL Level
+Critical
+Waior
+Mlinor
+Default
+Customer
+specific
+Minat
+Necds
+snarp
+Visuz

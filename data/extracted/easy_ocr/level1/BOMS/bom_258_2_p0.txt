@@ -1,0 +1,43 @@
+Customer ID: FRANCE
+Prepared by: Anna Nowak
+Product ID: TX-820V
+Internal No:: 7838618
+No
+Item
+Termina
+Copper
+Spacer
+Aluminum
+Spacer
+Terminal
+Description
+Block 4P
+Wire 3mm
+Zmm
+Bracket
+Dmn
+Block 4P
+Qty
+289
+538
+809
+323
+UOM
+pcs
+pCS
+pcs
+Unit Price
+3.40
+Amount
+982.60
+590.40
+55.95
+2.421.00
+121.35
+1,098.20
+Remarks
+Eco
+Imported
+verified
+compliant
+TOTAL: 5,269.50

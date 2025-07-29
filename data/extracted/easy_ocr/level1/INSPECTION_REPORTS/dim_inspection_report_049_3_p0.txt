@@ -1,0 +1,97 @@
+Dimensional
+Inspection performed by Peter Schmidt on 2023-10-12.
+The inspection register below highlights any out-of-tolerance parts This section details the measured values;
+Rolerances
+and satus
+flags. This summary
+mnea uremnenis
+supports metrology traceabillty. Ensure measurement
+metnads
+align with calibration standards. Please review the inspection results for each component listed belav.
+Environmenta
+Conditions: Temperature
+21.2
+Humidity: 49 %
+Item Code
+Component
+Nomina
+Actuai
+Status (V(X)
+GL-9805
+power sivirch
+Hole
+59.51
+59.55
+F004
+PASS
+LP-SSSV
+Steel Sheet
+Tnickness
+48.91
+48.82
+0.09
+PASS
+436
+QP-G60F
+Length
+3075
+36.46
+TOOC
+PASS
+LP-SSSv
+Bearing 6202
+Helght
+92.33
+92.33
++0.00
+pass
+MS-6OOP
+Graphite Pad
+Hole
+13.83
+13.90
+FO-0X
+PASS
+NU 4402
+Powem
+wlch
+Heigh
+92.69
+92.56
+PASS
+HF-390A
+Switch
+Imcr
+94.48
+94.30
+0.18
+PASS
+Dlameter
+RE 850C
+Plastic Rivets
+Height
+25.25
+25.10
+0.15
+PASS
+SL-430MM
+Rubber
+Thickness
+99.16
+99.10
+0.06
+PASS
+Gaskel
+80mm
+GH 770
+~Ring NBR
+Tnickness
+69.41
+69.32
+PASS
+Gomm
+Log
+Dim
+Delt a
+Hngo
+Poxer

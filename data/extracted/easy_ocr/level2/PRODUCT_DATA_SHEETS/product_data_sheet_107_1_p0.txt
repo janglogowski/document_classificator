@@ -1,0 +1,63 @@
+Unit Data Specification
+Project:
+LP-555V
+Documcnino :
+PR 989
+Prepared
+Annakowak
+Approved BVE
+Carlos Garcia
+Locauon
+Plant 1C
+Date: 2023-07-22
+Confim that performance ranges comply with project requirements
+review the specifications and material
+composition listed below. The parameter register below includes operating limits and ratings Use this spec sheet to
+validate assembly instructions_ Below are the technical parameters and construction materals for the unit_ This
+technical oveniew suppamts the produci-release checklist This report
+prepared for design-venfication
+audits.
+Unit Ipe
+Hdrulic Power Unit
+Operating Pressure
+210 bar
+Fluid Flow
+60 Lmin
+Suppl Voltage
+400 5
+50Hz
+IPe
+Wnc
+Resenolr Capacit 
+Controu
+Valve
+Prooomiona
+42
+Coouing
+Water-cooled
+exnanzer
+Protection Class
+Total Weight
+230 [
+Service Intena
+12 months
+Dimensions (LWAH)
+1200
+Z00X H10 mm
+Filtration
+10 m relumn,
+25 um
+Motor Power
+7Sk
+suction
+Charging lime
+Oil JyPe_
+HLP 46
+Noise Level
+472ABIAL
+Working IempRange
+10 C to55C
+Pleze
+entad [
+Pume
+Pump

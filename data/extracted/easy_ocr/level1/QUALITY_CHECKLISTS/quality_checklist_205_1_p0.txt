@@ -1,0 +1,70 @@
+Conformance Report
+#4339176
+Date: 17.07.2025
+Product
+KV-390k
+Customer
+SWEDEN
+Item
+Description
+Epoxy Resin Kit
+Entries include both visual and tunctional inspection items
+AlI checklist entries are timestamped tor traceability:
+Please review each checklist point and mark the sampling results This surmary supports the production-release
+quality
+This section details quality requirements
+and test
+paints forthe batch; Refer -
+the quality register for
+sampling-plan references,
+Review Points
+Unspection
+Category
+Notes
+Depth
+Component Criteria
+Missing safety labels
+LCvci
+Critical impact
+Incorrect onentation
+Level
+Critica
+impact
+incorrec
+quantty
+ascormert
+Kat assembled
+per drawing
+Minpr issue Dbserved
+Wrong product
+Critical impact
+CLolor mismatch
+Levch
+NeedsieviCw
+Packaging does
+not match signed
+Needs revlew
+sample
+instcuction manuj
+Missinp 0r
+Levcl II
+Critical impact
+damaged
+Exposed nail with
+Missing distrioutor nformation
+Levci
+Wsuz
+detect 0n
+housing
+Needs
+(eview
+AQL
+lave
+Critical
+Detault
+Customer specific
+Rate
+shatp
+peint
+vaior
+Mioor

@@ -1,0 +1,80 @@
+Quality Inspection List
+Contim Ihat
+evels
+comply with customier agreements, This closure
+with inspection criteria. All checklist entries are timestaniped for
+sumrary indicates comipliance
+traceability. Archive this list in the quality-
+managernent system: This section details quality requirements ad test points for the batch: This
+captures quality Inspection points ard sampling levels
+checklist
+Product ID
+MC-540X
+Customer ID
+Item Description
+Insulated Tube 25mm
+GREECE
+Audit Criteria
+Sample
+Defect Class
+Observations
+Tier
+Item Specs
+Hold
+Missing safety labels
+Leve
+Minor =
+ISSue
+Ousenved
+Battery not included
+Needs reviewv
+Wood splinter
+sharp point
+on Moduct
+Needs review'
+Incorrect quantily Or
+assonmeni
+Minor issue observed
+Instruction manua
+missing
+camaged
+Level
+Connector not working
+Level
+Package
+not sea
+Critical impact
+complelely
+Needs review
+Exposed nail with sharp
+point
+Level
+Needs review
+Product doesn _ power on
+Level _
+ncorrect parcode 0r
+label
+Critcal impact
+Needs reviow
+Carion
+damaged
+markigs incorrect
+Level IlI
+Needs review
+Functionality test failed
+LEve
+Color mismatch
+Critical impact
+Level
+Critical impact
+Paint smearing
+scratches
+Lovel
+Rubber texlure .
+qiussincss
+Crilical impact
+mismatch
+Level /
+Supervised by:
+Date:
+sampling

@@ -1,0 +1,58 @@
+Compliance Log
+#7814412
+Date: 17.07.2025
+Product ID
+CN-I5OC
+Customer ID
+BELGIUM
+Item Description
+LED Light Strip
+Confiri that sampling levels comply with custome
+agreemients
+Use thls extract
+cpa dinala
+sign-olf with tre
+QA manager, This summary supports the production-release quality Bate. Below are the items to be verified
+during the final productreview. Entries include both visual and functional inspection items. Check that
+inspection steps follaw tne approved procedure.
+Quality Check
+Inspection
+Category
+Notes
+Depth
+Design
+Dead
+live insect
+packaging
+Level m
+Product dogsnt power On
+LCVEL
+Hinges
+DS
+Lcvcl
+Nnor ISSUC
+observed
+Connector not working
+ISSuC Obsenved
+Visual
+defect on housing
+Levei
+Rubber Switch not working
+Need:
+Tevibi
+Carton
+damaged
+markings
+incorrect
+Level III
+Critical impact
+AQL Level
+Critical
+Minor
+Default
+Customer
+specitic
+nteis
+Spec?
+Ninor
+Malon

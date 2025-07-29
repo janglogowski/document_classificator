@@ -1,0 +1,123 @@
+Conformance Report
+05451523
+17,07.2025
+Product ID
+CE-9054
+Item Description
+Nut M6
+Customer
+POLAND
+This section detalls quality requlrements and
+approved procedure
+paints for the batch: Check that inspection
+Refer=
+the quallty register for sampling-
+steps follow the
+complance with Inspection criteria, This =
+plan references Thls closure summary indicates
+visual ad
+functianal inspectlan
+summary supports the production-release quality Gate: Entrien
+Items
+Include both
+Quallty Check Items
+Nots
+Levei
+Tum
+Specs
+Dead Or Iive
+Inseclin
+Hold
+packaxlng
+Levci
+product
+Critlcal Impact
+LCVL
+Shipplng mark Is egible or
+TS Si
+Level I
+Laase
+Critical Impact
+Julsinsde-
+packorng
+Levc
+MissIng
+naels
+Battery not Included
+Level
+Needs !Cview
+Palnsmearing
+scratches
+Levei
+Critical Impact
+Notussembled uSpE
+drawing
+Lcvei
+Needs revlew
+ncorreci
+barcode
+Rubber Swltch
+wonkine
+Level
+Meedsreulne
+Instructlon manual
+mlssing =
+dumaned
+Level I
+scns
+oas-
+Mssing
+LCVCM
+Rubber texture
+BlossIness
+Need; revlew'
+mismatch
+Levei
+Needs revlew
+Functionallty test falled
+Connector not
+workina
+Worning labcl
+Lodi
+Package
+nat %a
+completely
+Critical [mpact
+Uncorreci
+ouentation
+Minor Issue observed
+LCVCI
+Crltical imoct
+AQL
+Critlca|
+Midlor
+Default
+Minor
+specilic
+Conflrm that al
+results are wthla
+approved
+acceptable limits. Thls final note confirms the checklist |
+open Issues
+the CAPA tracking
+compIet and
+(eum
+svster; AIl sumary comments
+avt
+Overall quality status indicates compllance with defined ,
+validated by the QA
+Teudiness
+folder,
+AQL Ievels Archlve this summary
+the audita
+Date: -
+sampllng
+Category
+Wtonai
+Qlcy
+Missin
+Lev
+Cutomner
+eamnoling
+Floe '
+becn

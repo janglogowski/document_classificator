@@ -1,0 +1,84 @@
+BILL OF MATERIAL
+Item
+Oty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Set
+pCS
+2.50
+32.50
+ISO-
+verfied
+Aluminum
+pCS
+108.00
+SKF
+Bracket
+brand
+Insulation
+pcs
+3.20
+128.00
+SO-
+Foam Pad_
+verified
+Rubber
+pcs
+0.55
+8.25
+Stopper
+alignment
+Termina
+adjusted
+pcs
+3,40
+37,40
+Block
+Control
+pCs
+12.00
+180.00
+Panel
+Urgent
+Mount
+Power
+pcs
+57.60
+Switch
+Imported
+Protective
+30.60
+ISO-
+verified
+somm
+Ventilation
+pCS
+5.60
+190.40
+Li-Ion
+Grid
+battery
+installed
+This
+review
+confirms that all items are ready for requisition Ensure this
+reconciled with the purchase order.
+materials summary is
+Customer
+D: SWEDEN
+Coordinator:
+Kowalski
+Date-
+Product ID: AL.1150
+Intemal No : 1601668
+Drder 22A 33425
+Qty: 334
+Total Amount;
+772.75
+Hinge
+Hinge
+Sleeve
+@inal

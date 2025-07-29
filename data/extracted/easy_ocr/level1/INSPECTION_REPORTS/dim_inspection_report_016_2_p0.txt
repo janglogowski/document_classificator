@@ -1,0 +1,68 @@
+Measurement Summary Sheet
+Inspector
+Pellr scnmidt
+Inspectiun Dalc
+2025 01.47
+All measured
+Jues are
+timestamped for Judit purposes
+beiOW Jre
+recorded
+measurements comparec
+Jgainst
+nominal
+taicrances
+This summary of measurements supports metrology traceability: The
+following data captures key
+dimensions and any deviations identified.
+Entries include bath pass/fail markers and devation magnitudes
+Article No
+-9ooX
+VF-ZZUD
+MX-ASUL
+Xk-610U
+component
+Hinge Set
+Bearing 6202 Z2
+0-Ring NBR GOmm
+Bearing 6202 ZZ
+Measurement
+Height
+Width
+Thickness
+anze
+51.03
+23.71
+71.00
+LL2
+Obsenved
+51.15
+23. /
+70.96
+D.O
+L0.Z
+40-0B
+Passarail
+Canfirm tnat pass rates meet the delined
+acceptance criteria_
+Lomdgnenl
+falling inspection require immediate
+review and corrective action. Inspection notes have been logged for traceability:
+Inslrumenl
+Callbration Log=
+Instrument
+Serial No.
+Calibration Date
+Lase
+scanner
+40293
+2024-12
+Caliper
+46700
+2025-04-30
+CMM
+63809
+2025-01-15
+Caliner
+96100
+2024-11-07

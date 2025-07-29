@@ -1,0 +1,84 @@
+Production
+Report
+PR-937
+Custcmer:
+POLAND
+Supervisor;
+Laura Rossi
+Department:
+Packaging
+Shift:
+(Evening
+15-10-2024
+Machine
+Operation
+Technician
+From
+Total
+Uwagi
+Temperature
+Energy
+Time
+(KWh)
+MC-202
+Assembly
+Dawid
+12.00
+13.49
+109
+70.5
+1.16
+Oszmianczuk
+MC-207
+Polishing
+Magdalena
+14-00
+15.53
+113
+61.6
+2.89
+Witkowska
+MC-207
+Cutting
+Jan Kowalski
+13.15
+14.53
+67.9
+1.79
+MC-20g
+Drilling
+Dawid
+11-00
+12.27
+Delay
+61.5
+2.48
+Oszmianiczuk
+MC-202
+Welding_
+Jan Kowalski
+14.30
+1454
+55,.3
+MC-203
+Assembly
+Magdalena
+08 00
+09.20
+55,9
+1,65
+Witkowska
+MC-201
+Drilling
+Magdalena
+0B-00
+08.26
+66.6
+1.44
+Witkowska
+Prepared by:
+Anna Nowak
+Approved bY'
+Schmidt
+Log
+Peten

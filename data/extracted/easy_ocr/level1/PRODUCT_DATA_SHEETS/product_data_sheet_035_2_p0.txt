@@ -1,0 +1,56 @@
+Product Data Sheet
+Use this sheet
+confim engincering requirements
+and tolerances; The following information outlines
+pentormance
+characteristics and design data.
+Ensure all referenced standards are up
+date
+Please
+the specifications and
+material composition listed below This report @xtract
+prepared for =
+veritication audits This section detalls
+the contiguration and parameter set for the product_
+data entries are traceable
+design revision history:
+Product ID:
+LK-890B
+Document No :
+PR-432
+Prepared by: Jan Kowalski
+Approved by; Laura Rossi
+Date: 2025-05-28
+Unit Type
+Hydraulic Powe
+Unit
+uperatine
+Pressure
+Is0bar
+Flow Rate
+75 Lmin
+S0Hz
+Type
+Vane
+Cooling
+Lir-cooled
+radiator
+Oil Type
+HLP 46
+Archive this summary for future design change
+manjeemeni
+Materia
+choices and process
+data havc
+ucen
+verfied
+for compliance
+Documenicntng
+numbers are included far traceability- This summary reflects the latest revision of
+Ine product data: Refer
+narameter
+table for operating ranges and tolerances
+design
+Voltage
+pump
+Pump

@@ -1,0 +1,46 @@
+Customer ID: CANADA
+Prepared by: Anna Nowak
+Product ID: LK-890B
+Internal No:: 9585671
+This document provides
+detalled breakdown of all components required for Ihe assembly
+process. This summary Iists every Item required
+with per-unit pricing details, This extract shows
+Ihe bill of components and total projected spend
+All Iine-Item costs are current as per vendor
+quotes
+Ensure each component meets Ihe specified quality standards
+Use Ihis breakdown (0
+verify sourcing and cost estimates
+Item
+Ceramic Disc
+Protective
+Ventilallon Grid
+Protective
+Description
+80mm
+Sleeve S0mm
+Sleove 50mm
+Qty
+733
+623
+350
+408
+UOM
+pCS
+pCs
+Unit Price
+2.10
+,80
+5.60
+Amount
+539.30
+412140
+960.00
+734.40
+Remarks
+Urgent
+ROHS compliant
+Eco compliant
+ROHS compliant
+TOTAL: 5,355.10

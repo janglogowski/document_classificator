@@ -1,0 +1,103 @@
+Report No::
+PR 526
+Customer:
+NORWAY
+Supervisot:
+Pete
+sctmide
+Denartment;
+Maintenjnce
+Snufe;
+(Morning]
+28-08-2024
+All throughput figures
+are recorded for capacity
+planning- Thls report
+summarizes the daily operations and output for
+production line. Use this overview
+asses5 throughput and
+efficiency levels The
+following
+cala captures
+production targets, actual output; ad any deviations;
+Machine
+Task
+Operator
+Start
+End
+Uwagi
+Temperature
+power
+Time
+Tlme
+MC-205
+Anna
+Nowak
+12.15
+13.25
+Dra
+Mc-207
+Cutting
+Nowas
+13.00
+Delay
+73,4
+Mc-205
+1439
+78.2
+1.06
+Polishing
+Przemyslaw
+10;15
+11.20
+75.5
+2.31
+MC 207
+Mateusz
+08.00
+08.30
+60.2
+2.19
+Jaryna
+MC 201
+Assembly
+4nnz
+07.00
+08.14
+MC-208
+Assembly
+Piorr
+56 9
+1.14
+12.15
+13,04
+Recalibrated
+58,5
+Lewandowski
+1,67
+MC-207
+Assembly
+Bartosz
+14.15
+15,35
+Olvcuniji
+61,1
+2.26
+MC-207
+Assembly
+aktor
+14.30
+15.09
+Kopczytski
+64.3
+2.36
+Prepared byi
+Kowalski
+Approved By:
+Ljura Kosc
+Tlme
+Welding
+Anna
+Wasik
+Cutting
+Nora

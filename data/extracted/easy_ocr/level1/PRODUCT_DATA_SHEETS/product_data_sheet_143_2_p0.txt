@@ -1,0 +1,43 @@
+Unit Data Specification
+Entries include both mechanical and electrical specifications. This data sheet provides key specifications
+and materal details
+Ensure all referenced standards are up
+date. Confirm that performance ranges
+comply with project requirements:
+The parameter register below includes operating limits and ratings_
+data entries are traceable
+design revision history.
+Product ID:
+NE-245A
+Report No :
+PR-741
+Prepared by: Anna Nowak
+Approved by: Carlos Garcia
+Date
+2024-03-09
+Model Type
+Hydraulic Power Unit
+Rated Pressure
+210 bar
+Fluid Flow
+75 Umin
+Voltage
+480
+60Hz
+Protection Class
+P67
+Charging Time
+Motor Powe
+5 5kW
+Reservoir Capacity
+Battery Capacity
+Total Welght
+230
+missing parameters for urgent specification updates
+Check that all section headers follov" the
+product template_
+Ensure that the listed materials are approved for the application: Data sheet has been
+peer-reviewed by the engineering team_
+Archive this summary for future design-change management:
+Contirm that all test conditions are accurately represented:
+Flag

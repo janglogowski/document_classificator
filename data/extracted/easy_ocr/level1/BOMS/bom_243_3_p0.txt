@@ -1,0 +1,110 @@
+BILL OF MATERIAL
+This document provides
+detailed breakdown of all components required for the assembly
+process: Review the materials tally for compliance with budget allowances:
+The following table
+summarizes the materials and quantities needed for the current project; This section oullines the
+parts
+unit prices and total amounts for assembly. Below
+the component listing and associated
+costs for the upcoming production batch:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Clamp
+1.75
+7.00
+For export
+Ring
+120mm
+Cable Tie
+pcs
+0.95
+16.15
+ISO-
+Pack (100)
+verified
+Terminal
+pCs
+3.40
+91.80
+Imported
+Block
+Termina
+pcs
+3.40
+47.60
+Eco
+Block
+compliant
+Rubber
+0.55
+14.30
+High grade
+Stopper
+Spring
+pcs
+0.05
+2.35
+Washer
+M1O
+Insulation
+pCS
+3.20
+115.20
+SO-
+Foam Pad
+verfied
+Hex Bolts
+pcs
+0.25
+10.25
+ISO-
+M12
+verified
+Stee
+5.00
+10.00
+ROHS
+Sheet 436
+compliant
+Battery
+pCS
+25.00
+100.00
+Switch
+Pack
+tested OK
+Copper
+0.60
+16.20
+ISO-
+Wire 3mm
+verified
+Packaging
+pCS
+1.00
+2.00
+Imported
+Box
+This closure summary validates that all parts are approved for release.
+that component
+quantities align with production run requirements. The cost subtotal supports financial forecasting
+for the next cycle;
+Customer_ ID: BRAZIL
+Coordinator: Carlos Garcia_
+Date:
+2025-04-21
+Product ID: SL-430M
+Intema_
+No;: 2427627
+Order Qty: 400
+Total
+Amount:
+432.85
+pCS
+Check -

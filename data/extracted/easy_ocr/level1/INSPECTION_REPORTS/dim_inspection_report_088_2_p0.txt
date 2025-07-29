@@ -1,0 +1,45 @@
+Dimensional Log
+sudervisor
+Ldula Ros;
+Inspection DJtc
+2024 06 02
+LodC
+SB-140V
+KV 390k
+PW515Y
+JD /0uT
+Njmc
+Plastic Rivets
+Sraphite
+Wooden Pallet
+Stcel Snee 43G
+Inner
+Diameter
+Depth
+Wctm
+Uoli
+Nomina
+84.06
+Observed
+98.87
+6392
+Pass(Fail
+Revicw falled items against the corrective- action register. Ensurc status
+updated in the quality management
+system
+Lomnonents
+failing
+inspection require immediate review and corrective action;
+Instrumenc
+Calibration Log:
+instrument
+Serial No
+Last Calibration Date
+Caliner
+20501
+2025-05-10
+Lasem
+Scanner
+60622
+2024-09-09
+flags

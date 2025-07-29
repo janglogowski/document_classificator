@@ -1,0 +1,104 @@
+Production Log
+Redar ND;:
+PR-385
+Cusiamer-
+SWVEDEN
+Supervisor
+Carlos Garcia
+Department'
+Machining
+Date;
+05-2025
+Snitt:
+KNignt)
+Machine
+Task
+Worker
+Finish
+Time
+Remarks
+MC
+Cutting
+Saulei
+11-15
+11.39
+Recallbrated
+MC 201
+Welding
+Agnieszka
+09.30
+10.14
+N{A
+Zielinska
+MC-202
+Polishing
+wiktor
+09.30
+09.50
+N/A
+Kopczytiski
+MC 205
+Cutting
+Dawid
+09.30
+10.10
+Rccalbraico
+Oszmianczuk
+MC-204
+Drilling
+wiktor
+11.15
+12.28
+Recalibrated
+Kopczynski
+MC 203
+Drilling
+Przemysiav
+08-00
+09.41
+Wasik
+MC-202
+Assemblv
+Magda
+09.15
+10.38
+N/A
+Witkowska
+MC-207
+Assembly
+Jan Kowalski
+14-00
+15.58
+Recalibrated
+Item
+Target Qt
+Achleved Qty
+Rejected Qty
+Rejection
+Motes
+-660
+216
+205
+0940
+730X
+00%o
+236
+10,5947
+Rewont neened
+gooX
+contirmem
+90SL
+367
+Rework needed
+CE 9OSL
+1 984
+Prepared b%:
+Anna Nowak
+Approved bv:
+Larios
+harcia
+Fcom
+Tot a
+209
+Nadia
+Sctad

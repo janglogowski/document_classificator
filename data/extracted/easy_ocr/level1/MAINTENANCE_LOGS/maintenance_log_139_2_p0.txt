@@ -1,0 +1,82 @@
+Machine Log Summary
+2025-04-29
+Reter
+the maintenance register
+detailed serce histoies
+Belovi
+the summan' ol service actions and drniimes tor each
+machine; This service , ummary
+upports thc reliability engineering review This maintenance extract is
+cccoiredetor cnmnlianct
+Judattralls
+Fotrles Inclnde work arders
+cechnlclan asslgnments
+and Dart
+changes_
+Spare Parts Used:
+Pan Name
+Dann0
+Qty Used
+QilFilter
+P-7337
+Machinc
+Machinc
+Upcrator
+puratiotn
+previous
+Note5
+Servicee
+MC-233
+Laser Cutter
+Preventive
+Laura Rossi
+2023-07-24
+Replace d
+ccolant
+MC Zu7
+CNC Milling
+Co-recuvl
+Ljura Rossi
+2u2t0s
+Retilled oill
+Machine
+(HLP 46L
+MC-255
+Packorin?
+Preventive
+peter
+2024-07-22
+Replace 0
+Line
+Scumid
+(use (5AL
+Kc7EA
+Paint Bcotn
+Inspection
+Liura Rosi
+7024 01-17
+LaFl
+ccntacts
+cleaned
+MC-241
+Hvdraulic
+Lotrecmve
+Carics Garcia
+202>-US-11
+Amienment
+Press
+#djusx
+MC-282
+Paint Rcotr
+Cotrertve
+Peter
+2024-05-20
+Alignment
+Scnmlet
+adiusted
+hutno ied
+nnanda
+Onerator:
+Carns Garcia
+hinge?
+hinget

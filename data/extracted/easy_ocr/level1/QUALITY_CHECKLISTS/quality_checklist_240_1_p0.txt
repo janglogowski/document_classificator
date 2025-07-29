@@ -1,0 +1,71 @@
+Inspection Record
+#7379823
+Date: 17.07.2025
+Product ID
+ALI150
+Customer ID
+TURKEY
+Item Description
+Spring Washer M10
+Please
+reviex
+each checklist point and mark Ihe sampling results.
+Check that inspection steps follow the
+approved procedure_
+This summary supports the production-release quality gate. Confirm that sampling
+Ieveis
+comply with customer agreements, Ensure all non-conforming marks are clearly documented
+Archive
+(his Iist in Ine quality-managemient systemn:
+Review Points
+Sampling
+Defect Class
+Notes
+Lovci
+Item Specs
+Hold
+Dustldebrs inside packaging
+Leve
+Needs review
+Exposed nail with sharp point
+LovO
+Minor issue observed
+Not assembled as per
+Level
+Minor issue observed
+drawing
+edges on plastic
+Level
+Needs review
+componcnis
+Screws
+oose 0r missing
+Level
+Needs reviow
+Rubber texture or glossiness
+Level IlI
+Minor issue observed
+mismatch
+Packaging does not match
+Level Il
+Critical impact
+signed sample
+Incorrect orientation
+Level
+Needs revicw
+Package
+not sealed
+Level
+Needs review
+completely
+Visua
+hetecl on nousinq
+Minor
+ssue
+apsenvac
+AQL Level
+Critical
+non
+Default
+Customer specifc
+Sharp

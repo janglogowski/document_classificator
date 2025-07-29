@@ -1,0 +1,104 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-442
+Customer:
+POLAND
+Supervisor:
+Jan Kowalski
+Department:
+Logistics
+Shift:
+Evening-
+19-03-2024
+This section details the key metrics and activities
+ecorded
+during the shift , The following data captures
+production targets, actual output and any deviations.
+This report summarizes the daily operations and
+output for the production Iine.
+Machine
+Process
+Technician
+Begin
+Finish
+Time
+Comments
+Energy
+Spent
+(C)
+(kWb)
+MC-203
+Assembly
+Agnieszka
+08.30
+09.41
+NA
+72.1
+1.91
+Zielinska
+MC-201
+Polishing
+Magdalena
+10.00
+10.41
+Recalibrated
+77.7
+2.73
+Wilkowska
+MC-209
+Welding
+Magdalena
+13,30
+13.50
+Recalibrated
+68.8
+Witkowska
+MC-201
+Assembly
+Piotr
+12.00
+12.56
+75.0
+2.62
+Lewandowski
+MC-201
+Cutting
+Bartosz
+10.15
+10.36
+Recalibrated
+72.0
+1.01
+Wavrzuiak
+MC-208
+Assembly
+Magdalena
+07:00
+08.21
+Recalibrated
+68.0
+2.32
+Witkowska
+MC-202
+Welding
+Magdalena
+08.00
+08.23
+Delay
+56.5
+2.35
+Wilkowska
+MC-206
+Assembly
+Agnieszka
+07:00
+08.56
+116
+66.4
+1.89
+Zielinska
+Prepared b%:
+Laura Rossi
+Approved DX:
+Carlos Garcia
+Temp

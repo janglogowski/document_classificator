@@ -1,0 +1,79 @@
+Equipment Record Report
+2024-04-16
+This section capture
+Bqminment etatus and anv maintenance obsenaticns
+Refertothe maintenance
+register for dotailed
+Senvice Ms[ones
+AAM
+the summary
+senviceacmons anddavnumes tar each
+'machine
+Tts setvic & summnany :upaorts
+tne reliability Bnzingeringreviewv-
+opuruPums
+Part Namo
+Part No
+Qty Used
+011 Filter
+074
+Hvdmaulic Hos
+03074
+Fuse
+P-41/2
+Unit_
+Machine
+Type
+Technician
+Duratlon
+Cneck
+Llnae
+Comments
+MC 793
+Lathe
+Unscection
+Peler
+7024-04-17
+Realaced
+Schmidi
+IS4L
+MC-2EZ
+Aa9embiy
+Corrective
+Larios
+2024-11-26
+No I3ue3
+Robot
+Garcia
+found
+MC-249
+LaerCurter
+preventive
+2024-12-03
+Li-Ion
+Kowalski
+battcry pack
+senviced;
+MC-266
+Convevoi
+Preventna
+Peter
+2025-04-07
+Refilled oil
+Schridt
+TFLP 40
+MC 294
+Lashr Cuner
+Inacccom
+Lilma
+Rossi
+2024 05 28
+Rcalaced
+(SN.
+Authocizedbv:
+Arma Nawak
+Uperator;
+Lauro
+RC5si
+Used;
+Code

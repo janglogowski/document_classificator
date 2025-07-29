@@ -1,0 +1,122 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-330
+Supervisor:
+SWEDEN
+Departmunt:
+Kowalski
+Quality Control
+Shift:
+2025
+(Nignt)
+Process
+Worker
+MC-204
+Polishing
+Start
+Finish
+Przumyslaw
+08.15
+Hime Spent
+MC-207
+Wasik
+08.55
+Comments
+Polishing
+Davio
+12.15
+MC-202
+Oszmiariczuk
+13.31
+Delay
+07*00
+MC-202
+Lewandowski
+07.32
+MC-204
+Anina
+Nowak
+10*30
+11.15
+08.00
+MC-207
+Lowandbwski
+08.30
+Dawid
+06.15
+08.15
+MC- 203
+Oszmiariczuk
+MC-?05
+Assembly
+Anna Nowok
+09,30
+Assembly
+10:14
+MC-204
+Jan Kowalski
+09;15
+Recalibrated
+Polishing
+Przemystaw
+0952
+11,30
+z-in
+MC-?01
+Waslk
+Polishing
+Davld
+N/A
+07.30
+09*18
+Mc-202
+Oszmianczuk
+Mateusz
+07.30
+arzyna
+08.19
+MC-205
+Dalay
+Dawid
+12.00
+15.40
+Oszmianczuk
+Dolay
+Product ID
+Planned
+SB-T40D
+Actual Qty
+160
+Qty
+Failure
+Remarks
+QP-6S0F
+14,8903
+263
+confirmad
+SL- 430M
+confirmod
+4.3702
+Rework needed
+Approved
+JenKowalski
+Kowalski
+Customet:
+Onlc;
+17-05-
+Haching
+Time
+Welding
+Piou
+Weldlng
+Drilling
+Piot
+Driling
+Welding
+Drmling
+pufect
+Sctap
+8.76n0
+Scrop
+Prepared
+IDt:

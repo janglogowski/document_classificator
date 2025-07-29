@@ -1,0 +1,59 @@
+Measurement Summary Sheet
+Inspector
+Ankowak
+Inspection Date
+2023-10-16
+Article No.
+GL-9805
+KP-320E
+NE-2454
+AZ-300T
+Component
+Shall 500mm
+0-Ring NBR 60mm
+Hex Bolts M12
+Shalt 500mm
+Thickness
+Inner
+Diameter
+Inner Diameter
+Thickness
+Nominal
+77.67
+64.68
+48.61
+42.78
+Obsenved
+77.83
+64,84
+48,74
+42.,69
+Diff
+4016
+40.13
+0.09
+Pass/Fail
+PASS
+PiSS
+PASS
+PaSS
+Archive this inspection summary for regulatory documentation:
+Record any measurement anomalies for
+follow-up analysis. Components failing inspection require immediate review and corrective action. Please
+address any NOK items before proceeding
+the next
+production stage
+Instrument Calibralion Log:
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+98858
+2025-01-19
+Calper
+19153
+2024-12-20
+Calper
+34044
+2024-08-06
+pin

@@ -1,0 +1,77 @@
+Conformance Report
+This section details quality requirements and test points for the batch: This checklist captures quality
+inspection points and
+sarpling levels. Archive this list In the quality-managerent systern: All checklist entries
+are timestamped for traceability: Use this list to confirm adherence to AQL and safety standards
+Product ID
+ZR-205R
+Customer ID
+BELGIUM
+Item Description
+Insulation
+inspcction
+Checklist Points
+Sample Tier
+Defect Class
+Observations
+Item Spec=
+Visual
+delecton
+housing
+Level II
+Minoj
+ISSUe Ooseived
+Snard
+edges
+plastic
+Critical impact
+componGMLS
+Loose parts inside packaging
+Level II
+Instction manuals
+missing
+Level /
+damaged
+Shipping mark is illegible
+Level II
+Critical impact
+missing
+prodmcidoesnt
+powcI On
+Levei
+Battery not included
+Leveli
+Critical impact
+Rubber texture =
+glossiness
+Level |
+IESue
+observed
+mismatcn
+Dustdebris inside packaging
+Level III
+Package
+not saaiad
+Level II
+Critical impact
+comdlerei
+incorrect Orientation
+Level l
+Minor issue observed
+Missing
+Needs review
+Connectan
+'not working
+Levcl
+Nccosrcuicu
+Not assembled as per drawing
+Level 
+Criticalimpact
+Incorrect quantity Or
+LevelII
+Minor issue observcd
+ssdmanem
+Supervised by:
+Date:
+Foum
+Hinot 

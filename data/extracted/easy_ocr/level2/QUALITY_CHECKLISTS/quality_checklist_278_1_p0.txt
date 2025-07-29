@@ -1,0 +1,54 @@
+Inspection Summary
+#1076065
+Date: 17.07.2025
+Product ID
+MX-A50L
+Customer ID
+TURKEY
+Item Descrption
+Cable Te Pack (100)
+Use this Iist t0 confirm adherence t0 AQL ad safety standards. The following table outlines inspection
+critera and classification levels_ All checklist entries are timestamped for traceability- Check that inspection
+steps follow the approved procedure. Ensure all non-conforming marks are clearly documented. Archive this
+Iist in the quality-management system. This summary supports the production-release quality gate. Refer to
+the quality register for sampling-plan references
+Audit Criteria
+Sampling
+Severity
+Remarks
+Level
+Desion Spec;
+CR
+MA
+Hold
+Vsual defecton housing
+evel
+Minorissue obsened
+Exposedna
+shamppoint
+evel
+Crticalimpad
+Wrong product size
+Screws Ioose
+Missing
+Level
+Rubber texture or glossiness
+Level |
+Minor issue observed
+mimatc
+Packaging dces not match
+signed gample
+Shamp edges
+plastic
+Level /
+Crtical impadt
+components
+AOL Level
+Crtical
+Maior
+Minor
+Default
+Customer Specing
+Checklist results have been reported t0 the qualty manager AJlI summary comments have been validated Dy
+the QA team_ Items marked for hold require additional review before release. Archive this summary in the
+audil-readiness folder

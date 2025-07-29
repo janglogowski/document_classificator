@@ -1,0 +1,120 @@
+Verification
+#5321039
+Date: 17.07.2025
+Product ID
+JD-Z00W
+Customer ID
+DRAZL
+Item Description
+Stainless Bolt MB
+Relaw are the items
+be verified during the
+product revicw. This cecklist captures
+quality Inspection points
+and sampling levels Use this list -
+confirm adherence
+AQL and safety standards
+Check that inspection steps
+follow the approvec
+procedure
+All checklist entries
+are timestamped for traceability Refer
+quality register for
+samplirg
+references: This closure summary indicates compliance with inspection criteria  Use this extract to
+coordinate
+Sign-off
+the QA manager, Confirm that sampllng levels comply with customer agreerents; This
+sectlon details quality requirements and
+test polnts farthe batch;
+Inspection Checklist Points
+Check
+Defect Class
+Lamments
+Intensity
+Design Specs
+Shipping mark E
+illegible or
+Mssine
+Level |
+Needs reviev
+Incorrect rentation
+Leve
+Crtica
+Ampact
+Strews Ioose
+Missinp
+Leve
+Packaging does not match signed
+Level
+sample
+Wood splinter r sharp point on
+Level M
+product
+Sharp edges on plastic
+comognenis
+Level!
+Critical impact
+Wrong product slze
+Leve
+Package
+not sealed completely
+Mimor  SSUC
+Jbsenjed
+Camton
+damaged
+markings
+incorrect
+Needs review
+Incorrect quantitk or assonmeng
+Leve
+Keeds review
+Loose parts inside
+packaging
+LCve
+Mlinor issve Onseneo
+Nor assemnalea
+Eer drawing
+Leve
+MinorssUe
+~observed
+Rubber texture
+Jjossiness
+Minor Issue observed
+mismalci
+Dust/debris Inside packaging
+Leve
+Critical Impact
+distributor Informatlon
+ssue Obsenved
+Connector not working
+Levcl
+Lritica
+impact
+AQL Level
+Critical
+Mlinar
+Detault
+Customer specitic
+Corrective actions are scheduled for identified issues, This summan
+supports the end-of-line quality certificatlon:
+Archive this summary in the audit-readiness folder. All summary comments have been validated by the QA
+6eam
+Please
+ensure supervised
+Isign-off on any non-conforming points
+Overa
+quality status indicates compllance with
+defined AQL levels. Flag any open-
+the CAPA tracking system
+Confirm thal
+sampling
+esults are
+within
+acceptable limits.
+Log
+fnat
+Mch
+Mirsing
+Minor
+Assues

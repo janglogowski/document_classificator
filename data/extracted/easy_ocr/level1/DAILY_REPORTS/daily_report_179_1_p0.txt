@@ -1,0 +1,87 @@
+Shift Summary
+Redam ND;:
+PR-738
+Cuslamer-
+POLAND
+Supervisor
+Carios Garcia
+Department:
+Logistics
+Date
+04-11-2024
+Shift:
+KEvening
+Equipment
+Process
+Technician
+Start Time
+End Time
+Time
+Comments
+MC 203
+Welding
+Agnieszka
+09.15
+11.01
+106
+Delay
+Zielinska
+MC-205
+Assembly
+Magdalena
+12-00
+13.03
+witkowska
+MC 207
+Drillng
+Kauia
+Saulei
+10-15
+1116
+MC 208
+Polishing
+Przemysiav
+08-00
+09.06
+Wasik
+MC-207
+Welding
+Wiktor
+09.15
+11.12
+Kopczynski
+MC 208
+Polishing
+Agnieszka
+07.30
+09.12
+102
+Recalibrated
+Zielinska
+MC-202
+Drilling
+Przemyslav
+10.15
+11.30
+N/A
+Wasik
+ParID
+Planned Output
+Prockiced
+Relected Otr
+Lk-89ub
+8070
+RCwOIK necucd
+Kcwonenecoed
+3626
+HRSYUA
+76yun
+Kcran contirmeo
+Prepared by:
+Kawalski
+Appraved by:
+Carlos Garcia
+Spent
+Delay
+Scral
+Uwag

@@ -1,0 +1,67 @@
+Unit Data Specification
+Internal No;
+PR-546
+Product ID
+Re-850C
+Date: 2025-03-19
+Model Type
+Hydraullc
+Unlt
+Operating Pressure
+180 bar
+Flow Rate
+75 L/min
+Voltage
+400
+50 Hz
+Serulce Interval
+s00 h
+Working
+-10"Cto 50 C
+Pump Iype
+Vane Pump
+Nolse Level
+72 dB(AI
+Mounting
+Skid base wlth vbration
+pads
+Component Materials Overvlew:
+Item
+Raw Materlal
+Speciication
+Teflon Tape Roll
+Tellon Tape Roll
+Electrlca
+endde
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Anticorrosive
+0-RIng NBR G0mm
+Nltolle Rubber INBR)
+Class
+colerance
+Gasket Sheet 44
+Nltalle Rubber INBR)
+Electrlca
+Arddc
+CapacItog
+450v
+Aluminum G0g1-16
+IP6? rated
+Rubber
+Anen
+SOmm
+Nltale Rubber INBR)
+CE certilled
+Support Foot Steel
+Stalnless Steel 304
+UL-Iisted
+Hinpe Set
+Stalnless Stee
+304
+Anticorrosive
+Prepared by: Anna Nowak
+Approved bv: Anna Nowak
+Powed
+Temp
+Ranie

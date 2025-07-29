@@ -1,0 +1,82 @@
+Unit =
+Cooling 
+Date:
+Flov:
+Rate
+System
+Jo Lmin
+300 bar
+45 €
+months
+Salnles
+Capacity
+GD Hz
+Stecl
+10 Ah
+Rack
+1ot! Wcight
+Sheet A4
+Nut M6
+Materiai
+UNBRI
+Cable Tie
+Pack (Io0;
+6061-T6
+I5Q 2768
+certified
+On Cell Pack
+by: Peter
+Class
+by: Carlos
+Product =
+Overview
+Interoal
+PR-226
+Product ID
+Ax-310z
+Typr
+2024-0.-20
+Grculation
+Rated
+Ctessunt
+Wotking _
+cmp:
+R"g9
+Servioe
+5 Cta
+Intena
+Opcrtlog
+Vel2ge
+Matetil
+Batten
+Mountina
+IyPe
+Frarg
+ramte
+Comoonent
+Matertals
+Ovenyiey?
+Gaiket
+Natae
+Rubbe
+Hcat Slk4LU
+Spcc tication
+Znc
+rlaied
+Rens
+comellant
+num nuni
+Pattely Pack
+Ntale
+Rube
+Poer Swritch
+lhium
+AnticonottC
+Polycacoi t0
+Coppet
+ccnited
+Prepared
+tolcance
+Schmlat
+Approved[
+Garcha

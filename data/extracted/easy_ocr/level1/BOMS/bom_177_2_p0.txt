@@ -1,0 +1,35 @@
+Customer ID: GREECE
+Prepared by: Peter Schmidt
+Product ID: TX-820V
+Interna
+No:: 7140735
+Ensure each component meets the
+specified quality standards. The parts manifest here
+designed
+support procurement workflows_
+This extract shows the bill of components and total projected spend_
+entries reflect the latest inventory and supplier rates The following table summarizes the materials and
+quantities needed for the current project;
+Item Description
+Steel
+Sheet 436
+Ventilation Grid
+Plastic Rivets
+Epoxy Resin Kit
+Qty
+109
+782
+992
+647
+UOM
+Unit Price
+Amovnt
+545.00
+379.20
+198.40
+4,723.10
+Remarks
+Urgent
+For export
+Urgent
+TOTAL: 9,845.70

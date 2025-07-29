@@ -1,0 +1,86 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-594
+Customer: BELGIUM
+Shift:
+(Morning)
+Date: 13-09-2024
+Mlachine
+Task
+Worker
+From
+Finish
+Duration
+Uwagi
+Condition
+(min)
+MC-209
+Welding
+Nadia
+13;15
+14;03
+NYA
+Delayed
+Sauter
+MC-202
+Assembly
+Mateusz
+07:15
+09.02
+107
+Delayed
+Jarzyna
+MC-205
+Welding
+Wiktor
+07;00
+07.56
+pronre5S
+Kopczynski
+MC-202
+Welding
+Mateusz
+06.15
+07.18
+Delayed
+Jarzyna
+MC-201
+Polishing
+Magdalena
+08;00
+08.41
+progress
+Witkowska
+Item ID
+Target Qty
+Achieved
+Scrap Qty
+Scrap %
+Reworked
+Remarks
+Qty
+Units
+MR-160H
+102
+102
+0.00d6
+Rework
+mcedcu
+DX 777T
+PW-S1SY
+NU-4402
+169
+6-63
+Ty-350G
+159
+138
+13.2190
+Puwvans
+needed
+VR-940T
+232
+208
+T0:470
+Rewan
+needed
+Approved by:
+Prepared by:

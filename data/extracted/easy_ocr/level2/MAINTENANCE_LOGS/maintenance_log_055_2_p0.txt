@@ -1,0 +1,99 @@
+This log records
+BlL Maintenance acuivirie:
+pemonmed
+the equipment. The follovaing entries detail preventive and corrective
+maintenancu tasks. This section captures quipmunt status und Jny maintenunce observations
+Ensur all safety checks
+completed during servicing
+Uge thls gummary
+rcrecast pans replacemen and resourc
+eedg
+Spare Parts Used:
+Part Name
+amno
+Qty Used
+Hinge Sel
+R92B
+achinc (0
+Machinc
+Ivpc
+Tc cnnician
+downtimo
+Previous
+Sitc
+Commcnts
+Senvice
+MC-242
+Plasmo
+Inspuction
+Knna
+2025-02-12
+Sutch
+Cutter
+Kov84
+contacta
+Ceanam
+MC-236
+Assembly
+Inspection
+Petem
+2025-06-22
+Li-ion
+Robot
+5chmnidt
+battery puck
+Reniced
+MC-226
+Hudralulic
+Jnsoccuan
+Anna
+2024-06-05
+Nowak
+HC240
+Packaging
+Preventive
+Anna
+2024-02-05
+Li-Ion
+Line
+Noival
+Datten pack
+senic80
+MC-295
+Cuntter
+Corective
+Perer
+2025-05-17
+Schmiot
+MC-235
+Cutier
+Preventive
+Peter
+2023-10-26
+Switch
+Scnmict
+contoctz
+cleaneo
+MC ?44
+4S 8 Arih
+Unsp eclcn
+7073-09-06
+Tghtene?
+Ropot
+Kowvalaki
+loose pclts
+MC 202
+Plasria
+Unspuctom
+7076-07.74
+Sunso
+Cutter
+Kowalski
+n2 calibrateo
+AuhctizedOy
+Luura
+Rossi
+Querallom-
+Liun
+Rossi
+Pre??

@@ -1,0 +1,84 @@
+Product Overview
+Projec:
+Lscl
+onterna
+9424119
+Prepared By
+Carios Garcia
+Cdoiote 
+Lauie
+Rossi
+Location: Plant 1C
+Date: 2025-06-21
+The
+followirg intormaticn outlines performance charactenistics and design data; This technical overvew supports the
+product-release checklist_Entnes include both mechanical and electrical specifications This data sheet provides key
+speditications and material details Usethis specsheet;
+validate assembiy instructions- This section Cetails the
+configuration and parameter set for the product
+Unt TP?
+Pneumatc
+Ceontroi Unit
+Operating Pressure
+210 Dar
+Fluid
+Hmin
+Operting Voltage
+2304
+E0Hz
+Wororfower
+la
+Noise Levet
+S720B04
+Batten Capacity
+Protection
+IP67
+Working Temp
+SCtc
+45C
+Total Weignt
+250 K8
+Materia
+Powder-coated
+Oil Type
+HiP 68
+Chargina Time
+Fitration
+inline,
+etTN
+Dimensone
+(uhH
+loCO
+650
+1090
+Reservoir Capacity
+Ccntroivane
+Ptodotionai
+4/2
+PuMo
+[yPe
+Vanepumc
+Genin
+Untend
+Ictm
+Cooting
+Water-cooled
+pfonaner
+Malerial cf Construction:
+Pant
+Raw Materal
+puober6art2' WImm
+Atnle Rubber (NBR)
+Fuse
+Ceramic Oxde
+SteelSheet AB6
+Conton
+Yla
+Gasket Sneel A4
+Nine Rubber (Nbri
+Flot
+@ast
+Fanee
+Fram€
+Stze 
+1olm

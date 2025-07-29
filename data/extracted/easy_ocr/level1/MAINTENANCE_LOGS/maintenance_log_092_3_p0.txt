@@ -1,0 +1,106 @@
+Maintenance Checklist Report
+Performed On: 2024-01-25
+Apptovcd
+Ian Kowakak
+Serviced Dv:
+Annz
+Nowar
+This service summary supports the
+eliability engineering review. This
+ection captures equipment status andany maintenanc
+observations. Checkthat
+dctyntime
+events are properl; categorIzed and
+Please revlewv thls E
+Fo^Felen Rence
+types, and
+emarks
+entries getail Creventive and cctrective
+intenance task
+scction
+Unit Code
+MC-276
+MC-245
+MC-255
+MC-294
+MC-208
+Machine
+4ssembiy Robol
+Plasma Cutter
+Watne
+Packiging Line
+Lahe
+Type
+Preveniive
+Corrective
+Jreventive
+Currective
+Inspection
+Opcrator
+Laura Rossi
+Peter echmidt
+Laura Ro,
+Annj R0 Jk
+Jjnkowa S
+dotntime
+Comnmente
+Replaced Iuse
+Switen contacls
+Tientened ldose
+Alignment of
+Li-Ion Dalterv pacr
+cleained
+a dimsted
+Servicet
+section
+Uni Codc
+M Zu8
+MC 245
+WC 292
+MC 255
+MC 276
+Machine
+Lathe
+pizsmz Cutter
+Packaging Line
+Iathe
+4ssembl Aobo
+Preveniive
+Currective
+Currectiv
+Preventive
+Justruon
+Operalor
+Clles Garcha
+Cafus Garcia
+Auna RC
+Laura Ros
+Lalic; Garciz
+Downtimi
+comments
+Wentened
+Calipration cneca
+Amenment
+No Issues icung
+nolg
+a dimsted
+Ovecall equiprent condition
+is satisfactory post-maintenance
+Recurd any $4ne parts ueaneloninvenory Adjusimeng_ Senvice
+sumnanes have beenicrwarozd
+the enzineerineteam Usethis closure
+Mpjate the maintenance KI tracker.No critica
+faults*enetouna
+thc Iatest inspection;
+Uptime (%)
+EFror count
+MOtes
+97.770n
+Reulacrd ueec
+Hoc8ed
+daler
+fdlotice
+Nno?
+Type
+Gingos
+dwrire

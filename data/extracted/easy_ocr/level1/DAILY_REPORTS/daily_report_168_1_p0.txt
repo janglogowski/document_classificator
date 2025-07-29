@@ -1,0 +1,91 @@
+Shift Summary
+RepoNo;-
+PR-760
+Customer'
+CANADA
+Supervisor:
+Anna Nowak
+Department:
+Assembly
+Dale
+06-04-2024
+Shift:
+(Evening)
+Machine
+proces€
+Technician
+Fram
+Finish
+Total Time
+Camments
+MC-207
+Assembly
+Magdalena
+13;00
+13,27
+N/A
+Witkowska
+MC 207
+Welding
+Dawid
+10.00
+10;29
+Delay
+Oszmianczuk
+MC-203
+Welding
+Mateusz
+10.0O
+11;13
+Recalibrated
+Jaizyna
+MC 204
+Drilling_
+Nadia Sauter
+06.00
+0/,38
+Recalorateo
+MC-205
+Polishing
+Wiktor
+10:15
+12:15
+120
+Kopczyrski
+MC-208
+Assembly
+Wiktor
+11;30
+1,40
+Kobczvnsk
+Product ID
+Planned Qty
+Produced Qty
+Defect Qty
+Scrap
+Remarks
+-3h0C
+Lu -
+Rewanzneeded
+MS-GO0p
+204
+202
+985
+4X-820v
+770.6481
+Rawonk needed
+LP-S555V
+290
+280
+3.459
+confirmed
+150C
+283
+12.7206
+Rewark needed
+Prepared
+Carlos Gaicia
+hpprovec
+Laura Rossi
+Scrap
+Dy:

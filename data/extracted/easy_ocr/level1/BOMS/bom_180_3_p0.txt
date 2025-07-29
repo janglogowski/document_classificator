@@ -1,0 +1,67 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+pCS
+376.00
+SKF brand
+50Omm
+Epoxy Resin
+189.80
+ISO-verified
+Sensor Clip
+0.95
+22.80
+Li-Ion
+battery
+installed
+Copper
+21.00
+Wire 3mmn
+Plastic
+0LAO
+0.60
+ROHS
+Rivets
+compliant_
+55.00
+Hinge
+alignment
+adjusted
+Bearing
+27.00
+Imported
+6202 ZZ
+Spring
+0.05
+1.15
+High grade
+Washer
+M1O
+Hex Bolts
+0.25
+Certified
+M12
+batch
+Gasket
+1.25
+55,00
+Sheet 44
+This closure summary validates that all parts are approved for release
+Customer ID: SWEDEN
+Coordinator: Laura Rossi
+Date-
+2023-05-12
+Product ID: FT-730X
+Internal
+No:: 7521271
+Order Qty: 393
+Total
+Amnount
+752.85
+Hinge

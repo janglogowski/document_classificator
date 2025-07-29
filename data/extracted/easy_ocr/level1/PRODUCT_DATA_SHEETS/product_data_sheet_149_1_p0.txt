@@ -1,0 +1,110 @@
+Product Data Sheet
+Praject:
+XD-Z10R
+Report No::
+7652120
+Prepared By:
+carios Garcia
+Approved By:
+Peter Schmidt
+Location: Plant 28
+2025-04-23
+The parameter register below Includes operating Ilmits and
+All data entries are traceable
+Tevision
+histary. Use this sheet
+confirm engineering requlrements and tolerances. This
+extract
+prepared far
+verification audits, Please
+reviev' the specitications and material composition listed
+This data
+provides
+key specifications and materia
+details:
+Configuration Type
+Cooling Circulation
+Operating Pressure
+250 bar
+Sustem
+Throughput
+30 L{tin
+Supply Voltage
+A0O
+50 Hz
+Dimensions ILXWxH]
+1200
+700
+1100 mm
+Pump Type
+Gear Pump
+Ccharging
+Tmc
+Welght
+230kg
+Noise Leve
+68 dB(AI
+Protection
+IP67
+Control Valve
+Directiona
+Working Temp
+Range
+10"Cto50 C
+Cooling
+Water-cool
+exchanper
+Battery Capacity
+Oil Type
+HLP 68
+Mounting
+Rack Iramne
+Service Interval
+1000
+Frame Materai
+Pocden-coaled Steel
+Reservoir Capacity
+160 L
+Filtration
+10 um return, 25 Am
+suction
+Mator Power
+7.5kw
+Material
+Canstruicton-
+Mc
+Composition
+Connector 2P
+Gijss
+Filled
+Stainless Stee
+capacito
+450u
+Aluminum 6061-T6
+Battery Pack
+Lithium-Ion
+Pack
+Graphite Pad
+Graphite Pad
+WInng Loom lm
+PVC (Rigid) 
+Bearing 6202 22
+Stainless Stecl 304
+LerJmic
+Oxide
+Support Foot Steel
+Stainiess Stee
+436
+Larpon
+Steel 436
+Date
+raungs
+design
+report
+deslen
+below.
+sheet
+Class
+Hinge
+Fuse
+Sncet

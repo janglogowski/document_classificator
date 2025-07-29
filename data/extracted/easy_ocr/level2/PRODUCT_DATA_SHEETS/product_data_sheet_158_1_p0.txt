@@ -1,0 +1,77 @@
+Unit Configuration
+Project:
+WD-1805
+Report Na:
+PR-471
+Ted Bu:
+Carlos Garcia
+Approved By:
+Carlos Garcla
+Lccation: Plant 1C
+Date: 2024-06-04
+Model Type
+Ccoling Circulation
+Rated Pressure
+300 bar
+System
+Inroughput
+30 Llmnin
+Operating Voltage_
+480
+60 Hz
+Ipe
+HLP 68
+Battery Capacity
+10 Ah
+Protection Class
+Reservoir Capacity
+120
+Contro
+VRve
+Directional 4/3
+Frame Material
+Scainless Steee
+Frame
+Dimensions (LxWxH)
+1000
+650
+1000 mm
+Service Intenval
+500
+Mounting
+Raca
+Tramie
+Filtration
+10 Hmn return; 25 um
+suction
+Levei
+72dBIA)
+Pump Type
+Working Temp
+Ranpe
+-10 Cto50"C
+Material chaices and process data have
+deen
+verified for compllance, All summary comments have been recorded in
+the revision log: Archive this summary for future design-change management Ensure that the listed materials are
+approved for the application. All specifications meet the design requlrements and industry standards
+Material e
+Construction:
+Part
+Rannateris
+Cable Tie Pack 10QL
+Nitrile Rubher (NBRI
+Nut MG
+Zinc
+lated Stee
+Rubber
+Gaskelanmm
+Nitrile Rubber (NBR)
+swlcm
+Polycarbonate
+Copper
+Prepe
+Noise
+Gear
+Pump
+Poxen

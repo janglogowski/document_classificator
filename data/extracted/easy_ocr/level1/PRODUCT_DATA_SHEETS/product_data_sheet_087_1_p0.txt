@@ -1,0 +1,98 @@
+Unit Configuration
+Praiect:
+BZ-G60F
+Unerna
+PR-476
+Prepared Bv:
+Ljura Koss
+Approved By:
+LaMa Rossi
+Location; Plant IC
+2023-12-07
+Below are the technical
+danmeters ang
+construction materials for the unit
+Check that all materia
+specs align wltn
+supplier certificatians- This data sheet provides key specifications and material details- Confirm that performance
+ranges comply with project requirements
+This section details the configuration an
+parameter set
+product
+Ensure all referenced standards are Up
+date- The parameter register below Includes operating Ilmits and ratings:
+Configuration Iype
+Hydraulic Powe
+Unit
+Upcratine
+Pressurc
+Juu dar
+Throughput
+30 Llmin
+Supply Voltage
+50 Hz
+Cooling
+Water-cooled
+exchanper
+Service Interval
+1000
+Working Temp:
+-10"C-
+50"€
+Oil Type
+HLP 32
+Charging 
+me
+Material
+Stainless
+Protection Class
+Battery Capacity
+Reser
+Capacity
+160
+Contro_
+Valve
+Manua_
+Override
+Tota
+Wclght
+180 kg
+MOIsl
+LCVC
+68 dBIAL
+Filtration
+10 um retum; 25 um
+Motor Power
+5.5 KW
+sucton
+Material
+Construicton-
+Kem
+Composition
+Cooling Gel Pack
+Silicone Rubber
+PoverSwitcn
+'olvcrbonate
+Copper
+Woocen
+palie
+Treateo
+Pine
+Zinc-Plated Sreel
+Graphite Pad
+Graphite Pad
+Support Foot Steel
+Stainless Steel 304
+Healsin: AL
+Aluminum 6061-T6
+Gasket Sheet
+Nitrile Rubber INBRL
+Hinge Set
+Stainless Steei304
+Date
+Ine
+Ranae
+Frame
+Stec
+Frame
+Woou

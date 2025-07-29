@@ -1,0 +1,104 @@
+Audit Trail
+#5797393
+Date: 17.07.2025
+Product
+LP-5S5V
+Customer ID
+NORWAY
+Item Description
+Bearing 620277
+Cneckrhat insnection
+steps follow the appraved
+nracedure
+ease
+eview' each checklist paint and mark the sampling
+results: The following table outlines Inspection criteria and classification levels: Use this extract
+codrcinate
+with the Q4 manager, Fnsure
+Zlnan
+conforming marks are clearly documented
+Archive this list in the quality-
+manazemen
+system; This checklist captures quality inspection
+sampling levels; Entries include both visual
+and functional Inspection Items
+Audit Criteria
+Sample
+Category
+Observations
+Tier
+Component Criterla
+Critical
+Major
+Minor
+OnHold
+Loose parts Inside packaging
+LevCi
+ISSuC
+Obslivcu
+Carton
+damaged or
+Level |
+Minor issue observed
+markings
+Incorre
+Ballery rOL Inciuded
+Levei
+Crlical mpact
+product
+Nnor ISSuc OUSCNco
+live insect in
+Level III
+Critical impact
+packaging
+Incorrect quantity =
+Level |
+Packaging does not match
+Level Il
+Critical impact
+signed samp_
+Scren
+DOS#
+MSSME
+Levei
+Neede
+review
+Dust/debris inside=
+packafine
+Leve
+Issue
+Dpsenveo
+Product doesn
+Jortam
+Leve
+Ninor issue Onsenen
+Package
+not sealed
+Levei
+completely
+Fynosem
+nail with sharp
+noint
+Leve
+Ninor issue Onsenen
+edges
+plastic
+Minor issue Observed
+components
+Connector not working
+Leve
+Minor issue Obsenved
+AQL Level
+Critical
+Major
+Mnor
+Defauit
+Custamer
+specific
+sgn-off
+points
+Mnor
+Wrong
+Dead
+Minor
+Snzrp

@@ -1,0 +1,132 @@
+Inspection performed by Anna Nowak on 2023-11-22.
+This data extract
+prepareo
+for quality-control sign-off
+Below are the recorded measurements compared against
+namlna
+[Jlerances
+This section details the measured
+rances
+And satus
+flags. The inspection register
+below
+highlights any out-of-tolerance parts. Use this
+5ummar
+trigge
+Jnu corrective actions
+anvironmentz
+Conditions: Temperature: 21.0
+Humidity: 38 %
+Item Code
+Campanent
+Measuremenc
+Nominal
+Observed
+Diff
+Status (VKX)
+AZ-300T
+Plastic Rivets
+Holc
+40.88
+40.74
+0-14
+MX-AS0L
+Battery Pack
+Inner
+7.05
+7,20
+-015
+Dlameter
+CN-1S0C
+Graphite Pad
+Length
+76.85
+77.00
+F0.15
+CE-9OSL
+Depth
+36.09
+36.10
+Lului
+M12
+HF-390A
+Hinge Set
+Depth
+34.14
+33.99
+KP-320E
+NBR
+Height
+45.48
+45.55
++
+60mm
+SB-140D
+Shatt S00mm
+Inner
+98.94
+98.83
+01l
+Diameter
+MS-60OP
+Plastic Rivets
+Width
+32.83
+32.73
+0.10
+MX-450L
+Hex Bolts
+Thickness
+48.54
+48.44
+0 10
+M12
+LK-890B
+Powe
+Switch
+Width
+74.87
+74.72
+05
+LP-SSSv
+Bearing 6202
+Inner
+11.42
+11.45
++0.03
+Diateler
+8Z-660F
+Wooden
+W[
+25,53
+25,60
+T0.0
+Diameter
+MS-sOOP
+NBR
+Thickness
+20.15
+20.15
++0.00
+bumm
+37-3107
+Jowe
+Swtch
+Leneth
+87 46
+87.31
+-0.15
+PW-S15Y
+Shaft 50Omm
+Depth
+Ghe0
+RattenPack
+Depth
+25.02
+25.21
+Valucs
+result
+Her
+Bolts
+Ring
+0-Ring

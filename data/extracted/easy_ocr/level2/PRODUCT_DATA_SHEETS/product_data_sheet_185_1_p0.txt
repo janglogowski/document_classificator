@@ -1,0 +1,71 @@
+Product Overview
+Project
+DX-TTT
+4nietna
+No_
+1262186
+Prepared
+Peter Schmidt
+Approved BY
+Koualski
+Location: Plant 28
+Date: 2023-07-24
+This technical overview supports the product-release checklist Use this sheet t0 confinm engineering
+requirements and tolerances
+This data sheet provides key specifications ad material detalls Refer t0 this
+configuration summary for unr-designation mapping: Below are the technical parameters and construction
+matenals forthe uni
+Configuration Type
+Cooling Circulation
+Operating Pressure
+250 bar
+Stem
+Fluid Flow
+30 Lmin
+Voltage 
+480 VA6OHz
+Dimensions (LxWxH)
+1000
+650 * 1000 mm
+Filtration
+10 pm return; 25 uM
+sucwon
+Battery Capacity
+2Ah
+Total Weight
+250kg
+Pump Type
+Piston Pump
+Cooling
+Water-cooled
+exchanger
+Mounting
+Rackirme
+Control Valve
+Manual Qvetide 32
+Frame Materal
+Stainless Steel Frame
+Charging
+Working Iemp_Range
+10C to 55C
+Qil LyEe
+HP68
+Protection Class 
+P54
+Resenvoir Capacitz
+160
+Noise Level
+472 dBQAL
+Materia
+Construction:
+Pan
+Raw Matenal
+Tetlon Tape Roll
+Teion Tape Roll
+Pressue Vahve
+Brass CZ12-
+Nut M6
+Zinc-Plated Steel
+Battel Pack
+Lithium-Ion Cell Pack
+Tme

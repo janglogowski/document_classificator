@@ -1,0 +1,92 @@
+BILL OF MATERIAL
+Uso this breakdown to verify sourcing and cost estimate:
+This document provides
+datailed
+breakdown of all compononts requirad for the assembly process
+The component roster below
+includes urit costs arid batch codes. Erisure each component meets the specified quality
+standards. The parts manifesl here
+desigried t0 support procurement workflows. Thls section
+outlines the parts, unit prices and total amounts tcr assembly:
+Iteii
+Qly -
+UOM
+Rate
+Amount
+Remarks
+Description
+Cuse62
+pcs
+0.30
+SKF brand
+Plastic
+pcs
+1,10
+47.30
+High grade
+Cover
+150x150
+Hex Bolts
+pcs
+Certifled
+M1?
+batch
+Steel Sheet
+5,00
+185.00
+High grade
+436
+Plastic
+pcs
+1.10
+39.60
+SKF brand
+Cover
+150x150
+Grease
+pCs
+1.90
+41.80
+High grade
+Tube 250ml
+Wooden
+pCs
+15.00
+15.00
+Certified
+Paller
+batch
+Control
+pcs
+12,00
+336.00
+ISO-verified
+Panol
+Mount
+Bearing
+pcs
+1,50
+22.50
+620277
+Hex Bolts
+pcs
+0.25
+6.75
+Switch
+M12
+tested OK
+Terminal
+pcs
+3.40
+3.40
+ISO-verificn
+Block 4P
+Customer ID: FINLAND
+Coordinator: Carlos Garcia
+Date: 2025-06-19
+ProductID; CN-IS0C
+Interhal No
+9593559
+Order Qty; 108
+rotal Amount:
+698.90

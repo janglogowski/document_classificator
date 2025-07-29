@@ -1,0 +1,53 @@
+BOM Report
+Customer ID: FINLAND
+Coordinator: Anna Nowak
+Date: 2023-02-15
+Product ID: TX-820v
+Internal No.
+3307496
+Order Qty; 311
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Epoxy
+1.79
+7.30
+7.30
+Resin Kit
+Plastic
+0.86
+7.70
+Cover
+150x150
+Ceramic
+2.10
+56.70
+Certified
+Disc 8Omm
+batch
+Grease
+2.78
+1.90
+26.60
+SKF
+Tube
+brand
+250ml
+Packaging
+3.21
+37.00
+Box
+Final amounts include handling and logistics costs where applicable: Check that component quantities
+align with production run requirements. All listed components have been verified for availability and
+compliance
+Tota
+Amount
+135.30
+Approved By; _
+Sourcing Department:

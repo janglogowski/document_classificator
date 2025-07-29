@@ -1,0 +1,104 @@
+Product Data Sheet
+Project:
+QP-660F
+Internal No
+PR-983
+Prepared
+Carlos
+Saicia
+Approved BX'
+Carlos Garcia
+Location: Plant 2B
+Date: 2025-01-25
+Use this sheet
+confirm engineering requirements and tolerances
+This data sheet provides key
+specificalions and material details. Entries include both mechanical and electrical specificalions Please
+review lhe specifications and material composition Ilsted below
+Ensure all referenced standards are Up
+date
+The parameter register below includes operating limits and ratings. This report extract
+prepared for
+design-verification audits
+Configuration Type
+Cooling Circulation
+Design Pressure
+300 bar
+Svstem
+Fluid Flow
+48 Lmin
+Operating Voltage
+400 V / 50 Hz
+HLP 32
+Service Interval
+500
+Dimensions (LxWxH)
+1200
+700 x 1100 mm
+Mounting
+Wall-mounted
+Working Tcmp
+Range
+5"C to 45*C
+Noise Level
+70 dB(A)
+Motor Power
+5.5kW
+Charging Time
+Battery Capacity
+5 Ah
+Cooling
+Water-cooled
+exchanger
+Protection Class
+P67
+Pump Type
+Gear Pump
+Frame Material
+Alminum
+Framte
+Control Valve
+Proportional 4/2
+Document control numbers are included for
+traceability.
+any missing parameters fcr urgent specification
+updales. Reler:
+parameter table for operaling ranges and tclerances
+This summary reflects Ine latest
+revision
+the product data
+Confirm that all test conditions are accurately represented_
+Material
+Construction;
+Label
+Base
+Power
+Switch
+Polycarbonate
+Copper
+Insulated Tube 25mm
+Themoplaslic Polyurethane (TPUL
+Pressure
+Brass CZ12I
+Rubbe_
+Gasket 80mm
+Nitrile Rubber (NBR)
+Tellon Tape Roll
+Tellon Tape Roll
+Light Strip
+Glass-Filled Nylon
+Connector
+Glass-Filled Nylon
+Gasket Sheet AA
+Nitrile Rubber (NBR)
+Hex Bolls M12
+Zinc-F
+ated Steel
+Nul M6
+Zinc-
+ated Steel
+Ballery Pack
+Lithium-Ion Cell Pack
+Typo
+Flag
+Vale

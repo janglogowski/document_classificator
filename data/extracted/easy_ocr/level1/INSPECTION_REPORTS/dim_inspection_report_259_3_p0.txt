@@ -1,0 +1,158 @@
+Tolerance Check
+Inspection performed by Anna Nowak on 2024-02-25.
+Ensure measurement methods align with calibration standards- This report presents the dimensional
+measurements and inspection results
+Below are the recorded measurements compared against nominal
+tolerances. This data extract
+prepared for quality-control sign-off. All measured values are timestamped
+for audit purposes
+Entries include both passifail markers and deviation magnitudes_
+Environmenta
+Conditions: Temperature: 24.8
+Humidity: 49 %
+Article No.
+Component
+Dim.
+Nomina
+Observed
+Diff
+Status (VIX)
+MC-54OX
+Battery
+Hole
+27.75
+27.92
++0.17
+PASS
+Pack
+CH-770J"
+Power
+Lenglh
+48.70
+48.76
++0.06
+PASS
+Switch
+KP-320E
+Ring NBR
+Hole
+59.70
+59.73
++0.03
+PASS
+6Onu
+CN-150C
+NBR
+widlh
+84.94
+84.78
+-0.16
+PASS
+60mm
+CN-150C
+Bearing
+Width
+13.68
+13.67
+0.01
+PASS
+6202 ZZ
+PW-51SY
+Hex Bolts
+Thickness
+69.90
+70.05
++0.15
+PASS
+M12
+AZ-300T
+Plastic
+Width
+64.17
+64.09
+0.08
+PASS
+Rivets
+TX-820v
+Bearing
+Thickness
+82.81
+82.97
++0.16
+PASS
+6202
+Kv-390k
+Bearing
+Depth
+78.38
+78.53
++0.15
+PASS
+6202 ZZ
+SL-430M
+Graphite
+Width
+13.35
+13.41
++0.06
+PASS
+Pad
+KP-320E
+Rubber
+Hole
+26.18
+26.24
++0.06
+PASS
+Gasket
+80mm
+MC-540X
+Hex Bolts
+Height
+97.55
+97.67
++0.12
+PASS
+M12
+NU-4402
+Power
+widlh
+85.86
+85.81
+0.05
+PASS
+Switch
+NU 4402
+Hinge Set
+Length
+17.12
+17.04
+-0.08
+PASS
+WD-180S
+NBR
+Inner
+88.94
+89.11
++0.17
+PASS
+60mm
+Diameter
+GH-770J
+Bearing
+Hole
+57.50
+57.69
++0.19
+PASS
+6202
+QN-770H
+Steel Sheet
+Width
+86.10
+86.05
+0.05
+PASS
+A36
+Ring
+0-Ring

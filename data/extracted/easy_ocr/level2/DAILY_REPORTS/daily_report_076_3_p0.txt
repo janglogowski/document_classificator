@@ -1,0 +1,76 @@
+DAILY PRODUCTION REPORT
+Report No.
+PR-871
+Customer: BELGIUM
+Shift:
+(Night)
+Date: 02-04-2024
+Machine
+Process
+Operator
+From
+Finish
+Total
+Remarks
+Condition
+Time
+MC-204
+Agnieszka
+09:15
+10.49
+NA
+Zieliiska
+MC-209
+Cutting
+Przemyslaw
+14.30
+15.06
+progress
+Delay
+Completed
+Wasik
+MC-209
+Bartosz
+07.30
+09.18
+108
+Wawzyniak
+MC-207
+Polishing
+Jan Kowalski
+06.30
+08.23
+progress
+MC-207
+Welding
+Piotr
+To15
+11.29
+NIA
+Completed
+Ok
+Completed
+Lewandowski
+Item ID
+Planned
+Achieved
+Scrap Qty
+Scrap %
+Rework Qty
+Uwagi
+Qutput
+Qly
+MS-600P
+259
+229
+11.58%
+Scrap
+confirmed
+VF-2200
+16TC
+AZ-300T
+13.089
+Approved by:
+Prepared by:
+Welding
+Welding

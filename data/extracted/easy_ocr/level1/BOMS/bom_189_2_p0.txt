@@ -1,0 +1,31 @@
+Customer ID: TURKEY
+Prepared by: Peter Schmidt
+Product ID: DX-777T
+Internal
+8068347
+Item Description
+Protective Sleeve
+Protective Sleeve
+Wooden Pallet
+5Omm
+s0mm
+Qty
+368
+409
+UOM
+Unit Price
+480
+480
+L00
+Amount
+662.40
+736.20
+11,460.00
+Remarks
+Urgent
+alignment
+Imported
+adjusted
+TOTAL: 12,858.60
+No::
+Hinge

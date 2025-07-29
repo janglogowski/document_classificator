@@ -1,0 +1,138 @@
+Shift Summary
+Renom No -
+PR-577
+Customer;
+BELGIUM
+Supervisor:
+Amma Nawak
+Depantment:
+Aesemo
+Shift:
+(Morning
+27-05-2024
+The line-output
+captures
+all production
+events for the day: Ensure any downtime incidents are noted for
+follow-up_
+this shift summary to drive continuous Improve
+aclions
+Use this overview
+LLSlS
+throughput
+and efficiency levels
+Machine
+Operation
+Technician
+Start
+End Time
+Total
+Notes
+Thcrmna
+Energy
+ime
+Time
+Reading
+(kWh)
+MC 201
+Welding
+Dawid
+07.30
+09-05
+NYA
+58.6
+1.36
+Oszmianczuk
+MC 202
+Cutting
+Mateusz
+11.00
+11.52
+Delay
+70.8
+Jarzyna
+MC-204
+Assemoly
+Dawid
+12-00
+13,02
+65.5
+1.33
+Oszmianctuk
+MC-208
+Welding
+AEnieszka
+08.00
+08.55
+55.4
+1.97
+Zieliiska
+Mc-20G
+Cutting
+Wiktor
+07.00
+07.37
+Delay
+59.2
+LOO
+Kopczyiski
+MC-202
+Drilling
+Przemystaw
+09.30
+10.03
+63.0
+1.56
+Wasik
+MC-207
+Polishing
+Kowalski
+07.30
+09.15
+1.05
+MC 201
+Welding
+Wiktor
+09,30
+10.51
+1.15
+Kopczyriski
+MC-209
+Welding
+Dawid
+12:15
+12*43
+64.9
+1.00
+Oszmlaniczuk
+MC-201
+Assembly
+Mlateusz
+14.15
+15.06
+65,3
+2.33
+Jarzuna
+MC-202
+Polishing
+Dawd
+07.00
+08.19
+78.9
+2.25
+Oszmianczuk
+MC-209
+Assembol
+Jan Kowaiski
+060d
+06,46
+Recalinrated
+72.6
+2.12
+Prepared by:
+Laum
+Ross
+Approved by:
+Anna Nowal
+[egislor
+'Ment

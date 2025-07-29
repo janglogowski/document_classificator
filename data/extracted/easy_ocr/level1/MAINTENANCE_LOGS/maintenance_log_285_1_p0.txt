@@ -1,0 +1,90 @@
+Equipment Record Report #3110432
+Date: 2025-07-01
+Unit Codr
+Maching
+Scrvice Typc
+Technician
+Duration
+Comment =
+MC-ZuE
+Lathe
+Preventive
+Carlos Carcia
+Flant 2E
+Replaced TSe
+MC-251
+FiasMe
+Cutter
+Inspeclicn
+Peter Schmidt
+Fiant ZE
+Wvooden pblleI
+checked.
+NC-23T
+Paint Bo oth
+Preventive
+Anna Nowak
+Flant 1C
+Calioration
+check OK
+MC-Z4U
+Packaging
+Preventivg
+Laure
+RO5si
+Flant 3-
+Woooen pallet
+checked
+MC 249
+Cunveyur Belt
+Inspeclion
+Caro; Gurcii
+Changed oil
+and fIlters-
+MC-256
+pactaping
+preventive
+Kennaak
+Noeeue9
+touno
+MC 214
+Lathe
+Unshectcn
+Kannaaki
+Plant IC
+Refilled oll
+IHLP 461
+MC-76Y
+CNC [
+Inspeclion
+4nna Nowek
+Plant ZP
+Swiich
+Hachine
+contacls
+Cuinuc
+MC-Z6/
+Lathe
+corrective
+Jan Kowalski
+Flant J2
+NossuBS
+taunc
+Ensure thaleach senice
+haw (ne requited appicvals
+Tnls log summary
+suPPorts the asset-management dashhoard
+Chec k remaininpilite-Cycles ofkeycomponents iromthis rBport
+SBMcB sumManes nave bBentony Brdeo
+tne bnzinberine
+team: Flag any recurring issue9 for root-cause investigation
+Lubricution Checked
+NA
+Calbration veritied
+Emergencyiop
+TeRte
+Authorized by: _
+Op Grator;
+Ean -
+ani
+~ng

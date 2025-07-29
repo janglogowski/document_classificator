@@ -1,0 +1,62 @@
+Component Overview
+Project:
+CE-905L
+Document No.
+7323386
+Prepared
+Kowalski
+Approved BX'
+Laura Rossi
+Location: Plant 34
+Date: 2024-11-22
+Configuration Type
+Cooling Circulation
+Operating Pressure
+300 bar
+Syslem
+Flow Rate
+48 Lmin
+Voltage
+230 V {S0 Hz
+Working
+Range
+=10'C to 50"C
+Reservoir Capacity
+120
+Contro
+Valve
+Proportional 412
+Charging Time
+Battery Capacity
+5 Ah
+Mounting
+Skid base with vibration
+pads
+Protection Class
+Service Interval
+12 months
+Motor Powe
+Pump Type
+Vane Pump
+Cooling
+Aif-cooled 0il radiator
+Dimensions (LxWxH)
+1000
+650 x 1000 mm
+HLP 46
+Material of Construction:
+Iem
+Composition
+Pressure Valve
+Brass CZ12
+Cooling Gel
+Silicone Rubber
+Gasket Sheet A4
+Nitrile Rubber (NBR)
+Fuse 5A
+Ceramic Oxide
+Hex Bolts M12
+Zinc-Plated Steel
+Temp:
+Tvpc
+Paca

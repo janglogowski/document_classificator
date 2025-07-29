@@ -1,0 +1,68 @@
+Inspection Record
+Ensure all non-conforming marks are clearly documented
+This summary supports the production-release
+quality gate. Check that inspection
+follow the approved procedure: Use this extract to coordinate sign-
+off with the QA manager. The following table outlines inspection criteria and classification levels
+Product ID
+OP-660F
+Customer ID
+SWEDEN
+Item Descrption
+Ventilation Grid
+Quality Check Items
+Check
+Classification
+Remarks
+Intensity
+Component Criteria
+Critical
+Major
+Minor
+OnHold
+Incorrect barcode
+abel
+Leve
+Needs review
+Color mismatch
+Level
+Crilicab
+Imdact
+Exposed nail with sharp
+point
+Level Ill
+Rubber Switch not
+Level Il
+wurkinc
+Dead
+ive insect in
+packaging
+Level /
+Critical impact
+Missing safety labels
+Level
+Needs revlev
+Screws
+Qose
+missing
+Level
+Critical impact
+Wood splinter
+sharp
+Level II
+point on product
+uncorrect
+quantily
+assormen
+Level IlI
+Dustidebris inside
+Level !
+Needs reviev
+packaging
+Instruciion manual
+missing
+damaged
+Critical impact
+Supervised by:
+Date:
+steps

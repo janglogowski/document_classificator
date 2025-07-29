@@ -1,0 +1,83 @@
+BOM Report
+Customer ID; BELGIUM
+Coordinator; Anna Nowak
+Product ID: CN-IS0C
+Inemnai
+Date: 2022-11-04
+2613086
+Order Qty: 105
+Ensure each component meets the specified quality standards;
+materia
+Please review the itemized Iist of parts and
+specifications before procurement;
+Item
+Consumption
+Extra %
+UOM
+Description
+Rate
+Amount
+Remarks
+Clamp
+T20mm
+1,75
+28,00
+Switch
+Set
+tested Ok
+10%
+pcs
+2.50
+100,00
+ROHS
+2.39
+compliant
+pcs
+2,50
+25.00
+Certified
+LED Light
+2.28
+10%
+batch
+Stcip
+2.50
+32.50
+ISO-
+Plastic
+2.41
+verilled
+pCS
+1.10
+30.80
+Cover
+150x150
+Terinina
+1.74
+3.40
+122.40
+Wooden
+Pallet
+pCs
+15,00
+630,00
+Switch
+Heat
+tested OK
+Resistant
+2.70
+37.80
+Sleeve
+Brade
+notes have been logged for audit purposes;
+Total Amount;
+1,006,50
+Approved By:
+Sourcing Department:
+aty
+Ring
+Hinge
+Hinge
+Block
+High
+sourcing

@@ -1,0 +1,71 @@
+Product Overview
+The following iInformation outlnes performance characteristics and
+design data The parameter register
+Includes operating Umits and
+Refer to thls configuration summary for unit-desiEnation mapplng: Confirm that
+performance ranges comply with project requirements Use this spec sheet to valldate assembly Instructions,
+Product ID
+RX-BIOZ
+Document
+No:
+PR-443
+Prepared by: Anna Nowak
+Approved by: Jan Kowalski
+Date; 2024-08-18
+Madel Type
+Coollng Circulatlon
+Desgn Pressure
+180 bar
+System
+FlatRan
+G0 Lfmin
+Operating Voltage
+A00 v
+50 Hz
+Working Temp
+Ranec
+5C t0 45"€
+Flltration
+Mm mine
+10 pm return
+Nolse Level
+72 dB(AI
+Flag any missing parameters for Urgent specification updates: This summary reflects the latest revlslon
+the product
+data; Archive this summary for
+hutune
+design-change management; Data sheet has been peer-revlewed by the
+engineering
+tejin
+Use this summary
+Cross
+check with BOM and inspection reports; Thls closure note Indicates the
+data sheet
+ready for release
+Material of Construction:
+Part
+Raw Materia
+Therma
+FuSe
+Ceramic Oxide
+NBR GOm
+NltrIle Rubber INBR)
+LED Light Strip
+4idss
+Mmion
+Battety Pack
+Wchlum-Ion Gcipic
+Heat Slnk ALU
+Aluminum 6061-T6
+Wirng Loom Im
+PVC (Rigid)
+Wooden Pallet
+Treated Pine Waod
+Hinpe Set
+Stalnless Steel 304
+GaskeSucaa
+NlteIle Rubber INOR)
+bclov/
+Fotings.
+~ring
+Filed

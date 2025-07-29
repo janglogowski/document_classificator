@@ -1,0 +1,84 @@
+BOM Report
+Customer ID: FRANCE
+Coordinator;Laura Ros3i
+Date: 2023-11-01
+Product ID
+VR-940T
+ldtera
+5507851
+Order Qty:352
+Item
+Consumption
+Extra %
+Qty
+UoM
+Rate
+Amount
+Remarks
+Descriptlon
+Protective
+2.93
+1.80
+48.60
+Switch
+Sleeve
+tested OK
+sOmm
+Bearing
+2.52
+52,50
+6202 Z2
+alignment
+adjusted
+Packaging
+1.58
+1-.00
+29.00
+For
+Box
+export
+Aluminum
+3,01
+76.50
+5watch
+Bracket
+tested OK
+Spring
+0.74
+0.05
+Imported
+Washer
+M1O
+Packaging
+1.04
+1.00
+12,00
+Box
+Spring
+0.62
+0.05
+1.75
+Imported
+Washer
+Mio
+Packaging
+0.89
+1.00
+8,00
+ISO-
+Box
+verified
+Grease
+1,98
+pcs
+93.10
+Switch
+Tube
+tested OK
+250m|
+Total
+Amaunt:
+323.50
+Approved By:
+Sourcing Department:
+Hinge

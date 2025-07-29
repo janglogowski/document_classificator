@@ -1,0 +1,73 @@
+Quality Inspection List
+Use Ihis extract 
+coordinate sign-off with the QA manager. Please review each checklist point and mark
+sampling results . All checklist entries are timestamped for traceability. This closure summary indicates
+compliance
+inspection criteria
+The following table outlines inspection criteria and classification levels.
+Confirm that sampling levels comply with customer agreements. Archive this Iist in the quality-management
+system: Check that inspection steps follow the approved procedure:
+Product ID
+WD-180S
+Customer ID
+FRANCE
+Item Description
+Power Switch
+Inspection Checklist
+Check
+Defect Class
+Remarks
+Points
+Intensity
+Component Cntena
+Critical
+Major
+Minor
+OnHold
+Sharp edges on plastic
+Level 
+Critical impact
+components
+Carton
+damagoa or
+Level
+Minor issue
+markings incorec
+observed
+Loose parts inside
+Level =
+Needs review
+packaging
+Minor issue
+Product doesn t power on
+obseived
+Minor
+ssue
+Color mismatch
+Level !
+ODSCNVCC
+Dustldebris inside
+Level
+packaging
+Exposed nail with sharp
+Level =
+Critical impact
+point
+Missing distributor
+Critical impact
+Intormawon
+Connector not working
+Lovei
+Incorrect orentation
+Level
+Needs review
+box
+Screws
+oose 0rmissing
+Needs review
+Shipping mark is illegible
+Level
+Needs review
+missing
+Supervised by:
+Date

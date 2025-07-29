@@ -1,0 +1,49 @@
+Customer ID: BELGIUM
+Prepared by: Peter Schmidt
+Product ID: TY-350G
+Internal No:: 9766807
+Refer t0 this parts register t0 plan raw-material purchasing
+The following table summarizes the
+materials and quantities needed for the current project: This summary lists every item required,
+with per-unit pricing details_
+The component roster below includes unil costs and batch codes
+No
+Item
+Power
+Set
+Control
+Battery
+Ceramic
+Fuse 5A
+Description
+Switch
+Panel
+Pack
+Disc 8Omm
+Mount
+Qty
+258
+535
+346
+908
+UOM
+Unit Price
+25.00
+Amount
+309.60
+337.50
+956.00
+8,650.00
+906.80
+173.70
+Remarks
+High grade
+SKF brand
+Switch
+High grade
+High grade
+Urgent
+tested OK
+TOTAL: 20,333.60
+Hinge
+Dcs

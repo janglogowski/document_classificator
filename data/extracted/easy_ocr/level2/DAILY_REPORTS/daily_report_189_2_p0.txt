@@ -1,0 +1,73 @@
+Report No :
+PR- 703
+Customer
+BRAZIL
+Supervisor:
+Anna Nowak
+Depantment
+Logistics
+Shift:
+IMorning)
+12-12-2024
+The following data captures
+raduction
+targets; actual output; and any ceviations. Entries include all start/stop times
+operatar assignments. Use this shift summary
+drive continuous impravement actions;
+Equipment
+Task
+Technician
+Start
+Time
+Comments
+Temp ("C)
+Energy
+Spent
+(kWh)
+MC-209
+Weldirg
+Agnieszka
+13.00
+13.54
+77.4
+1.98
+Zielinska
+MC-206
+Assembly
+Anna
+07.15
+07,39
+NJA
+69 4
+2,.04
+Nowak
+MC-209
+Assembly
+12.15
+12.45
+NJA
+66.7
+236
+Kowalski
+MC-204
+Welding
+06,30
+07.54
+N/A
+58,8
+1.44
+Kowalski
+MC-208
+Assembly
+Agnieszka
+09.30
+10.18
+62.6
+1.17
+Ziellriska
+Prepared bY:
+Anna Nowak
+Approved bIE
+Larioc
+harcia
+Time

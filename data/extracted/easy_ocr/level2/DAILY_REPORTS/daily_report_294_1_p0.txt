@@ -1,0 +1,95 @@
+Production
+Report No:
+PR 991
+Supervlsor:
+NORWAY
+Department;
+Rowal
+Date
+Shlft:
+28 02
+(Morning)
+Equipment
+Wvatke
+MC-208
+Start Time
+MC-202
+an Kowalski
+09.30
+Total]
+Comments
+Drilling
+Magdalena
+14,15
+15*00
+MC-208
+Witkawska
+N/A
+Cutting
+Plotr
+07,00
+08.24
+MC-2O1
+Lewandowski
+NYA
+Assembly
+Przemystaw
+09 QO
+09,23
+MC-208
+Wasik
+Pollshing
+Bartosz
+10,30
+MC-202
+Wawrzyniak
+Cutting
+Dawid
+08.30
+10,01
+MC-208
+Osziiaticzuk
+Drilling
+Mateusz
+11.30
+Jarzyna
+13,01
+Recalibrated
+Product ID
+Planned Output
+Achieved
+Ms-6OOP
+250
+Defect Qty
+Z0H
+Comments
+GvI
+Rework needed
+Kv-390K
+15.23%0
+wOIk needed
+2.09y
+Rework needed
+11{307
+conflrmed
+3.65%
+Scrap confinmed
+Prepared by:
+Approved bv:
+Anna Nowvak
+Log
+Cuttonen
+Anna
+Painting
+-1025
+WeIding
+Tlme
+09,58
+Delay
+11442
+Sctap
+7070
+GH 7701
+scrap
+Carlos
+Garcia

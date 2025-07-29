@@ -1,0 +1,61 @@
+Unit Configuration
+specifications and material detats
+Below are the technical parameters and
+This data sheet provides key =
+validate assembly instructions_ Entries inciude
+construction materials for the unt: Use this spec Sheet =
+unit-designation
+specifications_ Refer to this configuration summary for =
+both mechanical and elecirical
+mapping-
+PL.-601Z
+Produc ID;
+6303841
+Repod No
+Nowak | Approved Dy: Carlos Garcia
+Date: 2023-09-19
+Prepared by- Anna
+180
+Model Uype
+hydraulic Power Unt
+Rated Pressure
+AOQVISOHZ
+Flow Rate
+75 Lmin
+Operating Voltage
+55kW
+Motor Power
+Protection Class
+IPSA
+ALP 32
+Oil Iype
+follow Ine product template_
+Flag any missing parameters for urgent
+Check that all section headers
+revision of the product data . Archive this summary ior
+specification updates. This summary reflects the atest_
+and industry standards
+management All specifications meet the design requirements
+peen
+Tunre
+design-chanye
+nomenclature_ Material choices and process data have
+Ensure glossary terms match the engineenng
+verified for compliance
+Material of Construction:
+Composttion
+tem
+Ceramic Oxide_
+Thema
+Fuse
+Kreated Pine Wooo
+Wooden Pal
+Aluminum 6061-40
+Heal SnkALU
+Ceramic Oxide
+Fuse 54
+Carbon Steel426
+Steei
+Sheet A36
+Stainless Steel304
+Support Foot Steel

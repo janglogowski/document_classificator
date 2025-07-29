@@ -1,0 +1,105 @@
+Shift Summary
+ReportNa ;
+PR-/05
+Customer
+FINLAND
+KDie
+Nowak
+Supervisor:
+Aisemoiy
+pepartment:
+Date
+25-08-2024
+Shift;
+(Night)
+Machine ID
+Operation
+Operator
+Start
+Finish
+Total
+Uwagi
+duration
+MC-205
+Cutting
+Dawid
+14.00
+14.23
+Oszmlanczuk
+MC-208
+Polishing
+Nadia Suuter
+11;15
+12.45
+Recalibrated
+MC-208
+Welding
+Piotr
+06.30
+CB.00
+Lewvandowski
+11.30
+11.54
+MC-207
+Welding
+Agniaszka
+Zielliska
+MC-209
+Palishing
+Bartosz
+09.00
+09.42
+Recalibrated
+Wawizunia C
+MC-209
+Polishing
+Wiktor
+06:15
+07.33
+Delay
+Kopczyrski
+MC- 207
+Polishing
+Dawid
+09.30
+10.19
+Recalibrated
+Oszmiariczuk
+MC-202
+Cutting
+Agnieszka
+11.30
+13.19
+109
+Zielinska
+Product ID
+Target Qty
+Achleved Qty
+Rejected Qty
+Failury
+Remarks
+0.00%6
+Rewvarkneedad
+ZR-2O5R
+156
+LP-555V
+116
+13.79%0
+Scrap
+confirmed
+GL-9805
+218
+6896
+VR-9401
+183
+MS-GOOP
+205
+202
+46%6
+Rewoikneeded
+ILaM
+Koss
+Prepared by:
+Lporoveo
+Kowalski
+Tme

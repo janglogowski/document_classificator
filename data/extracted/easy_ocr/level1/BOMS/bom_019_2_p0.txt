@@ -1,0 +1,52 @@
+Customer ID: FRANCE
+Prepared by: Peter Schmidt
+Product ID: DX-777T
+Interna
+No:: 3613230
+Below is the component listing and associated costs for the upcoming production batch
+Please review the
+itemized list of parts and material specifications before procurement: Review the materials tally for
+compliance with budget allowances. The following table summarizes the materials and quantities needed
+for the current project;
+Item
+Ventilation
+Digita
+Shaft
+Plastic
+Epoxy Resin
+Spacer Zmm
+Description
+Grid
+Display Unit
+soomm
+Rivets
+Qty
+486
+565
+453
+748
+356
+436
+UOM
+Unit Price
+1L5,0u
+Amount
+2,721.60
+8,475.00
+3,624.00
+149.60
+2,598.80
+65.40
+Remarks
+ROHS
+Eco
+ROHS
+Certified
+High grade
+ROHS
+compliant
+compliant
+compliant
+batch
+compliant
+TOTAL: 17,634.40

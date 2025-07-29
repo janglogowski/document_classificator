@@ -1,0 +1,52 @@
+Inspection Results Summary
+Inspector
+LaurRossu
+Inspecion Date
+2024-01-20
+Article No;
+FT-730X
+NE-2454
+SB-I40D
+HF-390A
+ZR-ZO5R
+Part Name
+Baltery Pack
+Hex Bolts M12
+Graphite Pad
+Hinge Set
+Balter Pack
+Mcasurcment
+Depth
+Hole
+Hole
+Hole
+Hole
+Target
+7.30
+94.09
+44 45
+6394
+Actual
+7.44
+94.02
+44.90
+83,83
+Diff
++0.05
+PassiFail
+Refer to devialion column for any oul-of-tolerance measurements
+Review failed ilers against the
+corrective-action register. Overall inspection summary indicates acceptable quality levels. Please address
+any NOK items before proceeding
+the next production stage,
+Instrument Calibralion Log
+Instrument
+Serial No_
+Last
+Calibration Date
+CMM
+19883
+2024-08-19
+Micrometer
+2294
+2024-10-19

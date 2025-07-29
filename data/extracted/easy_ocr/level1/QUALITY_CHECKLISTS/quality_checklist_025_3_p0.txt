@@ -1,0 +1,55 @@
+Inspection Register
+Review Points
+Samplelcm
+Defect Class
+Camments
+Utem Jdecs
+MA
+Hold
+Missing safety labels
+Leve
+Parts inside packaging
+Levp
+Packaging does not match signed
+Critical impact
+sample
+Wood splinter ar
+sharp point on
+Level |
+Critical impact
+nronuct
+Not assemb
+drawing
+Leve
+Crtical impact
+Missing logo
+warning label
+Leve
+Mnor suCusLNcm
+deJc
+insect im
+packagnB
+LCVC
+Needs review
+Dustldebris inside packaging
+Critical impact
+Connector not working
+revielV
+Battery not included
+Leve
+Mnorissue
+onsened
+Functionality test failed
+Screws Ioose
+missing
+Levei
+Minor issue observed
+Reterence Standands?
+Standard
+Edton
+Directive
+2011
+EColui
+Brd Ed.
+Loose
+Needs

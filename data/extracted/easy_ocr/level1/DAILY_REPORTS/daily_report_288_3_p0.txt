@@ -1,0 +1,119 @@
+Production Log
+Report No:: PR-677
+Customer: BELGIUM
+Shift:
+(Morning)
+Date: 07-04-2025
+Machine
+process
+Operator
+Start Time
+Duration
+Comments
+Status
+(min]
+MC 207
+Cutting
+Magdalena
+14.30
+14.59
+In progress
+Witkowska
+MC-203
+Polishing
+Mateusz
+14.15
+14.45
+Delay
+progress
+Jarzvna
+MC 20}
+Drilling
+Piotr
+11.00
+11.54
+progress
+Lewandowski
+MC-209
+Weldlng
+Jan Kowalski
+07:15
+0S-1C
+progress
+MC-204
+Polishing
+Jan Kowalski
+13.15
+Recalibrated
+Completed
+MC-201
+Drilling
+Wawid
+06.15
+07.04
+Delay
+Completem
+Oszmiariczuk
+MC-202
+Polishing
+Bartosz
+13.15
+14.50
+N/A
+Completed
+Wawreyniak
+MC 208
+Welding
+Agnieszka
+08.30
+09.11
+Completed
+Ziclinska
+MC-206
+Polishing
+Bartosz
+13.15
+14.35
+Recalibrated
+Completed
+Wawreynlak
+Recard any adjustments
+shift schedules r
+staffing
+mere
+All production targets have
+Deem
+ogged; deviations are
+hignlighted above
+Use this summary t0 update the overall production dashhoard
+ONerai nranucticn
+Demormance
+met expectations for the day Check material consumption against standard usage rates:
+Product ID
+Planncd
+produced
+Rejected Qty
+Rejection %
+Reworked
+Notes
+Output
+Qty
+Units
+172
+148
+13.95%
+Rework
+needeo
+TR-ZCOB
+11.9276
+LK-8908
+148
+4.7390
+Scrap
+confirmed
+SL 4J0M
+7.5490
+Appraved bv:
+Prepared by:
+Delay
+La40L

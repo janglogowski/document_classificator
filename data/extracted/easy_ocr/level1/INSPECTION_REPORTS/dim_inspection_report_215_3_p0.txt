@@ -1,0 +1,101 @@
+Dimensional Log
+Inspection performed by Laura Rossi on 2024-11-04.
+This report presents the dimensionab
+measutament
+inspection
+results
+This section details the measured values,
+tolerances, and status flags. Use this examination summary
+confirm component conformity This data extract
+prepared
+for quality-control sign-off:
+Environmenta
+Conditions: Temperature; 24.8
+Humidity: 51 %
+Product Ref
+Part Name
+Dim.
+Nominal
+OUbsenved
+Ditt
+Status (VIx)
+DX77tT
+Pawer Switch
+Depth
+37 43
+37.46
++00z
+AZ-3001
+Bearing 6202
+width
+95.97
+95.97
++0.00
+GL 980S
+Battery Pack
+Wme
+23.55
+73 40
+0.15
+Diamete
+JD-7OOW
+Hex Bolts
+Height
+77.93
+77.75
+0.18
+M12
+TY-3506
+Plastic Rivets
+Hole
+72,39
+TX-8201
+Gradhite
+Hole 
+16.92
+16.87
+0.05
+450I
+Depth
+RE-850C
+0-Ring NBR
+Width
+83.85
++UM
+60mm
+Vr-ZzOD
+Shaft SOOmim
+Height
+KP-320E
+Bearing 6202
+Height
+0.01
+Ora
+Powerswtcn
+Height
+ID-ZOOW
+Graphite Pad
+Height
+GL-9805
+Rubber
+Height
+60.42
+60.38
+0.04
+Gasken8dmm
+VF220D
+Shaft S0Omm
+Hole
+8403
+87.08
+pu-515
+Powerswitch
+Width
+22.01
+2216
++0.15
+FT-730X
+Thickness
+13,85
+Hinge
+Hinge

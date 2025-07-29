@@ -1,0 +1,64 @@
+Product Data Sheet
+Interno
+9386758
+Product ID: PL-601Z
+Date: 2024-10-22
+Unit Type
+Cooling Circulation
+Operating Pressure
+300 bar
+Svstem
+Throughput
+75 4min
+Voltage
+400
+50 Hz
+Oil Type
+HLP 68
+Charging
+Mlotor power
+11kW
+Working Temp: Range
+10*C to 55"C
+Filtration
+10 Am retum; 25 pmn
+Reservoir
+Capacity
+120 L
+suction
+Cantrol
+Valve
+Mlanua
+Overnde 3/2
+Dimensions ILxWxHA
+1200 * 700 * 1100 mm
+Component Materlals Overvlew:
+LJbC
+BJSC
+Specification
+Support Foot Stee
+Stainless Steel 304
+Heat-resistant
+Pove
+Polycarbonate
+Copper
+ectricz
+Brade
+Capacito
+AE
+Aluminum 6061
+certitied
+Wooder
+pale
+Treated Plne Waod
+Anicorrosie
+Heat Sink ALU
+Aluminum 6061
+Electrica
+Erade
+Gacketehccr44
+Nitrile Rubber (NBR)
+certified
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski
+Time

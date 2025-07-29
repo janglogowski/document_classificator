@@ -1,0 +1,92 @@
+Shift Summary
+Redar ND;:
+PR-245
+Custamer-
+TURKEY
+Supervison:
+Carlos Garcia
+penartment
+Painting
+Snift;
+(Night)
+04-04-2025
+Machine
+process
+Technician
+Start
+Finish
+Duration
+Thermal
+Energy
+Time
+Imin)
+Reading
+Used
+MC 202
+Welding
+Marcusz
+10.15
+11.57
+Recalibrated
+67 5
+2.71
+Cca
+MC-207
+Polishing
+12.00
+12.53
+73.0
+Kowalski
+MC 202
+Assembly
+10.15
+11.41
+75.8
+1.50
+{awalsk
+MC-208
+Polishing
+Bartosz
+14.30
+15.50
+58.0
+1.83
+Walrzynlak
+MC 206
+Polishing
+Lnna
+12-00
+12.35
+56.6
+2.85
+Nowak
+MC-207
+Culting
+Mateusz
+12.30
+14.30
+120
+NJA
+Jamyna
+MC- 206
+Polishing
+Agnleszka
+07.30
+07.52
+Delay
+66.3
+1.36
+Zielinska
+MC-2OA
+Assembly
+08.30
+09.56
+N/A
+62.2
+2.38
+Kawalski
+Prepared by:
+Laurd Ross
+Approved b%:
+Laur ROsse
+UvijC

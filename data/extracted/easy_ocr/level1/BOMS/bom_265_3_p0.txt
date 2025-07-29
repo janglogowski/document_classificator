@@ -1,0 +1,87 @@
+BOM Report
+The component roster below includes unit costs and batch codes: Below is the component listing
+and associated costs for the upcoming production batch: This extract shows the bill of components
+and
+total projected spend
+This section outlines the parts, unit prices and total amounts for
+assembly. The parts manifest here
+designed t0 support procurement workflows_
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Power
+"20
+38.40
+ISO-verified
+Switch
+Steel Sheet
+5.00
+75.00
+Imported
+A36
+Copper
+0.60
+12.60
+Wire 3mm
+LED Light
+25.00
+ISO-verified
+Strip
+Digita
+pCs
+15.00
+705.00
+Display
+Unit
+Spring
+pcs
+0.05
+2,35
+Switch
+Washer
+tested OK
+M1O
+Shaft
+8.00
+400.00
+s00mm
+Clamp
+pCS
+1.75
+33.25
+High grade
+120mm
+Digitab
+pCS
+15.00
+225.00
+Urgent
+Display
+Unit
+Fuse 5A
+For export
+Plastic
+pCS
+.10
+50.60
+Cover
+150x150
+Fuse 5A
+pcs
+3.30
+ROHS
+compliant
+Customer ID: FINLAND
+Coordinator: Jan Kowalski
+Date: 2022-12-16
+Product ID: TY-350G
+Internal No_
+8541095
+Order Qty: 314
+Total Amount:
+1,574.70
+Ring

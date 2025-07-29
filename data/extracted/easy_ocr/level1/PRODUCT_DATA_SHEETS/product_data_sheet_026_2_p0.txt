@@ -1,0 +1,73 @@
+Unit Data Specification
+Check that all material specs align with supplier certitications_
+This report extract is prepared for design-
+verfication audits
+This technica
+overview supports the product-release checklist  This section details the
+configuration and parameter set for the product: Ensure all referenced standards are up to date_
+The
+following information outlines performance characteristics and design data. Use this spec sheet to validate
+assembly instructions,
+Product
+AZ-3OOT
+Document No:
+9566369
+Prepared by: Anna Nowak
+Approved by: Laura Ross
+Date: 2025-01-10
+Unit Lype
+Pneumatc
+Contol Unt
+Operating Pressure
+210 bar
+Fluid Flow
+75 Umin
+Supply Voltage
+480
+60Hz
+Cooling
+Water-cooled
+Control Valve
+Directional 4/3
+exchanger
+Protection Class
+IP67
+Total Weight
+230 kg
+Ensure that the listed materials are approved for the application_
+Ensure glossary terms match the
+engineering nomenclature: Check that all section headers follow the product template. Archive this summary
+for future design-change management; This closure note indicates the data sheet [
+ready for release
+specitications meet the design requirements and industry standards:
+missing parameters for urgent
+specification updates.
+Material
+Construction:
+mem
+3ase
+Pressure Valve
+Brass CZ12L
+Hinge Se
+Stalnless
+Siee
+Rubber Gaske
+BUmm
+Nitnle Rubber (NBR)
+ED Light Strip
+Giass
+Illed Nylon
+Bearing 6202 ZZ
+Stainless Steel 304
+Fuse 5A
+Ceramic
+Oyiqe
+Heat Sink ALU
+Aluminum 6061-16
+etlon Tape Roll
+Tetlon Tape Roll
+power
+Switch
+Polycarbonate
+Copper
+Flag

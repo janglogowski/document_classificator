@@ -1,0 +1,97 @@
+BOM Report
+This document provides
+detailed breakdown of all components required for the assembly
+process
+Tne
+manifest here is designed t0 support procurement workflows
+Use this
+schedule of parts t0 align with sourcing and stock levels
+AIl entries reflect the latest inventory and
+supplier rales
+No
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descnption
+Shaft
+pcs
+8.00
+128.00
+Urgent
+S00mm
+Shalt
+pcs
+8.00
+296.00
+ROHS
+s00Mm
+compliant
+Plastic
+pcs
+0.20
+5.60
+ISO
+Rivets
+verified
+Heat
+2.70
+51.30
+Li-Ion
+Resistant
+pattery
+Sleeve
+installed
+Cable Tie
+pcs
+0.95
+42.75
+ROHS
+Pack (100)
+complant
+Shaft
+pcs
+8.00
+184-00
+Certified
+s00mm
+batch
+Insulation
+pCS
+3.20
+35.20
+Foam Pad
+Sensor
+pCS
+0.95
+1.90
+Imported
+Cable Tie
+pcs
+0.95
+3.80
+Li-Ion
+Pack (100)
+battery
+Installed
+Ventilation
+pcs
+5.60
+112.00
+Eco
+Grid
+compliant
+Customer ID: GREECE
+Coordinator: Jan Kowalski
+Date: 2022-10-28
+Product ID: NE-245A
+Intemal No;
+2339554
+Order Qly: 362
+Tota
+Amount
+860.55
+pants
+CIip

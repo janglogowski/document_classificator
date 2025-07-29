@@ -1,0 +1,79 @@
+Dimensional
+Wechnician
+Catios
+Garcia
+Inspectiun Ualc
+2025 06.12
+Below are the recorded measurements
+compared against nomina
+tolerances Review
+recorded tolerances
+Jgjinst
+eneincerine
+specifications: This data extract
+prepared for quality control sign off. Refer to the dimensiona
+og for
+all companent size readings
+Ensure
+Measurement
+methods align with calibration standards
+All measured
+values are
+Fimesijmpeo
+for audit purposes
+Code
+LX-8908
+NU-2404
+SL-A3OM
+MIR-I6uh
+Companent
+NBR 60mm
+Graphice pad
+Shan 5mm
+Measurement
+Heient
+Widch
+Length
+Mdti
+Nomina
+28.34
+58.k0
+76.29
+55.34
+Actu;
+23.65
+58 67
+76 40
+55,.32
+Dulta
+-019
++011
+002
+PaseFall
+PASS
+PASS
+All dimensions within tolerance
+nave heen marked
+OK This closure memo
+contirms that dimensional checks are
+complete: Ensure all measuring tools were properly calibrated
+Ensure status flags are updated
+the quality
+management system:
+Instrument Calibration Log=
+Instrument
+Serial No.
+Last Calibration Date
+Laser
+Scanner
+67009
+2025-01-26
+Calider
+65757
+2025-03-11
+Laser Scanne
+25621
+2024-11-10
+Log
+O-RIng
+Hunee

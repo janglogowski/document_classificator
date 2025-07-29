@@ -1,0 +1,95 @@
+Unit Data Specification
+Project:
+XD-710n
+Interna
+9017947
+Prepared By:
+~orcs
+Darcld
+Approved Bx:
+Carlos Garcla
+Location: Plant JA
+Dale: 2024-07-05
+Ensurc all referenced standands are Up
+Qute
+Check tnat.
+material specs align Iith supplier certiflcalians: Use this
+sheet-
+ontm
+engineering requirements ard tolerances, The parameter register below includes operating limits
+Please revlew the specfications ad material composition listed below: Thls section details the
+configuration and parameter set fcrthe producL Thls technica
+overviev suppoits the praduct-release checklisL
+Unit Type
+Hyaraulic Fawer Unit
+Rated Pressure
+JUO bar
+Flow Rate
+Supply Voltage
+40U
+L50Hi
+Cooling
+Water- cooled exchanger
+Senviceenteru 
+12 months
+Pump Type
+Piston
+11 kw'
+Oill Type
+HLP 46
+Mounting
+Skid base with vibraticn
+paos
+Filtration
+10 um retum; 25 um
+Noise Level
+72 dBKA}
+suction
+Charging Time
+Frame Materia
+Powder-cgated_Steel
+Total Welght
+250 kE
+Battery Capacity
+10 Al
+Protection Clas:
+1p67
+Worklng Temp Range
+-10"€ to S0"C
+Dimensions (LxWxhI
+1200 x 700 K 1100 mm
+Material of Construction:
+DOSC
+Wherm
+Fuse
+Ceramic Oxlde
+Bearing 6202
+Stainless Steel 304
+Power Switch
+PO carorate
+Copper
+Prersute
+Bre
+C7i T
+Cerariic Oxide
+Connector Zp
+Giass-en
+Nuor
+Teflon Tape
+Roll
+Teflon Tape Ro
+Wooden Pallet
+Trcated Pine Wood
+Capucitor 450V
+Aluminuin Go61-T6
+Nut M6
+OLCL
+Tllnes.
+Pump
+Notot
+POwcr
+Part
+Vale
+Fuse
+Zinc
+plaice

@@ -1,0 +1,90 @@
+Product Overview
+Ensure all referenced standards are up
+date: Use this spec sheet -
+validate assembly instructions: The parameter
+registe
+below includes operating limits and ratings Check that all materiz
+SpCcs
+align with supplier certifications.
+The following information outlines perfarmance characteristics and design data. Entries include both mechanical ad
+electrical specifications; Please review the specifications and material composition listed belaw;
+Product ID
+LP-5S5V
+interna
+No;;
+4732969
+Prepared
+bv; Carlos Garcia
+Approved by: Peter Schmidt
+Date: 2025-06-01
+Unit Type
+Cooling Circulation
+Operating Pressure
+210 bar
+System
+Flow Rate
+60 L/min
+Operating Voltage
+230V
+50 Hz
+Working Temp
+Range
+10"Cto 55"C
+Battery Capacity
+10 An
+Oil Type
+HLP 46
+Contro
+Valve
+Manu?
+Override 3/2
+Use this summary
+cross-check with BOM and inspection reponts
+Ensure glossary terms match the engineering
+nomenclature: This summary reflects the latest revision of the product data
+Confirm that all test conditions are
+accurately
+represented. Check that all section headers follov" the product template
+Material choices and process
+have
+deem
+verified for compliance
+Ensure that the
+listed matena
+are approved for the applicatian
+Material of Construction:
+suocomponent
+Base
+HearSinz AlU
+Aluminum 6061-T6
+Graphite
+Graphite
+Thermz
+Fus e
+Ceramic Oxide
+Digital Display Unit
+ABS
+Steel Sheet 436
+Carban Steel 436
+Stainless Steel 304
+Switch
+Polycarbonate
+copper
+Cable
+Pack
+Nitrile Rubber INBR
+Woode
+Pallet
+Treated
+Waod
+Battery Pack
+Lithium-Ion Ce
+Pack
+Connectar 2P
+Gia55-Fillled
+Fuse
+Ceramic Oxide
+Astic
+Hinge
+Power
+Nyon

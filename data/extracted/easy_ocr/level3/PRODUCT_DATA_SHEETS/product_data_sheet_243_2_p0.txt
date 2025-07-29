@@ -1,0 +1,48 @@
+Unit Configuration
+Belaw
+the technical parameters and construction materials forthe unit; Tbis report extract
+prepared for design-
+verification audits: Use this spec sheet to validate assembly instructions The parameter register
+below includes
+operating limits and ratings- Use this sheet
+conin
+engineering requirements and tolerances: Please review the
+specificatlons and material composition Ilsted below; check that
+materal specs align with supplier certitications:
+Product ID;
+TX-820v
+7616721
+Prepared Dy: Anna Nowak
+Appraved by: Peter Schmidt
+Date: 2024-04-01
+Unit Type
+Hydraulic Powver
+Design Pressure
+180 0J
+Throughput
+60 Lmin
+Supply Voltage
+230 "
+50 Hz
+Cooling
+Allcaoled ailradiaiar
+Working Temp
+Range
+10"cto 55"c
+Resenoim
+Capacity
+120
+Dimensions (LxWxH)
+1000 x 650 x 1003 mm
+Ensure glossary terms match the engineering nomenclature
+Ensure that the listed materials are approved farthe:
+application: Archive this summary far future design
+jnjpemient
+This summary reflects the latest revision of
+the product data. All specifications meet the design requirements and industry standards, Flag any
+parameters for,urgent specification updates; Overal
+configuration
+within defined design and safety margins:
+Unit
+~chanpe
+missing

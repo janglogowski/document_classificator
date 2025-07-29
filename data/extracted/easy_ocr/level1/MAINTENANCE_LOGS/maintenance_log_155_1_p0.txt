@@ -1,0 +1,88 @@
+Unit Codr
+Machinc
+Scrvico Typc
+Jpcrato
+Downtimn
+Commcnts
+MC-281
+Paini Bcoch
+Inspecricn
+Anna Nowak
+Plant 34
+Wooden pBlleI
+checked
+MC-286
+Conveyor Belt
+corroctive
+Jankowiski
+Plant 3-
+Li-Ion batten
+Maddemich
+NC707
+Hydrilulic
+Prevertive
+Pciur Schmidt
+Plant 34
+Ruplucedius
+Press
+I541-
+MC 295
+Lujer Cutur
+Pruvuntivc
+Cafo; Gurcii
+Plant 34
+Gensor
+recalibrated
+MC-296
+Lasel Cnter
+Insp ecion
+Gaicia
+Plant 34
+Callbration
+check OK:
+NC755
+488 eruiy
+Preventive
+Tank0  aski
+Replaced
+Robot
+coolant
+MC-266
+Lager Cutter
+Preventive
+Cadcs
+Lafcie
+Plant A
+Li-Ion battery
+pack senicBd
+NC-77Z
+pac*aging
+preventive
+Lela Ro99 ]
+Replaced
+cuolunt
+MC-264
+Laser Cutter
+Preventive
+Peter Schmidt
+Plant 1C
+Refillled oim
+IHLP 46
+Use this closufe note
+update the maintenance KPI tracker
+Check remalning llte-cycles of key comaonents tram this repar
+Record any spB
+nS Uaag8 iOr inventony adjuatmen_
+This log summary supports the
+asset-management dashboard
+Overall equiprent condition
+salisuclorpuslemnantenancc
+Lubfication Checked
+Calbration Verttled
+Emergency Stop
+Ecitc
+Authorized by:
+Operator:
+Canot
+ani-
+Pieni

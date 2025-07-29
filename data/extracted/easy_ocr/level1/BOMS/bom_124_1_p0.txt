@@ -1,0 +1,70 @@
+COMPONENT BREAKDOWN
+Customer ID: GREECE
+Coordinator: Anna Nowak
+Date: 2023-08-19
+Product ID: ZR-2OSR
+Internal No;: 5668183
+Order Qty: 290
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+2.05
+10%6
+1.10
+5.50
+Switch
+Cover
+tested
+150x150
+Rubber
+10%6
+12.00
+SKF
+Gasket
+brand
+8Omm
+Plastic
+1.10
+44.00
+Urgent
+Cover
+150x150
+Terminal
+10%6
+3.40
+159.80
+Switch
+Block 4P
+tested
+Hex Bolts
+0.25
+6.25
+Li-Ion
+M12
+battery
+installed
+Grease
+3.44
+1.90
+74.10
+Tube
+250ml
+Clamp Ring
+1.75
+5.25
+120mm
+Cross-verify totals with the ERP system for consistency- This fina
+review
+confirms that all items are ready
+for requisition: Totals include estimated over-consumption allowances and current unit rates.
+Total Amount:
+306.90
+Approved By: _
+Sourcing Department:

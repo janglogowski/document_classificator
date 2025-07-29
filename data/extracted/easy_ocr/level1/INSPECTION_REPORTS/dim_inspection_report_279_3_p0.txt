@@ -1,0 +1,115 @@
+Measurement Summary Sheet
+Inspection performed by Jan Kowalski on 2025-06-06.
+The following data captures key dimensions and any deviations identified. Check that all dimensions comply with ISO
+and company standards Entries Include both
+pass/fail markers and deviation magnitudes Review recorded
+Folerances
+against engineering specifications-
+Environmenta
+Conditions: Temperature
+Humidity: 42 %
+Item Code
+Component
+Measurement
+Nomina
+Actua
+Diff
+Status (VKXL
+NE-2457
+Battery Pack
+Wvidth
+91.62
+91-64
+4DUZ
+PASS
+QN-770H
+Plastic Rivets
+Thickness
+10.64
+10.83
+PASS
+VR-JAOT
+Rubber
+Hole
+33.50
+33.54
++0.0A
+PASS
+Oaskel
+80rnm
+NU-40/
+Po
+witch
+wicth
+29.45
++014
+PASS
+VF-2ZOD
+0 Ring NBR
+peoth
++0.08
+PASS
+Gomm
+SL-AJ0M
+Tnickness
+83.64
+83.54
+DI
+PASS
+GL 9805
+Bearing 6202
+Depth
+15.70
+15.74
++U.U4
+PASS
+Xk- 610U
+Hinge Set
+Height
+24.88
+24.90
++002
+PASS
+RM-86ON
+Power Switch
+Height
+76.70
+PASS
+VF-220D
+Bearing 6202
+Inner
+68,69
+68.69
++
+PASS
+piamcci
+ON-7Z0H
+Graphite Pad
+Depth
+29.50
+PASS
+FT-730X
+Bearing 6202
+Length
+9.93
+10.10
+T0;
+PASS
+LP-SSSV
+NBR
+inner
+7,59
+7.51
+-008
+PASS
+60mm
+Diameter
+LP-5SSV
+Plastic Rivets
+nicknes5
+25.71
+25.90
++0.19
+PASS
+Hinge
+0 Ring

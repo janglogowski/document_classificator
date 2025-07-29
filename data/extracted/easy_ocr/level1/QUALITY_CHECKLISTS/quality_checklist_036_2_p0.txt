@@ -1,0 +1,76 @@
+Compliance Log
+Archive this list in the quality-management system: This summary supports the production-re
+2058
+quality gate
+Confltin that
+sampling
+levels comply with customer agreemients. Ensure allnon-=
+conforming marks are clearly
+documenteo
+This closure summary indicates compliance with inspection criteria
+Product ID
+NE-2454
+Customerid
+POLAND
+Item Description
+Support Foo
+Audit Criteria
+Inspuction
+Category
+Comments
+Depth
+Praduci
+Requirements
+Hold
+Dead
+lva inseccin
+packaging
+Paint smearing
+scratches
+Critical impact
+Screws loose
+missing
+Level I
+Rmbde
+Swvitch
+not working
+Leve
+Needs revier
+Wrong product size
+Needs reviel"
+Ratterenatinciudem
+Levei
+Packaging does not match
+Level IlI
+Critical impact
+signed sample
+Missing safety labels
+Level
+Ninorissue absened
+Rubber
+turtune
+Kidysinesy
+Needs review"
+mismatch
+Exposed nail with sharp point
+Laveli
+Needs reviev"
+Hncoraccdarcade
+adel
+LavE
+Neady reviex
+Hinges
+Lavel
+Visual defecton housing
+Level E
+Critical impact
+Package
+not sealed
+Minor issue observed
+completely
+Notassembied
+drawing
+Level
+Supervised by:
+Date:
+Siee

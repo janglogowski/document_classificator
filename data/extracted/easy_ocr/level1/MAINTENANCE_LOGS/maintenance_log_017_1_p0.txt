@@ -1,0 +1,87 @@
+Equipment Record Report #1001953
+Dall:
+2024-03-14
+Unit Codc
+EquiPMcnt
+Hccnnician
+Downtimr
+Commcnts
+MC-285
+CNC Milling
+Lorrecoivz
+Laura Rosse
+Plant 1C
+"ehtened
+Maching
+holke
+MC-235
+Laser Cutter
+preventive
+Lanios Garcia
+Flant 3/
+Wodden pallet
+checked
+MC-229
+Piasma Lutter
+Inspection
+Carlos Garcia
+Piant 34
+MC-2J1
+nssembly
+ofrecme
+Anaz Nowtak
+Plant 1C
+LI-Ion battery
+Robot
+Dack semiced
+MC-295
+Plasma Cutier
+Corrertve
+Jeter Cchmidt
+Plant 2R
+Renlared
+cooiJnt
+MC-251
+Assembly
+inspection
+Lamra Ross
+Plant 1C
+Refilled cil HLP
+Robcl
+Mc-787
+Hvdraulic Prers
+inspection
+Ian Kowakski
+Plant 32
+MC-279
+Ccnveyor Belt
+preventive
+Laura Ross
+Flant 5/
+Wodden pallet
+checked
+ML-248
+Aydraulic
+Preventive
+reter Schmidt
+Piant Z6
+sensor
+ICCllibnItd
+AIl maintenance [ Sks have been corripleted
+perschedull-
+Rcler
+nemunks(0r Any Tollo *
+actions
+purtsreplacerent>
+cervIce summanes nave beentonvardeo
+the enpingerine team
+ensure mext preventive {ETVICe
+scheduied jccordim?
+Lubnicalic) Checked
+Caloraticn Veniticc
+Emerzenc
+Stop_
+25720
+ApprovedEv:
+Serviced by:
+FTE-

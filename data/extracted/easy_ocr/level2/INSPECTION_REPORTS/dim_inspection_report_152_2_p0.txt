@@ -1,0 +1,78 @@
+Inspection Results Summary
+Technician
+Anna Nowak
+Inspection Date
+2024-10-20
+The following data captures key dimensions and any deviations identified.
+report presents the
+dimensional measurements and inspection results. All measured values are lirestarnped for audit
+purposes. This summary
+measurements supports metrology traceability.
+Article No.
+JD-ZoQw
+SL-430M
+1X-820V
+WD-180S
+SB-140D
+4X-820V
+Part Name
+Steel Sheet
+Bearng 6202
+Hinge Set
+0-Ring NBR
+Power
+Wooden
+A36
+60mm
+Switch
+Pallet
+Dim
+Length
+Hole
+Lengu
+Hole
+Length
+Width
+Nominal
+90.16
+90.59
+32.22
+6,72
+14.53
+52.70
+Actuai
+32.14
+1439
+Delta
+~0.06
+0aT
+-0.14
+-0.07
+PassIFail
+PASS
+PASS
+PASS
+PAsS
+PASS
+PASS
+This assessment reflects the latest metrology results.
+Please address any NOK items before proceeding to
+the next production stage. Refer to deviation column for any out-of-tolerance measurements:
+Instrument Calibration
+Instrument
+Serla
+Last Calibration Date_
+Caliper
+26128
+2024-08-01
+Laser Scanner
+13162
+2025-03-07
+CMM
+78212
+2024-11-23
+Laser Scanner
+98601
+2024-10-04
+Tnia
+Log:

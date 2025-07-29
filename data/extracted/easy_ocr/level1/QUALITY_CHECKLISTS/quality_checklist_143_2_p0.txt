@@ -1,0 +1,65 @@
+Inspection Record
+Refer
+the quality register for sampling-plan refererces Archive this list In the quality-management system This
+checklist cantures quality inspection points ad sampling levels, Confirm that sampling levels comply with customer
+agreements:
+Product ID
+Kv-390k
+customcrId
+FINLAND
+Item Description
+Connector 2P
+Quality Check Items
+Sample ier
+Classification
+Remarks
+Item Specs
+Batter not included
+Leve
+Crticalimpad
+LDot
+parts Inside Packaging
+Minorsue
+Juserved
+Mssing distrbutor Intormalion
+Leve
+Missing logo or warning
+hoci
+LCC
+visual defect on housing
+Issue oosenved
+Hinges
+Ioase
+Leve
+Needs review
+Dead or live insectin packaging
+Leva
+WrOng product size_
+Uncanecevancade
+Jabei
+Level
+Nol asscinbled
+per drawing
+Miinoi ISSUC
+Juscnvcd
+Rubber texture
+glossiness
+Level IlI
+Needs revlew
+Tnismaton
+incorect quantity
+assonment
+Miinor iSSUe
+oosenved
+mismarch
+Leve
+Minocissup
+ansened
+damared
+markings
+Level |
+incorrect
+Supervised by: _
+Date: _
+Milnor
+Caron

@@ -1,0 +1,102 @@
+Maintenance Checklist Report
+2025-01-14
+This section capture
+Bqminment etatus and
+Jny Maintenancc Oosenamons
+Tnis maintenance extract is prepared for
+compllance audit tra
+RAM
+Ine summat
+ena
+aclns and downcmtesioneach machine
+checkthanadovnume
+0vents ar8 propeny catezorizeoano
+Mlogged.
+Ihe followngentrie3 detail preventwve and corre ctive maintenanceta3kS
+Use this
+record
+plan upcoming upkeep ard repuirs
+Spare Parts Used:
+Part Name
+Part No
+Uzed
+Hydrallic Hosc
+P-j7s
+Hvdraulic Hos
+0-2502
+Avdraulic Hose
+-3532
+Unit Codo
+Equipmcnt
+Type
+Tcchnician
+Duration
+Last Check
+Arcu
+Notc?
+MC-273
+Packaging
+anne
+peter
+2024-10-20
+Calabration
+Schmidt
+check OK
+MC-208
+H draulic
+Corro ctnae
+Carlos
+2024-11-22
+No issmos
+Ficjs
+Gurcia
+Tound
+MC 266
+Plasriil
+Ccmmt
+Annas
+7077 09 I0
+Nssuu
+Cutter
+Nowvek
+Touno
+MC 220
+La"urmba
+Corrcctn=
+Emna
+7024-07-.30
+Reolacud
+Nowak
+coolan
+MC-?71
+Laser Cutter
+Inspection
+2025-01-02
+Swvicn
+Konaleki
+contacte
+clganed
+MC-216
+Peini Booih
+Correctne
+Hnn?
+2024-11-29
+Callbration
+Novtak
+ctuck
+MC-201
+Assembly
+Inspection
+Launa
+Possi
+2024-07-27
+Alignment
+Ruuot
+0t hindus
+adiusteo
+Applcvcd UY
+Junkowulski
+Surviccdbv=
+lan Koxilski
+0
+Robot

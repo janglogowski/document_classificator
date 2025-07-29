@@ -1,0 +1,93 @@
+Inspection Summary
+#9846619
+Date: 17.07.2025
+productid
+KV-390k
+Customcrd
+BRAZIL
+Itcm
+Description
+Termina
+Refer to the quality register for sampling-plan references_
+This section details quality requirerents and test
+points forthe batch Ensure all non-conforming marks
+are Cleany documented
+Use this listto confirm
+acherence
+AQL and safety standards
+Beloware the Iteins t0 be verified
+during the final product review. The
+following table outlines inspection criteria andclassificatian levels. Check that inspection steps follow the
+approved procedure
+Review Points
+Inspection
+Classification
+Observations
+Depth
+Utcm
+Hold
+Rubber Switch not working
+LCVCl
+Minor ISSUC Ouscived
+mcco
+Orientation
+Leve
+Cntic?
+mpwc
+Dead
+live insect in
+Level II
+Critical impact
+packaging
+Caron
+damnaged 0r
+Levell
+Minor issue observed
+markings
+Incorreci
+Packaging does not match
+LevelI
+Critical Impact
+Signed sample
+Connector not working
+Level II
+Critical
+Imdact
+Wood splinter &r sharp point
+Levell
+product
+Shipping mark
+Illeglble
+Needs review
+Missing
+Praduct doesn't power
+Minor Issue Doserved
+Instruction Manvalis Missing
+Level /
+Needs review
+oamaged
+Missing safety labels
+Needs review
+Incarrecl
+Jarcode
+Iabel
+Functionality test falled
+Leveli
+Needsr@vilw
+Battery not included
+Lcrc
+Sharp edges on plastic
+Level II
+componenis
+Missing logo
+wamnine
+label
+Levell
+AQL Level
+Critical
+Naior
+Mimor
+Default
+Customer specific
+Block
+Specs

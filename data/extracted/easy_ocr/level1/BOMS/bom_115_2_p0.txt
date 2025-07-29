@@ -1,0 +1,35 @@
+Customer ID: FRANCE
+Prepared by: Carlos Garcia
+Product ID: PL-601Z
+Internal
+1163798
+Item
+Steel Sheet
+Shaft S0Ornm
+Power Switch
+Clamp
+Fuse 54
+Description
+A36
+120mm
+Qty
+807
+53 /
+925
+UOM
+Unit Price
+5.00
+Amount
+035.00
+096.00
+1,110.00
+474.25
+197.10
+Remarks
+Switch tested
+ROHS
+Switch tested
+compliant
+TOTAL: 10,912.35
+No::
+Ring

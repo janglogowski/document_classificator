@@ -1,0 +1,122 @@
+Production
+KepoNo.
+PR-256
+Customer
+FINLAND
+Supervisor:
+Carlos Garcia
+Department:
+Logistics
+Dale
+24-01-2024
+Shift:
+(Night)
+Equipment
+Operation
+Technician
+Start Time
+End Time
+Total
+Uwagi
+Guranon
+MC 208
+Assembly
+4na Nowak
+07.30
+09.04
+Recalibrated
+MC 209
+Cutting
+Mareust
+11:15
+12.47
+Recalibrated
+Jamvn?
+MC-206
+Piotr
+08,30
+10.28
+118
+Recalibrated
+Lewandowski
+MC 207
+Polishing
+Jan Kowalski
+11.00
+12.04
+Delay
+MC-208
+Welding
+Dawid
+06:15
+06.42
+Delay
+Oszmianiczuk
+MC-201
+Polishing
+Pitr
+10;15
+11;54
+Recalibrated
+Lewandowsy
+MC-209
+Welding
+Bartosz
+12:00
+12.20
+NIA
+Wawizyniak
+MC 203
+Drilling
+Agnieszka
+10.00
+11.06
+N/A
+Ziellnska
+MC-205
+Magdalena
+12:00
+12.25
+Delay
+Witkowska
+MC-209
+Polishing
+Mateusz
+06.00
+06.58
+Delay
+Jarzyna
+Part ID
+Target Qty
+Produced Qty
+Rejected Qty
+Scrap
+Remarks
+ZR-205R
+229
+196
+14.4190
+Scrap
+confirmed
+CE-905L
+262
+252
+3.8290
+Rework needed
+Pw-51SY
+179
+5096
+Scrap
+contirmed
+GL-9805
+223
+5690
+Rework needed
+Prepared by;
+Cands
+Garcia
+Approved by:
+Peter Schmidt
+Log
+Cutting
+Cutting

@@ -1,0 +1,59 @@
+Component Dimensional Check
+ecnnician
+Peter Schmid
+Inspection Date
+2025 05.19
+This
+eport presents the dimiensional measurements and inspeclion results
+Check Ihat all dimensions
+comply with ISO and company standards. Below are the recorded measurements compared against nominal
+tolerances Please review the
+inspection results for each component listed below:
+Articlo No 
+LK 890B
+BZ 660F
+43M
+ON-770H
+Part Name
+Hex Bolts M12
+Plastic Rivets
+Rubbc
+Gasket
+Plastic Rivets
+80mm
+dlm
+Length
+Depth
+Height
+Width
+Nominal
+16.68
+13,.25
+34.26
+Actua
+Diff
++012
++0.13
+Pass Fall
+Ensure all measuring tools were properly calibrated_
+This closure memo
+confirms thalt dimensional checks
+are complete: Overall inspection summary indicates acceptable quality levels. Confirm that pass rates meet
+Ihe defined acceplance criteria
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Micrometer
+86635
+2024-08-10
+Caliper
+67717
+2024-09-18
+Scanner
+16792
+2025-04-26
+Micrometer
+58252
+2024-10-24
+Lasel

@@ -1,0 +1,47 @@
+Quality Inspection List
+This section details quality requircments and test points for the batch: Confirm that
+sampling levcls comply
+with customer agreements, Refer t
+the quality register for sampling-plan references
+Use this extract to
+coorcinatc
+sign-off with the QA manager.
+productid
+WD-180S
+Customcr Io
+POLAND
+Item Description
+Kluminum Bracket
+Review Points
+Check
+Defect Class
+Comments
+Untensi
+Component Criteria
+Hold
+Rubber texture
+glossiness
+Level III
+Needs review"
+rismatcl
+Dead
+Wvc insectin
+Level/
+packaging
+ndse
+Lcuc
+Critical impact
+Lolor mismatch
+LEvel
+Criticalimpact
+Wood splinter
+Levell
+product
+Missing logo
+warning laocu
+Level/
+Supervised by:
+Date:
+Hinges
+shorp
+point

@@ -1,0 +1,102 @@
+DAILY PRODUCTION REPORT
+Report No;; PR-861
+Customer: TURKEY
+Shift:
+(Evening)
+Date: 19-03-2025
+cquipment
+Operation
+Technician
+From
+Toral
+Remarks
+Condition
+Graton
+MC 204
+Polishing
+Mlatcusz
+10.15
+11.14
+Delay
+Completed
+Jarzyna
+MC-203
+Cutting
+Nadia
+12.15
+12.44
+progress
+Sautem
+MC 208
+Welding
+pantosz
+12.15
+13.40
+Recalibrated
+proercss
+Wawreyniak
+MC-206
+Polishing
+Przemyslav:
+07-00
+08.55
+115
+NA
+pr oeress
+Wasik
+MC 205
+Cutting
+10.00
+10.42
+Delay
+progress
+Kowalski
+MC-201
+Polishing
+Nadla
+09.15
+09.45
+Recambraled
+proeress
+Saute
+The performance recap suppoms
+moming briefing arenda
+Note
+unscheduled stops
+dountime
+rezister;
+Ovcrall production performance met expectations for the day: Archive thi
+output summary for end of day
+reporting
+No critical delays were observed; please address any minor Issues noted
+Part ID
+Planned
+Produced
+Scrap Qty
+Failure %
+Rework
+Uwagi
+Output
+Qty
+Count
+PW-SISY
+158
+149
+5,7076
+Ty-350G
+228
+5.7076
+Scrap
+confirmed
+TL-goOX
+138
+15.227
+Scrap
+confirmed
+LK-8908
+134
+3.737"
+Rework
+needed
+Approved bv:
+Prepared by: _

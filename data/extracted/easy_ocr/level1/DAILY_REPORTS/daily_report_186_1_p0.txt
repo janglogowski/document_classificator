@@ -1,0 +1,97 @@
+Shift Summary
+Repont No::
+PR-987
+Customer:
+BELGIUM
+Supenvisor:
+Anna Nowak
+Department:
+Painting
+Date:
+25-03-2024
+Shift:
+(Evening_
+Equipment
+Operation
+Worker
+Start Time
+Finish
+Total
+Comments
+duration
+MC-204
+Polishing
+Bartosz
+14.15
+15.31
+Wawrzyniak
+MC-206
+Welding
+Agnieszka
+11.30
+13.13
+103
+Delay
+Zielinska
+MC-205
+Drilling
+Jan
+12.15
+13.33
+Kowalski
+MC-208
+Welding
+Nadia
+10:15
+11.40
+Recalibraled
+Sauter
+MC-208
+Drilling
+Jan
+11.30
+12.49
+Kowalski
+MC-205
+Assembly
+Anna
+14.30
+15.41
+Delay
+Nowak
+Part ID
+Planned
+Produced Qty
+Scrap Qty
+Scrap
+Remarks
+Output
+KV-390k
+160
+158
+1,.25%
+Rework
+needed
+MX-450L
+266
+245
+7.8990
+Rewvork
+needed
+PL-6012
+189
+4.2386
+AZ-300T
+157
+138
+12.10%0
+Scrap
+confirmed
+KV-390K
+153
+14.38%6
+Prepared by:
+Carlos Garcia
+Approved by:
+Laura Rossi
+Delay

@@ -1,0 +1,90 @@
+Machine Log Summary
+2025-03-31
+Use this summary
+Torerzst arts
+ediacement ano
+eso|rci
+ceede
+This Icg records
+maintenanc
+actnrite
+performed on the
+equipmeni
+Sed
+(aet: sumarnary
+Eruia
+acnans
+hdCrtctue
+achemnacara
+Tecnmcan cormcniam
+recoraed for
+maintenance trend analysis. This service summary
+Mpports the rEJiadilicy encineering
+eview
+Entfies include Won< crders
+technirian
+assignments, and part chanres
+Spare Pairts Used;
+Puatt Name
+Part No
+Oty Uaed
+censcr Nicdule
+7698
+nsos Module
+0-6429
+Unil Code
+Equloment
+Technician
+Dowuntiml
+Previous
+Noles
+Senlce
+MC-258
+Fuembly
+Inscection
+Larics Garciz
+2023-09-09
+No /sues
+Robot
+touno
+MC-20S
+Palat Bcoth
+Inscection
+No *ak
+2025-07-05
+Replace d
+cocant
+MC-264
+Lonvevor
+Inscection
+Laura Kosst
+2024-12-29
+Belt
+MC-245
+Asembi
+Preventive
+Larics Garcia
+2025-Ul-Ua
+Lalidraricon
+Robct
+check OK
+ML-253
+Avdraulic
+Insdection
+Peter
+2025-06-26
+No issues
+Prae
+Semmial
+Tlnd
+ML-291
+Lonvevor
+Lotrecove
+reter
+2024-01-31
+Retilied
+Scamiat
+Autnorized Du;
+Jankowalsk
+Novtak
+Opci2_

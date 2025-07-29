@@ -1,0 +1,73 @@
+Product Overview
+proieci
+DX TZ7T
+Internal No
+1262186
+Prepared
+Peter Schmiat
+Approued By:
+Jan Kowalski
+Location; Plant 2B
+Date: 2023-07-24
+This technical overview supports Irie product-release checklist Use (his sheet to confim engineering
+requirements and tolerances. This data sheet provides key specitications and material details
+Refer to this
+configuralion summary for unit-designalion mapping: Below are the technical parameters and construction
+materials for tne unit;
+Configuration Type
+Cooling Circulation
+Operating Pressure
+250 bar
+System
+Fluid Flow
+30 Lmin
+Voltage
+480
+60 Hz
+Dimensions (LxWxH)
+1000
+650 x 1000 mm
+Filtration
+10 pm return, 25 Umt
+suction
+Battery Capacity
+Total
+Weight
+250 kg
+Pump Type
+Piston Pump
+Cooling
+Water-cooled
+excnanger
+Mounting
+Rack frane
+Control
+Valve
+Manual Overide 3/2
+Frame Matoral
+Stainless Stee
+Frame
+Charging Time
+Working Temp
+Range
+558C
+HLP 68
+Protection Class
+P54
+Reservoir Capacity 
+Noise Level
+72 dB(A)
+Material of Construction:
+Part
+Raw Materia"
+Teilon Tape Roll
+Jellon_Tape Roll
+Pressure Valve
+Brass CZI2E
+Nut M6
+Zinc-Plated Steel
+Baltey Pack
+Lithium-Ion
+Cel
+Pack
+Type

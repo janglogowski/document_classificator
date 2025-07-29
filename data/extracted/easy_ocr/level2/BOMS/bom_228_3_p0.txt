@@ -1,0 +1,83 @@
+BOM Report
+Ensure each component meets the specified quallity standards: The following table summarizes the
+mnaterials undl quantities needed for the curront project. Review the materials tally for compllance
+with budyat allowancas Tha componont rostar balow iIncludes unit costs and batch codos. Pleuse
+rovlow tho itomlzed Iist of parts and matarial spacifications before procurerart, All Uine-Item costs
+Are current a per vondor quotos
+No
+Item
+UOM
+Aate
+Amount
+Rermarks
+Desciiptlon
+Sursor Clip
+pcs
+0.95
+2,85
+Plastic
+pcs
+49.50
+SKF brnnd
+Covor
+150x150
+Packaping
+pCS
+16.00
+Pox
+Caramic
+pc
+2.10
+81.90
+Eco
+DIsc 80mm
+compliant
+Clamp
+pc;
+1,75
+78.75
+ROHS
+120mm
+complinnt
+Woodan
+pcs
+15.00
+555.0u
+Eco
+Pallet
+compliant
+Powor
+pcs
+9,60
+Switch
+Clamp Ring
+pC?
+1.75
+43.75
+Hlph Brade
+120mm
+Caramic
+pcs
+2.10
+81.90
+Urgont
+Disc 8Omm
+Gasket
+7.50
+Li-Ion
+Sheet A4
+battory
+Installed
+Any deviations from standurd pricing have hean annotated hero:
+Customer ID
+GREECE
+Coordinator: Jan Kowalskl
+Data: 2024-09-19
+Prorluct ID: VR-J40T
+intana
+6757566
+Order Qty: 80
+Tatal Amoumt:
+925.75
+QVy
+Rung

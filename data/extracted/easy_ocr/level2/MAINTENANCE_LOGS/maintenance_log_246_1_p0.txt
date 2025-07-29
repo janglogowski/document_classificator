@@ -1,0 +1,95 @@
+Maintenance Checklist Report #4913634
+Date: 2023-11-18
+Machine
+Equipment
+Service Type
+operator
+Duratlon
+comments
+HC231
+Latha
+Pruvuntiu
+Arna Nowuk
+Plant 1C
+Warn Riskt
+{cplucud
+MC-211
+Aggemoiy
+Comrectra
+nna Nola
+Plant 2F
+Calibration
+Rdbot
+check OK
+MC-229
+La3en Cutter
+Inspection
+Lafe
+3ossi
+Plant 21
+Whooden
+checked
+NC-2J0
+PackaGing
+Prevuntne
+Peter Schmidt
+Plant 34
+No issues
+Line
+jound
+MC-224
+Luscr Cultut
+ingpuction
+Carlos Garcia
+Plant 34
+Kuseet
+cuplacud
+MC-288
+Laser Cuttet
+COrectio
+Laure
+Rossi
+Plant 34
+Nossuos
+latnd
+MC-228
+Assembly
+Preventive
+Jan Kowvalak
+Plant 2B
+Robot
+MC-206
+Assembly
+Corre cuive
+Anna Nowar
+Plant 2B
+Replaced fuse
+Ronot
+KC-259
+Packaging
+Prevontivu
+Carlo'
+Garcia
+Plant 1C
+Refilled oil
+This log summary
+supports the asset
+management dashboard
+Ellmaintenance durations are recorded fcrperormance
+metrics: Overall equipmen
+canumtiar
+sulisiaclurpusl-mliluntenancc
+ensuru tal Uach servicu entry nux
+Lhc rcquired
+approvals
+Maintenance nolies are aicnived
+comaiance audila
+Lubncaton Checken
+Calibriltion Vu
+EMercenc' Sod
+Tested;
+Authorzed by:
+Operator:
+pallet
+Wort
+(HLA

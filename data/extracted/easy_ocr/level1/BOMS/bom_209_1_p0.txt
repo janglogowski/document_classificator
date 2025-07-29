@@ -1,0 +1,63 @@
+BOM Report
+Customer ID: CANADA
+Coordinator: Carlos Garcia
+Date; 2023-07-06
+Product ID: SL-AJ0M
+Internal No_
+6895779
+Order Qty: 458
+Below is the component listing and associated costs for the upcoming production batch. The parts
+manifest here
+designed t0 support procurement workflows.
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Fuse 5A
+2.07
+250
+pCS
+0.30
+10.50
+ISO-
+verilled
+Clamp
+3.35
+590
+pCs
+1.75
+15.75
+120mm
+alignment
+adjusted
+Groase
+2.38
+590
+pcs
+1.90
+11.40
+Tube 250ml
+Battery
+0.9
+109
+pcs
+25.00
+25.00
+Eco
+Pack
+compliant
+Any deviations from standard pricing have been annotated here. The cost subtotal supports financial
+forecasting for the next cycle
+Cross-verify totals with the ERP system for consistency; Totals include
+estimated over-consumption allowances and current unitrates:
+Total Amount:
+62.65
+Approved By:
+Sourcing Department;
+Ring
+Hinge

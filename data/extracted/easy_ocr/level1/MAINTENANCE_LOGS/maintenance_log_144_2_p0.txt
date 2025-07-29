@@ -1,0 +1,122 @@
+Check thar all downtlme events are properly categorized and
+Thls semvice summary supparts the rellabillty engineering
+reinai
+This section captures equipment status and
+anymintenance obsentatione
+Belounisthe summan'
+sarnce actions
+dowritime s tor each rachine
+Curimrmh (Mul senuice interuls
+Iu Orevemiive scnedule
+Spare Parts Used:
+PurtNume
+Pant No_
+Olyuted
+Senan
+Module
+1070
+Seain
+Gasket
+6825
+Wne Gaskel
+0-6776
+Fusc
+P-5296
+Machine
+Macnine
+Servc e
+Operator
+Downtime
+Previous
+Comments
+Type
+Scrvico
+MC-296
+Assembly
+CotrecWive
+Anne
+2uz4-0z-20
+Li-Ion
+Robot
+Nowak
+natieri
+3eniced
+MC 264
+Lathu
+Correctivi
+2023-08-04
+Calinriltion
+Kowalski
+check OK;
+NC-291
+Convbvor
+Insnection
+Carlos
+2024-12-14
+Alignment
+Carcie
+Onninge3
+ajuste o
+MC-735
+Hydraullc
+Inspection
+Laune
+Aossi
+2024-06-16
+Changed oil
+Press
+and filters
+MC-275
+Convevor
+Preveniive
+2024-06-11
+Swiich
+Belt
+Kow blski
+contacis
+cluilnud
+MC?13
+Puckudine
+Preventivu
+Luuru Rossi
+2uz4-04-28
+CAlAnmcnt
+Aclmsted
+MC-293
+Lathe
+Coieciive
+peter
+2023
+12-02
+Schmidt
+MC-251
+Paint Bocth
+Coieciive
+2024-12-02
+Refilled 0il
+IFLP
+MC-270
+Paint Bocth
+Ingpection
+Laura Ro33
+2024-02-05
+Refilled
+IHLP 46).
+MC-256
+Packaging
+Insdection
+Carlo;
+2024-02-01
+Replaced
+Carcin
+Signed ott:
+Jan Kawalsk
+Parformed Ov-
+Annu
+Noivak
+AopRad
+Mollo"
+321
+pack
+0i minge?
+Kowb

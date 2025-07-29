@@ -1,0 +1,74 @@
+BOM Repcrt
+Customier ID; BELGIUM
+Coordinator: Jan Kowalski
+Date: 2023-05-10
+Product ID: TR-ZQOB
+Internel Na
+8339508
+Order Qty: 96
+Ihe
+component roster below includes unit costs and batch codes. Use this breakdown to verify
+sourcing and cost estimates. Refer to this parts
+register t0 plan raw-material purchasing:
+Iter
+Consumptlon
+Extra
+Qty
+UO
+Rate
+Amount
+Remarks
+Description
+Heat
+1.43
+0%o
+2.70
+124.20
+High
+Resistant
+grade
+Sleeve
+Epoxy Resin
+0.66
+1040
+160.60
+Switen
+tested OK
+Fuse SA
+2.68
+pcs
+0.30
+6.30
+Eco
+compliant
+Spring
+2.14
+0.05
+1.45
+Urgent
+Washer
+Mio
+Packaging
+3.41
+pcs
+1,00
+35.00
+Li-Ion
+Box L
+battery
+Installed
+Spring
+173
+109
+pcs
+0.05
+2.30
+Hinge
+Washer
+alignment
+Mio
+adjusted
+Total Amount:
+329.85
+Approved By:
+Sourcing Department:

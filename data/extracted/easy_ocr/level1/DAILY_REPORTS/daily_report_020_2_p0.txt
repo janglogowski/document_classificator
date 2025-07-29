@@ -1,0 +1,77 @@
+DAILY PRODUCTION REPORT
+Raport No;:
+PR 632
+Custamer
+POLAND
+Supeivisor:
+Carlos Garcia
+Dapurtment 
+Painting
+Shilt:
+(Nizht)
+21-02-2025
+Engure ony downtime incidonts are noted for follow-up. This section details the key metrics and activitles
+reconded
+during the shift. This extraict shows dally yleld, scra
+Nlesandnuworic
+Occutcnces
+Machine
+Task
+Worker
+Begin
+End
+Duration
+Notes
+Temp
+Energy
+Time
+(mini
+("Ci
+Used
+MC-208
+Cutting
+Junkawalski
+09,30
+11.00
+Recallbrated
+63.4
+4.73
+MC-205
+Polishing
+Przemnysinw
+07.30
+08.50
+Racnllbrated
+78.0
+2.59
+Wasik
+MC-204
+Cutting
+Dawid
+10;00
+10.55
+58.8
+1,80
+Dazmianczuk
+MC-208
+Welding
+Piatr
+07.30
+08.49
+NIA
+69.3
+1.96
+Lewandowski
+MC-205
+Drilling
+Agniaszka
+06;00
+06.27
+N/A
+63,8
+2.27
+Zielinska
+Prepuredby;
+Poter Schmidt
+Approvedby:
+Anna Nowhk

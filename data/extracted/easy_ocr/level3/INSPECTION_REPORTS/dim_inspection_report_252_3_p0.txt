@@ -1,0 +1,88 @@
+Tolerance
+Item Code
+Inspection performned by Jan Kawalski
+Part [
+on 2023-09-28,
+TX-820v
+Shalt
+Measurement
+S0Omm
+Thickness
+97,68
+Dift
+RE-850C
+97.,53
+~0.15
+(ViXI
+Waaden
+Length
+41.67
+PW-51Sy
+41,56
+RX-310Z
+Set
+Widlh
+68.98
+6202 Zz
+Thickness
+{82.23
+69,17
++019
+82,08
+-0,15
+s0onm
+Heignt
+66.24
+730X
+Sieci
++0,01
+Sheet
+A36
+88.05
+87.92
+1805
+~0.TJ
+NBR
+Hole 0
+MX 450L
+BOnm
+9.52
+9,61
+Graphite
++0,09
+Pad
+Thickness
+1458
+MC-540X
+10,62
+70.04
+er
+Switch
+Diameter
+71.66
+Swlch
+27.33
+87,.39
+VE2206"
+Hinge Set
+Length
+89.96
+Check
+Name
+Nominal
+Opgenved
+Status
+~0,11
+Hing@
+Bearina
+RX3OZ
+Shall
+Width.
+WD-
+0-Ring
+Pawer
+71.64
+RX-310z
+Powalt
+Hewghi
+70.06

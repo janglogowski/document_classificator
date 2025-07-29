@@ -1,0 +1,114 @@
+Shift Summary
+Customer;
+BRAZIL
+Report No:: PR-305
+Date: 17-03-2025
+Shitt: _
+(Morning)
+Total
+Remarks
+Condition
+Machine
+Operation
+Operator
+Begin
+duration
+09 Wu
+10.28
+NYA
+progress
+MC 208
+Drilling
+Wiktor
+Kopczynski
+Delay
+leted
+Sartosz
+10.15
+11.41
+MC-205
+Cutting
+wawryniak
+Lomp eteo
+MC2u 
+Cutting
+Nadia Sauter
+1430
+15,44
+progress
+MC-205
+Drilling
+Dawld
+06.00
+07.51
+Oszmianczuk
+Recalibratco
+MC-203
+poilsminp
+Jan Kowalski
+09:
+10.42
+propres
+Kwalski
+06 0D
+07.19
+MC-203
+Polishing
+Recalibrated
+Delayed
+MC 204
+Cutting
+RartosC
+12,00
+12,52
+Wawrvniak
+14.00
+15.01
+Delay
+Completed
+MC-Z09
+Drilling
+Ptzemvsiatv
+Wasik
+Delay
+Camnleted
+MC-202
+Assembly
+Piotr
+13.30
+13.52
+Lewandowski
+Achieved Qty
+Scrap Qty
+Scrap
+Rework
+Uwagl
+Item ID
+Target
+Count
+RE 850C
+295
+255
+5634
+Rework
+5.3370
+Al-11S0
+needed
+MS 600P
+280
+5.36%
+Rework
+11,.2096
+DX-7771
+250
+needec
+6296
+Rework
+MC 540X
+5,005
+WD-1805
+Approved by:
+Prepared bY:
+Comp
+Pioress
+necded

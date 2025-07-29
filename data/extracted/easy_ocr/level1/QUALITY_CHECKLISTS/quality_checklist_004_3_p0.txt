@@ -1,0 +1,62 @@
+Inspection Record
+Quality Check Items
+Sample
+Category
+Notes
+Tier
+Component Crtera
+Hold
+Incortec
+onentation Inbox
+Level I
+Critical impad
+Wood splinter
+sharp point
+Level IlI
+Minor issue observed
+on product
+Paint smearing
+scratches
+Needs review
+Incorreci parcoce Or adel
+Critical impact
+Rubber Switch not working
+Visual defect on housing
+Level
+Critical impadt
+Battery not included
+Level
+Minor iSSue obsenved
+Missing distributor infomation
+Levell
+Needs review
+Missing safety labels
+Level
+Packaging does not match
+Level III
+Critical impact
+signed sample
+Dustdebrs inside packaqing
+Carton is damaged Or
+Level II
+Critical impact
+markings incorect
+Product doesnt power on
+Level III
+Minor issue obsenved
+Exposed nail wth sharp point
+Level
+Package
+not sealed
+Level Il
+Needs review
+completel
+Sharp edges on plastic
+components
+Reference Standards:
+Standard
+Edition
+CE Directive
+2020
+UL 61010
+3rd Ed.

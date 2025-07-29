@@ -1,0 +1,56 @@
+Inspection Record
+#4694236
+Date: 17.07.2025
+Product ID
+VR-940T
+Customer ID
+TURKEY
+Item Description
+Piastic
+This checklist captures quality inspection points arid sampling levels . Ensure all non-conforring marks are
+clearly documented: Use this listto confirm adherence
+AQL and satety standards Refer to the quality repster
+sempling-plan references, All checklist entries are timestamned for traceability: The following teble outlines
+inspection critemaand
+assification levels
+Audit Criteria
+Insnection
+Defect
+Remarks
+Depth
+Specs
+Dust/debris_inside packeging
+LevelI
+iaads reviei
+Missing
+safety
+E0815
+Lavel
+Missing dist butor information
+Level
+iSSUC observed
+scre5
+CDSE
+missing
+JDSE
+SSuB OOSGNco
+Productgoesn"t power on
+Level|I
+Minor [ssue ohserved
+Wdod
+splinter
+Snarp point on
+product
+Laval III
+AQL Level
+Critical
+Minor
+Default
+Customer speclfic
+Aivets
+Clubs
+Wlrm
+Minor
+Hinges
+Hinor
+Maioi

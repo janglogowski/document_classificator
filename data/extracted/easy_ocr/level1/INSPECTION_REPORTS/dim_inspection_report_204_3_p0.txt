@@ -1,0 +1,113 @@
+Inspection performed by Carlos Garcia on 2024-04-21_
+are the recorded measurements compared against nominal tolerances:
+Refer to the dimensional log
+all component size readings;
+Check that all dimensions comply with ISO and company standards;
+This
+section details the measured values; tolerances;
+status
+The following data captures key
+dimensions and any devialions idenlified,
+Environmental
+Conditions: Temperature: 20.2
+C, Humidity: 43 %
+Item Code
+Pant Name
+Measurement
+Nomina
+Observed
+Delta
+Status (VIX)
+MR-160H
+Hex Bolts
+Thickness
+29,09
+29.14
++0,05
+M12
+JD-TOOw
+Shaft
+Thickness
+41.21
+41.14
+-0.07
+50Omm
+NE-2454
+Hex Bolts
+Depth
+62.56
+62.47
+-0.09
+M12
+CE-95L
+Graphite
+Hole 0
+68.90
+68.76
+-0.14
+Pad
+LP-SSSV
+Shaft
+Thickness
+35.55
+35.51
+0L04
+500mm
+AZ-300T
+0-Ring NBR
+Length
+67.31
+67.17
+-0,14
+60mm
+XD-ZIOR
+Hinge Set
+Width
+21.51
+21.32
+0.19
+LK-890B
+Wooden
+inner
+48.83
+49.01
++0.18
+Pallet
+Diameter
+AL-1150
+Powo
+Length
+99.34
+99.37
++0.03
+Switch
+GL-930S
+Baltery
+Deplh
+15,80
+15.94
++0.14
+Pack
+RM-B6ON
+Hex Bolts
+Depth
+94.86
+94.80
+0.06
+M12
+GH-770J
+0-Ring NBR
+Length
+34.80
+34.75
+-0,05
+60mm
+TY-350G
+Graphite
+Height
+83.45
+83.55
++0.10
+Pad
+Belo
+flags.

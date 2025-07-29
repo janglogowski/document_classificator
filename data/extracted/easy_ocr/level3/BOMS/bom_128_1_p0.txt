@@ -1,0 +1,92 @@
+BOM Report
+ID: BRAZIL
+Product
+MS-60OP
+Coordinator: Carlos Garcia
+Date
+2024-04-11
+Interna
+6675044
+119
+the materials tally for compliance
+with
+unig
+costs and batch codes;
+The component roster below includes
+Item
+Consumption
+Extra
+Qty
+UOM
+Description
+Rate
+Amount
+Remarks
+Insulation
+3.49
+Foam Pad
+1070
+pcs
+3.20
+147.20
+Eco
+Aluminum
+0.31
+compliant
+Bracket
+4.50
+54.00
+alignment
+Spacer
+1.62
+adjusted
+2mm
+0.15
+Certified
+patch
+Pack
+25.00
+200.00
+High
+2.02
+grade
+6202 Z2
+150
+3.00
+Far
+Rubber
+10%
+export
+0.55
+20.90
+High
+Wooden
+1.98
+grade
+Pailet
+15,00
+510.00
+Eco
+Epoxy
+compliant
+Resin Kit
+7.30
+197.10
+verified
+Check that component
+quantities align with production run requirements
+Total Amount;
+139.70
+Approved By: 
+Sourcing Department:
+Customer
+Order
+Or
+Review
+budget =
+allowances:
+Hinge
+Battery
+Bearing
+2.68
+Stopper

@@ -1,0 +1,65 @@
+Unit Configuration
+Frojucl;
+NE ZAGA
+Doqumoni No
+8/00050
+Proparod
+M Nowak
+Approvod UJy"
+NNowak
+Locaton; PIoni JA
+Dnlo; 202412422
+Thla wcllon dotalla Iho conllqurallon nrkdt parumolor sot Ior Ilw product , Ueo Ihla bhoot (o conllrm
+onglnoorlng roqulromonts und (olorancos Tho (ollowing Information oullinoe porformanco characloriellcs
+and doalgn doto; Chock Ihot oli mntorlol opocs oliqn wllh auppllor corllllcnilong. Thla roport oxiruct Ib
+proparud (or doain-vetiicotion audlta
+Modol Typo
+Pnoumallc Control Unit
+Oporallng Proauro
+2N0 br
+Throughput
+HOUmi
+Supply Vollago
+4Q
+160 Hz
+Sunvlcu nturvui
+I0UO
+Total Wolght
+20Ry
+Protactlon Clnad
+1P05
+OllTypo
+ILP 46
+Pump Type
+Fump'
+Dottory Copacity
+Roearvolr Copuclty
+CQ
+Coollng
+Nlr-coolud ollrudlator
+Noluo
+MM
+Q0<U(A)
+Working TompaRungu
+5Cl0 45 c
+Motor Powor
+IKW
+Fuuuuu Mutotu
+Powlor -coulod Sleol
+Wtcallon
+pm Inlino; 10 Nm
+Control Valvo
+Mununi Ovourio 32
+Tolum
+Malorlol ot Conetruc(ors
+Luhol
+Hnao
+Doarlgg 6202Z2
+Stulnloua Sluol JO4
+Inullod LubuPuu
+Iuuopluellc P olyurollunu (IF 'U)
+Connuclor *'
+Glua Hllud Nylon
+Hox UollaM1z
+Zinc-Plnlod Slool
+Vuhio

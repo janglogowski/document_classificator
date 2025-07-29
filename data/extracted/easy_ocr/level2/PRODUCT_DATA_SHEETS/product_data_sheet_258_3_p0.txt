@@ -1,0 +1,88 @@
+Unit
+Configuration
+Document No: PR-275
+Product ID; PL-6012
+Model
+Date:
+2024-09-01
+Uype
+Unit
+Zs0 dar
+Alr-coolcd
+Supply
+Filtration
+60 Hz
+Protection Class
+10 um
+retum, 25 pm
+Fname
+Materia
+sucton
+Control Valve
+Stainless _
+Rack
+Time
+Override 3/2
+Component Materials Overview:
+Part
+LED Light Strlp
+Composition
+sulated
+Glass-
+Filled Nyion
+Specification
+Hex Bolts M1?
+Thermoplastic Polyurethane
+Anticorrosive
+Zinc_
+(TPUI
+Class
+[olerance
+Power
+Ceramic
+raten
+Polycarbonate
+Electrica
+erjde
+6202 -
+Coppes
+Cooling Gel Pack
+Steel 304
+UL-Ilisted
+CE certified
+Hinge Set
+Anticorrosive
+Steel 304
+IP6Z rated
+Prepared by:
+Ross]
+Approved by: Jan Kowalski
+Hydraulic
+Power
+Flovi
+Rate
+Design
+Pretsure
+Lnin
+Coollng
+Voltage
+falator
+Mounting
+Stec
+Trame
+irame
+charging
+Manua
+Tube
+25mm
+-Plated
+Fusc
+IP67
+Oxide
+Svatch
+Bearne
+Scoiniess
+slicone
+Rubbe
+Stalnless
+Lauro

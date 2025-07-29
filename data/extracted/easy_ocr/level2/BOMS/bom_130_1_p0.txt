@@ -1,0 +1,97 @@
+COMPONENT BREAKDOWN
+Carlos Garcia
+Date: 2024-08-21
+Customer ID: FRANCE
+Coordinator;
+Crdcm
+Qfx: 491
+Product ID: QN-770H
+Interal No
+7342229
+rates. This extract shows the bill of components
+All entries reflect the latest inventory and supplier
+with budget allowances
+projected spend:
+Review the materials tally for compliance -
+and tota
+and material specifications before procurement:
+Please review the itemized Iist of parts
+Uom
+Rate
+Amount
+Remarks
+Item
+Consumption
+Extra
+Qty
+Description
+210
+6.30
+Imparted
+Ceramic
+2.67
+0%
+pCS
+Disc 8mm
+1.80
+18.00
+SKF
+Protective
+1.98
+296
+brand
+Sleeve
+summ
+0.60
+4.80
+SKF
+Copper
+3.46
+540
+brand
+Wire 3mm
+pcs
+12.00
+408.00
+Switch
+Controi
+3.11
+tested
+Panel
+OK
+Mount
+pCS
+0.15
+3.15
+Imported
+2.23
+Spacer
+Zmm
+0.55
+6.60
+EcO
+Rubber
+3,44
+0%
+pCS
+compliant
+Stopper
+pcs
+1.20
+15.60
+High
+Power
+1.78
+grade
+Switch
+for requisition
+Verify that all
+items meet
+This final review confirms that all items are ready
+the sourcing department's standards.
+462.45
+Tota
+Amount:
+Sourcing Department:
+Approved By:
+remark

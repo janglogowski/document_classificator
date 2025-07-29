@@ -1,0 +1,43 @@
+{
+  "engine": "easy_ocr",
+  "level": "level1",
+  "n_docs": 258,
+  "n_drawings": 258,
+  "train_size": 412,
+  "test_size": 104,
+  "accuracy": 1.0,
+  "classification_report": {
+    "document": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 52.0
+    },
+    "tech_drw": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 52.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 104.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 104.0
+    }
+  },
+  "tfidf_max_features": 5000,
+  "logistic_regression_params": {
+    "max_iter": 500,
+    "solver": "lbfgs",
+    "class_weight": "balanced",
+    "random_state": 41
+  }
+}

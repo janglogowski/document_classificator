@@ -1,0 +1,145 @@
+Component Dimensional Check
+Inspection performed by Anna Nowak on 2023-10-29.
+The inspection register below highlights any out-of-tolerance parts. Review recorded tolerances against
+enginearing specifications. Use this examination summary to confirm component coniormity- The following
+data captures key dimensions and ay deviations identified. Entries inciude bcth passifail markers and
+deviation magnitudes
+This section details the measured values, toleranccs
+and siatus
+Environmental Conditions
+Temperature
+"C, Humidity: 54 %
+Article No.
+Part Name
+Measurement
+Nominal
+Observed
+Diff
+Status (ViX)
+AL-115Q
+Wooden
+Hole
+85,86
+85.76
+0,10
+OK
+Pallet
+MR-I60H
+Steel Sneet
+Thickness
+17.58
+17.39
+0.19
+Ok
+A36
+SB-140D
+Wooden
+Height
+5.43
+5.51
++0.08
+OK
+Pallet
+AL-1150
+Height
+67.80
++Uus
+HF-3904
+Shaft
+Depth
+69,09
+69.10
++0,01
+500mm
+AL.115Q
+Set
+Width
+40.10
++0.02
+SB-140D
+Power
+Inner
+54.36
+54.24
+0.12
+Switch
+Diameter
+NU-440Z
+Steel Sheet
+Thickness
+54,19
+54,38
++0.19
+Ok
+A36
+NU-4402
+Beaning
+Herght
+74.24
+74.43
++0.19
+OK
+6202 ZZ
+XK-610U
+Set
+Innei
+89.64
+89.45
+0.19
+OK
+Dlameter
+JD-ZOOW
+Hinge SeL
+Hole
+6467
+67.62
+MX-450L
+Battery
+Lergih
+17.95
+18,00
++0.05
+Pack
+TX-820V
+Plastic
+Inner
+97.25
+97.27
++0.02
+OK
+Rivets
+Diameter
+PW-515Y
+Plastic
+Hole
+32,04
+31,86
+0.18
+Rivets
+SL-430M
+Rubber
+Length
+48.15
+48.16
++0.01
+Gasket
+bumm
+VR-94OT
+Set
+Hole
+43.35
+43.38
++0.03
+TR-ZOOB
+Battery
+Width
+20.67
+20.67
++0.00
+Pack
+Mlags-
+21.6
+Hinge
+Hinge
+Hinge
+Hinge

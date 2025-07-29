@@ -1,0 +1,99 @@
+Quality Review
+#6138410
+Date: 17.07.2025
+Product
+Z00w
+Customer
+FINLAND
+Item
+Description
+Tnermz
+Fuse
+Entries include bath visual and functional inspection items Reter
+the quality register tor sampling-plan reterences:
+Archive this list in the quality-management system Please revlew cach checklist point and mark the sampling results_
+Below are the items t0 be verified
+during the final product review;
+Audit Criteria
+Sampling
+Classification
+Remarks
+Level
+proquct
+Requirements
+Functionalitytest failed
+Level
+issue abserved
+Carton
+damagedor markings
+Level
+incorrect
+Uncorreckanenaaton
+Leve
+IssuE
+Jbserued
+Hinges
+DOSC
+Leve
+Ctlica
+Impacl
+Dustocbrs
+packaging
+Leve
+Not assembled
+per drawinp
+Leve
+reviet
+nstmiction
+manuz
+missing
+Level |
+damaged
+Paint smearing
+scratcnes
+Levci
+Necds revicw
+Incorrect parcode
+Leve
+Mlinarissue
+ansened
+Runbe
+exune
+piossiness
+Level
+mismatch
+Exposed nail with
+point
+Leveii
+Runhe
+Switch not working
+Ieve
+Critica
+Impact
+Wrong product size
+Missing safety labels
+Leve
+Necds review
+detect on housing
+Leve
+Critical impact
+Battery not included
+Leve-
+Needs review
+Sharp edges
+plastic
+Minor issue observed
+comnpanents
+AQL Level
+Critical
+aior
+Minor
+Default
+Customer
+specific
+Ninot
+Minat
+Ansidt
+Necds
+sharp
+Visuj

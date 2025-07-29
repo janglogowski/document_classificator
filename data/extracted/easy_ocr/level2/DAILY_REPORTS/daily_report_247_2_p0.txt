@@ -1,0 +1,112 @@
+Shift Summary
+Report No;:
+PR-904
+CustamHr
+BELGIUM
+Supervisor:
+Anna Nowak
+penartment
+Painting
+Shift:
+INicht)
+09-A
+2023
+Machine
+Task
+Techniclan
+Begin
+Flnish
+Total
+Remarks
+Temp
+Power
+Draw
+MC 208
+DrIlIng
+Mardalena
+14.30
+16,07
+Delay
+60.7
+2.20
+wltkowska
+MC-206
+Dawid
+11,15
+11,59
+Recallbrated
+64,8
+Oszmlanczuk
+MC 20}
+Pollshing
+Nadia Sauter
+06.30
+07.22
+73,4
+2.92
+MC- 205
+Cutting
+Piotr
+11.15
+12.43
+62,8
+2.55
+Lewandoivsk
+MC- 202
+Driling
+Bartosz
+08 00
+09,57
+74,4
+1,75
+Wawrzynlak
+MC 204
+Welding
+Plotr
+07.15
+08,09
+69,9
+2.,04
+Lewandawski
+MC- 205
+Pallshing
+wWiktor
+11,00
+11,59
+66.8
+2,97
+Kopczynski
+MC-207
+Assembly
+Agnteszka
+12,00
+13.22
+Recalibrated
+60.1
+1,91
+Zielinska
+MC-206
+Welding
+Dawld
+14,00
+14.26
+71.5
+1,15
+Oszmianczuk
+MC-205
+Assembly
+Dawld
+07,00
+08.58
+118
+2,08
+Oszmlanczuk
+Prepared by:
+peer
+Schmidt
+Approved by:
+peter
+Schmidt
+Timc
+Dr ine
+Delay

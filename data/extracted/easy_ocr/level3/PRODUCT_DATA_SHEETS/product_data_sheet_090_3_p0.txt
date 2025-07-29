@@ -1,0 +1,28 @@
+Unit Data Specification
+Product IDz
+BZ-660F
+Date
+2023-08-30
+Report No ; 2780606
+Operating Pressure
+480 bar
+Unit Type
+Cooling Circulation
+System
+Operating Voltage
+4Q0V L50 Hz
+Flok Rate
+48 Umin
+Working Temp Range
+10 Co 50 C
+Charging Time
+Gear Pump
+Motor Power
+55KW
+Pump UYpe
+Afcooled oil radiator
+Z0dBIAL
+Cooling
+Noise Letel
+Approved by: Jan KowzIski
+Prepared by: Carlos Garcia

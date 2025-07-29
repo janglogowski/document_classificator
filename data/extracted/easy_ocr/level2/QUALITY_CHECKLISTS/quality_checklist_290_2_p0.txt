@@ -1,0 +1,43 @@
+Quality Checklist
+Check that inspectian steps fallow the approved procadure
+All checklist entries Are timestamped for
+traceabiliry. Ensure allnon conforming marks are clearly documented
+This closure summary indicates
+compliarce with inspectian criteria.
+Product ID
+Xk-G1OU
+Customer ID
+FINLAND
+Item Description
+Haat Sink ALU
+Review Points
+Check
+Severity
+Notes
+ntunsiir
+Component Criteria
+Crlca
+alor
+Tnom
+OnHold
+ISsuC
+Wrong product siza
+obseived
+Colar milsmatch
+Lcvel
+Critical Impact
+Rubber texture or
+Needs review
+glossiness msmatch
+Exposed nail with =
+Minor issue
+Level Il
+obsenved
+Carton I5 damagcd e
+Levali
+markings incorrect
+Supervised by:_
+Date:
+Minote
+Ghoip
+pDmt

@@ -1,0 +1,54 @@
+'Product Overview
+Document No.: PR-591
+Product ID: XD-71OR
+Dale:
+2024-07-14
+Model Type
+Cooling Circulation
+System
+Design Pressure
+300 bar
+Throughput
+60 Umin
+Operating
+Reservoir Capacity
+120
+480 V / 60 Hz
+Batter Capacky
+Charging Time
+Motor
+LS5kW
+Control Valve
+Manuall Override 312
+Working
+emp:
+10'C to 50"€
+Protection
+IP54
+Pump Type_
+Gear
+Component Materals Overviewz
+Item
+Base
+Bearing 6202Z2
+Stainless_Steel 304
+Specification 
+Nul M6
+P6Z rated
+Zinc-Plated Steel
+Wooden
+Heat-resistant
+Gasket
+Trealed Pine Wood
+UL-listed
+Sheet AA
+Nitrile Rubber_(NBR)
+RoHS compliant
+Prepared by: Jan Kowalski
+Approved hy: Peter Schmidt
+Voltage
+Powel
+Class
+Range
+Pump
+Pallel

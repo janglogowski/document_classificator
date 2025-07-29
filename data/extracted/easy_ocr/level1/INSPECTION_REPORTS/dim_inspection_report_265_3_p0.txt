@@ -1,0 +1,110 @@
+Component Dimensional Check
+Inspection performed by Peter Schmidt on 2023-09-17_
+The inspection register below highlights any out-of-tolerance parts; This summary of measurements sunports
+metrology traceability Belov' are the recorded
+measurements compared against nominal tolerances
+Check that all
+dncnsion
+comply with ISO and company standards 
+Enuironmentz
+Conditions: Temperature
+24.1
+Humidity: 42 %
+Article No:
+Component
+Nomina
+Delta
+(Vix)
+I-3506
+Plastic Rivets
+Thickness
+88.56
+88.53
+~0.0}
+PASS
+VF-ZZOD
+Kubber
+width
+35.17
+34.98
+0.19
+PASS
+Gasket 8Omm
+SB-140D
+pepth
+6.51
++0.11
+PASS
+NU-440Z
+Wooden
+Wme
+33.42
+33.52
++0.10
+PASS
+palel
+Diamerer
+WD-1805
+Hex Bolts
+Innet
+65.64
+65./2
++0.08
+PASS
+M12
+Diameter
+AZ-JODT
+Bearing 6202
+Length
+87.21
+87.35
++0.14
+PASS
+TL 90OX
+Steel Sheet
+Depth
+82.40
+82.48
++0.08
+PASS
+MS-GDOP
+Plastic Rivets
+width
+00o
+PASS
+VR-9401
+Plastic Rlvets
+Thickness
+PASS
+SL 430M
+Shaft 50Omm
+Length
+42.08
++0.15
+PASS
+PW-51SY
+NBR
+Length
+37,36
+37,52
++0.16
+PASS
+60mm
+GL-9805
+Plastic Rivets
+Thickness
+9.69
++00-
+PASS
+VR-940T
+Steel Sheet
+Length
+33,06
+33,03
+PASS
+A36
+Dim-
+Actuj
+Status
+Hinze
+0 Ring

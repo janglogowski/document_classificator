@@ -1,0 +1,114 @@
+Inspection Summary
+#5818105
+Date: 17.07.2025
+Product ID
+VF-220D
+Customer ID
+SWEDEN
+Item Description
+0-Ring
+BR s0mm
+This summani
+supports the praduction-release quality gate, The follawing table outlines inspection criteria and
+classification levels. Check that inspection steps follow the
+pproved procedure. Below are the iters to be verifled
+during the firal product review;
+Archive this list
+the quality-management system. Please reviev each checklist point
+and mark the sampling resuits.
+Quality Check Items
+Sampling
+Classification
+comments
+Leve
+Item Specs
+Packaging does not match signed
+Levell
+Needs revlew
+sample
+Unstruction Manu?
+missing .
+Level WII
+damaged
+Dust/debris Inside packaging
+Levci
+review
+Rubber Switch
+working
+Levei
+Critical impact
+Rubber texture
+Elossiness
+Level II
+Minar issue observed
+Mismairch
+Missing satety labels
+Level
+Minor issue
+nbsened
+assembled
+Dmawing
+Leue
+Needs revie;
+Wrong product size
+Leve
+Critical impact
+Screvs
+Dose
+Missing
+ISue
+Dbsened
+Carom
+damaged or markings
+Needs review
+icorrecl
+Satc
+nocncingcc
+Needs revlewv
+Exposed nail with shatp
+doint
+LCVC
+Needs review
+Shipping mark is illegible
+Level /
+Minor issue observed
+missing
+Product doesn'
+poici
+Nceds rcvicw
+teeuete
+pans inside
+packaging
+evei
+Ccitica
+impact
+Wooc
+splinter
+snand
+DDint on
+Level II
+Minor issue ahserved
+procuct
+Missing Iogo
+Watnin-
+adel
+Meeds review
+live insect
+packaging
+Leve
+Needs
+FeURAI
+AQL Level
+Crilicai
+Maior
+Mnur
+Default
+Customer specifle
+Overall quallty status Indicates compliance with defined AQLlevels Corrective actlons are scheduled for identified
+issues; Ensure that a | remarks have correspanding evidence attachments This final note confirms the checklist is
+complete and approved. Archive this summary
+the audit-readiness folder. Use this closure report to update the
+quality KPI dashboard.
+Nccds
+Minor
+Deac

@@ -1,0 +1,71 @@
+Component Overview
+Project:
+AZ-300T
+Interal No
+9888114
+Prepared
+Lanos
+Garcia
+Approved By:
+Carlos Garcia
+Location: Plant 1C
+Date: 2023-12-23
+The parameter register below includes operating limits and ratings- Use this sheet to confirm engineering
+requirements and tolerances, Check that all material specs align with supplier certifications
+This data sheet
+provides key specificalions and material delails_
+Entries include both mechanical and electrical
+specifications Refer to this configuration summary for unit-designation mapping
+All data entries
+traceable
+design revision history-
+Configuration Type
+Cooling Circulation
+Design Pressure
+180 bar
+System
+Throughput
+48 Lmin
+Operating Voltage
+480 V / 60 Hz
+Cooling
+Water-cooled
+Battcry Capacity
+10 Ah
+exchanger
+Pump Type
+Vane
+Working Temp
+Range
+10'C
+559C
+Mounting
+Wall-mounted
+Total Weight
+230 kq
+Noise Level
+70 dBL
+Dimensions (LxWxH)
+1000
+650X 100Q mm
+Oil Iype
+Charging Time
+Motor Power
+Protection Class
+Material of Construction:
+Subcomponent
+Raw MateriaL
+Connector 2P
+Glass-Filled Nylon
+Thermal Fuse
+Ceramic Oxide
+Cooling
+Silicone Rubber
+Steel Sheet 436
+Carbon Steel 436
+etlon
+Tape Roll
+Tetlon
+Tape Roll
+are
+Pump

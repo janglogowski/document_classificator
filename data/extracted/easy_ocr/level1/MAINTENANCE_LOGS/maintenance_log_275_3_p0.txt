@@ -1,0 +1,147 @@
+Authorized bx'
+Carlos Carcia
+Operator:
+Anna Nowak
+Check that
+all downtime events
+are properly categorizec
+logged. Entries include
+WoMz Orden
+technician assignments
+and part changes
+Tc iCllowina cntrics Gulall pruventivc
+COICclvc MainicmancC
+asks
+AlI tecnnician comments ar
+recorded ior maintenance trend analysi5
+Use this
+summan
+torecast pans rediacem ent anq resouice
+nee0s
+Section
+Unit Code
+MC-257
+MC-230
+KC-254
+MC-203
+MC-211
+MC-293
+Machine
+Hydraulic
+CNC Milling
+Paint
+Latne
+Laser
+Paint 
+Machine
+senvice
+Type
+Inspeclion
+Inspeclicm
+corteclive
+PrevemvB
+Correclwve
+Prevenlive
+Technician
+Jankowals-E
+Carlos Garcia
+Anna Nowak
+Anna Nowak
+Laln
+ROss
+Carios
+Garcia
+Duration
+Comments
+Switch
+Li-Ion battery
+Switch
+Wooden
+Tightened
+Tightened
+contacts
+coniacis
+cosecos
+Dose holts
+cleaned,
+3enviced
+cleaned
+checked
+Section B:
+Unit Code
+MC-257
+MC-203
+MC-211
+MC-2J0
+MC-293
+MC-254
+Machine
+Audraulic
+Lathe
+Laser Cutter
+CNC Milling
+Paint Bcoth
+Paint Boath
+Ptess
+Macnine
+servict
+Uxpe
+Inspcction
+Cccct
+Provcnc
+Jnsoccllon
+Wspcclion
+CccctyC
+Technician
+Laura
+Rossi
+Lauta
+Peter Schmidt
+Cados
+Jan Kovalski
+Laut?
+Duration
+Comments
+Tightened
+Sensor
+Svatch
+Waocen
+Calibration
+Wocden
+Icose Boits
+recalibraled
+conlacis
+paliet
+check OK
+pallet
+cleaned
+checked:
+checked
+Archivethic
+summar
+CMMS far future
+rererence
+Coniirm that
+cctreciive
+actions were
+properi
+Cinsed ouI
+Survice suMMarius nave been lorwardud (0 Ihe engineeting
+dam
+Flag
+any recurring issues lr rool-cause invesligalion
+Use this closure note
+update the maintenance KPI tracker.
+Uptlme (%)
+Error Count
+Comments
+56%
+Boll lighlened
+Booth
+Cutler
+Bootn
+Pross
+Decl
+Rosz
+Carcia
+Rot?i

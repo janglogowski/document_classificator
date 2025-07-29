@@ -1,0 +1,125 @@
+Machine
+Summary
+2024-02-12
+Entries include work orders
+technician assenmeng
+and part changes
+This secticn captures equipment statusand any maintenance
+Ohsemvations
+Use this record
+plan upcoming upkeep andrepairs
+Pleaet
+revie " this Icg fcr recent service dates; types; and
+FAmAr
+Ensutea
+chack 4an
+completed
+servicing - Tnis maintenance
+AxTacl
+prepared far
+corpliance audit trails:
+Spart Punsused
+Part Lamc
+Part No
+Qt Used
+06eskem
+P-7187
+Hinae
+P-155`
+Machine ID
+cquipment
+Senvice Ivp e
+rechnician
+Duration
+Previous
+comments
+Senvire
+MC-228
+Rydraulic
+Preventive
+Larlos Garcia
+2023-09-2b
+Muchiened
+Prart
+Inoetnlts
+MC-252
+Lonvevor
+Inspection
+Nowar
+202A-0J-ZO
+Sitch
+Belt
+Contacts
+clcantn
+MC-218
+Convevor
+Unenectnn
+Kowalski
+2023-11-27
+Calihratinn
+Belt
+checkOk
+MC-292
+Assembly
+Preventie
+Ian Kowvalcki
+2024-11-12
+Alignment
+Robol
+aclusted
+MC 239
+CNC Milling
+Lotrectivc
+Jan Kowalsh
+2023- 10 18
+Worn Raskct
+Machite
+fepaced
+Kic/54
+Cec
+cutler
+Inspeciion
+Dtos Gurcia
+Z025 03-19
+MC-289
+Paint Bootr
+Corrective
+Carlos Garcia
+2024-08-26
+Woodlen
+pallet
+checrad
+c 253
+Luscr
+cutlcr
+Lorrectivl
+Pclcr
+ZUz Ueze
+Refillcd =
+5chmldt
+IHLP 461
+MC-294
+convevor
+Lcrrective
+Peter
+2uz"-03-2u
+Wogoen
+5chmidt
+pallet
+checked
+MC-257
+Paint Bootr
+Prevenlivt
+Kowalaii
+7025-06-14
+Wacaer
+checr€0
+Approvrd
+Pcter schmidt
+Sennredihic
+Carins Garria
+Log -
+Kealety
+dunint
+scaling
+hingc

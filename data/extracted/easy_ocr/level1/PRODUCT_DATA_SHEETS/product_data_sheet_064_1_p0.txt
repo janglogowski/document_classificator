@@ -1,0 +1,63 @@
+Unit Data Specification
+Project:
+TL-9OOX
+Report No:
+4833702
+Prepared By:
+Kowalski
+Approved By:
+Kowalski
+Location: Plant 34
+Date; 2024-09-09
+Use this sheet to confimm engineering requirements and tolerances: This data sheet provides key
+specifications and material details. Refer to this configuration summary for unit-designation mapping
+The
+following information outlines performance characteristics and design data: This report extract
+prepared
+for design-verification audits. Confimm that performance ranges comply with project requirements 
+Configuration Type
+Pneumatic Control Unit
+Rated Pressure
+300 bar
+Fluid Flow
+75 Umin
+perating Voltage
+230 V / 50 Hz
+Frame Materal
+Aluminum Frame
+Charging Time
+Noise Level
+68 dBLA)
+Pump Type
+Vane Punp
+Filtration
+10 pm retum; 25 um
+Dimensions (LxWxH)
+1200
+700 * 1100
+suction
+Battery Capacitx
+10 Ah
+Motor Power
+I1kW
+Qil Type
+HLP 46
+Protection Class
+P65
+Total Weight
+250 kg
+Cooling
+Waler-cooled
+exchanger
+Reservoir Capacity
+120
+Service Interva
+1000
+Control Valve
+Manual Ovenide 3/2
+Mounting
+Skid base with vibration
+pads
+Working Temp: Range
+5FC
+45"C

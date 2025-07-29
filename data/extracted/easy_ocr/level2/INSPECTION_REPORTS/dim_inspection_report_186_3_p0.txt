@@ -1,0 +1,80 @@
+Inspection performed by
+Rossi on 2024-04-02.
+Item
+Code
+Part Name
+BZ-660F
+Bearing 6202
+Measurement
+Target_
+Diff
+Wiath
+44,42
+Statu
+(Vixi
+44.56
+t014
+AL-1150
+Bearing 6202
+Thickness
+44.17
+44.23
++0.06
+TX-820v
+Graphite Pad
+Unner
+64,99
+65.00
+0Oi
+Diameter
+XD-710R
+Shaft SOOrnm
+74.39
+74.48
+Tu 09
+Diameter
+QN-77044
+Shaft 50Omm
+ength
+69.86
+NE-2454
+Graphite Pad
+unickness
+69.66
+0.20
+Ty-350G
+Hex Bolts
+Depth
+0o.96
+M12
+68.87
+0,09
+MC 540X
+Switch
+Width
+ZR-ZO5R
+Rubber
+Jo-WS
+50.06
+Wicth
+28,44
+Gaske
+Gummt
+28,55
++0.11
+VR-940T
+Battery Pack
+Hole
+MC-S4OX
+Hex Bolts
+Thickness
+47.55
+47.72
++0.17
+M12
+25.45
+25,55
++0.10
+Laura
+Actua
+Poxc

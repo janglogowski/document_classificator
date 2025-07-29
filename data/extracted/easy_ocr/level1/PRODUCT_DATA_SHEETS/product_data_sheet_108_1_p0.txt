@@ -1,0 +1,84 @@
+Product Overview
+Project;
+LK-8G0R
+Interna
+9424119
+Prepared By:
+Caros GGarcid
+Approved
+Lauio
+Kossi
+Locatian: Pant I6
+Date: 2025 06-21
+The
+following information outlines performance characteristics and design data, This technical
+aveniei
+supports the
+product-release checklist. Entries include both mechanical and electrical specifications This data sheet provides key
+specifications and
+Materia
+details. Use this spec sheet
+validale assembly instructions. This section details the
+contiguration and parameter set for the product;
+Unit Type
+Pneumatic Control Unit
+Operating Pressure
+210 bar
+Fluid Flow
+48 Limin
+Operating Voltage
+230V / 50 Hz
+Motor Power
+11 kW
+Noise Leve
+<72 dBIA)
+Battery Cal
+Protection Ciass
+Working Temp. Range
+5"Cto 45 C
+Total Weight
+250
+Frame
+Mlateria
+pavoer-coate n
+Steei
+Qil Type
+HLP 68
+Charging Time
+Filtration
+HML
+1QuM
+remrn
+Dimensions (LxWxH]
+1000
+650
+UUU tmi
+Reservolr
+Capacity
+Cantrorvane
+Proporticna
+Type
+Vanc
+SCrvicc
+Intenva
+1000
+Cooling
+Water- cooled exchanger
+Material
+Lanstruction;
+Part
+Raw Material
+Rubber Gasket 8Omm
+Nitrle Rubber INBR)
+Fuse
+ceramic Oxide
+Stee
+Sheet 436
+Carbon Steel 436
+Gasket
+Nitrile Rubber INBR)
+pacity
+inline
+Pump
+Pumip
+Shcel

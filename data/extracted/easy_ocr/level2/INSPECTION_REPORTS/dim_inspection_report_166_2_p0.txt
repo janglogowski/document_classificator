@@ -1,0 +1,61 @@
+Component Dimensional Check
+Jtaowalsk
+nspellor
+Inspeclion Date
+7074-Uz
+ArticleNo
+TR-ZOOP
+HF-3904
+EJJJOX
+CE-9051
+AM-BGon
+Cane
+Hex Bolts M1Z
+Qpaite
+Battery Pack
+ShalEOQm
+Baitery Pack
+Din
+oin
+innee
+Diamete
+Inner Diameter
+Heich(
+Depth
+Nominal
+80,30
+67.17
+88 18
+60,.02
+80.28
+67.26
+5.0
+Della
++014
+~0.OG
+Pass/Fall
+3455
+Cae
+PAcS
+PAS
+Ensure
+5atu
+flags
+updated In the quality manapement system; Flag any componerts requiring
+~machining Or
+adjustment Companents failing inspection requlre Immediate review and corrective action
+Unstrument Calibration Log:
+Instrument
+Serial No.
+Callbratian Date
+Microinelei
+62735
+2024-11-05
+Lasem
+Scamnec
+83583
+2025-01-15
+CMxn
+53032
+2024-08-10
+Aclui

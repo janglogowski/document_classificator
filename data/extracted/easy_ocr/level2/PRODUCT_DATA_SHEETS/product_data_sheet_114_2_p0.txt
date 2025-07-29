@@ -1,0 +1,57 @@
+Component Overview
+Ensure all referenced standards are up t0 cate. Use this spec shect to validate assembly instructions.
+Eniries include both mechanical and electrical specifications
+This rApont exiract
+prepared for dosign-
+verificalion audits. Use this sheet to confirn ergineering requirements and tolerances_
+Thls data sheet
+provides key specificalions and materiai details.
+Producl ID
+FT-730X
+Document Na.:
+211653]
+Prepared by: Peter Schmidt
+Approved by: Anna Nawak
+Date
+2025-08-24
+Configuration Type
+Pneunalic Control Unit
+Rated Pressure
+210 bar
+Throughput
+48 Lmin
+Supply Voltage
+480 V / 60 Hz
+Pump Lype
+Piston Pump
+Service Interval
+10001
+Motor Power
+KWN
+Materizi choices and process cat3 have been verified for compliance
+All specifications meet the design
+requirements and industry standards Daia siget has heen peer-reviewed by the engineering tean.
+Document conlrol numbers are included fcr traceability. This summary reflecls the latest revision of the
+praduct data. Refer t0 parametor table for operating ranges and tolerances;
+Malerial
+Constuclion:
+Subcomponent
+Base
+Gaskel Sheel AA
+Nirile Rubber (NBRI
+Pressure Valve
+Brass CZ12-
+Bearing 8202
+Stalnless Sleel 304
+Cable
+Pack
+Nitrile Rubber (NBRI
+Hellbi_ape Kol
+Tellon Tape Roll
+Heat Sink
+Aluminun
+6061-76
+Wiring Looni
+PVC (Rigid;
+Insulated Iube 25iM
+Thermoplastic Polyurethane (TPU)

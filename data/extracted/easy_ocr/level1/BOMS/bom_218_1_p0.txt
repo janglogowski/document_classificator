@@ -1,0 +1,78 @@
+BOM Report
+Customer ID; FRANCE
+Coordinator; Peter Schmidt
+Date; 2025-02-22
+Product ID: KP-320E
+Internal No.: 3663430
+Order Qty: 439
+This document provides
+detailed breakdown of all components required for the assembly process
+No
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Hinge Set
+2.24
+1090
+pcs
+97.50
+Urgent
+Copper
+0.60
+16.20
+Li-Ion
+Wire 3mm
+battery
+installed
+Spring
+0.88
+pcs
+0.05
+2.30
+ISO-
+Washer
+verified
+M1o
+Plastic
+1.94
+pcs
+1.10
+4.40
+High
+Cover
+grade
+150x150
+Power
+1.18
+pcs
+1.20
+37.20
+Eco
+Switch
+compliant
+Shaft
+pcs
+8.00
+48.00
+Urgent
+500mm
+Gaskat
+.95
+pcs
+1.25
+17.50
+ROHS
+Sheet Ad
+compliant
+Verify that all remark items meet the sourcing department's standards. Any deviations from standard
+pricing have been annotated here_
+Total Amount:
+223.10
+Approved By:
+Sourcing Department:
+Item

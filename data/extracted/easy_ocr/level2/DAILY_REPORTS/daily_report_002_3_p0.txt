@@ -1,0 +1,83 @@
+Shift Summary
+Report No:: PR-158
+Customer: NORWAY
+Shift:
+(Evening)
+Date: 08-11-2024
+Machine
+Task
+Operator
+From
+Motal
+Remarks
+Status
+duration
+MC-203
+Cutting
+Magdalena
+10.30
+11.37
+Delay
+Completed
+Witkowska
+MC-203
+Drilling
+Jan Kowalski
+07:15
+08.43
+Recalibrated
+Completed
+MC-202
+Welding
+Magdalena
+12-00
+13.24
+Delay
+Completed
+Witkowska
+MC-201
+Welding
+Przemystaw
+13-00
+14.21
+Recalibrated
+Delayed
+Wasik
+HC-207
+Drilling
+Agnieszka
+08.30
+08.57
+Recalibrated
+Completed
+Zielinska
+MC-201 .
+Welding
+Dawd
+14-00
+1442
+Recalibrated
+Completed
+Oszmianczuk
+Part ID
+Target Qty
+Produced
+Rejected
+Rejection 4
+Rework Qty
+Comments
+Qty
+Qt
+GL-9805
+217
+203
+6.4590
+Scrap
+contifmeo
+WD-1805
+5.8810
+PW-S1SY
+136
+5690
+Approved by:
+Prepared by: .

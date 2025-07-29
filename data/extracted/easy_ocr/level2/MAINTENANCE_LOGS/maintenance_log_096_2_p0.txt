@@ -1,0 +1,135 @@
+Machine Log Summary
+2025-04-02
+Check that
+downtime events
+propeti
+caieoctizeo
+ooned
+Below [
+tne summan
+senice
+actions
+downiimes for pach machine
+Use this summary
+forecast parts replacement
+and resoumce neads
+Entries include work
+cidcns
+technican Jcs
+lgnments
+and part
+technician corumcne
+Tccococd
+ramnicnancetrend
+analys $.
+Spare Parts Used:
+Part Name
+Pamt No
+aty Used
+Hudralic Hose
+P-1630
+Oil Filter
+P2adq
+Sunsor Medule
+P-5276
+Hydraulic Hose
+P-6842
+Machine
+Machine
+Type
+Operator
+Duration
+Last Cneck
+Area
+Comments
+MC-270
+PASM?
+Coteci
+Lara Rocsi
+2023-11-13
+Sunsar
+Cutter
+recalarated
+MC-283
+Hydraulic
+Cotrechive
+inna
+2024-0g-11
+Replaced
+Voivak
+5A)
+MC-218
+Assembly
+Preventive
+2025-01-17
+No issues
+Rohot
+Schmidt
+touno
+MC-211
+Packaging
+Prevantive
+Larios
+2023-11-26
+Changed oil
+Garcia
+und Iillets
+MC- 249
+Packaging
+Correcive
+Peterf
+2025-06-27
+Llon
+Schmidt
+battery pack
+seniced
+MC-2O8
+Paint Bocih
+Inspeclion
+Lama Pocs
+2024-07-12
+Warn
+gasket
+renlaced
+MC-281
+Paint Booth
+Preventive
+Peter
+2024-03-30
+Sensor
+Schmidl
+Tecalibraled
+MC-252
+Plasma
+Inspcclicm
+Petcr
+2025-01-12
+Alianmcnl
+Cutter
+Schmidt
+hinge3
+adimshed
+MC-234
+Packaging
+Preventive
+Laura RosSt
+2024-11-27
+No Issue5
+Tduny
+MC-269
+Convevor
+Preventive
+Peter
+2025-01-13
+Sensor
+Belt
+scnmidt
+recalorated
+Approved by:
+Peler Schmidt
+Seniced ny
+Carlos Garcia
+Gnd
+changos
+Rresh
+Peler

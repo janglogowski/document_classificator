@@ -1,0 +1,74 @@
+Unit Configuration
+Use this sheet to confim engineering requirements and tolerances: This technical overview supports the
+product-release checklist This section details the configuration and parameter set for the product; This data
+sheel
+provides key specifications and material details_ All data entries are traceable
+design revision
+history.
+Product
+PW-515Y
+Document No;:
+PR-230
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski
+Date: 2024-10-26
+Configuration Type
+Pneumatic Control Unit
+Design Pressure
+300 bar
+Throughput
+48 Lmin
+Operating Voltage
+230
+S0Hz
+Frame Material
+Powder-coated Steel
+Filtration
+10 pm return
+25 Hm
+suction
+Tota
+Weight
+'230 kq
+Working Temp Range
+d0?
+t0 50"C
+Check that all section headers follow the product template.
+Document control numbers
+included for
+traceability
+Ensure glossary terms match the engineering nomenclature.
+This closure note indicates the
+data sheei
+ready for release. Flag any missing parameters for urgent specification updates
+summary
+comments have been recorded
+the revision log
+This summary reflects the latest revision of the product
+data:
+Material
+Construction;
+eM
+Base
+Wiring
+oom
+PVC
+Rigid)
+Conncco
+Glass-Filled Nylon
+Wooden
+Teated Pine
+ond
+Display
+ABS Plastic
+Pressure
+Valve
+Brass CZ121
+Pacy
+Nitile Rubber (NBRL
+ED Light Strip
+Glass-Filled Nylon
+Bearing 6202
+Stainless Steel 304
+nsulaled Tube 25mm
+Thermoplaslic Polyurelhane (TPUL

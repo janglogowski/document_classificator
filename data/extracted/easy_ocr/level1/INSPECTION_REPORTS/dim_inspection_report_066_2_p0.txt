@@ -1,0 +1,70 @@
+Dimensional
+Supervisor
+Carlos Garcia
+Inspection Date
+2024 09-29
+Use Inis results summary t0
+any corrective aclions. Below are Ihe recorded measurements compared
+against nominal tolerances_
+Entries include both
+passifail markers and deviation magnitudes. All measured
+values are timestamped for audit purposes
+Product Ref
+TY 350G
+TL-90OX
+NU 4402
+GH7Z0J
+RX 3102
+NU 4402
+Part Name
+Graphite Pad
+Sct
+Puocer
+Wnoogcn
+Hinge Set
+0-Ring NBR
+Gasket
+Pallet
+60mm
+4wmm
+Measurement
+Lengin
+Height
+Width
+Height
+Inner
+Thickness
+Diamieler
+Target
+66.61
+65.64
+44 77
+27,00
+10.13
+Observed
+5.69
+66.69
+65.53
+44.86
+27.08
+10.31
+delta
++0.13
++0.08
+Pass Fail
+Confirm that pass rates meet the defined acceptance criteria_
+Review failed items against the corrective
+action register . Refer t0 deviation column for any out-of-tolerance measurements
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+CMm
+52755
+2025-01-31
+CMm
+11173
+2024-10-27
+Log
+trlgger
+Hinge

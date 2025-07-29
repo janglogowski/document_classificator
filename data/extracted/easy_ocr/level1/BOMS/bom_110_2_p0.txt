@@ -1,0 +1,34 @@
+Customer ID: FRANCE
+Prepared by: Peter Schmidt
+Product ID: XK-61OU
+Internal No:: 1090953
+This document provides
+detailed breakdown of all components required for the assembly process
+This summary lists every item required
+with per-unit pricing
+etails. Refer to this parts register to
+plan raw-material purchasing: Ensure each component meets the specified quality standards_
+Review the materials tally for compliance with budget allowances:
+Item
+escription
+Power Switch
+Wooden Pallet
+Bearing 6202ZZ
+Qty
+140
+759
+603
+UOM
+pcs
+Unit Price
+15.00
+Amount
+168.00
+11,385.00
+904.50
+Remarks
+High
+Switch tested OK
+compliant
+TOTAL: 12,457.50
+grade

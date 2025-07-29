@@ -1,0 +1,122 @@
+keuan No:
+PR 194
+Customer
+BELGIUM
+Supervisor
+Anna Nowak
+Department:
+Assembly
+Shife:
+(Evening)
+17-02-2025
+Ensure any downtime incidents are noted
+tortolow-Um
+Use this shift summary to drive continuous improvement
+actians. The follawing data captures
+nraductian
+targets,
+actual output
+Jnd any deuatians
+Belan
+an Oveneu0n
+machine performance and output figures for today s shift:
+Machine
+Process
+Technician
+Begin
+Total
+Temperature
+Time
+Oca
+MC-203
+Cutting
+Wiktor
+08.15
+09.10
+78.0
+2.52
+Kopczyriski
+MC 202
+Assembly
+Wiktor
+11.15
+12.19
+NYA
+59.0
+1.45
+Kopczyriski
+MC-204
+Cutting
+Dawid
+11.00
+12.32
+Recalinratec
+58.3
+1.68
+Oszmlariczuk
+MC- 205
+cutting
+przemysiav:
+14.30
+15.25
+Delay
+70.4
+2.90
+Wasik
+MC-201
+Polishing
+Jar Kowalski
+11.30
+11.56
+56.5
+M-2O1
+Drilling
+Magdalena
+07.15
+07*42
+71.8
+1,68
+Witkowska
+MC-204
+Drilling
+Mateusz
+12.15
+13.08
+N/A
+76.8
+2.55
+Janzyna
+MC-201
+Welding
+Wiktor
+07.30
+08.32
+Delay
+71.7
+1.91
+Kopczynski
+MC 208
+Drilling
+Magdalena
+08.00
+09.50
+NYA
+77.5
+1.74
+Witkowska
+MC-204
+Welding
+Baosz
+13.15
+13.45
+Delay
+57.9
+1.07
+Wawryniak
+Prepared by:
+Peler Schmlg
+Approved bv:
+Ljrios
+garcid
+Notes
+powier

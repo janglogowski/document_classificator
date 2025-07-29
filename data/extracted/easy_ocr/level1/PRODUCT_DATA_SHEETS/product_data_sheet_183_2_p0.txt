@@ -1,0 +1,59 @@
+Product Overview
+Use this
+confirm
+engineering requirements and tolerances
+Refer
+this configuration summary for unit
+designation mapping: This report extract Bn
+preparcc
+for design-verification audits
+Confirm that performance ranges
+comply with project requirements Check that all material specs align with supplier certifications.
+Product ID:
+TL-9OOX
+Renart
+PR-63
+Prepared bv: Peter Schmiot
+Approvem
+Dy; Laura Rassi
+DatP
+2025-01-28
+Configuration Lype
+Hudraulic Powe
+Unit
+Design Pressure
+300 Dar
+Throughput
+60 L{min
+Voltage
+480
+G0 Hz
+Filtration
+um inline, 10 um
+return
+Service Interval
+500
+Mlator Power
+5,5kW
+Check that all section headers
+follow the product template
+Confirm that all test conditions af accurately
+represented
+Materla
+chaices and process data have been verified for compllance
+Thls summary reflects the latest
+revision ofthe
+data, Use this summary
+CrosE
+check with BOM and inspection
+Doms
+E Ossary
+crMS
+match the
+cneinccrime
+nomicnciaiuic
+Data sheet has been peer-reviewed by the engincering team
+shect
+No :
+product
+Ensune

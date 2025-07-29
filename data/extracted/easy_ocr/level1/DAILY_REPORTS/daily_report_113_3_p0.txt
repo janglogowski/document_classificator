@@ -1,0 +1,125 @@
+Report No:: PR-438
+Customer: GREECE
+Shift: B (Evening)
+Date: 17-09-2023
+Machine
+Operation
+Warker
+From
+Time Spent
+Uwagi
+Status
+MC-20Z
+Cutting
+Anna Noval
+0C:15
+09.57
+Recalbraleg
+Delayed
+MC 206
+Drillng
+Nadla Sjulli
+15.35
+Comipleleo
+MC 206
+Polishing
+Agnieszka
+09.30
+11.04
+Recalibrated
+Completed
+Zielinska
+MC-207
+Drilng
+Naule
+Sauler
+10.00
+1075
+NA
+Delaved
+MC- 209
+Polishing
+Mateusz
+06.30
+07:20
+Recambralcc
+Delayed
+Jarzvna
+MC-201
+Drilling
+Knno
+Nowar
+09.0u
+10.59
+deijy
+Completec
+MC-207
+Assembly
+Dawid
+09.30
+10.12
+Completed
+Osulanczuk
+MC 208
+Asscinbiy
+Kowalski
+L2.0U
+12.50
+Delay
+pFOPress
+MC-209
+Cutting_
+Nacia Sauter
+07i
+08.54
+Kecambrated
+progress
+MC-201
+Cutting
+Bartosz
+10.15
+10.46
+Recalibratec
+profresS
+Wavrzyniak
+MC-204
+Assembly
+Magdalena
+13,30
+15,00
+NYA
+Delaved
+Witkowska
+MC-205
+Cutting
+Wiktor
+08.15
+08.56
+In progress
+Kopczyrski
+Item
+Planned
+Achieved Qty
+Defect Qty
+Failure
+Rework Qty
+Uwagi
+Output
+TX-820v
+14,2276
+Scrap
+confirmed
+NE-2454
+265
+15,09%6
+Rewon
+needed
+BZ- 660F
+129
+120
+6.9896
+Rewoik
+needec
+Appraved by:
+Prepared by:
+14.00

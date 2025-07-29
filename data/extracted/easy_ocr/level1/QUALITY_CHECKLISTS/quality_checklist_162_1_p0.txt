@@ -1,0 +1,49 @@
+Quality Verification
+#3164391
+Date: 17.07.2025
+Product ID
+KV-390K
+Customer ID
+POLAND
+Item Description
+Wooden Pallet
+Confirm that sampling
+evels comply with
+cusiomer
+agreements.
+Below are the items
+be verified during
+the final product review: Entries include both visual and functional inspection items. This closure summary
+indicates compliance with
+inspection criteria
+checklist entries are timestamped for traceability. Use this
+confirm adherence
+AQL and safety standards. Check Ihat inspection steps follow lhe approved
+procedure: Refer t0 the quality register for sampling-plan references:
+Quality Check Items
+Sample
+Severity
+Notes
+Tier
+Design Specs
+Nol assembled as per drawing
+Level !
+Exposed na
+with
+point
+Leve
+Functionalty test talled
+Connecio
+working
+Leve
+Instruction manual
+missing
+Level
+damaged
+AQL Level
+Critical
+linor
+Default
+Customcr
+pecific
+Asharp

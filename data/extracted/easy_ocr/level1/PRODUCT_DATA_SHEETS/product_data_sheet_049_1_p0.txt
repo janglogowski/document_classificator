@@ -1,0 +1,115 @@
+Product Data Sheet
+Praiect:
+CN-150c
+Dacu
+3683463
+Prepared Bv:
+Ljura Koss
+Approved By:
+Anna Nowak
+Location; Plant 28
+Date; 2024-05-21
+All data entries are traceable
+design revision history: Entries include both mechanical and electrical specifications_
+Refer
+this configuration sumimary for unit-designatian mapping: This technica
+overview supports the product-
+Iease
+checklist, Confirm that performance ranges comply with project requirements This report extract
+prepared
+for design-verification audits.
+this spec sheet
+validate assembly Instructions_
+Model Type
+pncumalc
+Lontio
+Umic
+Design Pressure
+250 par
+Throughput
+30 Llmin
+Voltage_
+400
+50 Hz
+Noise Leve
+68 dB(A)
+Oil Type
+Protection Class
+IP67
+Working
+5 Cto 45"C
+Charging Time
+Reservoir Capacity
+Cooling
+Air-cool
+oil raciator
+Pump
+Type
+Gear
+Control Valve
+tlona
+Dimensions (LxWuxHL
+1200
+7C0 * 1100 mm
+Filtration
+Lm iniing
+MMreturn
+Battery Capacity
+Mounting
+Wall-mounted
+Total Weight
+250 kg
+Use this summary
+Eos
+check with BOM and inspection reports
+Confirm that
+test conditions are accurately
+represented
+Ensure glossary terms
+match the engineering nomenclature
+AlI summary comments
+nave
+recordec
+the revision log Refer-
+parameter table for operating ranges and tolerances: This closure note indicates
+the data sheete
+ready for release
+Material
+Construction:
+Item
+Base
+Gasket Sheer 44
+Nitrile Rubber INBR
+Bearing 6202 2
+Stainless Stee
+Hex Bolts M1Z
+Zinc Plated Stecl
+Rubbcrgask0
+somm
+Nitrile Rubber INBR
+Teflon Tape
+Teflon Tape Roll
+Pressure
+Vaive
+3rass
+CI
+Battery Pack
+Lithium-Ion Cel
+paver
+Svitcn
+Palycarbonate
+Copper
+herma
+FuS@
+Cermic Oride
+Lamnectoi
+Glass Filled Nylon
+NBR 6Omm
+Nitrile Rubber INBR
+Temp.
+Range
+Pump
+Propoc
+been
+Pack
+Ring

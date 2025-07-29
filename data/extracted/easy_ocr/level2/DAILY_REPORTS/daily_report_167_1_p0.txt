@@ -1,0 +1,106 @@
+DAILY PRODUCTION REPORT
+RepomNo:
+Customer:
+PR-591
+Supensor:
+CANADE
+Department;
+Anna
+Nowak
+Date:
+Painting
+Snin:
+23-03-2025
+MHoming)
+Machine ID
+Task
+Worker
+Begin
+End Time
+Duration
+Remarks
+MC-204
+Polishing_
+anKowalski
+KMin
+HC-209
+1415
+15.54
+Polishing 
+Nadia Sauter
+12-00
+MC-205
+Welding
+Wiktor
+13.03
+09.15
+11.10
+Kopczyski
+MC-208
+Drilling
+Dawid
+12.15
+13.21
+Oszmianczuk
+Delay
+MC-208
+Welding
+Przemystaw
+14.30
+Wasik
+16.17
+7107
+NJA
+Welding
+Mateusz
+11.15
+12.30
+Jaryna
+MC-201
+Welding
+Wiktor
+07.D0
+08.35
+MC-202
+Kopczynski
+Magdalena
+06.15
+07.35
+Witkowska
+MC-206
+Drilling
+Przemystaw
+12.15
+13.59
+Wasik
+Part ID
+Planned Qty
+WD-1805
+Achieved Qty
+Qty
+Failure "
+SB-I40D
+0.8496
+4Z-30OT
+9-9n
+195
+WD-1805
+7.1496
+Rework needed
+105
+TL-eoX
+6.2588
+Rework needed
+12,6640
+Rework needed
+Approved Dyi
+Rost
+Carlos
+MC-205
+Deley
+Drlling
+Scrp
+Notes
+Prepared
+Lelr
+Garcia

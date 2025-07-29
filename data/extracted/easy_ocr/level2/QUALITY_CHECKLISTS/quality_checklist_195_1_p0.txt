@@ -1,0 +1,77 @@
+Inspection Sheet
+#1290231
+Date: 17.07.2025
+Product ID
+SB-140D
+Custtomer
+BELCIUM
+Item Description
+Copper Wire
+Use thiy exlacl
+coordiriale slgr-olf wlth the QA manager. Use this list t0 conflrm adherence
+AQLand
+safety standards. Confirm that sampling levels comply with customer agreements The following table outlines
+inapectian criteria and classitication levels, All checklist entries
+are timestamped for traceebility This section
+details quality requirements and tes
+points for the batch: This checklist captures quality inspection points and
+samplirg levels. Thls summary supports the production-release quality gate. Archive this list in the quality-
+management system:
+Inspection Checklist Points
+Inspection
+Category
+Remarks
+Depth
+Product Requlroments
+MA
+Held
+Carton
+damoged
+LevelM
+Needsfeview
+markings incorrect
+Instruction Manua
+Missing
+Level IMI
+Needs review
+damaged
+Paint smearing
+3Cigicnes
+Exposed na)
+with sharp point
+LevB
+Need:
+revie
+Shipping mark is illegible
+Level Il
+Needs reviow
+missing
+Visua
+deecton
+housing
+Level|
+Minor issuk obshned
+Hacceim
+quantity
+Needs feview
+dssurmen
+Missing distributor information
+LeVe
+Functionality test failed
+issue observeo
+ron
+product size
+Needs
+relta
+Color mismatch
+Level II
+Needs review
+AQL Level
+Critical
+Moior
+hdom
+Dofault
+Cusomd
+specific
+Bunm
+Minoi

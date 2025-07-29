@@ -1,0 +1,101 @@
+BILL OF MATERIAL
+Customer ID: FRANCE
+Coordinator: Anna Nowak
+Date:
+2025-07-12
+Product ID: TY-350G
+Interna
+No.
+9458457
+Order Qly: 230
+Below is the component listing and associated costs for the upcoming production batch:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+1.46
+10%
+pCs
+4.50
+153.00
+Bracket
+Clamp
+3.22
+10%
+DCS
+1,75
+82.25
+Hinge
+120mm
+alignment
+adjusted
+Steel Sheet
+2.29
+590
+5,00
+235.00
+SKF
+A36
+brand
+Insulation
+2.46
+0%
+DCS
+3.20
+134.40
+Li-Ion
+Foam Pad
+battery
+installed
+Grease
+1.05
+0%
+pCs
+1.90
+68.40
+Li-Ion
+Tube 250ml
+battery
+installed
+Epoxy
+2.03
+290
+pCS
+299.30
+For
+Resin Kit
+export
+Fuse 5A
+2.98
+0%
+pcS
+0.30
+6.90
+Urgent
+Digital
+1.42
+10%
+pCS
+15.00
+120.00
+Switch
+Display Unit
+tested
+OK
+Please confirm supplier Iead times to ensure timely delivery of all items. Check that component
+quantities align with production mun requirements_
+This closure summary validates that all parts
+are approved for release
+Total
+Amount:
+099.25
+Approved By:
+Sourcing Department:
+Ring

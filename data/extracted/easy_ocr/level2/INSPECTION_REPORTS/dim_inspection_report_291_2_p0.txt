@@ -1,0 +1,65 @@
+Check
+Supervisor
+nspection Date
+Jan Kowalski
+2024-05-30
+Code
+SL-4JM
+Part Name
+Hex Bolts M12
+ZR-205R
+BZ-G60F
+Dim:
+Height
+Shalt S0Omnm
+500wm
+RX-3102
+TY-350G
+Nominal
+60.10
+Inicknoss
+Hole
+Wooden Pallal
+Hinga Ser
+60.09
+61.42
+51.82
+Width
+Depth
+Dilff
+61.47
+51.71
+56.43
+Pass Fail
+tuO5
+56.26
+PASS
+PASS
+PASS
+P4St
+PASS
+measuring tools were
+quality
+Refer
+prlperly calibrated. Overall inspection
+deviation column far any out-of-tolerancs?
+summary indicates acceptable
+measurements_
+Instrument Calibration Log:
+Instrumont
+Laser
+Scanner
+Serial No.
+Laser Scanner
+15564
+Last
+Calibration Dato
+14718
+2025-05.17
+2025-03-23
+Tolerance
+Mem
+Shalt_
+Obeenved
+Ensure
+lovalb

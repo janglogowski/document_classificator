@@ -1,0 +1,29 @@
+Component Overview
+ID- XD-T1OR
+Date:
+2023-09-08
+Report No : 5655446
+Product
+250 bar
+Pneumatic Control Untt
+Design Pressure
+HQVISOHZ
+Unit UYPe
+Voltage
+Fluid Flow
+48 Lmin
+Total Weight
+230 kg
+Water-cooled
+Cooling
+exchanger
+Working Temp: Range
+5C [0
+70 pm return; 25 pm
+Filtration
+sucdod
+Gear Rump
+Pump_Type
+Approved by: Jan Kowalski
+Prepared by: Anna Nowak
+45C

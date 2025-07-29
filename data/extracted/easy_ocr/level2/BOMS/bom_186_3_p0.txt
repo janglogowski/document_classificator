@@ -1,0 +1,74 @@
+BILL OF MATERIAL
+Item
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Control
+12.00
+576.00
+Urgent
+Panel
+Mount
+Epoxy Resin
+7.30
+365.00
+Ciamp
+1.75
+5,25
+Switch
+120rm
+tested OK
+Spring
+pcs
+0.05
+2.75
+Washer
+M1o
+LED Light
+2.50
+SKF brand
+Spring
+0.05
+0.40
+ISO-verified
+Washer
+M1C
+Aluminum
+121.50
+ISO-verified
+Bracket
+Insulation
+3.20
+70.40
+SKF brand
+Foan Pad
+Hinge Set
+2.50
+37.50
+Copper
+0.60
+28.20
+ISO-verified
+Wire 3mm
+Bearing
+1.50
+40.50
+Certified
+6202 zZ
+batch
+The cost subtotal supports financial forecasting far the next cycle. Totals include estimated over.
+consumption allowances and current Unit rates
+Customer ID: FINLAND
+Coordinator: Laura Rossi
+Date: 2024-03-02
+Product ID; FT-730X
+Internal No;, 3260148
+Order Qty: 435
+Total Amount:
+250,00
+Ping
+Strip
+PCS

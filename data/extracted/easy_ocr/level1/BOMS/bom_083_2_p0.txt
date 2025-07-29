@@ -1,0 +1,43 @@
+Customer ID: FINLAND
+Prepared by: Laura Rossi
+Product ID: VF-220D
+Internal No.: 5522606
+This document provides.
+detailed breakdown of all components required forthe assembly process.
+This summary Ilsts every Item required, with per-unit pricing details. Ensure each component meets
+the
+specified
+standards. Review the materials tally for compliance with budget allowances_
+Item
+Steel Sheet 436
+Protective Sleeve
+Sensor
+Spacer 2mm
+Description
+s0mm
+Qty
+733
+510
+710
+118
+UOM
+pcs
+pcs
+Unit Price
+5.00
+1.80
+0.95
+0.15
+Amount
+3,665.00
+918.00
+674,50
+17.70
+Remarks
+SKF brand
+Imported
+Hinge alignment
+adjusted
+TOTAL: 5,275.20
+quality
+cup

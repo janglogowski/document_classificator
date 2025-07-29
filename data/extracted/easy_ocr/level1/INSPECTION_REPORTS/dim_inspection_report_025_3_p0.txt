@@ -1,0 +1,95 @@
+Dimensional
+Inspection performed by Carlos Garcia on 2024-01-31.
+Product Ref
+Component
+Measurement
+Target
+Observed
+Delta
+Status (VKXL
+ZR-ZOSR
+Rubder
+Wiuth
+98.50
+98.55
++0.05
+PASS
+Gasket BOrnm
+FI-730X
+Graphite Pad
+Wer
+18.88
+18.78
+0.10
+PASS
+Diameter
+LP-SSSv
+0-Ring NBR
+10.67
+10.60
+0.07
+PASS
+emm
+QN-770H
+Shaft S00mm
+Height
+8,59
+8.55
+D.04
+PASS
+MC 540X
+Rubber
+Length
+97.64
+97.64
++0.00
+PASS
+Gasket 80mm
+GH-770
+Battety Pack
+Height
+21.29
+2136
++007
+PASS
+MX 450L
+Waouem
+depM
+7.05
+7.14
++0.09
+PASS
+Pallet
+RM-86ON
+Battery Pack
+Unner
+59.45
+59.52
++0.07
+PASS
+Diameter
+VR-940T
+Waouem
+Height
+45.47
+45.41
+0.0g
+PASS
+Fallet
+IR-ZOOB
+Pack
+Hole
+36.33
+019
+PASS
+RE-850C
+0-Ring NBR
+Length
+45.73
+45.88
++0.15
+PASS
+60mm
+Log
+Width
+Batter

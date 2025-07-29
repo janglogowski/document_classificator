@@ -1,0 +1,64 @@
+NE 2454
+Froject:
+8631980
+Report No
+Laurz
+Rossi
+Prepared
+Schmidt
+Approved By:
+Location: Plant 3A
+Date; 2024-11-22
+Cooling Circulation
+Operating Pressure
+180 bar
+Model Type
+System
+48 Umin
+Voltage
+400 V /50 Hz
+Fluid Flow
+Noise Level
+68 dBLA)
+Reservoir Capacity
+120
+Filtration
+10 um relurn, 25 pm
+Charging
+suciion
+IP54
+Qil Type
+HLP 32
+Protection Class
+Valve
+Proportional 4/2
+Dimensi
+(LxWxH)
+1000
+650
+1000 Im
+Control
+Rack frame
+Total Weight
+250 kg
+Mounting
+Aluminum Frame
+Cooling
+Water-cooled
+Frame Materia
+exchanger
+Materia
+Construction:
+Base
+hem
+SAGI
+Stainless Steol 304
+Support Foot
+Zinc-Plated Steel
+Hex Boits M12
+(TPU)
+Thejoplaslic Polyurethane
+Insulated Tube Z6mm
+Peter
+Time
+ons

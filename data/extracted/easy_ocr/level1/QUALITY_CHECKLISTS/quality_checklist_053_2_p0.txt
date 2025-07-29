@@ -1,0 +1,83 @@
+Inspection Sheet
+Entries include both visual and functiona
+inspeclion ILEMS
+Inis summary suppOrts the prouuction-release quality
+Bate; Check that inspection steps follaw the anproved procedure; Contirm that sampling levels comply with customer
+agreements This checklist captures quality inspection points and sampling levels Use this Iist to confirm adherence
+AQL and safety standards. All checklist entries are tlmestamped for traceability: Archive this list In the quallty-
+manazement
+svstem;
+Product ID
+AL-1150
+Customer ID
+CANADA
+Item Description
+Spring Washer M1O
+Audit Criteria
+Sampling
+Classitication
+Comments
+Product Requirements
+Hold
+Vsua
+deie
+on housing
+Ninor /S4
+ObseNed
+deJl
+ImSCcl
+packaging
+Needs
+revicw
+Packaging does
+not match signed
+Level =
+Critical Impact
+sample
+screws IDose
+mlssing
+Leve
+Uncorrect barcoce
+Jabel
+Leve
+Rubber
+Guitch
+working
+Critical impact
+Rubber texture
+Elossiness
+issue observed
+mismarch
+Battery not included
+Needs_
+roved
+Mis sing satety
+abels
+Leve
+Missing
+DEO
+warning
+label
+Mleve
+Critical impact
+Incorrect quantity Or assortinemt
+Minor issue
+ODSCNvcu
+Wood solnterorehard
+Level Il
+Critical impact
+product
+Connector mol
+working
+Needs
+review
+nstruiction Ianua
+missing
+Level IlI
+damaged
+Color mismatch
+Supervised by:
+Date:
+Leve
+Minor
+point 

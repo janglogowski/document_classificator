@@ -1,0 +1,124 @@
+Machine Log Summary
+Performed On: 2025-07-05
+AunOeEd
+Poai
+Uperator;
+Anna Nowak
+This log records all maintenance activities performed
+the equipment.
+Please reviewv this log
+Tecentsarce 0amas
+typ8E
+Ano Femer9
+Fnsine
+safety checks were completed during
+servicing Use this gummary
+forecast parts
+eplacemeni ano
+re ;urce necd:
+Refer to the maintenance register for detailed semvice histories
+Section
+Machine
+MC-298
+HC-252
+MC-263
+MC-273
+MC-265
+MC-238
+Mechlne
+Asgembly
+Le3er Cutier
+Hydraulic
+Plesme Cutef
+Plesme Cutter
+Hydraulic
+Robot
+Ptuss
+PTCss
+Service Type
+Inspection
+Inspection
+Corrective
+coirecive
+Corrective
+nspection
+Technician
+Anna Nowvak
+Carlos Gaicia
+Anna Nawrak
+Anna Nowak
+Anna Nowvar
+AnnaNowak
+Downtimc
+Notcs
+Tightened
+Refilled oil
+3edlaced
+Wonden Dallet
+Senso
+Worn gasket
+loose b0 S
+IHLP 46)
+cociang
+cnecked
+recalnated
+teplaced
+Section
+Machine ID
+MC298
+NC-265
+MC-?38
+MC-252
+MC273
+HC-ZBZ
+Nachinc
+Aiscmbly
+Piasma
+Cuticr
+Hydraulic
+Lascr Cuttot
+Plasma
+cuttcr
+Hvcruulc
+Ropot
+Prese
+Ftess
+Service Type
+Inspection
+corteclive
+Preventive
+Cotecmve
+corteclive
+Peventive
+Technician
+Peter Schmidi
+Jankowvalsk
+Caro'
+Garcin
+Carlos Garcia
+Schmidi
+EnnaNowak
+Downtime
+Notes
+Aced T9e
+Wooden pallet
+Replaced
+No iaame2
+Alignment
+Refilled oil
+checked
+(5AI:
+tound;
+hinge:
+(HLP 461.
+idliusted
+All malntenance tasks have been completed
+per schedule
+Ensure that each service entryhas the
+equired approvals
+Uptimo (40)
+Errorcount
+Notcs
+93.6298
+Replaced filte
+Popl

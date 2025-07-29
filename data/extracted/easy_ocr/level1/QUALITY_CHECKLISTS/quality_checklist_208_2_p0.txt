@@ -1,0 +1,83 @@
+Quality Checklist
+Use this extract
+coordinate
+sign-off with the QA manager. Refer -
+quality register for
+sampling-plan
+rglerencas
+All checklist entries are tirnestamped for traceability. Entries Include both visual ard functional
+inspection items
+Below are the items
+be verified during the final product review: This checklist captures
+quality inspection points and sampling levels_
+Productd
+TY-350G
+Customcrd
+SWVEDEN
+Item Description
+Termina
+Block AP
+Reviewpaints
+Check
+Category
+Notes
+Intensitv
+Component Criteria
+Critical
+Major
+OnHold
+Missing distributor
+intormatian
+Wrong product size
+Levelm
+Critical impact
+detecton housing
+Lavel
+Needs review
+Mnor IYsme
+Screws lpose
+missing
+observed
+Laose
+parts inside
+Level IlI
+pPackaging
+Not assembledaS
+Minor Issue
+Level II
+arawing
+opsenved
+Instruction Manuals
+mis 5
+damaged
+Rubber texture
+Miinor issue
+Level III
+glossiness mismatch
+observed
+Wood splinter ar sharp
+Level |
+Needs review"
+produc-
+incottect barcode Or
+label
+Level |
+Minor issue
+Hinges loose
+Level Il
+npsenved
+Color mismatch
+Needs reviev"
+Missing satety labels
+Needs review
+Daad or liva Insect
+packaging
+Minor issue
+Praduct doesn't power on
+Level III
+abienvad
+Supervised by:
+Date: _
+Minor
+Visua
+point

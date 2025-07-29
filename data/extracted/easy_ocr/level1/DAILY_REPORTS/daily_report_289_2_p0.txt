@@ -1,0 +1,112 @@
+Repant No:
+PR /42
+NORWAY
+LCustomer:
+Schmidt
+Supervisor:
+Lopistics
+Department:
+(Nighe)
+21-03-2025
+proquction
+targets, actual output; andany deviations
+Refer
+this log
+shitt
+The following data
+productivity and cycle counts This extract shows daily vield, scrap rates; and
+occunences
+This dashboard
+sectdn
+highlights any production bottlenecks:
+Task
+Technician
+From
+Finish
+Total
+Comments
+Temp
+Energy
+Machine
+(Ch
+Used
+Time
+11.39
+MC- 206
+Assemoi
+Nadia Sauter
+10.00
+Assembly
+Magdalena
+13 00
+14.29
+78.2
+1.69
+MC-201
+Witkowska
+MC-201
+Cutting
+pmemysav
+09,00
+09.40
+2.60
+Wasik
+07.00
+08.28
+72.5
+2.50
+MC 206
+Polishing
+Magdal
+Witkowska
+Wiktor
+11,15
+12,25
+69.3
+MC-203
+Drilling
+Kopczyski
+Dawid
+10.30
+11-00
+60.9
+1.50
+MC 205
+Cutting
+Oszmiaritzuk
+Assembly
+Nadia Sauter
+09.15
+11,01
+106
+Recallbrated
+62.8
+1.41
+MC-206
+Assembly
+Wiktor
+14.30
+15.59
+Recalibrated
+77,9
+2.16
+MC-201
+Kapczynski
+przemvylaw
+07:00
+08.18
+66.9
+3.00
+MC 204
+Cutting
+Wasik
+annz
+Mowar
+Prepared b%:
+3055
+Approved Dy:
+Petet
+snilt
+monior
+captures
+vork

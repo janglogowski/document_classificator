@@ -1,0 +1,100 @@
+The following
+enitiee
+detail preventive and
+correclve maintenance tasks. Use this summary
+Toracas
+parts replacement
+[Osource needa
+This log reccrds all maintenance activities performed 0n the
+equipinenL Please revicw th s log
+recent sence dates
+types
+and remacks
+Confim lnat servicu intervals lollo  the preventiv
+schecule
+Spare Parts Used:
+Pant Name
+Part No
+Qty Used
+Hinge Set
+P-2Tz
+Hydraulic Hose
+P7346
+Unit Code
+Equipment
+Senice
+ecnnician
+Downtime
+Pruvious
+Site
+Service
+MC-218
+Assembly
+Insoection
+Cacios
+2023-08-19
+Sensuc
+Robol
+GGaicia
+recallibralco
+MC-228
+Plasma
+Corracine
+Carlos
+2074-0y-M
+Tahtened
+Cutter
+Garcia
+loose bolis.
+MC-246
+Lalne
+Correciive
+Anna
+2025-01-09
+SCnscr
+Nowak
+recalbratec
+MC-297
+Assemdi
+ProvenvE
+Anna
+2024-03-23
+Changed
+Rcjot
+Nowak
+fitcts 
+MC-231
+Lascr
+Insneciion
+Carlos
+2025-01-12
+No issues
+Cter
+Garcia
+touno
+MC-242
+PIaSua
+Inspeciion
+Peter
+2024-09-06
+Kignmeni
+Cuem
+Schmiat
+hinges
+aqjsted
+MC-288
+Plasma
+COnccvc
+Carlos
+2025-05-10
+Woojen
+Cuter
+Garcia
+pallel
+chucked
+Aulhorzedibv:
+Jamkovlski
+Deralor
+Peter Schmcdi
+Notes
+Type

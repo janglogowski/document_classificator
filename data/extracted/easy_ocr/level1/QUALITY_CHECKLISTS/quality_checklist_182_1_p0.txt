@@ -1,0 +1,60 @@
+Quality Review
+#3582816
+Date: 17.07.2025
+Product ID
+FT-730X
+Customer
+CANADA
+Item Description
+LED Light Stip
+This checklist captures quality inspection points and samplinglevels_
+Check that inspection steps follow the
+approved procedure: Confirm that sampling levels comply with customer agreements. The following table
+outlines inspection criteria and classification levels. Use this list tO confirm adherence to AQL and safety
+standards-
+Review Points
+Inspection
+Classification
+Comments
+Depth
+Design Specs
+Hold
+Shipping
+is illegible
+Level III
+Needs review
+Missine
+Package
+not sealed
+Level III
+Needs review
+completely
+Carton [
+damarec
+Level III
+Minor issue observed
+markings incorrect
+Instruction manual
+missing
+Level III
+damaged
+Wrong product size
+Leve
+Needs review
+Missing distributor
+Level /
+issue observed
+intormatior
+incorrect
+quantity
+Level II
+Critical impact
+assormeni
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer specific
+Mar
+Minor

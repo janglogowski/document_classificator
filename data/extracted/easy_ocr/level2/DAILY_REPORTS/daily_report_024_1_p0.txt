@@ -1,0 +1,86 @@
+Production Log
+Repor No;
+PR-90p
+Cuslomer
+GREECE
+Supervisor;
+Paler Schnidi
+Department;
+Paokaging
+Date;
+22-05-2024
+Shlll
+(Morning)
+Machino
+Operatlon
+Worker
+Start Tlma
+end TIo
+Timo Spont
+Romarks
+MC-202
+Asseinbly
+Mateusz
+14'15
+14.39
+Jarzyna
+MC 201
+Walding
+Daivid
+13,15
+14*14
+Duiay
+Os/mlariczuk
+MC-207
+Cuttung]
+Jan Kowalski
+13,30
+MC-?08
+Drlng
+Aereszka
+10,'0
+10 59
+Ziollaska
+MC-207
+Drliling
+Barlasz
+07,15
+08 11
+wMawrzynlak
+MC-205
+Asseinbly
+Nacla Sautar
+45O
+Delny
+MCF20U
+Asseinbly
+Jan Kowalski
+13,00
+Delay
+Palt ID
+Plannad
+Achleved Qty
+Scrap Qly
+Fallure %
+Notus
+Qutput
+VF-2200
+2778
+252
+943597
+Rowork
+needad
+RX-310Z
+5800
+300t
+244
+Screp
+conllued
+GH /7QJ
+25
+12.33%
+Prepared Dy:
+Anna Nowak
+Approvad by:
+aura |*ossi
+2370

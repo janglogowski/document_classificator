@@ -1,0 +1,55 @@
+Inspection Results Summary
+Wechinician
+Pelli scnmidt
+Inspcctiun Ualc
+2024 03.28
+Item Code
+GH 7701
+LK 890B
+MX 450L
+CN150C
+VR 940T
+component
+Wuucen Pallet
+Hinge Set
+Wouden Pallet
+Baltery Pack
+Graphite Pad
+Ncasurement
+Huixht
+Length
+Hcikht
+Urner Diameter
+Length
+arzet
+85.55
+5795
+Actuz
+62.82
+10-85
+85.5_
+5763
+Pass(Fail
+Overall inspection summary Indicates acceptable quality levels Flag any components requiring
+@-machining
+adjustment; This closure memo confirms that dimensiona
+cnec*5 are complete
+instrument
+Calibration Log:
+instrument
+Serial No
+Calibration Date
+Ncrometer
+70907
+2025-04-03
+Micrometer
+46730
+2025-01-07
+Muicrometer
+16104
+2024-09-13
+Lasem
+Scanner
+45599
+2024-12-13
+Dift

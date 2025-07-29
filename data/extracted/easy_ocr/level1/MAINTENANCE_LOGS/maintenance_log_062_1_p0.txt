@@ -1,0 +1,89 @@
+Maintenance Checklist Report #3845186
+Date: 2023-09-13
+Machine
+Equipment
+Type
+Operator
+Duration
+Area
+Notes
+MC-215
+Lascr Cullicr
+Cccct
+Pcler Scnmidt
+Plant 34
+Relilled
+(HLP 461
+MC-279
+Lase
+Cuter
+Ccrrective
+Erna Nowak
+Plant 34
+Wom gaske-
+rediacec
+MC-209
+Conveyor Bell
+cuicciive
+Jan Kowalski
+Piant
+Replaced
+Juse (5AL
+MC-28
+CNC Milling
+Preventive
+Peter Schmidt
+pant 28
+Wom
+gasket
+Machine
+redlacec
+MC 223
+Paint Bcoth
+Inspection
+Carlos Garcia
+Piant 2B
+Remiaceo
+coolant
+MC-239
+Plasma Culter
+Prevantive
+Carlos Garcia
+Pini 24
+Reolacec
+cwolam
+MC 216
+Plasma
+Preventive
+Kowalski
+Piant 2B
+Changed oil
+Mters ,
+MC-219
+Lalhc
+Inspcclicm
+Laura Rossi
+Piant 2B
+Tightened
+pose bolls.
+Relur=
+rumnarke
+follow-up aclions
+parls replacements
+No crilcal
+(aulls
+brerauno
+inspeclion:
+Confimm that all corective actans were prcperly closed out: Use this closure note
+update the maintenance KPI tracker
+Ensure Ihai
+each service entry has tne required approvals_ Flag any recurring issues for roat-cause investigation
+Luoncadcn
+Checked
+Callbration Verifed
+Emerdency Stoc
+Tested
+Signed olf: _
+Performed by:
+Cutter
+Cunng

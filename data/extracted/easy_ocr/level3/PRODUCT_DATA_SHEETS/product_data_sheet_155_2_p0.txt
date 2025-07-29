@@ -1,0 +1,76 @@
+Component Overview
+Check that all material specs align with supplier certifications; Entries include both mechanical and electrical
+specifications Refer to this configuration summary for unit-designation mapping: Delow are the technical parameters
+and constructior materials for the unit_ The parameter
+below Includes operating limits and
+Thls
+repont extract
+prepared far design-verificatian audits.
+Praduct ID;
+LP-SSSV
+Renort No;;
+PR-216
+Prepared by: Laura Rossi
+Approved by: Jan Kowalski
+Date; 2025-06-17
+Model Type
+Hydraulic
+Unit
+Design Pressure
+210 bar
+Flow Rate
+60 Lfmin
+230 .
+50 Hz
+Protection Class
+IP54
+Control Valve
+Directional 4/3
+Service Interva
+12 months
+"Moise Level
+70 @BIAI
+Charging Time
+Document control numbers are incluced for traceability. Check that all section headers follow the product template.
+This closure note Indicates the data sheet E
+ready far
+lease. Data sheet has been peer-revlewed by the engineering
+Fedm
+Overall configuration
+within dcfiicd design and safcty margins. Confirm that all test conditions are accurately
+represented
+Material
+Construction:
+Subcomponent
+Raw Material
+Insulated Tude 25mm
+Thermoplastic Polyurethane (TPUL
+Gasket Sheet
+Rubber INBR
+Support Foot Steet
+Stainler: Stee
+Wopaen Pallet
+Tredled
+Pine Wodd
+Nut M6
+Huncplaied Suco
+Bearing 6202
+Stainless Steel 304
+Batten Pack =
+Lithilm-Ion Ce
+Rack
+Rubber
+Gasket BOmm
+Nitrile Rubher INBR;
+NBR 6Omm
+Nitrile Rubber INBR)
+Capacitor 450V
+Buminumgoglal
+Glaphic Pou
+Glajnic
+register
+ratings.
+Powem
+Voltage
+Nine
+Rune

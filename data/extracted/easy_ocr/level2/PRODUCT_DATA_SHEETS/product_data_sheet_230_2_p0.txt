@@ -1,0 +1,76 @@
+Component Overview
+AIl data entres are traceable to design revision history. Entries include both mechanical and electrical
+specifications
+The following information outlines performance characteristics and design data. This
+technical overview supports the product-release checklist, Check that all material specs align with supplier
+certifications:
+Product ID:
+XD-71OR
+Internal No.
+7768226
+Prepared by: Anna Nowak 
+Approved by: Anna Nowak
+Date: 2025-01-26
+Unit Type
+Hydraulic Rower Unit
+Design Pressure
+210 bar
+Fluid Flow
+75 Umin
+Operating Voltage
+480 V / 60 Hz
+Motor Power
+5.5kW
+Mounting
+Skid base with vibration
+pads
+Filtration
+Um inline, 10 um
+Reservolr Capacity
+120 L
+return
+Oil Type
+HLP 32
+Dimensions (LxWxH)
+1200
+700 x 1100 mm
+Overall configuration
+within defined design and safety margins.
+summary comnments nave been
+recorded
+the revision log
+Check that all section headers follow the product template. Material choices and
+process data have been verified for compliance;
+Archive this summary for future design-change
+management: Ensure glossary terms match the engineering nomenclature_
+Material of Construction:
+Subcomponent
+Basc
+Wiring
+um
+PVC (Rigid;
+Support Foot Stee
+Stainless Steol
+Rubber Gasket 80mm
+Nitrile Rubber
+Bearing
+5202
+Stainless Stee
+Heat
+Sink
+Aluminum 6061-
+Wooden Pallet
+Treated Pine Wood
+Nut M6
+Zinc-Plated Steel
+Connector
+Glass-Filled
+Ballery Pa
+Lithiun-lon Cell Pack
+Graphite Pad
+Graphite Pad
+Capacitor 450V
+Aluminum 6061-T6
+LED Light Strip
+Glass-Filled Non
+Nvlon

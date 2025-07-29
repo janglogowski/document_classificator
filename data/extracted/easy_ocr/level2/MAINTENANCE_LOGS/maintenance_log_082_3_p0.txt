@@ -1,0 +1,121 @@
+Maintenance Checklist Report
+Performed On: 2023-08-08
+Kpplovud Cy:
+CenQur
+Serviced by:
+Jan Kowalski
+The following entries detail preventive and corrective maintenance tasks. Refer
+the maintenance register
+for detailed
+service histories- Thls lcg records all maintenance acilvitles performed
+on the equipment: Ensure
+safety checks wCre
+completed
+during servicing: Entries include work orders
+technician
+assignments,
+and part changes
+Confirm that service
+intervals follow the preventive schedule
+Section A:
+Unit Code
+MC-264
+MC-231
+MC-232
+MC-243
+MC-2Q7
+MC-226
+Equipment
+Packaging
+Conveyor Belt
+CNC Milling
+Hydraulic
+Conveyor Belt
+Packaging
+Machine
+Pirss
+Line
+Service Type
+Preventive
+Correclive
+Inspection
+Preveniive
+nspecuan
+Preventive
+Technician
+Peler Schmidi
+Laura Rossi
+Anna Nowak
+Peler Schmidl
+Laura Russ
+Schmi
+Wuration
+Nlotes
+Charged oil
+Refilled oil
+Alignment of
+Changed oil
+Refilled oil
+and fillers-
+(HLP 46}.
+hinges
+filters .
+(HLP 46).
+aqjusled
+Section B:
+Unlt Code
+MC-257
+MC-219
+MC 264
+MC-232
+MC-226
+MC-231
+Equipment
+Plasma Cutter
+Conveyor Belt
+Packaging
+CNC Milling
+Packaging
+Conveyor Belt
+Macnine
+Service Type
+Inspectan
+Preventive
+Inspection
+Comective
+Corrective
+Preventive
+Jechniclan
+Peter Schmlid :
+Carios
+Galqa
+Laui Koss
+Laula Rossi
+Canos Garcia
+Larios Galcia
+Duration
+Notes
+Replaced
+Changed =
+Replaced
+No issues
+Refilled oil
+WNooden
+54}.
+andeiets
+Edaeni
+launid
+(HLP 46).
+Dallel
+checked.
+No crtical faults were found during the latest inspection
+Use this closure note
+update the maintenance KPI tracker. AIl
+Maintenance durations are
+ecorded for perormance metncs
+Uptime (%)
+Error Count_
+93.919
+Boll lighluned
+Pelel
+Notes

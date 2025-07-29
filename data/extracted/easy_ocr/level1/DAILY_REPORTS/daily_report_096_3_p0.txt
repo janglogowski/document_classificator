@@ -1,0 +1,92 @@
+Shift Summary
+Report No:: PR-302
+Customer: POLAND
+Shift:
+(Night)
+Date: 28-07-2023
+Machine
+Operation
+echnician
+Begin
+End Time
+Duration
+Comments
+Condition
+(min)
+MC-202
+Welding
+Magdalena
+06.00
+07:12
+NYA
+propress
+Witkowska
+MC-208
+Assembly
+Nadia Sauter
+09.30
+10.57
+Recalibrated
+Delayed
+MC-204
+Assembly
+Agnieszka
+12.15
+13.33
+Pecelbcated
+Completed
+Zielinska
+MC-205
+Polishing
+Piotr
+10.15
+12.13
+118
+Comdieteo
+LewandovskM
+MC-209
+Cutting
+Jan Kawalski
+08.15
+09.34
+Delayed
+Part ID
+Target Qty
+Actual Qty
+Defect Qty
+Relection
+Rework Qty
+Notes
+JD-700wv
+237
+219
+7.5946
+Scrap
+conlunmteg
+TX-820v
+250
+237
+5.209
+Scrap
+contirmed
+MR-160H
+228
+204
+5390
+TY-350G
+224
+212
+5.369
+Rework
+nedeu
+GL-980S
+100
+20092
+ZR-205R
+181
+159
+12.1596
+Rework
+megdeO
+Approved by:
+Prepared by:_

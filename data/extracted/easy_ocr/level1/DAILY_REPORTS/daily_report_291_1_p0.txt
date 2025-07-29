@@ -1,0 +1,90 @@
+Shift Summary
+Redar ND;:
+PR-547
+Cusiamer-
+POLAND
+Supervisor:
+Ljura Koss
+Department:
+Maintenance
+Date;
+26-11-2024
+Shift:
+(Moming)
+Equipment
+Operation
+Worker
+Finish
+Duration
+Remarey
+(min)
+MC-202
+Polishing
+Jan Kowalski
+13-00
+13.40
+MC-20Z
+Cutting
+Agnieszka
+06-15
+07.05
+Zielinska
+MC 202
+Cutting
+Dawid
+11.30
+13.17
+Delay
+Oszmianczuk
+MC-2OA
+Cutting
+Piotr
+14-00
+14.33
+Lewandowski
+MC-205
+Polishing
+Anna Nowvak
+08-00
+09.19
+Recalibratec
+MC 205
+Assembly
+Piotr
+11-15
+12.39
+Recalibrated
+Lewandowski
+MC-202
+Assemblv
+Kadia Sauler
+US-UC
+09.10
+Recallbrated
+produictId
+pianned
+Produced
+Rejected Qty
+Rejection
+BZ-660F
+3193
+Scrap confirmed
+PL-pOTZ
+268
+4707
+Scran contirmem
+4305
+0 96d
+XD-7IOR
+887u
+Revorz needed
+NF-7454
+196
+5 7705
+Prepared b%:
+Peter Schmidt
+Approved
+Kowjiski
+Begin
+Delay
+Uwali

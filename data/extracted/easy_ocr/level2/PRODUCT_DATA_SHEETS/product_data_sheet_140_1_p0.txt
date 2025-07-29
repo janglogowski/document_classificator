@@ -1,0 +1,113 @@
+Component Overview
+-9805
+Projec::
+PR-411
+Redort Ro_
+Carios Garcia
+Prepared
+Laune
+Kost
+Approved By:
+Location: Plant 1C
+Date: 2025-01-19
+Drccsure
+180
+Pneumatic Controi Unit
+Design_
+Unit Type
+Supply Voltaze
+480
+60 Hz
+Flaw Rate
+75 Lmin
+250 KB
+Protection Class
+IP54
+Total Weight
+45"C
+Werking Temp
+anee
+S"C
+Kane
+Pump
+Type
+Mioror
+Pole
+5.5 K
+Service Interval
+JOQo
+HLP 68
+Alr-copied oil radiator
+Oii Type
+Cooling
+650 * 1004
+Battery Cagacity
+10 Ah
+Dimensions ILxWuxH
+10O0
+5 Hm Inint
+10 um relum
+Powder-coated Steel
+Filtration
+Frame Materia
+Noise Levei
+70 dBiA)
+Uaive
+Direchana
+Conio
+verified for compliance_ Overall contiguration
+within deflned design
+Material choices
+process data nave Oeen
+headers
+cummian
+reflects the latest revision of the product data Check that =
+section
+safety margins. This
+BOM and Inspection reports Flag ary missing
+fcllow the
+template. Use this summaty
+Cross-check
+romenclature
+updates
+Ensure elossary terms match the engincering =
+parameters for urgent specification
+Material _
+Construction:
+Comdostion
+num
+60s4-16
+Capacitor 450M
+Nitrile Rubner
+Rubber
+Gasket 80mmn
+Nitrile Rubbe
+UNBRI
+(toiGneti
+Glass-Filles
+Non
+LED !ie
+Strip
+Stainless Steel 304
+Supoort Foot Steel
+Cza
+Bra3s
+Pressure
+Nitrile Rubber  NBRI
+Ring NBR 6Omm
+Zinc-Plated
+Nut M6
+Lithlum-lon Cell Pack
+Baltery Pack
+Silicone Rubber
+Coollng Gel Pack
+Stainless Steel
+Hinge
+Graphlte Pad
+Grachile Pad
+Pump
+ang
+ivch
+product
+InaR
+Valve

@@ -1,0 +1,65 @@
+Component Overview
+Project:
+PW-S1SY
+Internal No
+7327729
+Prepared Byz
+Carlos Garcla
+Approved BL
+Cartos Garcia
+Location: Plant 3A
+Dale; 2024-01-26
+This gection delails the conliguration
+parameter set for the product_ Confirmi that performance ranges
+comply with project requirements, Check that all material specs align with supplier certifications Use this
+sheei:
+confinn engineering requirements and tolerances. Entries Include both mechanical and erectrica
+specifications; Use Ihis spec sheet t0 validate assembly instructions
+The
+following inforiation oulines
+performance characteristics and design wata_
+Unit Type
+Cooling Circulaticn
+Rated Pressure
+300 bAr
+Systen
+Throughput
+43 Ymin
+Voltage
+4Q VASOHz
+Pump Type
+Gear
+Reservoir Capacity
+Charging Time
+Working Temp_Range
+52C to 452C
+Qil lype
+HLP 46
+Battery
+Capacily
+power
+11 kW
+Cooling
+Air-cooled 0i radiator
+Motor
+Control Valve
+Directional 4/3
+Mounting
+Skid base with vibrallon
+pads
+Service Interval
+12 monlhs
+Protecilon Class
+IP6S
+Filtration
+10 uM retum, 25 Um
+Noise Level
+70 GB(A)
+suction
+Erame Materal
+Stainless Sleel Frame
+Dimensions (LxWxHL
+1200
+700 x 1I00 mM
+and
+PuMp

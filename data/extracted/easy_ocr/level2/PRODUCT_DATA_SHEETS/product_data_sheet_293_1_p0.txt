@@ -1,0 +1,84 @@
+Component Overview
+Project:
+XK-610U
+Report No
+9530959
+Prepared By:
+Carlos Garcia
+Approved By
+Lduic
+Location: Plant 3A
+Date; 2024-10-07
+Use this sheet to confim engineering requirements and tolerances_
+Please review the specifications and
+material composition listed below The following information oullines performance characteristics and design
+data: This report extract is prepared for
+design-verfication audits
+This data sheet provides key
+specificalions and material delails
+Configuration Type
+Pneumatic Control Unit
+Rated Pressure
+250 bar
+Fluid Flow
+30 Lmin
+Voltage
+400
+S0Hz
+Charging Vime
+Mounting
+Wall-mounted
+Battery Capacity
+Type
+Piston
+Cooling
+Water-cooled
+Working Temp. Range
+~Cto
+45"C
+exchanger
+Oil Type
+HLP 32
+Service Interval
+500 h
+Protection Class
+P67
+Dimensions (LxWxH)
+1200 x Z00x 1100 mm
+Control Valve
+ManuaL
+Override 3/2
+Total Weight
+180
+Frame Material
+Aluminum Frame
+Motor Power
+ZSkW
+Material
+Construction:
+Subcomponent
+Base
+Insulated Tube 25mm
+Iemmoplastic Polyurethane
+Capacitor 450V
+Aluminun 6061-
+Bame
+Pack
+Lnilm-
+Pack
+Fuse
+Ceramic Oxide
+Bearing 6202
+Slainless Steel 304
+Cooling Gel Pack
+Silicone Rubber
+Pressure Valve
+Brass CZI2
+0-Ring NBR 60mm
+Nitrile Rubber (NBR)
+Hex Bolts M12
+Zinc
+ated Steel
+Rossi
+Pump
+Pump

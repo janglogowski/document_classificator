@@ -1,0 +1,63 @@
+Quality Review
+03177761
+Date: 17.07.2025
+Product ID
+MC-540X
+Customar
+CANADA
+Item
+Duscr iption
+Coolng Gel Pack
+Thus summary supports tho productian-release
+Juaiy
+Kate, Check that Inspection steps follaw the approved
+procedure Entries Ichude both wsual ard functional Inspection Iters: Please revlew each checkist point and mark
+the Saurpling results: This checkust captures quallty Unspection pounts and sampling levels The followlng table outllnes
+Inspecton crIterin
+classificatlon levels  Ensure alnon-conforming marks are clearly dlocumented
+Awdlic Crlteria
+Check
+sevcriy
+Remorks
+Untensity
+produci
+Requur eents
+MIsslng logo
+WJTInA Idoel
+LCvC
+Rubuer Swltch noG workin'
+Meeds revielv
+Missing dlstributor Inform;
+Levci
+HUcre s loase
+Levci
+Needs revlew
+Insucdnnanu
+AStnk
+Level
+Needs revleva
+damared
+Battery rot included
+Exposed
+with
+Leva
+Crltical Impact
+AOL Level
+Criticol
+Mdjor
+Mmoi
+Default
+Customer speclllg
+Unsnectlon sumrary
+filed for regulntory complance: AW suumnnary conumerts have been validated by the QA team;
+Jnv Open Issues
+the CAPA tracking system: Conilrm that all sampling results are wlthin acceptable limits. Use
+s closure
+{eport
+update(
+qualily KPA dashboard;
+and
+Ition
+LE
+point
+Fnr =

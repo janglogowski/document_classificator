@@ -1,0 +1,92 @@
+COMPONENT BREAKDOWN
+Thls extract shows the bill of components and total projected spend: Use thls breakdown t0 verify
+sourcing and cost estimates: Please review the Itemized Ilst of parts and material specifications before
+procurement; AIl Ilne-item costs are current as per vendor quotes: Thls document provides
+detalled
+breakdown of all components required for the assembly process:
+Item
+@ty
+UOM
+Rate
+Amount
+Remarks
+Descrption
+Insulation
+pcs
+3.20
+108.80
+Eco
+Foam Pad
+compllant
+Steel Sheet
+5,00
+170,00
+Switch
+436
+rested
+LED Light
+2,50
+90,00
+For export
+Strip
+Ceramic
+2.10
+44.10
+Imported
+Disc 8Omm
+Packaging
+1.00
+5,00
+For export
+Box
+Grease
+28,50
+Eco
+Tube 250ml
+compllant
+Grease
+1,90
+62,70
+Tube 250ml
+alignment
+adjusted
+Protective
+1,80
+63,00
+SKF brand
+Sleeve
+sOmm
+Control
+pcs
+12,00
+156,00
+ISO-verified
+Panel
+Mount
+Insulation
+pCS
+3.20
+108,80
+Li-Ion
+Foam Pad
+battery
+Installed
+Bearing
+pCS
+24,00
+Switch
+6202 ZZ
+tested OK
+All Iisted components have been verified for avallability and compllance. Amounts reflect current pricing;
+adjust as necessary for bulk orders; Verify that all remark items meet the sourcing department'$
+standards:
+Customer ID: BELGIUM
+Coordlnator: Carlos Garcia
+Date: 2024-03-11
+Product ID: ZR-ZO5R
+Internal No
+8179049
+Order Qty: 327
+Total Amount;
+860,90
+Hinge

@@ -1,0 +1,68 @@
+Compliance Log
+#8413837
+Date: 17.07.2025
+Product ID
+DX- 777T
+Customer ID
+SWEDEN
+Item Description
+AutcGmm
+AIl checklist entries are Limestamped for traceabilily- Thls section delalls quallly requirements ad test polnts far the
+batch: Contirm that sampling levels comply with customer agreements
+Check that inspection steps follov the
+apdroved
+DroceuLFe
+Refer -
+the quallty register for sampling-plan refererces
+Ensure all non-confortning marks are
+clearly damimented
+Inspection Checklist Points
+Check
+Defect Class
+Notes
+Intensity
+Corponent Cuteria
+Prodvc
+Joesn
+VoCT
+LCVe
+Mndnssucoeeved
+Inccrret
+FcodE Cr
+Leve
+Weeos relteve
+Color mismatch
+Leve-
+Minoriseue
+Obsenved
+Not assembled a5 per drawing
+Leve
+Minoni5sue
+observed
+Incorec
+Onentation
+Leve
+narissm
+osenian
+Exposec
+Sharp point
+Level
+Packare
+not sealed complete "
+LevaI
+Wrong product size
+Leue
+AQL Leve
+Critical
+aior
+Minor
+Default
+Customer
+Ensure that all remarks have corresponding evidence attachments Archive this summary in the audit-readiness
+folder. Overall quality status indicates compllance with defired AQL levels. This surmary supports the end-of-line
+quality certification_ All critical and major inspection points have been addressed. Refer ta nates far any observed
+defects or deviations, Use this closure report
+update the quality KPI dashboard:
+Coppe
+(abe
+specific

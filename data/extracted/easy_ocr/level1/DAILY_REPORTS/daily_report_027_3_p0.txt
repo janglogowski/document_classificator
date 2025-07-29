@@ -1,0 +1,103 @@
+Production Log
+Report No;; PR-441
+Customer: SWEDEN
+Shift:
+(Morning)
+Date: 28-08-2024
+Machine
+Task
+Technician
+Start Time
+End Time
+Total
+comments
+Status
+duratlon
+MC 206
+Polishing
+Nacij Sjutci
+14.00
+15.50
+110
+Recalibrated
+eiJvco
+MC-203
+Assembly
+Piotr
+13.30
+14.35
+NJA
+Completed
+Lewandowski
+MC-2O1
+Polishing
+Dawid
+06,30
+08.16
+106
+N/A
+leted
+Oszmiariczuk
+MC-208
+Welding
+Piotr
+07.30
+09.14
+NJA
+Delayed
+Lewandowsti
+MC-204
+Drilling
+Magdalena
+06.15
+07.45
+ayed
+Witkowska
+MC-206
+Assembly
+Magdalena
+12.30
+13.20
+progress
+Uekouska
+Recard any adjustments to shift schedules
+staffing here. Archive this output surmary far end-of-day reporting
+Note any unscheduled stops in the downtime register; This closure summary signals readiness for the next production
+run. Refer t remarks for any rework or quality concerns
+Ensure shift-nandover notes Include any pending Issues
+Product
+Planned
+Achieved Qty
+Scrap Qty
+Rejection %
+Rework
+Notes
+Output
+Count
+KP-3Z0E
+140
+0.7170
+contirmed
+LK-8908
+2.5376
+Scrap
+cantirmed
+JD-700w
+253
+10.287
+MS-GOOP
+179
+10.062
+LP 555v
+135
+0.00?o
+Scrap
+cantirmed
+CN-150C
+3970
+Scrap
+confirmed
+Appraved bv:
+Prepared by:
+Comp
+Scrap

@@ -1,0 +1,43 @@
+Conformance
+Quality Check Items
+Inspection
+Severity
+Notes
+Depth
+Product Requirements_
+Critical
+Major
+Minor
+OnHold
+Sharp edges
+plastic
+Level III
+Minor issue
+comgonents
+observed
+Wrong product size
+Level
+Critical impact
+Not assembled as per
+Level
+Needs review
+drawing
+Hinges
+0ose
+Needs review
+Missing salely labels
+Leve
+Needs review
+Visua
+delect on housing
+Rubber Switch not
+Level 
+working
+Reference Standards:
+Standard
+Edition
+RoHs
+2011
+EC 61010
+4th Ed.
+Log

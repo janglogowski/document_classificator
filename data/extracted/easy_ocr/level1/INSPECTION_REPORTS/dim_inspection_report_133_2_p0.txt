@@ -1,0 +1,63 @@
+Inspection Results Summary
+Wechinician
+Anna Noivak
+Inspection DJte
+2024 05 21
+Check that all dimensions comply with ISO and company standards
+Entries include both pass/fail markers and
+deviation magnitudes. Refer:
+dimensiona
+log for all component size readings:
+Anticle No
+S0-1400
+GL-9805
+CE-905L
+RE-B50C
+6L-9ouj
+WD-1805
+Name
+Wooder
+Plastic Rivets
+Po ver Switch
+Rivets
+Hex Bolts M1Z
+btaphite PJo
+Pallet
+Dim
+Lenetn
+nner
+Thicknest
+Thickness
+Depth
+plamerer
+80.19
+46.32
+57 47
+Observrd
+79, 97
+80.29
+46 26
+1l9 95
+Dult;
++ 16
+{Fail
+Comdonente
+failing inspection require immediate review ano
+corrective action: This assessment reflects the latest
+metralogy results. Overall inspection summary indicates acceptable quality levels:
+Instrument Calibration Log
+Instrument
+Serial Noj
+Last Calibration Date
+Micrometer
+91665
+2025-04-28
+Civilv
+80233
+2025-01-20
+Laser Scanne
+66054
+70z4-08-16
+Pla  [ic
+Tatget
+Past

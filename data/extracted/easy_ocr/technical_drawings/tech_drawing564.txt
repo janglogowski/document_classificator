@@ -1,0 +1,73 @@
+N"10 EQUISP_
+HOLES
+368
+
+NP2 notch opp. side
+L
+1
+13 (NOMINAL 10)
+MM DA REGISTRARE AL MONTAGGIO
+E
+3mm for adjust during assemby
+SECTION A-A
+Lascea*#t
+Draasodas
+~gonrnoinscotna
+ESEGUIRE
+TAGLIO DELL'ANELLO DOPO LA
+GnifiennJs
+REGISTRAZIONE DELLO SPESSORE AL MONTAGGIO
+CUT THE RING AFTER ADJUSTEMENT OF
+Gnadntitaeei"
+THICKNESS DURING ASSEMBL
+#rmta3ris
+~aIrortePnamn
+taounnr
+3.2
+~ntt Ayutmfets
+EMISSIONE
+FIRST ISSUE
+RUSSO FIORILLO
+MURGOLO
+DI MELLA
+2041222
+comailato
+CcmtacatO
+VERIFICNTO
+APPRO ATC
+oleEuicaetescuinin
+LCHALEL
+CHECTEC
+VKI
+LFPROVED
+L
+PASCOLATO;
+9.0 kg
+REEQATO
+NOIANOTE
+CACLILAUND
+ErAM Uicr
+eICht
+NETGHT
+[d3 ORETJOROC
+ad
+KODFLORATTFATA
+MCAe FiCtoR
+DiFRo
+K
+AATLKLLAATLKI
+ICNdA Kipi
+EN 10025-2 S355 J2
+poupi Pul? Tpe
+ANELLO IN 2/2
+Split ring
+Feeme
+disechc DRarr
+RCANARCANE
+U
+Termomeccanica
+anica Pompe
+A4
+2060401342
+focLio S-EET
+La Spezia

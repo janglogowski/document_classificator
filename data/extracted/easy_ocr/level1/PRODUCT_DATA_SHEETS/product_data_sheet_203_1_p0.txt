@@ -1,0 +1,81 @@
+Component Overview
+Project:
+RE-850C
+Document No::
+9639240
+Prepared
+Jan Kowalski
+Approved By:
+Anna Nowak
+Location: Plant 2B
+Date; 2024-07-11
+Contirm that performance ranges comply with project requirements_
+The following information outlines
+performance characteristics and design data
+This report extract is prepared for design-verification audits
+Check that
+material specs align with supplier certifications
+Ensure all referenced standards are Up
+date.
+Configuration Type
+Cooling Circulation
+Rated Pressure
+180 bar
+Syslem
+Flow Rate
+30 Lmin
+Operating Voltage
+400 VIS0Hz
+Contro
+Valve
+Proportional 412
+Service Interva
+1000
+Protection Class
+IP54
+Frame Material
+Stainless Steel Frame
+Cooling
+Water-cooled
+Motor Power
+7.5 KWv
+exchanger
+Charging Time
+Filtration
+um inline, 10 VM
+Teiurn
+Pump
+Gear Pump
+Mounting
+Rack frame
+Working Lemp
+Range
+Cto 45"C
+Battery Capacity
+Oil Type
+Material of Construction:
+Pant
+Composition
+Heat Sink ALU
+Aluminum 6061-16
+etlon Tape Roll
+Teflon Tape Roll
+Wcoden Pallet
+Treated Pine Wood
+Steel Shcet 436
+Carbon Steel 436
+ED Light Stip
+illed Nylon
+Rubber Gasket B0mm
+Nitrile Rubber (NBR 
+Cooling Gel Pack
+Silicone Rubber
+Connector
+Glass-Filled Nylon
+Bearing 6202
+Stainless Steel 304
+Baitery Pack
+Lithiun-Ion
+Pacz
+Type
+HLP

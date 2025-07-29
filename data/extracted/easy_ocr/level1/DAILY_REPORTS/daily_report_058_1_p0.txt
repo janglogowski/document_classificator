@@ -1,0 +1,122 @@
+Report No
+PR-250
+Cusiorer
+TURKEY
+SupemSOL
+Carlos Garcia
+Department:
+Painting
+ale
+30-032024
+Shift:
+(Night)
+Machine
+Task
+Worker
+From
+End
+Total
+Uwagi
+duration
+MC-201
+Assembly
+Piotr
+07.30
+07.55
+Lewandowski
+MC-207
+Drlling
+Nadia Sauter
+08.00
+08.47
+Delay
+MC -205
+Dillng
+Jan Kowalski
+11.30
+MC-206
+Cutting
+Magdalena
+11,30
+12.12
+Delay
+Witkowska
+MC-202
+Welding
+Wiktor
+10.30
+11;17
+Kopczynski
+MC-202
+Cutting
+Wiktor
+06.30
+07;56
+NA
+Kopczyiski
+MC-201
+Assembly
+Przemyslaw
+14,00
+15.43
+103
+Wasik
+MC-207
+Culung
+Nadia Sauter
+12.25
+MC-202
+Cutting
+Nadia Sauter
+10.15
+11.29
+Recalibrated
+MC-206
+Assembly
+Piotr
+07.30
+08.24
+ewandowski
+Product ID
+Planned Qty
+Achieved
+Qtx
+Rejected QtY
+Failure
+Notes
+RM-B6ON
+160
+152
+5.00%
+Rework
+needed
+QP-GS0F
+82%0
+Rework
+needed
+SL-430M
+13.07%
+Scrap
+conlimea
+SL-430M
+155
+10.32%0
+Scrap
+confimed
+SL-430M
+136
+132
+2.9490
+Rework
+needed
+NE-245A
+146
+136
+6.859
+Scrap
+confirmed
+Prepared by:
+Laura Rossi
+Approved by;
+Carlos Garcia
+Time

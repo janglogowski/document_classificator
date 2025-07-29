@@ -1,0 +1,73 @@
+Unit Code
+Equipment
+Senvice
+Tvpe
+Operator
+Duration
+Notes
+MC-293
+Packaging
+Inspecton
+Jan Kowalski
+pPan 23
+LI-Ion battery
+Line
+Renicen
+MC-249
+Paint Booth
+Preventive
+Peter Schmidt
+Plant 2B
+No issues
+jouno
+MC-291
+Conveyor Belt
+Preventive
+Laura
+Plant IC
+Changed oil
+and
+MC-232
+Packaging
+Inspeclicm
+Laura Rossi
+Piant 34
+No issues
+Joumo
+MC 207
+Assembly
+Inspectom
+Jan Kowalski
+Piant 2B
+Sensor
+Ronat
+recalintated
+Qveri
+equipment concition
+satisfactor; post-maintenance
+critical faults were
+Jounq qrinoine
+latest
+inspection ,
+Recorc
+spare
+parts usage for inventory
+adiustment
+Ensure next
+preventive service
+scheculed
+according
+pian_
+Confirm that 
+coreclive aclans WCfe preperly closcd oul:
+Luoncalcn
+COcckec
+Calipraiion Verifed
+Emeracuc
+Tesled
+Signed off:
+Performed by:
+pack
+Rojsi
+Mcb
+Slop

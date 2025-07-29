@@ -1,0 +1,45 @@
+Customer ID: SWEDEN
+Prepared by: Laura Rossi
+Product ID: CN-150C
+Internal No:: 8908302
+The component roster below includes unit costs and batch codes
+This summary lists every item
+required, with per-unit pricing details.
+AlI Iine-item costs are current as per vendor quotes. Below
+is the component listing and associated costs for the upcoming production batch: The following
+table summarizes the materials and quantities needed for the current project;
+Item
+Stainless Bolt
+Steel Sheet
+Clamp
+Sensor Clip
+Plastic
+Description
+M8
+436
+120mm
+50x150
+Qty
+635
+492
+UOM
+PCs
+Unit Price
+Amount
+182.70
+175,00
+894.25
+467.40
+326.70
+Remarks
+Eco
+Switch tested
+Switch tested
+Eco
+Eco
+compliant
+compliant
+compliant
+TOTAL: 5,046.05
+Ring
+Cover

@@ -1,0 +1,69 @@
+Inspection Results Summary
+Unsusldi
+Achinict
+Inspection Date
+0g-0T
+This data extract
+prepared for quality-control sign-off. This section details the measured
+Vales
+tolerances_
+and
+status
+Use this examination summary
+confirm component
+conformity;
+Anticle No
+TX-JSOG
+KV-J9ok
+71-3O0T
+Op-66OF
+Part Name
+Kuhhe
+Gaskel Bumm
+Battety
+PI-stc
+Rivets
+Shaft SOCmm
+Depth
+Wdch
+Helnhi
+Hole
+Target
+93.86
+26-49
+716s
+82.53
+Ob-enved
+93,83
+26.14
+82.46
+Diff
++0.05
++U-08
+Pass Fail
+This closure memo confirms that cimensional checks are complete: Components
+insoectian
+failing
+require immediate
+review and corective action Review failed items against the corrective
+register;
+Instrument Calibration Log:
+Instrument
+Geria
+Last Calibration Date
+Laser
+Scanner
+60051
+2025-01-24
+Caliper
+31810
+2025-01-15
+Laseracande
+44891
+2025-04-28
+Laser Scannel
+81603
+2024-12-23
+njgs-
+Pack
+~action

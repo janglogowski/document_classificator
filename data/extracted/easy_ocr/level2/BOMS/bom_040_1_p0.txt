@@ -1,0 +1,79 @@
+COMPONENT BREAKDOWN
+Customer ID: SWEDEN
+Coordinator: Anna Nowak
+Date; 2024-04-25
+Product ID: PL 6012
+ntere
+5805487
+Order Qty: 354
+Review the materials tally for compliance with budget allowances;
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+LED Light
+1.32
+0%
+2.50
+95.00
+Li-Ion
+Strip
+battery
+installed
+Terminal
+2.78
+pcs
+3.40
+98.60
+Certified
+Block 4P
+batch
+Steel
+Sheet
+3.39
+10%
+5.00
+250.00
+Hinge
+A36
+alignment
+aojusted
+Rubber
+1.24
+pcS
+0.50
+21.00
+ROHS
+Gasket
+compliant
+80mm
+Terminal
+pcs
+3.40
+23.80
+Block 4P
+verified
+Bearing
+1.12
+296
+1.50
+22.50
+High
+6202 ZZ
+grade
+Steel Sheet
+1,23
+5.00
+75,00
+Switch
+A36
+tested OK
+Total Amount:
+585,90
+Approved Bv:
+Sourcing Department:

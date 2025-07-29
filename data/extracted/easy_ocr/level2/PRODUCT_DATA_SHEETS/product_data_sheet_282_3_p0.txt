@@ -1,0 +1,64 @@
+Component Overview
+Repart No:: PR-229
+Product ID: NE-245A
+Date: 2024-04-14
+Configuration Type
+Cooling Circulation
+Operating Pressure
+250 bar
+System
+Fluid Flow
+Lmin
+Supply Voltage
+230
+As0h
+Working Temp. Range
+-10"Cto 50"C
+Capaclty
+Noise Level
+68 dB(AL
+Total Weight
+230 kg
+Frame Material
+Stainless Steer
+Charging Time
+Filtration
+10 um retum; 25 pM
+suction
+Component Materials Overview:
+3250
+Specification
+Labie Tie
+Pack(100)
+Nitrile Rubber (NBRI
+DINEN 10025
+Capacitor
+45n8
+Aluminum 6061-16
+IP6 nled
+Hex Bolts M12
+Zinc-Plated
+Heat-resistarit
+Stee
+Sheet A36
+Carbon Steel 436
+IPGZ rated
+Ring NBR G0mm
+Nitrile Rubher {NBRI
+Heat-resistant
+Graphite Rad
+Graphite
+UL-listed
+LED Light Strip
+Glass-Filled Nylon
+Electrica
+Fuse
+Ceramic Oxide
+Class
+toierzncl
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt
+Batter
+Frane
+Fad
+prade

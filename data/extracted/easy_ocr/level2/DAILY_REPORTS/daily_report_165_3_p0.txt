@@ -1,0 +1,154 @@
+Report No: PR-105
+Customer: SWEDEN
+shift: [
+(Evening)
+01-08-2024
+Equipment
+Task
+Worker
+MC-204
+Welding
+Bartosz
+End Tlme
+ime
+Spent
+Remarks
+13.30
+15,06
+Condition
+Wawrzyniak
+Delay
+progress
+MC-209
+Cutting
+07.00
+07.41
+Kowalski
+NYA
+compiuten
+MC-206
+Weldirg
+14.15
+15.44
+Kowalski
+Delayed
+MC-202
+Welding
+ABnieszka
+06.00
+06.49
+Zieliriska
+eted
+MC-204
+Assembly
+Magdalena
+11,15
+12.02
+MC-202
+witkowska
+Delay
+Corpleted
+Bacost
+12.19
+MC-20z
+Wawrzyniak
+N/A
+progress
+Assernbly
+Przemyslaw
+06.00
+MC-206
+Wasik
+Delayed
+Polishing
+Przemystaw
+13.15
+14,06
+Wasik
+Delay
+probtess
+MC 208
+Drilling
+Bartosz
+12,15
+13.57
+Wawrzyniak
+Recalibrated
+Mc-201
+Assembly
+Bartosz
+07.30
+08.25
+Wawizyniak
+progress
+MC-205
+Welding
+Agnieszka
+14.30
+14,50
+Ziellriska
+N/A
+Delayed
+MC-208
+Welding
+Magdalenj
+12,15
+13,57
+102
+Witkowska
+Delay
+Delayed
+Archive this output summary for end-of-day reporting:
+closure
+summary signals readiness
+Check material consumption
+against standard
+for the next production run
+Use this summary
+rates
+This
+dashboard. Note any unscheduled stons
+the downtime
+update the overa
+productian
+register-
+Product ID
+Target Qty
+Achieved
+MC-saOX
+Qty
+Rejected Qty
+Rejection =
+Rework Qty_
+260
+Notes
+10.96%
+Scrap
+Ty-350G
+12}
+cormrmen
+6 Yace
+Keivar
+MC-S40X
+287
+needed
+11.50%
+Rework
+FT-730X
+neeced
+13.13%
+DX-7778
+confirmed
+0.72%6
+Approved by: _
+Prepared by:
+Datc:
+From
+Dciay
+Comp
+Drllling
+11330
+06.46
+progiess
+usagC
+Scrap

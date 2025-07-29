@@ -1,0 +1,97 @@
+BILL OF MATERIAL
+Customer ID: TURKEY
+Coordinator: Peter Schmidt
+Date: 2024-08-05
+MX-450L
+9473639
+Order Qty: 247
+Product
+reflect the latest inventory and supplier rates: The following table summarizes the materials
+and quantities needed for the current project:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Bearing
+1.73
+48.00
+Imported
+6202 ZZ
+Heat
+2.42
+2.70
+37.80
+Resistant
+Sleeve
+0.76
+2,50
+52.50
+Umporteo
+Set
+Plastic
+3.37
+590
+1.10
+17.60
+Certified
+batch
+Cover
+150*150
+1.53
+PCS
+B,0Q;
+216.00
+Switch
+Shait
+tested
+S0Omm
+1.97
+1088
+2.70
+5,40
+Switch
+Heat
+tested
+Resistant
+Sleeve
+Protective
+2,23
+36,00
+For
+export
+Sleeve
+s0mm
+Shaft
+3.18
+pCs
+8.00
+24.00
+so0mm
+Gasket
+2.08
+1080
+pcs
+1-.25
+35.00
+Sheet 44
+2.31
+pcs
+15,00
+780,00
+Digital
+Display
+Unit
+Verify that all remark items meet the sourcing department' $ standards.
+Total Amount:
+1,252.30
+Approved By:
+Sourcing Department: _
+Unternal
+entries
+DCI
+Hinge

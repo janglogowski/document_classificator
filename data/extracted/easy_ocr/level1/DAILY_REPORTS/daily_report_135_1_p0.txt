@@ -1,0 +1,89 @@
+keuan No; :
+PR-763
+Customer
+UkKE
+Supervisor:
+Carlos Garcia
+Department:
+Logistics
+Date:
+I8-0-7074
+shift:
+(Evening)
+Equipment
+Task
+Technician
+otallime
+Remarks
+MC-202
+Drilling
+Mateusz
+10.30
+11,52
+Jarzyna
+MC-202
+Welding
+Mateusz
+10.30
+11.50
+Iarvna
+MC 203
+AssCibIY
+Dawid
+11.30
+13.18
+108
+Delay
+Oszmiariczuk
+MC-208
+Drilling
+Jan Kowalski
+12.30
+13.26
+MC-208
+Polishing
+Dawid
+10.15
+11.47
+Oszmlariczuk
+MC 208
+Polishing
+Przemysiav
+14-00
+14.37
+N{A
+Wasik
+MC-20}
+Drilling
+Nadia Sauter
+11.15
+12.47
+Recalibrated
+Item
+Planned Qty
+Actuz
+Qty
+Defect Qty
+Kailune
+Kv-390k
+7954
+Scrap confirmed
+WD-1805
+210
+207
+4370
+Sscrap contirmed
+ON-T0h
+0.85"
+Scrap confirmed
+VR 9401
+162
+4870
+Scrap conflried
+Prepared b%:
+Anna Kowak
+Approved bv;
+Ara
+Rossi
+Begin
+Uwali

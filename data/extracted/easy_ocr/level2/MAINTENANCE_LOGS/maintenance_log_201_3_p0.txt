@@ -1,0 +1,92 @@
+Maintenance Checklist Report
+Performed On: 2023-
+1-07
+Approved bx:
+Anna
+Nowak
+Scnriccdbv"
+Carlas
+Garcia
+This' log records all maintenance activifies Ferformed
+the equipment
+Check that all dowvntime
+Avents are
+Dronem
+categorized and logged. Confirm that service intervals follow the preventive schedule: This service summary supports the
+reliability engineenng
+eview, This seciion captures equipment status and any maintenance observations
+Section A:
+Unit Code
+MC:299
+MC-225
+MC-230
+MC-294
+Machlnc
+Packaging Line
+Lasel
+Lulter
+CNc
+Milling Machine
+Hydraulic Press
+prevenve
+Comective
+Prevenlive
+Corrective
+Technician
+peler Scnmldt
+Peler Schmidl
+Ana Nowak
+Carlos Garcia
+Durauion
+Notes
+Li-on battery pack
+Refilled oil (HLP 46).
+Tightened laose
+Renced
+poite
+Section B:
+Unit Code
+MC-230
+MIC-294
+MC-299
+MC-225
+Machine
+CNC Milling Machine
+Hycraulic Press
+Packaging Line
+Laser Cutter
+Preventive
+Prevantiva
+Preveniive
+Inspeciion
+Technician
+Peler Schmidl
+Cutlos Garcia
+Jun Kowalski
+Peler Schmidl
+@uratian
+Notes
+Replaced fuse (SA);
+Replaced
+coqiani
+Tightened loose
+LiIon battery pack
+noms
+senced
+This log summary
+suppons [ne asset-management dashboard
+AlI maintenance
+Juraieons
+Are recordec [ot
+performance
+mnetict
+Check remaining Iile-cycles
+key corpanents Irom Lhis report
+Uptime (%
+Etar Couni
+Notes
+96.7836
+Replaced
+Type
+Type
+wtet

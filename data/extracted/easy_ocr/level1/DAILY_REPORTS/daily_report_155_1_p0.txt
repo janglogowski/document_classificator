@@ -1,0 +1,120 @@
+DAILY PRODUCTION REPORT
+Report No:
+PR-263
+Cusiamer-
+CANADA
+Supervisor
+Peter Schmidt
+Department:
+Maintenance
+Date;
+24-12-2024
+Shift:
+C(Nignt)
+Machine
+Task
+Worker
+Begin
+Time
+Remarks
+MC 202
+Welding
+Malcusz
+08.30
+09.58
+N/A
+Jarzvna
+MC-209
+Drilling
+nne
+Nowak
+13.15
+14.02
+MC-202
+Polishing
+Dawid
+08.30
+10.24
+Oszmlanczuk
+MC 202
+Assembly
+anna Notar
+07.30
+09.41
+MC-209
+Assembly
+Przemystaw
+12.30
+14.17
+Recalibrated
+Wasik
+MC 209
+Drilling
+Agnieszka
+14-30
+15.39
+N/A
+Zielinska
+MC-208
+Drilling
+Dawid
+13.30
+14.34
+N/A
+Oszmianczuk
+MC 205
+Welding
+Agnieszka
+09-00
+10.07
+Zielinska
+MC-206
+Welding
+Piotr
+14.15
+16.05
+110
+Lewandowski
+MC-208
+Assembly
+wiktor
+09.30
+10.24
+Recalbraler
+Kopczynski
+MC-209
+Cutting
+Bartosz
+13.30
+14.57
+Wawrzyniak
+Product
+pianned
+Qty
+Actua
+Qty
+Rejected Qty
+Rejection %
+Remarks
+RX-31OZ
+182
+5.70%
+Rework needed
+WD 1805
+236
+9.929
+Reworenecocd
+TL-9oX
+86%6
+TY-3506
+188
+5796
+Scrad contirmem
+WD-1805
+145
+-36%
+Prepared b%:
+Kowalsk
+Approved by:
+Kowaiski
+Spent

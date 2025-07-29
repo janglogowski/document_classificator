@@ -1,0 +1,75 @@
+Inspection Sheet
+#1290231
+Date: 17.07.2025
+Product ID
+SB-I40D
+Customer ID
+BELGIUM
+Item Description
+Copper Wire Jmm
+Use this extract
+coordinate sign-Dil vilh the QA inanager. Use this Iist 0 conlirm adherence
+AQL and
+safety standards, Confirm that sampling levels comply with customer agreements. The following table outlines
+inspection criteriaand classification levels. All checklist entries are timestamped for traceability. This section
+detalls quallty requiremients and test points for the batch. This checklist captures quality Inspection paints and
+sampling levels. This summary
+supports
+the production-release quality gate.
+ichive
+this list in the quality-
+managementsystem:
+Inspection Checklst Points
+Inspection
+Category
+Remarks
+Depth
+Praduci
+Requirements
+Hold
+Carton
+daraged
+LevelIlI
+Needs reviBw
+markings incorect
+Unstrucuon ManuAI
+missing
+Level III
+Neods reviow
+damaged
+Paint smearing or scratches
+Exposed nail witn
+Lcci
+Nccds revicw
+Shipping mark
+illegible or
+Level III
+Nccds revicw
+Inussing
+Usua
+defecton nousing
+Lcuck
+Minoi
+Esue Doseco
+Incorrect quantity c
+Needs review
+assortment
+Missing distributor information
+Level
+Functionality test failed
+Issu8 Odsenvec
+Wrong product size
+Needs [rview
+mismatchn
+Level II
+Needs review
+AQL Level
+Critical
+Faior
+Minor
+Default
+Customer speciflc
+shaip
+point
+Kinol
+Colon

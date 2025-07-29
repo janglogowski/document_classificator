@@ -1,0 +1,92 @@
+Equipment Record Report
+2023-08-19
+Use this summare
+crecast parts repiacement andresource needs
+Confirm that service intervals follow the preventive schedule
+Entrics include wor * orders, techrician assignrents, and prt changes
+The equipment
+IOg below ircludes fault codes ard corrective
+notes
+This service summary supports the rellability engineering
+eviet
+Spare Parts Used:
+pan Name
+Wann0
+uty Useo
+5ltch Asembiv
+P-9505
+DilFiter
+0J872
+Seainz
+dasker
+P-oSug
+Unit Cocc
+Equipment
+Service Type
+echnician
+uowntime
+Last Check
+Note 5
+MC-276
+LAn €
+Corrective
+Deler
+2024-07-17
+No Iaames
+Schmict
+Tound
+MC-247
+Packaging
+Correrte
+Iaura Rofci
+2024-03-21
+Tightened
+Icose polts
+MC-279
+Plasma
+Corrertivt
+Ian Knwalski
+7074-10-0z
+Refilled
+Cutler
+(HLp 46
+MC-220
+Lathe
+Preventive
+Jan Kowralski
+2025-02-06
+Wnoden
+palel
+checked:
+MC-243
+ILAtn 2
+unspecuion
+Carlos Gercla
+2024-07-14
+Nokues
+tound
+MC-222
+Paint Bootn
+(cecnua
+fnAda
+7074-05-17
+Worn gasket
+replaced
+MC-223
+ULAn €
+Correcmve
+Lara Rors
+2025-05-24
+L-lon
+battery pack
+senviced
+c ZSEZ
+Lathc
+Preventivc
+Jankowalsk
+2u24-JU-B0
+Trhtenec
+Icasepults
+SiRned omf;
+Peter echmidt
+performedbi

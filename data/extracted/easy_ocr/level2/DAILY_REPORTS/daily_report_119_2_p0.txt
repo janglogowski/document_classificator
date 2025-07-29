@@ -1,0 +1,82 @@
+DAILY PRODUCTION REPORT
+Report No
+Customer:
+PR 745_
+CANADA
+Deparment;
+Shilt:
+(Morning)
+Below
+an overview of machine
+28-01-2025
+operation log and outpui summey €afoeachnco
+and output figures for today's shift Please
+cycle counts.
+each workstation. Refer to this log
+ToviBA
+today' s
+monitor shift productivity and
+Machine
+Operation
+Technician
+End
+Duration
+Remarks
+MC-209
+Time
+(min)
+Temp
+MC-202
+Drilling
+Nadia
+07.15
+08.28
+(C)
+Used
+Dawid
+11.30
+NIA
+56.9
+Oszinianczuk
+12.46
+Recalibrated
+102
+MC-201
+61.5
+1,67
+Piotr
+06.15
+Lewandowski
+07.27
+MC-206
+59.4
+1.51
+Mateusz
+14.00
+14-52
+MC-20g
+Assembly
+Jarzyna
+Delay
+57.2
+1.10
+Piotr
+06.30
+07.43
+Lewandowski
+61.1
+2,14
+Prepared by;
+Approved by:
+Peter Schmidt
+Caros Garcia_
+Supemiso
+Anna
+Nowek
+Painling
+Begin
+Welding
+Energy
+Sauter
+Driling
+Drling

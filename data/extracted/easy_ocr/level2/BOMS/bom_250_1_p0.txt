@@ -1,0 +1,96 @@
+COMPONENT BREAKDOWN
+Customer ID POLAND
+Coordinator: Anna Nowak
+Date; 2024-02-15
+Product ID: LK-890B
+Internal No:
+6350695
+Order
+Qly: 411
+review the itemized list Df
+and material specifications before procurement; Use this
+to verify sourcing and cost estimates. Below is the component listing and associated
+breakdown
+costs for the upcoming production batch
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Item
+Description
+Plaslic
+1.49
+10%
+pcs
+1.10
+50.60
+Urgent
+Cover
+150x150
+2.08
+2%
+pCS
+0.20
+2.40
+ISO-
+Plastic
+verified
+Rivets
+1,61
+1090
+pcS
+7,.30
+58.40
+Urgent
+Epoxy
+Resin
+0%
+pCS
+0.95
+40.85
+SKF
+Sensor Clip
+2.31
+brand
+Insulation
+2.26
+pCS
+3.20
+128.00
+Foam Pad
+Control
+10%
+pcS
+12.00
+396,00
+Urgent
+Panel
+Mount
+0.64
+0%
+pcs
+25,00
+1,050.00
+Eco
+Battery
+compliant
+Pack
+pcs
+0.25
+10.25
+Switch
+Hex Bolts
+3.39
+tested
+M12
+OK
+736.50
+Total
+Amount:
+Approved By:
+Sourcing Department:
+pans
+Please

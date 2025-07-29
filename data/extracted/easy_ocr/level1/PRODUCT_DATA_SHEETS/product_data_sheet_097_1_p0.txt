@@ -1,0 +1,85 @@
+Project;
+Interal No
+8279755
+Prepared
+Anna Nowak
+Approved By:
+Carlos Garcia
+Localion: Plant 2B
+Date
+2025-06-14
+Please review the specifications and material composition listed below. The following information outlines
+perforance characteristics and design data_
+Use this spec sheet t0 validate assembly instructions. Entres
+include both mechanical and elecincal
+specifications. Ensure all referenced standards are Up to date. Check
+(hat :
+material specs align with supplier certifications;
+Configuration Type
+Hydraulic Power Unit
+Rated Pressure
+Icu bar
+Flow Rate
+48 Lmin
+Supply Voltage
+480 -
+60Hz
+Protection Class
+Reservoir Capacity
+Frame Material
+Powder-coated Steel
+Cooling
+Af-cooled oil adator
+Qil Type
+Battery Capacity
+Filtration
+Hni iniine
+10 pm
+Working Temp. Range
+58C to 45"C
+relurn
+Control
+Valve
+Directional 4/3
+Noise Level
+72 dBLA)
+Mounting
+Rack frame
+Motor Power
+5.5kWv
+Confirm that all test conditions are accurately represented. This closure note indicates the data sheet E
+ready for release. Document control numbers are included for traceability. Overall configuration
+within
+defined design and safety margins
+Material
+Construction:
+Mem
+Raw Material
+Thermal
+Fuse
+Ceramic Oxide
+Steel Sheet A36
+Carbon Steel 436
+Battery Pack
+Lihim
+on Cell Pack
+Wiring
+LocM
+PVC (Rigid)
+Support Foot Steel
+Stainless Steel 304
+Fuse 5A
+Ceramic Oxide
+Digital Display Unit
+ABS
+lastic
+Cooling GelPack
+Silicone Rubber
+Teflon Tape Roll
+Teflon Tape Roll
+Pressure Valve
+Brass CZ12C
+Gasket Sheet A4
+Nitrile Rubber (NBR
+Rubber Gasket B0mm
+Nitrile Rubber (NBR)

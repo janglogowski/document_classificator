@@ -1,0 +1,91 @@
+Report No : PR-611
+Customer: SWEDEN
+Shift:
+(Evening]
+Date: 17-12-2024
+Machine
+Ptoclss
+Operator
+Ffom
+Total Time
+Lommenu
+Condition
+Mc-207
+Drlling
+Piotr
+09,15
+09.44
+Delared
+Latanonst
+MC 205
+Assembly
+Magdalena
+10.15
+10.41
+Progress
+clsk
+Mc-z02
+Drilling
+Renizsk
+14.15
+15.46
+DOSTESS
+Zielinska
+Mc-Z06
+Wedimz
+Tacla
+Sauer
+12.15
+13.05
+Leia
+Lomnd eleo
+Mc-206
+Cutting
+Nedia Salter
+08-00
+09.13
+DroeTe
+MC-206
+Drilling
+leusz
+10.15
+12-06
+Delayed
+Katyn?
+MC-Z01
+Cutting
+Vicor
+06.00
+06.48
+DtoFTEFE
+Koprynski
+All producton tafgets have bzen
+logged; devations are highlghted above_ No critical delays were observed; please
+address any minor Issues noted_ Archive this output summany for end-of-day reporting- Reccrd any adjustments to
+shift schedules or statfing here:
+Pan ID
+Planned
+Achieved Qt}
+Defect Oty
+Reworked
+Notes
+Output
+Units
+Jll/uir
+7.8382
+PvS1sy
+138
+119
+13-7792
+Scrap
+cenfned
+DX-TT7T
+104
+14.0586
+Scrap
+connamed
+AL-1150
+13.7188
+Approredby:
+Prepared by: _
+Scrzp

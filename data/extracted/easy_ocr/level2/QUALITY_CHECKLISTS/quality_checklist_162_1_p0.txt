@@ -1,0 +1,47 @@
+Quality Verification
+#3164391
+Date: 17.07.2025
+Product ID
+KV-390K
+Customer ID
+POLAND
+Item Description
+Wooden Pallel
+Confirm that sampling levels comply with customer agreements- Below are the items
+be verified during
+Ihe final product review'
+Entries include both visual and functional inspection items _
+This closure summary
+indicates compliance with inspecton criteria
+AIl checklist entries are timestamped for traceability. Use this
+confim adherence
+AQL and safety standards_
+Check that inspection steps follow Ihe approved
+procedure
+Refer 
+the quality
+for sampling-plan references;
+Quality Check Items
+Sample
+Severity
+Notes
+Tier
+Design Specs
+Not assembled as per drawing
+Level
+Exposed nail with sharp point
+Level
+Functionality test failed
+Connector not working
+Leve
+Instruction manual
+missing
+Level
+damaged
+AQL Level
+Crical
+Major
+hinor
+Default
+Customer specific
+reglster

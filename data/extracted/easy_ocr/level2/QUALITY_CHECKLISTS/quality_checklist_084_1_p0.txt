@@ -1,0 +1,89 @@
+Verification Log
+#4074142
+Date: 17.07.2025
+Product
+BZ-G60F
+Customer ID
+GREECE
+Item Description
+Hinge Set
+Ensure all non-confarming
+clearly documented
+Check that inspection steps follow the approved
+procedurc
+Refer
+the quality register for sampling-plan references. This checklist captures quality inspection
+points and sampling levels
+Belaw are the items
+be verified during the final product review.
+Review Points
+Sampling
+Classification
+Comments
+Level
+Product Reqmirements
+Critical
+alom
+Ninom
+OnHold
+Shipping mark
+illegible
+issue
+Level /
+Or Missing
+Dosenad
+Product doesn"t
+dower
+Level
+Needs review
+Connector notworking
+Levei
+Missing distributor
+Levai
+information
+Paint smearing or
+Level /
+scratches
+Minor issue
+Visual defect on housing
+onsenved
+issue
+Battery not included
+Levell
+auseived
+Hinges
+ldose
+LOdse
+parts inside
+Level II
+Critical impact
+packaging
+Minor issue
+Missing safety labels
+Level Il
+Dbseivcd
+Incorrect barcade 0r
+Label
+Level IlI
+Rubber Switch not working_
+Naads
+aview
+AQL
+Minor
+Default
+Customer specific
+any open issues in the CAPA tracking system; Checklist results have been reported to the quality manager,
+Inspection summary is filed for regulatory compliance
+Corrective actions are scheduled for identified issues_
+Ensure that all remarks have corresponding evidence attachments. All critical and major inspection points have
+been addressed
+Please ensure supervised
+sign-off on any non-conforming points. Items marked for hold
+require additional reviewbefore release
+Mara
+Ninoi
+Minor
+Level
+Critical
+Malos
+Flog

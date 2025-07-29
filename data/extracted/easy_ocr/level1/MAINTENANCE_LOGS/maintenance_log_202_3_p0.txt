@@ -1,0 +1,143 @@
+Maintenance Checklist Report
+Performed On: 2024-01-24
+Authorized bx;
+Anna Nowak
+OcGralor
+Carlos
+Garcia
+This service
+suMmarY suppors Ine reliabilily ungincering
+Cvigw
+Conlrm lhat service Inlervals lollow lhe
+pruvenlivc
+scncdule. Ensure all salety checks
+MOru compiled durinu servicima
+Usu this surmary
+lorucasl parts ruplaccmenl and
+resource neecz
+this record
+plan upcoming upkeep and repairs
+that all cowntime
+evenis are properiy
+categorized and logged
+Section A:
+Unit Code
+MC 208
+MC 267
+KC ?19
+MC 287
+MC 209
+MC 241
+Machine
+Conveyo
+Belt
+plasma Cuter
+Canveyo
+Belt
+Lathe
+Packaging
+Assembly
+Rojol
+ype
+Correcive
+Lctrective
+Corrective
+Insnecion
+Preventive
+Preventive
+Operato_
+Laura
+Rossi
+AnnaNowa:
+Laura Rossi
+Peier Scnmici
+Pater -chmidi
+Schmio
+Duration
+Notes
+Refilled ci
+Charged %il
+Sensor
+Swvitch
+(HLP 45}.
+and fillers;
+fecalibrated
+conlacs
+cleaneu
+Seclion B;
+Unit
+Code
+MC-261
+MC-209
+MC-241
+MC-221
+MC-208
+MC-287
+Machine
+PusMla
+Cullec
+Packaging
+Assemolg
+Packaging
+Conveyor Bel:
+Lalme
+Rubol
+Type
+Comecwe
+Inspection
+Prevenve
+Insnecion
+Prevenive
+WSUEAMM
+Operator
+Jankovalsk
+Pelet Schunidl
+Arna Navak
+Van Kowalski
+Anna
+Vovak
+Jan Kovalski
+Duration
+Notes
+Rianmeni
+Alignment
+Alignment of
+Sensor
+Sensor
+Li-Ion batene
+MMCCS
+mnGc
+hinges
+fecalibralcu
+fcca lbralcu
+pack
+aiuste d
+ACusted
+adiusied
+3enviceo
+This log summary
+supporls Ine
+assel-managumeni dashboard
+Use lhis closure
+updale (ha mainlenance KPI
+tracker
+Confirm thai all corfectlve actions were
+closed cut_Ensure Inat each service enby has tne required
+anprovals
+AiMaintenance (3sks
+have baen completed
+per schedule Refer :
+remamks
+for any follow-Up actions
+parls replacumenls
+Flag any recurring
+ISSuE?
+Ior r.-cause Invesbaalion_
+Uptime (%)
+Error Count
+Comments
+92 0138
+tiahtened
+Utc
+Chec"
+Propuny

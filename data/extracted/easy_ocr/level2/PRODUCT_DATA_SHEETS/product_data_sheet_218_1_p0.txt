@@ -1,0 +1,97 @@
+Unit Data Specification
+Project:
+DXZ7T
+4465820
+Carlos Garcia
+Location: Plant 1C
+Date:
+"2024-71-02
+Kowalski
+Use this sheet lo confirm
+gate. This
+extracergjirebaredreguitements and lolerances: Ensure all _
+comply with project 
+prepared for
+design-verification audits:
+referenced standards are up
+requirements
+The parameter register
+Confirm that performance ranges
+infcmation =
+performance
+below includes operating limits and
+characteristics and design data.
+The
+Configuration Type
+Circulation
+Flow
+System
+Pressure
+300 bar
+Pump
+75Umin
+Uype
+Vane
+Operating Voltage
+480 V /
+Oil Type
+Motor Power
+60 Hz
+HLP 68
+Z5kW
+Frame Material
+Filtration
+10 um return, 25 um
+Tme
+Stainless Steel Frame_
+Protection
+suction
+Class
+IPSA
+Noise Level
+Valve
+Manual Override 3/2
+Rigensoz
+D0Q X 650X 1000 mm
+Battery
+68 dBLA)
+Capacity
+160
+10 Ah
+Mounting
+Rack Trame
+Cooling
+Alr-cooled
+0ll radiator
+Material of=
+Construction:
+Item
+6202 ZZ
+Base
+Pallet
+Stainless Steel 304
+Heal Sink ALU
+LEQ Lighi
+Aluminum 6061-T6
+Glass-Filled Nylon
+Report
+Prepared
+Approved
+repon
+follawing
+oullines
+ralings:
+Cooling
+Design
+Fluid
+Pump
+Charging
+Control
+@LWH)
+Capacity
+Beanng
+Wooden
+Kreated
+Pine
+Wood
+Stip

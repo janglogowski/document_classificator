@@ -1,0 +1,119 @@
+Signed ofi
+Jan Kowalski
+perc medb"
+Peter Schmidt
+This maintenanca extract
+prepared for compliance audit trails . Check that all downtime events
+are properly categcrized
+loggcd.
+case rovicn
+log tor recent SCTvicc datcs, types; and rcmarks
+Use this record
+plan upcoming upkccp
+repas
+Below
+3uMmar
+cenjice actions
+downimee
+machine
+Section A;
+Machine ID
+MC-295
+MC-260
+KC-252
+MC-280
+MC-227
+MC-291
+Machine
+Paint Booth
+Assemoi
+~aine
+Assemoiy
+Assembly
+Plasma
+Roboi
+Iype
+prevBnVE
+cctrective
+corteclive
+Comuclive
+CorracIME
+CyrectivB
+Operato
+Reter Schmidi
+Jan Koaiski
+Jan Kowakki
+Anna Nowak
+Anna
+Yowak
+Anna
+Ncwaz
+Duration
+Comments
+Worn gasket
+Refilled oil
+Wooden
+Tightened
+Refilled cil
+Calbration
+reniaced
+(HLP 46) ,
+HonseDoie
+(HLP 46}.
+check OK
+checked,
+Section B:
+Machine
+MC-295
+MC-286
+MC-227
+MC-291
+MC-252
+MC-205
+Machine
+Paint Booth
+Packaging
+Assemoi
+Plasma Cutter
+Latha
+Assembi
+Robol
+RCjol
+Type
+Picycnvc
+Eccct
+Caricctivc
+Coneclivc
+PicyCnc
+Ccicciinc
+Operator
+Jan Koalski
+Carlos Garcia
+Laura Rosee
+Jan Kowalski
+Schmidt
+arkdy3
+Duration
+Comments
+Wvooder
+Refilled oil
+Calibration
+Tightened
+Wocden
+pallai
+(HLP 46) .
+check OK.
+Icose bclts
+pallet
+checke
+checked
+Uptime ("L
+Error Count
+Notes
+98.7226
+Repiaced Tter
+cech
+Culer
+Robot
+Rohol
+Petel

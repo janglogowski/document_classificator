@@ -1,0 +1,146 @@
+Dimensional Log
+Inspection performed by Anna Nowak on 2024-11-09.
+This data extract =
+prepared for quality-control sign-off: Please review the inspection results for each
+component listed belov. All measured values are timestamped for audit purposes
+Review recorded
+tolerances against engineering specifications. Below are the recorded measurements compared against
+nominal tolerances:
+Environmental
+Conditions: Temperature: 24.0 *C, Humidity: 50 %
+Article No.
+Component
+Dim.
+Target
+Aclua
+Delta
+Status (VIX)
+Kv-390K
+Hex Bolts
+Height
+13.58
+13.57
+-0.01
+M12
+LP-555V
+Steel Sheel
+Inner
+35.11
+34.92
+0.19
+A36
+Diameter
+NE-2454
+Shaft
+Height
+44.85
+44.75
+0.10
+SUUmm
+RM-86ON
+Plastic
+Thickness
+68.,82
+68.85
++0.03
+Rivets
+TL-9OOX
+Plastic
+Hole
+56.65
+56.68
++0.03
+Rivets
+Pw-51SY
+Rubber
+Inncr
+95.20
+95.02
+0.18
+Gaskel
+Diameter
+80mm
+TL-9OOX
+Thickness
+37.16
+37.26
++0.10
+VR-940T
+Battery
+Depth
+54.14
+54.06
+0.08
+Pack
+HF-390A
+Bearing
+81.23
+81.26
+0.03
+6202
+Diameter
+VR-940T
+Power
+Thickness
+9.30
+9.20
+0.10
+Switch
+Lk-890B
+Hex Bolts
+Width
+70.01
+69.83
+0.18
+M12
+MC-540X
+Wooden
+Height
+43.47
+43.38
+0.09
+Pallet
+RX-3102
+Wooden
+Height
+24.29
+24.35
++0.06
+Pallel
+LK-890B
+Baltery
+Thickness
+10.16
+10.29
++0.13
+Pack
+XK-610U
+Steel Sheet
+Height
+89.01
+88.82
+0.19
+A36
+TX-820v
+Shaft
+Thickness
+65.69
+65.67
+0.,02
+500mm
+QP-660F
+Battery
+Thickness
+50.23
+50.20
+0.03
+Pack
+SL-430M
+Graphite
+Hole
+9.54
+9.52
+0.02
+Pad
+Hingo
+Innor

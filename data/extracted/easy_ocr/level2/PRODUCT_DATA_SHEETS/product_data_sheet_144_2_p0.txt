@@ -1,0 +1,39 @@
+Product Data Sheet
+Use Ihls spoc sheet t0 validale assombly instrucllons
+The paramoter roglster bolow Includes operaling Ilmnits
+and raiings; This
+echnical ovorviow supports Ihe produci-release checkilst, Bolow are Ihe technical
+parameters and construcilon materials for Ihe unit: Thls report extract Is prepared for design-verilicalion
+audits. Refer t0 Ihis configuralion summary for unit-designalion mapping;
+Product ID:
+CE-905L
+Report No;
+PR-750
+Propared by: Poter Schmidt | Approved by: Anna Nowak
+Dale; 2023-11-21
+Unit Type
+Hydraullc Power Unil
+Rated Prossuro
+480 bar
+Throughput
+60 Lmin
+Oporating Voltage
+400 V / 50Hz
+Filtratlon
+10 pm return; 25 pm
+Charging
+suction
+Motor Powor
+75kW
+Service Interva
+12 months
+Confirm Ihat all test condillions are accurately reprosented, Flag any missing parameters for urgent
+specllicallon updates. Ensure Ihat Ihe Ilsted materials are approved Ior Ihe applicalion: Archive (hls
+summary (or future design-change management; This summary rollocis Ihe Iatest rovision of Ihe product
+data; Materlal choices
+procoss data have
+verified for comipllance; Overall conliguralion Is within
+delined dosign and sfely margins
+Tume
+and
+beon

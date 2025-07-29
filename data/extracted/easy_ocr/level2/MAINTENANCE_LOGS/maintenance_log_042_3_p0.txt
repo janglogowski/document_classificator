@@ -1,0 +1,118 @@
+Equipment Record Report
+Performed On: 2023-10-29
+Signed Onz
+Nowak
+Pentormed hx
+Jan Koxalski
+Use this summary to fcrecast parts replacement andresource needs
+Please review this Iog for recent service dates;
+Ndes ano
+remarke
+The tollo *Inz enines deta
+Dreventve
+ano corrective
+Intenance tasks
+This service summary supports the rellability
+ergineering
+eview. Check that
+downtime Events Jr2 nrocerk
+categorized and
+Confirm that servic
+interva
+follov the
+preventive shedule
+This $ection captures equlpmert statu$ andany malntenarice cbservations
+54cion
+Machine
+MC-266
+MC-252
+MC-238
+MC-275
+MC-290
+MC-209
+Fquinment
+Packaging
+CNC Milling
+Cuntter
+Packaging
+CNC Milling
+Fudrauiac Press
+Mlachinc
+Machinc
+Lotrecive
+trectke
+Preventive
+prevenine
+Preventive
+Preventive
+Operator
+Enna Nowak
+Ian Kotakaki
+Laura Rasei
+Laura Rase
+Ian Kovakki
+Han Kuvalski
+Downtmi
+Commente
+senfoc
+senfor
+Renlled
+hLP
+Tightened
+sensoc
+Li-Ion battery
+recalibrated
+recalibrated
+ICose bolts
+recalibrated
+pack 5etviceo
+Section
+Machine
+Mc275
+MC-266
+MC-290
+MC-263
+MC-252
+MC-218
+Equipment
+Packaging Line
+Packaging Line
+CNC Milling
+Paint bopth
+CNC Milling
+Conveyor Belt
+Maching
+Maching
+Type
+Corrective
+Preveniive
+Corrective
+Icveclium
+Preveniive
+Inspection
+Ope rtor
+Cnos Gurci:
+Lun Ross
+Pdier Schmidt
+Anra Nuwt
+Kowalski
+Laun R0  
+Downtimr
+comments
+Replaceo
+Replaceo
+Lssues
+Swvitch contacu
+Wentened
+conlant
+conlant
+Fcwng
+cleaineg
+Ionse hoits
+Uptime (%)
+Effor
+Comments
+92,027
+Replaced filter
+opred
+Count

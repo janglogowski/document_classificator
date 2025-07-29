@@ -1,0 +1,115 @@
+Inspection performed bY Anna Nowak on 2024-04-23.
+The folloning data captures key dimensions and any deviations identified. Inis summary of measurements supports
+metrology traceahility Entries incuce both pass/fail markers and deviation magnitudes Belowr are the recorded
+measurements compared against nominai tolerances
+measured Vatues are timestamped for Judit pumpozes: This
+section detais tFe Measured Veles tDlerances
+and status fiass.
+Environmental Conditions: Temperature: 24.0 -
+Humidity- 31 28
+Artkcle No.
+Pant Name
+Meosurcmcnc
+Nominal
+Actua
+Diff
+Status (VIXI
+TR-2008
+Steel Sheet
+Hole
+71.66
+7179
+Jul
+436
+JD-7001"
+Rubber
+Mnectness
+13.60
+13.52
+~0.08
+Gasket bomM
+Gk-7701
+Battem Pazt
+Width
+e038
+60,51
+4213
+BZ-560=
+Stee Sheet
+WNioth
+29.98
+30.08
+40-10
+436
+TX-820v
+Rubber
+Height
+98,89
+98.81
+0.08
+Gasket B0mm
+JD-7o0w
+Bearing 6202
+Wioth
+46 69
+46.63
+-OOs
+TX-820V
+Power Svich
+Leneth
+86.03
+86-01
+0.02
+AZ-JcoT
+shafl soomm
+Depth
+01g
+MR-IGCH
+Batlen Pack
+Unner
+541.60
+54.44
+-0.16
+Dlameter
+TX-B201
+0-Ring NBR
+Thickness
+35.91
+36.01
+Fo-10
+eomm
+T-8201
+Wncnes
+42.22
+BWs
+0i7
+43om
+Powver Swtch
+Width
++0.13
+KP-320E
+Bearng 6202
+Depth
+97,69
+97,62
+-0l07
+PW-5158
+0-Ring NBR
+Wath
+88 00
+88.02
++0,02
+€ Omnin
+OP-EEOF
+Jacries
+Length
+89.01
+89-18
+IOI
+G4-7701
+shaft 50oinm
+5.86
+0 08
++0-12
+Hinbe
+Koth

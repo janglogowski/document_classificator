@@ -1,0 +1,87 @@
+Equipment Record Report #1001953
+Date: 2024-03-14
+Unit code
+Equipment
+Technician
+Downtime
+Comments
+4c-185
+CNC Milling
+Canective
+Laura Rorei
+Plant IC
+Tientened
+bolts
+Machine
+MC-235
+Cutter
+Preventive
+Laric , GGarcia
+Plant 34
+Woodenoallet
+checked
+Nc729
+Plasma Cutter
+Inspection
+Larics Garcia
+Plant JA
+MC-231
+Asscmoly
+correcmye
+ann; Nowak
+Plant 1C
+l-cc
+battery
+Robot
+dact setviceo
+MC 295
+Plasmz Cutter
+LOtrect
+Peler schmidt
+Plant 28
+Reclared
+ccolani
+Assembly
+Insdection
+Laura dossi
+Plant 1C
+Refilled oil (HLP
+Robd
+MC-283
+Hvdrauic Prese
+Insuection
+Jankowalari
+Plant 34
+MC-779
+Conveyor Belt
+Prevenuve
+Lamra Ross
+Plant 32
+Wcndei
+cnecked
+MC-248
+4ydraunc Fiess
+Dnetent
+Peter Schmidt
+piant ZE
+enso
+recaliorateg
+All maintenance tasks hav
+comnleted
+per schedule
+Jeter
+remarkstor any tollowi-up actions
+parts replacements
+SErvice summanes
+been forurarded
+Fhc enkina-crinetezn
+Ensure next preventive  vict
+Ache duled
+according to plan;
+Lbricaticn
+chectcd
+Callbratlon Verified
+FmayRenav 5ico Tested
+Approved by:
+Senviced 0 :
+MC-J51

@@ -1,0 +1,81 @@
+BOM Report
+The parts manifest here
+designed to support procurement workflows This document provides
+detailed breakdown of all components required for the assembly process. The component roster below
+includes unit costs and batch codes: Reter to this parts register t0 planraw-materia
+purchasing: This
+extract shows the bill of components and total projected spend
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption
+Stainless
+0.35
+12.95
+Hinge
+Bolt M8
+alignment
+adilsted
+Insulation
+3.20
+57.60
+Urgent
+Foam
+Plastic
+1.10
+3.30
+Li-Ion
+Cover
+battery
+150x150
+installed
+Packaging
+40,00
+High grade
+Clamp Ring
+1.75
+40.25
+120mm
+Spring
+0,05
+1.00
+SKF brand
+Washer
+M1O
+Epoxy Resin
+7.30
+65.70
+Switch
+tested OK
+Cable Tie
+0.95
+40.85
+Urgent
+Pack (100)
+LED Light
+2.50
+60.00
+Certified
+Strip
+batch
+Sensor Clip
+0.95
+17.10
+Switch
+tested OK
+Ventilation
+39,20
+For export
+Grid
+Customer ID: SWEDEN
+Coordinator: Peter Schmidt
+2023-01-15
+Product ID: ZR-ZOSR
+Internal No.: 8812508
+Order Qty: 359
+Total Amount:
+377.95
+Date;

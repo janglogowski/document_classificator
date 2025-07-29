@@ -1,0 +1,112 @@
+BOM Report
+Customer ID:FINLAND
+Coordinator;_Anna Nowak
+Date: 2024-07-10
+Product ID: AL-1150
+Internal No
+3432162
+Order Qty: 490
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Spacer
+2.39
+200
+pCS
+0.15
+6.45
+Imported
+2mm
+Ventilation
+2.05
+0%0
+pcs
+5.60
+128.80
+Eco
+Grid
+compliant
+Battery
+2.19
+0%
+pcs
+25.00
+350.00
+Li-Ion
+Pack
+battery
+installed
+Stainless
+3.37
+10%
+pcs
+0.35
+18.55
+Imported
+Bolt M8
+Spring
+2.16
+10%0
+pcS
+0.05
+0.75
+Certified
+Washer
+batch
+M10
+Baltery
+2.91
+5%0
+pCS
+25,00
+75.00
+Switch
+Pack
+tested
+OK
+Protective
+3.05
+1.80
+34.20
+For
+Sleeve
+export
+sOmm
+Control
+1.45
+20/
+pCS
+12.00
+288.00
+Urgent
+Panel
+Mount
+Insulation
+0.65
+0%
+pcS
+3.20
+80.00
+Eco
+Foam Pad
+compliant
+Rubber
+1.85
+1092
+pCs
+0.55
+18.15
+Certified
+Stopper
+balch
+Total
+Amount
+999.90
+Approved By:
+Sourcing Department:

@@ -1,0 +1,87 @@
+Machine Log Summary
+2024-08-08
+The equipment Icg belo' includes
+coqe?
+cctrectve
+notes
+Use this record
+plan upcoming UPkeep and repars
+This section capiures equipment status
+and an4
+maintanance
+obaerations
+Belour
+the summary
+serjice actions and
+dawnlmcs
+cach machine.
+Spare Parts Used:
+Part Name
+Part No
+Oty Used
+P-7356
+Sensor Module
+P-8143
+Hydraulic Hose
+P-1958
+Qil Filter
+P3558
+Unit Code
+Equipment
+Service
+Operator
+Downtime
+Last Check
+Area
+Comments
+Ixpe
+MC- 265
+Conveyor
+Correciive
+Anna
+2025-03-18
+Replaced
+Reli
+Yoaz
+coniant
+MC-287
+Latha
+Inspection
+Peler
+2024-12-28
+Replaced
+Scnriida
+5AL
+MC-201
+Packaging
+Inspe ction
+Lamca
+2024-01-31
+Tightened
+Icose pCits
+MC-224
+Plasma
+Inspeclicm
+Pelut
+2023-09-19
+Sunsor
+Cullar
+Scnmidl
+recdlibraled
+MC-?04
+Laser
+Inspection
+Laura Rossi
+2024-08-28
+Alianment
+Cuter
+hinges
+adjusted;
+Approved bX:
+Carlos Gurcia
+Seniced ny
+Anna Nowak
+Tuut
+Huqe
+Ro3si
+Lne

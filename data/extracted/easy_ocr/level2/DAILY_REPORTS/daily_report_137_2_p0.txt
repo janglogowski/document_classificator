@@ -1,0 +1,80 @@
+Shift Summary
+Report No
+PR-483
+Customer:
+SWEDEN
+Supervisor;
+Anna Nowak
+Deparmeni:
+Machining
+Shifc;
+C (Night)
+06-04-2025
+Please review today's operalion log and ouiput Sumtmary for each workstation Below
+an overviely 0f
+machine perfommance and output figures for today's shitt  This dashboard sectian highlights any produciion
+bottlenecks
+This section details the key metrics and activities recorded during Ihe shift;
+Machlne
+Techniclan
+Star
+Finish
+Duration
+wagi
+Thermal
+Power
+Time
+(min
+Reading
+Dravi
+MC-206
+Drilling
+Pioir
+06.30
+07.44
+NIA
+2.73
+Lewandowski
+MC-207
+Assembly
+Magdalena
+14;15
+15,48
+65.0
+2.89
+Witkowska
+MC:205
+Welding
+Jan Kowalski
+08.15
+08.53
+712
+MC-209
+Cutling
+Nadia Sauter
+08.15
+09.00
+3.D0
+MC-206
+Drilling
+Przemysiaw
+07.15
+08.56
+101
+65.6
+2.05
+Wask
+MC-2o8
+Welding
+Wiktor
+07.15
+08.33
+Delay
+60.5
+1.31
+Kopczynski
+Prepared by:
+Laura Rossi
+LCOFC %d
+Jan Kowalski
+Task

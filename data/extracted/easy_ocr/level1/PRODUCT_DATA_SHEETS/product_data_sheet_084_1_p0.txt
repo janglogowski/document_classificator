@@ -1,0 +1,78 @@
+Product Data Sheet
+Praiect;
+-SSuG
+PR-261
+Prepared By:
+Ljura Ko5s
+Approved By:
+LaMa Rossi
+Location: Plant IC
+Date; 2024-04-03
+Model Txpe
+Cooling Circulation
+Design Pressure
+180 bar
+Svstem
+Fluid Flow
+60 Lamin
+Operating Voltage
+400 V/50 Hz
+Battery Capacity
+Total Weight
+250KS
+Mlotor power
+5.5kW
+Service Interval
+12 months
+Working
+IO"C
+50"c
+Reservoir
+Capacity
+Oil Type
+HLP 68
+Control Valve
+Dlrectiona
+Dimensions (LxWxHI
+1200
+700 * 1100 mm
+Type
+Wane pumn
+Cooling
+Water-coole
+exchanger
+Protection
+IP6S
+Frame Material
+numinum
+Frame
+Ensure glossary terms match the engineering nomenclature: All specifications meet the
+requirements and
+industry standards. Data sheet has been peer-reviewed by the engineering team: Ensure that the listed materials are
+approved far the application;
+Material -
+Construction:
+Labei
+47se
+Fuse 54
+Lerjmic
+Oxide
+Battery Pack
+thimm-Jon Le
+Pack
+Pressure
+Valve
+CZ1Z1
+Graphite Pad
+Glapmlc
+Support Foot Stee
+Stainless Stee
+Heat Sink ALU
+Kiumnum
+6061-T6
+Temp
+Range
+Pump
+Cizs
+dcsign
+Arss

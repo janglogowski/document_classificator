@@ -1,0 +1,83 @@
+PR-356
+Report No::
+NORWAY
+Customer;
+Carlos Garcia
+Supemsor;
+Quality Contro
+Department:
+18-03-2024
+Dale
+(Morning
+Shift:
+End Time
+Duration
+Uwagi
+Equipment
+Operation
+Workur
+Begin
+(min)
+07.03
+MC-208
+Welding
+Jan Kowalski
+06:00
+114
+NA
+Bartosz
+{2.00
+13.54
+MC-203
+Welding
+Wawizyniak
+Anna Nowak
+09.15
+10.31
+MC-204
+Drilling
+12.20
+Assembly
+Piotf
+11.00
+MC-207
+Lewendowski
+Recalibrated
+Knnt
+Nowak
+T1.00
+12.54
+Recalibrated
+MC-203
+Welding
+09.56
+MC-209
+Welaing
+Magdalena
+G8.30
+Witkow ska
+Scrap
+Comments
+Pranned Qty
+Produced Qty
+Scrap Qty
+Product ID
+12.6910
+BZ-6S0F
+260
+5906
+Scrap
+179
+169
+contirmed
+DX-7771
+2.4590
+Scrap
+GL-9805
+204
+199
+confirmed
+Laura Rossi
+Prepared bY
+Carlos Garcia
+Appraved by:

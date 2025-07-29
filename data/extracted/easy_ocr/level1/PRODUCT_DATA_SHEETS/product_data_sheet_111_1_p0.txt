@@ -1,0 +1,95 @@
+Product Data Sheet
+Project:
+SL-430M
+Interal No
+PR-954
+Prepared
+Peter Schnidt
+Approved By:
+Peter Schmidt
+Location: Plant 34
+Date
+2024-11-18
+Contirm that performance ranges comply with project requirements
+The following information outlines
+performance characteristics and design data
+This technical overview supports the product-release checklist:
+Below are Ine technical parameters and construction materials for the unit: Use this spec sheet t0 validate
+assembly instructions. This section details the configuration and parameter set for the product: Use this
+sheet
+confim engineering requirements and tolerances:
+Unit Type
+Hydraulc Power Unit
+Operating Pressure
+180 bar
+Flow Rate
+48 Lmin
+Voltage
+400 -
+Lype
+Vane
+Dimensions (LxWxHL
+4200 x 70x 1100 mm
+Charging Time
+Working Temp Range
+10"C
+Noise Level
+68 dB(A)
+Cooling
+Waler-cooled
+exchanger
+Filtration
+10 pm retum;, 25 um
+Battery Capacity
+2 Ah
+suction
+Control
+Valve
+Proporlional 4/2
+Total Weight
+180 kq
+Protection Class
+IP67
+Qil Type
+HLP 46
+Mounting
+Rack frame
+Frame Materia
+Kuminmm
+Frame
+Motor Power
+L5kW
+Material of Construction:
+Pant
+Base
+Capacitor 450V
+Limminum
+6061-T6
+Graphite Pad
+Graphite Pad
+Hex Bolts M12
+Zinc-Plated Steel
+Support Foot Stee
+Stainless Steel 304
+Ceramic
+Nut M6
+Zinc
+lated Steel
+Set
+Stainless Steel
+Power Switch
+Polycarbonate
+Copper
+Rubber Gasket B0mm
+Nitrile Rubber
+1BI
+Connccior
+Glass-Filled Nylon
+Mooden
+Pallet
+Teated
+Wood
+Pump
+Pump
+Hingo
+Pine

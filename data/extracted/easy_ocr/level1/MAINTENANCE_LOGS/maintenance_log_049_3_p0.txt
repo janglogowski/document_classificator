@@ -1,0 +1,110 @@
+Equipment Record Report
+Performed On: 2023-12-28
+Autnogizuo Dy;
+Pclur Schmidt
+Uperator;
+Peter Schmidt
+Check that all dovntime events Ar8 properly
+tegorized and
+Entries inciuce work ordere
+tecnnicibnassienments
+par changes
+Technicia
+commenig AreFecorded fonmaintenancetreng
+analyais
+Ensurealll safery checks ere
+compieted durna servicine
+This section capturos €quipment status and any maintonance cbservations
+Section
+Machine ID
+MC-246
+NC-224
+MC-212
+MC-235
+MC-292
+MC-268
+Equlpment
+Pelni Bcorh
+Hydraulic
+Palnt Bocth
+Convevcr Belt
+Packaging
+Palnt Booth
+Pruss
+ype
+Correctn/e
+InspeCrion
+nspectot
+Co[recive
+Correcinve
+Inspection
+Queratol
+Anna Nowvak
+Larios Gaici
+Anma Nawak
+Pelen Gchmdi
+Anna Ncwar
+Anne
+Vov ak
+Duration
+Notcs
+Noisugs
+Li-lon battery
+Wcrn Basket
+Wnodcn Dallct
+Reclnced
+taumc
+Dack Sencen
+renaced;
+chectF
+cuolani
+Section
+Machine ID
+MC268
+NC?92
+MC-246
+MC240
+MC724
+MC?12
+Equinmcnt
+PuiniBuoin
+Packakink
+Puintdocthi
+PuintBouth
+Hudrullic
+Coahint
+Buoth
+Fre33
+Wype
+Pievenive
+Inshcicn
+Coieciive
+Coiecmva
+Tnspecton
+Insp eclion
+Opcrator
+Lalra
+3o5si
+EnnaNownk
+Arna Nouak
+Carlos Garcia
+an Koualaki
+EnnaNownk
+Duration
+Notes
+Wooden palle
+Li-Ion battery
+Changed oil
+Senaom
+Sensc
+chBc<Bd
+pack senicBd,
+ano milters
+recalidratbo.
+recaliprated
+Uptime
+ount
+Notes
+91.5403
+Rall Wunl eMed
+logred

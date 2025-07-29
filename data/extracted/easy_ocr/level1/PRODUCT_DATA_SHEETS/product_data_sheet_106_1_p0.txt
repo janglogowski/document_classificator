@@ -1,0 +1,89 @@
+Product Overview
+Praiect:
+TL-9OX
+Repa
+Id `
+PR-SOO
+Prepared Bv
+Ljura Koss
+Approved By:
+LaMa Rossi
+Location; Plant IC
+2024-04-16
+Configuration Type
+Preumatic
+Contral Unit
+Rated Pressure
+3nn Dar
+Fluid Flow
+48 Limin
+Voltage_
+60 Hz
+Battery Capacity
+Service Interval
+Working Temp
+Range
+10C to 55*C
+Filtration
+10 pm return, 25 Am
+suction
+Frame Materia
+Aluminum
+Reservoir
+Capacity
+Cooling
+Water-cooled exchanger
+Dimensions
+(LxWxH)
+1000
+650* 100 Mn
+Charging Time
+Control Valve
+Pronorional 4 /
+Oil Type
+HLP 32
+Weight
+230Ke
+Document contro
+mumocrs JIC
+included for traccability. All summary
+comments
+have been
+recorded
+Inerevision
+log: Confirm that all test conditions are accurately represented
+Refer
+paramneler
+table for operating ranges and
+rolerances
+any missing parameters
+urgent snecification updates This closure nate indicates the data sheet is
+ready for rclease
+Ensurc that the listed materials are approved for the application.
+Material of Construction:
+Label
+Lamposition
+Snee
+Carban Stee
+Jwitcm
+rbonatc
+copper
+Pressure
+Vaive
+3tass
+CI
+Therma
+Fus €
+Leramic
+Oxide
+RubberGaske
+rumm
+Nitrile Rubber INBR)
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Date
+mont
+Frame
+Flaz =
+Poned
+Ponvcz

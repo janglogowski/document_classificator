@@ -1,0 +1,64 @@
+Component Overview
+Document No: PR-329
+Product ID: HF-3904
+2023-12-03
+Configuration Type
+Pneumatic Control Unit
+Design Pressure
+250 bar
+Fluid Flow
+48 Lamin
+Operating Voltage
+60 Hz
+Dimenslons (LxWxH)
+1200 * 700
+1100 mi
+Type
+Gear
+Working Temp
+Ranec
+10*C
+55PC
+MOISl
+Levci
+12 OBLA
+Filtration
+10 um retum; 25 um
+Tota
+Weight
+180 kg
+sucton
+Mlotor POWLr
+7.5kw
+Cooling
+waler-caoicu @xcnaneer
+Component Materjals Overviev:
+Uten
+Composition
+Specification
+Stainless Steel 304
+Heat-resistant
+Hex
+M1Z
+Zinc-Plated Stee_
+IP67
+Teflon Tape Roll
+Teflon Tape Roll
+Aniicorrosiv@
+Cooling Ge
+PJck
+Scong
+Rubber
+pnticorrosie
+Zinc-Plated
+RoHS compliant
+Prepared by: Anna Nowak
+Approved by: Carlos Garcia
+Date;
+Pump
+Pump
+Hinge
+Botts
+rated
+Nut
+Scc

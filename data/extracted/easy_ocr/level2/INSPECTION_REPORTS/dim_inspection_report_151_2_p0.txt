@@ -1,0 +1,84 @@
+Tolerance Check
+Peter Schmid
+Supensor
+2025 0403
+Inspection Date
+Tne
+inspection register below highlights
+include both passlfail markers and deviation
+ magaitumen5ro 5 ane any deviations identified
+Entries
+The following data captures key
+out-of-tolerance parts:
+CE-905L
+Xo-ZOR
+PW-S15Y
+VR-2200
+Lk 8903
+Beanng 6202
+Steel Sheet
+Code
+PU-S15Y
+6202
+Fex Bolts
+Hinge Sel
+436
+Plaslic
+Bearing
+Component
+412
+Height
+Height
+Rivets
+Wiath
+Depth"
+Measurement
+Inner
+Heighl
+9843
+Diameter
+4934
+78-18
+70,96
+718.48
+78.10
+98,39
+Nominal
+140
+18.51
+49.21
+0.04
+Actua
+1.25
+70.86
+Tlus
+~01s
+0.08
+Coo
+0.15
+Delta
+PassFall
+Components falling inspection require
+that dimensional checks are complete
+acceptance critena:
+This closure memo confins
+rates meet the defined
+corrective action_ Contfin
+immediale review
+tools Were
+properly calibrated
+Ensure
+measunng
+Instrument Calibration Log:
+Last
+Calibration Date
+Serial No;
+2025-02 -04
+Instrument
+6414
+2025 03 06
+CHM
+46112
+CMM
+Pass
+and

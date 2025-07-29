@@ -1,0 +1,62 @@
+Maintenance Checklist Report #4778904
+Dale:
+2024-09-13
+Unit Codc_
+FduiDMcnt
+Scrvicc Typc
+Operato
+Duration
+Commcnts
+MC-218
+CNC Milling
+Preventive
+Lanios Garcia
+Flant 10
+sensor
+Machin
+recalinrated
+MC-296
+rembly
+Lorrective
+Nowar
+Flant 10
+Sensor
+Robc
+(#Clibnied
+ML-298
+CNC Milling
+Inspection
+reter Schmidt
+Plant 2B
+No I55u23
+M-Ichim=
+laumd
+MC-291
+Packaging Line
+Inspection
+Lavra Rosse
+Plant Z6
+Woggen pallet
+checked
+MC 261
+Plasma Cuticr
+Inspection
+Jankowals
+Plant 34
+Refilled cil HLP
+Allmaintenance tasks hav
+deen Comdieteo
+per schedule
+Ensure nert
+Yenmv
+5erice
+scheduled according
+pian:
+Maintcnance notes are archived for compliance Judits
+cnsurttnut cach scrvicc cntrynstnerequircd jprovals;
+Lupricaiicn Checked
+Clibhlicn Ventiea
+Emerzency
+Stop Tested
+panmnmd
+Fgne0

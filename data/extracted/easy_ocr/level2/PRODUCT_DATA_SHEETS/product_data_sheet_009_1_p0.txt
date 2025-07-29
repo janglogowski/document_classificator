@@ -1,0 +1,115 @@
+Product Data Sheet
+Project;
+Report No
+DX-7770
+5350792
+Approved By;
+Locatlon; Plant 34
+Kowie
+2024-12-30
+This technical overvlew supports
+Mjlerai
+details
+tre proauct-release checklist This cata
+the following information outiines
+provides key specifications and
+TedStp
+below Includes =
+pemormance
+chzracteristics and design
+onerating Ilmits and
+data Tre parameter
+Model Type
+Cooling Circulation
+Rated Pressure
+~System
+250
+Flow Rate
+60 Lin
+Dimensions [LXWKH)
+10Q0 x 650 :
+10CO mm
+Operating
+230 VSO Hz
+Noise Level
+Pouer
+Mounting
+68 dB(Al
+Pratection
+Skld base with
+Class
+IP6S
+Oil Type
+pads
+Foral
+Weight
+Capacity
+Working Temp
+hanee
+10cto 55"€
+Battery Capacity
+Cooling
+LAh
+Air-couled
+(radiator
+Charging Time
+Material
+~Service Interval
+pE
+Pawder-coated
+500
+Lontroi
+Valve
+Material _
+Construction;
+~odei
+Heat Slnk ALU
+Hase_
+Loon Im
+Aluminui 6061-T6
+Therma
+Fuse
+PVC (Rigld_
+Rubbe
+cudo
+Oxlde
+Cabre Jie Pack(Ton)
+Nitrile Rubber (NBR)
+Connector 3p
+Nitrile Rubbe
+INBR)
+Hex Bolts MlZ
+Jiars
+Illed
+Lizht
+Steel
+Fower Switch
+Gliee
+Filled Nylon
+NBR
+Polycarbonate
+Copper
+Nitrile Rubbec {NER)
+Prcnareo
+Kowalski
+Date -
+shect
+ralinos;
+Vollabe
+Moto
+Vibtation
+Reservoit
+Frane
+Stel
+Fumo
+Pkson
+Pump
+Dicction:
+win
+Cej-Mic
+Gask [
+Nyion
+Etnp
+-Nated
+Rina
+6omm

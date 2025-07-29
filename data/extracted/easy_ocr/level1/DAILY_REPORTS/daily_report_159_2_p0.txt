@@ -1,0 +1,82 @@
+Shift Summary
+KeporNo-
+PR-769
+Customer
+GREECE
+Supervisor:
+Laura
+Department:
+Painting
+Shilft:
+[Morning)
+06-2025
+The following data
+captures production
+targets actua
+output; and any deviations
+This dashboard section
+highlights any praduction battlenecks
+Please revle % today $
+operation logand output surmary for each
+Warkstation
+Machine
+Operation
+Operator
+Stant
+Total
+Comments
+Thermal
+Energy
+duration
+Reading
+Used
+MC-209
+Polishing
+Dawid
+09.00
+10.10
+Recalibrated
+65.9
+1.17
+Oszmanczuk
+MC-209
+Drilling
+Przemyslaw
+06:15
+08.04
+109
+Delay
+74.7
+2.66
+Wasik
+MC 205
+Assembly
+Barosz
+07:15
+09.14
+79.4
+156
+Wnawnzvniak
+MC-209
+Polishing
+Piotr
+11.15
+12.32
+NYA
+75.4
+1.31
+Lewandowski
+MC 209
+Cutting
+Dawid
+07.30
+08.59
+60.9
+2.50
+Oszmiariczuk
+Prepared by:
+Peter Schmidt
+Approved by:
+Rowalski
+Rosui
+Time

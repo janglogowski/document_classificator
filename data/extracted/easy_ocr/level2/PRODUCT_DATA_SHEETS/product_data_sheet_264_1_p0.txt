@@ -1,0 +1,98 @@
+Component Overview
+Project:
+Mxe450L
+incconz
+5803618
+Prepared B%:
+Carlos Garcia
+Anprovec
+Anna Nowak
+Location: Plant 1C
+Date: 2025-01-30
+Confirm that performance ranges comply with project requirements Please review the specifications and material
+composition listed below- Entries Include both mechanical and electrical specifications: This report extract
+prepared
+design-verification audits, Ensure all referenced standards are up
+date;
+Configuration Type
+Hydraulic Power Unit
+Operating Pressure
+300 bar
+Fluid Flow
+60 Llmin
+Supply Voltage
+230V
+50 Hz
+Contro
+Valve
+Directional 4/3
+Battery Capacity
+10 Ah
+Cooling
+Vater-codled
+exchanper
+Working Temp: Range
+-10 Cto S0'C
+Mounting
+Skid base
+Mbralian
+Motor Power
+7.5kW
+pads
+ype
+Reservoir Capacity
+120
+Charging Time
+Service Interva
+500
+Frame Materia
+Stainless Steel
+Tota
+Weight
+230kB
+Dimensions (LxWxH)
+700 x 1100 mm
+Protection Class
+IP54
+Noise Level
+70 dB(A
+Refer
+parameter table for operating ranges and tolerances_
+Documenicontrol number
+included (or
+traceability- Material choices and process data have been verified for compliance. Overal
+canfiguration
+within
+defined design
+safety margins Archive this summary for -
+design-change management: Use this summary
+cross-check
+with BOM and inspection reports.
+Material
+Construction:
+Part
+Base
+Nut M6
+Zinc-Platen Stee
+Hex Bolts M1Z
+Zinc-Plated Stee
+Cooling Gel Pack
+Silicone Rubber
+Heal Sink ALU
+Aluminum 6061-T6
+Digital Display Unit
+ABS Plastic
+Graphite Pad
+Graphite Pad
+Ring NBR 60mm
+Nitrile Rubber INBR)
+Woodem
+Pale
+Treated Pine Wooc
+Pump
+Vane
+Pump
+Fraine
+1200
+and
+Future

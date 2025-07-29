@@ -1,0 +1,75 @@
+Quality Review
+This checklist captures quality inspection points and sampling levels. This summary supports the production-
+rGigase
+quallity gate: This closure summary indicates corpliance with inspection criteria_
+Confirm that
+sampling levels comply with customer agreements. Check that inspection steps follow the approved
+procedure
+The
+following table outlines inspection criteria and classification levels _
+Productd
+F-730X
+Customcrd
+CANADA
+Item Description
+Rubber Stopper
+Inspection Checklist Points
+Sample
+Clasaiication
+Notes
+Specs
+Battery not included
+Level/
+Minar issue Dbserved
+Hncdrrec
+Darcode
+Iphu
+Minor
+Isiue Dbsenved
+Dust/debris Inside packaging
+Levei
+ISS4G Obseived
+Functionality test failed
+Levei
+Missing Iogo or warning labe
+Critical impac
+Dead
+live insect inpackaging
+Levat
+Critical impact
+Instruction manual is missingor
+Level III
+Critical impact
+damaged
+Screws 0dse
+missing
+Levet
+Minor issue oserved
+Shipping mark
+illegible
+LevelIlI
+Missine
+Sharp edges on plastic
+Critical impact
+camnonents
+Wrong product size
+Level |
+Carton
+damaged
+markings
+Level III
+Needs review
+incoriec
+Incorrect quantlly
+4syormient
+Level/
+Minor
+Iiue Dbsenved
+Rubber Switch not working
+Level /
+IssuG Obseived
+Supervised by:
+Date: _
+Item
+Minar
+Nino

@@ -1,0 +1,112 @@
+Report No:: PR-419
+Customer: TURKEY
+Shift: A (Morning)
+Date: 11-09-2023
+Equipment
+Operation
+Operator
+Start Time
+Remarks
+Condition
+Spent
+MC-204
+Polishing
+Dawid
+11.30
+11-54
+NJA
+Delayed
+OszmiaNGzuk
+MC-203
+Polishing
+Dawid
+06.30
+08.08
+Delay
+Completed
+Oszmianczuk
+MC-203
+Assembly
+Pioti
+09:15
+09.52
+Completed
+Lawe
+dawsk
+MC-206
+Polishing
+Nadia Sauter
+12.30
+13.23
+In propress
+MC-207
+Cutting
+Wiktor
+13.00
+14.41
+pragress
+Kopczynski
+MC-202
+Cutting
+Jan Kawalski
+06:00
+06.43
+Delayed
+MC 203
+Cutting
+Anna Nowak
+13.30
+14-36
+Comcleted
+Record any adjustments
+shift schedules
+statling here
+Refer
+TAMan#Or
+any rework
+quality
+Cancarns
+Verify the final
+counts @gainst inventory
+Archive this output summary for end-of-day
+parting: All
+production targets
+have been logged; deviations are highlighted
+DOVC
+All operator notes have been archived
+for review-
+Product ID
+Planned
+Produced
+Scrap Qty
+Failure %
+Reworked
+Notes
+Output
+Qty
+Units
+XD-71OR
+158
+7.6006
+MR-160H
+2.1496
+MC-540X
+102
+3.9241
+Scrap
+confirmed
+NU-4402
+171
+170
+5800
+Rewark
+neaded
+PL-6012
+172
+14.5350
+Rewark
+needed
+Approved by;
+Prepared by: _
+Tinic
+cords

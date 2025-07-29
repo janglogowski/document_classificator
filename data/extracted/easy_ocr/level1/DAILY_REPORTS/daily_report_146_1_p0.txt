@@ -1,0 +1,98 @@
+Shift Summary
+KepoNo;.
+PR-577
+Customer'
+FINLAND
+Supervisor:
+Carlos Garcia
+Department:
+Painting
+Dale
+21-07-2022
+Shift:
+(Moring)
+Machine
+Operation
+Technician
+Begin
+Total
+Remarks
+duration
+MC-203
+Assembly
+Dawid
+11.15
+2.04
+Oszmlarczuk
+MC 204
+Welding
+Bartosz
+10.30
+12.03
+NIA
+Wawizyniak
+MC-208
+Welding
+Anna Nowak
+11.00
+11.30
+MC 208
+Drilling
+Agnieszka
+06.30
+0/,35
+Zieliriska
+MC-201
+Polishing
+Przemystaw
+13.30
+14.25
+Recalibrated
+Wasik
+MC 207
+Welding
+Przemysiav:
+12:15
+1414
+Wasik
+MC-206
+Polishing
+Dawid
+11.30
+12.48
+Delay
+Oszmianczuk
+parad
+Target Qty
+Acmai
+Qty
+Qty
+Rejection
+Commcnte
+890B
+279
+266
+6696
+Reworkneeded
+TA ZUE
+268
+10.0790
+DX-777
+110
+14,5590
+Scrap
+confirmed
+CE-9OSL
+0,00c6
+Rewanneeded
+ZR-205R
+9.5956
+Scrap
+confirmed
+Prepared
+4nne
+Nowak
+Approved by:
+Lamte Rossi
+pelay
+Scrap

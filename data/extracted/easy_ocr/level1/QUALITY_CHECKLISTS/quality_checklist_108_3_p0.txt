@@ -1,0 +1,50 @@
+Inspection Record
+Quality Check E
+Sample
+Defect Class
+Remarks
+Tier
+Proquct Requirements
+Critical
+Major
+Minor
+OnHold
+Ucorrect barcodc
+abci
+Level III
+Critical impact
+Batter not included
+Level III
+Needs
+Se
+incorrectonentation
+Lavel
+Critical impact
+Connector not working
+Luvel
+Needs
+cvicu
+Carton
+damaged -
+issue
+Level 
+markings
+Aconet
+ObSGNveu
+Screv
+1dore
+Missing
+Levci
+Needs [eview
+Incatrect quantily Or
+Level l
+assortment
+Reference Standards:
+Standard
+Edition
+RoHS
+2015
+UL 61010
+Ath Ed;
+Itema
+Ninor

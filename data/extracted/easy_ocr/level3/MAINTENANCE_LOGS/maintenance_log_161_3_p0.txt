@@ -1,0 +1,108 @@
+Equipment Record Report
+Performed On: 2025-05-25
+Slned ott:
+Calos Garcia
+pentormed
+Laure Rossi
+Belo ~
+the suMmary
+service actions nnd downtimes
+aach macnine
+Ensure all safery checks were completed
+servicing: Thls section captures equlpment status and any Maintenance odsenvations
+Check thal alldowntime events are
+properly categorized end logged, Use this racoro
+plan upcoming upkeep ano
+Section A:
+Machine ID
+HC-283
+KC-265
+MC-214
+MC-258
+MC-220
+Machine
+CNC Milling
+Lasei
+Cutter
+Packaging Line
+Conveyar Belt
+Plasma
+Lutter
+Machine
+Service Type
+Inspection
+ComecWive
+Inspection
+Inspecton
+Preventive
+Operaton
+Lailos Garcie
+AOials 
+Carlos Garcia
+Laura Rosai
+Carlos Garcia
+powntimo
+Comments
+Retilled o1l (HLP
+Li-Ion battery
+Refilled oll (HLP
+Wooden
+pallet
+Suntcn contacts
+sumicud
+chucked
+Cined
+Section [
+Nachine
+MC-258
+MC-214
+MC-220
+HC-283
+MC-265
+Machine
+Conveyor Belt
+Packaging Line
+Plasma Cutter
+CNC
+Lasei Cutter
+Machine
+Semice
+Type
+napachon
+ptevenfve
+Corecuve
+Comeciive
+Preveniie
+Dperator
+Peter Schmidt
+Jan Kowalaki
+Canos Garcia
+Carlos Garcia
+Jan K0valaki
+uowntimo
+Commenis
+Li-lon battery
+Alignment ot
+Na Isques found:
+No Iasues found;
+95mes Tamnc
+Dackscnnccg
+hinpes admu*tad
+Ensurerinal each sence
+entry has the
+required approvals
+Record any spare parts Usage for inventory adjustment.
+Maintenance notes are archived for compliance audits. Confirm that all corrective actions wrere properly closed out. Ensure
+naxt pravantive service
+scheduled according
+plan. AlL maintonance durations are recordad fot
+performance metrics-
+Uptimo (86)
+Ftrorcount
+Notus
+92.8027
+Replucud nct
+during
+rcpaia
+[ec*
+Mling

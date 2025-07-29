@@ -1,0 +1,65 @@
+Dimensional
+Supervisor
+AMm
+30537
+Inspection Date
+2023-11-12
+NE-2ASA
+TX-820V/
+CN-15CC
+GH-7701
+Ve-Z20d
+TR-2C08
+AZ-JOOT
+Part Name
+Battery
+Shaft
+Rubber
+0-Ring NBR
+Woncen
+Wooder
+power
+pack
+sQumm
+Gasker
+6umm
+pallet
+paller
+Switch
+summ
+Depth
+Width
+Inner
+Inickness
+Inner
+amece
+Diameter
+Nominal
+7073
+07 36
+74-.76
+4 4
+Actudi
+2u,6s
+Duta
+Pass/Fail
+Inspection notes have
+deen
+logged for traceability. All dimensions within tolerance have been marked
+OK Ensure
+stalus
+flags are updated
+the quality management system: Archive tnis inspection summary for regulatory
+dacumentaticn
+Instrument Calibration Log:
+nstrument
+serialNo
+Last Calibration Date
+Laser Scanner
+66230
+2025-06-15
+CMM
+33906
+2025-02-07
+Log
+Anicle

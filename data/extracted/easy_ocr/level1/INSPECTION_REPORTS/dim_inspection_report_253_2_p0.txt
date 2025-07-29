@@ -1,0 +1,63 @@
+Tolerance Check
+Wechnician
+Petet Schmid
+Inspection DJte
+202412 16
+Check that all dimensions comply with ISO and company standards
+This summary of measurements supports
+metrology traccability- All measurcd values are timestamped for audit purposes
+Below are the recorded
+measurements camparec
+against nomina
+talerances;
+Lode
+VR-S Ut
+XK-61QU
+JD-/UuM
+LK-8908
+Component
+Hinge Set
+Plastic Rivets
+Batter Fack
+Hinge Set
+Measurement
+Height
+Depth
+Wiatth
+Inner Diameter
+Nomina
+83.62
+7.41
+77.34
+7.43
+Actuz
+83.64
+77.48
+7.46
+O-19
+40.14
+0US
+PassFall
+Please address any NOK items before proceeding
+the mext production
+stage- Tnis closure
+memo confirms thal
+dimensions
+checks are complete: All dimensions within
+lerance have been marked
+OK, Inspection notes have
+been
+logged for traceabillty:
+Instrument Calibration L0g:
+Instrument
+Serial Noj
+Last Calibration Date
+J0144
+2025-01
+CMM
+22911
+2025-03-24
+Ncromcter
+817/5
+2025-02-25
+Callper

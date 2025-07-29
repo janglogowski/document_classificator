@@ -1,0 +1,64 @@
+Inspection Checklist
+#1822460
+Date: 17.07.2025
+Product ID
+TX-350G
+Customer ID
+BRAZIL
+Item Description
+LED Light Strip
+AlI checklist entries are iimestamped for traceability. Please review each checklist point and mark the
+sampling results
+Refer to the quality register for sampling-plan references- Entries include both visual and
+functional inspection ilems
+Archive this Iist in the quality-management system; This summary supports the
+production-release quallly
+This closure summary indicates compliance wilh inspection criteria:
+Use this
+extract t0 coordinate sign-off with the QA manager: This section details quality requirements and test points
+for Ihe batch:
+Audit Criteria
+Inspection
+Category
+Comments
+Depth
+Design Specs
+MA
+Hold
+Dead
+Jive insect in
+Level
+Minor issue observed
+packaging
+Dustldebris inside packaging
+Level
+Needs review
+Sharp edges
+plastic
+Minor isSuG observed
+components_
+Color mismatch
+Level
+Needs review
+Connector
+working
+Level
+Minor issue observed
+Missing satet labels
+Level
+Inccrrect onentation
+Level
+Minor issue observed
+AQL Level
+Critical
+Major
+Default
+Customer specitic
+All critical and major inspection points have been addressed_
+Please ensure supervised
+sign-off on any non-
+conforing points
+Checklist results have been reported t0 the quality manager. This summary supports the
+end-of-Iine quality certification: This final note confirms the checklist is complete and approved;
+gate:
+Minor

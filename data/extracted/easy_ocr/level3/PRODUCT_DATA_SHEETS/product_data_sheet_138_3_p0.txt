@@ -1,0 +1,27 @@
+Unit Data Specification
+Report No : 8265959
+ID: RE-850C
+Date: 2024-08-30
+Model Uype
+Pneumatic Contral
+Flow Ratn
+48 Umin
+Unit
+Design
+300 b3r
+Service Interval
+S0O
+Supply_
+400_V{S0Hz
+Charging Lime
+Total
+Weight
+230 kg
+Protection Class
+Mounting
+Rack frame
+Prepared by: Carlos Garcia
+Approved by: Laura Rossi,
+Product
+Prossure
+Voltago

@@ -1,0 +1,72 @@
+Product Overview
+Project;
+MC-540X
+Report No
+PR-922
+PreparedB
+Anna Nowak
+Approved BY'
+Carlos Garcia
+Location: Plant 2B
+Date: 2025-04-09
+Check that all material specs align with supplier certifications_ Please review the specifications and material
+composition listed below. Use this spec sheet t0 validate assembly instructions. The following information
+outlines performance charactenstics and design data
+The parameter register below includes operating limits
+ratings. Refer tO this configuration summary for unit-designation mapping: This data sheet provides key
+specifications and material details.
+Configuration Lype
+pydraulic Power Unit
+Operating Pressure
+210 bar
+Fluid Flow
+48 Lmin
+Supply Voltage
+230VIS0Hz
+Oil Type
+HLP 32
+Mounting
+Skid base with vibration
+pacs
+Cooling
+Air-cooled oil radiator
+Frame Material
+Powder-coated Stee_
+Control
+Valve
+Directional 4/3
+Dimensions (LxWxH)
+1200
+700
+1100 MM
+Service Interval
+500
+Noise Level
+70 dB(A)
+Pump Type
+Piston Pump
+Protection Class
+P54
+Total Weight
+180 kg
+Filtration
+pm inline; 10 VM
+Telurn
+Materia
+Construction:
+Subcomponent
+Rau MatenaL
+Hex Bolts M12
+Zinc Plated Steel
+Cooling Gel Pack
+Silicone Rubber
+Bearing 6202 ZZ
+Stainless Steel 304
+Capacitor AS0V
+Aluminum 6061-T6
+Connector 2P
+Glass Filled Nylon
+Battery Pack
+Lithium-Ion Cell Pack
+LEDLight Stp
+Glass Filled Nyln

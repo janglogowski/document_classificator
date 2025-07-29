@@ -1,0 +1,77 @@
+Inspection Summary
+#3503991
+Date: 17.07.2025
+Product
+TY-3506
+Customer
+CANADA
+Item Description
+Plastic Rivets
+Below are the items to be veritied during the tinal product review All checklist entries are timestamped tor
+traceability- This section details qualty requlrements and test points for the batch: Use this list t0 confirm adherence
+AQL
+safety standards; The following tabl
+outlines insnection criteria and dassification levels Entries include
+both visua
+functional inspection items;
+Taved
+each checklist point and mark the sampling results This
+checklist captures quality Inspection polnts and
+sampling levels. Archive this Iist In the quality-management syster
+Quality Check Items
+Sampling
+Category
+Lomments
+Level
+Product Requlrements
+Critical
+Major
+Minor
+OnHold
+Rubber Switch not working
+Level III
+Uncorrect Guantity
+Needs revlew
+dssammen
+Sharp edges
+plastic
+Level MI
+Needs review
+camponents
+Hinges
+Uos
+Critical impact
+Missing distributor
+Level MI
+Critical Impact
+intormialian
+AQL Level
+Critical
+Vaior
+Minor
+Default
+Customer
+specific
+All critical and major inspection points have been addressed
+LIsumman commentc
+nave neenvaldatem
+by the QA
+Leam. Use thls closure
+TepOM
+the quallty KPI dashboard. Checklist results have been reported
+the quality
+manager, Corrective actions are scheduled for identified issues_
+quality =
+indicates compliance with
+defined AQL levels. This tinal
+note
+confirms the checklist
+complete and approved
+ensure
+supervised sign-off
+On &ny MoM
+~conforming points:
+and
+Update
+Overa
+status

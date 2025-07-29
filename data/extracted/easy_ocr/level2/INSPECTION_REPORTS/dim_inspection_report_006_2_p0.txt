@@ -1,0 +1,65 @@
+Measurement Summary Sheet
+Technician
+Ana Nowiak
+Inspectinn Datr
+2024.02-28
+following data captures key dimensions and any deviations identified. Please
+each component listed
+'iew the inspection results for
+below The Inspection register below highlights any out-of tolerance parts; This
+the measurec
+Vaies
+tolerances; and status
+section details
+Product Rut
+WD-1505
+Component
+LX-8908
+QP-660F
+BZ 660F
+MR-160H
+Rivets
+Hex Bolts
+M1Z
+Shaft
+Hearing 6202 ZZ
+dUmim
+Measurement
+Inner Drumerer
+Widtn
+Uhickness
+Tnickne: <
+Vamer
+75,51
+26.24
+Obsenved
+75.67
+27,72
+29.89
+38 43
+Dcita
+40.1
+Z0 1
+22.78
+PasstFail
+All dirensions within tolerance have
+Marken
+OK_ Please address
+any NOK items before proceeding
+production stage: Record any measurement aromalies for follow-Up analysis:
+Instrument Calibration Log:
+Instrument
+Serial No
+Mcrometer
+Last Calibration Date
+72872
+2025-04-15
+Micrometer
+14185
+2025-06-13
+Mlags
+pla iG
+0-RIrr;
+soomm
+Ho e
+bzen

@@ -1,0 +1,58 @@
+Equipment Record Report #1782515
+Date
+2024-09-20
+Machine
+Equipment
+Type
+Operator
+Duration
+Site
+Notes
+MC-282
+Packaging
+Correclive
+Carlos Garcia
+Plant 1C
+Replaced
+(SAL
+MC-214
+Plaema Cumer
+Corective
+Carlos
+Plant 34
+Worn
+replaced
+MC-225
+Laing
+Insuccuon
+Laura Rossi
+Plant 34
+WvaouUm
+palle
+checked;
+MC-276
+CNC Milling
+Insdection
+Carios Garcia
+Plant 1C
+Cnanded Oil
+Machine
+und (illers
+Record any spare parls usaga (or inventory adjustment_
+Sennce
+summarie s have bean [cnvanded
+Ihe engineenng
+team: Refer :
+remarks for any follow-up aciions
+parts replacements
+Malntenance notes are
+Archived ar comciance
+audits , This log summary suppors the asset-management dashboard  Flag any recurring issues for root-cause
+investigation ,
+Lubric-ar Chucked
+Calibration Verified
+Emergency Stop Tested
+Approved by;
+Serviced by: _
+Garcia
+gesker

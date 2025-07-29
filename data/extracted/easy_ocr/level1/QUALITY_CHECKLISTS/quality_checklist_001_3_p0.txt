@@ -1,0 +1,72 @@
+Audit Trail
+Inspection Checklist
+Sampling
+Severity
+Observations
+Points
+Level
+Item Specs
+Critical
+Major
+Minor
+OnHold
+Rubber Switch not
+Level III
+working
+Wood splinter or sharp
+Minor issue observed
+point
+product
+Hinges loose
+Level
+Minor Issue observed
+Connector not working
+Crilical impacl
+Sctews Ipose Or missing
+evel
+Needs review
+Sharp edges on plastic
+Level |
+Minor issue observed
+components
+Missing distributor
+Level |
+Minor Issue observed
+infouation
+Visual defect on
+Level IlI
+Minor issue observed
+housing
+Shipping mark is
+missing
+Level III
+Crilical impact
+illegible
+Dustildebris inside
+Level |
+packaging
+Product doesn"t pover
+Level II
+Minor issue observed
+Not assembled as per
+Level (
+Needs review
+drawing
+Functionality test failed
+evol
+Minor issue
+observed
+Paint smearing
+Critical impact
+scratches
+Instruction manva
+Level |
+Minor issue observed
+missing or damaged
+Reference Standards:
+Standard
+Edition
+CE Directive
+2020
+IEC 61010
+3rd Ed;

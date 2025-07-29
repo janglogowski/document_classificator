@@ -1,0 +1,102 @@
+Conformance
+Contirm that sampling levels comply with customer agreements
+This section details quality requirements
+and test points for the batch: Please reviow each checklist
+and mark the
+sampling results. The
+following table oullines inspection criteria and classification levels. Refer to the quality
+for sampling-
+plan reterences
+Entries include both visual and functional inspection items.
+Tnis checklist captures quality
+inspection points and
+sampling levels
+Product ID
+PW-515Y
+Customer ID
+BRAZIL
+Iten Descrption
+Aninum Bracket
+Audit Criteria
+Inspection
+Severity
+Comments
+Depth
+Design Specs
+Critica
+Major
+Minor
+OnHold
+Incorrect barcode
+Level Ill
+Needs review
+labci
+Not assembled as per
+Level IlI
+Needs review
+drawing
+Instruction manual
+Level Il
+Needs review
+missing
+damaged
+Package
+not scaled
+Minor issue
+completely
+pbserved
+Missing safety labels
+Needs review
+Packaging does not
+Level III
+Needs review
+match signed sample
+Minor issue
+Visual defect on housing
+Level =
+observed
+Functionalit_test failed
+Level
+Missing logo
+warning
+Level Il
+Critical impact
+label
+Rubber texture
+Level Ill
+glossiness mismatch
+Dustidebris inside
+packaging
+Connector no
+working
+Color mismatch
+Needs review
+uncorreci
+orientation in
+Issue
+Level Il
+box
+ocsenco
+Incorreci
+quantity
+Level Ill
+assortment
+Rubber Switch not
+Level |
+working
+Wood splinter
+sharp
+Level =
+Needs review
+point on product
+odSe
+parts inside
+Needs review
+packaging
+Supervised by:
+Date:
+Log
+point
+regisler
+Level
+Minor

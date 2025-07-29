@@ -1,0 +1,81 @@
+Shift Summary
+Redar ND;:
+PR-698
+Custamer-
+CANADA
+Supervisor:
+Anna Nowak
+Department:
+Machining
+Date;
+07-02-2024
+Shift:
+(Moming)
+Equipment
+Task
+Worker
+Start Time
+Enmtime
+Duration
+Remaree
+(min)
+MC-207
+Drilling
+Jan Kowalski
+14-00
+15.18
+NA
+MC-207
+Assembly
+wiktor
+11-15
+11.59
+Kopceyrski
+MC 205
+AsseibIY
+Malcusz
+10.00
+11.0/
+Jarzyna
+MC-20}
+Assembly
+Kowalski
+09-00
+09.38
+MC-204
+Iding
+Kowdlski
+13.15
+14559
+MC- 201
+Drilling
+wiktor
+13-00
+14.04
+N{A
+Kopczytiski
+Part ID
+Planned Qty
+Produced Qty
+scrap
+Fallure
+Motes
+RX-310Z
+12.4196
+Kewoneneeded
+XD-7IOR
+165
+13.16%
+Scrap confirmed
+XK-610U
+245
+7874
+Scrap contirmeo
+VF-ZZOD
+11.635
+Rewor needed
+Prepared b%:
+Anna Nowak
+Approved by:
+LJura koss
+Delay

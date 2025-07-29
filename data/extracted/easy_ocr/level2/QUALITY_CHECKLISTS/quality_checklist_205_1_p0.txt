@@ -1,0 +1,64 @@
+#4339176
+Conformance Report
+Date: 17.07.2025
+KV-390k
+CusomeriD
+SWVEDN
+Product ID
+Item Desciption
+Epoxy Resin Kit
+Entries include both visual and functional inspection items. All checklist entries are timestamped for traceabilty
+Please review each checklist point and mark the sampling resuits This summary supports the production-release
+quality
+This section details quality requirements and test points for the batch Refer to the quality register for
+gate
+sampling-plan reterences_
+Review Points
+Inspection
+Category
+Notes
+Depth
+Component Crtera
+Missinp
+Iety labels
+Levei
+CuucaliMpag
+incomecl onentaton
+Leve
+Cnticalimpac
+incomec
+dsonment
+leve
+Minor issue ohened
+Not assembled
+Ber drawing
+Mrong produd size
+Criticalimpad
+Color mismatch
+Level!
+Necas revel
+Packaging does not match
+Needs revie 
+sample
+Instruction manua
+missing
+Critical impact
+Level
+damaged
+Exposed nai
+Wtn snard
+Point
+Missing distrbutor information
+Leve
+Needs (euem
+UMsua
+devect onnousinS
+Mnor
+AQL Level
+Critical
+Major
+Default
+Gustomer
+specific
+quantay
+sened

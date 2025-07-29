@@ -1,0 +1,61 @@
+Quality Verification
+Quality Check Items
+Sample Tier
+Category
+Remarks
+product
+Requirements
+MA
+Hold
+Instruction
+Munuj
+missing
+Level III
+Needs reviewv
+damaged
+Incorrect quantity
+Jscortment
+LCvc
+Minor issue observed
+defect on housing
+Rudde
+Switch not working
+LCVC
+Exposed nail with sharp point
+Critical impact
+pead
+Jvcinsect
+packaging
+Minor KSuC OOSCNcm
+SCICWSJOSc
+missing
+ISSuC ouscrcu
+Sharp edges on plastic
+Level
+Minor issue observed
+cuinponemg
+Functionality test falled
+LCvC
+Critical Impact
+ncorechbancaue
+abei
+Leve
+Laton
+damaged or markings
+LevelE
+Minor issue observed
+incorrect
+Rubbe
+eMce
+BlossInESS
+Level
+Needs review
+mismatch
+Reterence Standards:
+Standard
+Edition
+CE Directive
+2015
+IEC 61010
+Visuj
+Minot

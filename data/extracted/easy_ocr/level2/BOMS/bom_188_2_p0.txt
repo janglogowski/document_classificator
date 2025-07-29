@@ -1,0 +1,33 @@
+Customer ID: BRAZIL
+Prepared by: Laura Rossi
+Product ID: QN-770H
+Interna
+No.
+3473290
+Item
+Protective Sleeve
+Protective Sleeve
+Description_
+somm
+Insulation Foam
+Hex Bolts
+Qty
+somm
+Pad
+182
+UOM
+309
+Unit Price
+Amount
+327.60
+284.40
+Remarks
+imponed
+2.467.20
+77.25
+Li-lon battery
+SKF brand
+installed
+ROHS compliant
+TOTAL: 3,156.45
+H12

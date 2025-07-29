@@ -1,0 +1,102 @@
+Production
+Report No::
+PR- 206
+Customer:
+FRANCE
+GunermsOr
+Laura Rossi
+Department:
+Quality Control
+Date
+17-06-2024
+Shift:
+(Evening)
+Machino ID
+Tast
+Worker
+Start Tlme
+Endtime
+Total
+duration
+MC-203
+Assembly
+Wiktor
+12.16
+13.53
+Delay
+Kopczyriski
+MC-207
+Drilling
+Kowalski
+07.30
+08.59
+MC-203
+Drilling_
+Laneowalski
+1450
+153
+Delay
+MC-204
+Wclcing
+Przamnyslaw
+13.00
+14.57
+Recalibrated
+Wasik
+MC-208
+Polishing
+Dawid
+I1:00
+1;52
+Deley
+Oszmiariczuk
+MC-208
+Pelishing
+Anna Nowak
+08:15
+09,5F
+MC-203
+Welding
+Nad
+Sauter
+10.30
+MC 208
+Drilling
+Magdalena
+13.00
+14.8
+Witkowska
+MC-207
+Welding
+wiktor
+08;15
+09.21
+Kopczynski
+Pan ID
+Planned
+Actual Qty
+Rejected Qty
+Failuro
+Uwagi
+Output
+GH-770]
+13.5300
+DX-777
+4690
+BZ-6E0F
+7896
+Scrap
+confirmed
+GL-9805
+154
+5.849
+GL-98CS
+279
+8918
+Rework neuded
+Preparedby;
+Anna Nowak
+Annroved n .
+Annanowa 
+Log
+Uwap

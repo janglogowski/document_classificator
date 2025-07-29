@@ -1,0 +1,78 @@
+OF
+MATERIAL
+Item
+Qty
+UOM
+Rate
+Description
+Amount
+Remarks
+Rubber
+PCs
+Stopper
+19.80
+ISO-
+Stainless
+pcS
+venfied
+Bolt MB
+0.35
+12.95
+Epoxy
+PCS
+0.30
+Resin Kit
+pCS
+7.30
+189.80
+Imported
+Gasket
+Sheet As
+DcS
+1.25
+11.25
+ISO-
+Hinge Set
+verfied
+Clamp
+PCS
+2.50
+10.00
+pcs
+1.75
+50.75
+Switch
+120mm
+tested OK
+Terminal
+Block 4P
+pcs
+3.40
+119.00
+The cost subtotal supports financial-
+reconciled with the purchase
+forecasting for the next cycle: Ensure this materials
+listed components
+order
+Cross-verify totals with the ERP system fof
+summary
+been verified for
+availability and
+consistency: All}
+compliance:
+Customer ID_BRAZIL
+ProductD MS-6OQR
+Coordinator Peter Schmidt
+Date:2022-11-03
+Intema
+No; 1938457
+Order
+QIL 413
+Total Amount
+4145
+BILL
+0,55
+Fuse
+3.90
+Ring
+nave

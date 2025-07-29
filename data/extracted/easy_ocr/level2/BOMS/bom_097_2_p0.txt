@@ -1,0 +1,50 @@
+Customer ID: TURKEY
+Prepared by: Jan Kowalski
+Product ID: CN-150C
+Internal No;: 7788612
+Please reviewthe itemized list of parts arid material specifications before procurernent Use this
+breakdownto verify sourcing and cost estimates. The component roster belowincludesunit costs
+and batch ccdes, This extract shows the bill of components and total projected spend. Ensure each
+comdonent
+meets the specified quality standaros
+Item
+LED Light
+Hinge Set
+Battery Pack
+Wooclen
+Ceramic Disc
+Description
+Strip
+Damnt
+B0mm
+Qty
+815
+610
+907
+413
+UOM
+DCS
+pcs
+Unit Prico
+2.50
+25.00
+16.00
+2.10
+Amount
+2.037.50
+1,525.00
+22,675.00
+285.00
+1,484.70
+Remarks
+Eco
+SO-verified
+Certified
+Li-Ion battery
+Hinge
+compliant
+patcn
+installed
+aligoient
+adjusted
+TOTAL: 34,007.20

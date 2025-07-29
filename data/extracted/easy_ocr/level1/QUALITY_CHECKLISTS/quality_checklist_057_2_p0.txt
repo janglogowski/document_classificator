@@ -1,0 +1,52 @@
+Inspection Summary
+Below are the iters
+be verifled during the final product revlew. Thls sectlon detalls quality requlrements and test
+points for the batch; This summary supports the praduction-release quality Gate, Ensure
+non-contorming marks are
+clearly Cocumented:
+Product ID
+SL 430M
+custamcrd
+POLAND
+Item Description
+Teflon Tape Roll
+Inspection
+Checklist Points
+Sampling
+Category
+Remarks
+Levei
+Specs
+Critica
+Major
+Minor
+OnHold
+Dead
+live insect in
+Needs review
+packaging
+Screws loose
+Missinp
+Level
+Connector
+working
+Leve
+Needs review
+Incorrect quantity or
+Level [
+Minor issue observed
+Assonm
+Kat assembled
+per drawing
+Minor Issue Odsenec
+Exposed
+with sharp
+Needs revieN
+Sharp edges
+plastic
+Level II
+cumpanenis
+Supervised bv:
+Date:
+lem
+poxnt

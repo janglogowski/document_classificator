@@ -1,0 +1,42 @@
+Customer ID: CANADA
+Prepared by: Carlos Garcia
+Product ID: HF-390A
+Internal No:: 9690095
+Item
+Sensor Clip
+Ceramic Disc
+Copper Wire
+Control Panel
+Ventilation
+Description
+BOmm
+Bmm
+Mount
+Grid
+Qty
+321
+758
+280
+132
+452
+UOM
+pC5
+pcs
+Unit Price
+2.10
+0.60
+12.00
+5.60
+Amount
+304.95
+1,591,80
+168,00
+584,00
+2,531.20
+Remarks
+For export
+SKF brand
+ISO-verifled
+Li-Ion battery
+Installed
+TOTAL: 6,179.95

@@ -1,0 +1,111 @@
+Tolerance Check
+Inspection performed by Anna Nowak on 2024-10-08.
+the dimensional measurements
+inspection results Refer t0 the dimensional /0g tor
+This repont presents
+size readings Check that =
+dimensions comply with ISO ad company standards
+Review"
+component
+recorded tolerances against engineering specifications
+Environmental
+Conditions: Temperature: 20.6
+C; Humidity 51 %
+Anticle No:
+Pant Name
+Measurement
+Nomina
+Observed
+Diff
+Status (VIXL
+94.77
+94. 88
++0.11
+VR-940T
+Wooden
+Lengin
+Pallel
+Hole
+49.94
+50.09
+40.15
+ZR-205R
+Hex Boits
+M12
+MS-6oop
+Plastic
+Hole 0
+8.18
+8.17
+~0.01
+Riels
+75.21
+75.17
+~0.04
+OK
+LP-S55V
+Shaft
+Wiath
+500mm
+CE-905L
+Plastic
+Inner
+17.27
+17.38
++0.11
+Riets
+Diameter
+PL-6012
+Bateny
+Heighi
+69.44
+69.43
+~0.01
+Pack
+GH-770]
+Battery
+Widin
+36.61
+36.54
+0.07
+OK
+Pack
+91.42
+91.29
+~0.13
+KV-390K
+Plastic
+Inne
+Riels
+Diameter
+CN150C
+Hex Bolts
+Tnickness
+66.02
+66.06
++0.04
+M12
+20.98
+21.15
+70.17
+Ok
+HF-390A
+Graphite
+Wiaih
+Pad
+AL-1150
+Battery
+Inner
+48.78
+48.62
+~0.16
+Pack
+Diameter
+OP-G60F
+Battery
+Lengih
+81.62
+81.61
+~0.01
+Pack
+and

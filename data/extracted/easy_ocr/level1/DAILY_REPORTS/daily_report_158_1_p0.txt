@@ -1,0 +1,114 @@
+Report No::
+PR-789
+Custom@
+POLAND
+Supersor-
+Anna
+Nawak
+Department;
+Packaging
+Date:
+23-10-2024
+shift:
+(Morning
+Equipment
+Process
+Operator
+End Time
+spent
+MC-204
+Drilling
+Mateusz
+14.15
+15.12
+Jarzvna
+MC-20}
+Assembly
+Maleus
+07.15
+08.56
+Recalibrated
+Jarvna
+MC 204
+Drilling
+Banosz
+06.00
+07.54
+114
+Recalibrated
+Wawrzyniak
+MC-207
+Welding
+Agnleszka
+12.30
+12.59
+NYA
+Zielinska
+MC 204
+Drilling
+Nadia Saute
+10.15
+MC-20S
+Welding
+Anna
+Notval
+07.30
+08.59
+MC-206
+Drilling
+Annz
+Nowak
+MC-20S
+Welding
+Nadia Sauter
+MC-201
+Drilling
+Mateusz
+13.15
+14.13
+Delay
+Jamyna
+MC-206
+Welding
+Magdalena
+12,00
+13.22
+Kecambrated
+Wit-Owsk
+Mc-208
+Cutting
+Nowijk
+06,30
+07.32
+NA
+Item
+Planned Qty
+Produced Qty
+Scrap Qty
+Remarks
+AS0M
+249
+439
+Scran confirmed
+AL-115Q
+146
+6.858
+Rewan
+needed
+RX-310Z
+278
+8895
+Kewanknccccd
+GL-980s
+258
+'1896
+Kewiorkneedeo
+Prepared by:
+Anna Nowak
+Approved by:
+anna No al
+From
+Tinic
+Notes
+anna
+Scrap

@@ -1,0 +1,65 @@
+Product Data Sheet
+Ensure all referenced standards are up
+date, Entrios Include both mechanical and electrical
+specificallons
+This report extract
+prepared (or design-verification audlts, Check Ihat all material specs
+allgn wilh suppller cerlificallons; The parameter reglster bolow Includes operating Ilmits and
+Product ID;
+MR-IG0H
+Document NO;
+PR-102
+Prepared by: Anna Nowak
+Approved by: Anna Nowak
+Dale: 2025-04-21
+Unit Type
+Hydraullc Power Unit
+Dosign Prossuro
+210 bar
+Flow Rato
+48 Umin
+Oporating Voltage
+400
+50 Hz
+Baltery Capaclty
+5 Ah
+Pump
+Vane Pump
+Reservoir Capaclty
+120
+Total Woight
+230 kg
+Cooling
+Air-cooled
+radiator
+Check that all section headers follow Ine product template. Refer t0 parameter table for operaling ranges
+and tolerances;
+summary comments have been recorded
+Ihe revision log;
+Overall configuration Is
+wilhin dolined design and safety margins,
+any missing parameters for Urgent specilicallon updates ,
+Malerial of Construcllon'
+Subcomponent
+Raw Malorial
+Ceramic Oxide
+Baltery Pack
+Lihlum-Ion Cel Pack
+Wooden Pallal
+Hrealed Plne Wood
+Lighi Strip
+Glass-Fillad Nylon
+Heat Sink ALU
+Aluminum 6061-T6
+Pressure Valve
+Brass CZ12I
+Nul MG
+Zinc-Plaled Steel
+Loom Im
+PVC
+ralings;
+Typo
+Flag
+Fuge
+Wicing
+(Rigid)

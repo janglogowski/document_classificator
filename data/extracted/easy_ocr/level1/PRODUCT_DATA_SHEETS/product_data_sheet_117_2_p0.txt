@@ -1,0 +1,70 @@
+Confirm that performance ranges comply with project requirements
+Use this spec sheet t0 validate
+assembly instructions. Check that all material specs align wilh supplier cerifications_
+This technical overview
+supports Ine product-[
+lease checklist  This data sheet provides key specifications and material details. Use
+this sheet to confirm engineering requirements and
+olerances
+This report extract is prepared for design-
+verification audits:
+Product ID:
+PW-515Y
+Repon No:
+PR-365
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia
+Date: 2024-07-30
+Model Type
+Cooling Circulation
+Rated Pressure
+300 bar
+System
+Fluid Flow
+48 Lmin
+Voltage
+480 V {60 Hz
+Control Valve
+Manual
+Overide 32
+Reservoir Capacity
+420
+Frame Materal
+Aluminum Frame
+This closure note indicates the data sheet Is ready for release;
+Document control numbers are included for
+traceability. This surnmary reflects Ihe latest revision of Ihe product data
+All summary comments have been
+recorded
+the revision log- Refer
+parameter table for operating ranges and tolerances 
+Material 0i Construction:
+Subcomponent
+Base
+Pressure Valve
+Brass CZ121
+Connector 2P
+Filled Nylon
+Ring NBR 60mm
+Nitile Rubber (NBL
+Battery Pack
+Lithium-Ion Cell Pack
+Lapaciom
+Aluminum 6061-T6
+Hex Bolts M12
+Plated
+Ceramic Oxide
+Graphite Pad_
+Graphite Pad
+Heat Sink ALU
+Aluminum 6061-T6
+Wooden Pallet
+Hreated Pine Wood
+Wiing Loom Im
+PVC (Rigid)
+Power Switch
+Polycarbonate_
+Copper
+Giass
+Zinc
+Fusc

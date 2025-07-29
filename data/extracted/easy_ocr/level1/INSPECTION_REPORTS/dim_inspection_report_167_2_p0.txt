@@ -1,0 +1,73 @@
+suenisor
+Anna
+4owa
+inspection Date
+2074-07-15
+Below are the recarded measurements
+compared against nomina
+rancps
+Use this results summary
+trigger any
+corrective
+actions The following data captures key dimensions and Jny deviations identitied: Use this examination
+qummar
+confirm component conformity.
+Aricie No
+B4-6bUF
+RL-JUC
+1a0s
+ON-uh
+56-[J0u
+Pw-515Y
+Kv-390k
+component
+Hex Bolts
+Hex Bolts
+Plastic
+Plastic
+Wooden
+Wooden
+8Larine
+Rvvets
+6202 22
+Dim
+Height
+Wuidto
+Thicknefs
+Width
+Lengtn
+Width
+Nomina
+Ac[uz
+25,86
+53.25
+8.04
+60.81
+Diff
+pass /Fail
+Components failing inspection require immediate review ang
+corrective agion
+Please
+Jddress
+any NOK items before
+proceeding
+the next production stage
+Refer
+deviation column for any out-of-tolerance measurements Ensure
+status
+updated
+the quality management system:
+instrument
+Calibration Log=
+instrument
+Serial No
+Calibration Date
+89385
+2024-07-30
+Nicromcter
+64319
+2025.06 08
+Puvets
+05 27
+Mlags :
+CMM

@@ -1,0 +1,104 @@
+Unit Configuration
+Project:
+CE-905L
+Interal No
+5860439
+Prepared
+Anna Nowak
+Approved By:
+Kowalski
+Location: Plant 34
+Date
+2024-01-30
+This data sheet provides key specitications and material details. This report extract
+prepared for design-
+verificalion audits
+Please reviewv the
+specifications and material composition listed below: Use this spec
+sheet to validate assembly instructions. The parameter register below includes operating lmits and
+@nsure
+all referenced standards are up
+date .
+Unit Type
+Cooling Circulation
+Design Pressure
+210 bar
+Svsiem
+Fluid Flow
+60 Lmin
+Voltage
+400 VIS0Hz
+Battery Capacity
+Frame Material
+Aluninun Fraine
+Service Interval
+1000
+Filtration
+10 pm return, 25 VM
+suction
+Mounting
+Rack frame
+Reservoir Capacity
+Total Weight
+230 kg
+Noiso Lovel
+72 dB(A)
+Working Temp
+Rango
+C to 45'C
+Control Valve
+Manual Override 3/2
+Dimensions (LxWxH)
+1200
+700
+100 mm
+Charging Time
+2h
+Cooling
+Water-cooled
+Pump Type
+Gear Pump
+exchanger
+Protection Class
+Oil Type
+HLP 32
+Motor Power
+kW
+Ensure that the Iisted materials are approved for the application_
+This closure note indicates the data sheet
+ready for release. Confimm that all test condilions are accuralely represented. Dbcument control numbers
+are included for
+traceability.
+Malerial 0f Construction;
+Label
+Composition
+LED Light Stip
+ass
+illed
+Support Foot Steel
+Stainless Steel 304
+Hex Bolts M12
+Zinc-Plaled Steel
+Digila
+Display Unit
+ABS
+laslic
+Pressure Valve
+Brass
+Graphite Pad
+Graphite Pad
+Capacitor 450V
+Aluminum
+6061-T6
+Heat Sink ALU
+Aluminum 6061-
+Hinge Sec
+Stainless Steel 304
+Power Swilch
+Polycarbonale
+Copper
+Connector 2P
+Glass-Filled Nylon
+Thermal Fuse
+Ceramic Oxide
+relings.

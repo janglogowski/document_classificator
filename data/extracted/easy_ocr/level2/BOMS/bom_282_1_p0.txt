@@ -1,0 +1,100 @@
+BOM Report
+Customer ID: TURKEY
+Coordinator: Carlos Garcia
+Date; 2025-05-23
+Product ID
+CN-150C
+ntern?
+No.
+3614888
+Order Qty: 241
+All entries refiect the latest inventory ad supplier rates Review the materials tally for compliance with
+budget allowances.
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Protective
+1.19
+66.60
+Switch
+tested OK
+Sleeve
+SOmim
+Grease
+2.12
+1.90
+41,80
+Urgent
+Tube
+250ml
+Battery
+0.55
+25.00
+950.00
+Li-Ion
+battery
+Pack
+installed
+Heat
+10%
+2,70
+59.40
+Hinge
+Resistant
+alignment
+Sieeve
+adjusted
+Poiver
+0.46
+1036
+1.20
+24.00
+Li-Ion
+Switch
+battery
+installed
+Plastic
+1,10
+24.20
+Cover
+150x150
+Battery
+2.76
+pcS
+25.00
+75.00
+verified
+Pack
+LED Light
+2.55
+10%6
+2.50
+102.50
+export
+Strip
+Gasket
+0.54
+1.25
+41.25
+Switch
+tested OK
+Sheet A4
+Insulation
+1.38
+3,20
+48.00
+Pad
+Amounts reflect current pricing; adjust as necessary for bulk orders: Final amounts include handling and
+logistics costs where applicable: The cost subtotal supports financial forecasting for the next cycle:
+Tata
+Amount:
+1,432.75
+Approved By:
+Sourcing Department:_
+Foam

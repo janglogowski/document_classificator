@@ -1,0 +1,101 @@
+keport No =
+PR-605
+Customer
+FINLAND
+Supervisor:
+Peter Schmidt
+Department:
+Machining
+Date:
+19-11-2023
+Shilt:
+Evening
+Machine
+Process
+Worker
+Begin
+Total Time
+Camments
+MC 203
+Welding
+Piotr
+06.00
+07.59
+Lewandawski
+MC-203
+Culling
+Kowalki
+08-15
+08-52
+MC-203
+Welding
+Pial
+08.30
+09.02
+Lewandawski
+MC 209
+Polishing
+wiktor
+10.30
+12-29
+Kopczynski
+MC-208
+Assembly
+Dawid
+11.30
+12-55
+Oszmianczuk
+Mc-207
+Cutting
+Mateusz
+03-Oc
+09.20
+Jarzyna
+MC-208
+Polishing
+Anna Nowvak
+1L-00
+12-41
+MC-201
+Polishing
+piatr
+10.00
+11.19
+Delay
+Iandowski
+MC-202
+Polishing
+4nnz
+Nowar
+11.15
+12.02
+Delay
+Mc-203
+Drilling
+Kowalski
+03.00
+09.38
+Reca
+librated
+Product ID
+Target Qty
+Produced Qty
+Scrap Qty
+Scrap
+Remarks
+HF-Jcde
+8576
+Rework needed
+NE-2AS4
+195
+8822
+confinmied
+LP-555V
+5996
+Rework needed
+Prepared DY:
+Peter Schmidt
+Approved
+Laura Ross
+Scrap
+by:

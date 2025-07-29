@@ -1,0 +1,160 @@
+Unit Data Specification
+Repor
+QN-ZToH
+Prepared By:
+Approved By:
+Lauie
+Rasei
+Locatian
+Plant JA
+Daro
+2024-04-21
+Anna Nowak
+Use this sheet
+contirrn
+release
+engineering requlrements and tolerances
+checklist. This section details the
+This technica
+Overviev
+supports the,
+funges
+corply wizh
+'configuration
+parameter set for the product_
+ploduci-
+dala
+project requirements
+information
+Contirm that perfarmance
+outlines performance characteristics and
+cesign
+Configuration Type
+Cooling Circulation
+Rated Pressure
+Svstem
+210 bar
+fluid Flow
+Llmin
+Working_
+Mounting
+LsoHz
+Protection
+rame
+Spmn inline
+return
+Class
+Luvei
+IPGA
+1 12 dBC
+Dimensions
+1200
+1100 mm
+5.5 KW
+Cooling
+Fnme
+Materia
+Ai-caalen
+oil radiato
+Aluminum
+Battery Capacity
+5 Ah
+Charging
+Control Valve
+Service Interva
+Proportiona
+1000
+Weight
+160
+Type
+HLP 46
+Lype
+JeJr
+Overall configuration
+Vaithin
+delined
+industry standards
+cesign and safety margins
+specifications
+Check tnat all section headers
+Mxer
+rcqwremente
+accurately represented
+follow the
+template
+Contitm -
+This closure note
+indicates trie
+that all test conditions arg
+incluced for traceability: Ensure
+sheet
+ready for
+release; Document
+that the
+materials
+approved
+corcra
+numbers Jre
+tor the application
+Material of Construction:
+Part
+Connector 20
+8asu
+Power Switch
+Glass-Filled Nyon
+Insulated
+Tube 25mm
+Polvcarbonate
+Therma
+Euse
+plastic
+Palyuretnane (TPU)
+Pressure
+ceramic Oxide
+Brass CZ1zI
+Digital Displav
+Lithium Ion Cell Pack
+Pallut
+ABS Plastic
+Treated
+Pine Wood
+Pack
+Ceramic
+Tetlon Tape Roll
+Teflon Tape Roi
+Proice
+0371097
+fallovlng
+Voltzge
+Temp
+Range
+5 Cto
+Fihtratlon
+Rackl
+1QM
+Nolte
+Motor
+(LWxh
+Power
+Frate
+Time
+Tota
+Resetvoin
+Capacity
+Pump
+Pump
+design E
+ptoduet
+data
+Astcd
+Copder
+Tnem
+Valve
+aneny
+Pack
+Unit
+Wooden
+Cooling
+Oxidt
+smicone
+RubbCT

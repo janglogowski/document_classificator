@@ -1,0 +1,127 @@
+DAILY PRODUCTION REPORT
+PR-621
+Report
+TURKEY
+Customer:
+Anna Nowak
+Supervisor:
+Maintenance
+Department:
+(Night)
+75-01-2025
+Sriit:
+The summary below lists
+stallon'$ actual
+figures are recorded for capacity planning
+follow-Up. Please review today 5
+AIl throughput
+downtime incidents are noled
+versus
+pianned output: Ensure any
+warkstation:
+and oulput summary for each
+operation log
+Duration
+Remarks
+Thermal
+Energy
+Technician
+Stant
+End
+Reading
+(kWh)
+Machine
+Task
+Time
+Time
+(min
+1.73
+NIA
+12.15
+13.32
+MC-204
+Culting
+Dawid
+75.3
+Oszmiariczuk
+10.00
+11.32
+MC-203
+WNelding
+Agnieszka
+73.8
+Zlelinska
+11,53
+Wiktor
+MC-203
+Welding
+62. (
+1.05
+Kopczynski
+10.30
+10.51
+MC-207
+Drilling
+Przemystaw
+65.7
+2.86
+Wasik
+14.05
+110
+MC-205
+Assembly
+Przemysiaw
+12.15
+1.61
+70.5
+Wasik
+11.35
+Delay
+Przemyslaw
+11.00
+MC-201
+Polishing
+80.6
+2.77
+Wasik
+14.00
+14,21
+Recalibrated
+MC-205
+Cutting
+Mateusz
+77,0
+2.21
+Jarzyna
+T1.00
+OK
+Piotr
+10,00
+MC-202
+Polishing
+Lewandowski
+NIA
+76.6
+2.33
+12.00
+13.55
+115
+MC-202
+Polishing
+Pizemyslaw
+63.5
+1406
+Wasik
+09.02
+Recalibraled
+MC-204
+Assemblx
+Nadia Sauter
+08,00
+Carlos Garcia
+Prepared DY:
+Kowalski
+Approved bY:
+No
+each
+1015

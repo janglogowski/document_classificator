@@ -1,0 +1,101 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-154
+Customer
+BRAZIL
+Supervisor:
+Carlos
+Ganca
+Departrnent:
+Quality Control
+Date
+21-06-2024
+Shift:
+(Night)
+Machine ID
+Task
+Technician
+Start Time
+End Time
+Total
+Comments
+duration
+MC-202
+Drilling
+Nadia Sauter
+13.15
+13.56
+MC-202
+Polishing
+Magdalena
+10.00
+12.00
+120
+NIA
+Witkow"ska
+MC- 208
+Assembly
+Magdalena
+06.15
+07.54
+Recalibrated
+Witkowska
+MC-201
+Polishing
+Nadia Sauler
+10.00
+11.48
+108
+MC-209
+Dilling
+Kowalski
+09.00
+10.38
+MC-206
+Polishing
+Piotr
+09:15
+09.38
+Lcwanco "Gk
+MC-202
+Polishing
+4nna
+Nowak
+09.30
+10.09
+N/A
+UemtId
+Olannuc
+Produced Qty
+Scrap Qty
+Fallure
+Remarks
+Output
+RE-350C
+102
+1.9690
+Scrap
+coninmeo
+TX-BZ0v
+175
+1.7190
+Rework naeded
+GH-770J
+246
+225
+8.549u
+Scrap
+continmec
+AZ-JOOT
+154
+0.659u
+Rework needem
+SL-4JOM
+236
+5.229
+Rework necded
+Prepared by:
+Laura Rossi
+Approved bX:
+Peter Schmidt
+Delay

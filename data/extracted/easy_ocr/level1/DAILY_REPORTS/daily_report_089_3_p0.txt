@@ -1,0 +1,111 @@
+Report No:: PR-677
+Customer: FRANCE
+Shift: B (Evening)
+Date: 07-02-2025
+Machine
+Operation
+Technician
+Start
+Duration
+Remarks
+Stage
+Time
+(min)
+MC-206
+Polishing
+Dao
+07.15
+0B:15
+Pecalarated
+Delayed
+Oszmianczuk
+MC-201
+Polishing
+Mateusz
+12.00
+13.35
+Delayed
+Janvna
+MC-206
+Asseibly
+Nadia Sauter
+06-00
+07.19
+plogigss
+MC-201
+Welding
+Przemvslaw
+10.00
+11:14
+Recalibrated
+Completed
+Wasik
+MC-207
+Welding
+Maleust
+1200
+13.01
+Delay
+Delayed
+Jamyna
+MC-209
+Welding
+Piotr
+14-00
+14.37
+progress
+Laixandovski
+MC-201
+Welding
+Maleust
+07.30
+09-01
+prabiasy
+Jarzyna
+MC-206
+Welding
+Dawid
+11.30
+13.04
+Completed
+Oszmianczuk
+MC-205
+Cutting
+Arina Nowak
+13.30
+14-59
+Delay
+Delayed
+Item ID
+Planned
+Produced
+Defect Qty
+Scrap %
+Rework
+Notes
+Output
+Qty
+Count
+PW-51SY
+190
+184
+1644
+Rework
+needed
+NE-2454
+220
+189
+14.0990
+Rework
+needed
+RM-BBON
+146
+144
+3706
+Rewan
+needed
+WD-180S
+235
+0-8441
+Approved by:
+Prepared by: _

@@ -1,0 +1,88 @@
+Verification Log
+#6383774
+Date: 17.07.2025
+Product ID
+CN-I5OC
+Cuetomerid
+TuRKET
+Item Description
+Bearing 620272
+This closure summary indicales comipllance Klh inspeclion Criteria. Check that Inspection steps iollow the
+approved procedure: Archie tnis Iistin tne quality-management System: Refer to the quality register for
+sampling-plan references- Thls summary suppOits tne productlon-release quality gate_ Please revieweach
+checklist pointand Mafk [ne samxlingresults.
+Revie " Points
+Check
+Severity
+Remarks
+Untensm
+Utem
+Specs
+Criticel
+Majer
+Minor
+OnHold
+Minorissue
+Rubber Switch not working
+Level II
+dozened
+VIsua
+detectom
+housing
+Level M
+Cnticalimpact
+Dusudebns inside
+Mingi issue
+Level II
+packaging
+ooseived
+Missing distributor
+Minor issue
+Level |
+Intotmanon
+onseniet
+Packaging doesno=
+naicn
+Level |
+signed sample
+Loose pans inside
+Minorissve
+Level II
+Packaging
+cosened
+smneannroi
+Level M
+Critical impact
+scratcnes
+Exposed nai
+Kntn shatp
+Ninor issue
+Level III
+obsened
+Sharp edges onplastic
+Level III
+Criticalimpact
+comdonenls
+Hissing gafety labels
+Level [
+Needs feview
+AQL Level
+Critical
+Default
+Customer
+specific
+Checklist results have beenteported
+the quality Manarer-Pleaseensure supenised sign-omtonanynon-
+conforming points. Refer
+notes for any observed defects
+Ceviations
+Corective actions are scheduled for
+identified issues This summary supports the end-of-line quality certification_ Inspection summary
+filed for
+regulatcry compliance
+anyopenissues in (he CAPA tracking system;
+Paint
+Eoint
+Haion
+Nigor
+Flod

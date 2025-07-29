@@ -1,0 +1,87 @@
+Production Log
+Repon No :
+PR-247
+Customner:
+SWEDEN
+Supervisor:
+Carlos Garcia
+Department:
+Machining
+Date
+01-09-2023
+Shit:
+(Night)
+Machine
+Task
+Operato
+From
+Finish
+Duration
+Remarka
+(min)
+MC-202
+Assembly
+Kawalski
+10.00
+40.36
+MC-20l
+Drilling_
+Nadia Sauter
+13.30
+14.3
+Delay
+MC-207
+Cutting
+Agnieszka
+13.15
+14.55
+Ziellriska
+MC 203
+Drilling
+Przemystaw
+11.15
+11.35
+Reclaratco
+Wasik
+MC-209
+Welding
+Bartosz
+14.30
+1579
+Wawrzyniak
+MC 205
+Polishing
+Anna No al
+09.15
+11.05
+MC-201
+Assembly
+Ian Kowalski
+MC-207
+Drilling
+Kowalsk
+06.54
+MC-207
+Assembly
+Jan Kowalski
+12.30
+Recalibrated
+Pant ID
+Target Qty
+Actua 
+Rejected Qty
+Scrap
+Comments
+CE-SOSL
+253
+Scrad contirmed
+GL-9805
+00%
+337 
+770k
+8696
+Rewonknecucd
+Prepared by:
+Kowalski
+Appraved Dv;
+Kowalski

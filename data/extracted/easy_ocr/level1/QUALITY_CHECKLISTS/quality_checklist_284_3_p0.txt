@@ -1,0 +1,47 @@
+Quality Checklist
+Review Points
+Sampling
+Defect Class
+Notes
+Leve
+Product Requirements
+Hold
+Baltery not included
+Level
+Sharp edges on plastic
+Needs review
+components
+Visual defect on housing
+Level
+Functionality test failed
+Needs review
+Rubber texture
+glossinoss
+mismalch
+Incorrect orientalion
+Needs review
+DusUdebrs inside packaging
+Leve
+Critical impact
+Paint smearing
+scraches
+Level
+Needs review
+Missing logo or_warning label
+Level
+Critical impact
+Dead
+live insect
+Level III
+Critical impact
+packaging
+Connector
+not working
+Minor issue obsenved
+Reference Standards:
+Standard
+Edition
+50 9001
+2020
+IEC 61010
+3rd Ed.

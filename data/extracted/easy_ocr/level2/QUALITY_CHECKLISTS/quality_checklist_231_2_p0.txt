@@ -1,0 +1,47 @@
+Compliance Log
+Below are the items t0 be verified during the final product review: Refer t0 the quality register for sampling
+plan references
+The following lable oullines inspeclion crileria and classificalion levels:
+Conlin Ihal
+sampling levels comply with customer agreements:
+Product ID
+NU-440Z
+Customer ID
+CANADA
+Item Description
+Battery Pack
+Quality Check Items
+Sampling
+Soverity
+Observations
+Ilem Specs
+Critica
+Major
+Minor
+OnHold
+Missing salely labels
+Level
+Crilical Impact
+Missing disurbutor
+Intomation
+Level
+Critical impact
+Sharp edges
+plastic
+Needs review
+components
+Exposed na
+with sharp
+Minor issue obsenved
+point
+Hinges
+0o58
+Product doesnt power
+Level
+Not assembled as per
+Level !
+Critical impact
+drawing
+Supervised by:
+Date:
+Leve

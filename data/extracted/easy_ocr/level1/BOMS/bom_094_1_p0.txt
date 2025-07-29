@@ -1,0 +1,53 @@
+COMPONENT BREAKDOWN
+Customer ID: TURKEY
+Coordinator: Peter Schmidt
+Date; 2025-05-30
+Product ID: RX-3102
+Internal No.: 7048594
+Order Qty: 258
+Please review the itemized Iist of parts and material specifications before procurement: All line-item
+costs are current as per vendor quotes_
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+2.35
+pCS
+8.00
+96.00
+For
+500mnm
+export
+Control
+pCS
+12.00
+132.00
+Li-Ion
+Panel
+battery
+Mount
+installed
+Copper
+1.19
+0.60
+11.40
+Certified
+Wire 3mm
+batch
+Ceramic
+3.46
+590
+pcs
+2.10
+39.90
+Disc 8Omm
+Total Amount:
+279.30
+Approved By:
+Sourcing Department:

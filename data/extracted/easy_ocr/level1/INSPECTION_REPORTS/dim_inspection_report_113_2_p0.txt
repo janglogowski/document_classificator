@@ -1,0 +1,68 @@
+Tolerance Check
+Inspector
+Laula Ross
+Inspection Date
+2uz4-Uu07
+Use this results summary
+trigger
+corrective
+jctions
+Reviev' recorded
+tajerances
+engineering
+specifications This report presents the dimensional measurements and inspection results
+Product Rel
+PL-601Z
+ZLi
+FFsux
+MR-160H
+BZ-660F
+Component
+Rubber Gaskel
+Sheet 436
+Wooden Pallet
+Wooden Pallet
+0-Ring NBR
+3omm
+somm
+easurement
+Wiath
+heignt
+Depih
+Nomina
+75 34
+12.43
+50.23
+Observed
+50.10
+Diff
++008
+-0.13
+Confirm tnat pass rates Mee
+the defined
+accentance
+criteria. Flag any components requiring
+~machining
+adjustment Ensure all measuring tools were properly calibrated. Refer to deviation column for any out-of-tolerance
+mcasuremenis
+instrument
+Calibration Log=
+Instrument
+Serial No
+Calibration Date
+Muicrometer
+45228
+2025-05-25
+Nicromctem
+87888
+2024-08
+Caliper
+74021
+2025.06 09
+CMM
+98054
+2025-04-02
+agalnst =
+Wlath
+1154
+Pis :

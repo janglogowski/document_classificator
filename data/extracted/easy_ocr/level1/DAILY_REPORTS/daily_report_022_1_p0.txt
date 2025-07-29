@@ -1,0 +1,125 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-946
+Customer:
+POLAND
+Supervisor:
+Lanos
+Garcia
+Department:
+Assembl
+Date:
+07-12-2024
+Shift
+(Moring
+Equipment
+Task
+Operator
+From
+Total Iime
+Comments
+MC-203
+Cutting
+Mateusz
+09.00
+10.52
+112
+NA
+Varzuns
+MC-206
+Assembly
+Piotr
+08.15
+10.12
+117
+Lewandowski
+MC-204
+Cutting
+Agnieszka
+06.30
+06.55
+Zielinska
+MC-203
+Assembly
+Agnieszka
+10.15
+11.47
+Zielinska
+MC-205
+Assembly
+Bartosz
+13.00
+14.30
+NA
+Wawizyniak
+MC-208
+Assembly
+Agnieszka
+07.00
+08.32
+Recalibraled
+Zielinska
+MC-204
+Cutting
+Wiktor
+12.15
+13.51
+Recalibrated
+Kopczynski
+MC-204
+Drilling
+Wiktor
+08.00
+09.16
+Kopczynski
+MC-202
+Cutting
+Dawid
+06.00
+07.-09
+Delay
+Oszmianczuk
+Product ID
+Planned Qty
+Produced Qty
+Scrap Qty
+Failure
+Comments
+RX-3102
+152
+0.66%
+Rework
+needed
+QN-770H
+223
+203
+8.97%
+Rework
+needed
+RM-86ON
+270
+270
+0.00%
+Scrap
+confirmed
+VF-220D
+134
+124
+7,4696
+Rework
+needed
+LP-S5Sv
+253
+216
+14.62%0
+Rework
+needed
+SB-140D
+185
+169
+8.6586
+Prepared bX
+Carlos Garcia
+Approved DX
+Jan Kowalski
+Delay

@@ -1,0 +1,69 @@
+Inspection Results 
+Tecnnician
+Inspection
+Peter Schmidt
+2024 03-28
+Item Code
+Componant
+GH-7701
+44-8900
+Wooden Pallet
+0-450L
+Ci-1SOC
+Measurcment
+Hinge Set
+Wocden
+VR-9401
+Pavet
+62,88
+Kelent
+Battery Pack
+Graphite Pad
+Actual
+40-3g
+Inner Dlameter
+10JS
+57,95
+Pass (Fail
+~On4
+85.51
+57 67
+Overall F
+'summary
+adjustment: This closure
+mfcateis acceptable quality levels Flag any components
+Tamo
+confrms
+dimensional checks ,
+requiring
+re-machining -
+complete
+Instrument
+LOg:
+Instrument
+Micrometer
+Serial No:
+70207
+Last
+Calibration
+2025-04-03
+L4ser
+16104
+2025-01-07
+4G600
+2024-09 13
+2024-12-13
+Summary
+Dile
+Helht
+Length
+Tenet
+Lencin
+Inspection €
+Ihat
+Cal bration
+Miaronece
+Date
+46770
+Mcometc
+scannzi

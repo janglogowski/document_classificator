@@ -1,0 +1,87 @@
+BILL OF MATERIAL
+Use thls breakdown to verlfy sourcing and cost estimates This extract shows the bill =
+components and
+catal projected spend
+The parts manifest here
+deslgned
+support procurement workflows, All Ilne -
+item costs are current as per vendor quotes;
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Stalnless
+0.35
+7,35
+For export
+Bolt MB
+Rubber
+pCs
+0,50
+22.00
+For export
+Gasket
+80mm
+Control
+pCs
+12,00
+636.00
+Imported
+Panel
+Mount
+Insulation
+3,20
+32,00
+Hinge
+Foam Pad
+alignment
+adjusted
+LED Light
+2.50
+72.50
+ROHS
+Strip
+compllant
+Steel Sheet
+5,00
+80, 00
+Li-Ion
+436
+battery
+Installed
+Hinge Set
+2.50
+55,00
+Clamp Ring
+1.75
+54.25
+Urgent
+120mm
+LED Light
+2,50
+27,50
+Switch
+StrIp
+tested OK
+Digital
+pCs
+15,00
+360,00
+Display Unlt
+This closure summary validates that all parts are approved for release;
+Customer ID; NORWAY
+Coordinator: petei
+Schmidt
+Date; 2024-11-05
+Product ID: TR-Z008
+Internal
+Mo
+6807547
+Order Qty: 83
+Total Amount;
+1,346,60
+PCs
+PCS

@@ -1,0 +1,101 @@
+BOM Report
+This section Qullines (he parts
+unit pricas and tolal amounts fOr
+assembly: Ensure each
+comnorient meets the specilied quality standards
+AII Iline-item costs are current as per vendor
+quoles: Use Ihis breakdown (0 verify sourcing and cost eslimaltes
+Review Ine materials tally (or
+compliance with budget allowancas
+Mlem
+Oty
+UOM
+Rate
+Amouni
+Remarks
+Descrption
+Packaging
+pCs
+48,00
+EcO
+Box
+compliant
+Venilalion
+pCS
+5460
+207.20
+ROHS
+Grid
+compliant
+Plastic
+1.10
+5,50
+ROHS
+Cover
+compliant
+160x150
+Tenminai
+pCs
+3.40
+54.40
+Block 4p
+Hinge Sot
+pCs
+2.50
+42.50
+Li-lon
+baltery
+Unstalled
+Control
+pCS
+12,00
+144,00
+Urgent
+Panel
+Mount
+Gaskel
+pCS
+1,25
+12.,50
+For export
+Sheet
+Sel
+pCS
+57.50
+Shalt
+pCS
+B,0O
+120,00
+500mm
+Rubbor
+pCs
+0,50
+18,0O
+Gaskel
+BOmm
+Stainless
+pcs
+0,35
+ROHS
+Boll MB
+compliant
+Epoxy
+pCs
+7,30
+321,.20
+ROHS
+Resin Klt
+compliant
+Custorer ID: FRANCE
+Coordinator: Laura
+2024-04-15
+Product ID: NE-245A
+Interral No;
+8649852
+Order Qly: 219
+Tota
+Amouni:
+031,85
+Hngo
+Rogsi
+Dale"

@@ -1,0 +1,121 @@
+Dimensional
+Inspection performed by Carlos Garcia on 2023-10-22.
+Article No
+Name
+Vomina
+Observed
+Diff
+(Vix)
+TL-gooX
+0-Ring NBR
+width
+9.77
+9.61
+-0.16
+GOmmn
+TR-ZCOB
+Wooden
+Length
+40.26
+4033
++007
+Pallet
+QP-G60F
+Plastic Rivets
+Widim
+36.76
+30.74
+AZ-JOOT
+Steel Sheet
+Tnickness
+28.93
+28.74
+0.19
+A36
+TR ZCOB
+Bearing 6202
+Deoth
+57.10
+57.14
+FO0t
+RX-3IOZ
+Hex Bolts
+width
+69.71
+69.71
++0.00
+M1?
+NE-245A
+Steel Sheet
+Length
+55.24
+55.44
+FO-20
+436
+CE-9OSL
+Bearing 6202
+Depth
+45.20
+45.23
++O03
+KP-320E
+0-Ring NBR
+Wioth
+37.93
+38.04
+F0.11
+60mm
+AZ-300T
+Woaden
+Height
+82,60
+82,73
++0.13
+SB-I40D
+Rubber
+Wiath
+49.55
+49.68
++0.13
+Gaszet *umm
+ZR-Z05R
+Pack
+inner
+6,84
+L007
+Diameter
+RE-850C
+Woonen
+Hole
+22.21
+22,29
++0,08
+palet
+JD-700W
+Graphite Pad
+Length
+13.13
+13,22
+L0lng
+Kv-390k
+Steel Sheet
+Inner
+78.79
+78.64
+0.15
+436
+piametet
+ZR-205R
+Wooden
+inner
+24,52
+24,44
+0,08
+Pallet
+Diameter
+Log
+Pant
+Din-
+Stalus
+Battery
+677

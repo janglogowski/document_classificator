@@ -1,0 +1,135 @@
+Equipment Record Report
+Performed On: 2025-04-22
+Jater Cchmidt
+Fertormec
+Lanios Garcia
+The following
+enines detailcreventiveand corrertive Maintenancetisks
+AIl technician comments are recorded for maintenance
+trendenaksc
+Ensune
+safety checks were complete
+during servlcing- Thls section captures
+eqmipmeni status and any
+Maintemance odservations
+Use tnis
+ecord
+plan upcominp upkeepand repairs
+scction
+Unit Code
+MC-2}
+MC-201
+MC-281
+MC-292
+MC-230
+MC-289
+Nachine
+CNC
+CNC Miiling
+plasmn
+cter
+Laser
+mnter
+aser
+Cnttel
+CNC Miling
+Mlachinc
+Mactinc
+acting
+Lofrective
+ofrecuve
+corrective
+Inspection
+Lctrective
+Correctne
+Technician
+Carlo: GAi4a
+Lmna Ncak
+Lua Rcs
+Cila; Gaicia
+Peler schmidi
+Tan Kuwaiki
+powntime
+Comments
+Calihratinn
+Refilled oil (HLP
+WVorm
+Worr
+Calihratinn
+cneck Oa
+6eplactd
+fepnced
+check Ok
+Section
+Unil Code
+MC-7239
+MC-213
+MC-Z01
+MC713
+MC-241
+MC-730
+Maching
+CNC Milling
+Packazine Ling
+CNC Mdvin ?
+Cutter
+Laser Cutter
+Machine
+Machine
+Machine
+Type
+Cotrecive
+Unse e clion
+cureclive
+coneciivi
+Prevenlive
+Pigveniive
+Technician
+JanKowvalski
+Wan <0u
+Jan Kowakski
+Lamtatossi
+Laurz Rossi
+Laura Rossi
+Downtime
+Comments
+5encon
+No Issues
+4efllled
+HLP
+Worn gasket
+Rgnment
+Changed
+recalibrated
+touno
+replaced;
+hiczes
+and Tilters
+adinns ted
+Ensu
+eacnsenc
+eniny nas Ine required aoprovals
+Allmalntenance tska hav
+peen comnpleted
+per schedwie
+Yo Cccal
+faults %ere found during the latest inspection
+Senvice -ummaries have
+Deen torwardeo
+eneineerinz team
+Recordany spare
+parts usage for inventory aajustment . Flag any recurring issues lor root-cuse investigation
+Archive this sumnary in the CMMS (or
+futur
+Fererence
+Uptimt
+Error Count
+Commcnt
+90.1205
+Bolt tiphtentd
+Sened
+Mmng
+Eaikot
+Raskdt
+Tlnr
+pla;M

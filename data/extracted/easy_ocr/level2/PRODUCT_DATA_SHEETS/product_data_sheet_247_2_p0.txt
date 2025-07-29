@@ -1,0 +1,86 @@
+Product Data Sheet
+Use this spec sheet
+validate assembly instructions
+This report extract E
+prepared for design-verification audits.
+Confirm that performance ranges comply with project requirements
+Please revicw
+specifications and material
+composition listed below The
+following information outlines performance characteristics and design data
+This data
+sheet
+provides key specificatians and materia
+details;
+Product ID
+JD-700w
+interng
+Na;:
+1063680
+preparec
+bv: Laura Rossi
+Anproved bY: Peter Schmidt
+ate
+2023-09-29
+Unit Type
+Hudraulic Power Unit
+Design Pressure
+300 dar
+Fluid
+30 L{min
+Supply Voltage
+A0O
+50 Hz
+Protection Class
+IPSA
+Mounting
+Skid base wlth vibratlon
+pads
+Charging Time
+Total Weight
+180kg
+Oil Type
+HLP 46
+Dimensions ILXWxHA
+1000
+650 * 1000 Mm
+Refer
+parameter
+table for operating ranges ano
+[djerances
+Ensure that the listed materials are approved for the
+application; Contirm that all test conditions are accurately represented
+Check that =
+section headers follow the
+product template: This closure note indicates the data sheet E
+ready for release.
+Material ot Construction;
+Part
+Base
+Heat Slnk ALU
+Aumninur G0gIcT6
+Bearing
+OZULL
+Jtainiess
+Ruboc
+Gasket Summ
+Mtfic
+Rubber (NBR
+Capacitor
+450V
+Aluminum 6061-T6
+Stainless Steel 304
+Wyoocem
+Pallet
+Treated Pine
+LED Light Strip
+Glass-
+Filled
+Therms
+FlSe
+Ceramic Oxlde
+ahe
+Flov
+Hinbe
+Wocu
+Nvlcn]

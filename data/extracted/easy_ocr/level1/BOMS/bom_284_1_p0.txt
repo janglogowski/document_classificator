@@ -1,0 +1,96 @@
+BILL OF MATERIAL
+Customer ID: POLAND
+Coordinator: Laura Rossi
+Date: 2025
+Product ID: GL-980S
+Internal
+8961392
+Order
+Qty: 176
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+LED Light
+1.75
+1090
+2.50
+10.00
+For
+Strip
+export
+Cable Tie
+1.48
+pCS
+0.95
+15.20
+High
+Pack
+00)
+grade
+Shaft
+2.43
+8,00
+208.00
+ROHS
+500mm
+compliant
+Shaft
+2.12
+10%
+pCS
+8,00
+240.00
+Urgent
+500mm
+Protective
+1.29
+1.80
+63.00
+Sleeve
+alignment
+50mm
+adjusted
+Aluminum
+290
+pcs
+175.50
+Bracket
+Spacer
+1.04
+109
+pCS
+0.15
+1.65
+SKF
+2mm
+brand
+Steel
+Sheet
+1.24
+10%
+5.00
+135.00
+A36
+verified
+LED Light
+0.69
+590
+2.50
+47.50
+SO-
+Strip
+verfied
+Tota
+Amount:
+895.85
+Approved By:
+Sourcing Department:
+pcs
+Hinge

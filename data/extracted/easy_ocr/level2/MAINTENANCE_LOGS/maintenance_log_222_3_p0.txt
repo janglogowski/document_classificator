@@ -1,0 +1,149 @@
+Machine Log Summary
+Performed On: 2024-08-02
+Signed oll:
+Anni
+Kowak
+Performed by;
+Anne
+Hoivek
+Entries include vrork crders
+technician assignments
+and par
+changes
+The following entries delail preventive and
+comechve
+maintenance (asks. Tnis seclion capluras
+equipmenl siatus andany maintenance obsarvalions
+Confirm that
+service intervals follow' the
+prevenine schequie
+Ensure
+safety checks werc
+compiete 0 GufinO
+seNvicina
+This Ing
+recorgg
+maintenance activities
+performed
+on Ini
+eqminment
+Check that;
+Cowntime events
+proparly calegorized
+logged,
+Section A:
+Machine
+MC-244
+MC-215
+MC-230
+MC-224
+MC-290
+MC-245
+Equipment
+Plasma Culler
+Conveyor Bell
+Packaging
+Laser Culler
+CNC Milling
+Conveyor Belt
+Machine
+Service Type
+insneciion
+Preventive
+Preventive
+Preventive
+Ccrrectivve
+Preventive
+Operator
+Laura
+Rossi
+Anna owvar
+Pelur_Schmidl
+Carlus Garcia
+Jan Kowalski
+Laura
+powntumi
+Nores
+Refilled oil
+No issuEs
+Svalch
+Tighlened
+Sensdt
+Replaced
+(HLP 46)-
+Laund
+Contacs
+loosu belts
+libraled:
+(use (SA)
+~enned
+Sectlon B:
+Machine
+MC-296
+MC-2J0
+MC-290
+MC-215
+MC-224
+MC 244
+Equipment
+Paint Booth
+Packaging
+CNC Milling
+Conveyor Belt
+Lasee
+Plaem?
+Cuter
+Machine
+Serice
+Type
+PrevenvE
+Preventive
+Lorte clive
+Prevenva
+Inspection
+Preventve
+Operator
+Anna Nowak
+AnnaNowar
+Laura Rosa
+amr
+Ross
+Jan Kowalski
+Anna Nowak
+Downtime
+Notes
+Sensor
+Li-Icn battery
+Replaced
+Tightened
+Replaced
+battery
+recainraied
+nack
+Cooani
+Ucnseoce
+cooiani
+DBC *
+BeMiceC
+Rennced
+Rucurd any
+Spuie
+Tor Inventany adlusiment
+All maintenance tasks have
+Dren completen
+Der sche dule
+Servi ce summaries have been fonwarded
+the engineering team; Check remaining life-cycles
+kev componunis Irom
+Ihis report; AIl manlenance duralons
+aru rucorded lor perormancu mulrics. Mainienance noles ar@ archived for
+cormpllancu audita
+Uptime (%o)
+Error Count
+comments
+792,9790
+Aos?]
+Cullet
+Li-ion
+nans
+Usagc

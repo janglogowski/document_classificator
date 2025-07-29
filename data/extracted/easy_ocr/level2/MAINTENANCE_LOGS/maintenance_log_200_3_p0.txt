@@ -1,0 +1,77 @@
+Equipment Record Report
+Performed On: 2024-05-30
+Kutncrited bY;
+Junkowulyki
+Onerator
+Peter Schmidi
+Thls malntenance extract
+prepared far compliance audlt tralls-This serice summary supports the rellabillty engineering revievi.
+Confirm that service intervals follow tne preventive schedule
+The enminment
+IOR belovr includes fault codes and corrective notes;
+Use this record
+plan upcoming upkeep and repaits
+entries detail preventive and corrective maintenance tasks
+scction
+Unit Code
+MIC-Zay
+ML-25C
+MC-282
+MC-ZSI
+pquipment
+Asscmbly Robot
+Plusma Cutter
+Luser @uticr
+CNCL
+JinpMaching
+nspection
+Corrective
+Preventin
+Jreventive
+Technician
+petef Schmidt
+Laura Rogsi
+Anna Nowak
+Schmidi
+owintimg
+Comments
+Sualnch contacts
+censorreczinbrzted
+Li-lcn battery
+Wooden pallet
+cicamCo
+srviced
+chcctcd
+Sectinn
+Unit Code
+M=
+Nc-28 )
+KC-15O
+MC249
+[quipment
+CNC Milling Machte
+Culier
+Pasm: Culet
+Assemblx Rapot
+Preventive
+preventE
+"reventive
+Inspection
+Te cnnician
+peter Schmiat
+nna
+Moaa
+LauraRos
+Peter Gchmidt
+Downtimt
+comments
+Wom easket replaceo;
+Worn Fisket replaced
+Swvitch contcts
+cleaned
+Uptime (%)
+Error Couni
+Comment
+Boit tientened
+follo ulne
+Type

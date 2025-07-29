@@ -1,0 +1,64 @@
+Measurement Summary Sheet
+inspecior
+Carlos Garcia
+Inspection Date
+2024 08.-14
+Article No.
+FT-730X
+GL-9805
+TX-820v
+IR-ZQQB
+GH-7ZOJ
+GL-9805
+KV-39OK
+Component
+Shaft
+Power
+Hinge Set
+power
+Set
+Hinge Set
+Rubber
+S0Omtim
+Swlcn
+Swllch
+Gaskel
+B0mm
+Measurement
+hicaness
+Height
+Widlh
+Hale
+Hole
+innai
+Hmne
+Diameter
+Diameter
+Target
+42.44
+32.80
+39.34
+1256
+25.15
+26.34
+34.77
+Actual
+25.26
+359
+Diff
+PassiFall
+Confirm that pass rates meet the defined acceptance criteria
+Ensure status flags are updated in the quality
+management system. Components tailing inspection require immediate review and corrective action:
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+50094
+2024-10-10
+56519
+2025-02-07
+Hinga
+Log:
+Calipar

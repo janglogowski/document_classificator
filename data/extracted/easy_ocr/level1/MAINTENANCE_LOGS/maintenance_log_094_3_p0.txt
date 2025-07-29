@@ -1,0 +1,84 @@
+Equipment Record Report
+Performed On: 2024-07-06
+Lnnal Navlk
+Penommeddy:
+Peter Schmidt
+This logrecords all maintenance activities performed
+amnmant
+Tne equipment log belov' includes fault codes
+comecty
+nome €
+Use this summar
+ToFacae
+oang reolacement And reaourc
+needg
+This section captures equipment
+status wno Jny mdintenance 0oservations
+Check that all dow ntimg event; Br8 proporly cateEorized and lopRed_
+Sectlon
+Nac hine
+NC-279
+FC-ZJU
+MC-288
+MC-259
+Equlpment
+Agembly Aobot
+Packaging
+Packaging
+Assembly
+odot
+Tvpe
+Inspectiom
+Inapeclicn
+Preventive
+Inspection
+Uccnnician
+Curios Garcid
+Enna Nuvuk
+JanKonulski
+Junkowlgk
+Duration
+Cormnents
+Hehtened
+Ouse
+Wehtened lcose
+Wontened ldose
+ehtened locre
+holts
+nc
+me
+Tooic;
+Section
+Machint
+NC279
+MC259
+MC 290
+MC 288
+Equipment
+Ass embly Robot
+Easembly Pob oi
+Packaging
+Packaging Line
+Tvpe
+preventve
+Conective
+IsuetliuMe
+Cofrecive
+ecnnician
+petef Schmidu
+Lanos Gaica
+Lano?
+Garcie
+Carlos Garcla
+Duration
+Comments
+issu5 tound
+Iggueg tcuno;
+Changed
+filaens
+Uptime (%)
+Etrorcount
+Notes
+94 870S
+Aeplaced tIlte
+Elente

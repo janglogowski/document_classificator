@@ -1,0 +1,83 @@
+Conformance Log
+Please (evic pacn
+checklist point and mark the sampling
+results
+This checklist captures quality inspection
+goints
+and
+sampling levels All checklist entries are timestamped
+traceability: The following table outlines inspection criteria
+classification levels: Use this extract to coordinate sign-off with the QA manager. Refer to the quality register for
+sampling-plan references
+Use this list t0 confirm adherence
+AQL and safety standards.
+ProductID
+Xk-61OU
+Customer
+CANADA
+Item Description
+Wooden Palet
+Review Points
+Inspection
+derecciass
+Remarks
+Depth
+Produc
+Requiremients
+Hold
+Dusbigebris inside
+JJCRdge
+Leve
+Needs reviet
+Connector nolt warking
+Leve
+Shipping mark Is
+illegible
+missine
+Not assembled
+per drawing
+Lcvci
+Needs revie
+Color mismatch
+Leve
+Culica
+Imoact
+Packaging does not match signed
+Level
+eud
+review
+sampl
+Product doesn't power on
+Leve
+Critical impact
+Exposed nail with sharp point
+Wrong
+praducr 5i72
+Leveii
+Minar issue observed
+Missing salety labe 
+Leve
+Criticd
+Wfudec
+edges on plastic
+comooneni:
+Level IlI
+Minor issue observed
+unctionalty test fJied
+Level
+Miinor I5 SUe
+abcenved
+Paint smearing
+5crjlcmes
+Leve
+Needs reviev
+incorreci quantiti
+Jesortment
+leve
+Critical Impact
+Battery not included
+Levei
+Neens revie
+Supervlsed by: _
+Date:
+sharp

@@ -1,0 +1,63 @@
+Equipment Record Report #9719859
+2023-10-21
+Unlt Code
+Macning
+Senvice Iype
+Tochnician
+Downtimg
+Slte
+MC-257
+CNC Miling
+Inspection
+Jan Kowalski
+Piant 28
+Wooden
+Machine
+pallet
+checked
+MC-299
+Conveyor Bell
+Comective
+Carlos Garcia
+Plani IC
+Tightened
+lpose bolls
+MC-272
+Cuiter
+inspecton
+Lquna
+Rossi
+Plani 2B
+Replaced
+coDiani
+MC-215
+Assembly
+Inspeciian
+Laiira Rossi
+Plani IC
+Replaced
+MC-248
+Assembly
+Corrective
+Jan Kowalski
+Plant 34
+LIon battery
+Roool
+Senticat
+Maintenance noles are archived for compliance audits Flag any recl fring issues Tor roo1-cause investigation.
+summary suppofts Ihe asset-management dashboard Reler
+remarks lar any (ollow-up aclions
+parts replacemenis:
+Lubrication Checked
+Calbration Verfied
+Emergency Stop
+eate0
+Authorized by:
+Operator:
+Date.
+Nolcs
+Laset
+Roboi
+[ust
+Pack
+Tni '

@@ -1,0 +1,63 @@
+This report extract
+prepared for design-verification audits. Check that all material specs align with supplier
+certifications_
+The parameter register below includes operating limits and
+This data sheet provides
+key specifications and material details. Entries include both mechanica
+and electrical specifications_
+Use
+this spec sheet t0 validate assembly instructions
+Refer t0 this configuration summany
+for unit-designation
+mapping
+Product ID:
+VR-940T
+Report No.
+PR-625
+Prepared by: Laura Rossi
+Approved by: Carlos Garcia
+Date: 2025-04-19
+Unit Type
+Cooling Circulation
+Design Pressure
+300 bar
+System
+Fluid Flow
+60 Lmin
+Voltage
+230 
+VI50 Hz
+Filtration
+10 pm return, 25 pm
+Control Valve
+Proportional 4/2
+sucton
+Reservoir Capacity
+Contirm that all test conditions are accurately represented. Flag any missing parameters for urgent
+specification updates
+Use this summary
+cross-check wilh BOM ad inspection reports
+Check lhat all
+section headers follow the product template_
+Ensure that the listed materials are approved for the
+application: This closure note indicates the data sheet
+ready for release
+Material of Construction:
+Subcomponent
+Raw Material
+Graphite Pad
+Graphite Pad
+Cooling Gel Pack
+Silicone Rubber
+Sheet A36
+Carbon Steel A36
+Pressure Valve
+Brass CZ12L
+Bearing 6202 ZZ
+Stainless Steel 304
+Wooden Pallet
+Treated Pine Wood
+Nut M6
+Zinc-Plated Steel
+ralings
+Steei

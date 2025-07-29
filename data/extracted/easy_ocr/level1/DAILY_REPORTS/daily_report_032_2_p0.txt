@@ -1,0 +1,99 @@
+Shift Summary
+Report No;
+PR-695
+Customer:
+CANADA
+Supervisor;
+Peter
+Schmidt
+Department:
+Packaging
+Shift:
+(Morning 
+29-12-2024
+Machine
+Operation
+Worker
+From
+Finish
+Total
+Comments
+Thermal
+Reading
+Used
+MC-209
+Drilling
+Jan Kowalski
+06.30
+07-53
+librated
+73.9
+2.26
+MC-205
+Welding
+Dawid
+10.15
+10.45
+58,5
+2.06
+Oszmlanczuk
+MC-203
+Culling
+Piotr
+14.00
+15.43
+103
+66.9
+1.01
+Lewandowski
+MC-206
+Cutting
+Anna Nowak
+11.15
+12.10
+Dela
+70.4
+MC-209
+Drilling
+Nadia Sauter
+10.30
+11.32
+MC-208
+Cutting
+Przemyslaw
+08.15
+09.31
+OK
+2.42
+Wasik
+MC-208
+Drilling
+Magdalena
+06.30
+06.51
+Recalibrated
+62.3
+2.59
+Witkowska
+MC-205
+Polishing
+Magdalena
+10.00
+10.49
+Delay
+77.2
+2.80
+Wikowska
+MC-204
+Welding
+Nadia Sauter
+09.00
+09.38
+2.09
+Prepared bx:
+Anna Nowak
+Approvedby:
+Peter Schmidt
+Energy
+Time
+Recu

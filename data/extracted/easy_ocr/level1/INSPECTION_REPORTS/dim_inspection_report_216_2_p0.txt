@@ -1,0 +1,57 @@
+Measurement Summary Sheet
+inspecicr
+JanKowabki
+Inspection Date
+2024 06-28
+The following dala caplures key dimensions and any deviations identilied.
+Refer to the dirensional log for
+all component size readings_
+Use this examination summary to confirm component conformity. Use this
+results summary
+trigger any corrective actions
+AIl measured values are timestamped for audit purposes
+Articlo No:
+10R
+BZ 660F
+TXBZ0"
+AL1150
+Pant Name
+Wooden
+Pallct
+Ste0
+Sheet 436
+Battery Pack
+Shait S0Omm
+Deplh
+Thickness
+Depin
+Inner Diameler
+Nominal
+46,75
+13.66
+Ooscrvcd
++0.11
+Pass Fail
+Contirm that pass rates meet the defined acceptance criteria_
+Overall inspection summary indicates
+acceptable quality levels
+Flag any components requiring re-machining
+adjustment,
+Instrument Calibration Log:
+Instrument
+Seria
+Lasc
+Calibration Date
+Laser Scanner
+14615
+2025-02-04
+Caliper
+14385
+2025-01-30
+Caliper
+26931
+2024-09-06
+Scanner
+99691
+2025-01-26
+Laser

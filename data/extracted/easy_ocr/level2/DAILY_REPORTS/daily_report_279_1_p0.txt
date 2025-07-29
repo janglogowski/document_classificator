@@ -1,0 +1,98 @@
+Shift Summary
+Report Nc::
+PR-789
+Custome
+GREECE
+Supervisor;
+Laura Rossi
+Department:
+Quality Control
+Date;
+03-17-2023
+Shifc:
+(Moming)
+Machine
+Procces
+Techncian
+Start Tine
+Finish
+Total Time
+Uwagi
+MC-207
+Cuccine
+Jan Kawalski
+08,00
+09.56
+116
+Recalibrated
+MC-203
+Polishing
+Przemyslaw
+13,30
+15.06
+Wasik
+MC. 202
+Polishing
+Knna Nowak
+J0-1O
+11;10
+Delay
+MC-202
+Drilling
+Natensz
+11.00
+12.12
+N/A
+Jarzyna
+MC-206
+Welding
+Agnieszka
+07-30
+09,17
+Zielinska
+MC-204
+Pollshing
+Agrieszka
+06,00
+06.24
+Zieinska
+MC 201
+Assemblv
+Nacia Sauter
+12.15
+13.06
+MC 204
+Polishing
+Mateusz
+11.30
+12.46
+Jarzyna
+MC-207
+Drillinz
+Wlkton
+08.15
+08.54
+Recalibrated
+Kopczynski
+Ktem
+Target Qty
+Produced Ql
+Defect Qty
+Reiection
+comment
+RE 850C
+3508
+BZ-660F
+288
+9.0356
+Rework needeg
+CN-150C
+120
+6796
+Scrap confirmcc
+MR-160H
+7456
+Preparen bY:
+Lara Rdss
+Approved by:
+Peter Schmidt

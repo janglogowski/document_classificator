@@ -1,0 +1,69 @@
+Product Overview
+Use Ihis spec shaot lo validate assembly Instructiong : Confirm thal perforniance range& comply
+prcject
+requlremonts, Refer to Ihis conflqurlion summary for unll-dasignallon mapping: Thls seclion dotails the
+conliquration and puramoler sol for Ihe product: Please revlaw Ihe specllicallons tind rialerial
+composlion
+Ulstod below
+Pcoduc
+QN-T7UH
+Internal No
+PR-774
+Propared by: Carlos Garcia
+Anproved hy: Carlos Gurcla
+Date
+2023-11-08
+Conilguration Typo
+Hydraulie Poivor Unil
+Ratod Prossuro
+180
+Flow Rato
+G0 Lmin
+Operating Voltago
+480 V ! 60 Hz
+charging
+Working Temp_Range
+10"C to 50"€
+Coollng
+Alr-conlad oil radlator
+Motor Power
+7.5
+Dimensions (LxWxH)
+T0OO
+650
+100Q mm
+Malerlal choicos and process data have beon verilled for Compllance; Documunt cortrol numbers aro
+Included for traceably. Thls closure mote Indicalos Ihe dala sheol
+ready for rolease: Use Ule sutTary tO
+cross-chack wilh BOM and inspactiori raports. Erisure that tha Ilsted malerlals ara opprovad for the
+appllcallon:
+Material 0f Construction;
+Hch
+Raw Malerlal
+Cable_Ie Pack (10O}
+Nltnla Rubher (NBRI
+Diqilal Display Unit
+ABS Plasllc
+ThoiniaiFuse
+Ceramic Oxldo
+Cornoclor 20
+Giass-Flad Non
+Nul MG
+Zirc-Plaled Sleel
+Wiring
+Loam
+PVC
+Rubber Guskat 8umn
+NltrIle Rubbor (NBR)
+Tellon Tape Roll
+Toton Tape Rolll
+LED Light
+Lla5s
+Illled Nilon
+Battary Pack
+Lilhua-lon Cell Puck
+pul
+Tmo
+AW
+(Riqid)
+Siip

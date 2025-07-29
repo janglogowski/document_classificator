@@ -1,0 +1,73 @@
+Product Data Sheet
+Project:
+RE-850C
+Document No::
+PR-409
+Prepared
+Laura Rossi
+Approved BX'
+Anna Nowak
+Location: Plant 1C
+Date: 2024-07-28
+This data sheet provides key specifications and material details_
+This report extract
+prepared for design-
+verification audits. Below are the technical parameters and construction materials for the unit; The following
+inforation outlines performance characteristics and design data
+Use this sheet to confirm engineering
+requirements and tolerances. The parameter register below includes operating limits and ratings:
+Model Type
+Cooling Circulation
+Rated Pressure
+210 bar
+Syslen
+Uhroughput
+48 Lunin
+Operating Voltage
+230 V IS0Hz
+Mounting
+Wall-mounted
+Service Interval
+500
+Battery Capacity
+Total Weight
+250 kq
+Motor Power
+55kW
+Control Valve
+Directional 4/3
+Oil Type
+HLP 46
+Cooling
+Water-cooled
+exchanger
+Reservoir Capacity
+Protection Class
+IP54
+Dimensions (LxWxH)
+1000
+650 x* 1000 mm
+Working TempRange
+10'C
+55FC
+Charging Time
+Confirm that all test conditions are accurately represented. Refer 
+parameter table tor operating ranges
+and tolerances_
+Archive this summary for future design-change management;
+any missing parameters
+for urgent specificalion updates, Ensure Ihat Ihe listed materials are approved for the application;
+Material
+Construction:
+Part
+Raw Material
+Cable Tie Pack (100)
+Nitrile Rubber (NBR)
+Battery Pack
+Lithium-Ion Cell Pack
+Steel Sheet 436
+Carbon Steel 436
+LED Light Strip
+Flled Nylon
+Flag
+Giz5?

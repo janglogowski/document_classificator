@@ -1,0 +1,115 @@
+Product Data Sheet
+proiecl:
+CN-150C
+Document
+8683463
+Prepared BK:
+Ljuiz
+Kossi
+Approved By:_
+Annp
+Vowak
+LaLation:
+Plant 28
+Date: 2024-05-21
+AIl data entries are traceable -
+design revision history: Entries include both mechanical and electrical specifications.
+Refer to this configuration summary for unit-designatian mapping- This technical
+overview supports the product-
+lease checklist Confirm that performance ranges comply with project requirements. This report extract [
+prepared
+for design-verification audits, Use this spec
+validate assembly instructions_
+Modcl IYPE
+Pneumatic Control Unit
+Design Pressure
+250 dar
+Throughput
+30 L{min
+Voltage
+50 Hz
+Nolse Leve
+68 dBIAL
+OIl Type_
+HLP 46
+Protection Class
+IP6
+Working TempRange
+5Cto45c
+Charging Time
+Reservoir
+Lapacity
+120[
+Cooling
+Air-cooled oil radiator
+Type
+Gear
+Control
+Valve
+Proportiona
+Dimensions (LxWxHL
+1244
+700
+4100 mm
+Filtration
+10 pm
+~ena
+Batten 
+pacity
+2 Ah
+Mountine
+Wall-mounted
+Tota
+Weight
+250kg
+Use this summany
+Kd
+check with BOM and Inspection reports: Confirm that all test conditions are accurately
+represented
+Fnsure
+glossany terms
+match the engineering nomencature; All summary comments have been
+recorded
+the revision log: Refer
+paramcicr
+table for operating
+anges and tolerances This closure note indicates
+the data sheet |
+ready for release
+Material -
+Construction:
+Mten
+Bose
+Gasket Sheet A4
+Rubber (NBRE
+Bearing
+6 202
+Stainiess Ster
+Hex Bolts M12
+Zinc-Plated Steel
+Kubbe
+GGas-et
+Summ
+Nitrile Rubber (NBR)
+Teflon Tape Roll
+Teflon Tape Roll
+Prcssuicvane
+Brass CZ1ZI
+Battery Pack
+Lithium-Ion Cell Pack
+Power Swltch
+Polycarbonate
+Copper
+Thermz
+Ceramic Oxide
+Connecar P
+Glass-Filled Nylon
+Ring NBR 60mm
+Nitrile Rubber INBR)
+Noj
+cnee
+Pump
+Pump
+Inling
+Mitri
+Fusc

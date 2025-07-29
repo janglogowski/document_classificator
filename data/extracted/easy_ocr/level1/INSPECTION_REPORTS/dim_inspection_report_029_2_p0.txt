@@ -1,0 +1,84 @@
+Measurement Summary Sheet
+inspecior
+Peter Schmid
+Inspection Date
+2024-12-27
+Cneck thal all dimensions comiply wilh ISO and company slandards. This sumimary of measurements
+supports metrology traceability- Review recorded tolerances against engineerng specifications
+Mis data
+extract 
+prepared for quality-control sign-off, Entries include both passifail markers and deviation
+magnitudes_
+Product Ref
+AZ-300T
+RM-BGON
+KP-320E
+KV-390K
+DX-777T
+NU-4402
+Component
+Power
+Steel Sheet
+Steel Sheet
+Set
+Steel Sheet
+0-Ring NBR
+Swllch
+A36
+A36
+A36
+60mm
+Mleasurement
+Height
+Widin
+Widih
+Length
+WNidth
+Lengih
+Nomina
+4318
+25.94
+75,08
+4CMa
+4315
+26.42
+Diff
+0.03
++0.18
+0.05
++0.12
+0.01
+Pass/Fail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Archive this inspection summary for regulatory documentation.
+This closure memo confirms that dimensional
+checks are complete: Inspection notes have been logged for traceability:
+verily measurement dala
+with CAD nominal values.
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+Lacc
+Scanner
+66304
+2024-08-01
+LCEE
+Scanner
+61022
+2024-10-11
+Micromete
+89620
+2025-02-14
+Lacp
+Scanner
+99422
+2025-04-04
+Hinge
+Cross-!
+Log:

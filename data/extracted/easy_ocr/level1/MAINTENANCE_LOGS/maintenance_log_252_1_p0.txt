@@ -1,0 +1,55 @@
+Equipment Record Report #8166474
+Date: 2024-10-13
+Unit Codr
+Machinc
+Servicn
+Technician
+Downtime
+Notu =
+MC-273
+Pain: Booth
+Preventive
+Peter Schmidt
+Plant 1C
+Hznment or
+adjusted
+MC 744
+plasma Curter
+ImSnfcoi
+Carlos (afcia
+Plant 31
+Mgnment
+adiuste d
+MC-252
+pddraulic
+Corrective
+Laura Rossi
+Plant 1C
+Swich
+Piujs
+cuntacis
+cleanec
+MC-278
+Luthc
+Pruvuntivc
+Junkowdlski
+Plant 34
+Rupluced TUSl
+ecurring issues for root-cause investigation. This log summary
+supponts the asset-management dashboard-No
+critical fuults " urdtouno ourina thc lutest Injoccticn
+Ensur nuxt pruvuntmve sutvicu
+Gchuduled uccordinato plun Ovcra I
+aquipment conition
+gatistactcn' pogi-maintenance
+Lulcalion Checked
+Calbration ! eriticd
+Emergenc
+Stop
+39T20
+Authorized by: _
+Op Brator;
+Lyee
+ningas
+hingaa
+Fijb

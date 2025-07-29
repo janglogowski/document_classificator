@@ -1,0 +1,135 @@
+Inspection performed by Jan Kowalski on 2024-04-09.
+Use Ihis results summary 0 lrigger any corrective actions, Revlew recorded tolerances against engineering
+specifications
+Entries include boih
+passiiail markers and deviation magnitudes. Use (his examination
+summary
+confirm component conformity. Ensure measurement methods align with callbration standards.
+Check Ihat all dlmensions comply with ISO
+company slandards
+Environmental
+Conditions: Temperature: 20,4 "C, Humidity; 36 %
+Article No.
+Part Name
+dm
+Target
+Observed
+Diff
+Status (VIX)
+JD-700Wv
+Bearing
+Depth
+49,90
+49.76
+~0,14
+PASS
+6202
+SL-430M
+Rlng NBR
+Widtn
+69.26
+69.,45
++0.19
+PASS
+60mm
+VF-220D
+NBR
+Depth
+57,03
+57.19
++0.16
+PASS
+G0mm
+SL-430M
+Graphite
+Thickness
+83.19
+83.26
++0.,07
+PASS
+Pad
+CN-1S0C
+Graphite
+Length
+22,56
+22.50
+0,06
+PASS
+Pad
+GL-9BOS
+Set
+Inner
+64,38
+64.34
+0,04
+PASS
+Dlameter
+TR-ZOOB
+Bearing
+Height
+14.80
+14.88
++0.08
+PASS
+6202 Z2
+MS-GOOP
+Steel Sheet
+59,72
+59,57
+0,15
+PASS
+A36
+Diameter
+DX-777T
+Ballery
+Hole
+11,78
+11,84
++0,06
+PASS
+Pack
+RX-3102
+NBR
+Height
+20,81
+20,69
+0,12
+PASS
+GOmm
+QN-TTOH
+Shalt
+Lengih
+43,57
+43,54
+-0,03
+PASS
+s00mm
+NE-2454
+Wooden
+Height
+13.11
+12.99
+-0,12
+PASS
+Pallet
+MC-5AOX
+Hex Bolls
+Height
+64,89
+64.71
+~0,18
+PASS
+M12
+TR-ZOOB
+Hex Bolls
+Depth
+39,62
+39.47
+-0,15
+PASS
+M12
+and
+Ring
+Hingo 
+Unnet
+Ring

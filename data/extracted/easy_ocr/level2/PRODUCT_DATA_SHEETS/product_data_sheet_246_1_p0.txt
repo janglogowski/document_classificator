@@ -1,0 +1,76 @@
+Unit Data Specification
+Project:
+SL-430m
+Report No
+1547667
+Prepared Bx
+Nowak
+ApprovedBx
+Anna Nowvak
+Location: Plant JA
+Date: 2024-03-10
+Confirm that pertormance ranges comply with project requirements. The parameter register below inciuces
+operating Iimits and ratings.
+The following iniormaliun oulllnes performance characterislics and design data
+Entrics include both mechanical and electricae
+specifications
+This data sheet provides key specifications
+and malerial delalls: This report extract
+prepared iOr
+design-verification audlts
+Configuration Type
+Cooling Circulation
+Cperating Pressure
+250 bar
+Systen
+Fluid Flow
+48 Limin
+480 V / 60 Hz
+Mounting
+Skid base with vibration
+Reservoir Capacity
+160
+pads
+Motor Powier
+I1kW
+Ccoiing
+Fur-Cooieo
+pil radiator
+Qil Type
+HLP 32
+Protection Class
+IP54
+Battery Capacity
+10 Ah
+Noise Levce
+68 dBIA)
+Working Temp: Range
+1O"C to 50*C
+Control Valve
+Manuat
+Override 32
+Total Welght
+250 kg
+Filtration
+Hm inline, 10 um
+Efn
+Service Interva
+500
+Use this summary -
+coss-check with BOM and inspection reports. This closure note indicates the data
+sheet 
+ready forrelease_
+Ensure that the listed materials are approved for the applicalion- This summary
+reillects Ihe latesl revision of Ine product data;
+Malerial
+Construction:
+Part
+Rav Material
+Insulated Tube 2smm
+Thermoplastic Poivurethane (TPU)
+Pressure Valve
+Brass CZ12I
+Fuse 54
+Ceramic Oxide
+Anna
+Vollage

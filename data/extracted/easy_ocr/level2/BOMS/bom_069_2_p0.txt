@@ -1,0 +1,48 @@
+Customor ID: NORWAY
+Prepared by: Peter Schmidt
+Product ID; PL-601Z
+Internal No;; 4710525
+No
+Itot
+Plnallc Covor
+Stalnlosa Holt
+Shnlt soumm
+Plasila Covor
+Toruinal
+Doscriptlon
+150x|50
+MA
+Is0x I50
+Hlock AP
+Qly
+697
+445
+261
+045
+514
+UOM
+pcs
+pCu
+pC"
+0C9
+pCS
+Uult Prlcu
+L,10
+03S
+00O
+940
+Amount
+706,70
+165,75
+088,00
+709,50
+747,60
+Romntka
+Swilch Idalud
+ISO-vorlllod
+KOIIS
+Umponod
+SKE branc
+OK
+compllang
+TOTAL: 5,467.55

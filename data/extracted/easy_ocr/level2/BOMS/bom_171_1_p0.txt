@@ -1,0 +1,107 @@
+BOM Repert
+Customer ID: SWEDEN
+Coordinator:_Peler_Schmidt
+Date; 2023-01-15_
+Product ID: AL-1150
+Interna
+9085391
+Order Qty: 79
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Cable Tie
+3.14
+10%
+pCS
+0.95
+38.95
+Pack (100)
+Battery
+2.39
+10%
+pCS
+25.00
+825.00
+Imported
+Pack
+Protective
+0.39
+10%
+27,00
+High
+Sleeve
+grade
+somm
+Rubber
+2.42
+10%
+PCS
+0.55
+29.15
+Certified
+Stopper
+patch
+Spacer
+3.06
+29a
+pCs
+0.15
+5.10
+Certified
+Zmm
+palch
+Sot
+1,94
+10%
+pCS
+2.50
+105.00
+Switch
+tested
+OK
+Terminal
+0%/
+pCS
+3.40
+47.60
+Urgent
+Block 4P
+Copper
+2.85
+506
+0.60
+21,00
+Li-lon
+Wire 3mm
+battery
+inslalled
+Protective
+0.99
+10%
+3.60
+High
+Sleeve
+grade
+50mm
+Venlilalian
+2.23
+0%
+pCS
+5.60
+95.20
+Eco
+Grid
+compliant
+This closure summary validates that all parts are approved for relcase;
+Amouini;
+197.60
+Approved By:
+Sourcing Department:
+Hinge
+Tolai

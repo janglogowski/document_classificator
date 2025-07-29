@@ -1,0 +1,82 @@
+Conformance Log
+Please review each checklist point and mark the
+sampling =
+results Refer t
+the quality register for sampling-plan
+references. This section details quality requirements and test points for the batch
+AIl checklist entries are
+timestamped for traceability: Check that inspection steps follow the approved procedure
+Archive this list
+quality-management system, Use this list
+confirm adherence -
+pOlano
+standards
+Product ID
+L-3908
+Customer ID
+URKE T
+pescription
+Gasket Shcet A4
+Inspection Checklist
+Sample Ticr
+Severity
+Remarks
+Item Specs
+Critical
+Major
+Mnor
+OnHold
+Packaging does
+not match
+Level IlI
+5iGned sample
+Missing safety labels
+Level III
+Needs review'
+Mnconecm
+barcode
+label
+MinorisSMc
+observed
+Visual defect on housing
+Critical impact
+Package
+sealed
+comnletel
+Level IlI
+Mlnor Issue
+observed
+Shipping mark is
+illegible
+missing
+Level |
+Sharp edges on plastic
+components
+Level |
+Needs review:
+Product ddesn
+powcr Om
+Level IlI
+eule
+Functionality test failed
+Crlcai
+impact
+Instruction mania
+Missinp
+Qamared
+Minor issue observed
+Wrong product size
+Needs review
+JOJSC
+Levei
+Critical impart
+ncorrect orientalon
+Leve
+Crtical impact
+Supervised by:_
+Date: _
+salely
+Itcm
+Points
+Necos
+Hinges

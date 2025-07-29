@@ -1,0 +1,99 @@
+Equipment Record Report
+Performed On: 2024-08-09
+Signed off
+Anna Nowak
+percmedb"
+Carloc Garcia
+Usu [his sulary
+lurucusl palts r uplaccmuni amd resoulce nueds
+This SCTYICU $ Urmary suppors Ihu relabilily
+engineering revlew. Entries Include work
+Ordcns
+lecnnician assiammenis
+and par ctanges 
+review Ihis log Ior
+receni senvice qaies
+types, and remarks, Confirm that service intervals
+preventive schedule
+Below
+summan
+SemIce
+actions
+davniimes for
+each machine
+pilechniciar comments
+Jre [ecordedar
+maintenance
+tcnd anaksis
+Section A:
+Machine
+MC-274
+MC-254
+MC-Z
+MC-278
+Machine
+Pusma Cuttyr
+piasmna CWler
+CNC Milling Mache
+Conveyor Bell
+Service Type
+Preventive
+Corrective
+Corrective
+Corective
+Technician
+Jan Kowalski
+Peler_Schmidl
+Ama Nowak
+Carlos Garcia
+Downtime
+Notes
+Rcplaced fusu (54}.
+Calibralion chcck
+nddccn Dallet
+Alignment
+hinges
+cneccked
+adusled
+Section B:
+Machine
+MC-274
+MC-278
+MC-264
+MC-277
+Machinc
+Plasma Cutter
+convcvoi Bcit
+Plasma Culcr
+CNC Milg Machle
+Senice
+Type
+Preventive
+Preventve
+Inspeciion
+Insnection
+Technician
+Peler Schudl
+aund Pos
+Launa Rusc
+puna
+Nowvak
+Downtime
+Sansor recalibralad;
+RBOlaced cujlant
+LF-lon ballan
+pack
+scricud
+Usu lhis closure
+upuale lFu mainlenarce KPI
+hackem
+Malenance
+noles ar8 archived lor compliance audils
+Uptime
+Error Count
+comments
+96 8926
+Boit ticniened
+pleasu
+Fomio
+Noler

@@ -1,0 +1,69 @@
+Quality Inspection List
+Quality Check Items
+Inspection
+Severity
+Remarks
+Depth
+Item Specs
+Hold
+Color mismatch
+Level |
+Rubber texlure
+glossiness
+Level
+Minor issue observed
+mismatch
+Rubber Switch not working
+Level
+Critica
+Impaci
+Exposed nail with sharp
+Needs review
+point
+Packaging does nol malch
+Critical impact
+signed sample
+Uncorrect
+barcode or label
+Levei
+Minor issue observed
+Loose parts inside
+Critical impadt
+packagng
+Incorrect onentalion in box
+Level
+Critical impact
+Wood splinter or sharp point
+Level II
+Needs review
+on product
+Hinges [pose
+evel 
+Package
+not sealed
+Level |
+Critical impact
+completely
+Instruction manual
+missing
+Level IlI
+Critical impact
+Or camaqed
+Paint srearing or scratches
+Levei
+Minor Issue Obsewved
+Missing safely labels
+Level
+Needs Jevlew
+Carton
+damaged or
+Level IlI
+Needs review
+markings _incorect
+Reference Standards:
+Standard
+Edition
+RoHS
+2011
+EC 61010
+3rd Ed;

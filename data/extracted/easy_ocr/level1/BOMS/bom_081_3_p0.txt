@@ -1,0 +1,110 @@
+BILL OF MATERIAL
+Use this breakdown t0 verify sourcing and cost estimates
+AII line-item costs are current as per
+vendor quotes. Below is the component listing and associated costs for the upcoming production
+batch
+Refer t0 this
+register t0 plan raw-material purchasing: Ensure each component meets
+the specified quality standards
+The following table summarizes the materials and quantities
+needed for the current project;
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pCS
+0.55
+10.45
+For export
+Stopper
+Digital
+pcs
+15.00
+600.00
+Li-Ion
+Display
+battery
+Unit
+installed
+Plastic
+pcs
+0.20
+2.20
+Imported
+Rivets_
+LED Light
+2.50
+122.50
+ROHS
+Strip
+compliant
+Copper
+0.60
+21.60
+High grade
+Wire 3mm
+Cable Tie
+pcs
+0.95
+45.60
+Urgent
+Pack
+100)
+Grease
+pCS
+1.90
+9.50
+Li-Ion
+Tube
+battery
+250ml
+installed
+Clamp
+pcs
+1.75
+59.50
+Eco
+Ring
+compliant
+120mm
+Stee
+5.00
+85.00
+Sheet A36
+alignment
+adjusted
+Spacer
+pCS
+0.15
+Imported
+2mm
+Digitab
+pcs
+15.00
+690.00
+Imported
+Display
+Unit
+LED Light
+2.50
+22.50
+Switch
+Strip
+tested OK
+Customer ID: POLAND
+Coordinator: Carlos Garcia
+Date:
+2024-07-24
+Product ID: KP-320E
+Intema
+No:: 1949202
+Order Qty: 328
+Total
+Amount:
+1,670.80
+pans
+Hinge

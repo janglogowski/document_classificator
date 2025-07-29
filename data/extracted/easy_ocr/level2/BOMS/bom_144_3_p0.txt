@@ -1,0 +1,98 @@
+BOM Report
+The following table summarizes the materials and quantities needed for the current project. This
+summary lists every item required, with per-unit pricing details_
+This document provides
+detailed
+breakdown of all components required far the assembly process
+component roster below
+includes unit costs and batch codes;
+This extract shows the blIl of components and total projected
+spend.
+This section outlines the parts; unit prices and total amounts for assembly.
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+PCS
+0.50
+9.50
+Urgent
+Gasket
+Digital
+pcs
+15.00
+90.00
+Eco
+Display
+complliant
+Unit
+Sensor
+pcs
+0.95
+22.80
+For export
+CIp
+Ceramic
+pCS
+2.10
+60.90
+For export
+Disc_8Omm
+Spacer
+pcs
+0.15
+0.75
+High grade
+2mm
+Insulation
+pCS
+3.20
+6.40
+For export
+Foam Pad
+Casket
+pcs
+61.25
+Urgent
+Sheet A4
+Copper
+0.60
+27.60
+Jmm
+LED Light
+2,50
+72.50
+Strip
+Copper
+0.60
+24,00
+ROHS
+Wire 3mm
+compianl
+Stainless
+pcs
+0.35
+11.90
+ISO-
+Boit MB
+verified
+AIll listed components have been verified for availability and compliance_
+Customer ID; BRAZIL
+Coordinator: Anna Nowak
+Date: 2024-01-15
+Product ID: NE-245A
+Internal No;
+7998007
+Order
+104
+Tola
+Amcunt
+387.60
+Tho
+BQmm
+Wire 
+OUL

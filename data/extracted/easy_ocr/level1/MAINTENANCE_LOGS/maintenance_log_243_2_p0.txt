@@ -1,0 +1,112 @@
+Equipment Record Report
+2025-07-14
+Use this summary
+Toreca
+Dans reolacementand (OSOuIcBNabos
+Refer t0 the maintenanceregiste
+Gletailed service
+stomes
+equpment log belova Includes tault codes and corrective notes
+Thls malntenance extaci
+Orepared ioi
+compliance audit trails_
+Spunu Pums Useu;
+Part Namo
+Part No
+Qty Used
+Sutcr
+semoly
+4033
+Shnsn
+Module
+3779
+Li-ion Battery Pack
+'227
+Li-lon Batter
+pack
+P-8644
+Machine
+Equinmunt
+Techniciun
+Dawntime
+Previous
+Comments
+Service
+MC-236
+plasma
+Corrective
+Laura
+Kossi
+2023-09-25
+Reolaced
+Cutte
+fuse (521
+MC-222
+hudraulic
+preventive
+Peter
+2024-12-17
+Prosis
+Schmidi
+MC-26'
+Fdraulic
+Inspection
+Peter
+ZU20-U3-21
+Pross
+Schmidi
+MC-2dy
+Pbini Booin
+Freventie
+2025-05-06
+Replaced
+Kowalski
+couune
+MC-238
+Laser Cutter
+Preventi€
+2024-01-31
+Replaceo
+Kourlski
+Cobane
+MC-28z
+Kssembiy
+CorrectIe
+Anna
+ZUz5-U6-27
+Mentened
+Robor
+Nawak
+ldoge bolts
+MC-253
+Aisumbly
+Inspuction
+Luura
+Rossi
+202"-01-2
+Ruhlco
+Robot
+(HLP 461.
+NC2a
+painibcoin
+Lorteclive
+Lauia
+3ossi
+7073-02-76
+Lucn
+contacts
+cleaned
+MC-251
+Laser Cutter
+Corrective
+Anng
+2022-11-07
+Calibration
+Navik
+chuck OK
+Authorized Dv:
+Laura Rc9?
+Operator:
+Cadce
+Dafcie
+Type

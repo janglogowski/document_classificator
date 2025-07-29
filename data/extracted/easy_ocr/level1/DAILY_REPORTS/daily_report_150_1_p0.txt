@@ -1,0 +1,123 @@
+Shift Summary
+Repor No:
+PR-SZ0
+Custorner:
+SWEDEN
+sudenisor
+Carlos Garcia
+Department
+Painting
+Date
+09-01-2024
+Shift:
+amorningi
+Machine
+Task
+Operator
+Crom
+Duration
+Camment
+(min)
+Mc-208
+Drilling
+Wiktor
+06.30
+07.36
+NJA
+Kopczyiski
+MC-203
+Cutting
+Dawid
+10.30
+11.09
+N/A
+Oszmianczuk
+MC-207
+Welding
+Dawid
+08.30
+10.14
+104
+Delay
+Oszmianczuk
+MC-204
+Assembly
+Kowalski
+15,38
+Recalibrated
+MC-208
+Welding_
+kowalski
+07.30
+08.01
+MC 204
+Cutting
+MateUsz
+12.30
+14.25
+Recluralcc
+aryna
+MC-208
+Cutting
+Magdalena
+11.00
+12.59
+119
+NYA
+Witkowska
+MC-207
+Cutting
+Magdalena
+08.15
+10.00
+NfA
+Witkowska
+MC-205
+Assembly
+Anna Nowar
+0730
+09.00
+MC-207
+Assembly
+Dawid
+14-15
+15.03
+Oszmianczuk
+MC-2O1
+Welding
+wiktor
+07-00
+08.04
+Kopczynski
+Part ID
+Planned Output
+Procuced
+Qty
+Defect Qty
+Comments
+ON-ZZ0H
+162
+225
+Scrap confirmed
+3001
+283
+7596
+Z0ow
+290
+145
+SB-I40D
+8492
+Rewark needed
+AL-1150
+106
+4053
+Scrap confirmed
+TL-goOX
+10.05%
+Rework needed
+Prepared by:
+LJrj Ross
+Approved y:
+Schmidt
+Sctap
+Peter

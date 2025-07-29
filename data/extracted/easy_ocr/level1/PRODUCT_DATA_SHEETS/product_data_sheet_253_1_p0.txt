@@ -1,0 +1,93 @@
+Product Overview
+Project:
+KV-390K
+Internal No
+6457128
+Prepared
+Laura Ross
+Approved BX'
+Kowalski
+Location: Plant 2B
+Date: 2024-03-18
+The following information outlines performance characteristics and design data_
+This report extract
+prepared for design-verificalion audits
+Below are the technical parameters and construction materials for
+Ihe unit All data entries are traceable
+design revision history. This section details the configuration and
+parameter set for the product:
+Model Type
+Hydraulic Power Unit
+Operating Pressure
+300 bar
+Throughput
+48 Lmin
+Supply Voltage
+480
+60 Hz
+Total Weight
+230 kg
+Filtration
+10 um retum; 25 Um
+sucion
+Charging
+Ilme
+Reservoir Capacity
+Mounting
+Wall-mounted
+Battery Capacity
+Dimensions (LxWxH
+1200X 700X 1100mm
+Protection Class
+P54
+Working
+Range
+to 50"(
+Noise Leve_
+Y0 dB
+Service Interval
+12 months
+Motor Power
+75kW
+Frame Material
+Powder- coated Steel
+Qil Type
+HLP 68
+Pump Type
+Gear
+Control Valve
+Directional 4/3
+Cooling
+Water-cooled
+exchanger
+Refer :
+parameter table for operating ranges and tolerances. Ensure glossary terms match the engineering
+nomenclature
+Archive this summary for future design-change management: Data sheet has been peer-
+viewed by the engineering
+This summary reflects the latest revision of the product data_
+Use this
+summary
+cross-check with BOM and inspection reports. Flag any missing parameters for urgent
+specification updales.
+Material of Construction:
+Part
+Base
+NBR 60mm
+Ncie
+Rubber (NBR
+Battery Pack
+Lithium-Ion Cell Pack
+Graphite Pad
+Graphite Pad
+Capacitor 450V
+Aluminum 6061-16
+Wooger
+Paet
+Treated Pine Wood
+Hinge Set
+Stainless Steel 304
+Temp:
+Pump
+team-
+Ring

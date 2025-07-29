@@ -1,0 +1,52 @@
+Customer ID: NORWAY
+Prepared by: Anna Nowak
+Product ID: MC-540X
+Internal No;: 5261134
+All entries rellect Ilie latest inventory and supplier rales;
+Use Ihls schedule of parls t0 allgn wllh
+sourcing and stock levols. This section outllnes tho
+unit pricas and total amounts for
+assembly. This dlocument provides
+detailad breakdown ofall components requlred for Ihe
+assembly procoss;
+Revlaw the materials (ally far compliance with budget allowances;
+Item
+Insulation
+Insulation
+Shaft 500mm
+Aluminum
+Hinge Set
+Doscriplion
+Foam Pad
+Foam Pad
+Brackot
+Qty
+922
+442
+920
+280
+596
+UoM
+pCs
+pcs
+pCs
+pCS
+pcs
+Unit Price
+8,00
+Amount
+2,950,40
+1,414.40
+7,,360,00
+260,00
+490,00
+Remarks
+For axporl
+High grade
+Li-Ion ballery
+ISO-variliad
+Li-Ion battery
+Installed
+Installad
+TOTAL: 14,474.80
+parts

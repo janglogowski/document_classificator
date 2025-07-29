@@ -1,0 +1,52 @@
+Customer ID: TURKEY
+Propared by: Jan Kowalski
+Product ID; GL-9805
+Intornal No;; 2625911
+Rovlow Iho matorlals (nlly for compllanco wllh budgot allowancos, Uso Uhls schocuillo of parts (o
+nllgn wilh
+sourclng and stock lovols, Ensuro ouch componont moots (ho speclliod quallty
+standards_
+Bolow Is Iho componont Isting ard nssoclatod costs (or Uho upcoming producilon
+brtch; Thla documont provklos
+dotalled bronkdown ol all compononts roqulrod Ior Iho nssombly
+procuss _
+Uso (hls bronkdown I0 vurlly sourcing and cost usulmalos
+Ilom
+Plnsllc Covor
+Sonsor Cip
+Control Panol
+Shalt soomm
+Hox Bolls
+Doacription
+Is0xISU
+Mount
+Miz
+Qly
+999
+470
+052
+582
+UGU
+UOM
+pca
+pOs
+p6x
+pcs
+pcr
+Unlt Prlco
+1,10
+12 0O
+Amount
+098,90
+446,50
+10,224,00
+656,00
+216 0
+Romuarke
+For oxpOr(
+ROHS
+For oxpor
+Urgont
+SKF brand
+complant
+TOTAL: 10,640,40

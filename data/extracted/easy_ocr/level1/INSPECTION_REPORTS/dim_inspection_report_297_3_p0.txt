@@ -1,0 +1,92 @@
+Component Dimensional Check
+Inspection performed by Anna Nowak on 2025-02-01.
+Item Code
+Name
+Measurement
+Nomina
+Actua
+Delta
+Status
+(VKXL
+CN-150C
+Power Switch
+Hole
+48.83
+48-72
+DI
+CE-9OSL
+Hex Bolts
+Length
+92.13
+92.26
++0.13
+M1z
+RE 850C
+Steel Sheet
+Thickness
+7.54
+7.65
++0.11
+A36
+QP-GG0F
+Graphite Pad
+66.15
+LK 8908
+Plastic Rlvets
+Hole
+67.55
+0.09
+HF-3904
+Wwdoden
+Hole
+13.81
+13.67
+0.14
+palet
+MC-540X
+Bearing 6202
+Length
+29.55
+29.51
+0na
+MR- 160H
+Hex Bolts
+Depth
+75.63
+75.60
+0.03
+M1z
+XD-710R
+Battery Pack
+Unicknes;
+77.63
+77.69
++UUb
+MS-6OOP
+Woonem
+Height
+87,40
+87.22
+018
+palet
+MS- 6OOP
+kuojer
+Hole
+58.78
+58.63
+0.15
+Gasket 80rnm
+ZR ZOSR
+Bearing 6202
+Depth
+34.53
+34.43
+0.10
+RE 850C
+Hinge Set
+Wiath
+79.23
+79.24
+t
+Pant
+Hole

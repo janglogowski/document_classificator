@@ -1,0 +1,106 @@
+PR 314
+Repon No i
+BRAZIL
+Customer
+Jan Kovakki
+Supenieor
+Machining
+Department
+21-02-2025
+Date
+(Night)
+Shiit
+erom
+End
+Tota
+Comments
+Hachine ID
+Operation
+Worker
+duraton
+13-59
+Recalibrated
+MC-20 +
+Welding
+Mateusz
+13-00
+Jamna
+13.45
+Delay
+MC-206
+Assembly
+Agniezzka
+13.15
+Zielnska
+09.30
+11;12
+102
+Recalbraled
+MC-201
+Wcling
+Agnieszka
+Zielinska
+Driling
+Mateusz
+12.30
+13.32
+MC-205
+Jarna
+MC-208
+Polishing
+Przemysiaw
+13.15
+15.02
+Wasik
+NA
+MC-201
+Drilling
+Agnieszka
+08.00
+09*47
+Zielin: J
+Produced Oty
+Defect Ory
+Scrap %
+Remarks
+Pan ID
+Planned
+Output
+12.2490
+Scrap
+PW-515
+237
+208
+confummed
+74,40%0
+Scrad
+QP-660F
+220
+confimed
+8.3998
+Rexotk
+RX-310Z
+298
+273
+needed
+10.7490
+Sctap
+GL-9E0S
+149
+133
+confimed
+27090
+Scrap
+XD-T10R
+148
+confimed
+12.7288
+Rexork
+TL-9c0X
+173
+needed
+Carlos Garda
+Prepared D
+Pelel Schmidt
+Approved by
+Time

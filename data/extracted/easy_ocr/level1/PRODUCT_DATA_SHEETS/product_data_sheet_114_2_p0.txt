@@ -1,0 +1,54 @@
+Component Overview
+Ensure all referenced standards are up t0 date. Use this spEc sheet t0 validate assembly instructions_
+Entries include both mechanical and electrical specifications. This report extract is prepared for design-
+verification audits. Use this sheet t0 confim engineering requirements and tolerances. This data sheet
+provides key specifications and material details_
+Product
+FT-730X
+Document No
+2116633
+Prepared by: Peter Schmidt | Approved by: Anna Nowak
+Date: 2025-06-24
+Configuration Type
+Pneumatic Control Unit
+Rated Pressure
+210 bar
+Throughput
+48 Lmin
+Supply Voltage
+480 `
+60Hz
+Pump Type
+Piston Pump
+Service Interva
+00O
+Motor Power
+kW
+Materia
+choices and process data have been verified for compliance. AlI specifications meet the design
+requirements and industry standards; Data sheet has been peer-reviewed by the engineering team;
+Document control numbers are included for
+traceability. This summary reflects the latest revision of the
+product data;
+Refer to parameter table for operating ranges and tolerances
+Material of Construction;
+Subcomponent
+Base
+Gasket Sheel
+Nitle Rubber (NBR)
+Pressune
+Valve
+Brass
+Bearing 6202
+Slailess Steel 304
+Niule
+Rubber
+Jellon Lape_Ro_
+Tellon_Tape_Roll
+Heat Sink ALU
+Aluminum 6061-6
+Wiring Loom Im
+PVC
+Insulated | ube 25mm
+Thermoplastic Polyurethane (TPU)
+(Rigid)

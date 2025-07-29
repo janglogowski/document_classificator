@@ -1,0 +1,98 @@
+Production
+Report No :
+PR-245
+Customer:
+GREECE
+Supervisor:
+Peter Schnidt
+Department:
+Machining
+Date:
+06-2025
+Shift:
+(Evening
+Equipment
+Process
+Operator
+From
+End Time
+Total
+Remarks
+duration
+MC-203
+Drilling
+Bartosz
+10.00
+11.44
+104
+Recalibrated
+Wawrzyniak
+MC-203
+Polishing
+Magdal
+13.00
+13.41
+Recalibrated
+Wikowska
+MC-207
+Drilling
+Wiktor
+06.15
+06.41
+Delay
+Kopczynski
+MC-207
+Polishing
+Magdalena
+10.00
+10.43
+Delay
+Witkowska
+MC-202
+Drilling
+Dawid
+14.30
+16.28
+118
+Oszmianczuk
+Part ID
+Planned Qty
+Achieved Qty
+Defect Qty
+Rejection
+Notes
+PL-6O1Z
+265
+233
+12.0820
+TR-ZOOB
+183
+160
+12.57%
+Scrap
+confirmed
+DX-777T
+270
+262
+2.965
+Rework
+needed
+NU-4402
+134
+116
+13.43%
+Rework
+KV-390K
+214
+198
+7.489
+Rework
+needed
+Prepared bX'
+Carlos Garcia
+Approved DX
+Peter
+Schnid
+Log
+Delay
+needed

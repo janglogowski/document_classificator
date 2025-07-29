@@ -1,0 +1,105 @@
+Inspection Checklist
+#6282093
+Date: 17.07.2025
+Product ID
+WD-I805
+Customer ID
+CANADA
+Item Descrption
+Copper Wire 3mm
+This summary supports the production-release quality
+Check that inspection steps follov the approved
+procedure
+This section details quality requirements and test points for the batch: All checklist entries are
+timestamped for
+traceability: Below are the items
+verified during Ihe final product review:
+Inspection Checklist
+Inspection
+Defect Class
+Comments
+Points
+Depth
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Rubber Switch not
+Minor issue
+Level |
+working
+observed
+Hinges Ioose
+Leve
+Dead
+live insect in
+Level
+Needs review
+packaging
+Missing salety labels
+Level
+Needs reulew
+Instruction manua
+Minor issue
+Level
+missing
+damaged
+obsened
+Carton
+damaged or
+Needs review
+markings inconecl
+TncOnecl
+quantity
+Minor issue
+assonment
+obsened
+Shipping mark is illegible
+Level |
+Needs review'
+or missing
+Incorrect orientation in
+Level |
+Critical impact
+box
+Package
+not sealed
+Minor issue
+completely
+obsenved
+Minor issue
+Battery not included
+Obsened
+Packaging does not
+Level III
+Needs review
+Maicn
+signed sample
+Paint smearing or
+Level
+Critical impact
+scratches
+Screws loose or missing
+Level
+Wood splinter
+sharp
+Minor issue
+Level II
+point 
+product
+observed
+Product doesnt power
+Level
+Critical impact
+Missing logo
+waming
+Level /
+Needs review
+label
+AQL Level
+Critical
+Minor
+Default
+Customer specific
+gute,

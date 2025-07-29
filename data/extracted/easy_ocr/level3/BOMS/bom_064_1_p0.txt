@@ -1,0 +1,70 @@
+BOM Report
+Customer ID: POLAND
+Coordinator: Carlos Garcia
+Date: 2024-05-03
+Product ID; TY-350G
+Unternar
+No; ; 4805921
+Order Oty:437
+AIl entries reflect the latest inventory and supplier rates;
+No
+Item
+Consumption"
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Stainless
+0,42
+pCS
+0.35
+0,35
+Bolt M8
+alignment
+adjusted
+Plastic
+3.25
+1090
+PCS
+0220
+5.00
+Imported
+Rivets
+Spring
+2-13
+10%6
+pCS
+0.05
+0.60
+SKF brand
+Washer
+M1O
+Aluminum
+0.57
+1096
+pcs
+4,50
+211.50
+Bracket
+grade
+Insulation
+3.2
+pCS
+3.20
+44.80
+For
+Foam Pad
+export
+amounts include
+Kandling and logistics costs where applicable. All sourcmng notes have been logged
+for udit purposes_
+Total Amount:
+262.25
+Approved By:
+Sourcing Department?
+Hinge
+High
+Final

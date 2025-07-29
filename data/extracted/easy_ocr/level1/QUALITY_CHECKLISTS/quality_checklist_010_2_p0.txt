@@ -1,0 +1,83 @@
+Quality Inspection List
+Raler
+the quality register for sampling-plan reterences
+This sumimary supports the praduction-release
+quality gate
+Confirm that sampling levels comply with
+customer agreements
+Check that inspection steps
+follow the approved procedure
+All checklist entries are timestamped lor traceability:
+cnsuteainan
+conforming marks are
+clearly documented. Use this extract
+coordinate
+sign-off with the QA manager,
+Product ID
+350G
+Customer
+POLAND
+Item Description
+~anacior450v
+Inspection Checklist Points
+Inspection
+Category
+Observations
+Depth
+Productrequirements
+Dustydebris inside packaging
+Level
+Functionality test falled
+Levcl
+ISSuG ObSGived
+Missing distributor information
+LcvcI
+Critical impact
+Paint smearing 0r scratches
+LCvCi
+Minor issuc observed
+Colormismatcn
+Level
+Ninor issue cosened
+Incorrect quantity or
+Level IlI
+assuntingnt
+Visual defect on housing
+LcvcI
+Critical impact
+Battery not included
+Level
+issue observed
+Incorrectharcode
+Iabe
+Package
+not semied
+completei
+Missing safety labels
+Critical impact
+incorrect Orientation
+box
+Level|
+Packaging does not match
+Level II
+Needs review
+signed sample
+Instruction manualis missing
+Level II
+Needs review
+Cr Qamazeo
+Missing
+warning labe
+Level
+Critical impact
+Carton is damaged
+markings
+Level II
+Critical impact
+ncomect
+Not assembled a5 per drawing
+Lavel|
+Supervised by:
+Date:
+Minor
+Ninor

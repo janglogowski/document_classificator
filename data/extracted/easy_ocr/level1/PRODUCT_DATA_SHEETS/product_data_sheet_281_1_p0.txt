@@ -1,0 +1,88 @@
+Unit Configuration
+Project:
+VF-220D
+Interal No
+PR-495
+Prepared
+Anna Nowak
+Approved By:
+Jan Kowalski
+Location: Plant 34
+Date: 2023-08-03
+Model Type
+Cooling Circulation
+Design Pressure
+180 bar
+System
+Throughput
+75 Umin
+Supply
+400 VISOHz
+Filtration
+Vm inline
+Mounting
+Wail-mounted
+cBlurn
+Charging
+Tme
+Protection Class
+IP67
+Battery Capacity
+10 Ah
+Working Temp. Range
+58C to 45"C
+Noise Level
+72 dBIA)
+Control Valve
+Proportional 4/2
+Cooling
+Water-cooled
+Oil Type
+HLP 46
+exchanger
+Frame Materal
+Aluminum Frame
+Pump Type
+Vane Pump
+Reservoir Capacity
+120
+Dimensions (LxWxH)
+1200 
+700 _
+1100 mm
+Data sheet has been peer-reviewed by the engineering team_
+This summary reflects the latest revision of
+Ihe product data:
+Check Ihal all section headers follow the product template_
+Ensure that the listed materials
+approved for the application: All specifications meet the design requirements and industry standards
+Confirm that all test conditions are accurately represented
+Material of Construction:
+Item
+Raw Material
+etlon Tape Roll
+Teflon Tape Roll
+Support Foot Stee
+Stainless Steel 304
+Hinge Set
+Stainless Steel 304
+Steel Sheet 436
+Carbon Steel 436
+Oxidc
+Cooling Geb
+Pack
+Silicone Rubber
+nsulated Tube 25mm
+Themoplastic Polyurethane (TPU)
+Rubber Gasket 80mm
+Nitrile Rubber (NBR
+Heat Sink
+Aluminum 6061-T6
+LED Light Stip
+Glass-Filled Nylon
+Woodon Pallet
+Treated Pine Wood
+Nut M6
+Zinc-Plated Steel
+Voltage
+10 pm

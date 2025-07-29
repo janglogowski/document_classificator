@@ -1,0 +1,61 @@
+Inspection Record
+Ensure all nor-confcrming marks are € early Cccumentec  Th s summary suppons tne procuction-Telease
+quality gate. Check that inspection steps foliow the approved procecure. Use tnis extract to coordinate sign-
+off with the QA manager. The lollowing table oullines inspection crteria and classification levels:
+Product ID
+QP-860F
+Customer ID
+SWEDEN
+Item Descrption
+Ventilation Grd
+Quality Check ltems
+Check
+Classlfication
+Remarks
+Intensit
+Comporent Crtera
+Critical
+Major
+Minor
+OnHold
+inconeci Darcoce @ranei
+Level
+Needs review
+Color mismatch
+Level
+Crlical impact
+Exposed nall wth sharp
+Level Il
+point
+Rubber Swrtch not
+Level Ii
+#olng
+Dead 0r Iive insect in
+Level |
+Critical impact
+packaging
+Missud salel_label5
+Letel
+Neadsee"
+Screwis Icose
+Missing
+Levei
+Crlical impzc
+WNcod spiinter
+snamp
+Level
+poinlon produci
+incotec
+quantly
+Level !
+3eco7meni
+Duaildebns inside
+Level II
+Needs revie "
+packaging
+Instruction Manual
+Critical impact
+Mssinq
+damaged
+Supervised by:
+Date

@@ -1,0 +1,90 @@
+Inspection Record
+Ensure all non
+~conforming marks are clearly documented
+check that Inspection steps follov the approved
+procedure: Please review each checklist point and mark the sampling results Use this extract -
+cooroinate
+sign-off
+with the QA manager. The following table outlines inspection criteria and classification levels. Confirm that sampling
+levels comply with custorer agreements
+This section detalls quallty requirerents and test points for the batch Thls
+smmar' 5undors
+the production-release quality Gate,
+Product ID
+TY-350G
+Customer ID
+BELGIUM
+Item Description
+Teflon Tape Roll
+Quality Check Items
+Sample
+Category
+Obsenations
+Tier
+Companent Criteria
+Critical
+Maior
+Minor
+OnHold
+Incorrechbarcode
+Iabel
+leuel
+Veeds revi
+Paint smearing
+scraicncs
+LCVC
+Miinor ISSUC
+Juscrcd
+Usuj
+deiect on
+housing
+LCVC
+Critical impact
+Carton
+damaged
+Level 
+Nceds reviewv
+Malkings uncorrect
+Connector not
+working
+Level
+Minor issue observed
+Packaging does not match
+Level III
+Critical impact
+Signed sample
+Not assembled as per
+Level |
+Minor issue observed
+drawing_
+Wood splinter or sharp point
+Minor issue observed
+on product
+Dust/debris inside packaging
+Level
+Critical impact
+Loose parts inside packaging
+MiinoriSSue
+onsened
+Proquct doesn t power On
+Level
+Functionality test failed
+Shipping mark is illegible ar
+Level II
+Critical impact
+missing
+Rubber texture
+Blossiness
+Level II
+Critical impact
+mismatch
+Missing satety labels
+Needs review
+Incorrect orientation
+Veeds revip
+Baltery roL Inciuded
+Levei
+Mlinor ISSuE
+Juserved
+Supervised by:
+Date:

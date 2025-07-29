@@ -1,0 +1,72 @@
+Inspection Checklist
+#3032723
+Date: 17.07.2025
+Product ID
+VR-940T
+Customer ID
+BRAZIL
+Item Description
+Bearing 6202 ZZ
+Archive thls list in the quallty-management systemn
+'lease review each checklist point and miark the sampling
+results. Entries include both visual and functional inspection items. Ensure all non-conforming marks are
+clearly documented: This section details quality requirements and test points for the batch: This summary
+supports the production-release
+dualt
+gate- Use this Iist to conlirm adherence
+AQL and salety standards_
+Check that inspection steps follow the approved procedure
+This checklist captures quality inspection points
+and
+sampling
+eveis
+Revlew Polnts
+Inspection
+Category
+Camments
+Depth
+Design Specs
+Sharp adges on plastic
+Level II
+campanents
+@usudubis
+pacaainE
+ISsue Odsenveo
+Product doesn _
+powver Om
+Level II
+Minor issue observed
+Carton
+damaged
+markings
+Level 
+uncorrect
+Missing distibutor infomation
+Level II
+Needs review
+AQL Level
+Critica
+Minc
+Default
+Customer specific
+Inspection summaryis filed tor regulator} compliance; This final
+nate confirms the checklist is complete and
+approved
+Please ensure supervised sign-off on any non-conforming points _
+Comective actions are schequied
+identified issues All summary
+cammeni
+hav
+been validated by the QA team
+Confiri that all sampling
+resuits
+within acceptable limits. Flag any open issues
+the CAPA tracking :
+Refer
+notes for any
+obsenveo
+defects
+deviations 
+inslde
+Minat
+systum

@@ -1,0 +1,65 @@
+Inspection Results Summary
+Sudunvioi
+Curios Gurch
+In pection Onto
+20,4.04.0}
+are the rccorded measurements Corpared @aunst norinal tolerances: The Inspection renister below
+highlights any out-of tolerance parts. Use
+examlnation suminary
+continn camponent conformitv:
+proquce
+piS
+Kv_Jeuk
+MAS Gcup
+Qn Z70h
+CN-150C
+Pir Naine
+Heurlng 620227
+Gfaphla Pnd
+nvet
+Grphule Pad
+Winee
+inner Uijmicd
+Wdth
+Heuaht
+Helghe
+Innet Dlametcr
+utect
+81,43
+54,82
+66 
+34,66
+Obruivtd
+8L29
+20.2[
+51,85
+66,66
+pa
+~Oa
+JOis
+JOS
+Past
+pacC
+pcc
+nacs
+Onec
+Please adaress AY NOK Items before proceedmg;
+the next procuctlor sLage: All dlrensions wvlthun tolerarce have
+been marked AS OK"
+any companents requiring te
+~machining
+adjustinent;
+inslrumcnl
+Callbratlon Log:
+instruinicnt
+Sorla
+Last Callbratlon Date
+CMAM
+97969
+2024-10-0
+Miciomctet
+17398
+2025 01-02
+Belo 
+FLie
+Fing =

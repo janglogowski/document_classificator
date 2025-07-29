@@ -1,0 +1,60 @@
+Unit Data Specification
+Document No:: PR-1OO
+Product ID: LP-SSSV
+Date: 2025-03-23
+Unit Type
+Pneumialic
+Control Unt
+Rateo
+pressure
+210 bar
+Flow Rate
+30 Lmin
+Voltage
+400
+S0Hz
+Cooling
+Water-cooled exchanger
+Total Welght
+230kg
+Noise Level
+70 dB(A)
+service Intenval
+S00 h
+Oil Type
+HLP 46
+Mlotorpower
+5.5kW
+Battery Capacity
+Resenoir
+Capacity
+160
+Component Materials Overview:
+Labe
+Composition
+Specification
+LED Light Strp
+Giass-Filled Nvlon
+4768
+Bearing 6202 72
+Stainless Steel 304
+CE certified
+Pressure Valve
+Brass CZ1ZI
+AnticorosiVc
+Nut MG
+Zinc-Plated Steel
+IP6Z rated
+Heat Sink ALU
+6061-T6
+IP67 rated
+Hinge Set
+Stainless Stcel 304
+IP67 rated
+Coollng Gel Pack
+Shcone
+Rubuer
+Ciass
+tolennce
+Prepared by: Anna Nowak
+Approved by: Anna Nowak

@@ -1,0 +1,78 @@
+Machine Log Summary #2989734
+Date: 2023-12-20
+Unit Code
+Machine
+Service Type
+Technician
+Duration
+Area
+Notes
+MC-268
+Palnt Bcoth
+Eccct
+Carlos Garcla
+Piant 2B
+Relilled
+(HLP 461.
+MC-280
+Packaging
+Preventive
+Laura Rossi
+Wocden
+pallet
+checked
+MC 221
+Aosemci
+Preventive
+Jan Kawaski
+Piant IC
+gasket
+Rohot
+rediacec
+MC-231
+Assembi
+Cctrective
+Jan Kowalski
+Piant 1C
+Changed oil
+Roual
+and Iulurs
+MC 292
+Hydraullc
+Ccrectve
+Peter Schmidt
+pan /8
+Wom
+gasket
+piese
+[rdiacec
+MC-270
+CNC Miling
+Prevcnivc
+Laura Rosc
+Piant IC
+Maching
+MC-209
+Lathe
+Inspection
+Enna Nowak
+Plant 34
+Wocden
+checked
+Service summanes have heen fonvarded
+the engineering team
+Ensure next preventive senice
+scnedulec
+according
+plan. No crilica
+aulls WBCE
+lound during Ihe lateslinspecilian:
+Confinn lhat all correclive aclions were properly closed
+Lulbncatcn Cnecked
+Calibralion Vurilad
+EmCrdency
+Stop Lested
+puingrized
+Operator
+Plni
+Wom

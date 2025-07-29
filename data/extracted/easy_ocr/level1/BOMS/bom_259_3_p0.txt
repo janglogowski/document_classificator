@@ -1,0 +1,101 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pcs
+0.55
+17.05
+For export
+Stopper
+Shaft
+pCS
+8.00
+64.00
+ROHS
+s0omm
+compliant
+Stee
+5.00
+160.00
+Sheet 436
+Sensor
+pcs
+39.90
+Li-Ion
+Clip
+battery
+installed
+0.60
+9.00
+Certified
+Wire 3mm
+batch
+Hex Bolts
+pcs
+6.25
+High grade
+M12
+Gasket
+pcs
+1.25
+8.75
+For export
+Sheet A4
+Power
+20.40
+Switch
+alignment
+adjusted
+Battery
+pcs
+25.00
+400.00
+Switch
+Pack
+tested OK
+Bearing
+pcs
+1.50
+58.50
+ROHS
+6202 ZZ
+compliant
+Rubber
+pCS
+0.55
+15.95
+Stopper
+alignment
+adjusted
+Spring
+pcs
+0.05
+2.35
+SKF brand
+Washer
+M1o
+Ensure this materials summary
+reconciled wilh the purchase order. Check that component
+quantities align with production mun requirements_
+Amounts reflect current pricing; adjust as
+necessary for bulk orders. Please confimm supplier lead times t0 ensure timely delivery of all
+items:
+Customer ID: TURKEY
+Coordinator: Laura Rossi
+Date:
+2024-03-19
+Product ID:_JD-ZoOw
+Intemal
+No : 4167936
+Order Qty: 431
+Total
+Amount:
+802.15
+Copper
+Hinge
+Hinge

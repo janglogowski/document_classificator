@@ -1,0 +1,137 @@
+Machinie Log Summary
+Performed On; 2025-04-01
+Signed off;
+Carlos Garcia
+Peronme d
+Anns
+Noak
+Ensute
+salely checks WErC complaled durng servicing_
+Usu Ihls summary
+lprecast parts replacement anc
+[esouIce
+nueds. Entrles Include work orders; lecnnician assignments
+and pait changes
+followlng entrius delail preventive and
+corrective
+maintenance tasks
+This service summary supports the reliability engineering
+Gvie
+Section A:
+Unit Code
+MC-288
+MC-251
+MC-257
+MC-253
+MC-219
+MC-255
+Machine
+Hydraulic
+Conveyor Bclt
+CNC
+CNC Milling
+Hydraulc
+Lainc
+Press
+Machine
+Machine
+Type
+Unsp aclan
+Pravenie
+Pravenie
+PrevenbE
+Comeciive
+Insdaciion
+Operator
+Canioc
+Garcia
+Anna Nawak
+Peter Schmidt
+Laura Rossl
+Pclcr Scnmict
+Kowalsk
+Downtime
+Comments
+Tigntened
+Changed wl
+Sensor
+Tighlened
+Replaced
+Wjocen
+JoOse bolls.
+and
+recaliuralyc
+Iouse bolis.
+54}.
+palicl
+cnecreo
+Section
+Unit Code
+MC-255
+MC-253
+MC-288
+MC-257
+MC-219
+MC-247
+Machine
+Laine
+CNC Milling
+Hydraulic
+CNC Milling
+Hydraulic
+Packaging
+Maching
+Prcss
+Maching
+Picss
+IYpe
+Preventive
+Corrective
+unspeciian
+Corrective
+insneciion
+Preventive
+Operator
+Canios
+Durcia
+Rowalski
+Ana Nowak
+Laura
+Rossi
+Canes Gurcia
+Anna Nowak
+downtime
+Comments
+Changed %l
+Calbtaton
+Worn gasket
+Changed oil
+Replaced
+Swicr
+And Filars
+cneck OK:
+replaced
+and lillers
+54}.
+COn AC
+ccaned
+This Ing summary supports the asset-managemeni dashhoard: Maintenance notes
+are archived for compliance audits
+Ensure Ihal Bach service entry has Ihe required approvals
+crilical laulls were found during the latest inspaciion
+Record any spare parts usagc
+for Inventory acjustment_ Ovcrall equlpment condition
+sauislacion
+pOSI-Maintenance
+Use this closure note
+update the maintenance KPI tracker;
+Uptime (%
+Etror
+Caunt
+Comments
+93 0740
+Replaced Iiller
+Thu
+Mhug
+Prcss
+Muters_

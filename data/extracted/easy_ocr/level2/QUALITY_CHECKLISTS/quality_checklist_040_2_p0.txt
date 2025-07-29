@@ -1,0 +1,59 @@
+Audit Trail
+Archive this Iist in the quality-management system. The following table oullines inspection _
+ciassitication levels
+to the quality register for
+criteria and
+production-release
+sampling-plan references. This summary supports the
+quality gate Please review each checklist point and mark the sampling results.
+Use this
+extract
+coordinate sign-off with the QA manager: Check that Inspection steps follow the
+procedure. Confirm lhat
+sampling levels corply with custorner
+approved
+agreements;
+Product ID
+SL-430M
+Customer ID
+BRAZIL
+Item Description
+Ventilation Grid
+Audit Criteria
+Sampling
+Defect Class
+Remarks
+Lovei
+Component Criteria
+Functionaliy test (alled
+Hold
+Level
+Paint smearng
+scratches
+Level
+Critical impact
+Visual defect on housing_
+Level
+Minor issue observed
+Missing Iogo or warning abel
+Needs reviow
+Product doesntt power on
+Level
+Needs review
+Carton
+damaged;
+Impact
+markings incorrect_
+Level
+Minor issue observed
+Incorrect quantity
+assonment
+Level III
+Critical impact
+Hinges loose
+Level
+Criical impact
+Supervised by:
+Date: _
+Reier 
+Crtical

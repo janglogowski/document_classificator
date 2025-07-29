@@ -1,0 +1,92 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-265
+Customer
+TURKEY
+Supervisor:
+Carlos Garcia
+Department:
+Quality Control
+@ale
+11-04-2024
+Shift:
+(Evening)
+Machine
+proces e
+Technician
+Begin
+Time Spent
+Notes
+MC-208
+Drilling
+Piotr
+09.30
+101
+Recalibrated
+Lewandowski
+HC 203
+Drilling
+Przemystaw
+13.00
+14.29
+Recalibrated
+Wasik
+HC-208
+Cutting
+Przemystaw
+07.30
+09.10
+100
+NIA
+Wasik
+HC 206
+Assembly
+Magdalena
+07.30
+09.08
+NIA
+Witkowska
+HC-202
+Polishing
+Dawid
+08:15
+09.56
+101
+NIA
+Oszmianczuk
+HC 203
+Welding
+Agnieszka
+14.00
+15.33
+Zielinska
+HC-209
+Welding
+Wiktor
+10.00
+10.32
+Kopczynski
+Product ID
+Target Qty
+Achieved Qty
+denci
+Qty
+Scrap
+Ramanka
+730X
+228
+219
+3.9586
+XK-610U
+102
+3090
+LP-SSSV
+15.1480
+Reworkneeded
+S00X
+12.3198
+Prepared by:
+Peter Schmidt
+Approved Dy:
+Laura Rossi
+11.11

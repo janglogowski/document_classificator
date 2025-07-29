@@ -1,0 +1,54 @@
+Customer ID: POLAND
+Prepared by: Peter Schmidt
+Product ID: VR-940T
+Internal No.: 8592730
+Ensure each component meets the specified quality standards
+Use this schedule of parts to align
+with sourcing and stock levels. The component roster below includes unit costs and batch codes:
+The following table summarizes the materials and quantities needed for the current project. Refer
+to this parts register to plan raw-material purchasing_
+Item
+Cable Tie
+Stainless
+Digital
+Stee
+Spacer
+Ventilation
+Description
+Pack (100)
+Bolt MB
+Display
+Sheet A36
+2mm
+Grid
+Unit
+Qty
+830
+735
+401
+UOM
+PCS
+pCS
+Unit Price
+15.00
+Amount
+788.50
+283.85
+11025.00
+2.005.00
+105.15
+620.00_
+Remarks
+Urgent
+Certified
+ROHS
+Hinge
+ISO-
+For export
+batch
+compliant
+alignment
+verified
+adjusted
+TOTAL:
+18,827.50

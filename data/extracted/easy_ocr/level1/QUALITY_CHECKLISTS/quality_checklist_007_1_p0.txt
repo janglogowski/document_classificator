@@ -1,0 +1,98 @@
+Inspection Register
+#5495466
+Date: 17.07.2025
+Product ID
+VR-940T
+Customer ID
+RUPKET
+Item Description
+Plastic Cover
+50*150
+Use this list to confinm adherence
+AQL ard safety standards.
+Archive tms listin tne qualily-mnanagement
+system
+Entries include both visua
+and functional inspection items
+following table outlines inspection
+criteria and classification levels. All checklist entries are timestampod for traceability-
+Audit Criteria
+Inspection
+Severity
+Obsenvations
+Depth
+Component Criteria
+Hold
+CannectornoI
+working
+Levci
+Needs revie "
+IncOrreci parcodc
+labci
+LevCl
+Nceds
+Cvic 
+Deao
+live insect in
+Critical impact
+packaging
+Product doesn t power on
+Needs
+eviey
+Shipping mark
+illegible
+Needs
+evie 
+missing
+Packaging does not match
+Level IlI
+Minor issue observed
+signcd sample
+Wrong product size
+Levei
+Critical impact
+Functionality test_
+Critical impact
+Missing distributor
+Level III
+Needs
+eviey
+intormation
+Hinges
+oose
+Battery not included
+Needs revie "
+incorrect
+quantity
+Level II
+Needs revlew"
+assDnimeni
+Missing salety labels
+Lavel
+Unstructam
+manmal
+missing
+LevelII
+Needs reviev"
+or qamapad
+Sharp edges on plastic
+Level II
+Minor issue observed
+campanenie
+Package
+not sealed
+Minor issue observed
+completely
+Expasednailwith sharp point
+Lavel
+Minor issue observed
+Calor mnismatch
+Lavel
+Critical Imipac
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer specific
+failed

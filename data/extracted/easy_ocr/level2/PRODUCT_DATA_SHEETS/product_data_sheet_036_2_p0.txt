@@ -1,0 +1,65 @@
+Product Overview
+Refer to Inls configurallon surnary for unit-designatlon mepplng
+This report axiract Ig preparod far dusign.
+variilcation audils. The following Informallon cutllnos perfoxmance characteristlcs ;wd
+data
+Thia
+(echnical overview gupports Ihc product-rolanse checklist Plense roview Ihe spacilicallons and matorial'
+composlilon Ilsted below,
+Produci ID
+SL-430M
+Documont No;
+PR-550
+Prupared by; Laura Rossl
+Approved by: Laura Rossi
+Dale; 2025-03.10
+Modol Typo
+Pnaumalic Control Unil
+Operating Prossuru
+180 har
+Throughput
+75 Umin
+Operatlng
+230 V{50 Hz
+Flltratlon
+10 pmn feturn, 25 Nm
+Control Valve
+Manual Ovemide 3/2
+suclion
+Protoctlon Claga
+IP85
+Working Tomp Range
+5*C
+45'C
+AlI specillcatlons meet the deslrin requlrements and industry standards
+Documanl control numbars are
+Included Ior (raceabilily: Overall configurallon
+wlthln dlefined dosign and safely margins: Rafor to
+paraniator (able for
+'operating ranges and tolerances: Flag any missirg parareters for urgent specificallon
+updates: Malerlal cnolces and procesa data Have been verlfied for' compllanco
+Use Ihis surmary
+Cross'
+chock with BOM and Inspaction roporte
+Malarial ol
+Constructlon:
+Subcomponeni
+Raw Maleriu
+Swilch
+Polycarbonala
+Coppor
+Haal
+Tnk ALU
+Alurninum 6061-T6
+Cunnector
+Gloss-Filled Nylon
+Steol Sheel
+436
+Cartion Stoel 436
+Support Fool Steel
+Stalnloss Stael 304
+Capaciior 4S0V
+Aluruvt? 6061-16
+dosign "
+Voltuge
+Po vu

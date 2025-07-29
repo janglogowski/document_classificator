@@ -1,0 +1,145 @@
+Shift Summary
+Report No:: PR-335
+Customer:
+GREECE
+Shift:
+(Evening)
+Date:
+13-05-2024
+Machine
+Operation
+Worker
+Start
+End Time
+Total
+Uwagi
+Condition
+Time
+Time
+MC-209
+Cutting
+Nadia Sauter
+13.30
+14.16
+Completed
+MC-207
+Cutting
+Przemvstaw
+07:00
+08.18
+Completed
+Wasik
+MC-203
+Drilling
+Mateusz
+12.30
+14-09
+procress
+Jarzyna
+MC-204
+Drilling
+Dawid
+10;00
+10.45
+Delayed
+Oszmianiczuk
+MC-203
+Drilling
+Bartosz
+14,30
+15.22
+NIA
+Completed
+Wawizyniak
+MC-204
+Drilling_
+Jan Kowalski
+14.00
+16.00
+Delay
+prugiess
+MC-204
+Welding
+Agnieszka
+10:15
+11.26
+Completed
+Ziclirska
+MC-207
+Polishing
+AnnaNowak
+13.30
+14.56
+Recalibrated
+Completed
+MC-201
+Drilling
+Piotr
+10;00
+11.37
+progress
+Lewandowski
+MC-204
+Welding
+Barosz
+06.00
+07.07
+progress
+Wa rzyniak
+MC-207
+Asscmnbly
+Piotr
+08.15
+09.03
+N/A
+In progross
+Lewandowski
+Ensure routine maintenance between shifts
+maintain consistent output: Note any unscheduled stops in the
+downtimnc
+Refer
+remarks for any rework
+quality concerns
+This closure summary signals readiness
+far the next
+productian _
+Archive this output summary for end-ol-day reporting:
+Part ID
+Target Qty
+Actua
+Qty
+Scrap Qty
+Rejection
+Reworked
+Remarks
+Units
+QP-660F
+114
+113
+8896
+Scrad
+contirmeo
+JD-700W
+175
+12.5790
+TR-200B
+13,369
+DX-777T
+204
+2,4596
+Scrap
+confirmed
+FT-730X
+252
+0.7996
+Rewvork
+needem
+TY-350G
+193
+186
+6396
+Rework
+needeu
+Approved by:
+Prepared by:
+registcr.

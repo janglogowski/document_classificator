@@ -1,0 +1,60 @@
+BOM Report
+Customer ID: CANADA
+Coordinator: Laura Rossi
+Date: 2024-12-28
+Product ID: TR-2OOB
+Internal No;; 7903436
+Order Qty; 345
+All line-item costs are current as per vendor quotes Refer to this parts
+register
+plan raw-material
+purchasing: The component roster below includes unit costs and batch codes. The following table
+summarizes the materials and quantities needed for the current project,
+Item
+Consumption
+Extra %
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+1.26
+10%
+pcs
+8.00
+48.00
+Hinge
+SOOmm
+alignment
+adjusted
+Heat
+3.45
+10%
+2.70
+54.00
+Eco
+Resistant
+compliant
+Sleeve
+Insulation
+2.48
+pcs
+3.20
+124.80
+Foam Pad
+Copper
+2.18
+0.60
+12.60
+Imiported
+3mm
+Please confirm supplier lead times
+ensure timely delivery of all items. All sourcing notes have been
+logged for audit purposes: Ensure archival of this materials summary for compliance records
+Total Amount:
+239.40
+Approved By: _
+Sourcing Department:
+aty
+Wire

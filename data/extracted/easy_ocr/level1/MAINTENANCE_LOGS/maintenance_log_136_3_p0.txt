@@ -1,0 +1,115 @@
+Machine Log Summary
+Performed On: 2023-09-12
+Jater Cchmidt
+Fertormeddy
+Lnos Garcia
+This service summary supports the
+eliability engineering review. The following entries detail preventive and corrective
+maintenance
+[asks
+Connm tha
+servlce Intervals follov  the preventlve schedule: Usethls record
+plan upcoming upkeep anc
+Us ethls
+summary
+iorecast
+garts replacement andtesource need;
+Ensure
+Atenychecks wer
+completed duninp seryicinp
+section
+Unit Code
+MC-272
+MC-222
+MC-296
+MC-246
+MC-231
+MIC-23/
+Machine
+Lacer cner
+Lacercuta .
+Clasa=
+ner
+Hydraullc
+prere
+CLAn €
+CNC Miiling
+Macting
+Lctrective
+inspection
+corrective
+cortective
+Inspection
+Preventive
+Technician
+Peler schmidi
+Laura Rosae
+Anmla Nwat
+Jam Kowalst
+Jan Koxalski
+caric; Garcia
+Duration
+Comments
+Reclared
+Renlared
+Wcrn Easket
+Changed oil
+Worr
+Alignment
+cuolant;
+Cndani
+repluced
+andlmiles
+rGplnccd;
+mriges
+acjusted;
+Section
+Unit Code
+MC-296
+MC-263
+Mc-272
+MC-246
+MC-222
+MC-238
+Machine
+Laser Cutter
+pPiasma Cuiter
+Lasef Cutter
+Hydraulic Press
+Laser Cutter
+AGsemplt
+Rono
+Lype
+Inspection
+Preventive
+Preveniive
+Prevenuive
+Inspection
+Preventive
+Wecnncan
+Jan Kowalskl
+Ouralsk
+Anaa Novaak
+Koralsel
+Schmldr
+Uaclcs Darcia
+Duratian
+comments
+No Issves
+Replaced TUSE
+Swtch contacu
+Replaced tuse
+Wocden
+Li-ion battery
+Inund
+cicancc
+checked
+Dirk scnircd
+Uptime (Ye
+Errorcount
+Notes
+93 5845
+Keplace
+Genco
+epalcs
+Falent

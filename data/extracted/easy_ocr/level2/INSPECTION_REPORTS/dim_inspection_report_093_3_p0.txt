@@ -1,0 +1,105 @@
+Dimensional Log
+Inspection performed by Laura Rossi on 2024-01-30,
+The Inspectlon regisler below highllghts any oul-ol-tolerance parts . All measured values are
+audit purposes: Thls secllon dolalls Ihe mensured
+Hrtestamped (or
+valuus, tolerancos;
+staltus Ilags
+Entrias Irclude both
+passvlail markars aid doviatlon
+magnlludes. Tho following deta captures key dlmensions and
+Ideruled
+any doviuilons
+Environmental Conditions: Temperalure: 23,
+C, Hurnialty: 49 %
+Product
+Component
+Measuroment
+Targot
+Observed
+Delta
+Status
+Ref
+(Vixi
+MC-51OX
+Depin
+87,46
+B7,41
+0,05
+s0(mm
+OK
+KP-JZUE
+Wocdan
+Lengln
+37,75
+37,00
+-0,15
+Pallet
+MR-IG0H
+Shaig
+Howjhg
+98,75
+98,88
++0,13
+soOmu
+TX-820v
+Hex Bolls
+Halght
+09.32
+89,29
+~0,03
+M1?
+Ok
+PL-6012
+Power
+Lengin
+77.44
+77,42
+0,02
+Swilch
+MS Buop
+Rubhor
+wnldh
+66.48
+56,51
+Gaskelt
+BOmr
+OX-TT7T
+Graphite
+Hole
+13.J0
+13.,38
++0,08
+OK
+Pad
+TR-2008
+Graphite
+Lergth
+41.89
+41,84
+~0,05
+Pad
+g0ox
+Hinge S0ll
+Thlckness
+40,69
+40 41
+#0,12
+MX-450L
+Beatng
+Helghu
+31.63
+31,70
+10.15
+6202 Zz
+RE-8S0C
+NBR
+Inmer
+78,09
+77,92
+~017
+604u1m
+Diamolor
+ao
+Shal
+0-Ring

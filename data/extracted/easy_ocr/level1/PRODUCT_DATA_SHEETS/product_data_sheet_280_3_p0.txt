@@ -1,0 +1,27 @@
+Unit Data Specification
+Internal No:: PR-520
+Product ID: MC-540X
+Date: 2025-05-11
+Unit Type
+Cooling Circulation
+Rated Pressure
+180 bar
+System
+Fluid Flow
+75 Umin
+Supply Voltage
+400 V / 50 Hz
+Protection Class
+IP65
+Filtration
+10 um return, 25 Hm
+suclion
+Oil Type
+HLP 46
+Battery Capacity
+Reservoir Capacity
+120
+Total Welght
+230 kg
+Prepared by: Carlos Garcia
+Approved by: Anna Nowak

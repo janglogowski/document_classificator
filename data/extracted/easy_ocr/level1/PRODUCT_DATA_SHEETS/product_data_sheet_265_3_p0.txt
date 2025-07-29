@@ -1,0 +1,65 @@
+Product Overview
+Interno
+No:: 2909303
+Product ID: SL-430M
+Date: 2024-06-02
+Configuration Type
+Hydraulic
+Unit
+Operating Pressure
+210 bar
+Fluid Flow
+48 Limin
+Voltage
+230 V
+50 Hz
+Reservoir Capacity
+120 L
+Type
+Gedn
+Protectiom
+Ciass
+P65
+Mlountine
+Wall mounted
+Cantronvane
+Manual Overide 3/2
+Total Weight
+230kg
+Noise Leve
+68 dB(A)
+Component Materials Overvieve:
+Labe
+Camposition
+Specification
+LED Light Strip_
+Gldss-Flled Mvdr
+DINEN 10025
+Battety Pack
+Lcaim-
+Cell Pack
+DIN
+10025
+Wopden Pallet
+Irealed PIC
+Waou
+DIN EN 10025
+Pressure Valve
+Brass CZ1ZI
+RoHS compliant
+Nut M6
+Zinc-Plated Steel
+Heat-resistant
+Winng
+Dam Lm
+PVC (Rigid
+DIN EN 10025
+Therm?
+Fuse
+Ceramic Orige
+certified
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia
+Poxer
+Pump
+Pump

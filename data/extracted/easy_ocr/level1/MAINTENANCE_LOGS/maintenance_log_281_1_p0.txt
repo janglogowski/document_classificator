@@ -1,0 +1,65 @@
+Maintenance Checklist Report #3642670
+Dale:
+2024-06-05
+Unit Codc
+EquipMcnt
+Scrvicc Typc
+Operato
+Duration
+Arta
+Commcnts
+MC-270
+Flasma Lutier
+Lorrecuve
+Larios Garcia
+Plant 2B
+Replaced
+cncan
+MC-235
+Lath e
+Preventive
+Lavra Rosse
+Flant 5/
+Replaced
+cudun
+ML-288
+CNC Milling
+Preventive
+Nowar
+Plant 34
+Refilled cil HLP
+M-Ichim=
+MC-242
+CNC Milling
+Lorrecuive
+Lavra Rosse
+Plant 1C
+Repiaceo
+Machime
+coqlant
+MC 224
+Paint Bcoth
+Prevcntivc
+Nowak
+Plant 34
+INo KSSUC;
+Toun d
+Mc7E0
+Packening
+Perem
+Jankowakki
+Plant Z6
+Use this closure note
+update the maintenance KP
+tracker. This log summafy supports the asset-management dashboard
+maictenance tasks have been comoleted
+schedule: Ensure next preventive service
+scheduled according
+plan_No critical
+Fault; #tnetouna dur ine tnt Hatest inspection
+Flag any !ecurring issues (or root-cause investigation 
+Lupricaiicn Checked
+Calibration Verified
+Emnegrency Slon Tesed
+Penonined DY:
+5gne0

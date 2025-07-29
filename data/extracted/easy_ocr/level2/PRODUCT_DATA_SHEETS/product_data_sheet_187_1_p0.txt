@@ -1,0 +1,79 @@
+Unit Data
+Specification
+KP32QE
+Project
+4269955
+Intemal No :
+Jan Kowalski
+Prepared
+Canas
+Garcia
+Approved By
+Location: Piant 2B
+Date: 2024-02-10
+Rated Pressure
+210 bar
+Cooling Circulation
+Model Type
+System
+Supply Voltage
+4B0VI 60HZ
+Througnput
+30 Lmin
+Wall mounted
+Working TempRange
+5Cto45
+Mounting
+Gear Rump
+Matenal
+Powder-coated Steel
+Pump Uype
+Ai-cooled oil radiator
+Frame
+Directional 43
+Cooling
+120047O* I10Qmm
+Control Valve
+Dimense
+LxWHL
+Charging ime
+Total Weight
+230kq
+Motor Rower
+U5k
+Reservolr Capacity
+120 
+10 m return, 25 HM
+Filtration
+suction
+HLP 68
+Oil Type
+Service Interva
+1000
+Noise Level
+372@BA)
+Batten Capaciy
+Protection Class
+Material of Construction:
+Compostion
+Subcomponent
+Tetlon Tape Rol
+Teflon Tape Rol
+Stamless Steel 304
+Bearng 620272
+Stainless Steel304
+Suppont Foot Steel
+Polycaronate
+Copper
+Rower Switch
+Ninle Rubber (NBR
+Gasket Sheet A"
+Glass-Filled Wylon
+Connectol
+Auminum 8060 16
+Capacitor 4501
+Nitnle Rubber_(NBRL
+Cable Te Pack (I1CQ)
+Ceramic Oxide
+Themal Fuse
+ons

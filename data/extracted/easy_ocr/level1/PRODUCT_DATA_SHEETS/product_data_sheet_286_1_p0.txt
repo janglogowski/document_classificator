@@ -1,0 +1,100 @@
+Product Data Sheet
+Proiect;
+PW-S15Y
+Doci
+PR-516
+Prepared By:
+Lqun
+Kos5
+Approved By:
+Laura Rosst
+Location: Plant 28
+Date: 2024-04-02
+This report extract
+prepared
+vercanon audils
+This section detalls the configuratlon anc
+Daramcler set
+far the product: Confirm that perfarrance ranges comply with project requiremrents
+Refer t0 [his configuration
+summary for
+unit-designation mapping The following information outiines performance characteristics and design
+uata
+Below are the technical
+palamelers
+and construction materials for the unit The parameter register below
+includes operating limits and
+Unit Type
+Hydraulic Power Unit
+Rated Pressure
+300 bar
+Throughput
+48 Lmin
+Voltage
+230
+50 Hz
+Total Weight
+180 kB
+Charging Time
+Controlvalve
+Manual Override32
+Battery Capacity _
+Materiai
+Stainless Steel
+Oil Type
+HLP 46
+Mounting
+Skid base with vibration
+Motor Power
+7,5 <W
+pads
+Protection Class
+Working Temp
+Range
+10 Cto 50"€
+Filtration
+10 um retum; 25um
+Reservoir Capacity
+80 L
+suction
+Iype
+Vane
+Cooling
+Air-COO
+ed oil radiator
+Material =
+Construction:
+utem
+composition
+Hex Bolts M1?
+Kinc
+lated Sef
+Pawe
+Switch
+Polycarbonate
+copner
+Heat Sink ALU
+Aluminum
+6061-T6
+Nut M6
+Zinc
+ated YCc
+Pressure Valve
+Bruss
+I
+Therm?
+Fuse
+Ceramic Oxide
+Battery Pack
+Lithium-Ion Cel
+RubberGasket Rumm
+Nitrile Rubber (NBR
+Capacitor 450v
+Aluminum 6061-T6
+desien
+ratings.
+Frame
+Frame
+Pump
+Pump
+pack

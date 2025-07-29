@@ -1,0 +1,29 @@
+Unit Data Specification
+Internal No;
+4321762
+Product ID: TY-350G
+Date; 2024-11-30
+Unit Type
+Cooling Crculation
+Rated Pressure
+180 bar
+System
+Flow Rate
+30 L/min
+Supply Voltage
+60 Hz
+Noise Level
+72 dBIA
+Protection Class
+pbz
+Battery Capacity
+Material
+Aluminum
+Charging Time
+Motor Power
+kW
+Reservoir Capacity
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski
+Frame
+Erame

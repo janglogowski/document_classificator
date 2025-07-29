@@ -1,0 +1,83 @@
+Unit Code
+Machine
+Type
+Operator
+Downtime
+Area
+Comments
+MC-270
+Hydraulic
+Prcventivc
+Laura Rossi
+pan44
+KGlacec
+cuolani
+MC-261
+Laser Cumer
+Preventive
+Kowalski
+Plant 1C
+Repl
+ACAC
+fuse (SA)
+MC-283
+Lascr Cultcr
+Preventive
+Ana
+Nowak
+Piant 1C
+Replaced
+Juse A
+MC-230
+Hydraulic
+Inspectiom
+Jan Kowalski
+Plant 2B
+Changed oil
+Press
+and fters;
+MC-245
+Assembly
+Ccrrective
+Carlos Garcia
+Plant 34
+Calibration
+Ronat
+check OK
+MC-244
+Assembly
+Cotrective
+Arna Nowak
+Piant IC
+Relilled 
+Robat
+(HLP 46).
+MC-233
+LonvevOr
+Preventive
+Jan Kowalski
+Plant 1C
+No issues
+Tomno
+Refer=
+remarks for any follow-up acrions
+parts replacements
+Fnsute
+next Drevenve ?rnice
+scheduled according
+Uvera
+equinmeni condition
+Jamstacton
+cosi-Maintenance
+Confirm thai all corrective actions were properly
+closed ouL: Ensure Ihal each survice
+emn' nas ine
+requmed applovaIS
+Lubncalcn Checked
+Calibration Verifed
+NIA
+EmergencX Stop_|escd
+Signed off:
+Performed by;
+Preea
+Beli

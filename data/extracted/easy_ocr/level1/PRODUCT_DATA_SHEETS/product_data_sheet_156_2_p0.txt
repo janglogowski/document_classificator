@@ -1,0 +1,74 @@
+Unit Data Specification
+Ensure all referenced standards Jre up t0 date, Thls technical overvlew supparts the product-release checkist. Below
+the technical parameters and
+cansiructian
+materials far the unit. This report extract
+prepared for
+verilicatlon audits. Please
+revlew' the
+speciflcatlans and materia
+compasitian
+Iisted below Entries Include both
+mechanica
+electrical specifications. Confirm that performance ranges comply with project requlrements:
+praduct I0;
+PWSISY
+nterna
+No :
+5946328
+piepared Dv;
+Schmidt | Approved by: Anna Nowak
+Date; 2024-09-25
+Unit Tvpe
+Cooling Circulation
+Design Pressure
+180
+System
+Throuchput
+48 L/oin
+Supply Voltage
+400
+50 Hz
+Charging Time
+Reservoir Capacity
+Motor Power
+Control Valve
+Prodarionai
+42
+All summary
+cammcnts
+nave dcem
+recorded
+the revision log: Data sheet has been peer-reviewed by the
+engineering team; This summary reflects the Iatest revision
+product data Ensure Blossary terms match the
+Ineering nomenclature , Material cholces and
+process data have been verifled for comp
+ance Use this SuMaTY t0
+cross-check wlth BOM and Inspectian reports.
+Material 0f Construction:
+Part
+Composition
+Hex Bolts M12
+Ated Gteei
+nerina
+FUSe
+Ceramic Oxide
+stcel Sheet 436
+Carbon Stee
+Battery Pack
+Lithium-Ion Cell Pack
+0-Ring NBR 60mm
+Nitrile Rubuer (NBRI
+Gasket Sheet 44
+NitrIle Rubber INBR)
+DIEtal Dlsplay
+48S Plastic
+Bearing 6202
+Stainless Steel J0A
+design"
+d
+Peter
+7bji
+Zinc;
+Unit

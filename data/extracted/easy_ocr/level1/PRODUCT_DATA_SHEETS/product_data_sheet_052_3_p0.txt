@@ -1,0 +1,34 @@
+Unit Data Specification
+Internal No : 1369203
+Product ID: WD-1805
+Date
+2024-11-08
+Model Type
+Paeumatic Control Unit
+Operating Pressure
+210 ba
+Throughput
+60 Lmin
+Supply
+480
+1 60Hz
+Reservoir Capacity
+160
+Filtration
+10 pm return,
+suction
+Motor Power
+Service Interval
+12 months
+Charging Time
+Working
+Range
+Noise Level
+70 dB(
+Mounting
+Rack frame
+Prepared by: Carlos Garcia
+Approved by: Anna Nowak
+Voltage
+25 Nm
+Temp

@@ -1,0 +1,69 @@
+Audit Trail
+#8560657
+Date: 17.07.2025
+Product ID
+TL 9OOX
+Customcr
+BELGIUM
+Item Description
+Digital Display Unit
+This closure summary indicates comipllance with inspection critera_
+This section details quality requirements
+and test points for the batch:
+Please review each checklist point and mark the sampling results. All checklist
+entries are (imestamped ior
+traceability. This summary supports the production-release quality gate. Use this
+adherence to AQL and safety standards. Confiri that sampling levels comply with custorer
+agreements. Check that inspection steps follow the approved procedure.
+Archive this list in the quality-
+management system. Refer to the
+quality register for sampling-plan references:
+Quality Check Items
+Check
+Severity
+Remarks
+Intensity
+Design Specs
+Loose parts inside packaging
+evei
+Needs review
+Exposed nail with sharp point
+Level
+Minor issue observed
+Visual defect on housing
+Level
+Critical impact
+Hinges loose
+Incorroct barcoae Or Iabol
+LeveI
+Needs reviow
+Not assembled as por drawing
+Color mismatch
+Level
+Critical impact
+Functionality
+failed
+Level
+Critical impact
+Missing distributor infomation_
+Needs review
+Product doesntt
+dowar
+Lave
+Shipping mark is illegible or
+Level /
+Critical impact
+mssing
+Baltery not_included
+Level
+ncorrect
+quantity
+Level
+Needs review
+assortment
+AQL Level
+Criticab
+Default
+Customer Specinc
+confnn
+Minor

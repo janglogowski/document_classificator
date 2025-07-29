@@ -1,0 +1,50 @@
+Quality Inspection List
+Audit Criteria
+Sampling
+Defect Class
+Notes
+Level
+tem
+Specs
+Connector notworking
+Level III
+Needs teview
+colormnismalct
+LOVG
+Mnor
+Sve
+observed
+Visual
+@eicclon
+nousing
+Levele
+Criticalimpact
+Dusudebris inside packaging
+Criticalimpact
+Packaging does not match
+Level III
+Criticalimpact
+signed sample
+Sharp edges on plastic
+Level Il
+Criticalimpact
+components
+Hissing safetylabels
+Level IL
+Wrongproduct size _
+Leue
+Rubber Switch not working
+Leve
+Criticalimpact
+Canton
+damaged
+markings
+Minor issue observed
+incomect
+Reference Standards:
+Standard
+Edition
+CE Directive
+2015
+UL 61010
+3id Ed:

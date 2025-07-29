@@ -1,0 +1,84 @@
+Tolerance Check
+Inspection performed by Peter Schmidt on 2025-04-02.
+Review recorded tolerances against engineering specifications Below are the recorded measurements compared
+against naminal talerances. This data exlfact is prepared far quallty-control :
+gn-aff Check that all dimensions comply
+with ISO and company standards; This summary
+measurements
+supports metrolcgy traceability: This repont
+presents the dimensional measurements and inspection results.
+Environmental Conditions; Temperature 24 4 "C Humidity; 51 %
+Product Rel
+Part Name
+Measurement
+Target
+Observed
+Ditt
+Status (Vixi
+TR-ZOOB
+Graphite Pad
+Thickness
+10.22
+10.23
+400I
+GH-7701
+Steel
+Length
+23,87
+23,80
+0,07
+A36
+LP-555v
+Povicr Swvitcn
+Height
+99,39
+99.51
++01
+LP-555V
+Ring NBR
+Width
+69,94
+69.82
+0.12
+60mm
+MR-1604
+Granhite Pad
+Widtn
+89,61
+89,72
++041
+RE-850C
+Graphite Pad
+Height
+17.32
+32.69
+KV-390k
+Battery Pack
+nner
+75.,09
+75.12
++0.03
+Diameter
+LK-890B
+Wodcen
+Depth
+6oi
+6.19
+TdIE
+Pallet
+NE-245A
+Rubber
+Width
+81.41
+81.54
++0.13
+Gaske
+8Cmm
+NU-440Z
+Woaden
+Depth
+95.99
+55,92
+0,07
+Dallet
+sheet

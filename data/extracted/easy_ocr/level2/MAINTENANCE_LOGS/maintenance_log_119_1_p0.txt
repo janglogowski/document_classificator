@@ -1,0 +1,62 @@
+Equipment Record Report #9839166
+Date: 2023-12-21
+Unit Codc
+muachint
+Opcrto
+Duration
+Arta
+Noto:
+MC-206
+Conveyor Belt
+Inspection
+Laura Ross
+Piant 1L
+MC-293
+CNC Milling
+Lorrecuive
+4naz Novtal
+plant 7B
+LI-Ion battery
+Machine
+Dack semviced
+Mc-2J0
+Plasma Cutter
+ofrecuva
+IanKowalak
+plant JB
+Tightened
+loose bolts
+MC-268
+CNC
+ofrecme
+Jankowakki
+Plant 34
+Densor
+Machine
+recaliprated
+Mc-5?
+Hydraulic Press
+Preventive
+Lamrakos
+Plant IC
+Mc-283
+Palnt Bcota
+Corective
+Carlos Garcla
+Plant 2B
+Switch contacie
+cleaned
+@nccal equipment condition > satistactory postemjintenuncc
+SCrVIce summaricy havi
+ccen tonvardco
+thc enpincerine tcam
+malntenance tasks nave
+Deen completed
+per schedule_
+Archlve thls summary In tne CMMS for future reference
+Lunnicaticm Checked
+Calidraticn V eritied
+einengency Yop esid
+Autnofized Dv:
+Operator
+Miing

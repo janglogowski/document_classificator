@@ -1,0 +1,105 @@
+Machine Log Summary
+Performed On: 2024-10-03
+Autnazizcd PY;
+Carins Garcia
+Operatoc;
+Jankowalsk
+Please review this E
+Tor recent
+Tyice dates
+types
+and (emarks
+Entries includework Orders
+technician assignments_
+and DAr
+changer
+Ensuce
+Eatery checks Wei
+completed dmnng sefvicing
+Relo
+fne $ummany
+senlce actlons and downilmesior each
+Machine
+Thi; secticn capturg:
+equipment Status andamy Mointenance Oosenaticus
+Use twis -ummary
+Torecost parts
+rfblacement andtesource needs
+section
+Unit Codc
+NC 776
+MC 790
+MC 745
+MC 789
+MC 730
+Equipmcnt
+Milling
+Matam
+Asscmoiy Robot
+Assemoly Robut
+corvcvo-
+Machine
+Scrvict Wypo
+Lonfectiv
+Correctivc
+Picventivl
+unsnucto "
+Prevcntivc
+Operator
+Carlos Garcia
+nnaMolar
+4nra Novrak
+Schmidt
+ankowalsk
+Duration
+OTmeni
+Waoden pallet
+Li-Ion battery pack
+Worn gasket
+Womn gasket
+Li-Ion battery pack
+cnecked
+serviced
+eplaced
+replaced
+senviced
+Section
+Unit Code
+MC-245
+Mc-)80
+MC-226
+Nc-)90
+Mc-130
+Equipment
+Assemciy Rocot
+Assemdiy Rocot
+CNC Milling
+Lathe
+Lonvevo Belt
+Marhine
+Service
+Inspection
+Inspection
+nspection
+Corrective
+preventive
+Operalor
+Jan Kowaksa
+LAua Rossi
+Aua Ro[
+Canus Ganca
+Lauia Rore
+Duration
+comments
+U-lon Datter
+Replaced fuse
+Sensor
+Refilled oil Au
+Changed Oil jno
+aurucec
+"eclibxated
+{ilters
+Uptime (51
+Error count
+comments
+Bolt tightened

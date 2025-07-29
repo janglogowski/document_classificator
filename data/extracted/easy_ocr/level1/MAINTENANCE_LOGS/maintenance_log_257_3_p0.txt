@@ -1,0 +1,96 @@
+LanosOncia
+Pertormeddy
+Jankowalsk
+This service summary
+upports the reliability engineering rEview
+Contirm that senrire intenals fcllowthe nrevenive schedule
+Refer
+tnemamntenance (epiftei
+deralled service Aktorles
+techniclan comments are recorded for malntenance trend analysIs_
+tollc *in?
+entnes Geta
+preventive and cortective
+ntenance tosk5
+Please rEview this Iog for recent service dates, types, and
+remants
+seclion
+Machine
+MC-245
+MC-249
+MC-282
+MC-28-
+MC-241
+Equipmcnt
+Conveyor Belt
+CNC Milling
+rackarink Linc
+Paint Aooth
+Luscr Cuttcr
+Nachine
+Service Lype
+Coneciive
+Inshecliur
+curteclive
+pteverive
+Wseeclion
+Technician
+Peter Schmidt
+Carns Garcia
+ankola
+WaunaKoa
+Laura Rossi
+Duration
+Noles
+KcMean
+Senaoi
+Replaced ccolant;
+Keplaced ius#
+Calibration check
+recalibrated
+Section
+Marhing
+KC 282
+NC-749
+Vc )41
+Mc-787
+MC-245
+Equipment
+Packacing Vne
+CNC Miog
+Lasef Cutter
+Pain: Booth
+Lonvevo Belt
+Machane
+Service
+Inspection
+Corrective
+nspection
+creventive
+Inspectcn
+Wecnnicah
+Lamarossi
+Peter &chmidt
+Schmdt
+peter Scnmldt
+Jan Kowalski
+Durition
+Notes
+U-Ion Datter
+Refilled oil (HLP
+Teplaced coolant
+Wor Fasket
+senviced
+{eplacec
+Ensua
+next preventive sermce
+Scnecuien
+according
+Malntenance nctes
+archlved for comollaoce Judats
+Uptime (51
+Error count
+comments
+03 6507
+Replaced filter
+Gened

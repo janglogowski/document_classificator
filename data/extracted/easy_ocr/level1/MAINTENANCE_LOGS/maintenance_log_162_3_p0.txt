@@ -1,0 +1,124 @@
+Equipment Record Report
+Performed On: 2024-12-23
+Aunogizuo Dy;
+Pctur Schmidi
+Uperator;
+Anna Nowak
+Check that all dovantime events are properly
+Itogorized and
+This section captures
+aqmomeni Satusanoany
+melntenance obsenellong
+Hllecnnician commenmg Are recorded
+maintenancetrend analysis
+Entrle9 Include mork
+ordors
+tuchnician usslnnmeni;
+und purt chanac:
+Ine cllowing entng; dutail proventivo Jndcorrectivo maintonnco tusks
+Sectlon
+Unit Code
+HC-ZU /
+FC-232
+MC-242
+MC-246
+MC-208
+FC-269
+Machlne
+plasme Cuttem
+Packaging
+Kethe
+Lathe
+A99embly
+Packaging
+Rouot
+Uype
+Corrective
+Insp ection
+Prewcentive
+Preventive
+Inapection
+preventive
+Queratot
+petei Schmidu
+Jankowvalst
+Anma Nawak
+Anna Nowak
+Jankowalaki
+Jankovalsh
+Duration
+Notos
+Tightunod
+No issuuS
+Noissuc"
+Vonden nallet
+Rutlied ni
+Sensor
+OoSADoS
+laund
+Jound
+cneckho
+IHLP 461,
+rec alibraled
+Section
+Unlt Code
+MC?27
+NC 269
+MC230
+MC-247
+NC746
+MC?32
+Machino
+Plasmu Cuttur
+Packunine
+Plusinu
+Cuttcr
+Lathu
+Luthl
+Packunin
+Lype
+Cudreclivi
+Preventive
+Preventive
+Prevemva
+Cudeclive
+Preventive
+Operator
+Annn Noxvnk
+EnnaNownk
+nn Kowvniski
+Lamca Rossi
+Peter Schmidt
+Jnn Koivalsk
+Duration
+Note9
+Calibration
+Li-Ion battery
+Worn gasket
+Refilled oil
+check Ok
+pack sumced;
+repiaceo
+IHLP 461.
+All maintenance tasks have been completed 0s per schedule
+Check remaining lifo-cycles
+Domnonent
+Iromthis
+repon
+Confimmthatall cotreclive acgon were Droderly closed out _ Allmeintenance durationg Bre recorded
+penormance
+motrics, Usuthis closuru note
+updato the muintunance KP
+truckUr
+Ovurall gquipmunt condilion
+Sutisiucton
+post
+Maintenance
+Archive(ni? 9umman
+the CMMS for future reterence
+Uptimo (%)
+Count
+Commonts
+91./14
+Togred
+uy

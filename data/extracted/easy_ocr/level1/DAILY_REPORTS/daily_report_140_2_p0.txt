@@ -1,0 +1,122 @@
+Production
+Report No;
+PR-440
+Custcmer:
+SWEDEN
+Supervisor;
+Anna Nowak
+Department:
+Assemai
+Shift:
+Morning)
+02-04-2024
+Use Ihis shift summary
+drive continuous improvement actions
+AII throughput figures are recorded for
+capacity planning
+Below
+an overviev of machine perfomance and output figures for today $ shift  This
+report summarizes the daily operations and output for the production Iine.
+Machine
+Task
+Operator
+Start
+Finish
+Tota
+Notes
+Temperature
+Energy
+Ime
+Hime
+(KWb)
+MC-206
+Welding
+Anna Nowak
+O7.-00
+08.30
+NA
+MC-205
+Assembly
+Nadia Sauter
+14.53
+MC-202
+Welding
+Jan Kowalski
+08-00
+08.52
+MC-20g
+Drilling
+Magdalena
+14.15
+15.12
+65.3
+1.15
+Witkowska
+MC-201
+Cutting
+Dawid
+13.15
+14.25
+60.3
+2.30
+Oszmianczuk
+MC-208
+Assembly
+Przemyslaw
+07.15
+08.57
+102
+Recallbrated
+60.8
+2.40
+Wasik
+MC-202
+Drilling
+Jan Kowalski
+06.30
+07.56
+1.37
+MC-201
+Cutting
+Dawid
+08.30
+10.28
+118
+1.84
+Oszmianczuk
+MC-207
+Polishing
+Magdalena
+12.15
+13,06
+NIA
+74.3
+2.86
+Witkowska
+MC-202
+Assembly
+Jan Kowalski
+06-00
+06.31
+1.37
+MC-206
+Assembly
+Magdalena
+07.15
+07.59
+NIA
+76.9
+Witkowska
+MC-208
+Assembly
+Jan
+Iski
+09.15
+10.26
+Recalibrated
+Prepared by:
+Carlos Garcia
+Approved PX
+Anna Nowak
+Log
+Kova

@@ -1,0 +1,72 @@
+Inspection Register
+Ensure all non-conforming marks are clearly documented Refer to the quality register for sampling-plan references:
+All checklist entries are timestamped for traceability This section details quality requirements and test points for the
+batch: This closure summary indicates compliance wth Inspection critera: Uce this Ilst t0 confirm adherence t0 AQL
+and safely standards This summary supports the production-release quality gate- Archive this list In the quality-
+management system
+Product ID
+PW-5ISY
+Customer ID
+NORWAY
+IteM Destription
+Insulated Tube ZsMM
+Quality Check Items
+Sample Tler
+Classificadlon
+Comments
+eem Specs
+Hold
+Exposed nail with Siarp point
+Level
+Needs revlew
+Rackage
+not sealed completely
+Leve
+Critical impazt
+Color mismarch
+Rbhe
+Svitot
+nottotin
+Leve
+Lonnattor not
+working
+Level
+Needs reviev
+Vsual
+defect on housing
+Needs reviev?
+Baliey not included
+LEVOI
+Missing distributorintormation
+Lev
+proquct 5i78
+Lev
+Needs review
+incorrect quanti
+assomtment
+Level
+Needs review
+edges on plastic
+Minor issue obsenved
+comdonenls
+Lcose
+Insine
+packaging
+Minor issue obsenved
+Screws loose
+Missinf
+Dustdebris Inside packaging
+Crltical Impact
+Missing logo
+Warning abei
+LC
+Needs revicw
+Missine ;ietjoeis
+Lee
+Critica
+mooct
+Supenised by:
+Date
+Wronf
+snatp
+parts

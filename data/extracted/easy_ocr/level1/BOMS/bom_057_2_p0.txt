@@ -1,0 +1,32 @@
+Customer ID: CANADA
+Prepared by: Carlos Garcia
+Product ID: FT-730X
+Internal No.=
+9877047
+AIl line-item costs are current as per vendor quotes
+The following table summarizes the materials
+and quantities needed forthe current project: Use this breakdown t0 verify sourcing and cost
+estimates. Use this schedule of parts to align with sourcing and stock levels _
+Ensure each
+Im
+ponent meets the
+specified quality standards. This section outlines the parts, unit prices and
+totalamounts for assembly:
+Item Description
+Stainless Bolt MB
+Spring Washer M1O
+Copper Wire 3mm
+Qty
+890
+885
+UOM
+Unit Price
+pmount
+39.55
+44.50
+531.00
+Remarks
+ROHS compliant
+Certified batch
+Imponted
+TOTAL: 615.05

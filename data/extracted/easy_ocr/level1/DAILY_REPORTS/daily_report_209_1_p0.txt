@@ -1,0 +1,124 @@
+Production Log
+Report No::
+PR-515
+Customer;
+POLAND
+Supervisor:
+Jan Kowalski
+Denartmnents
+Painting
+Date:
+29-09-2024
+shift:
+Eveningl
+Equipment
+Process
+Technician
+Start Time
+Total Time
+Remarks
+MC-206
+Cutting
+3arost
+10.00
+11,08
+Wawrzyniak
+MC-208
+Pollshing
+Nada Sauter
+11.15
+12*46
+MC 206
+Drilling
+Bartosz
+09.15
+11.03
+108
+Recalibrated
+Wawrzyniak
+MC-20}
+Drilling
+Anna Nowak
+11.15
+12.07
+MC-208
+Weldirg
+lena
+12.15
+14.04
+wltkowska
+Mc-203
+Assembly
+Anna Nowvak
+09;15
+10,32
+MC-209
+Polishing
+Bartosz
+06.30
+08.19
+109
+Recalibrated
+Wawrzynlak
+MC ?02
+Anna Nowak
+06 00
+Ub:41
+N/A
+MC-207
+Assembly
+Mateusz
+11.15
+12.02
+Recalibrated
+Jdlfxna
+MC 207
+Assembly
+Anma Nowvax
+12.15
+13,32
+MC 207
+Cutting
+Dawid
+14.15
+16.11
+116
+Recalibrated
+Uszmiancuk
+MC-?01
+Assemnk
+Kowalski
+13.30
+14-28
+Deiav
+Part ID
+Qty
+Produced Qty
+Rejected Qty
+Scrp
+Uwagl
+X0-710R
+240
+13.6790
+LK-890B
+3 3607
+Scrad
+connnmne
+RM-B6ON
+Rework needed
+Iy-350g
+0 0eo
+QN-770H
+91%
+Rework needed
+GL-9805
+1.694
+confirmed
+Prepared by:
+Kowjiski
+Approvedb%:
+Peter Scnmde
+Mjgdal
+Cutting
+Target
+Scrap

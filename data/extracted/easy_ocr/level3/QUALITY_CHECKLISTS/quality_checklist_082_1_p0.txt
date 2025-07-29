@@ -1,0 +1,57 @@
+Inspection Checklist
+#3032723
+Date: 17.07.2025
+Product ID
+VR-940T
+Customer ID
+BRAZIL
+Atem Description
+Bearing 6202ZZ
+Archive this list in the quality-management system Please review each checklist pointand mark the sampling
+results. Entries include
+visual and functional inspection items
+Ensure allnon-conforming marks are
+clearly documentad. This section details quality reqquirements and test points for the batch: This summary
+supports the production-release quallty Bate. Use this Iist to confirm adherence t0 AQL ard safety standards
+Check-
+that inspection steps follow the approved procedure. This checklist captures quality inspection points
+samplinglevels;
+Review Points
+Inspection
+Category
+Comments
+Depth
+Design Specs
+Shar? edges on plastic
+LevelIl
+components
+Dust/debris irside packaging
+Issue odserved
+Proguci
+doesn t power On
+Level Il
+ssue Coserved
+Caron
+damaged
+markincs
+Level /
+incorrect
+Mssing distributor information
+Levelm
+MAAdS [AvIA
+AQL Level
+Critical
+Minor
+Cefault
+Customer specific
+inspection summary
+filled for regulatory compliance. This final note confirms the checklist is conplete and
+approved. Please efsure supervised sign-off on any non-conforming points
+Corrective actions are Jcheduled
+for identified issues. All summary comments have been validated by the QA team. Confirm that all sampling
+results are within acceptable limits. Flag ary open issues in the CAPA tracking system Refer t0 noaes for any
+observed defects or deviations
+botht
+Micor
+Minpl
+Majol

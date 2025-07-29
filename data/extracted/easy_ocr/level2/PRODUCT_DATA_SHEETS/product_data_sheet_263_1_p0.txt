@@ -1,0 +1,105 @@
+Product Data Sheet
+Project:
+GH-770J
+Document No::
+PR-407
+Prepared
+Anna Nowak
+Approved BY'
+Laura Rossi
+Location: Plant 2B
+Date
+2024-03-31
+Use tnis spec sheet to validate assembly instructions_
+The following information outlines performance
+characteristics and design data
+This data sheet provides key specifications and material delails.
+Check that
+all material specs align with supplier certifications.
+data entries are traceable
+design revision history-
+This technical
+ovenicu
+supports the product-release checklist.
+Configuration Type
+Hydraulic Power Unit
+Operating Pressure
+300 bar
+Throughput
+60 Lmin
+Operating Voltage
+230 V /50Hz
+Charging Time
+Protection Class
+IP65
+Battery Capacity
+10 Ah
+Noise Level
+72 dBLA)
+Control Valve
+Proportional 4/2
+Working Temp
+Range
+59C t0459
+Service Interval
+mOnins
+Motor
+7,5kW
+Mounting
+Rack
+Reservoir Capacity
+120
+Cooling
+Water-cooled
+Pump Type
+Vane Pump
+exchanger
+Filtration
+inline; 10 pM
+Frame Material
+Powder-coated Steel
+return
+Document control numbers are included for traceabillty. Archive this summary for future design-change
+management_ Material choices and process data have been verified for compliance
+Confirm that all test
+condilions are accurately represented
+Overall configuralion
+within defined design and safely margins
+Flag any missing parameters for urgent specification updates_
+This summary reflects the latest revision of
+Ine praducl dala:
+Material of Construction:
+mem
+Composition
+pressume
+Valve
+CLI2I
+Wooden Pallet
+Treated Pine Wood
+Support Foot Stee
+Stainless Stee
+304
+Nut M6
+Zinc-Plated Steel
+Bearing 6202
+Stainless Steel 304
+Tetlon
+Tape Roll
+Teflon Tape Rol
+Steel Sheet 436
+Carhon
+Stee
+Fuse
+Ceramic Oxide
+Cooling Gel Pack
+Silicone Rubber
+Wiring
+dcM
+PVC (Rigid)
+Rubber Gasket B0mm
+Nitrile Rubber (NBR
+Connector
+Glass-Filled Nylon
+Powel
+Tranie
+Bras?

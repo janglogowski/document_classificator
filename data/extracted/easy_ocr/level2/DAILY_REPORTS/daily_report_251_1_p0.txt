@@ -1,0 +1,124 @@
+Shift Summary
+Report No :
+PR-875
+Customer
+BRAZIL
+Supemvisor
+Anna Nowak
+Department
+Machining
+Date
+16-11-2024
+Shift
+BEvennab
+Machine ID
+Task
+Worker
+From
+End
+Tota
+Remarks
+quration
+MC-207
+Welding
+Wiktor
+10.00
+11.27
+Kopcznski
+MC-209
+Assembly
+Przemyelaw
+08-C0
+08.29
+Delay
+Wasi
+MC-203
+Drilling
+Mateusz
+14-15
+15.23
+Delay
+Jarma
+MC-206
+Cutting
+Anna Nowak
+07.15
+09.15
+120
+Recalicrated
+MC-207
+Drlling
+Jan Kovalski
+d0-0o
+10-57
+MC-205
+Welding
+Jan Kowalski
+12-00
+13.49
+MC-207
+Orling
+Mateusz
+11.30
+12.06
+Delay
+Dantyna
+MC-208
+Welding
+Dakd
+06.30
+05.57
+Recalbrated
+Oszmianczuk
+MC-204
+Cutting
+Mateusz
+10.15
+11-50
+Ok
+Jarna
+MC-202
+Polishing
+Piotr
+10.00
+11.41
+MA
+exandotk
+KC-209
+Polishing
+Jan Kowalsk
+QZo
+08-01
+NA
+MC-208
+Assemoiy
+Bartosz
+08.30
+09-36
+Recalibraled
+Wavizmiak
+Produc_ ID
+Larget Obx
+Produced QB
+DeiectOL
+Rejection
+Lwagi
+NE-2454
+3312
+GL-9805
+15.5400
+GL-9805
+14697
+ZR-205R
+9480
+VF-220D
+300
+238
+0.6790
+Rework
+neecec
+Prepared DL
+Peter Schmici
+Approved Dy
+Reter Schmidt
+Tinte

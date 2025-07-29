@@ -1,0 +1,51 @@
+Conformance Report
+Review Points
+Inspection
+Severity
+Comments
+Depth
+Component Cutera
+CR
+Hold
+Incorrect
+onen alion
+pox
+Leve
+Package
+not sealed
+completel
+Level
+Needs review
+Connector not working
+Level
+Neods review
+Sharp edges
+plastic
+components
+Level /
+Incorrect barcode or label
+Visual defect on housing
+Level
+Shipping mark is illegible
+missing
+Level
+Needs review
+Not assembled as per
+drawng
+Level
+Minor issue observed
+Carton
+damaged or
+incorect
+Level
+Needs review
+Exposed nail with sharp
+point
+Minor issue observed
+Reference Standards:
+Standard
+Edition
+SQ 9001
+2020
+UL 61010
+markings

@@ -1,0 +1,79 @@
+Equipment Record Report
+2023-10-17
+This service summa
+upports tne
+eliability engineering review. Tnis
+[ecords ailmaintenance arrivities Derformeo
+eqwipsment; Use tnis ecord
+plam wpcoming upkeep and repairs
+Confinm Enat $ervice intervals follova the preventive shedule
+follcwin 2
+entnies deta
+preventiveand corective
+ntenance ta5k5
+Spare /arts Used:
+Fart Name
+Fart No
+aty Used
+Seallao Gas
+p-4967
+Unit Codl
+Maching
+5ervice
+Technician
+Dowuntim
+Lait Check
+Comments
+ML-242
+Assembiy
+Lotrective
+Jankowalske
+2024-03-22
+Replace d
+Ronc
+ccolant
+MC-293
+Paint Bcotn
+Insdection
+reter
+2u2s-U/-U9
+cnanged
+scamiat
+and Mters
+MC 209
+AxMbly
+Inspection
+petem
+2024 02.14
+Calibraticn
+Robcl
+scmmaI
+check OK
+MC 291
+Paint Bcoth
+Prevemtive
+Ljura Rosst
+2024-04-41
+MC-292
+Aydraulic
+Cotrertive
+Laura Roree
+2023-10-22
+Li-Icr
+PrE
+batery pack
+senviced
+Uc757
+Packining
+Urspeclion
+curic , Gurcia
+7074-00-14
+Morneunu
+Line
+replaced
+Sigred oll;
+Canos Gurcia
+Pertocmedb
+Carlo: Gurcia
+The
+TyPL

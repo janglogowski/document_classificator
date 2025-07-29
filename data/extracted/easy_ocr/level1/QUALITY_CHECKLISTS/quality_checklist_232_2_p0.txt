@@ -1,0 +1,48 @@
+Inspection Register
+All checklist entries are Uimestamped for traceabillty. Archlve this Ilst In the quality-management system Refer
+quality register far sampling-plan references
+Entries include both visual and functional inspection items This closure
+summary Indicates compliance with Inspection criteria.
+Bclow are the Items
+be verified during the final product
+review. This checklist captures quality Inspection polnts and sampling levels:
+Product ID
+PW-S15Y
+CustomerID
+TURKEY
+Item Description
+Ventilation Grid
+Inspection Checklist Points
+Insocctian
+Classification
+Notes
+Depth
+Producl Requireiemls
+Hold
+Colo
+mlsmnarch
+LCUC
+Nccisrcvic
+incomec
+quantity
+assorment
+Leve
+Needs review
+Battery not included
+Leve
+Incorect orientation
+Leve
+Needs review
+Package
+not sealed completely
+Leve
+Mlinar SsuE
+Jbserved
+Paint smearing
+scralchet
+eve
+Crlca
+impali
+Rubber Switch not working
+Supervised by: _
+Date:_

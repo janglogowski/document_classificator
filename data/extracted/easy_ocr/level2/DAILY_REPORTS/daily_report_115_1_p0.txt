@@ -1,0 +1,99 @@
+DAILY PRODUCTION REPORT
+ReporNo:
+PR-364
+Custone
+FINLAND
+Sudenneor:
+Peter
+Scnmim
+Dedanmert
+Lopistics
+Dai
+46-11-2023
+Shilt
+BMEveningi
+Equipient
+Pioces?
+Technician
+Stant Time
+End Time
+Ime Spent
+Remaiks
+MC-202
+Kateusz
+05.30
+07.22
+Jara
+KC202
+Welding
+Nadia Sautel
+08.15
+03.35
+Delay
+MC-202
+Polishing
+Wkton
+10.15
+10.52
+N/A
+Kopczinski
+KC-201
+Welding
+Anna Nower
+08.00
+09.45
+Delay
+MC-207
+Polishing
+Jan 04a54
+02-15
+10;19
+MC-201
+WeldinB
+Annatowar
+14.30
+15.39
+Recsitnated
+KCZo
+Weldi7a
+Ede
+S3ua
+08-00
+0o-O
+MC-205
+Poulshing
+Kowalski
+LO-Co
+Delay
+atent
+Jamet Q
+piogucro
+Q
+Eetect Q
+Fallure
+inmans
+TX-8201
+239
+207
+13.3939
+MC-S4OX
+146
+0.6898
+Reot-needan
+MC-540X
+178
+006
+RE-BSOC
+230
+209
+1348
+Scrap
+Connrmen
+Prepar
+Lana
+Ressi
+Approved Dy:
+Knma
+Nowak
+Drling ,
+C520

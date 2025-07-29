@@ -1,0 +1,74 @@
+Unit Data Specification
+Projec:
+NU- 4402
+Report No;;
+Prepared
+1987031
+Pete
+Schmidt
+Approved By:
+anna
+Nowak
+Lacarion
+Plant IC
+Date: 2023-10-22
+This section details the configuration and
+parameter set for the product This technical overview
+proquct-relcase
+checklist: All data entries are traceable
+supports the
+comply with project requirements_
+design revision history Confirm that performance ranges
+This
+sheet pravides key specifications and materia
+details:
+Model Type_
+Hydraulic _
+unit
+Throughput
+Operting Pressure
+250bJ
+75 Lmin
+Control Valve
+Proportional 4/2
+230 V _
+S0 Hz
+Qil Jype_
+Noise Level
+70 dBIA)
+HLP 46
+Frame Material
+Battery Capacity
+Stainless Stee
+Dimensions (LxWxH)
+1200
+Z00X 1100
+exchanger
+Mounting
+Total Wcight
+180
+Rack frame
+Service Interval
+1000 [
+Charging Time
+Filtration
+Type
+Vane
+Hm inline,1Q pm return
+Motor
+Working_
+Range
+-10 Cto 50"C
+5,5 kw
+Protection Class
+Reservoir Capacity
+dalz
+Poner
+Voltage
+Frame
+coollng
+Water CoO
+Pump
+pump
+PowNct
+Temp:

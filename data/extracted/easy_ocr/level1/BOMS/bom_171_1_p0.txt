@@ -1,0 +1,109 @@
+BOM Report
+Customer ID: SWEDEN
+Coordinator: Peter Schmidt
+Date:
+2023-01-15
+Product ID: AL.1150
+Intera
+No : 9085391
+Order Qly: 79
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Cable Tie
+3.14
+10%
+pCS
+0.95
+38.95
+Pack (100)
+Battery
+2.39
+10%
+pCS
+25.00
+825.00
+Imported
+Pack
+Protective
+0.39
+10%
+1.80
+27.00
+High
+Sleeve
+grade
+s0mm
+Rubber
+2.42
+10%
+pCS
+0.55
+29.15
+Certified
+Stopper
+batch
+Spacer
+3.06
+2%
+pCS
+0.15
+5.10
+Certified
+Zmm
+batch
+Set
+1.94
+10%
+pCS
+2.50
+105,00
+Switch
+tested
+Ok
+Termina
+0%
+pCS
+3.40
+47.60
+Urgent
+Block 4P
+Copper
+2.85
+5%
+0.60
+21.00
+Li-Ion
+Wire 3mm
+battery
+installed
+Protective
+0.99
+10%
+3,60
+High
+Sleeve
+grade
+s0mm
+Ventilation
+2.23
+pCS
+5.60
+95.20
+Eco
+Grid
+compliant
+This closure summary validates that all parts are approved for release.
+Total
+Amount:
+1,197.60
+Approved By;
+Sourcing Department:
+Hinge 

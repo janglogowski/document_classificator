@@ -1,0 +1,56 @@
+COMPONENT BREAKDOWN
+Customer ID: TURKEY
+Coordinator: Peter Schmidt
+Date: 2023-09-18
+Product ID: TR-2OOB
+Internal No;; 5374922
+Order Qty; 372
+The component roster below includes unit costs and batch codes: The parts manifest here
+designed to
+support procurement workflows. Refer to this parts register to plan raw-material purchasing:
+Item
+Consumption
+Extra %
+UOM
+Rate
+Amount
+Remarks
+Description
+Heat
+3.32
+2.70
+129.60
+SKF brand
+Resistant
+Sleeve
+Steel Sheet
+2.74
+5.00
+60.00
+For
+A36
+export
+Plastic
+0.81
+pcs
+1.10
+29.70
+Hinge
+Cover
+alignment
+150x150
+adjusted
+Shalt
+3.12
+pcs
+8.00
+88.00
+ISO
+S0Omm
+verified
+This final review confirms that all items are ready for requisition:
+Total Amount;
+307.30
+Approved By:_
+Sourcing Department:
+at

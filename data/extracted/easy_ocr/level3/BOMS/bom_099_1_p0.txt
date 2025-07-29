@@ -1,0 +1,83 @@
+Peter
+No: 9716832
+Dale:
+materials
+the
+Otx: 467
+needed for
+and supplier rates' The
+project
+table
+Item
+the
+2.08
+Qty
+UOM
+Block 4P
+2.64
+pcs
+3.40
+Pad
+LED Light
+pcs
+High
+0.41
+3.20
+grade
+Hex
+Imported
+1.07
+2.50
+10%
+22,50
+pcs
+0.25
+3.00
+2mm
+PCS
+0.15
+Total
+59,85
+BILL
+MATERIAL
+Custamer
+POLAND
+Producl
+SL-430M1
+Coordinaton
+Schmidl
+Intemal
+2024-11-08
+entries
+Order =
+reflect 
+(atest
+inventory
+and
+quantities
+following
+current
+summarizes
+Consumption
+Descriptlon
+Extra"
+Terminal
+Rate
+Amount
+1090
+Remarks
+Insulalion
+Foam
+180.20
+Strp
+150,40
+Bclls
+M12
+Spacer
+Switch
+lested
+3.75
+Amount
+Approved 
+Sourcing
+Deparment:

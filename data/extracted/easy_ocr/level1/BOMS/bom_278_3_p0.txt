@@ -1,0 +1,54 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+pCS
+72.00
+Hinge
+Bracket
+alignment
+adjusted
+Ceramic
+2.10
+18.90
+SKF brand
+Disc 8Omm
+Clamp
+1.75
+49.00
+Certified
+120mm
+batch
+Packaging
+1.00
+30.00
+Box
+Fuse 5A
+Fuse SA
+Imported
+Epoxy Resin
+211.70
+LED Light
+2.50
+45.00
+ROHS
+Strip
+compliant
+Please confirm supplier lead times
+ensune
+timely delivery of all items
+Customer ID: TURKEY
+Coordinator: Peter Schmidt
+Date: 2025-06-30
+Product ID: ZR-ZOSR
+Interna
+No:: 7824262
+Order Qty: 187
+Total Amount:
+442.80
+Ring

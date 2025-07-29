@@ -1,0 +1,75 @@
+Component Dimensional Check
+ecnnician
+Peter Schmid
+Inspection Date
+2024 01.30
+Revlew
+ecorded tolerances against engineering specilications .
+Ensure measurement methods align wilh
+calibration standards. Use this results summary
+trigger any corrective actions. Please review the
+inspection results for each component Iisted belov::
+Product Ref
+PL 6012
+CE 905L
+GH-770J
+MR_
+PL-6012
+Component
+Graphite Pad
+Porcm
+Puocer
+0-Ring NBR
+Rubber
+Hex Bolts
+Switch
+Gasket
+60mm
+Gasket
+M12
+4wmm
+Gumm
+Measurement
+Height
+Hole
+Hole
+Thickness 
+Depth
+Lengi
+Nomina
+24879
+53.40
+73.06
+Observed
+14.92
+35.28
+95.78
+24.94
+53.25
+Diff
++0.17
++0,15
+Pass(Fail
+@nsure
+all measuring tools were properly calibrated
+Ensure status flags are updated
+the quality
+management system. Refer
+deviation column for any out-of-tolerance measurements
+Confirm that pass
+rates meet the defined acceptance criteria_
+Instrument Calibration Log:
+Instrument
+Serial No
+Last
+Calibration Date
+Micrometer
+46553
+2025-04-24
+Lase
+Scanner
+49534
+2024-11-11
+CMM
+58756
+2025-05-27

@@ -1,0 +1,122 @@
+Tolerance Check
+Inspection performed by Jan Kowalski on 2024-08-10.
+All measured values are
+timestamped for audit purposes
+Refer to the dimensional log for all component size
+readings_
+Ensure measurement methods align wlth callbration standards This report presents the dimensional
+measurements and inspection
+neSuts
+Belaw are the recorded measurements
+compared against nominal
+tolerances
+Review recorded tolerances against engineering specitications.
+Environmenta
+Conditions: Temperature: 21.7
+Humidity: 45 %
+Product
+Ref
+Componcnt
+Micasurcmcnc
+Target
+Actuai
+ueila
+Status (ViX)
+@P-660F
+Power Switch
+Inner
+77.86
+77.89
++0.03
+PASS
+piamerei
+MX-450L
+Switch
+inner
+47,00
++0,02
+PASS
+Dlameter
+RE 850C
+Hex Bolts
+Height
+86.68
+86.80
++0.12
+PASS
+M1z
+NU-4402
+Rubber
+Height
+30.35
+30.36
++0,01
+PASS
+Gasket S0mm
+DX-777T
+Shaft S0Omm
+wicth
+39.29
+39.30
++0 0I
+PASS
+RX-31OZ
+Hex Bolts
+Height
+37.54
+37.49
+0.05
+PASS
+M12
+AZ J0OT
+Graphite Pad
+Hole
+55.03
+55.17
++0.14
+PASS
+NU-440Z
+Sheet
+Hole
+32.89
+32.96
+40.07
+PASS
+436
+GL-9805
+phite Pad
+Hole
+71.04
++06
+PASS
+TL-qnoy
+Powe
+Switch
+Venth
+56,12
++0.18
+PASS
+VF-220D
+Battery Pack
+Height
+70.98
+70.88
+0.10
+PASS
+TR-ZMOB
+Bearing 6202
+Depth
+13.65
+13.83
+40.18
+PASS
+MX-4S0L
+Rubber
+Width
+27.71
+27.62
+~0.09
+PASS
+Gasket 80mm
+Poxer
+Sccet

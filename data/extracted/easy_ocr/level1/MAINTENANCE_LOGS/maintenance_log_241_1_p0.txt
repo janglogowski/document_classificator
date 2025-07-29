@@ -1,0 +1,82 @@
+Equipment Record Report #1046724
+Date: 2023-11-26
+Unit Codc_
+EquiPMcnt
+Scrvicc Typc
+Hccnnician
+Downtimr
+Notes
+MC-2O?
+Flasma Lutier
+Preventive
+Lavra Rosse
+Plant 34
+Hienment 01
+adjusted.
+Mc-762
+Packaning |int
+Cocrectivt
+Anu Nuvat
+Plant 34
+Renlacediuse
+I541.
+MC 788
+Lasr Cueg
+Cocrectivt
+Mum-I Roxei
+Plam IC
+ML-266
+Asembly
+Lorrecuive
+reter Schmidt
+Plant 1C
+Worn gasket
+Robcl
+fepaced
+MC 220
+Lascr Cuttcr
+corrcctivt
+Laura Ro;;
+Plant ZB
+MC-215
+inter
+Preventive
+Cchmidt
+Plant 34
+Clabration
+check Ok
+MC-231
+Hvdraulic Prers
+Cocreruve
+Anna Nowak
+Plant 26
+Tightened
+10cx,# bollx
+MC-286
+LAtmt
+Inscerhon
+Jaura Rozst
+Plant 34
+Sensor
+recallbcated
+Maintenance nctes
+archived for comciance Judits
+Archive thls summary In the CMMS
+rcnucure reterence
+Confirm that all
+corrertive actions "er
+Dronerky dloset
+Overz
+enmicment concirion
+satisfactory post-maintenance. Flag any recurring issues
+investigation
+mzintenanc
+tasks
+comoleted
+achedule
+Lupricaticn Checked
+Calibraticn Verifiem
+Emnereenc' Si0p [esied
+Approvedby:
+Serlced bu
+hirkes

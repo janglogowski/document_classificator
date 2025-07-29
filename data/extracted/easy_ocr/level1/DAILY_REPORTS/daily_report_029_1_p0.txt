@@ -1,0 +1,133 @@
+DAILY PRODUCTION REPORT
+Report !
+PR-725
+Customer:
+SWEDEN
+Supervisor:
+Lauta
+Rossi
+rimentz
+Packaging
+ate
+01-08-2023
+Shift:
+Evening)
+Machine ID
+Task
+Operator
+From
+Total
+Uwagi
+duration
+MC 205
+Welding
+Anna Nowak
+13.15
+14.53
+Delay
+MC 209
+Polishing
+Piotr
+14.00
+15.46
+106
+Delay
+LewvandoSk
+MC-204
+Cutting
+Anna Nowak
+06.00
+07.50
+Recalibrated
+MC-206
+Cutting
+Agnieszka
+12.15
+13.52
+Zielinska
+MC 209
+Cutting
+Agnieszka
+12.30
+12.55
+Zielinska
+MC 207
+Cutting
+Magdalena
+11.00
+11.31
+Witkowska
+MC-208
+Polishing
+Wiktor
+12.15
+13.57
+102
+Recalibrated
+Kopczynski
+MC-205
+Welding
+Nateus/
+11.00
+12.12
+Jarzyna
+MC-205
+Polishing
+Nadia Saute
+T3Z0
+T5-07
+MC-206
+Drilling
+Dawid
+06.30
+08:18
+108
+NIA
+Oszmianczuk
+MC-206
+Drilling
+Wiktor
+12.15
+13.26
+Kopczyiski
+MC-206
+Drilling
+Mateusz
+11;00
+12.38
+Jarzyna
+Item
+Target Qty
+Actual
+Qty
+Rejected Qty
+Failure %
+Uwagi
+PW-S1SY
+118
+2.5406
+Rework
+needed
+TY-350G
+283
+0796
+MX-450L
+6496
+RM-BGON
+3.6590
+Rework naedetz
+TL-SOOX
+10.4890
+Revork naxdad
+TL-90OX
+289
+262
+9.3490
+Prepared by:
+Cailos Gaicia
+Approved by:
+Laura Rossi
+No:;
+Depu
+1jo
+Delay

@@ -1,0 +1,128 @@
+DAILY PRODUCTION REPORT
+Report
+NU;:
+PR-/26
+Cudcmer:
+SWVEDEN
+Supervisor:
+Laura Rossi
+Depertinon::
+Packaging
+Dale:
+01-08-2023
+Stft;
+Evuninki
+Machine ID
+Task
+Operator
+Ftom
+Total
+Uivagi
+duratlen
+MC-205
+Welding
+Anna Nawak
+13.16
+14.53
+Deley
+MC-209
+Palishing
+Piole
+14.D0
+16-40
+106
+Delay
+L9ve
+ndowski
+MC-204
+Cutting
+Anna Nowak
+0a: VO
+075u
+110
+Recaliprated
+MC-206
+Agnieszka
+12.15
+13.52
+Ziclirska
+MC-209
+Cutting
+Agniaszka
+12.30
+2.56
+Zielinska
+MC-207
+Cutting
+Megdalerix
+11:00
+11.31
+Witkowska
+MC 208
+Polishing
+Wiktor
+12.15
+13.57
+Recalibrated
+Kopezyrski
+MC-205
+Welding
+Mateuyz
+11,00
+12;12
+Delay
+Jaizyna
+MC-205
+Polishing
+Nadia Sauter
+43'Si
+17
+MC-206
+Drilling
+Dawid
+06.30
+08:18
+Ualmanczuk
+MC-206
+Orilling
+WNaktor
+12.15
+13,26
+Kopczyiski
+MC-208
+Drillina
+atest
+Ttoo
+12.38
+Jarzyna
+Itetd
+Target QTyr
+Actual Qty
+Rejected Qty
+Failure
+Uwagi
+PW-5157
+2.5496
+Revon< meeded
+TY-350G
+283
+263
+07n6
+MX-450L
+6490
+RM-8GON
+365y
+Re"'Of eeded
+900X
+105
+10.4896
+Rework needed
+9C0X
+289
+4auo
+Preparad bv:
+Carlos Gaicia
+Approvedbiy:
+auC
+Rossi
+Cutting

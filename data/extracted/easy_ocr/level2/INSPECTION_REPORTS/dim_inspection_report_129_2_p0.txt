@@ -1,0 +1,73 @@
+Inspection Results Summary
+Cadlos Garcia
+Technician
+Inspection Dale
+2024-06-01
+All measured values are limestamped for audit purposes
+This section details the measured values;
+tolerances, and status flags. Check that all dimensions comply with ISO and company standards. Use this
+examinalion summary
+confirm component conformity: Ensure measurement methods align with
+calibration standards_
+Article No
+GL-9805
+CN-S0C
+MR-160H
+CE-905L
+MS-SOOP
+Shait 500mm
+Pawer Switch
+Shall 500mm
+Bearing 6202
+Ring NBR
+Part Name
+60inun1
+meni
+Depu
+Hale
+Thickne5s
+Ticknoss
+Height
+Mcasure
+89.08
+76,86
+69.32
+26 51
+Nomina
+23.71
+Tu_
+69.21
+26,69
+Observed
+23.82
++0.18
+40.16
+Delta
++0.11
+PASS
+PASS
+PassIFall
+PASS
+PASS
+require immediate review and corrective aclion:
+Inspection notes have been
+Compononts failing inspection
+for traceability: Please address any NOK items before proceeding
+the next production stage. Flag
+logged
+any components requiring re-machining
+adjustment:
+Instrument Calibralion
+Serlal No
+Last Callbration Date
+Instrument
+2024-12-10
+Laser Scanner
+34307
+24699
+2024-10-25
+Caliper
+Laser _canne
+59072
+2024-12-03
+Log;

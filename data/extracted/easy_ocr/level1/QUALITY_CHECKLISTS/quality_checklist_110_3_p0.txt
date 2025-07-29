@@ -1,0 +1,80 @@
+Quality Checklist
+Review Points
+Sample
+Classification
+Comments
+opecs
+Critical
+nior
+Minor
+OnHold
+Design
+Rubber Swltch not working
+Levem
+Critical impact
+Incorrect barcode or labe
+Level II
+issue abserved
+Packaging daes
+nolmarch
+Minor
+issu4 Db sened
+Leveli
+signed sample
+Functionality test failed
+LevCI
+Needs [eview
+Wrong praduct siz
+Level II
+Comngctor not
+working
+Lavgi
+Lavei
+Nee0s rEvIcw
+Missing safety labels
+Shipping mark is illegible
+Level IlI
+Needs review"
+Missine
+Waod splinter
+sharp
+Level Il
+Critical impact
+onproduct
+Dcao
+live insectin
+Lavell
+packaging
+CMticalimipact
+Product doesn L power
+LEvCI
+Loose parts inside
+Level Il
+packaging
+Missingdlstributor
+LavelII
+Needs review
+Jntormation
+Dustdebris
+LevelII
+Needs review
+packaging
+Carton
+damiaged or
+Level /
+Needs reviev"
+markings incorrect
+Instruction manual is
+Minor Issue observed
+missing
+damaged
+Reference Standards:
+dmion
+Standard
+CE Diective
+2018
+IEC 61010
+4th Ed:
+Mino
+point
+inaidu

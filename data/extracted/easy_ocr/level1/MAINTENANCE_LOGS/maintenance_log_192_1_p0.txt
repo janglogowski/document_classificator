@@ -1,0 +1,103 @@
+Maintenance Checklist Report #7882630
+Date: 2024-09-29
+acnint
+Equipmcnt
+Scrvice Typc
+Opcrato
+Downtime
+Notu =
+MC-296
+Fidraulic
+Preventive
+Anna Nowak
+Flant 34
+NdissuB5
+Rauna
+MC-28z
+CNC Milling
+Praventive
+Jan Kow"Biaki
+Plant 1C
+Nache
+MC-212
+CNCMiluna
+Preventive
+Pgter Schmidt
+Plant 1C
+Replaced
+Nache
+cnolani
+MC-ZBU
+Fidraulic
+corroctive
+Peter Schmidt
+Plant 2B
+Li-Ion batter
+Press
+pack seniced
+MC 236
+Luthic
+Inspeclion
+Jan Kuwulski
+Plant 34
+Switch
+contacia
+Cicanco
+MC-2J5
+CNC Milling
+Praventive
+Peter Schmidt
+Fant ZE
+Noissu85
+Hachine
+ouno
+MC-217
+CNC Milling
+Inspeciicn
+Peter Schmidt
+Pant IC
+Sensom
+Nichine
+tucAibralted
+MC-Z4U
+Lathe
+Preventive
+Anna Nowak
+Plant 2B
+Hlenment
+adjusted
+MC-267
+Palnt Bcath
+Caniective
+Laura Fc88i
+Plant ?8
+Sruch
+Coriacs
+clebn8C
+MC-224
+Plasme
+Cutter
+Preventive
+Carc'
+Garcis
+Plant 1C
+Tightened
+loujduults
+Overall equiprcnt cunditian
+satislactory
+usemanaenaingc
+Archive this summaty in tne CHMS for luturerelererice
+maintenance
+tasks havt
+comoleteo
+per schedule. This
+smnmna
+supports the asset-management dashboard:
+Lubiicalion
+Checke
+Calibratinm Vurificd
+Emereenc Siop lesteo
+Signud olf: _
+Pertormed by:
+tnins
+or

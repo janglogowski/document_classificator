@@ -1,0 +1,69 @@
+Product Overview
+reviet
+the specifications and material composition listed below: The parameter register
+includes
+operating limits and ratings The following information outlines performance characteristics and design data
+Check
+that
+matera
+specs align with supplier certificatians: Confirm that performance ranges comply with project
+requirements; All data entries are traceahle
+design revision history;
+Product ID
+GL-9805
+Document No:
+PR-207
+Preparec
+bv; Peter Schmidt
+Approved by: Anna
+Nowak
+Date; 2025-04-27
+Unit Type
+Pneumatic
+Contral Unit
+Operating Pressure
+210 bar
+Throughput
+30 L{min
+Operating Voltage
+400
+50 Hz
+Charging
+Mme
+Type
+HLP 32
+Dimenslons (LxWxH)
+1200
+700 * 1100 mm
+Mounting
+Kackaamc
+Reservoir Capacity
+Protcction
+P6?
+Flag any missing parameters for urgent specification updates
+Archive this summary for future design-change
+management_
+Ensure that the listed materials are anproved forthe
+Pplication; Check that
+section headers follow
+the product template
+Ensute
+ossary tefms match the engineering nomenclature
+Material of Construction:
+Subcpmpanent
+Lamposition
+Graphite Pad
+Graphite
+Cable Tie Pack (100)
+Mitrile
+Rubber INBR)
+Pressure
+Vaive
+3rass
+C
+Rubber Gaske-
+ROmm
+Nitrile Rubber INBR
+Please
+belo "
+Class

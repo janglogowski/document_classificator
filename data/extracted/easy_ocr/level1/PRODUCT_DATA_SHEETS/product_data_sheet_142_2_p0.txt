@@ -1,0 +1,56 @@
+Unit Configuration
+This data sheet provides key specitications and material details_
+Below are the technical parameters and
+construction materials for the unit, Use this spec sheet
+validate assembly instructions
+Entries include
+both mechanical and electrical
+specifications. Refer
+this configuration summary for unit-designation
+mapping:
+Product ID:
+PL-601Z
+Report No
+6303841
+Prepared by: Anna Nowak
+Approved by: Carlos Garcia
+Date
+2023-09-19
+Model Type
+Hydraulic Power Unit
+Rated Pressure
+180 bar
+Flow Rate
+75 Umin
+Operating Voltage
+400
+S0Hz
+Protection Class
+P54
+Motor Power
+kW
+Oil Type
+HLP 32
+Check that all section headers follow the product template: Flag any missing parameters for urgent
+specification updates. This summary reflects the latest revision of the product data_
+Archive this summary for
+future design-change management: All specifications meet tne design requirements and industry standards;
+Ensure glossary terms match the engineering nomenclature: Material
+choices and process data have been
+verified for compliance_
+Material
+Construction:
+Composition
+Thermal Fuse
+Ceramic Oxide
+Wooden Pallet
+Treated Pine Wood
+Heat Sink ALU
+Aluminum 6061-16
+Fuse S5A
+Ceramic Oxide
+Steel Sheet 436
+Carbon Steel 436
+Support Foot Stee
+Stainless Steel 304
+Iem

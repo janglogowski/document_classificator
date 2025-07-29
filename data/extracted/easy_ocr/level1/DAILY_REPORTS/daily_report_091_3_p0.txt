@@ -1,0 +1,132 @@
+Report No:: PR-875
+Customer: POLAND
+Shift: C (Night)
+Date: 02-11-2024
+Machine
+Operation
+Technician
+Start
+End Time
+Duration
+Uwagi
+Stage
+Time
+(min)
+MC-202
+Lsscmci
+Nadia Saute
+06-00
+07.17
+Pecalbrated
+Delayed
+MC-209
+Asscmbly
+Przemvslaw
+14.30
+16.29
+119
+In progress
+Wasik
+MC-204
+Polishing
+Anna Nowak
+09.30
+10.2
+Delai
+In progress
+MC-208
+Welding
+Bartosz
+09.15
+09.46
+Delay
+pfoPress
+Wawizyniak
+MC 205
+Welding
+Piotr
+12.00
+13.27
+Completed
+Lewando uski
+MC-203
+Polishing
+Agnioszka
+11.00
+11.52
+Delay
+In progress
+Zielinska
+MC 204
+Polishing
+Przemyslav"
+14.00
+15.37
+Delay
+Delayed
+Wasik
+MC-208
+Drilling
+Piotr
+11.30
+13.21
+Delay
+In prograss
+Lawandovski
+Ensure rDutine maintenance
+between shifts
+Maintainconsistent
+output; Na critical delays were abserved;
+please address any minor issues noted
+Overallproduction performance met
+expectations for the
+Record
+any adjustments
+shift schedules
+staffing here_
+Part ID
+Planned
+Qty
+produced
+Rejected
+Scrap
+Rework
+Notes
+Qty
+Qty
+Count
+Kv-390k
+282
+255
+9.5706
+LK-B90B
+221
+209
+5 4702
+Rawane
+needed
+CE-905L
+190
+181
+4-/440
+Scrap
+confirmed
+GH-7701
+262
+258
+5306
+RM-BBON
+213
+206
+3.2906
+Rework
+needed
+ZR-205R
+296
+286
+3.3806
+Scrap
+confirmec
+Approved by:
+Prepared by: _
+day-

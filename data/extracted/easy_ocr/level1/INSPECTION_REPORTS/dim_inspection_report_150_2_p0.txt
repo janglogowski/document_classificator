@@ -1,0 +1,57 @@
+inspector
+Laura Rossi
+inspection Date
+2074-06-23
+This report presents the dimensional measurements and inspection results. Use this examination summary
+contirm
+component
+confomity: This data extract
+prepared for quality-control sign-off:
+Item Code
+4LISC
+VR-440T
+JB-[cUL
+IX-8Zuv
+Component
+Hex Bolts M12
+Hvem
+easurement
+Thickness
+Widtn
+Depth
+Nomina
+Obsenved
+Deene
+Det
+~lo
+ae_
+L
+L015
+Pass/ Fail
+PASS
+PAss
+PASS
+Inspection notes have been logged for traceability. Flag any
+components requiring re-machining
+adjustment,
+Overall Inspection summary Indicates acceptable quallty levels:
+Instrument
+Calibration L05;
+Instrument
+Serial No
+Last Calibration Date
+CMM
+74932
+2024-09-26
+Laser Scanne
+13678
+2024-11-28
+Lasci
+scannci
+41874
+2024-11-18
+Hinae
+plasuC
+Shcet
+Hoic
+RASS

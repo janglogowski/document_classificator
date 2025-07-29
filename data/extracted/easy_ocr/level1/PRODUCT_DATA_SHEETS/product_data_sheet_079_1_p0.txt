@@ -1,0 +1,69 @@
+Unit Configuration
+Proiect_
+TY-350G
+Repo
+PR-829
+Prepared Bv:
+Lqurako5s
+Approved By:
+Peter Schmiat
+Location: Plant 34
+Date; 2023-09-06
+Model Type
+Pneumatic
+Contro
+Vnit
+Design Pressure
+250
+Throughput
+48 Limin
+Operating
+Voltage
+400
+50 Hz
+Noise Leve
+Z0dB(A_
+Oil Type
+HLP 68
+Framc
+Materiai
+Powder coateu Steei
+Battery Capacity
+2 Ah
+Total Welght
+180 ke
+Motor Powcr
+Working Temp
+Kanee
+10"C to 55*C
+ype
+Vane Pump
+Service Interva
+500 h
+Mounting
+"wail-mounted
+Protection Class
+IP5A
+Dimensions (LxWxHI
+1000
+650 x 1000 mm
+Control
+Valve
+Directidna
+Cooling
+Air-cooled Oll radiator
+Filtration
+10 m retumn; 25 Mmn
+suctior
+Ensure Rlassary terms
+match the engineering nomenclature
+Flag any missing
+parameters far urgent specification
+updates Check that all section headers follov' the product templatc
+Ensure that the listed materials are approved for
+the application: This summary reflects the latest revision of the product data
+This clasure rote indicates the data
+sheet
+ready for release
+Archive this summary far future design-change manapement
+Pump

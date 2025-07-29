@@ -1,0 +1,69 @@
+Compliance Log
+#5100378
+Date: 17.07.2025
+Product ID
+DX-7771
+Customer ID
+TURKEY
+Item Description
+Spring Washer M1o
+Confirm that sampling levels comply with custome
+agreemients. Inis checklistcaptures quality inspectian
+points and sampling levels. Use this list to confirm adherence to AQL and safety standards. Please revieweach
+checklist
+and mark tne samelingresults
+Ensure allnon-conforming marks are clearly documented:
+Entrles Include bothvisual and functional Inspection Iteins. Below are tne Itemis
+be verilied duringthe linal
+product review: This closure summary indicates compliance with inspection criteria . Use this extract to
+coordinate sign-off with the QA manager-
+Quality Check Items
+Sample
+Defect Class
+Comments
+Tier
+Uugit
+Specs
+Hold
+JfoduCi SIzC
+LevCi
+Needs tevicw
+Missi
+distributorntormaton
+Levci
+Critical impact
+Carton is damaged
+Level Il
+markings incorrect
+Dead or live
+insectin
+Minor issue observed
+packaging
+Incorrect quantity -
+Level Il
+Minor issuc obscrved
+ussorumieni
+palni
+smcaring
+scratches
+Levci
+Cuncal
+impact
+AQL Level
+Critical
+Default
+Customer
+specitic
+Confirm
+all sampling results are within acceptable limits
+Archive this summary in the audit-readiness
+folder. This summary supports the end
+linc quality certification: Refer
+notos for any bscrvod defects Or
+duvialions
+poini
+Wiong
+Major
+Ninor
+tat
+1-Dl-

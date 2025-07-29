@@ -1,0 +1,123 @@
+Maintenance Checklist Report
+2023-12-29
+This service
+ummary supports the reliability engineering
+avie
+Please revievr this l0g for recent service dates
+(YpOS
+remant?
+Ihemaintenancerecisler (0
+delalled senvice nstones
+Contirm that service Intervals tollova the preventive
+schedule-This (Cg records
+Mnbintenbnce activtibs perormed
+the bquipment
+Checktnat
+do vntime events ar0
+properly categorized and logsed,
+Spare Parta Uqed;
+Part Name
+Part No
+Uzed
+Switcn Asscmbl
+P5215
+Fuse
+0-8241
+Li-lon BatterFack
+-2699
+Li-tonraniery Pack
+P-4626
+Unit Code
+Machine
+Senice
+Technician
+Downtime
+Previous
+Notes
+Type
+Service
+NC-227
+Paint Bcoth
+Corro ctne
+Peter
+2024-1213
+Worn Basket
+Schmidu
+repaccc
+MC 276
+Pilini Bouin
+Curtcclit
+Lilma
+Rossi
+7024 0i.0J
+Wutr
+replaced
+NC ?78
+Lasur Cuntur
+Piuventn
+LMMa
+2025 04-09
+Calabraltiar
+Nowak
+check OK:
+MC-?65
+Convevdi
+Pieveniive
+Carios
+2025-04-05
+Retiled Ql
+Belt
+Cercia
+(HLP 46]
+MC?53
+Ks serabv
+Inspection
+Lauia
+Rosgi
+7024-04- 11
+AlGnment ct
+Robot
+idusiuc
+MC-236
+Packaging
+Preventn s
+Carlos
+2023-08-26
+Refilled oil
+Gurcia
+IHLP 40
+MC-289
+Paint Bcoth
+Pruvcntn
+Carlos
+2023-10-22
+Wotne
+arcia
+remaced
+MC-260
+Packaging
+Corroctna
+Carlos
+2024-10-13
+Rcolaccd
+Line
+Garcia
+conani
+MC ?03
+Plasma
+Pievenime
+Peler
+2023 03.23
+Shnsun
+Cutter
+Schmildi
+ecalmo(atem
+Sienedoll:
+Anma Nawak
+Penormeody:
+Peter Schmiot
+nelei
+0
+Rusket
+hingae
+Ruskot

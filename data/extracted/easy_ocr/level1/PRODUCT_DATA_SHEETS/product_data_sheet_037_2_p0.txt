@@ -1,0 +1,81 @@
+Component Overview
+Confirm that performance
+ranfes
+comply with project requirements
+this spec sheet
+validate assembly
+instructions
+The following information outlines performance characteristics and design data: This section details the
+configuration and parameter set for the product Use this sheet to confirm engineering requirements and talerances
+This data sheet provides key specifications and material details
+Ensure
+all referenced standards are Up
+date.
+product
+SB-140D
+Document
+PR-560
+Prepared bY: Jan Kowalski
+Approved by: Peter Schmiat
+Date: 2024-09-15
+Configuration Type
+Cooling Circulation
+Rated Pressure
+250 bar
+System
+Fluid Flow
+48 Lmin
+Voltage
+480
+60 Hz
+Battery Capacity
+10 Ah
+Charging Time
+Contro
+Valve
+Manual Overide 3/2
+Materia
+Stainless
+Dimensions (LxWxH)
+J000 * 650 * 1000 mm
+Overall contiguration
+within detined design and satety margins Referto parameter table for operating ranges and
+tolerancer
+Ensure that the Iisted materials are approved for the application.
+Ensure
+lossary terms match the
+engineering nomenclature
+Flag any missing
+rameters tOr
+urgent specification updates  This closure
+indicate:
+the data sheet E
+ready for
+ease. Confirm that all test conditions are accurately represented
+Materia
+Construction:
+Label
+Compasitian
+Capacitor 450
+hluminum Gubi-io
+Insulated Tub
+Zsmm
+Thermoplastic Polyurethane (TPU)
+Power Switch
+Polycarbonate
+Copper
+Teflon Tape
+Tellan
+Pressure Valve
+Brass (Z121
+LED Light Strip
+Glass-Filled Nylon
+Ceramic Oxide
+Support Foot Stee
+Stainless Steel 304
+Ko; .
+Frame
+steer
+Frame
+Tape
+Fusc

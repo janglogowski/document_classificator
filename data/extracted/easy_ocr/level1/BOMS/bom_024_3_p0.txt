@@ -1,0 +1,83 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Protective
+52.20
+Urgent
+Sleeve
+50mm
+Shaft
+144.00
+ROHS
+50Omm
+compliant
+Power
+1,20
+19.20
+ISO-verified
+Switch
+Rubber
+0.50
+For export
+Gasket
+80mm
+Ventilation
+106.40
+Hinge
+Grid
+alignment
+adiusted
+Grease
+1.90
+62.70
+Urgent
+Tube 250ml
+Epoxy Resin
+7.30
+328.50
+grade
+Plastic
+1.10
+4.40
+export
+Cover
+150x150
+Spring
+0.05
+1.50
+export
+Washer
+M1O
+Insulation
+3.20
+83.20
+ROHS
+Foam
+compliant
+LED Light
+112.50
+Strip
+The cost subtotal supports financial forecasting for the next cycle: Totals include estimated over-
+consumption allowances and current unit rates: This final review confirms that all items are ready for
+requisition
+AIl listed components have been verified for availability and compliance.
+CustomerID-
+CANADA
+Coordlnator: Laura Rossi
+Date-
+2024-06-19
+Product ID: ZR-20SR
+Unterna
+No -
+8040668
+Order
+Qty: 452
+Total
+Amount
+920.10
+High

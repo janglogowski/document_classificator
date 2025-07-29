@@ -1,0 +1,143 @@
+Shift Summary
+Report No :
+PR-170
+Custcmer:
+POLAND
+Supervisor;
+Peter Schmidt
+Department:
+Logistics
+Date:
+05-05
+2025
+Shift:
+(Night)
+Machine ID
+Operation
+Technician
+Begin
+End Iime
+Total Iime
+Comments
+MC-202
+Drilling
+Przemyslaw
+06.30
+08.20
+110
+Wasik
+MC-201
+Polishing
+Agnieszka
+14.15
+16.00
+105
+Ziclinska
+MC-204
+Assemoly
+Agnieszka
+12.15
+13.13
+Zielinska
+MC-209
+Polishing
+Nadia Sauter
+07.30
+08-23
+MC-202
+Polishing
+Bartosz
+11.30
+11-55
+Recalibrated
+Wawizyniak
+MC-20g
+Assembly
+Magdalena
+06.15
+08.03
+108
+NA
+Wikowska
+MC-20g
+Assembly
+Barlosz
+12.30
+13.11
+Wawrzyniak
+MC-207
+Cutting
+Piotr
+06.15
+07-23
+Lewandowski
+MC-203
+Polishing
+Bartosz
+06.30
+07.52
+Wawrzyniak
+MC-202
+Cutting
+Piotr
+08.30
+10.13
+103
+Recalibrated
+Lowandowski
+MC-20g
+Welding
+Magdalena
+11.00
+11-57
+Recalibrated
+Wikowska
+MC-202
+Polishing
+Bartosz
+11,15
+12.18
+Recalibrated
+Wawrzyniak
+Item ID
+Planned Qty
+Actual Qty
+Scrap Qty
+Rejection
+Comments
+NE-2454
+250
+226
+60%
+SB-140D
+152
+138
+9.21%
+Scrap
+confirmed
+TX-820v
+287
+272
+5,23%
+Scrap
+confirmed
+CE-905L
+157
+135
+14.01%
+MC-540X
+138
+4.8340
+JD-zoow
+247
+215
+12.96%
+confirmed
+Prepared DX:
+Approved DX:
+aur?
+Rossi
+Delay
+Scrap
+Laura
+Rossi

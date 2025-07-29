@@ -1,0 +1,101 @@
+Component Dimensional Check
+Inspection performed by Jan Kowalski on 2023-08-17.
+This summary of measurements supports metrology traceability: The inspection register below highlights any out-of-
+Rolerance
+parts. This section detalls the measured values, tolerances, and status flags.
+Ersure measurement methods
+with calibration standards;
+Environmenta
+Conditions: Temperature
+22.1
+Humidity: 50 %
+Product Ref
+Component
+Measurement
+Target
+Actual
+Diff
+Status (VKL
+PL-601Z
+Rubder
+Hole
+12.08
+11-93
+-0.15
+Gasket 80mm
+XK-61QU
+Shaft S00mm
+Wiath
+27.98
+27.82
+0.16
+AL-l150
+Bearing 6202
+Height
+74.61
+74.61
++0.00
+FT-730X
+Power Switch
+Width
+83.15
+83.33
++0.18
+QN-770H
+Bearing 6202
+tnickness
+6.69
+6.74
++0.05
+JD-7OoW
+Hinge Set
+Length
+36.44
+36.31
+013
+LK- 8908
+0-Ring NBR
+Umncr
+68.40
+68.45
++0.05
+Gomm
+Diameter
+Kv-390k
+Shaft 50Omm
+Depth
+56.51
+56.48
+0.03
+VF-ZZOD
+Bearing 6202
+Depth
+35.33
+35.45
++0.12
+RE-850C
+Power Switch
+Wmer
+48.84
+48.70
+0.14
+Diameier
+PL GO1Z
+Steel Sheet
+Depth
+23.04
+22.88
+0.16
+A36
+QP-GG0F
+Bearing 6202
+width
+50.79
+50.59
+0.20
+JD-Z00W
+Shaft 50Ornm
+Wluth
+9.29
+gn
+~0-07

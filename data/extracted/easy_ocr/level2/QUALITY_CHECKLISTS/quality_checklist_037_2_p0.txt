@@ -1,0 +1,104 @@
+Inspection Record
+Ensure
+non-conforming rarks are clearly documented
+Check that inspection steps follow the approved
+procedure
+Please review each checklist point and mark the sampling results; Use thls extract-
+coordinate
+sign-off
+with the QA manager The
+following table outlines inspection criteria and classification levels. Confirm that sampling
+leuels
+comply with customer agreements
+This section details quality requirements
+test points for the batch: This
+summan
+suppana
+[ne proquction-release Qunty
+gate_
+Product ID
+TY-3506
+Customer ID
+BELGIUM
+Item Description
+Tetlon Tape Roll
+Quality Check Items
+Sample
+Category
+Obsenvations
+Tler
+Component Criteria_
+cnitica
+Maior
+Mlinor
+OnHold
+uncorrect parcode
+Jabel
+Leve
+Needs revicw
+Paint smearing
+scratcnes
+Leve
+Minor issue observed
+Visuf
+defect on housing
+Leve
+Critical impact
+Lanom
+damaged
+markings incorrect
+Level
+Needs review
+Connecto
+ndlworkinp
+LCC
+Minor issue observed
+Packaging
+dues
+not match
+Level IIlI
+Critical impact
+signed sample
+Not assemblec
+drawing
+Level |
+Minor issue observed
+Wooq spuinter
+snard
+point
+1s sue
+observed
+on product
+Dust/debris inside packaging
+Llvci
+Critical impact
+LOOSC
+parts unsde packaging
+Mlinor i5sue
+ohsened
+Product doesn [ power on
+Leve
+Functionalitytest failed
+Shipping mark is illegible or
+Level II
+Critical Impact
+missing_
+Rubber texture
+glossiness
+Level II
+Critical impact
+mismarch
+Missing_
+fety labels
+Neede
+M
+Incorrect orientation
+BDX
+Needs
+revicw
+Batter not inciudeo
+Level
+Minor issue observed
+Supervised by:
+Date:
+Mlnore

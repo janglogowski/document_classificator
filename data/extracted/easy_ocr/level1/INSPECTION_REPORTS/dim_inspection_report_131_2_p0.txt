@@ -1,0 +1,69 @@
+Measurement Summary Sheet
+inspecior
+Peter Schmid
+Inspection Date
+2024 06-21
+The following data captures key dimensions and ay deviations identified.
+Entries include bolh passifaill
+markers and deviation magnitudes. Use this results summary t0 trigger
+corective actions. This
+summary of measurements supports metrology traceability. Use this examination summary
+confirm
+component conformity:
+Article No.
+Kv-390K
+AZ-30OT
+TL-90OX
+MC-540X
+AZ-30OT
+XD-T1OR
+Component
+Hex Bolts
+Steel Sheet
+Hex Bolts
+Hex Bolts
+Bearing 6202
+Bearing 6202
+M12
+A36
+M12
+M12
+Wim;
+Height
+Height
+Thickness
+Depth
+Depth
+Thickness
+Target
+55.34
+95.16
+89.75
+87 46
+28.72
+Actual
+45 W
+89.60
+Delta
++0.16
+Pass /Fail
+This assessment reflects the latest metrology results
+Ensure all measuring tools were properly calibrated:
+This closure memo confirms that dimensional checks are comiplete
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Micrometer
+83751
+2024-09-25
+CMM
+72805
+2024-11-02
+Caliper
+68244
+2025-02-04
+CMM
+795
+2025-02-05
+snY 

@@ -1,0 +1,104 @@
+Report No:: PR-735
+Customer: GREECE
+Shift: B (Evening)
+Date: 09-10-2023
+Machine
+Process
+Warker
+Start Time
+End Time
+Tota
+Mime
+Remarks
+Status
+MC-2O1
+Welding
+Dawid
+08.30
+10.20
+110
+N{A
+Completed
+Oszmianczuk
+MC-204
+Assembiv
+Bartosz
+07.30
+08.17
+Delayed
+Wavrzyniak
+MC-209
+Welding
+Mateust
+09,30
+10,09
+Recalibrated
+Delaved
+Jarzyna
+MC-202
+Welding
+Frzemvsiav
+08.15
+08;44
+Recalibrated
+Delayed
+Wasik
+MC-207
+Welding
+Magdalena
+11,15
+11,52
+Recalibrated
+Delaved
+Witkowska
+MC-204
+Welding
+Magdalena
+12.00
+735
+Delay
+Delaved
+Witkowska
+MC-201
+Welding
+Wiktor
+07,30
+08,58
+N/A
+proeress
+Kopczynski
+Part ID
+Planned
+Achieved Qty
+Scrap Qty
+Rejection %
+Reworked
+Uwagi
+Output
+Units
+RX-31OZ
+233
+13,7356
+Rework
+mcedcd
+NU-4407
+0,00%
+AZ-300T
+109
+105
+3,67%
+Rewor
+needed
+LP-SSSV
+133
+116
+12,7856
+Scrap
+canfirmed
+AZ-3OOT
+112
+0.0026
+Kv-390k
+1.4271
+Approved bv:
+Prepared by: _

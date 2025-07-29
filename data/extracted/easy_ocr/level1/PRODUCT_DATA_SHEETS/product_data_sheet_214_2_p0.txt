@@ -1,0 +1,84 @@
+Product Data Sheet
+This report extract is prepared tar
+design-verification audits This data
+shee
+provides
+specifications and material
+details 
+Below are the technical parameters and construction materials far the unit_ Confirm that performance ranges
+comp
+with project requirements
+Piease
+remev tne
+specifications
+ano Materia
+composition Iisted below;
+Product
+MR-160H
+Repart No::
+PR-946
+Prepared by: Jan Kowalski
+Approved by: Jan Kowalski
+Date; 2024-09-04
+Configuration Type
+Hydraulic _
+potar
+Unit
+Ratedepressure
+300 Dar
+Throughput
+30 Umin
+Upcrating
+Voltage
+480
+60Hz
+Noisc
+LLVC
+572 dB(A
+Controi
+Valve
+Proportiona
+Working 
+Range
+-10"C to 50"C
+Frame Material
+Aluminum
+Document control numbers are included for traceability- All specifications
+meet the design requirements and industry
+standards. All summary comments have been recorded
+revision log: This summary reflects the latest revision of
+the product data. Data sheet has been
+deer-reviewed
+by the engineering
+team
+Material -
+Construction:
+tem
+Composition
+Graphite Pad
+Graphite Pad
+Stecl Sheet 43
+Carbon
+HexBois
+inc
+lated Steel
+Therma
+Ceramic Oxide
+Cable Tie Pack (100
+Nitrile Rubber (NBR
+LED Light Strp
+Glass-Filled Nylon
+Fuse 54
+Ceramic Oxide
+Insulated uve
+25in
+Thermoplastic Polyurethane (TPUL
+Cooling Gel Pack
+Silicone Rubber
+Pressure Valve
+Brass C21ZI
+Gasie Sheet AL
+Nitrile Rubber (NBR)
+Frame
+Temp
+sec

@@ -1,0 +1,61 @@
+Dimensional Log
+insoector
+Carlos Garcia
+Inspection Date
+2025-01-23
+Item Code
+8Z-660F
+GH-77OJ
+SL-430M
+DX-7II
+NE-2454
+LK-8908
+Part Name
+Steel Sheet
+Battery Pack
+Steel Sheel
+Battery Pack
+Waoden
+Power
+A36
+A36
+pallal
+Swlich
+dim
+Height
+Depth
+Height
+Tnickness
+Thickness
+Heiaht
+Target
+18.80
+64.42
+73.33
+11.43
+62.48
+87.70
+Observed
+18.60
+64.22
+73.30
+11.26
+62.31
+87.63
+Pass Fail
+Components failing inspection require immediate review and corrective action. Overall inspection summary
+indicates acceptable quality levels. Ensure all measuring tools were properly calibrated,
+Instrument Calibration Log:
+Instrument
+Serial No_
+Last
+Calibration Date
+Laser Scanner
+11955
+2025-03-11
+Laser Scanner
+78943
+2025-05-15
+Micrometer
+91656
+2024-07-26

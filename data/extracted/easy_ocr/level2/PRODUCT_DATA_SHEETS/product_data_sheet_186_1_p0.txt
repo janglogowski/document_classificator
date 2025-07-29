@@ -1,0 +1,89 @@
+Product Overview
+Projec:
+KD-440L
+Report No
+9498221
+Prepared
+carios Garcij
+Approved Bye
+Jan Kowalski
+Locatian: Plant 34
+Date; 2025-01-28
+The following Informatlon outlines
+performance characteristlcs and
+data
+Below are the technical parameters
+construction materials for the unit: This data sheet provides key specificatians and
+mnatena
+details. This section
+details the configuration and parameter set for the product,
+Unit Type
+Cooling Circulation
+Design Pressure
+210 bar
+Suslern
+Fluid Flow
+48 Limin
+Supply Voltage
+480V / 60 Hz
+Charging Time
+Reservoir Capacity
+120
+Filtration
+10um return, 25 Hm
+Oil Type
+HIP 46
+eMction
+Battery Capacity
+Control Valve
+Directional 4/3
+Working 
+Range
+5"Cto 45"C
+Cooling
+Air-rooled oil radiator
+Frame Materiai
+Euminun
+ciamne
+Service Interva
+1000
+Nolse Leve
+68 dBIAA
+Dimensions (LxWxH]
+JUUC
+650 * 100O mM
+Motor Power
+7.5 kW
+Mounting
+Skid basc with vibration
+protection
+Class
+Document contra
+numders &re
+included for traceabillty. Ensure glassary terms ratch the engineering nomenclature
+AIl specitications meet the design requirements
+industn  sandaros
+Check that
+section headers follow the
+nronuc temniate
+Confirm that all test conditions are accurately represented
+AII summary comments have been
+recarded in the revision log: This closure note indicates the data sheet is ready for release
+Material
+Construction:
+Label
+6ase
+Pack
+Silicone Rubber
+Insulateo
+Tube
+Lsmm
+Thermoplastic Palyurethane (TPUI
+Waoden Pallet
+Treated
+Pine Waad
+design =
+Temp.
+pads
+APSA
+Coo

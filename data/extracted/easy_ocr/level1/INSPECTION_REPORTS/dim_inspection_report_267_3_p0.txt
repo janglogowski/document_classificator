@@ -1,0 +1,167 @@
+Tolerance Check
+Inspection performed by Jan Kowalski on 2025-04-16.
+Use this results summary
+trigger any corrective actions. Review recorded tolerances
+engineering
+specifications;
+This summary
+measurements supports metrology traceability. All measured values are
+timestamped for audit purposes_
+This section details the measured values, tolerances ,
+and status flags.
+Environmental Conditions: Temperature: 22
+C, Humidity: 43 %
+Product
+Part Name
+Dim:
+Target
+Actual
+Delta
+Status (VIX)
+Ref
+Lk-890B
+Battery
+Depth
+67.73
+67.78
++0.05
+PASS
+Pack
+NE-2454
+Set
+Length
+20.01
+19 85
+0.16
+PASS
+VR-940T
+Plastic
+Hole
+34.05
+33.99
+0.06
+PASS
+Rivets
+ZR-ZOSR
+Steel Sheet
+Inner
+47.14
+47.20
++0.06
+PASS
+A36
+Diameter
+GH-770J
+Battery
+Depth
+73.89
+73.92
++0.03
+PASS
+Pack
+GL-9808
+Graphite
+Thickness
+25.39
+25.37
+0.02
+PASS
+Pad
+SL-430M
+Power
+Height
+80.19
+80.30
++0.11
+PASS
+Swltch
+MC-54OX
+Hinge Set
+Deplh
+22.23
+22.13
+-010
+PASS
+PL-6012
+Rubber
+Thickness
+51.86
+51.73
+0.13
+PASS
+Gasket
+BOm
+XD-ZOR
+Hinge Sel
+Lengih
+93.81
+9391
+PASS
+CN-150C
+0-Ring NBR
+Length
+13.41
+13.32
+0,09
+PASS
+60mm
+MX 450L
+Rubber
+Length
+44.43
+44.23
+0.20
+PASS
+Gasket
+B0mm
+Pw-515Y
+Rubber
+Hole
+99.89
+99.75
+-0.14
+PASS
+Gasket
+BOmm
+XK-610U
+Steel Sheet
+Thickness
+70.50
+70.33
+0.17
+PASS
+A36
+RE-850C
+Steel Sheet
+Length
+72.11
+72.16
++0.05
+PASS
+A36
+GL-9805
+Hex Bolts
+Height
+18.51
+18.34
+-0.17
+PASS
+M12
+TX-820v
+Hex Bolts
+Depth
+72.92
+73.02
++0.10
+PASS
+M12
+TL-9OOX
+Battery
+Thickness
+44.42
+44.40
+0.02
+PASS
+Pack
+agalnst 5
+Hnge

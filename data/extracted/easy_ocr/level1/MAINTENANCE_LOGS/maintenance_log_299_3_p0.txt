@@ -1,0 +1,151 @@
+Equipment Record Report
+Performed On: 2024-11-28
+Authorized bX:;
+Laura Rossi
+Opcralor
+Caro: Garcla
+Entrius include work orcurs;
+Lucnniciam assidnmignls
+and part changes. Ine lollowing
+ynines delail prevenivu Jn
+correclive mainlenancu lasks.
+Tne equiprent log below includes Iaull codes and corracUvu notus
+This maintenance
+extract
+prepared fCr
+compliance audit trails
+Please review"' this log for recent service
+dates, types, and remarks
+Section
+Unit Code
+MC-206
+MC-251
+MC-220
+MC-276
+MC-288
+MC-278
+Machine
+Laltne
+Hydraulic
+Assemoiy
+Aasemoiv
+Paint Booth
+Hydraulic
+Robot
+Robot
+Lxpe
+Preventive
+Preventie
+succiion
+Insucction
+Preventive
+Ingpecton
+Operator
+Jan Kcvalsk
+Carios Garcia
+Jan Kowalski
+Jankowals-(
+Laua
+Rossi
+Jan Kowaki
+Durtion
+Replaced
+Refilled oil
+Liion
+datteN
+No issues
+No issues
+Senso
+5A)
+(HLP 46) ,
+Dac?
+touno
+touno
+recalinrated
+sennced
+Seclanb;
+Unlt Codo_
+MC 276)
+MC 251
+MC 206
+MC220
+MC223
+MC 278
+Machine
+Aesembi
+Hycraulic
+Latne
+Assembly
+Paint Booth
+Hycraulic
+Robat
+Pres;
+RobCi
+Press
+Lype
+Comecie
+ccrective
+Corrective
+Comeciive
+nsnection
+Ccrective
+Operator
+Peter
+Schmidi
+Carlos
+Lara
+Rossi
+Knna Nowak
+Jankoxaiski
+puration
+Notes
+Changed ill
+Alignment
+Rapiaced
+Tightened
+Nooden
+Li-Icr
+battery
+and filters
+hinges
+SAL
+loose bolts
+pallat
+pacic
+acjuslud
+chlac*ud
+suviced
+Maintenance
+noree
+archived
+for compliance
+Amcis
+this closure
+update the
+maintenance KPI tracker
+Iog suMman
+supports the asset-Management dashboard
+AIl maintenanca [asks have
+ean
+completed
+85 De
+schecule.
+Flag
+any recurrng Issues fcr root-cause
+Investigation Refer -
+remarks fcr any follov-Up acbons
+parts replacements
+Service summanes have baen fonvarded
+the engineering team
+Uptime (%)
+Count
+97 328
+Prcss
+Press
+Noles
+Garci
+Carlor
+Garciu
+Use
+Enor
+Motes

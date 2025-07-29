@@ -1,0 +1,95 @@
+Production
+Report No:: PR 493
+Customer: GREECE
+Shift:
+(Night)
+Date: 02-01-2024
+Equipment
+Proccss
+Wvorkcr
+Fram
+End Time
+Duration
+Nates
+Condition
+(min)
+MC 203
+Assemoiv
+Dawid
+10.00
+11.06
+Delay
+oroeress
+Oszmianczuk
+MC-207
+Assembly
+Premyslav:
+12.00
+12.38
+Recalibrated
+progress
+Wasik
+MC-206
+Polishing
+Mlaedalenj
+10.00
+10.36
+Recalibrated
+Completed
+Witkowska
+Mc-205
+Drilling
+Anna Noivak
+08.15
+09-15
+Compieteo
+08.15
+10.00
+Completed
+MC-2O1
+Drilling
+Jjizynz
+Verify the flnal
+comnts
+against inventory records
+AlI production targets
+have been logged;
+Jevations Jre
+highlighted
+Confirm that scrap percentages align with quality benchmarks_ Use this summary
+undate the overall
+productian dashboard, Ensure shift-handaver notes include any pending Issues
+Product I0
+Planneo
+Produceo
+Rejected Qty
+Scrap
+Rewvork
+Notes
+Coun
+Output
+Qty
+RE-350C
+174
+166
+6056
+Scrap
+conmnmieo
+HF 390A
+284
+2880
+BZ-650F
+14.67%
+Scran
+contirmed
+NU-4402
+128
+0,7855
+conninmied
+Approved Dy: _
+Prepared by:
+Log
+pcla
+Mate
+Jdove
+ecrap

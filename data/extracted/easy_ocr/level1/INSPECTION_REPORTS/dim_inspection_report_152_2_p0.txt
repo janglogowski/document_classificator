@@ -1,0 +1,79 @@
+Inspection Results Summary
+ecnnician
+An Nowak
+Inspection Date
+2024-10-20
+The following data captures key dimnensions and any deviations identified.
+This report presents Ihe
+dimensional measurements and inspection results. All measured values are timestamped for audit
+purposes
+This summary of measurements supports metrology traceability;
+Articlo No 
+JD-70OW
+4430M
+IX-BZu"
+WD-1805
+SB-140D
+TX 820V
+Part Name
+Stecl Sheet
+Bearing 6202
+Set
+0-Ring NBR
+Powcr
+Wnoogco
+A36
+60mm
+Switch
+dlma
+Length
+Hole
+Length
+Hole
+Lengih
+Widin
+Nominal
+90.16
+90.59
+32.22
+14.53
+52.70
+Actua
+90.10
+90.42
+32.14
+Delta
+20.06
+-0 1
+-008
+0.14
+TuO
+Pass Fall
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+This assessment reflects the latest metrology results
+Please address any NOK items before proceeding
+the next production stage_
+Refer t0 deviation column for any out-of-tolerance measurements.
+Instrument Calibration Log
+Instrument
+Serial No-
+Last Calbratlion Date
+Caliper
+26128
+2024-08-01
+Laser
+Scanner
+13162
+2025-03-07
+CMM
+78212
+2024-11-23
+Laser Scanner
+98601
+2024-10-04
+Hinge

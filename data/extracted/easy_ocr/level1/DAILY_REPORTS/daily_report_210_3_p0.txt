@@ -1,0 +1,78 @@
+Shift Summary
+Report No:: PR-300
+Customer: NORWAY
+Shift:
+(Morning)
+Date: 20-09-2023
+Mlachine
+Operation
+Worker
+Start Time
+End Time
+Duration
+Uwagi
+Status
+(min)
+MC-208
+Cutting
+Przemystaw
+1300
+13.38
+Delayed
+Wasik
+MC-202
+Welding
+Mateusz
+14-00
+14.28
+Delayed
+Jarvna
+MC-209
+Assembly
+14-30
+16.14
+104
+Delay
+Delayed
+Kowalski
+MC-208
+Cutting
+Przemystaw
+07.30
+08.54
+Delayed
+Wasik
+MC-206
+Drilling
+13.30
+13.58
+Delayed
+Kowalski
+Product ID
+Target Qty
+Achieved
+Rejected
+Failure %
+Reworked
+Uwagi
+Qty
+Qty
+Units
+NU-4402
+151
+5804
+TX-820v
+278
+236
+15.1106
+Rewan
+needed
+KP-320E
+121
+105
+13.2206
+Rework
+needec
+Approved by:
+Prepared by:
+Delay

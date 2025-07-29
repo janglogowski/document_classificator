@@ -1,0 +1,69 @@
+BILL OF MATERIAL
+Customer ID: POLAND
+Coordinator;_ Jan Kowalski
+Date: 2024-10-21
+Product ID: ON-7ZOH
+Interna
+No : 4336098
+Order Qty: 352
+Item
+Consumption
+Extra
+UOM
+Rate
+Amount
+Remarks
+Description
+Spring
+3.25
+2"%/
+pCS
+0,05
+2.20
+Li-Ion
+Washer
+battery
+MiQ
+installed
+Ventilation
+2.31
+pCS
+5.60
+140.00
+For
+Grid
+export
+Ventilation
+109
+pCs
+5.60
+280.00
+For
+Grid
+export
+Stainless
+3.24
+10%
+pcs
+0.35
+12.95
+For
+Bolt M8
+export
+Spacer
+2.74
+0%
+pCS
+0.15
+2.25
+Li-Ion
+Zmm
+battery
+installed
+This final review confirms that all items are ready for requisition.
+Jota
+Amount:
+437.40
+Approved By:
+Sourcing Department:
+Oty

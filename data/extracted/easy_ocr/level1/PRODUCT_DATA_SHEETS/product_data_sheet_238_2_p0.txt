@@ -1,0 +1,60 @@
+Unit Data Specification
+Check that all material specs align with supplier certificalions Use this sheet
+confirm engineering
+requirements and tolerances, The following Information outlines performance characteristics and design
+data; Entries Include both mechanical and electrica
+specifications.
+Confim that performance ranges comply
+wilh project requirements;
+This report extract 
+prepared for design-verificallon audits;
+Product ID:
+JD-70OW
+Document No;:
+PR-867
+Prepared by: Anna Nowak | Approved by: Peler Schmidt
+Date; 2024-08-04
+Configuration Type
+Cooling Circulation
+Rated
+Pressure
+300 bar
+System
+Fluld Flow
+60 Umin
+Supply Voltage
+480 V
+60 Hz
+Reservoir Capacity
+Pump Type
+Piston Pump
+Service Interval
+500
+This summary rellects Ihe latest revision of the product data; Data sheot has been peer-reviowed by the
+engineering team
+Reler =
+parameter table for operating ranges and tolerances. Archive this summary for
+future design-change management; This closure note Indicales Ihe data sheet
+ready for release, Use (his
+sumMdny
+coss-check with BOM and Inspeciion reports;
+Material 0f Construction;
+Subcomponent
+Composiion
+Nut M6
+Zinc-Plated Steol
+Hinge Set
+Stainless Stoel 304
+Pressure Valve
+Brass CZ121
+Fuse 54
+Ceramic Oxide
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Bearing 6202 ZZ
+Stainless Stoel 304
+Woodon Pallet
+Treated Pine Wood
+Display Unit
+ABS Plastic
+pioita

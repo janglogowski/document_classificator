@@ -1,0 +1,51 @@
+Product Overview
+Confimm tnat pertormance ranges complywith project requirements
+The parameter register belowincluces
+operting
+Jnd
+this SpCC sheer to validate assembly Instructions Check that all material specs align
+with supnler certifications Please review the specifications and material composition listed below;
+Produat ID:
+PL-E01Z
+IntetmalNo=
+PR-572
+Prepared DV: Peter Schmidt
+Approved Di:
+Garcia
+Date: 7024-07-31
+Model TNPe
+Pneumatic Control
+Rated Pressure
+250 bar
+Fluid Flow
+75 Lmin
+Suppty Voltage
+200
+S0 Hz
+Control Valve
+Manua  Qveride3/
+Fame Material
+Stainless SteelFrme
+Qil TyPe
+HLP 46
+Flag any missing parameters for Urgent specfcation updates All summary comments have been recorded in the
+revision Icg Matenal choices and process data have beenverified for compliance: Archive this summany for future
+design-change managementEnsure thatthelisted matenals are approved forthe application  Data sheet has been
+peerreveredby th enginzering team
+Material:
+Censifucucn:
+memn
+Composition
+Battely Pacr
+Lithivm-Ion Cell Pack
+Capagitor JS0V
+Huumamim
+6061-T6
+Heat SinkALU
+Fiuminum
+6061-16
+Goits
+Dtinet
+Use [
+Carl0
+Untt

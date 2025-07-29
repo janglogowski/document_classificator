@@ -1,0 +1,93 @@
+section capiures equipmen Siatus
+and an} maintenance
+Obecrations
+The equipment log below Includes fault codes
+comectve
+notes
+this suMmary
+Iorecast
+parts replacement an resource
+needz
+Fnsure
+safety checks were
+complete d
+during servicing: Entries include work
+Jrder
+lechnician assignmenls
+pan changes
+Spare Parts Used:
+Part Namc
+Part No.
+Qty Uscd
+Sensor Module
+P-8254
+Hingc Sc
+P7243
+Sealing Gasket
+6995
+21945
+Machlnc ID
+Machlnc
+Senvico
+Operator
+Duration
+Previaus
+Catnmcnig
+Type
+Senice
+MC-237
+Lalhe
+Pretcntivc
+Lalra Rocs
+2025-05-17
+Sunsor
+fecalibraled
+MC-245
+Conveyor
+Inspe ction
+2024-07-17
+Changed
+Belt
+Kowalski
+filters ,
+MC-246
+Lallg
+Pruvenlive
+Laura RoSSt
+2023-10-31
+Naouun
+checked
+MC-226
+Plasma
+Preventive
+2023-08-21
+worn
+Culler
+Rowaliri
+gasket
+replaceo
+MC-?56
+Laser
+Preventive
+Peter
+2024-11-20
+Refilled oil
+Cutter
+scnmidt
+THLP
+MC-229
+Conveyur
+Prevantive
+Laura Possi
+2023-11-10
+Worn
+Belt
+gasket
+replacen
+Auinonzedbu:
+Anna Nawak
+Oceralor:
+Peler Schmidl
+This
+Ute
+Hnge

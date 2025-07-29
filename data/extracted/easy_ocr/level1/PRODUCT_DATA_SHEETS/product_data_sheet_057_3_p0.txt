@@ -1,0 +1,29 @@
+Unit Configuration
+Interal No:: 1488367
+Product ID: RE-850C
+Date: 2025-07-14
+Configuration Type
+Cooling Circulation
+Operating Pressure
+180 bar
+System
+Flow Rate
+60 Lmin
+Operating Voltage
+480 V / 60Hz
+Filtration
+10 um retum; 25 Vm
+Control Valve
+Manual Ovenide 3/2
+suclion
+Reservoir Capacity
+Battety Capacity
+1QAh
+Motor Power
+KW
+Pump Uype
+Gear Pump
+Noise Level
+72 dBLAL
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia

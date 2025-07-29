@@ -1,0 +1,55 @@
+Compliance
+#2932795
+Date: 17.07.2025
+Product ID
+TX-BZ0v
+Customer ID
+BELGIUM
+Item Description
+Bearing 6202 ZZ
+Use ths extract
+coordinate sign-ofl with the QA mnanager. Below are the items
+be verified during tre tinal
+product review. This section details quality requirements and test points forthe batch; Please revieweach
+checklist
+and mark the samplingresults. Confirm that sampling levels comply with customer
+JgCCMens
+Refer to tne quality register far sampling-plan refererces
+This checklist captures quality Inspection points and
+sampling levels.
+Inspection
+Checklist Points
+Sample
+Category
+Remarks
+Design _
+Missing distributor information
+Minar isqua Dosarved
+Hinges
+WODSe
+Leval
+Needs [Eview
+Missing
+Habels
+Levek
+Incorrect orentationin box
+LCYGL
+Minar ISSuC Obscivcd
+Shipping mark
+illegible =
+Level Il
+Critical impact
+missing
+Wrong product size
+Level |
+AQL Level
+Critical
+Maic
+Minc
+Default
+Customer specmic
+Log
+point
+Tlet
+Specs
+salety

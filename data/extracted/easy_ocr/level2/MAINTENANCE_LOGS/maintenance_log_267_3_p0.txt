@@ -1,0 +1,142 @@
+Machine
+Summary
+Performed On: 2024-06-29
+Signed off
+Peter Schmidt
+Pcnarmnedb"
+Pclci &chmhici
+The folloving entries detail preventive and
+cnrrechve
+maintenance tasks Check that all dowmiime
+events are
+categorized and logged: Entries include wiork orders
+technician assignments
+and
+changes. All technician ccmments
+are recorded for maintenance trend analysis. Below
+tne summary
+of service aciions and downtimes fcr each machine
+Reer
+the maintenance register for detailed service histores
+Section A:
+Machine
+MC 238
+MC 220
+MC 242
+MC 266
+KC 228
+MC 259
+Machine
+Laser
+Conveyor Belt
+Packaging
+Packaging
+Hydraulic
+Paint Booth
+Line
+Press
+Service Type
+Pravaniiva
+arte ClIve
+Insdacian
+Correclive
+Cctracive
+Corrective
+Operato
+Pelert Schmidl
+Laura Rossi
+Peler Schmidi
+Laura Rossi
+am
+Rossi
+Anna Nowvak
+Downtime
+Commenis
+Tightened
+Swtch
+Refilled =
+Refilled oil
+Reniaced
+Calipralior
+oose boits
+contacts
+(HLP 461.
+(HLP 461.
+fuse (5A}
+check OK
+Ceaned
+Sectlon B:
+Machlne
+MC-242
+MC220
+MC 238
+MC-286
+MC-228
+MC-259
+Machine
+Packaging
+Conveyor Belt
+Laser Cutter
+Packaging
+Hydraulic
+Paint Booth
+Pres
+Service Type
+nsnecton
+Inspection
+Preventive
+Ccrrecivve
+Preventive
+nsnecton
+Operator
+Anna Nowvdr
+Jan Kowalski
+Anne
+Nowak
+Jan KDwalski
+Pelet Schmidl
+JanKowalski
+downtumo
+Comments
+Reflled oil
+Calibration
+Replaced
+Tightened
+Li-Ion battery
+Replaced
+(HLP 46).
+cneck
+fuse (SA}
+100S E
+Dols
+pack
+(SA):
+serviced
+Service summaries
+been forwarded
+the engineering team
+Archive this summary
+the CMMS for
+reference
+Confirm that
+comecte
+actions
+were pronerly closed out_ Maintenance notes
+archived
+compliance
+Audits
+AII maintenance
+duraligns
+ecorded For
+'performance Metncs
+Uptlme (t
+Frror Calint
+Notcs
+96. 4396
+Bolt tightened
+Log:
+Proparly
+part
+Cuter
+navc
+fununc

@@ -1,0 +1,60 @@
+Component Dimensional Check
+inspecior
+JanKowabki
+Inspection Date
+2025-03.15
+Entries include both passifail markers and deviation magnitudes_
+Review recorded tolerances against
+engineering specifications_
+This section details the measured values, tolerances, and status flags_
+Use this
+examination summary
+confim component conformity;
+Articlo No:
+NU-440L
+NU-4402
+4D-1805
+RX 3102
+Pant Name
+Ring NBR 60mm
+Shait 50mm
+Beaing 6202 ZZ
+Bearing 6202 ZZ
+Dim_
+Lengih
+Height
+Depin
+Tnickness
+Target
+82.77
+10.07
+24.68
+6944
+Ooscrvcd
+82.63
+10.25
+24.60
+Delta
++0,18
+PassiFail
+Refer t0 deviation column for any out-of-tolerance measurements
+Cross-verify measurement data with CAD
+nominal values:
+Confim that pass rates meet the defined acceptance criteria: Overa
+inspection summary
+indicates acceptable quality levels
+Instrument Calibration
+Instrument
+Serial No_
+Last Calibration Date
+Caliper
+16152
+2025-01-23
+Laser
+Scanncr
+47711
+2024-11-20
+Caliper
+25946
+2024-11-10
+Log:

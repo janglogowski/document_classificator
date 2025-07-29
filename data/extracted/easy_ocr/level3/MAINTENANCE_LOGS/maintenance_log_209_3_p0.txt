@@ -1,0 +1,110 @@
+Equipment Record Report
+Performed On: 2024-06-05
+Signed olf
+Performed by;
+Kowalsk]
+Kowalski
+Thiz service summary supports the
+maintenanco
+Below E
+rCe Gumrangineering review. This section caplures
+service
+equipment status andany
+irecludes fauit codes and corroctive notes; Use .
+actions and downtimes (or
+Dac 
+machine, The
+Tecar
+service dates , types,
+Inis record
+nlan upcoming upkeep and
+equipment log
+and remarks.
+repalrs
+Please review (his
+Section A:
+Machine_
+MC-218
+Equipment
+Convelor
+MC-?43
+MC- 259
+Service Type
+Corecyoe Belt
+Plasma
+CNC
+MC-233
+Operator
+Preventive
+Wachihe
+Plasma Cutter
+Quration
+Peter Schmidl
+Carlos Garcia
+Corective
+Peter Schmidt
+Notes
+Sensor
+Carlos Garcla
+Teca
+llbrated
+coniacls
+cleaned
+{ound;,
+Sensar
+rocal brated 
+Section B:
+Machine ID
+MC-218
+Equipment
+Conveyar
+MC-243
+MC-259
+Service Type
+Bel
+Flasma Culler
+CNC
+MC-?33
+Operato
+Inspectior
+Laclne
+Pasma Culler
+Patei
+Schmidl
+Duration
+Peter Schmidi
+Correctivb
+Jarcis
+Nones
+Laum
+Rosc
+Tighiened loose
+bolis
+Alignment
+hinges
+Sensor
+dduaten
+recalibrated
+Ensure that each servkce entry has the =
+redon
+required approvals.
+Ilife-cycles af key components from this
+Upllme (F)
+92,0590
+Etror Count
+Notes
+Replaced Iiter
+obsenvallon?
+GumMury
+belov
+Cutom
+Mmng
+Pmeruve
+Sw Ich
+Iseues
+Pret"luvt
+Mmg
+Prevantiva
+Carlas
+Chock
+remainlng

@@ -1,0 +1,66 @@
+Unit Data Specification
+Praiect:
+LP-SSSV
+Dacu
+PR-989
+Prepared Bv:
+Anna Nowak
+Approved By:
+Larios
+harcia
+Location; Plant IC
+2023-07-22
+Confirm tnat performance ranges
+comply wlth project requlrements
+Please revlew the specifications and material
+position Ilsted below. The parameter
+belav
+includes operating Iimits and
+Use this spec sheet to
+validate assembly instructions Belov are the technical parameters and construction materials for the unit; This
+technical
+overvlew supports the product-release checklist This report extract
+prepared for design-verification
+audits-
+Unit Type
+Hudraulic Powe
+Unit
+Operating Pressure
+210 bar
+Fluid Flow
+60 L{min
+Supply Voltage
+400
+50 Hz
+Pump Type
+Vane Pump
+Reservoir Capacity
+Cantrolvale
+Proponiona
+Cooling_
+WNaler-cdaled
+exchange
+Protection Class
+Total Weicht
+230kg
+Service Intena
+12 months
+Dimensions (LxWxH)
+1200 * 7C0* 1100 mm
+Filtration
+10 um retum, 25 Um
+Motor Power
+7,5 KW
+suction
+Charging Time
+Oil Type
+HLP 46
+Noise Leve
+72 dB(AJ
+Working
+10 Cto 55"€
+Date
+Feg"ter
+lings-
+Temp
+Range

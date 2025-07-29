@@ -1,0 +1,104 @@
+Product Overview
+Praiect:
+SB-I40D
+Unerne
+PR-628
+Prepared Bv:
+Ljura Koss
+Approved By:
+Anna Nowak
+Location; Plant 34
+Date; 2024-08-16
+The parameter
+bela 
+Includes operating Ilmits and
+Ensure all referenced standards are Up
+date-
+Reiet
+this configuration sumrary for unit-designatian mapping: Please review the specifications
+and materia
+composition listed
+Below
+the technica
+parameters
+construction materials for the unit; The following
+information outlines performance characteristics and design data_
+Unit Type
+Cooling Circulation
+Design Pressure
+300 bar
+System
+Throughput
+30 L{tin
+Operating Voltage
+A0Jv ,
+50 HZ
+Contro
+Valve
+propanional
+Dimensions ILXWxHA
+1200 * Z00x 1100 m
+Type
+Gcjr
+Charging Time
+Total Weight
+250 kg
+Service Interval
+months
+Battery Capacity
+10 Ah
+Mounting
+Racktrame
+Noise Leve
+J2dBIA)
+Oil Type
+HLP 68
+Frame Material
+Powder-coated Steel
+Filtration
+Hm inine, 10 4mteturn
+Protectan
+Class
+Cooling_
+Ain-cooled Qilmadator
+Mlotor POWLr
+Working_Temp
+Range
+10 CtoSS"C
+Reservoir Capacity
+specifications
+meet the design requirements
+industry standards Check that all section headers follow the
+praduct template; Data sheet has bee
+peer-reviewed by the engineering team; Ensur
+elossary terms match the
+ergineering nomenclature
+This summary
+eflects the latest revision of the product data,
+MaterIal .
+Construicton-
+Labe
+Ra5Nateria
+Cooling
+Pack
+Silicone Rubber
+Wiring
+Dom im
+PVC (Rigid
+Hinge Set
+Stainless Steel 304
+Battery Pack
+Lthium-Jon
+Cell Pack
+Teflon Tape Roll
+Teflon Tape Roll
+Capacitor 4501
+Aluminum 6061-T6
+Sheet 436
+Carban Steel 436
+eBiSier
+raungs
+below
+Jnd
+Pump
+Pump

@@ -1,0 +1,69 @@
+QC Checklist
+Use this extract t0 coordinate sign-off with the QA manager. The following table outlines inspection criteria
+and classification levels. Confin that sampling levels comply wilh customer agreements, Use this Iist to
+confirm adherence to AQL and safety standards_
+Entries include both visual and functional inspection items_
+Below are the items to be verified during the final product review; Refer t0 the quality register for sampling -
+plan reterences
+This summary supports tne production-release quality gate:
+Product ID
+PL- 6012
+Customer ID
+NORWAY
+tcn
+Description
+Cooling Gel Pack
+Audit Criteria
+Check
+Category
+Remarks
+Intensity
+Design Specs
+Critical
+Major
+OnHold
+Nol assembled as per
+Level /
+Needs review
+drawing
+Paint smearing
+Level Il
+scralches
+Sharp edges on plastic
+Minor issue
+Level /
+compcnents
+Observed
+Wood splinter
+sharp
+point cproduct
+Connoctos
+not working
+LoVE
+Critical impact
+Exposed nail with sharp
+Minor issue
+Level
+point
+observed
+Carton
+damaged or
+Level
+Critical impact
+marking: incorec
+Incorech barcode
+Critical impact_
+Incorrect quantity Or
+Level II
+Needs review
+assonment
+Dustldebris inside
+Level IlI
+Critical impact
+packaging
+Visual defect on housing
+Level
+Critical impact
+Supervised by:
+Date:
+Minor

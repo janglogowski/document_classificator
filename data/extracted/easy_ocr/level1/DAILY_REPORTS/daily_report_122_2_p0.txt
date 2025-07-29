@@ -1,0 +1,89 @@
+Report No
+PR-403
+Custoner:
+BELGIUM
+Supervisor:
+Anna Nowak
+Department:
+Painting
+Shift
+(Morning)
+13-08-2024
+The following dalta captures production targets
+actual oulput; and any deviations. This report summarzes
+the daily operations and output for the production line
+Please review today's operation log and output
+summary for each workstation: This dashboard section highlights any production bottlenecks
+Equipment
+Task
+Operator
+Begin
+Finish
+Time
+Comments
+Temp
+Power
+Spent
+(CL
+Draw
+MC-207
+Assembly
+Bartosz
+06.00
+07:16
+Ok
+73.7
+2.84
+Wawzyniak
+MC-208
+Polishing
+Dawid
+06,15
+07,57
+102
+66.4
+Oszmanczuk
+MC-209
+Polishing
+Nadia Sauter
+0Z:15
+08.34
+NA
+71
+179
+MC-204
+Assembly
+Wiktor
+10.30
+11.45
+59.9
+2.21
+Kopczynski
+MC-208
+Polishing
+Mateusz
+09.00
+10.24
+Delay
+72.7
+2.74
+Jarzma
+MC-207
+Assemblx
+Nadia Saute_
+12.30
+13.28
+2.90
+MC-208
+Drilling
+Agnieszka
+14,00
+1444
+79 4
+1,92
+Zielinska
+Prepared by:
+Laura Rossi
+Approved bY:
+Laura
+Rossi

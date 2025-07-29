@@ -1,0 +1,121 @@
+Conformance Log
+#1310681
+Date: 17.07.2025
+Product ID
+XD-Z10R
+Item
+Description
+Customer ID
+BELGIUM
+Archive this list In
+quality
+~management system.
+This summary
+include both visual and furctional
+supports the
+praduction-reloase
+inspectian itens_
+quality gate_
+traceability: This section details quality
+checklist entries are timestamped for
+indicates comoliance
+requirements and test points for the
+inspection criteria. Use this
+This closure summary
+exiraci
+coordinate slgn-off with the QA manager;
+Audit Criteria
+Sample
+Tler
+Notes
+Component Criteria
+Duad
+live insect in
+Critical
+Major
+Nnom
+OnHold
+packaging
+Lavol III
+Shipping
+MiaikiS
+illegible
+Needs revlaw
+missing
+Level /
+aulery labels
+Levem
+delect on
+Leve
+Needs reviev
+Incorrect barcode or labal
+Needs=
+Luveli
+revew
+Battery not ncluded
+Level I
+Exposed nail with
+Critical mpact
+point
+Level MI
+Dustidebris inside
+Needs review
+packaging
+Level II
+Colot misratch
+Level |
+Product doesn
+power on
+LevuM
+Incorrect quantity or
+Critical impact
+Ossortment
+Level II
+Critical impact
+Lovel II
+product sizo
+Needs
+Lvie v
+Critical impact
+AQL Levol
+Critical
+Default
+Fidc
+Customer specific
+Ensure that all remarks
+Jave
+carespanding
+completc and approved
+evidence attachments
+final note
+conmtmc
+major Ins
+quality =
+indicatos compliance
+checkllst is
+pection points have been addressed
+with defined AQL (evels
+actlons
+scheduled
+Archive this
+Mmary
+the audit-readiness
+and
+for identified Issues;
+folder. Corrective
+Rubhar
+Stoppet
+hnc
+Entricsi
+batch;
+Catogory
+Missingi
+Msual C
+nousing
+anurp
+Hnges
+Wtongi
+Tnis
+Over&
+stutus
+All crticol

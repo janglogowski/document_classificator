@@ -1,0 +1,104 @@
+DAILY PRODUCTION REPORT
+Report No;; PR-243
+Customer: FRANCE
+Shift:
+(Night)
+Date: 22-10-2024
+nquinment
+Operation
+Technician
+Start Time
+Finish
+Total
+Comments
+Status
+duration
+MC- 20}
+Drilling
+Agnieszka
+13.00
+15.00
+120
+Completed
+Zielinska
+MC-204
+Polishing
+4njNowj
+06 0
+07.56
+Completed
+MC-208
+Assembly
+Dawid
+06,00
+07,27
+Completed
+Usziniamczuk
+MC-204
+Welding
+4njNowj
+L
+12.52
+progress
+MC-209
+Welding
+Dawid
+13.15
+14.29
+proeress
+Oszmianczuk
+MC-201
+Assembly
+Mlateust
+14,00
+15,22
+Campleted
+Jarzvnj
+MC-203
+Cutting
+Jan Kowalski
+09 00
+Delayed
+MC-209
+Cutting
+Agnieszka
+14.15
+15,50
+Delayed
+Ziclinska
+Part ID
+Planned
+Scrap Qty
+Scrap
+Rework
+Uwagi
+Output
+Count
+QN-770H
+240
+3,75%6
+Scrap
+contirmed
+RX-31OZ
+278
+12,5956
+ID-Z00W
+5580
+Kv-390k
+126
+2,387
+Xk-610U
+149
+2.6876
+Scrap
+cantirmed
+MX- A50L
+105
+100
+4.7670
+Rewon
+needed
+Appraved bv;
+Prenarem
+40.09
+Actu

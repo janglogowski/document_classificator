@@ -1,0 +1,39 @@
+Customer ID: GREECE
+Prepared by: Peter Schmidt
+Product ID: MX-450L
+Internal No:: 1413490
+Item
+Packaging
+Control Panel
+Clamp
+Control Panel
+Ventilation
+Description
+Box
+Mount
+12Omm
+Mount
+Grid
+Qty
+880
+235
+UOM
+Unit Price
+Amount
+315.00
+632.00
+411.25
+844.00
+2,514.40
+Remarks
+Switch
+ested
+Li-Ion battery
+Eco
+ROHS
+OK
+installed
+compliant
+compliant
+TOTAL: 16,716.65
+Ring

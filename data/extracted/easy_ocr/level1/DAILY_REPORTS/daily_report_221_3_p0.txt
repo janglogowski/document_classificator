@@ -1,0 +1,102 @@
+Shift Summary
+Report No:; PR-283
+Customer: FRANCE
+Shift:
+Evening)
+Date: 07-03-2024
+Machine
+Task
+Operator
+Begin
+End Time
+Time Spent
+Comments
+Status
+MC-203
+Cutting
+Piotr
+06.15
+07.08
+Delay
+Delayed
+Lewandowski
+MC-206
+Polishing
+przemvsJu
+07.00
+07.32
+Delay
+Delayed
+Wasik
+MC-203
+Cutting
+Wiktor
+06,30
+07.46
+Delay
+Delayed
+Kopczyriski
+MC-208
+Welding
+KnjNowji
+14.30
+15.12
+Delayed
+MC-202
+Welding
+Agnieszka
+10.30
+11.24
+Recalibrated
+progress
+Zielinska
+MC-208
+Welding
+Jan Kowalski
+13.15
+15.10
+Recalbnated
+Completed
+Usc this summary
+update the overa
+production dashboard All production targets
+navctedn
+logged; deviations
+highlighted above
+Check material consumption against standard usage rates Ensure
+[outne mnaintenange
+between shifts
+maintain
+consistent output;
+Product ID
+Planned
+Produced
+Scrap Qty
+Failure
+Reworked
+Output
+Qty
+Units
+GL-9805
+124
+120
+3,2376
+Rewon
+needec
+RX-31OZ
+113
+4.423
+Scrap
+confirmed
+RM- S60N
+241
+232
+3.7390
+Scrap
+canfrmed
+HF-3904
+200
+0.5020
+Appraved by:
+Prepared by:
+Notes

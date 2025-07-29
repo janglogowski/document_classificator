@@ -1,0 +1,103 @@
+Production
+Report No:: PR-453
+Customer: NORWAY
+Shift:
+(Evening)
+Date: 12-07-2024
+Equipment
+Operation
+Operator
+Start
+Notes
+Stage
+MC-204
+Polishing
+Time
+Time
+Dawid
+12.30
+13.38
+NIA
+Oszmianczuk
+MC-206
+Assembly
+Mateusz
+10.15
+12.11
+progress
+116
+Jarzyna
+Completed
+MC-201
+Drilling
+Agnieszka
+08.30
+09;13
+Zielinska
+Delay
+Delayed
+MC-207
+Polishing_
+Nadia Sauter_
+08 15
+09.05
+MC-202
+Nadia Sauter
+14.15
+15.46
+Recalibrated
+Completed
+MC-204
+Cutting
+Jan KowalskI
+09.00
+09.20
+progress
+MC-206
+Przemystaw
+13.00
+14.45
+105
+progress
+Wasik
+NA
+Completed
+Note ay unscheduled
+the downtirne
+issueS
+AlI production
+have
+register: Ensure shift-handover notes include any pending
+(argets
+been logged; deviations are highlighted above. Check material
+consumption against standard usage
+Part ID
+Planned
+Actual Qty
+Rejected
+Failure %
+Rework
+Qty
+Notes
+Qty
+RX-310Z
+173
+12.18%6
+Rework
+XK-610U
+118
+needed
+FL-730X
+209
+2396
+43%0
+Approved by:
+Prepared by: _
+Log
+Total
+Delay
+Culting
+Cutuing
+stops
+ro1e8-
+aty

@@ -1,0 +1,105 @@
+Tolerance Check
+Inspection performed by Jan Kowalski on 2023-11-22.
+All measured values are timestamped for audit purposes- This summary of measurements supports
+metrology traceability- Check that all dimensions comply with ISO and company standards. The inspection
+register below highlights ay out-of-tolerance parts.
+Environmental Conditions: Temperature:
+23.9 'C,Humidity 36 %
+Product
+Part Name
+Measurement
+Target
+Observed
+Diff
+Status (VIX)
+Ref
+GH-770J
+Rubber
+Inner
+58.02
+58.16
++0.14
+Gasket
+Diameler
+B0mm
+RM-B6ON
+Shaft
+Inner
+51.12
+51.26
++0.14
+500mm
+Diameter
+HF-390A
+Bearing
+Hole
+40.43
+40.53
++0.10
+6202Z2
+VR-940T
+Hex Bolts
+Width
+9.12
+9.09
+-0.03
+M12
+SL-430M
+Wooden
+Thickness
+80.54
+80.53
+-0,01
+Pallet
+HF-390A
+Power
+Herght
+69.49
+69.33
+-0.16
+Switch
+NU- 4402
+Steel Sheet
+Length
+68.98
+68.95
+0.03
+A36_
+RX-3102
+Rubber
+Depih
+24.72
+24.68
+0.04
+Gasket
+B0mm
+TL-9OOX
+Bearing
+Inner
+27.29
+27.09
+0.20
+6202
+Diameler
+RM-86ON
+0-Ring NBR
+30.15
+30.06
+0.09
+B0mm
+Diameter
+KP-320E
+Steel Sheet
+Depth
+55.22
+55.22
++0.00
+A36
+PW-515Y
+Steel Sheet
+Height
+44.55
+44.44
+-0.11
+A36
+Inner

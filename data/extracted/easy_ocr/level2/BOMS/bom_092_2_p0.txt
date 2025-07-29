@@ -1,0 +1,41 @@
+Customer ID; GREECE
+Prepared bv: Jan Kowalski
+Product ID: TX-820v
+Internal No;: 5875301
+Refer to this parts register t0 plan raw-inaterlal purchasing: All entries reflect the latest Inventory and
+suppller rates, AII Iine-itern costs are current a5 per vendor quotes; Thls extract shows the bill of
+components and total projected spend: Use this schedule
+parts to align with sourcing and stock levels
+Item Descriptlon
+Coniro
+Panel
+Rubber
+Gasket
+Ventilation Grld
+Set
+Mouni
+9@mm)
+Qlty
+270
+147
+675
+216
+UOM
+pcs
+Unlt Prlce
+12,00
+Amount
+3,240,00
+73,50
+780,00
+540,00:
+Remarks
+Li-lon battery
+Eco compliant
+alignment
+Vnported
+Installed
+adjusted
+TOTAL: 7,633.50
+Hinge
+Hinte=

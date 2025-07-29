@@ -1,0 +1,113 @@
+Inspection performed by Anna Nowak on 2023-08-27 .
+Article No:
+Part Name
+Measurement
+Nominal
+Actual
+Delta
+Status (VIX)
+SL-430M
+Wooden
+Hole
+46,26
+46.28
+Pallet
+MC-540X
+power
+Thickness
+79.28
+79.11
+~0.17
+Switch
+SB-I40D
+Depth
+45,.93
+46.02
+RX-310Z
+Hex Bolts
+Depth
+24,90
+24.75
+0,15
+M12
+CN-150C
+Steel Sheet
+Inner
+95.00
+94.84
+0.16
+436
+Diameter
+DX-777T
+~Ring NBR
+Thickness
+64,99
+64,93
+6Omm
+NU-4402
+Shalt
+Thickness
+90.09
+90.06
+~0.03
+s00mm
+LP SSSV
+Hinge Set
+Length
+14.19
+14.36
+RE-850C
+Shaft
+Depth
+6.83
+0.04
+500m
+FT-730X
+Plastic
+Thickness
+86,60
+86.77
++0.17
+Rivets
+PL-6012
+Hex Bolts
+Thickness
+7.59
+7.65
++OU6
+M12
+BZ-660F
+Power
+Inner
+67.88
+68.01
++0.13
+Switch
+Diameter
+AZ-300I
+Hinge Set
+Hole
+52.38
+52.55
+QN-770H
+Bearing
+Depth
+21.36
+21.29
+0.07
+6202
+NU 4402
+Shaft
+Depth
+68 07
+68.19
++0.12
+s00mm
+JD-700w
+Bearing
+Length
+31.48
+31.31
+~0.1(
+6202 ZZ
+Hinge

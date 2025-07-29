@@ -1,0 +1,59 @@
+COMPONENT BREAKDOWN
+Customer ID: BELGIUM
+Coordinator: Laura Rossi
+Date: 2023-09-28
+Product ID;
+730X
+Internal No;
+3545131
+Order Qty: 392
+This summary Ilsts every item requlred; with per-unit pricing detalls; Use this breakdown t0 verify
+sourcing and cost estimates The following table summarlzes the materials and quantities needed for the
+current project,
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Sensor Clp
+0.95
+25.65
+Fuse 5A
+3,04
+10%6
+0.30
+9,90
+Li-Ion
+battery
+Installed
+Fuse 5A
+0,35
+0.30
+4,80
+Li-Ion
+battery
+Installed
+Power
+2,16
+1.20
+Urgent
+Switch
+Terminal
+0,91
+3.40
+78.20
+ISO-
+Block 4P
+verifled
+Review this summary against the master budgeting sheet; All Iisted components have been verified for
+avallabillty and compliance: Amounts reflect current pricing; adjust as necessary for bulk orders; Verify
+that all remark items meet the sourcing department' $ standards.
+Total Amount;
+123,35
+Approved By: _
+Sourcing Department;
+Pcs

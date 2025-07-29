@@ -1,0 +1,81 @@
+Component Overview
+Project:
+RM-85ON
+Report No
+1726537
+Prepared Bx;
+Carlo; Garcia
+Approved By;
+Lanos
+Garcia
+Localilon: Plant 34
+Date; 2025-06-11
+Please roview the spocifications and materal composition listed below. Entrios include both mechanical and
+electrical specificatlons. Refer to this configuration summary for unit-designatlon mapping: Tne parameter
+register below includes oporating limits and ratings. This data sheet provides koy spac fications and material
+details
+Below are tne technical paramelers and ccnslruclian malerials for lhe unit
+Model Type
+Pncumatic Control Unit
+Rated Pressure
+180 bar
+Throughput
+75 Umin
+Operating Voltage
+230 V / 50 Hz
+Motor Power
+11 KWV
+Control Valve
+Manual Ovenide 3/2
+Protection Clas5
+IPG5
+Cooling
+Alr-couled oll tadlator
+Mounting
+Rack Irame
+Pump Type
+Vane Pump
+Noise Levee
+70dBLA)
+Frme Matenal
+Stairiless Steel Frame
+Dimensions (LxiuxH
+JdOo
+650
+1000
+Working Tomp_Range
+10'C to 55"C
+Battcry Capacity
+Qil Type
+HLP 68
+Filtralion
+inline,
+10 Hm
+Reservolr Capacity
+160
+feilmn
+Total
+Weight
+250 kg
+Charging lime
+Service Interval
+montns
+Malerial
+Construction:
+Item
+Base
+Battery Pack
+Lmhivm-Ion
+Cell Pack
+Hex Bolts M12
+Zinc Plated Steel
+Nut M6
+Zinc Piated Steel
+Hinge_Set
+Stainless Sleel 304
+Digital Displax Unit
+ABS Plastic
+Insulated Tuhe 25um
+Thermoplastic Polxurelhane (TPU)
+Cooling Gel Pack
+Silicone Rubber

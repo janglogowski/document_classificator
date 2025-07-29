@@ -1,0 +1,117 @@
+Shift Summary
+KeporNo-
+PR-275
+Customer
+BELGIUM
+Supervisor:
+Carlos Garcia
+Department:
+Assembly
+Shift:
+[Morning)
+06-12-2023
+This section details the key metrics and activities
+ecorded
+during the shift. The summary below lists each
+stlon
+Hcle
+Mam
+plarined output: This dashboard section highlights any production bottlenecks. Use this
+overet
+445895
+throughput and efficiency levels
+Machine
+Operation
+Technician
+Begin
+Finish
+Duration
+Uwagi
+Temp
+Energy
+(min
+(kWh)
+MC-201
+Assembly
+Magdalena
+11:15
+12.53
+63.0
+2.35
+Witkowska
+MC 206
+Polishing
+Kowalski
+14.30
+15.48
+MC-203
+Cutting
+Agnieszka
+08.30
+09.00
+2.55
+Zielinska
+MC-206
+Welding
+Wiktor
+09;15
+11;08
+Kopczyiiski
+MC 209
+Cutting
+Wiktor
+10.30
+12.21
+Delay
+66.1
+2.25
+Kopczyiski
+MC-205
+Assemoly
+Bartosz
+10:15
+11.34
+69.9
+1.03
+Wawrzyniak
+MC 205
+Drilling
+Piotr
+07:00
+08.33
+NIA
+55.4
+1.93
+Lewandouski
+MC-203
+Asscmbly
+Anna Nowak
+13.00
+13.33
+NYA
+64.6
+2.57
+MC-206
+Drilling
+Jan Kowalski
+1400
+15.25
+N/A
+63 
+1.10
+MC-205
+Polishing
+Przemystaw
+14,00
+14,28
+Delay
+63,5
+1.85
+Wasik
+Prepared
+4nne
+Nowvak
+Approved
+Carlos Garcia
+Dclay
+Iby:

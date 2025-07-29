@@ -1,0 +1,63 @@
+Product Data Sheet
+Project:
+MS-6OOP
+Report No
+8198220
+Prepared By:
+Lanos
+Garcia
+Approved By:
+Kowalski
+Location: Plant 34
+Date: 2023-11-12
+This technica
+overview supports the product-release checklist. The parameter register below includes
+operating limits and
+This section details the configuration and parameter set for Ihe product, Confirm
+performance ranges comply with project requirements:
+Unit Type
+Pneumatic Control Unit
+Design Pressure
+300 bar
+Flow Rato
+48 Lmin
+Voltage
+480
+60 Hz
+Battery Capacity
+Pump Type
+Gear Pump
+Control Valvo
+Proportional 4/2
+Working Tcmp: Range
+10"C to 55*C
+Motor Power
+75kW
+Total Weight
+180 kg
+Reservoir Capacity
+160
+Protection Class
+IP65
+Cooling
+Water-cooled
+Service Interva
+500 [
+exchanger
+Oil Type
+HLP 68
+Mounting
+Wall-mounted
+Frame Material
+Stainless Steel Frame
+Filtration
+10 pm return
+25 Hm
+svcton
+Material choices
+process dala have been verilied for compliance. Dala sheet has been peer-reviewed
+by the engineering team Flag any missing parameters for urgent specification updates. This closure note
+indicates the data sheet
+ready for release.
+ratings;
+and

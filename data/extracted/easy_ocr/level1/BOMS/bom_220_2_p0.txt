@@ -1,0 +1,41 @@
+Customer ID: BRAZIL
+Prepared by: Laura Rossi
+Product ID: MS-6OOP
+Internal No:: 4284153
+This document provides
+detailed breakdown of all components required for the assembly
+process.
+Please review the itemized Iist of parts and material specifications before procurement:
+This summary lists every item required_
+wilh per-unit pricing details: Refer t0 this parts register t0
+plan raw-material purchasing:
+Item
+Shaft 50Omm
+Rubber
+Aluminum
+Hinge Set
+Hex Bolts
+Description
+Gasket
+Bracket
+M12
+Qty
+193
+588
+223
+UOM
+Unit Price
+Amount
+544,00
+118.50
+805.50
+720,00
+55.75
+Remarks
+SKF brand
+ROHS
+High grade
+Imported
+compliant
+TOTAL: 4,243.75
+80mm

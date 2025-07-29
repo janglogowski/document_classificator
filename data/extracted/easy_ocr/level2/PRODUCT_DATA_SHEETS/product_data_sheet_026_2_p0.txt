@@ -1,0 +1,93 @@
+Unit Data
+Specification
+extract
+prepared for design-
+align with supplier certifications This repe €
+This section details the
+Check that all material specs
+the produci-release checklist.
+audits; This technical overview supports
+standards are Up
+dalc
+The
+verification
+paramete
+set for Ihe product: Ensure all referenced
+Usc this spec sheet
+validate
+configuralion
+characteristics and design data_
+Information oullines performance
+following
+assembly instructions
+300U
+Product _ID:
+9566369
+Document No ::
+Rossi
+Date: 2025-01-10
+Prepared by: Arna Nowak
+Approved
+Operating Pressure
+210 bar
+Pneumatic Control Unit
+480V/60 Hz
+Unit uype
+75 Umin
+Supply_Voltage
+Directional 4/3
+Fluid Flow
+Control
+Valve
+Water-coaled
+Cooling
+exchanger
+230k1
+Total Weight
+Protection Class
+Ensure glossary terms match the
+Jisted
+materials are approved for the applicationy;
+template. Archive this summary
+Ensure Ihat the
+headers follow the praduct
+nomenclature: Check Ihat all section
+the data sheet [
+ready
+for rel
+engincering
+management This closure note indicdad
+parameters for urgent
+design-change
+industry standards Flag any missing
+specifications meet the design reguirements
+specification updates:
+Material of Construction:
+Base
+ueni
+Brass
+C212
+Pressure
+Vaive
+Stainless Sleel304
+Hinge Set
+Nitrile Rubber (NBR
+Rubber Gaskel 80mm
+Glass-Filled Nylon
+LED Light Strp
+Stainless Steel 304
+Bearing 6202 ZZ
+Ceramic Oxide
+Fuse 54
+Aluminum 6061-T6
+Heat Sink ALU
+Tellon Tape Roll
+Teilon Tape Roll
+Polycarbonate
+Copper
+Poivem
+Switch
+Laurd
+lease,
+ujute
+ad

@@ -1,0 +1,58 @@
+Product Data Sheet
+Report No : PR-978
+Product ID; TX-B20v
+Date: 2023-12-21
+Configuration Type
+Hydraulic Power Unit
+Rated Pressure
+180 bar
+Throughput
+30 Lmin
+Operating Voltage
+230
+50 Hz
+Filtration
+10 um return, 25 Um
+Charging Time
+suction
+Cooling
+Water-cooled
+Mounting
+Wall-mounted
+exchanger
+Working Temp
+Range
+t0 50'C
+Reservoir Capacity
+160
+Protection Class
+P67
+Component Materials Overview:
+Lada
+Raw Material
+Specification
+Wiring Loom
+PVC
+Heat-resistant
+Bearing 6202
+Slainless Steel 304
+Class
+tolerance
+NBR 6Omm
+Niurile Rubber (NBR)
+ISQ 2768
+Coolino
+Gel Pack
+Silicone
+Ruohe
+DIN EN 10025
+Fuse 54
+Ceramic Oxide
+DIN EN 10025
+Cable Te Pack (100)
+Nitrile Rubber (NBR)
+Anticorrosive
+Prepared by: Peter Schmidt
+Approved by: Laura Rossi
+(Rigid)
+Ring

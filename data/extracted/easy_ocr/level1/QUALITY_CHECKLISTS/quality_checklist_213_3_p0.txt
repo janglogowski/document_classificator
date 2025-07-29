@@ -1,0 +1,48 @@
+QC Checklist
+Inspection Checklist
+Check
+Severity
+Notes
+Points
+Intensity
+Product Requirements_
+Critical
+Major
+Minor
+OnHold
+Exposed nail with sharp
+Level |
+Critical impact
+poini
+Incorrect quantity Or
+Minor issue
+Level IlI
+assortment
+observed
+Rubber texture Or
+Level III
+Needs review
+glossiness mismatch
+Incomect barcode
+label
+Level
+Package
+not sealed
+Level
+completely
+Scrows loose or missing
+Leve
+Needs review
+Carton
+damaged or
+Minor issue
+Level III
+malkings Incorrect
+Observed
+Reference Standards:
+Standard
+Editioq
+RoHS
+2011
+EC 61010
+4th Ed;

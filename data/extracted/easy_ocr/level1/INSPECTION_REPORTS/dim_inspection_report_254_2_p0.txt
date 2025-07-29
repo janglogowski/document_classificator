@@ -1,0 +1,52 @@
+Component Dimensional Check
+inspecion
+Jan Kowalski
+Inspection Date
+2024-11-20
+Please review the inspection results for each component listed below
+Ensure measurement methods align
+with calibration standards. This data extract
+prepared for quality-control sign-off. Check that all dimensions
+comply with ISO and company standards.
+Product Ref
+GH-770J
+TX-BZ0v
+AL-115Q
+NU-440Z
+Component
+Hinge Set
+Bearing 620272
+Battery Pack
+0-Ring NBR S0mm
+Mcasurement
+Depth
+Depth
+Depth
+Depth
+Nomina
+77.90
+16.47
+39.43
+Observed
+77.88
+39.28
+Delta
+0.02
+PassiFail
+PASS
+PASS
+PASS
+PASS
+Inspection notes have been logged for traceability. This assessment reflects Ihe latest metrology results.
+Overal
+inspection summary indicates acceptable quality levels.
+Instrument Calibration Log:
+Instrument
+Seria
+Last Calibration Date
+Micrometer
+3081.
+2024-11-
+CMM
+99015
+2025-04-17

@@ -1,0 +1,86 @@
+Shift Summary
+Repart Na :
+PR-682
+Customer:
+FINLAND
+Supervisor:
+4na
+Nowak
+Wnnem
+Maintenancc
+Shift:
+MHorning)
+13-05-2025
+Use this overview to asses8 throughput and efficiency levels . Use this shift summary
+drive continuous
+Impiovament
+actions Please review taday'$ operation log and output surmary far each workstation:
+Machine
+Task
+Operator
+From
+Time
+Comments
+Thermal
+Spent
+Reading
+Uaed
+MC-208
+Welding
+Mateusz
+13.30
+15.12
+102
+Recalibrated
+55.9
+1.04
+jaizyna
+MC 201
+Assembly
+Wiktor
+06.30
+07.09
+769
+1.66
+Kopczyriski
+MC-20g
+Drilling
+Przemystaw"
+11.30
+12.51
+NA
+68.9
+2.16
+Waslk
+MC-204
+Assembly
+Wiktor
+06:15
+07.21
+71.4
+1.71
+Kopczynski
+MC-201
+Welding
+Wiktor
+08.00
+08.41
+NIA
+71-8
+2.91
+Kopczynski
+MC-207
+Polishing
+09:15
+09.47
+60.3
+2.90
+Kowalski
+Prepared by:
+Carios
+Carcia
+Approved Dy
+Peter
+Schmidt
+Depa
+Enerzy

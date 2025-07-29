@@ -1,0 +1,81 @@
+Component Dimensional Check
+Supenisor
+Peter Schmidt
+Inspection Date
+2025 03 09
+Use this results summary t0 trigger any corrective acions. Entries include both passifal markers ad
+deviation magnitudes_ Check that
+dimensions comply with ISO ad company standards
+This summary of
+measurements supports metrology traceabiity: Below are the recorded measurements compared against
+nominal tolerances_ The following data captures key dimensions and any deviations identified 
+Anticle No:
+LC-SAOX
+MS 600P
+CE-905L
+VR-940T
+CK-I50C
+HF-390A
+IX-820V
+Pant Name
+Power
+Battery
+Wooden
+Plastic
+Hex Bolts
+Plastic
+Wooden
+Sulch
+Pack
+Dllel
+Riels
+M12
+Rivels
+Pallel
+Dim;
+Feight
+Woth
+Mnicxness
+Mnickness
+Thickness
+Wdin
+Wtotn
+Target
+18.60
+1977
+1498
+90.70
+76.86
+30.18
+3314
+Oorcncd
+18.75
+19.78
+90.89
+76.73
+30.17
+33.03
+Delta
++0.15
++0.01
+-0.43
+Tae
+~0.13
+~0.01
+~0.11
+Pass Fail
+Refer
+deviaton column for any out-0f-tolerance measurements  This assessment reflects tne latest
+metrology results
+This closure memo confimms that dimensional checks are complele
+Instrument Calibration Log;
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+64213
+2024-09-28
+Laser
+Scanner
+45090
+2024-09-16

@@ -1,0 +1,92 @@
+BILL OF MATERIAL
+Rate
+Amount
+Remarks
+No
+Item
+Qty
+UOM
+Description
+0.25
+7.75
+High
+Hex Bolts
+pcs
+M12
+1.00
+30.00
+ISC-
+Packaging
+pcs
+verified
+Box
+0.25
+6.00
+Don
+Hex Bolts
+pcs
+batlery
+M12
+installed
+0.25
+1.00
+Imported
+Hex Bolts
+pcS
+M12
+2.50
+70.00
+Li-lon
+LED Light
+battery
+Stnp
+installed
+15.00
+765.00
+Imported
+Wooden
+PCS
+Pallel
+90
+30.40
+Grease
+pcs
+Tube
+250m1
+10.15
+For expont
+Slainless
+pcs
+0.35
+Bolt _MB
+0.25
+11.25
+For expont
+Hex Bolts
+pcs
+M12
+Fuse 5A
+pcs
+3.50
+For export
+Stainless
+pcs
+0.35
+Boll M8
+been annotated here: All listed components have been
+Ary deviations from standard pricing have
+against the master budgeting sheet:
+verified for availability and compliance.
+Review this summary
+materials summary is reconciled with the purchase order:
+Ensure this
+Coordinator; Anna Nowak
+Date_ 2023-02-19
+Customer ID: NORWAY
+6468116
+Order Qty: 242
+Product ID: PL-601Z
+Intemnal
+944.05
+Total Amount:
+grade

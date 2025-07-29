@@ -1,0 +1,70 @@
+42089620
+Quallty Inspection List
+Date: 17.07.2025
+Customer ID
+GREECE
+Product
+CE-gosi
+Ilent
+Description
+LED Uight Strp
+steps follow the appraved procedure
+Ensure all ron conforrs rriacks are clearly
+Check (Nag uspection
+are tImestamped (or tracejbility. Plenst revicw
+Ehch
+checklist poirt ard mark tne
+documented  All checMist entries
+sampling results Archive (hts Iist In the quality manapement systern Confirm that sampling levels corply Wtth
+customer ogreements: Thls Summary supports the
+production release quollty gate: Thls secton detals qually
+requlrements and test polnts for the batch;
+Quallly check Items
+Samip Iing
+chasslcatton
+Renvarks
+Lnva
+Cuct
+MA
+Hold
+Component
+Crltical mpact
+waring labe
+Rubber texture
+elossiness
+Level I
+Crltiea| Anplact
+anirm tch
+Needs review
+Connector noE working
+LCvC
+Proouct
+Dcae
+hoili
+Crutical Umpact
+Ralteryno
+Includec
+lncorec
+arcouo
+Habu
+MnVa
+Necd; revicw
+Screws
+Ano
+Inasita
+Level /
+jior
+mlnae
+AOLLevel
+Crltica
+Delault
+Cuetam
+AInv the audlt-readiness folder; This summary supports the end-of-lne quality certificatton
+Archive thls surmary
+Ensune
+supervlsed slgn-off
+ay none
+Ensure that all rerarks have corresponding evldence attachments: Pfease
+contormlng points;
+Lovd
+epecllic

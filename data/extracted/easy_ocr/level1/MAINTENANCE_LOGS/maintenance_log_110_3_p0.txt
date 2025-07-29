@@ -1,0 +1,121 @@
+Maintenance Checklist Report
+Performed On: 2025-04-21
+Authorizcd DY;
+Jater Crhmidt
+Operatoc;
+Laura Kosse
+This log
+ecords
+malntenanceacyies
+ctormeccneine euicmeni
+ensur
+safety checks were completed during servicing
+Thls malntenanc
+emtraci
+prepared
+comollance Audattralls
+Conflrm that service Intervals follow the preventlve schedule. Thls
+section captures
+equipment status andany mjintenance obsenations
+bejc "
+tne summart
+service actions and downtimes for
+each macnime
+section
+Unit Code
+MC 272
+MC 750
+MC 702
+MC771
+Mc71
+MC 767
+Equipmcnt
+Laser Cutter
+Packaxing Lira
+Packabine Linc
+Conveyor Aclt
+CNC Milling
+Cuttcr
+Machine
+Iypo
+Lotreciivl
+Inspection
+coriectivc
+Unspection
+Lorrectivl
+Unspectior
+Wecnnican
+Laurz Aossi
+Vo vak
+Jeter Cchmidt
+Carlos Garciz
+Peter Schmidi
+Annz No vak
+Downtime
+Noles
+5cluch contacts
+Aenmene
+Callbration
+Callbraticn
+Allgoment
+Keplaced iuSe
+cleaned
+hinges
+check Ok.
+check OK
+ninees
+-dliusted
+adinnsted
+section
+Unit Code
+MIc 297
+MCZZ
+MC-271
+MC24
+Fquiomcnt
+PackaRing Ling
+Packarine Ling
+PackarinE Ling
+asem
+Cutter
+Conuevor Relt
+Paint Anoth
+Tvpe
+Freventive
+Inspection
+Vfeventive
+Frevenuive
+Freventive
+Preventive
+ecnnician
+CArios G-rca
+JanK0WaIskE
+Anm Nowr
+Annj Now k
+Garcin
+Pele-
+Schmiat
+Downtimt
+Notes
+Replaced
+Worn Fasket
+Sensor
+Norn Rasket
+Alenment
+Hienment
+cuolang
+Tenaced
+Tecalibxated 
+npl-crd
+adimnsted
+aciusted
+Uptimat
+Error Count
+Note 
+LM 4gu
+PL
+KC707
+Kc-750
+Carlot
+hingo
+Dirge:

@@ -1,0 +1,120 @@
+Shift Summary
+Report No
+PR-408
+Customor: CANADA
+Shift:
+(Morning)
+Dato: 05-06-2025
+Machino
+Oporation
+Oporator
+From
+Finish
+Total
+Uwagi
+Status
+Tlme
+MC-207
+Polishing
+Bartosz
+07.30
+09,02
+Recallbraled
+Wawrzyniak
+progress
+MC-202
+Drilllng
+Anna Nowak
+14,00
+15.58
+118
+progross
+MC-201
+Welding
+Dawid
+11;00
+12.36
+Delay
+Completed
+Oszmlanczuk
+MC-204
+Polishing
+Nadla Sauter
+10.00
+10.31
+NA
+progross
+MC-208
+Polishing
+Nadla Sautar
+08,00
+09.03
+Delay
+progress
+MC-204
+Assembly
+Nadla Sauter
+13.15
+1440
+Completed
+MC-209
+Drilling
+Matousz
+11;00
+12.56
+116
+Delay
+Delayed
+Jarzyna
+MC-204
+Assembly
+Przomyslaw
+15.13
+118
+Recalibraled
+Wasik
+progross
+AlI operator notes have been archived for revlew: No criilcal delays were observed; please address any
+mlnor Issues noled, Archlve Ihis oulput summary for end-of-day reporting: Overall produclion performance
+mel expectallons for Ihe day:
+Product ID
+Targot Qty
+Achloved
+Rojoctod
+Scrap
+Rowork Qty
+Uwagl
+Qty
+Qty
+GH-770J
+127
+123
+3,15%
+Rowork
+nueded
+GL-980S
+163
+3246
+Rework
+needed
+HF-390A
+230
+199
+13.48%
+RM-8GON
+282
+260
+Bo%
+DX-777T
+244
+238
+2.46%6
+XD-TIOR
+165
+140
+15.15%0
+Rowork
+needed
+Approved by:
+Prepared by:
+13.15

@@ -1,0 +1,126 @@
+Tolerance Check
+Inspection performed by Jan Kowalski on 2024-07-03.
+Use this examination summary t0 confirm component confomity. Ensure measurement methods align with
+calibration standards: Review recorded tolerances against engineering specifications
+The following data
+captures key dimensions and any deviations identified_
+Entries include both passifail markers and deviation
+magnitudes
+Environmentai
+Conditions: Temperature=
+23.9 "C, Humidity: 42 %
+Product
+Part Name
+Measurement
+Nominal
+Observed
+Diff
+Status (VIX)
+RX-310Z
+Hinge
+Thickness
+3320E
+Hinge SeL
+Hole
+VF-220D
+0-Ring NBR
+Height
+8.94
+8.89
+0.05
+60mm
+VR-940T
+Bearing
+Length
+23.91
+23.84
+0.07
+Ok
+6202
+AZ-30OT
+Shalt
+Height
+47,59
+47.,64
++0,05
+OK
+500mm
+SB-140D
+Power
+Hole
+50.29
+50.32
++0.03
+OK
+Switch
+KP-320E
+Graphite
+Depth
+15,52
+15.70
++0,18
+Ok
+Pad
+MS-6OOP
+Steel Sheet
+Widlh
+69.33
+69.36
++0.03
+Ok
+A36
+RE-850C
+Bearing
+Width
+59.07
+58.90
+~0.17
+620272
+ZR-2O5R
+0-Ring NBR
+Length
+21.26
+21.31
++0.05
+OK
+60mm
+ZR-ZO5R
+Shatt
+Width
+7.68
+7.70
++0.02
+Ok
+s00mm
+MR-160H
+Bearing
+Thickness
+66.52
+66.36
+~0.16
+OK
+6202 ZZ
+MR-160H
+Steel Sheet
+Thickness
+95.91
+95.96
++0.05
+OK
+A36
+AL-1150
+Plastic
+nncr
+73.98
+73.94
+0.04
+Ok
+Rivets
+Diameter
+GH-770J
+Set
+Deplh
+90.81
+90.84
++003
+Hinge

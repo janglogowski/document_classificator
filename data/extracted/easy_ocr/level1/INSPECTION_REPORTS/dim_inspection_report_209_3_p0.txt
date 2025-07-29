@@ -1,0 +1,148 @@
+Dimensional
+Inspection performed by Anna Nowak on 2024-11-09.
+This data extract 
+prepared for quality-control sign-off; Please review the inspection results for ach
+component Iisted below, All measured values are timestamped for audit purposes. Review recorded
+tolerances against engineering specificalions. Below are the recorded measurements compared against
+nominal tolerancos;
+Envlronmental Conditions:
+Temperature
+24.0 "C, Humidity: 50 %
+Article No.
+Component
+Dlm .
+Target
+Aciua
+Delta
+Status (VIX)
+Kv-390k
+Hex Bolts
+Height
+13.58
+13.57
+0,01
+M12
+LP-5s5v
+Steel Sheel
+Inner
+35.11
+34.92
+0.19
+A36
+Diameter
+NE-2454
+Shalt
+Height
+44.85
+44.75
+-0.10
+5uumm
+RM-BGON
+Plasilc
+Thickness
+68,82
+68.,85
++0.,03
+Rlvets
+TL-9oOX
+Plastlc
+Hole 0
+56.65
+56.68
++0.03
+Rivets
+PW-515Y
+Rubber
+Innor
+95.,20
+95,02
+0,18
+Gasket
+Dlameter
+BOmm
+IL-9OOX
+Set
+Thicknoss
+37.16
+37.26
+40.10
+VR-940T
+Baltery
+Dopth
+54.14
+54.06
+0,08
+Pack
+HF-39OA
+Bearing
+81,23
+81.26
++0,03
+6202
+Dlameter
+VR-940T
+Power
+Thickness
+9,30
+9,20
+0.10
+Swltch
+LK-890B
+Hex Bolts
+widlh
+70,01
+69,83
+0,18
+M12
+MC-54OX
+Wooden
+Height
+43.47
+43.38
+0,09
+Pallet
+RX-3102
+Wooden
+Height
+24,29
+24,35
++0,06
+Pallet
+LK-890B
+Baltery
+Thickness
+10.16
+10.29
++0.13
+Pack
+XK-610U
+Steel Sheet
+Height
+89.01
+88.82
+0.19
+436
+TX-820v
+Shall
+Thickness
+65,69
+65.67
+0,02
+s00mm
+QP-G60F
+Baltery
+Thickness
+50.23
+50.20
+0,03
+Pack
+SL-430M
+Graphite
+Hole
+9,54
+9,52
+~0.02
+Pad
+Log
+Hingo
+Anner

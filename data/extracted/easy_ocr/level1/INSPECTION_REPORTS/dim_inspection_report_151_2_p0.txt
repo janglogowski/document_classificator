@@ -1,0 +1,69 @@
+Tolerance Check
+Supervisor
+Reter Schmidi
+Inspection Dale
+2025-04-03
+Entries include both passifail markers and deviation magnitudes
+The inspection register below highlights
+any out-of-tolerance parts_
+The following dala captures key dimensions and any deviations identified:
+Item
+code
+PW-51SY
+PW-SI5Y
+VF 220D
+LK 890B
+CE-905L
+XD-TIOR
+Component
+Plastic
+Bearing 6202
+Hex Balts
+Set
+Bearing 6202
+Steel Sheet
+Rivets
+M12
+436
+Measurement
+inne
+Height
+Width
+Depth
+Height
+Heignt
+Diameler
+Naminal
+70.96
+18.48
+49.34
+7818
+9843
+Actual
+70.86
+18.51
+49.21
+7810
+98.39
+Delta
+Passifam
+This closure memo confirms that dimensiona
+checks are complote.
+Components failing inspection require
+Immediate review and corrective action
+Confim that pass rates meet the defined acceptance criteria_
+Ensure
+measuring tools were properly calibrated:
+Instrument Calibration
+Instrument
+Serial No.
+Lusl
+Calibration Date
+CMM
+64414
+2025-02-04
+CMM
+46112
+2025-03-06
+Hinge
+Log:

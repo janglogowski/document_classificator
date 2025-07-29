@@ -1,0 +1,80 @@
+Inspection Record
+Archive this Iist in the quality-management system
+Reter t0 the quality register for sampling-plan reterences:
+This summary supports the production-release quality gate. Please review each checklist point and mark the
+sampling results
+Check that inspection steps follow the approved procedure_
+Use this Iist to confirm
+adherence t0 AQL ad safety standards;
+Contirm tnat sampling levels comply with customer agreements
+This closure summary indicates compliance with inspection criteria_
+Product ID
+TL-90OX
+Customer ID
+FINLAND
+Item Descrption
+Shait 50Omm
+Inspection Checklist Points
+Check
+Category
+Comments
+Intensity
+Component Criteria
+Connector not working
+Crtical impact
+Screws
+oose
+missing
+Leve
+Needs reviel
+CCDEC
+barcode
+abel
+Crtical impact
+Sharp edges
+plastic
+Minor issue observed
+components
+Missing logo
+waming abe
+Leve
+Neeas reviel
+Dead
+Iwve insectin
+Level E
+packaging
+Paint smearing
+or scratches
+Color mismatch
+Level
+Needs review
+Loose parts inside packaging
+Level
+Instruction manual
+missing
+Level
+Critical impact
+damaged
+Rubber texture
+glossiness
+Level IlI
+Critical impact
+mismatch
+Incorrect orientation Inbox
+Level
+Mnor Issue observed
+Missing dstributor intomation
+Leve
+Cntical impact
+Rubber Switch not working
+Needs revielv
+Wood splinter or sharp point
+Level
+Minor issue observed
+onproduct
+Shipping mark is illegible or
+mssing
+Product doesn" pover on
+Leve]
+Supervised by:
+Date:

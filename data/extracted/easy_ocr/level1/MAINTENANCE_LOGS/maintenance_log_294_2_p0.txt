@@ -1,0 +1,110 @@
+Equipment Record Report
+2025-06-18
+Ensure
+safety checks were
+completed during servicing
+Check-
+downtime events
+are properly categcrizec
+logged. Confirm Inat service
+intervals follo the preventive
+schedule_
+The equipment Icg
+inclde:
+correclive noles_
+Allecnnician cammcnis arcneccded onmJinicnancetrcng
+analysis. This log recorcs
+mamnicnancc
+activities performed on Ihe equipment;
+Parts Used:
+Part Name
+Part No
+Qtx Used
+Lilon Batter; Pack
+P3776
+Fuse 54
+P4903
+P3750
+Unit 
+Machine
+Lype
+Operator
+Dowintime
+Last
+Check
+LTea
+Notes
+MC-225
+AsscMDI
+Colccivu
+PClui
+2024.11-09
+Sonsor
+Robjl
+Scnmidl
+fcallbralcu
+MC-259
+paint Bccin
+Inspe ctiom
+Lauga Rossi
+2025-05-19
+Calidratior
+check OK
+MC-287
+Packaging
+Insocctcn
+Lalund
+Rocs
+2025-02-20
+Wamn
+gasket
+renlacen
+MC-210
+CNC Milling
+Corrective
+4nna
+2024-02-22
+Machine
+Notak
+MC-245
+Packaging
+Corrective
+Peter
+2025-03-08
+Changed
+Schmidt
+filters ,
+MC-248
+Convevor
+Inspeclicm
+Lurios
+2024-04-10
+Tahluncu
+Bell
+Garcia
+Ieosu bolls
+MC-281
+Lathe
+Ccrrective
+2024-11-17
+Tightened
+Rowalsk
+Icose bolts
+MC-224
+Paint Bochh
+Prutunlive
+2023-12-01
+Waoden
+Kowalsk/
+chCc  Cd
+Signed off
+Jan Kowalski
+Purlo-medb'
+Arna Navak
+hat
+balon
+codes
+Sparo
+Codo
+Lnc
+nalloi

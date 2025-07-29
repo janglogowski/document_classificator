@@ -1,0 +1,90 @@
+Equipment Record Report
+Performed On: 2023-10-19
+Autnonteu OY;
+Putar Schmnidi
+Operator;
+Laura Rogai
+Use this record
+planupcoming UPKE BP Bno rBPBITS
+Please revieva this log for recent service dates,types_
+And ramatks
+This
+log records all maintenance activities performed on the equipment. Checkthat
+downtime events are properly
+categorzed
+and (oppgo
+Maintenance extract
+prepared
+compliance Judit trails
+Seclan
+Unit Code
+FC-2JS
+MC-212
+MC-296
+MC-272
+Equlpment
+'33emdly Roboi
+Laser Cuttet
+Pelni
+Laseg
+5envice
+Conective
+Preventive
+Creciive
+Corrective
+Opcrator
+Pclur -Cnmot
+Laur
+Rojj
+Putcn Schmnidl
+JunkOivuija
+Duration
+Commentg
+Changed oll and
+Refllled cIl (HLP 461.
+Li-lonbalterpack
+Srmich contacts
+Fltots
+ECrcct
+Cicance
+54clion
+Unit Code
+HC 296
+MC 212
+MC 272
+MC-295
+Equipmen_
+Paint Booth
+Cutter
+Laser Cutter
+Essembly Robot
+Setulce Uype
+InspeCOM
+Conective
+Coireciive
+Cofreciive
+Operalor
+Lauie
+oss
+Peter >chmidt
+Peter Schmidt
+Jankowalaki
+Duration
+Comments
+Replaced coclant
+Alignment
+hinges
+Changed
+Kvenment Ct ningbs
+adjusted
+Flters
+dOIUStCo
+Uptime (ia)
+Etrorcount
+Notes
+96 0944
+Bolt tIghtened
+This
+Boatn
+Cuter
+Type

@@ -1,0 +1,95 @@
+COMPONENT BREAKDOWN
+The component roster below includes unit costs and balch codes:
+This document provides
+detailed breakdown of all components required for the assembly process: Refer to this parts
+register t0 plan raw-material purchasing;
+Below is the component listing and associated costs for
+the upcoming production batch; This extract shows the bill of components and total
+projected
+spend
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption
+Rubber
+pcs
+0.50
+7.50
+High grade
+Gasket
+80mm
+Epoxy
+pcs
+7.30
+350.40
+grade
+Resin Kit
+Contro
+pcs
+12.00
+156.00
+For export
+Panel
+Mount
+Plastic
+pcs
+1.10
+8.80
+Certified
+Cover
+balch
+150x150
+Grease
+1.90
+58.90
+Urgent
+Tube
+250ml
+Copper
+18.60
+High grade
+Wire 3mm
+Heat
+2.70
+43.20
+Resistant
+alignment
+Sleeve
+adjusted
+Aluminum
+pCS
+85.50
+Switch
+Bracket
+tested OK
+Grease
+pCS
+1.90
+62.70
+Eco
+Tube
+compliant
+250mL
+Copper
+0.60
+7,.20
+SKF brand
+Wire 3mm
+All sourcing notes have been logged for audit purposes. Verify that all remark items meet the
+sourcing department's standards_
+Customer ID: FRANCE
+Coordinator: Laura Rossi
+Date
+2024-09-13
+Product ID: LK-890B
+Interna
+No : 7365108
+Order Qty: 245
+Tota
+Amount:
+798.80
+High
+Hinge

@@ -1,0 +1,85 @@
+BILL OF MATERIAL
+Customer ID: FINLAND
+Coordinator: Laura Rossi
+Date:
+2023-02-20
+Product ID: FT-730X
+Intema
+No:: 4963
+204
+Order Qty: 376
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Protective
+3.36
+0%
+1.80
+79.20
+Li-Ion
+Sleeve
+battery
+s0mm
+installed
+Spring
+0.81
+pCS
+0.05
+0.40
+Certified
+Washer
+batch
+M1o
+Wooden
+3.04
+pCS
+15.00
+585.00
+Pallet
+alignment
+adjusted
+Hex Bolts
+0,63
+pCS
+0,25
+7.75
+Imported
+M12
+Digital
+1.5
+10%
+pCS
+15.00
+705.00
+Urgent
+Display Unit
+Plastic
+pCS
+0.20
+4.60
+ISO-
+Rivets
+verified
+Ceramic
+pCS
+2.10
+29.40
+SO-
+Disc 80mm
+verified
+Cross-verify totals with the ERP system for consistency. Check that component quantities align
+wilh
+production run requirements_
+Total
+Amount:
+1411.35
+Approved By:
+Sourcing Department:
+Hinge

@@ -1,0 +1,89 @@
+Quality Review
+#5551977
+Date: 17.07.2025
+Product ID
+KP-320E
+Customer ID
+POLAND
+Item Description
+Connector
+his
+section details quality requirements and test points for the batch:
+Confirm that sampling levels comply
+with customer agreements
+Refer to the quality register for sampling-plan references. Ensure all non
+confoning marks are clearly cocumented_
+This summary supports the production-release quality gate
+The
+following table oullines inspection criteria and classificalion levels. This checklist captures quallty Inspection
+points and sampling levels
+Audit Criteria
+clon
+Category
+Observations
+Depth
+Design Specs
+MA
+Hold
+Shipping mark Is illegible or
+Level Il
+missing
+Exposed nail with sharp
+Level II
+pon
+Screws loose or missing
+Level
+Needs review
+Instruction manual
+Level II
+Critical impact
+missing
+damaged
+Dustidebris inside
+Level Il
+Needs review
+packaeing
+Incorect onentationin pOX
+Level
+Needs review
+Missing logo or warning
+Level III
+Needs review
+abel
+Hinges loose
+Level 
+Minor issue observed
+Rubber Switch not working
+Critical impact
+Missing distributor
+Level III
+information
+Package
+not scaled
+Needs review
+completely
+Connector not working
+Level
+Minor issue observed
+Product doesn [ power
+Critical Impacl
+Wood splinter
+sharp point
+Level E
+Needs review
+proquct
+Packaging does not match
+Minor issue observed
+signed sample
+AQL Level
+Critical
+Minor
+Default
+Customer specilc
+Archive this summary in the audit-readiness folder. Refer t0 notes for any observed defects
+deviations:
+This final note confirms the checklist is complete and approved . Inspection summary
+filed for regulatory
+compliance. Corrective actions are scheduled for identified issues. Checklist results have been reported to
+the quality manager,
+Inape

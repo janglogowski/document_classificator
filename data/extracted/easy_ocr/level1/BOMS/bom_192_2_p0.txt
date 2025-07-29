@@ -1,0 +1,58 @@
+Customer ID: POLAND
+Prepared by: Peter Schmidt
+Product ID: AL-115Q
+Internal
+3417700
+Item
+Clamp
+Sensor Clip
+Epoxy
+Control
+Spring
+Clamp
+Description
+120mm
+Resin Kit
+Panel
+Washer
+120mm
+Mount
+M1O
+Qty
+542
+288
+251
+983
+716
+UOM
+Unit Price
+12.00
+0LOS
+1.75
+Amount
+948.50
+273.60
+832.30
+5.748.00
+49.15
+1,253.00
+Remarks
+Urgent
+Eco
+ISO-verified
+Li-Ion
+alignment
+alignment
+compliant
+battery
+adjusted
+adjusted
+installed
+TOTAL: 10,104.55
+No::
+Ring
+Ring
+pCS
+pcs
+Hinge
+Hinge

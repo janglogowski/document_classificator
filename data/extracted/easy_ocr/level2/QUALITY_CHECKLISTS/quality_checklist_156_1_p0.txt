@@ -1,0 +1,52 @@
+Inspection Record
+#8408935
+Date: 17.07,.2025
+Product ID
+MR-IG0H
+Customer ID
+SWEDEN
+Item Description
+Copper Wlre Jinm
+Use Ihis Ilst =
+confirm adherance t0 AQL and safety standards_
+Use Ihis extract
+coordinate
+slgn-off with
+Ihe QA manager; Ensure all non-conforming marks are clearly documented, Chock Inat Inspecllon steps
+follow Ihe approved procedure
+The (ollowing table oulllnes Inspecilon criteria and classillcallon levels: Thls
+chockilst capturos quallly Inspecltlon points and sampllng lavols_
+Inspection Checkllst Points
+Sampling
+Severity
+Remarks
+Lovol
+Item Specs
+MA
+Hold
+Rubbor
+Toxino
+glossiness
+Level III
+Criiical Impact
+msmalch
+Incorreci barcode or Iabel
+Level !
+Mnor Issue observed
+Package
+nol suuled
+completaly
+Incornec
+onantalion
+box
+Minor Issue observad
+Unstruction mnanual
+nussing
+Level 
+damaged
+AQL Level
+Crillcal
+Major
+Mnor
+Default
+Customer speciflc

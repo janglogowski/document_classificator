@@ -1,0 +1,28 @@
+Component Overview
+Report No: PR-901
+Product ID: PW-515Y
+Date: 2024-12-17
+Unit Type
+Hydraulc Power Unit
+Design Pres sure
+180 bar
+Flow Rate
+60 Lmin
+Voltage
+480
+60Hz
+Cooling
+Water-cooled
+Reservoir Capacity
+160
+exchangor
+Service Interval
+1000
+Total Weight
+250 kg
+Working Tomp. Range
+5"C to 45*C
+Noise Level
+68 dB(A)
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt

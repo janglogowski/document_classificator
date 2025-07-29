@@ -1,0 +1,68 @@
+Product Data Sheet
+Report
+8050799
+Product
+DX-777T
+2024-06-27
+Model Type
+Hydraulic
+Unit
+Design Pressure
+250 bar
+Fluid Flow
+Voltage
+50Hz
+Nolse Level
+70 dB
+Coollng_
+Ain-coolei Qinmdator
+Pump Iype
+Piston Pump
+Dimensions ILXWXH
+1000 * 650x 1000 mm
+Battery Capacity
+Working
+~Cto
+45"€
+Charging Time
+Reservoir Capacity
+120 [
+Component Materials Overview:
+Subcomponent
+Raw L
+Specification
+Ring NBR GOmm
+Nitule Rubber INBR)
+Anticorrosive
+Capacitor
+450
+Alumninum G0g1-Tg
+Ancorrosi
+Gaskel sheel 44
+Nitille Rubber INBR)
+Electrica
+Therma
+FUS @
+Ceramic Ojide
+ISO 2768
+Sneet 436
+Carbon Steel
+Heat-resistant
+Heat Sink ALU
+Aluminum 6061-T6
+Anticorrosive
+Support Foot Stee
+Stainless Steel 304
+certified
+Prepared by:
+Rossi
+Approved by: Anna Nowak
+No:;
+Date.
+Poxer
+Temp:
+Range
+Matetia
+Blada
+Siee
+Laura

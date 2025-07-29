@@ -1,0 +1,145 @@
+Maintenance Checklist Report
+Performed On: 2024-09-05
+Signed oll:
+Carlas
+Garcia
+penonmned
+Carc
+Below
+tnc summar' onsenvice
+acons
+Jnd downtintus
+eacn Macnine
+Entries include
+wiork Orders , technician
+assignments
+and par
+Enaure
+satety checks Wen
+completed during servicing
+This seclion
+capiures
+equ pment status and any maintenarcu observations
+fcllowing
+Anines
+cclail pravenvc and
+coMecive maintenance
+lasks
+Section A:
+Machlno
+MC 299
+MC-207
+MC-206
+MC-?22
+MC 227
+MC-288
+Machine
+Hydraulic
+Hydraullc
+Assembly
+Pairt Baath
+Plsma
+Packaging
+Prass
+Rabci
+Line
+Lxpe
+Pravenve
+Preventive
+Pfeveniive
+Proventwve
+Provenlive
+nspection
+Operator
+Anna Nourk
+Ama Kowar
+Jan Rcwaiski
+Jan Kovrkki
+Anna Nowal
+Ueme
+Rossi
+Duration
+Commeni
+Calibratlon
+Lalcn
+ballery
+Ruplaced
+Waoden
+Ren aced
+Sensor
+chack Ok
+dack
+(5A).
+Dalli
+ccolani
+librated
+3enviced:
+checked
+Section
+Machine
+MC-?68
+MC-222
+MC-299
+MC-206
+MC-227
+Machine
+Packaging
+Hydraulic
+Paint Booth
+Hydraulic
+As3umiolt
+Plasma Cutter
+Press
+Press
+yde
+Urspection
+Prevantive
+Imgpeciior
+nzucclicn
+Colective
+Operato
+Guicia
+Peter Schmidt
+Ama Nowak
+Jan Kowalskll
+Carlos Garcla
+Preventive
+Garcie
+Duratian
+Cainments
+Replaced
+Seneom
+Replaced
+Wcnden
+Replaced
+54).
+rccalibratec
+(S4}.
+pallel
+cojlan;
+cnacken
+Ensure that
+each seNice
+entry
+0as Ip
+equired approvals
+Flag any recurring issues far root-cause Irivestigation
+Tnis log
+summary supports
+the asset-managerient dashboard
+Overall equipment condilion
+3am3accn
+Posi-Mamnienance
+Uptime (%)
+Etorcount
+Noles
+90.749
+Replaced filtet
+Carc]
+changus
+Cutler
+Picas
+NC-20
+Roboi
+Carles
+Carlos

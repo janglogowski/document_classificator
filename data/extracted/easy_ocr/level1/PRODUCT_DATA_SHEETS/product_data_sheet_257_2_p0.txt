@@ -1,0 +1,57 @@
+Product Overview
+All data entries are traceable
+design revision history: Entries includ
+both mechanical and electrical specifications
+Below are the technical parameters and construction materials for the unit Confirm that performance ranges comply
+with project requirements- Tne -
+following infarmation outlines Ferformance characteristics and design data The
+parameter
+register below includes operating limits and ratings,
+Product ID
+NE-2454
+interna
+No;;
+2684230
+Preparec
+bv; Anna Nowak
+Approved bY: Carlas Garcia
+Date: 2023-11-22
+Model Type
+Fneumatic
+Contral Unit
+Rated
+Pressure
+210 par
+Fluid
+60 L{min
+Voltage
+A00
+50 Hz
+Mounting
+Skid base with vibratlon
+Frame Material
+Stalnless Steel Frare
+pads
+Cooling
+Water-coolled
+excnanger
+Filtration
+uminine
+1Q 4m return
+specifications meet the
+requirements
+and industry standards
+Check that
+section headers fallow the
+product
+template: Use this summary
+Cross
+check with BOM and inspection reports
+Flag any missing parameters for
+Ureenl
+specification updates. This summary reflects thc Iatest revision of the product data: Ensure
+lossary tcrms
+match the engineering namenclature
+Confirm that alltest conditions are accurately represented
+Flov
+desiain

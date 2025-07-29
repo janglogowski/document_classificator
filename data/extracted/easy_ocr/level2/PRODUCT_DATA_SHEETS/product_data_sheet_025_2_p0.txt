@@ -1,0 +1,67 @@
+Unit Configuration
+renulrements ard tolerances The parameter
+uelow
+Uricludes operating
+Use thls shect
+conficm encincccing
+sheet to validate assembly Instructiors; The followlng infarmatlon outlines
+Unts and ratings. Use thus spec :
+characteristics and deslgn data Refer
+thus confipuration summary for unit-des Gnation mapping:
+performance
+Product ID;
+MC-54OX
+4807925
+MetrfMT
+Prepared by; Anna Nowak
+Approved by: Carlos Garcia
+Date; 2023-07-22
+Ciculanon
+Deslgn Pressure
+210 bar
+Unit Type
+Cooling
+Syster
+Operating Voltoge
+230
+50 Hz
+Throuchput
+10"Ct0 50"C
+Pratectlon Clas$
+IPG5
+Working Temp: Range
+Motor Power
+5,5 Ki
+Battery Cpaclty
+Usted materials are approved for the
+Ensure Blossary terms ratch the eneineerirg
+Ensure that the
+process data have
+nomenclature This closure note Indicates the data sheet [
+ready far release; Material choices:
+for compllarce
+Refer t0 parameter table for operating rarges and tolerances. Check that 
+sectlon
+been ver fled
+headers follow the product template: Data sheet has been peer revlewed by the engineering team;
+Material
+Canstruction:
+Le
+Ldte
+Nitrile Rubbcr (NBRI
+Cable Tie Pack(i0o)
+Lithlum-Ion Cell Pack
+Battery Pack
+Graphita Pau
+Graphite Pad
+Stalnkas
+Steel 304
+Hlnge
+ABS Plastlc
+Digital Dlsplay Unit
+Sucont
+Rubber
+Cooling Gel Pack
+(eknor
+Umn
+wppllcationa

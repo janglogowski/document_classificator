@@ -1,0 +1,92 @@
+COMPONENT BREAKDOWN
+Use this breakdown to verify sourcing and cost estimates_
+All entries reflectthe latest inventory and
+supplier rates
+Please reviow the itemized list of parts and material specifications before
+procurernent: The following table surmarizes the materials and quantities needed for the current
+project:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Spacer
+0.15
+5.70
+Urgent
+2mm
+Epoxy
+.30
+233.60
+Urgent
+Resin Kit
+Cable Tie
+12.35
+Imported
+Pack (100}
+Clamp Ring
+pcs
+1.75
+82,25
+120mm
+Aluminum
+pCs
+13.50
+ISO-verified
+Bracket
+Digita
+pCs
+15.00
+240.00
+ISO-verified
+Display
+Unit
+Wooden
+pCs
+15.00
+615.00
+Imported
+Pallet
+Terminal
+pCS
+3.40
+27.20
+ISO-verified
+Block 4P
+Digital
+pCS
+15.00
+105.00
+Display
+alignment
+Unit
+adjusted
+Ceramic
+pCS
+2.10
+56.70
+Disc 8Omm
+Grease
+pCS
+.90
+51.30
+Urgent
+Tube 250ml
+All sourcing notes have been logged
+audit purposes: The cost subtotal supports financial
+forecasting for the next cycle_
+Customer
+D: BELGIUM
+Coordinator: Anna Nowak
+Date: 2024-07-14
+Product ID: TR-2O0B
+Internal No_
+3259234
+Order Qty: 206
+Total Amount:
+1,442.60
+pCs
+Hinge
+foi

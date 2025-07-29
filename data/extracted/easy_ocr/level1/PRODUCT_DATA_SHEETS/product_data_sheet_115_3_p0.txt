@@ -1,0 +1,53 @@
+Component Overview
+Interno
+No:: 4908850
+Product
+BZ-660F
+2024-03-03
+Configuration Type
+Cooling Circulation
+Rated Pressure
+250 bar
+Svstem
+Throughput
+60 Limin
+Supply Voltage
+230VASO Hz
+Mounting
+Skid base with
+vibration
+Filtration
+10 um return
+pads
+Dimensions (LxWxHL
+1000
+650
+1000
+Oil Type
+HLP 46
+Working _
+Range
+5 "Cto45"C
+Control Valve
+Propartional 4/2
+Campanent Materials Overview:
+Composition
+Specification
+Rubber Gasket 8Omm
+Nitrile Rubber INBR)
+RoHS compliant
+Bearing 6202
+Stainless Steel 304
+RoHS compliant
+Hex _
+Zinc-Plated Stee
+certitied
+Grapnite Pad
+Grapnite Pad
+certified
+Prepared by: Jan Kowalski
+Approved by: Jan Kowalski
+Date.
+inline,
+Temp
+Bolts

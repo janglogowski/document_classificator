@@ -1,0 +1,137 @@
+Production
+Report No_
+PR-156
+Customer: BRAZIL
+Shift:
+(Morning)
+Date
+08-03-2025
+Equipment
+Operation
+Operator
+From
+Time
+Uwagi
+Stage
+Spent
+MC-209
+Culting
+Agnieszka
+09.00
+10,34
+NIA
+Completed
+Zielinska
+MC-209
+Welding
+Nadia Sauter
+13.00
+14.38
+Completed
+MC-207
+Cutting
+Bartosz
+11.15
+12.05
+Delay
+Wawrzyniak
+progress
+MC-203
+Drilling
+Mateusz
+11,30
+12,37
+Delayed
+Jarzyna
+MC-201
+Drilling
+Przemysiaw
+12.30
+14.18
+108
+Completed
+Wasik
+MC-202
+Cutting
+Piotr
+07:15
+09:12
+Completed
+Lewandowski
+MC-203
+Polishing
+Piotr
+07:00
+07.46
+Recalibraled
+Delayed
+Lewandowski
+MC-206
+Polishing
+Przemyslaw
+12.30
+13.47
+Delay
+Delayed
+Wasik
+MC-204
+Assembly
+Jan Kowalski
+11.30
+11,54
+progress
+MC-205
+Cutting
+Piotr
+09:15
+11.10
+115
+NA
+Delayed
+Lewandowski
+This closure sumimary signals readiness
+the next production run
+Ensure shift-handover notes include
+pending issues. Note any unscheduled stops in the downtime register. The perfomance recap supports
+the moming briefing agenda
+Product ID
+Planned
+Actual Qty
+Defect Qty
+Rejection
+Rework
+Notes
+Count
+XD-TIOR
+196
+194
+02%0
+Rework
+needed
+AL-115Q
+238
+221
+14%6
+Scrap
+confirmed
+TX-820v
+300
+283
+5.67%
+Rework
+needed
+SB-140D
+110
+108
+8290
+Scrap
+confirmed
+NE-245A
+150
+143
+4.67%
+Scrap
+contirmed
+Approved by: _
+Prepared by:
+Log

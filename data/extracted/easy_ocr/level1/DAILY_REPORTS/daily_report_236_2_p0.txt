@@ -1,0 +1,140 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-862
+Customer
+NORWAY
+Supervisor:
+Peter
+Schmidt
+Departmeni:
+4ssemiui
+Shift:
+(Morning_
+23-02-2024
+This report summarizes the daily
+perations and output for the production Iine: This dashboard section highlights any
+productlon boltlenecks- The line-outpul
+caplures all production Events for the
+Machine
+Process
+Technician
+Start
+Finish
+Time
+Uwagi
+Therma
+Energy
+Time
+Spent
+Reading
+Used
+MC-204
+Assembiy
+Nadia
+08.00
+09.39
+57.2
+1.65
+sauter
+Mc-208
+Assembly
+Bartosz
+12.15
+13.15
+57.1
+2.38
+Wawrzyniak
+MC-204
+Drilling
+Nadia
+11.30
+12,02
+N{A
+67,2
+2,15
+sauter
+Mc-209
+Polishing
+Mateusz
+12.30
+14,07
+Recalibrated
+74,2
+1,45
+Jarzyna
+MC-205
+pesembiy
+Magdalena
+14.15
+14,55
+Delay
+68,5
+1,44
+Uko sk7
+MC-204
+Drilling
+Przemyslaw'
+09.15
+10,59
+64.7
+Wasik
+MC-202
+pesembiy
+Agnieszka
+10 00
+11.22
+Recalibrated
+56.1
+2.79
+Zieliriska
+MC 207
+Welding
+przemysijv
+10.00
+10.26
+NYA
+60.4
+Wasik
+MC203
+Drilling
+Mateusz
+06.15
+07.13
+67.3
+2.95
+Jarzyna
+MC 207
+AsscmibIY
+Mateusz
+07.30
+08.14
+NYA
+58.1
+1.40
+Jarzyna
+MC-209
+Assembly
+Wiktor
+09.15
+11.15
+120
+Recalbraled
+61.1
+1.20
+Kopczyriski
+MC 205
+AsscmbIY
+Amno
+07.15
+08.54
+76.0
+2.03
+Nawak
+Prepared by:
+Lario'
+Approvcd Oy:
+Kowalski
+registet
+~day-
+Delay
+Gaicia

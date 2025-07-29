@@ -1,0 +1,121 @@
+Equipment Record Report
+Performed On; 2023-12-13
+Stenedolf;
+Petco Schmnidi
+Performed b%:
+Anna Nowak
+Uacthis-umman
+larecsinantsrenacementandresnuronneed
+This maintenance exiract
+prepared for compllance audlt
+Ualls
+Refet
+mdintcnancererister tor
+detailed service histories. Check that
+downtime events arg properly categorized and
+legeed:This log records
+maintenance aclivilics performed
+equipment
+eauinmeni
+log below indudes (ault codes and
+correctmvenoles:
+ectlon
+Mactine
+MC-272
+MC-265
+MC-269
+MC-291
+MC-281
+MC-ZIO
+Macnine
+Plasma Culter
+Hydraulic Press
+CNC Milling
+Packaging Line
+Conveyor Belt
+Conveyor Belt
+Machine
+Service Type
+contec[ve
+Pntwveniive
+Correciyt
+Preventive
+Inspectidt
+corrective
+Technician
+Lquta Rassi
+nnS
+Nowak
+Anna
+Peter Schridt
+Lduro
+R0s
+Lano'
+Gorcin
+Dorntme
+Camments
+Sensor
+Worn gasket
+Worn gasket
+Wooden pallet
+Replaced
+recalibrated
+reclacec
+repiaced;
+recaibrated
+cneczed
+coplant
+Section [
+Machine
+MC-265
+MC-269
+MC 272
+MC 291
+MC-210
+MC 281
+Mncnine
+Hydraulic Press
+CNC Milling
+Plasma Cutter
+Packaging Line
+Conveyo
+Belt
+Conveyor Belt
+Nachine
+Senlce
+nsuectan
+Unsoecton
+Insoectiom
+Corrective
+Corrective
+Inspection
+Technlcian
+Louta Rossi
+Amna Nowat
+Curlos Gurcla
+Jankowakki
+Canios Garcin
+Peled Schmidt
+Downtime
+comments
+Replaced fuse
+Wehtened
+Suriich contacts
+Chanped Ol
+wooden pallet
+Li-lonpalten
+(54i:
+10dei
+bolts
+cleaned
+and Flters
+checked
+efuiced
+Uptime (%e]
+Error Count
+Notes
+nc
+Howda
+SeniCt
+Thpe
+pJck

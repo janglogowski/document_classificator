@@ -1,0 +1,86 @@
+Maintenance Checklist Report #1164671
+Date: 2025-07-09
+Unit Codr
+Maching
+Tync
+Opcrato
+Duration
+Notu
+MC-272
+Assembiy
+Preventive
+Carlos Carcia
+Flant 2E
+Refilled oil
+Rohat
+IHLP 46)
+MC-246
+Lager Cutter
+Praventive
+Laure
+Rosgi
+Plant 1C
+Wooden pBller
+checked.
+NC-2Jo
+Plasme
+Cutter
+Insp eCtion
+Laure
+Roy;i
+Plant 34
+No SSUBS
+almc
+MC-ZUZ
+Lathe
+Insp BCticn
+Laure
+RO5si
+Flant 2B
+Replaced fuse
+MC 255
+Pulc*Ukink
+Pruvuntive
+Anna Nowuk
+Culiumulion
+check OK:
+NC767
+Packaging
+Corrective
+Anna Noutek
+Plant ?8
+Mignment
+ninpeg
+adjusted
+MC-251
+Packaging
+Corrective
+Jan Kowvaiski
+Plant IC
+Sensom
+cucAibralted
+MC-245
+Fidraulic
+corrective
+Carlos Garcia
+Flant IC
+Replaced fuse
+Pruss
+Intenance tasks have been completed
+per schedule
+Check remalning Iife-cycles
+ey comaonent:
+Kom thls
+report
+Uverail equipment condition
+satstctor post-mbintenance
+No critical faults were found during the latost
+Inspection
+This log summaty supports the asset-management dashhoard
+Lubrication Checked
+Callbiation Verilled
+Emergenc aiop
+aRen
+Authorized by:_
+Operator
+Ean -

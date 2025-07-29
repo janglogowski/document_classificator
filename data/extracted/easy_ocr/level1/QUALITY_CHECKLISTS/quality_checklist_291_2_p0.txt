@@ -1,0 +1,86 @@
+Quality Verification
+Refer to the quality register for sampling-plan references. This checklist captures quality inspection points
+and sampling levels_
+This summary supports the production-release quality gate
+This section details quality
+requirements and test points for the batch: This closure summary indicates compliance with inspection
+criteria
+Please review each checklist
+and mark the sampling results. The following table outlines
+inspection crileria and classificalion levels.
+Product ID
+GH-770J
+Customer ID
+POLAND
+Item Description
+Battery Pack
+Inspection Checklist Points
+Inspection
+Category
+Remarks
+Depth
+Design Specs
+Hold
+Dustidebris inside packaging
+Level
+ISsue
+observed
+Sharp edges on plastic
+Critical impact
+components
+product size
+Level
+Missing distributor
+Level
+Critical impact
+information
+Incorrect orientation inbox
+Needs review
+Hinges loose
+Needs review
+Instruction manua
+missing
+Level III
+Needs review
+damaged
+ncorrect
+quantity
+Level
+assunmnen
+oose pants
+packaging
+Needs review
+Shipping mark is illegible or
+Level III
+Critical impact
+missing
+Rubber texture or
+glossiness
+Level IlI
+mismach
+Not assembled as per
+Critical impact
+drawing
+Package
+not sealed
+Level IlI
+Crilical impact
+completelz
+Functionalilly test (ailed
+Needs reviewv
+Dead
+live insect
+Level /
+Needs review
+packaging
+Wood splinter or sharp point
+Critical impact
+on product
+Rubber Switch not working_
+Level
+Supervised by:
+Date:
+point 
+Minor
+Wrong
+inaide

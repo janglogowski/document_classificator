@@ -1,0 +1,90 @@
+Machine Log Summary
+2024-07-14
+Alltechniciancomments ure
+ccorded tor maintenance
+tend analysis
+This service summary supports the reliability
+engineering review. This section captures equipmert status and any maintenance observations
+Ensure all salety checks
+viere completed durng wervicing
+The following entres deta
+preventive and
+comective maintenancetaske
+Spare Parts Used:
+part Namo
+Oty Used
+Sensor Module
+0-7R42
+Hydraulic Hos
+P-2532
+Li-ion Balter Pack
+9910
+Nachine ID
+Equlpment
+Operator
+Dovntime
+Last Check
+Notes
+MC 221
+Plasra
+Pruvuntmvu
+Luuru Rossi
+7074-01-02
+No issues
+Cutter
+tcund
+MC-259
+Hydraulic
+Pruventivu
+Curios
+2025-04-27
+No Ijjucs
+Ptess
+Garc Iin
+tound
+MC-Z/0
+Packaging
+CorreCtb
+Peibr
+20z4-04-US
+Calibraticn
+50hmnde
+check OK
+MC-238
+Fbint Bocth
+Praventie
+Anna
+2023-09-08
+Repiaced
+Noivak
+conani
+MC-?77
+CNC
+Millng
+Prevenive
+Lamia Foaei
+7074-07-07
+Machine
+MC-791
+4S 9embly
+UnsnHcOm
+2023-12-27
+Sansog
+Robot
+Kowalski
+re calprated
+MC-230
+CNC
+Milling
+Corre ctn/B
+4nna
+2024-10-24
+Wooden
+Machine
+Nowvak
+checked
+Sianed om
+JaniowblskI
+Pertormed bya
+Cados Gaicia
+Type

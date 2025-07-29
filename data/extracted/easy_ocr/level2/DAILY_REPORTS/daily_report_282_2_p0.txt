@@ -1,0 +1,109 @@
+Shift Summary
+PR-486
+Report No :
+BRAZIL
+Customer:
+Jan Kowalski
+Supervisor;
+Maintenance
+Deparment:
+A (Morning
+73-06-2025
+Shift:
+today's shift Refer =
+this log
+of machine performance and output figureth
+and efficiency levels.
+Below
+overview
+Use this OvOrvicw -
+assess throughput
+shift
+productivity and cycle
+Thermat
+Energy
+Duration
+Uwag
+Reading
+Used
+Process
+Technician
+Begin
+72.2
+1.62
+Machine
+09.15
+11.14
+119
+MC-204
+Drilling
+Dawid
+65.0
+2.02
+Oszmianczuk
+09.30
+10.37
+62.4
+1.18
+Polishing
+Nadia Sauter
+MC-208
+Polishing
+Bartosz
+13.30
+MC-205
+62.9
+Wawrzyniak
+12.15
+14,07
+112
+MC-203
+Polishing
+Agnieszka
+Zielliska
+10.33
+209
+Drlling
+Nadia Sauier
+09.15
+12.34
+Delay
+1.17
+MC
+Nadia Sauter
+11.30
+62.9
+MC-205
+Cutling
+cna
+07.30
+09;11
+101
+MC-202
+Drilling
+Magowvena
+Recalibraled
+56.2
+2.90
+13,55
+Polishing
+Piotr
+MC-204
+ewandowski
+76.8
+13.30
+14,30
+Cutting
+Bartosz
+MC-208
+Wawrzyniak
+Kowalski
+Prepared by
+Peter Schmidt
+mantor
+counts
+(min)
+15 00
+72 30
+1.12
+Appiovod

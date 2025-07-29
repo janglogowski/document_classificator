@@ -1,0 +1,66 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Insulation
+pCS
+80.00
+Foam Pad
+alignment
+adjusted
+LED Light
+2.50
+57.50
+High grade
+Strip
+Control
+pCS
+12.00
+84.00
+Urgent
+Panel
+Mount
+Steel Sheet
+275.00
+A36
+alignment
+adjusted
+Digital
+15.00
+135.00
+Display
+alignment
+Unit
+adjusted
+Packaging
+pCS
+24.00
+Urgent
+Box
+Hex Bolts
+pcs
+9.25
+Urgent
+M12
+Rubber
+18.00
+Switch
+Gasket
+tested OK
+80mm
+Customer ID: BELGIUM
+Coordinator: Peter Schmidt
+Date: 2025-07-07
+Product ID: DX-777T
+Internal No_
+9382006
+Order Qty: 282
+Total Amount:
+682.75
+Hinge
+Hinge
+Hinge

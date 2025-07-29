@@ -1,0 +1,92 @@
+BILL OF MATERIAL
+Customer ID: NORWAY
+Coordinator:
+Launo
+Rocsi
+Date
+2024-01-08
+Product ID
+BZ 660F
+Interna
+4095271
+Order Qty: 185
+Thisextract shows the bill of components and total projected
+spend_
+Use this breakdown to verify
+amcost ,
+estimates:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Description_
+Remarks
+Copper
+0,56
+0.60
+27.60
+Wire 3mm
+Rubber
+2.52
+10%
+0.55
+19.25
+Stopper
+Plastic
+1.65
+1.10
+Cover
+18.70
+SKF brand
+150x150
+Plastic
+0.51
+0.20
+4.40
+Rivets
+alignment
+adjusted
+2.72
+0.60
+25,20
+High
+Wire 3mm
+Plastic
+2.81
+grade
+0.20
+6.00
+Imported
+Bearing
+1.18
+pCS
+1.50
+37.50
+6202 ZZ
+Urgent
+Copper
+0.47
+0.60
+24.00
+Wire 3mm
+export
+Control
+1.14
+12.00
+588.00
+Panel
+Li-Ion
+Mount
+installed
+Total Amount:
+750.65
+Approved By:
+Sourcing Department:
+sourcing
+Hinge
+Copper
+Rlvets
+battcny

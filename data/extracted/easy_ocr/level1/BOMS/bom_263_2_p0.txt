@@ -1,0 +1,39 @@
+Customer ID: NORWAY
+Prepared by: Anna Nowak
+Product ID: PL-601Z
+Internal No:: 8594910
+Below is the component listing and associated costs for the upcoming production batch: The
+component roster below includes unit costs and balch codes
+Use this schedule of
+to align
+with sourcing and stock levels. Use this breakdown t0 verily sourcing and cost estimates
+secition oullines the
+unit prices and total amounts for assembly. This extract shows the bill
+components and total projected spend;
+No
+Item Description
+Battery Pack
+Plastic Rivets
+Battery Pack
+Qty
+833
+150
+947
+UOM
+pCS
+pCS
+pCS
+Unit Price
+25.00
+25.00
+Amount
+20,825.00
+30.00
+23,675.00
+Remarks
+For export
+Certified batch
+TOTAL: 44,530.00
+parts
+This
+parts

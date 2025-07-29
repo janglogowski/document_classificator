@@ -1,0 +1,87 @@
+Conformance Report
+#7545149
+Date: 17.07.2025
+Product ID
+TX-BZ0v
+Customer ID
+GREECE
+Item Description
+Tellon Tape Roll
+This checklist captures quality inspectian points ard samipling levels _
+closure Surrany indicales
+compliance with inspection criteria, The following table outlines inspection criteria and classification levels
+ensurc ailnon-
+conformingmarks are clearly documented. Use this list to confirm adherence
+AQL and safety
+standards- Reler t0 the quality register for sampling-plan references
+Confirm that sampling levels comply with
+customer agreements, Please
+each checklist =
+mark
+sampling results
+Audit Criteria
+Check
+Category
+Remarks
+Intensity
+Item Specs
+Packaging does not match
+Levei
+Criticalimpact
+siened Sampic
+Conn
+ctornom
+working
+Levei
+incorrec
+omentation
+Levei
+Visua
+damecton
+housing
+Levei
+Minor issue
+npsened
+Rubber Switch not working
+Minorssue
+Dbsunved
+Paint smearing
+Scralculs
+Critical impact
+ncorreckauantit Or
+ISSUL Observed
+dasorimcn
+Missing safety labels
+Missing logo
+waming labcl
+Package
+not sealed
+Level IlI
+Critical impact
+completely
+Carton
+damaged
+markings
+Level III
+Needs review
+Wncdnec
+Dustidebris inside packaging
+Level III
+ISSUC OpSeied
+Sharp edges on plastic
+Level |
+Minor issue observed
+comdonents
+AQL Level
+Critical
+Default
+Customer
+specitic
+Tavie 
+point
+and
+Anc
+Minor 
+Minor
+Mojor
+Ninot

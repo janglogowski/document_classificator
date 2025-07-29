@@ -1,0 +1,35 @@
+Unit Data Specification
+This data sheet provides key specifications and material details. The following information outlines
+performance characteristics
+design data; This section details the configuration and parameter set for the
+product   Inis report extract
+prepared for design-verification audits. This technical overview supports the
+product-release checklist:
+Product ID:
+SL-430M
+Report No
+1187180
+Prepared by: Laura Rossi
+Approved by: Anna Nowak
+Date: 2024-01-18
+Model Type
+Cooling Circulation
+Design Pressure
+180 bar
+System
+Fluid Flow
+48 Lmin
+Supply Voltage 
+480
+60Hz
+Battery Capacity
+Qil Type
+HLP 68
+Motor Power
+kW
+Confirm that all test conditions are accurately represented. Archive this summary for future design-change
+management: Document control numbers are included for
+traceability. This closure note indicates the data
+sheet
+ready for release. Check that all section headers follow the product template:
+and

@@ -1,0 +1,119 @@
+Shift Summary
+Repor No :
+PR-832
+Customer
+SWEDEN
+Supervisor:
+Anna Nowak
+Department:
+Quality Contral
+Dale
+05-08-2023
+Shift:
+(Night)
+Machine
+Task
+Worker
+Begin
+Total
+Comments
+duratlon
+MC-203
+Polishing
+Piotr
+12.15
+12.49
+Lewandowski
+MC-205
+Welding
+Jan Kowalski
+08.30
+08.52
+Kecambrated
+MC-206
+Polishing
+Przemystav"
+13,00
+13.30
+Delay
+Wasik
+MC- 204
+Welding
+Piotr
+09.15
+09.41
+Recalibrated
+Lewandowst
+MC-207
+Polishing
+Anna Nowak
+10:15
+NIA
+MC-201
+Arsemniv
+Nadia Sauter
+13.15
+1355
+MC-206
+Cutting
+Dawid
+13;30
+14-17
+Oszmianczuk
+MC-206
+Drilling
+Wiktor
+12,30
+13.59
+NIA
+Kopczynski
+MC-209
+Assemoly
+Piotr
+13.00
+120
+Lewandowski
+MC-201
+Polishing
+Wiktor
+13.15
+14.40
+Recalibrated
+Kopczynski
+Item ID
+Target Qty
+Actual Qty
+Rejected Qty
+Rejection
+Remarks
+QP-660F
+103
+0,9796
+Scrap
+contirmed
+MX-450L
+239
+220
+9596
+Scrap
+confirmed
+MS-G00P
+264
+241
+8,7196
+Rewanz needed
+HF-390A
+135
+4,4456
+Scrap
+confirmed
+MX-450L
+220
+205
+6,8206
+Scrap
+confirmed
+Prepared by:
+Anna Nowak
+Approved Dv:
+Jan Kowalski

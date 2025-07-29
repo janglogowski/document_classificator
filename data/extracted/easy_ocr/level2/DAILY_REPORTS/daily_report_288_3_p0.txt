@@ -1,0 +1,121 @@
+Production Log
+Report No:: PR-677
+Customer; BELGIUM
+Shift: _
+(Morning)
+Date: 07-04-2025
+Machine
+Operator
+Start Time
+Duration
+MC-207
+Cutting
+Magdalena
+(min)
+14.30
+14.59
+MC 203
+Witkowska
+Mateusz
+Jarzyna
+14.45
+MC-203
+Drilling
+Piotr
+progiess
+Lewandawski
+11.54
+MC-209
+progtess
+Jan Kowalski
+Mc-204
+Polishing
+Kowalski
+MC-201
+Drilling
+13.15
+14.39
+Delau
+Drwid
+06.15
+07.04 .
+Recalibrated
+Completed
+MC-202
+Polishing
+Bartosarguk
+Completed
+13.15
+14,50
+MC: 208
+Wawrzyniak
+N/A
+Completed
+Agnieszka
+08.30
+03.11
+Zielinska
+Mc-206
+Polishing
+Bartosz
+Completed
+13,15
+14.35
+Wawrzyniak
+Recalibrated
+Record any
+adjustments
+shift schedules
+highlighted
+Use this summary
+statting here. All production targets have
+uudale
+the Overall
+been lopged; deviations are
+expectations for the day: Check material
+dashboard: Overall production
+consumption against standard
+performance
+UsaBe rates
+Product I0
+Planned
+Produced
+Rejected
+Rejection
+NU-440z
+Reworked
+148
+Units
+13.9596
+Tr-Z008
+Rcwork
+needed
+11.9290
+7376
+SL-430M
+Scrap
+7.54%5
+confifrmed
+Approved by:
+Prepared by:
+Process
+Comments
+Status
+Pollshing
+progre $
+14.15
+pelav
+11,00
+Welding
+07.15
+08.19
+Inpiogress
+Delav
+Welding
+Completed
+adove_
+production
+Output
+Notet
+Lk-8508
+148

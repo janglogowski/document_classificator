@@ -1,0 +1,57 @@
+Product Data Sheet
+Project:
+CE-905L
+Interal No
+4504136
+Prepared
+Laros
+Garcia
+Approved By:
+Anna Nowak
+Location: Plant 2B
+Date; 2025-05-17
+Configuration Type
+Paeumatic Control Unit
+Operating Pressure
+80 ba
+Flow Rate
+75 Umin
+perating_ Voltage
+480
+60Hz
+Oil Iype
+HLP 46
+Motor Power
+Cooling
+Air-cooled oil radiator
+Working Temp
+Range
+50'C
+Frame Materal
+Auninum Frame
+Total Weight
+250 ko
+Noise Leve
+68 dBLA)
+Charging_Time
+Service Interval
+1000
+Pump Type
+Pump
+Mounting
+Wall-mounted
+Battery Capacity
+Dimensions LLxWxH
+1200
+700
+1100 mm
+Confirm that all test conditions are accurately represented
+AIl summary comments have been recorded in
+Ihe revision log_
+Reler t0 parameter table for operating ranges and tolerances. Check that all section
+headers follov the product template
+Ensure glossary terms match the engineering nomenclature
+specifications meet the design requirements and industry standards;
+This summary reflects the latest
+revision of the product data
+Geal

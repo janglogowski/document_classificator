@@ -1,0 +1,138 @@
+Production Log
+Report No:: PR-294
+Customer: SWEDEN
+Shift:
+(Morning)
+Dato: 02-11-2024
+Machine
+Process
+Worker
+Start
+Finish
+Duration
+Comments
+Status
+Ime
+(Mid
+MC-204
+Culting
+Dawid
+12.30
+14.15
+105
+Completed
+Oszmianczuk
+MC-204
+Polishing
+Przemysiaw
+10.00
+11.46
+106
+Recalibrated
+Delayed
+Wasik
+MC-208
+Welding
+Przemysiaw
+06.30
+07.05
+Delay
+Delayed
+Wasik
+MC-201
+Cutting
+Mateusz
+13.15
+14.34
+Delay
+Completed
+Jamzyna
+MC-207
+Cutting
+Piotr
+06-00
+07.48
+108
+NA
+Completed
+Lewandowski
+MC-205
+Welding
+Mateusz
+13.00
+13.26
+NVA
+Delayed
+Jarzyna
+MC-202
+Drilling
+Nadia Sauter
+06-00
+07.31
+Completed
+MC-20g
+Assembly
+Dawid
+13.15
+15.11
+Delay
+Oszmianczuk
+progress
+MC-204
+Welding
+Piotr
+11.30
+12.45
+Recalibrated
+Completed
+ewandowski
+MC-204
+Polishing
+Mateusz
+07.00
+08.11
+Completed
+Jarzya
+MC-206
+Anna Nowak
+08.00
+08.55
+progress
+Ensure routine maintenance between shifts
+maintain consistent output Note any unscheduled stops in
+the downtime register. This closure summary signals readiness for the next production run: Ensure shilt -
+handover notes include any pending issues.
+Item ID
+Target Qty
+Actual Qty
+Rejected
+Scrap %
+Rework
+Comments
+Qty
+Count
+WD-1805
+111
+109
+80%
+Rework
+needed
+VR-940T
+273
+249
+8.79%
+HF-390A
+262
+257
+1.91%
+Rework
+needed
+QP-660F
+186
+159
+14.52%0
+Rework
+needed
+Approved by:
+Prepared by:
+Drilling

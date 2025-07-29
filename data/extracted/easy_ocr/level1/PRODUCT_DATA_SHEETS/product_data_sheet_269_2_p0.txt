@@ -1,0 +1,68 @@
+Unit Configuration
+All data entries are traceable
+design revision history: Below are the technical parameters and construction
+materials for the unit
+Please review the specifications and material composition listed below: Use this spec
+sheet :
+validate assembly instructions. Check that all material specs align with supplier certifications.
+This
+repon extract
+prepared for design-verification audits
+Ensure all referenced standards are up to date
+Product ID:
+IL-9OOX
+Report No:
+PR-866
+Prepared by: Peter Schmidt | Approved by: Jan Kowalski
+Date: 2024-10-27
+Configuration Type
+Hydraulic Power Unit
+Design Pressure
+210 bar
+Fluid Flow
+30 Umin
+Operating Voltage
+400 `
+S0Hz
+Control Valve
+Directional 43
+Pump Type
+Vane Punp
+Filtration
+10 um
+Cooling
+Air-cooled oil radiator
+return
+This summary reflects the latest revision of the product data; Data sheet has been peer-reviowed by the
+engineering team
+any missing parameters for urgent specification updates_
+Ensure glossary terms
+match the engineering nomenclature: Ensure that the listed materials are approved for the application.
+Material of Construction;
+Label
+Base
+nsualted Iube 250
+Mnenodlastc
+POlvemame
+(TPU)
+Steel Sheel 436
+Carbon Steel 436
+Leramic
+ellon vape Roll
+eton
+Jape Roll
+Pressune
+Brass
+Support Fool Stee
+Slalnless Steel 304
+Conmecio
+Glass-Filled Nylon
+Hex Bolls M12
+Zinc-Plaled Sleel
+Capacitor 450V
+Aluminum 6061-16
+Power Switch
+Polycarbonate
+Copper
+Inline
+Flag:

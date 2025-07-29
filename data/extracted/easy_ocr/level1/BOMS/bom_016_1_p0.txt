@@ -1,0 +1,73 @@
+BOM Report
+Customer ID: SWEDEN
+Coorainator:_Anna Nowak
+Date: 2025-06-21
+Product ID: KP 320E
+Interna
+No : 3920108
+Order Qty: 251
+Below is the component listing and associated costs for the upcoming production batch: Ensure
+each component meets the specified quality standards. Refer t0 this parts register t0 plan raw-
+material purchasing
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+2.45
+5%/
+pcs
+0.25
+8,00
+Switch
+M12
+tesled
+OK
+Spring
+1,02
+0%
+pcs
+0.05
+1.40
+ISO-
+Washer
+verified
+M1o
+Heat
+2.79
+0%
+2.70
+89.10
+Resistant
+alignment
+Sleeve
+adjusted
+Stainless
+3.23
+1090
+pCS
+0.35
+16.45
+High
+Bolt M8
+grade
+Hinge Set
+0.95
+1090
+pCS
+2.50
+50.00
+Li-Ion
+baltery
+installed
+Tota
+Amount;
+174.95
+Approved By:
+Sourcing Department:
+Hinge

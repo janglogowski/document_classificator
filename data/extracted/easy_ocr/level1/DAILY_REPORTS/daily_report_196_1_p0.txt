@@ -1,0 +1,83 @@
+DAILY PRODUCTION REPORT
+Report No:
+PR-925
+Cusiomer-
+TURKEY
+Supervisor
+Ljurj
+Rossi
+Department:
+Packaging
+Date;
+16-10-2024
+Shift;
+C(Nignt)
+Machine
+Task
+Operator
+Begin
+Finish
+Time
+Uwagi
+MC 203
+Assembly
+Magdal
+13.00
+14.43
+103
+Witkouska
+MC-201
+Cutting
+Kowakki
+0630
+08.03
+Delay
+MC-201
+Cutting
+Magdalena
+14.15
+1444
+Recallbrated
+Witkowska_
+MC 205
+Polishing
+Agnieszka
+08-30
+09.26
+Recalibrated
+Zielinska
+MC-207
+Cutting
+Maleust
+13.15
+14336
+Delay
+Jamyna
+MC 209
+Cutting _
+Jantowakt
+I1-00
+I1.45
+peav
+Item
+Planned Qty
+Produced Qty
+Rejected Qt
+Rejection
+Notes
+ON-Z70H
+119
+11.197
+VR-940T
+Rework needed
+z001
+276
+507
+Scrap confirmed
+Prepared DI:
+Lare
+Rossi
+ApprovedbI:
+Peter Schmidt
+Jote
+4-9613

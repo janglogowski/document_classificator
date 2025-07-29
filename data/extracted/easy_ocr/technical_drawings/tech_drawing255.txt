@@ -1,0 +1,57 @@
+HALVES 4s
+Match-SET
+3 , 75
+DRILL DEPTH
+991
+002
+A-B;
+002
+4-8
+50 DEEP
+HOLE
+994
+TyP
+00 |
+002
+A=B
+248
+TYP
+002
+A-B
+000
+002
+coatinG
+CKNESS
+TYP _
+SECTiON D -
+Rolepaucis FCr FAuse
+DIMLITUSL SFLC IFILD
+daTuc
+LST
+COMPONENTS
+M mi
+CM
+OaemiLELiSY
+LOC
+DESCRIPTiOn
+DRW#
+0T"
+Iktl5
+"ioditpes
+Pfapimdicular I
+Hhc
+Fe
+ArAEI
+BUSH/NG
+C05 | 6 04
+Wit $ #1
+O,R 4X 10 @un
+SCREW
+49585#43
+ANGLE
+N6 Q0} EA JWils
+P |N
+23645#52
+pFcW Wat
+(OvM [-# ( 45'
+Het WJn;

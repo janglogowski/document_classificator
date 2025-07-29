@@ -1,0 +1,122 @@
+nis Mbintenance extractE
+pfepared
+compiiance budic traiig
+Cneckihat
+doivntime
+events are properly categorized an
+logged; Entrics include vrork ordurs
+technician ussiEnments
+changes
+This sectian captures equiprunt status and
+any malntenance observations
+Releniothe
+maintenance recister to
+Qetaned &enice hetcnes
+Use thls record
+pian
+upcumiina upkcep anc repuis
+Spare Parts Used:
+Pant Namc
+Part No
+Oty Uscd
+P-5151
+Seaunz
+Gaaket
+P-213s
+P-7255
+Scalina Gusket
+6534
+Nac hine
+Macnine
+servic e
+Operator
+Downtime
+Last Cneck
+Are B
+Comments
+Typo
+MC-ZZB
+Laser Cutter
+Correctie
+2023-11-08
+i-Ior
+Kowalski
+balennack
+caniced
+MC 297
+Palina Booin
+Mnscccom
+Carlos
+7073 07.77
+Wunden
+Gercla
+pauler
+chck UC
+MC-212
+Assembly
+Correctn s
+Peter
+2024-01-26
+Tightened
+Robot
+Schmidt
+lOosu polts
+MC-245
+CNC
+Corre ctne
+Peter
+2024-12-20
+No iaqmes
+Machue
+Schmidt
+Toun
+MNC-261
+Laser Cutter
+Preventne
+nna
+2024-09-25
+Worn Basket
+Novak
+rcplaccc
+MC 255
+Cunvuvm
+Currccint
+Annas
+2023 08.20
+Rcllled uil
+Nowak
+(HLP 46
+MC 237
+Puint Booth
+Pruventn
+2024-07-27
+Refilled oil
+Nowak
+IALP 46
+MC?16
+hudiaulic
+Carteclmve
+Peler
+2024-09-04
+Tightened
+Schmidi
+4oos e
+DCte
+MC 268
+CNC
+Mlling
+Inscecton
+Lna
+2023- 08 24
+Realaced
+Kachine
+Nowvek
+Ccolant
+AppicuedVy
+Anma Nawrak
+Sorvicod OYZ
+Jankow blski
+1og
+Hinae
+Kung
+Ptcae

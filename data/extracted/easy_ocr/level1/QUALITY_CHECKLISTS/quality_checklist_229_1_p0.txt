@@ -1,0 +1,56 @@
+Conformance Report
+#8929898
+Date: 17.07.2025
+Product ID
+ON 770H
+Customer ID
+POLAND
+Item Description
+Spring Washer M10
+The following table ouilines inspection criteria and classification levels
+This summary supports the
+production-release quality gate. This section details quality requirements and test points for the batch This
+checklist captures quality inspeciion points and sampling levels
+All checklist entries are timestamped for
+traceabillty.
+Check that Inspection steps follov: the approved procedure
+Use this extracL
+coordinate sign -
+off with the QA manager.
+Quality Check Items
+Sample
+Defect Class
+Remarks
+Tier
+Item Specs
+Critical
+Major
+Minor
+OnHold
+Carton is damaged or
+Level IlI
+Critical impact
+mamings incorrect
+Rubber Switch not
+working
+Incorrect barcode or label
+Level
+Dead
+live insect
+Needs reviow
+packaging
+Rubber texture
+Level
+Needs reviewv
+glossness mismatch
+AQL Level
+Critica
+Major
+Minor
+Default
+Customer specifc
+Overall quality status indicates compliance with defined AQL levels. Confirm that all sampling results are
+within acceptable Iimits. Flag any open issues in the
+tracking system: Use this closure repont t0
+update Ihe quality KPI dashboard
+CAPA

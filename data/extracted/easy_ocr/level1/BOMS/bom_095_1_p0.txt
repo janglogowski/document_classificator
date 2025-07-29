@@ -1,0 +1,90 @@
+COMPONENT BREAKDOWN
+Customer ID: CANADA
+Coordinator: Laura Rossi
+Date: 2023-04-12
+Product ID: FT-730X
+Internal No.
+8951603
+Order Qty: 149
+Please review the itemized list of parts and material specifications before procurement:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+LED Light
+3.02
+2.50
+32.50
+Strip
+Ventilation
+0.96
+5.60
+117.60
+SKF
+Grid
+brand
+Bearing
+1.94
+1.50
+7.50
+Switch
+6202 ZZ
+tested
+Rubber
+0.56
+10%6
+0.50
+6,50
+Gasket
+8Omm
+Ventilation
+1,98
+5.60
+184,80
+Grid
+LED Light
+2.50
+80.00
+Sttip
+grade
+Kuminum
+0.36
+4.50
+180.00
+Li-Ion
+Bracket
+battery
+installed
+Shaft
+1.83
+8.00
+72.00
+Urgent
+sOOmm
+Copper
+2.34
+0.60
+3.00
+Li-Ion
+Wire 3mm
+battery
+installed
+Spring
+0.36
+0.05
+1.70
+Washer
+export
+M1O
+This closure summary validates that all parts are approved for release: This final review confirms that all
+items are ready for requisition: Cross-verify totals with the ERP system for consistency:
+Total Amount:
+685.60
+Approved By:_
+Sourcing Department:
+High

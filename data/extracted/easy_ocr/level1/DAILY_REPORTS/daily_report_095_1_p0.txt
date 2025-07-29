@@ -1,0 +1,108 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-267
+Cusiamer-
+GREECE
+Supervisor:
+Kowalski
+Department:
+Assembly
+Date
+28-08-2023
+Snitt:
+C(Nignt)
+Machine
+Process
+Operator
+Begin
+Finish
+Time
+Remare:
+MC 202
+Polishing
+4mma Nowvax
+12-00
+12.25
+MC 209
+Welding
+wiktor
+08-00
+09.03
+Delay
+Kopceyrski
+MC 201
+Asseiblv
+Naula
+Saulem
+12.24
+MC-202
+Aesembiv
+4nna Nowa
+12.15
+13,33
+MC-202
+Welding
+Dawid
+14.00
+15,18
+Oszmianczuk
+MC-207
+Assembiv
+Nadia Sauter
+13i
+14.58
+MC-208
+Welding
+Bartosz
+06 00
+07,06
+Recalibrated
+Wawrzyniak
+MC-203
+Welding
+Jan Kowalski
+07330
+08 01
+NA
+Mc-209
+Cutting
+Partosz
+06-15
+07.50
+Reralibratec
+Wawrzyniak
+MC-209
+Polishing
+Wiktor
+11330
+12,38
+NYA
+Kopczyiski
+MC-208
+Polishing
+Przemystaw
+14.00
+14.25
+Wasik
+Item
+Target Qty
+Actual Qty
+Defect Qty
+Failure
+Remarks
+TL-gooX
+138
+2.825
+Scrap confirmed
+MX- 450
+180
+10%
+Rework needed
+RE 850C
+5070
+Scnd conninineg
+Prepared b%:
+Jan Kowalski
+Approved bK:
+Deter Schmiot
+Spent

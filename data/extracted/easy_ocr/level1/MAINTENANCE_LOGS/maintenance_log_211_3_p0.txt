@@ -1,0 +1,137 @@
+Approved bX;
+4nnaNowak
+scnicedD"
+Anna Nowak
+This maintenanca extract
+prapared for compliance audit trails.
+BeIoiv
+the summary of service acbicns and downtimes
+for cach machine. Check that all downtime
+events arc properly catcgorized and logged.
+Icllowina
+envics
+culall
+Crevenive and
+corrective
+Mainenance
+tasks , Use this summary
+Tofecas
+pans
+replacement and resource
+technician commenis
+recorded for maintenance trend analysis
+Section A:
+Unit Code
+MC-226
+MC-204
+MC-280
+MC245
+Mc-237
+MC-251
+Machine
+Assembly
+Hydraulic
+Conveyor Belt
+Paint Bocth
+Assembly
+Lathe
+Robo
+Prus:
+Robal
+Typc
+Preventive
+Preventive
+Inspecuan
+Preventive
+Inspection
+Inspection
+Technician
+Anna Nowak
+AnnaNoja*
+Laura Rossi
+Anna Nowak
+JanKowalski
+Anna
+Nxvdx
+Downtime
+Comments
+Sensor
+Wocden
+Li-lan
+battery
+Replaced
+Calibration
+Jibrated:
+ccaani
+check OK
+checked
+senriced
+Section B;
+Unit Code
+MC-245
+MC-237
+MC-274
+MC-226
+MC-251
+MC-204
+Machine
+Paint Boolh
+ASsuinbly
+Hydraulc
+Assemibly
+Lalhe
+Hycraulic
+Rcbot
+Press
+Robol
+Press
+Type
+ptevenive
+Inspecticm
+Corrective
+Prevenive
+Comecine
+Inspection
+Technician
+Kowalski
+Jan Kovalski
+Arna Navak
+Peler Schuicl
+Pelen echtdi
+'Launt
+Poss
+Wownumic
+Comments
+Replucud
+RD IssuBS
+antened
+Na I55ue5
+Swilch
+Li-on Dulen
+ccolani
+Iouma
+loosc bolis_
+Touno
+contacts
+pack
+cicancd
+sunviceu
+Sunice 'ummanES have
+been lor varde d
+Ihe engineeting
+Bam
+Check remaining life-cycles
+componenis
+Confim Ihat
+cocrecive actians Were
+properly closed out
+Uptlme (%)
+Error Count
+98.20 %
+Tnc
+nezds
+nulit
+Pack
+0lkey
+repun
+Notes

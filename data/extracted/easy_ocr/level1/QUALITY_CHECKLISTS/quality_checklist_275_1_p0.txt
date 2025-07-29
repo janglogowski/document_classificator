@@ -1,0 +1,87 @@
+Inspection Sheet
+#5766989
+Date: 17.07.2025
+Product
+TX-820V
+Customer
+POLAND
+Item
+description
+Insulated Tube 25mm
+All checklist entries
+timestamped tor traceahility; Use this extract
+coardinate sign-otf with the QA manager;
+Entries include both visual and functional inspection items Please review each checklist point and mark the sampling
+results
+Below are the
+items
+verified during the final product review: This section details quality requirements
+and test
+points for the batch,
+Audit Criteria
+Sample Tier
+Classification
+Observations
+Component Criteria
+Connector not working
+Level !
+Needs review'
+Wead
+insect
+pack@Ring
+Leve
+Critical impact
+Exposed nail with sharp
+avp
+Sharp edges
+plastic
+Level IlI
+Needs reviev'
+companents
+Nal assmbled
+per drawng
+Level
+Incorrecl quanlilv ar assortmeni
+Levei
+Wood
+splinter
+Critical Impact
+product
+Loior Mismatch
+Miinor issue
+obsenved
+Hinges
+WdSE
+Levei
+Mlinoriseue
+obsenved
+incorrect oriengation
+Critical impact
+Wrong product size
+Levem
+Minorisque observed
+AQL Level
+Critical
+Minor
+Demauic
+Custamer
+specific
+Canectivc
+actions are scheduled for Identified Issues_
+Ensure that all remarks have corresponding evidence
+attachments
+All summary
+comments
+heen validated bY theQA team
+quality status indicates
+compliance with defined AQLlevels. Archive this summary
+audit-readiness folder. This final note confirms the
+checklist
+complete and approvcu
+Ilemis
+marked for hold require additional review before release:
+pcint
+sharp
+point
+have
+Overa

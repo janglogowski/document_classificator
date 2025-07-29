@@ -1,0 +1,56 @@
+Measurement Summary Sheet
+Mechnician
+Anna Nowak
+Imspectiun Dalc
+20240z28
+The following data captures key dimensions and any deviations identified. Please review the inspection results for
+cacin
+component listed below: The inspection register below highlights any out-of tolerance parts This section details
+the measured values
+tolerances
+and status
+Product Ref
+WD-1805
+LK-890B
+p-b60F
+BZ-S60F
+MIR-I6UH
+Component
+Rivets
+0-Ring NBR
+Hex Bolts M1Z
+Shaft S0Omm
+Bearing 6202 22
+Fomm
+Mcasurement
+nem
+Dameter
+Widch
+Iicknes;
+ctness
+Mareet
+7551
+Se
+26,24
+22,2
+Obsenved
+75.62
+48 48
+peita
+PassiFail
+All dimensions within tolerance have been marked
+OK Please address any NOK items before proceeding to the
+next production stage Record any measurement anomalles for follov-up analysis:
+instrument
+Calibration Log=
+Instrument
+Serial No
+Calibration Date
+Muicrometer
+72872
+2025-04-15
+Nicromctem
+14195
+2025-06-13
+flags
+Pla Lic

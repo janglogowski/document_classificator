@@ -1,0 +1,107 @@
+Inspection performed by Anna Nowak on 2024-11-18.
+This dataextract
+preparedi0r quautv-control
+sign-off. Refer -
+the dimensional lcg far all component size readings;
+Ensure measurement methods align with calibration standards This summary of measurements supports metrology
+traceability. The Inspection
+below highlights Jny out of-tolerance parts. This section details the measured
+tolerances
+and status
+flags.
+Environmenta
+Conditions: Temperature: 22.0
+Humidity: 54 %
+Item Code
+Component
+Target
+Actuai
+Delta
+Status (V(X)
+RX-31Z
+Hex Bolts
+Hole @
+9.80
+9,96
++0.16
+M
+PW-SISY
+Shaft S00mm
+Depth
+23.64
+23.63
+MR-160H
+Steel Sheet
+Depth
+68.22
+68.42
++0.20
+A36
+WD-4305
+Battery Pack
+Hole
+84.13
+84.,30
+AL-1150
+Battery Pack
+Width
+0 Z
+10.03
+0-18
+VR-9AOT
+0-Ring NBR
+width
+59.61
+59.52
+0.09
+GOmm
+FT-730X
+~Ring NBR
+Depth
+31.98
+31.80
+0.18
+eomm
+GL-9805
+Power Switch
+Length
+77.41
+77.48
++0.07
+NE-2AJA
+Height
+40.49
+40.38
+SL 4J0M
+Graphite Pad
+Helght
+23.35
+23.29
+TL-9OOX
+Bearing 6202
+Depth
+16.79
+16,74
+0lOs
+NE-/454
+Shatt 5umm
+Depth
+11.91
+11.94
++00s
+LP-5SSV
+Plastic Rivets
+Depth
+85,43
+85,45
+Kv-390k
+Steel Sheet
+Wiath
+27,71
+27,76
++0,05
+A36
+replstcr
+Values
+Dim
+Hineo

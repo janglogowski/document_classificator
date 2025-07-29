@@ -1,0 +1,95 @@
+Log
+No:;_
+Cerlos
+Repon
+Cosramer
+Uwagi
+Total Time
+Shift:
+End Time
+Delay
+Begin
+12.15
+Machine
+09,15
+Mateusz
+Welding
+Jarzyne
+10;00
+NIA
+06.30
+Piotr
+Polshing
+716
+Sauter
+1400 
+09.00
+MC 208
+Welding
+Wviktor
+Uwaz
+Failure
+Qty
+Q5
+7.1708
+Rowor
+Qty
+Produced '
+9356
+3.6200
+293
+6480
+12.7886
+130_
+Lp-S55V
+Garcia
+Carlos
+EPPuc
+Production
+PA-169
+GREECE
+Coicia
+Assembly
+08-2025
+Supervisor:
+(Hoinine)
+pantmene
+Dale:
+713.29
+Recalibrated
+Iechniclan
+Operation
+Aenieazkn
+10.,52
+Assembly
+Zielliaka
+MC-208
+11.07
+MC- 209
+Bartosf
+{07.59
+Assembly
+Recal rated
+Wavuryni"
+MC-202
+Latcnd9*4
+4421
+HC-200
+710,56
+Nadia =
+Assenbly
+Kepezynsk
+MC-201
+Rejected 5
+needed
+Aewrolkneeded
+Plannad
+Pant ID
+9805
+VR-9401
+P-5158
+IY-JSOG
+Nowel
+Anna
+Prepered
+oved

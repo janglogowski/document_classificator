@@ -1,0 +1,70 @@
+Unit Data Specification
+Interno
+No:: PR-546
+Product
+RE-850C
+2025-03-19
+Model Type
+Hydraulic
+Unit
+Operating Pressure
+180 bar
+Flow Rate
+75 Lmin
+400
+50Hz
+seruice
+Interval
+500
+Working
+10'C to 50c
+Pump Iype
+Vane Pump
+MOISL
+Levci
+72 dBIA
+Mounting
+Skid base with vibration
+Component Materials Overview:
+Item
+RalNaterin
+Specification
+Teflon Tape Roll
+Teflon Tape
+Electrica
+erade
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Anticorrosive
+Ring NBR GOmm
+Nitrile Rubber INBRI
+Class
+tolerance
+Gasket Sheet
+Nitule Rubber INBRA
+Electrical
+pradc
+Capacitor
+45
+Aluminum 6061-T6
+pb / rated
+Rubber
+Meena
+Gumm
+Nitrile Rubber
+NRR
+certitied
+Support Foot Steel
+Stainless Steel 304
+UL-listed
+Hinge
+Stainless Steel 304
+Anticorrosive
+Prepared by: Anna Nowak
+Approved by: Anna Nowak
+Date.
+Poxer
+Voltge
+Temp
+Range
+Pads

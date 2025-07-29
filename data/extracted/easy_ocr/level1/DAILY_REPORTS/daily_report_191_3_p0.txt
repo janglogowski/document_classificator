@@ -1,0 +1,102 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-793
+Customer: GREECE
+Shift: e
+(Morning)
+Date: 14-07-2024
+Machine
+Orocess
+Technician
+Begin
+End Tlme
+Total
+Remarks
+Time
+MC-205
+Cutting
+Magdalena
+08.15
+08.52
+Completed
+Witkowska
+MC-208
+Cutting
+BurosE
+14.30
+16.27
+Completed
+Wawizyniak
+MC-207
+Polishing
+Nadia Saulci
+05.15
+08:05
+Delayed
+MC-206
+Welding
+Piotr
+12.00
+12.49
+Camdieted
+Lewandovski
+MC-205
+Cutting
+Magdalena
+13;30
+1459
+Recalibrated
+Delayed
+Witkowska
+MC-203
+Cutting
+Kuna Nowak
+07.00
+08*49
+109
+Recalinraten
+Campigied
+MC-205
+Assembly
+08.00
+09;17
+propress
+Lewandovski
+All praduction targets have been logged; deviations are highlighted above: Ensure routine
+maintenance beti"een
+shifts
+maintain consistent output; Verily the finalcounts #Kainst inventory records
+Confirm that scrap
+percentages align with quality benchmarks. This closure summary signals readiness for tnenext production
+Record any adjustrients
+shilt schedules
+staffing here.
+Part ID
+Planned
+Qty
+Actual
+Qty
+Rejected
+Scrap %
+Rework
+Comments
+Qty
+Count
+ZR-2OSR
+285
+273
+4.J540
+F-730X
+263
+238
+9.5100
+Scrap
+contrmed
+DX-7771
+182
+7.1406
+Rework
+needed
+Approved by:
+Prepared by:
+Starc
+Plotr

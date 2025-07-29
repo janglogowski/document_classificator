@@ -1,0 +1,58 @@
+Component Overview
+Document No: 4133207
+Product ID: FT-730X
+2024-10-28
+Unit Type
+Hydraulic
+Unit
+Design Pressure
+250 bar
+Throughput
+60 Limin
+Operating
+Voltage
+400
+50Hz
+Protechan
+Clss
+Working_
+10'C t0 55'c
+Framc
+Mlaterial
+Kiuminui
+FraMc
+otal
+Wcight
+180 kg
+seruico
+Intenal
+1000
+Dimensions (LxWxH)
+1000 * 650 * 1000
+Mounting
+Skid base with vbration
+Reservoir Capacity
+80 L
+pads
+Component Materials Overview:
+Item
+Raw Materia
+Specification
+Cable Tie Pack (100)
+Nitrile Rubber INBR)
+UL-listed
+Zinc-Plated Stee
+DIN EN 10025
+Teflon Tape Roll
+Teflon
+radC
+Roll
+Electrical
+pradc
+Prepared by: Peter Schmidt
+Approved by: Laura Rossi
+Date.
+Poxer
+Temp
+Range
+Nut "

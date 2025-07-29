@@ -1,0 +1,45 @@
+Product Overview
+reviet
+the specifications and material composition listed below: The following information outlines
+performance characteristics and design data: Entries include both mechanical and electrical specifications Below are
+the technica
+parameters ano
+canstruction
+materials
+for the unit; Use this spec sheet
+validate assembly
+instnuctions
+Refer to this configuration summary far unit-designation mapping; Ensure all referenced standards are
+date:
+PraducID
+TY-350G
+Documenl No:
+PR-498
+Prepared by: Jan Kowalski
+Approved by: Jan Kowalski
+Date: 2023 11-30
+Unit Type
+pneumatic
+Control Unit
+Design Pressure
+180 bar
+Fluid Flow
+60 L{min
+Supply Voltage
+50 Hz
+Charging Time
+Frame Material
+Powder-coated Steei
+Dimensions (LxWxH)
+1200
+700 * 1100 mm
+Ensure
+the listed materals are approved for the application
+Flag any missing parameters for urgent sperification
+updates Confirm that alltest conditions are accurately representcd
+Archive this summary for future design- change
+management_
+Check that all section headers follow the product template. This summary reflects the latest revision of
+the product data;
+please
+that

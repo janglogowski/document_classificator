@@ -1,0 +1,109 @@
+This log records all maintenance activities performed on the equipment- All technician corhments are recorded for
+maintenance trend analysis. This section captures equlpment status and any maintenance observations. Entries include work
+orders, technician assignments;
+and part e
+changus.
+Spare Parts Used:
+pan Name
+Part No_
+Qty Used
+Battery
+Dack
+6226
+Sealing Gasket
+Machine ID
+Machine
+Service
+Technician
+Downtime
+Previous
+Area
+Notes
+Type
+Sarvice
+MC-224
+Plasma
+Preventive
+Carios
+2024-12-13
+Calibration
+Cutter
+Garcia
+check Ok
+MC-283
+Lathe
+Corrective
+Carlos
+2025-02-02
+Wentened
+Garcia
+loose bolts:
+MC-246
+CNC Milling
+Corrective
+Carlos
+2024-12-21
+Callbration
+Machine
+Garcia
+check Ok:
+MC-201
+Paint Booth
+Prcventive
+Laura Rossi
+2024-06-06
+LI-Ion
+patten
+pack
+seniced
+MC-256
+Piasma
+Preventive
+Carlos
+2025-05-27
+Wooden
+Culter
+Garcia
+checked:
+MC-242
+Plasma
+Inspection
+Peter
+2024-05-08
+Alignment
+Cutter
+Schmidt
+of hinges
+adjusted
+MC-244
+Paint Booth
+Inspection
+7074-04-7-
+Callbration
+Kowalski
+checkOK
+MC-275
+Packaging
+pavennve
+Laura Rossi
+2024-05-22
+No [ssues
+Line
+Iound
+MC*225
+CNC Milling
+Preventive
+2025-01-20
+Noissues
+Nacminc
+Kowalski
+jound
+Approved DY:
+Anna
+Nowak
+Serviced by:
+Lauca
+Rossi
+i-lon
+P43
+pallat

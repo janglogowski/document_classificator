@@ -1,0 +1,63 @@
+Product Data Sheet
+Entries include both mechanical and electrical specifications The parameter register below includes
+operating limits and ratings; This section details the configuration and parameter set for the product; This
+data sheet provides key
+specifications and material details.
+Confimm that performance ranges comply with
+project requirements;
+Refer to this configuration summary for unit-designation mapping
+The following
+information oullines performance characteristics and design dala
+Product
+SB-1400
+Document No:
+6167934
+Prepared by: Laura Rossi
+Approved by: Anna Nowak
+Date: 2024-08-18
+Model Lype
+Hydraulc Power Unit
+Design Pressure
+180 bar
+Flow Rate
+48 Lmin
+Supply Voltage
+400 V IS0Hz
+Contro
+Valve
+Proportional 412.
+Motor Power
+kW
+Charging Time
+Service Interva
+12 months
+Frame Materal
+Stainless Steel
+Frame
+Noise Level
+70 dB
+Materia
+choices and process data have been verified for compliance
+This closure note indicates the data
+sheet
+ready for release_
+This summary retlects the latest revision of the product data_
+All summary
+comments have been recorded
+the revision log
+Data sheet has been peer-reviewed by the engineering
+(eami:
+Material 0f Construction:
+Item
+Composition
+Battery Pack
+Lithium-Ion Cell Pack
+Digital Display Unit
+ABS Plastic
+Pressure
+Brass CZ12L
+Wooden Pallet
+Treated Pine Wood
+Support Foot Stee
+Stainless Steel 304
+Vavve

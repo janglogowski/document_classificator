@@ -1,0 +1,72 @@
+Unit Configuration
+Prcjdi
+T-3SCG
+Repor Ne:
+P3-329
+BRrepared
+LaujRor
+Appfoled
+Petereenmot
+Locton
+Flant 34
+2023-09-06
+Model IPe
+Prejmatc
+Centrol Unit
+Design Pressure
+Ihrouehput
+Wmm
+250 Daf
+Noise Leve
+@peraling _
+400
+SoHz
+29pB14
+oillPe
+HL? 68
+Ric
+Powder-coated
+Total Weight
+1E0K
+CaPacity
+24n
+Poret
+Wotking Tema
+10"cto 55 C
+Punto
+Ipe
+ana
+Senvce Intena
+50d
+Protection Chss
+Mountng
+Fmolntem
+1pr
+Control Valve
+Dimensions (Lxtvh]
+1000
+650}10o mm
+Directional 4n3
+Cooling
+Auf-cooled oilradiator
+Flitration
+Jopm retum, 25 uM
+5ukmon
+Ensure Elozsaryterms match the engincering nomenclalure Flag any missing
+Updates Check that all secticn heacers follow
+Parameters
+Vieent spedication
+Procuct template. Ensure thatthe llsted materials are
+ine zpplication. Tnis summary reflects the latest revision
+appioved (Or
+sncet @
+ofthe productdata.This Closure note indicates the data
+ready for release. Archive this Summary for future design-change management
+Dales
+Voltare
+Atama
+Stce
+Batten
+Moton
+Rnze
+Plmp

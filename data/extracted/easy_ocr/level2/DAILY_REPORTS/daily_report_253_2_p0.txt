@@ -1,0 +1,127 @@
+Report
+Ud `
+PR-770
+Lustomer:
+POLAND
+Supervisor:
+nna
+Nowak
+Depaninent:
+Macmining
+Shift:
+(Evening)
+03-08-2023
+Equipment
+Task
+Worker
+Duration
+Remarks
+Temperature
+Power
+(min
+Draw
+MC 209
+Assembly
+Nadia Saute
+11.15
+12.55
+NYA
+59.6
+MC 207
+Cutting
+Przemvsfaw
+08.00
+09.06
+63.5
+1.46
+Wasik
+MC 201
+Drilling
+Anne
+Natvar
+L1-00
+11.47
+70.9
+1.11
+MC- 207
+AssembI
+Magdalena
+09.30
+11.21
+Delay
+76.9
+2.74
+Witkowska
+MC-204
+Welding
+Natemsz
+08.00
+09.49
+109
+78,1
+1,98
+Juryna
+MC-207
+Welding
+Jan Kowalski
+14.00
+14.50
+61,2
+1,30
+MC-204
+Welding
+Mateusz
+10.30
+11,20
+Delay
+71,2
+2,.29
+Jaryna
+MC 205
+Assembly
+Nadia Sauter
+14.-00
+15.05
+56.7
+1.02
+MC- 201
+Cutting
+Dawid
+11-00
+12.37
+Recalibrated
+58.6
+1.31
+Oszmianczuk
+MC-202
+Polishing
+Nadia Sauter
+12.15
+13.29
+56.6
+2.61
+MC-206
+Drilling
+Mateusz
+07.15
+09.08
+113
+Recalibrated
+56.1
+1.85
+Jamyna
+MC-202
+Welding
+Jan Kowalski
+10.00
+11839
+Recalibrated
+60,1
+2,99
+Prepared bY:
+Jan Kowalski
+4pprovec
+Knnj
+Nowak
+From
+Delay

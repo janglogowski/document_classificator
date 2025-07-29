@@ -1,0 +1,66 @@
+aC checkllst
+Thls checWlst captures Quallty Inspection palnts and sampling levels. Plejse review eacn checkllst point and mark the
+sampling
+Ensure all non conformng marks are clearly documented: Use thus extract t0 coordinate slgn-off
+with the QA manager. Entries Inchude both visual and functioral Orspection items;
+Product
+90OX
+Customarin
+GrCECE
+Item
+uescniption
+Rubber Gasket 8Quot
+Revlew Points
+Sample Tier
+Sevarlty
+Nuns
+Uccn Specs
+Crltiea
+Malor
+Minor
+OnHold
+Product
+docsm
+Dowlio
+Levci
+Catleal Impact
+Battery rot Included
+Lercm
+Critical Impjct
+Rubber texture Or Glossiness
+LevelM
+Critical Impact
+mimatch
+Instructlon manual
+Missine
+Levol I
+Needs review
+dumaked
+Carton
+domoned or
+Level|
+Crltieal Impact
+markings
+ncatec
+Dead 0t live insect in
+Level|
+Critical impact
+packaelng
+ShUppung Matk
+Weelble or
+Criticol Umpact
+Missi
+Sharp edBes
+plastic
+Minor Issue abserved
+coindunens
+LClOricnnnon
+Leud
+Crteak Hopuct
+Misslng tstributor
+Levele
+Minor Issue observed
+Unformhalion
+Supervlsed by:
+Date
+Tesut

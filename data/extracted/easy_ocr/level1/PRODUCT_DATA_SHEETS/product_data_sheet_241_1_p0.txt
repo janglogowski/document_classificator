@@ -1,0 +1,98 @@
+Product Overview
+Project:
+TY-3506
+Report No
+1874953
+Prepared By'
+Peter
+Schmidt
+Approved By:
+Carlos Garcia
+Location: Plant 34
+Date
+2024-12-26
+This section details the configuration and parameter set for the product. The parameter register below
+includes operaling limits and
+Entries include both mechanical and electrical specifications
+Check
+(hat all material specs align with supplier cerifications
+Mhis report extract
+prepared for design-verification
+audits. Below are the technica
+parameters and construction materials for the unit_ All data entries are
+traceable
+design revision history-
+Unit Type
+Pneumatic Control Unit
+Design Pressure
+180 bar
+Flow Rate
+30 LUmin
+Voltage
+230
+S0Hz
+Dimensions (LxWxHL
+1200 x 700 x 1100
+Mounting
+Rack frame
+Motor Power
+Pump Uype
+Gear
+Pump
+Filtration
+Hni iniine
+10 pm
+Noise Level
+68 dB(A)
+relurr
+Oil Type
+HLP 32
+Protection Class
+IP67
+Frame Material
+Powder-coated Steel
+Cooling
+Air-cooled oil radiator
+Control Valve
+Proportional 4/2
+Charging Time
+Total Weight
+180
+Working Temp. Range
+58C to 45"C
+Service Interva
+1000
+Reservoir Capacity
+160
+Battery Capaciy
+Malerial
+Construction;
+Pant
+Composition
+Thermal Fuse
+Ceramic Oxide
+Connector 2P
+Glass-Filled Nylon
+Wiring Loom
+DVC
+Rigid)
+Gasket Sheel A4
+Niuile Rubber (NBR)
+Power Swilch
+Polycarbonale
+Copper
+Hex Bolts M12
+Zinc-Plated Steel
+Ring NBR 60mm
+Nitrile Rubber (NBR)
+Nut M6
+Zinc-Plated Steel
+Digital Display Unit
+ABS Plastic
+Rubber Gasket B0mm
+Nitrile Rubber (NBR
+Wooden Pallet
+Treated Pine Wood
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+ratings,

@@ -1,0 +1,119 @@
+Measurement Summary Sheet
+Inspection performed by Peter Schmidt on 2024-03-05.
+This data extract
+prepared for quality-control sign-off. The following data captures key dimensions and any
+deuaton'
+dentified. Below are the recorded measurements compared against nominal
+tolerances- Please revlew the
+inspection results far each component listed below:
+Environmenta
+Conditions: Temperature
+Humidity: 48 %
+Article No_
+Component
+Measurement
+Nomina
+Observed
+Delta
+Status (VKXL
+QP-G60F
+Steel Sheet
+Inner
+65.08
+65.05
+-0.03
+436
+Diameter
+XD-71OR
+Plastic =
+inner
+46,62
+46.52
+0,10
+TL-gOOX
+Shatt s00mm
+Hole
+59.53
+59-4
+0.2
+IX-B20V
+Plastic Rivets
+Length
+71.36
+71.48
+RM-86ON
+0-Ring NBR
+Inner
+30.12
+30.08
+D.DA
+eomm
+Diameter
+Ty-350G
+Hex Bolts
+inner
+53.63
+53.57
+0.06
+M1z
+Diameter
+MC-SA0X
+shaft 50Omm
+Length
+66.28
+66-16
+LZ
+SL-AJ0M
+Power Swilch
+Height
+17.43
+MC-540X
+slcci
+Sheet
+Height
+55.26
+55.27
++0.01
+A36
+NU-440Z
+Plastc Rivels
+width
+86.32
+86-13
+019
+JUuX
+Shaft
+OOmm
+Hole
+KP-320E
+Bearing 6202
+Inner
+62.64
+62.61
+00S
+biamcc
+KV-390K
+Graphite Pad
+Thickness
+93.15
+92.98
+TL-90OX
+Wooden
+Wiath
+43.82
+0,08
+palet
+CN-150C
+Shaft s00mm
+Height
+13.18
+13.11
+0,07
+ID-70QW
+Power Switch
+Height
+68.75
+78-34
+40.WY
+Rivets
+Dlane

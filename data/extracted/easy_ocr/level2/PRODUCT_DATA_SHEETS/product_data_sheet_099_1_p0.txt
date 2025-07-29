@@ -1,0 +1,59 @@
+Component Overview
+Project:
+CE-9O5L
+Document No::
+7323386
+Prepared By:
+Jan Kowalski
+Approved Bx:
+Laura Rossi
+Location: Plant 3A
+Date: 2024-11-22
+Configuration Type
+Cooling Circulation
+Operating Pressure
+300 bar
+System
+Flow Rate
+48 Lmin
+Voltage
+230 V { 50Hz
+Working Temp Range 
+Reservolr Capacity 
+120
+Control Valve
+Proportional 412
+Charging Time_
+Battery Capacity
+5 Ah
+Mounting
+Skid base with vibration
+pads
+Protection Class
+P6z
+Service Interval
+months
+Motor Power
+Pump Type
+Vane Pump
+Cooling
+Air-cooled oil radiator
+Dimensions (LxWxH)
+1000
+650 x 1000 Mm
+Oil Type
+HLP 46
+Material of Construction:
+Item
+Composition
+Pressure
+Brass CZ12-
+Cooling Gel Pack
+Silicone Rubber
+Gasket Sheet AA
+Nitrile Rubber (NBR)
+Fuse SA
+Ceramic Oxide
+Hex Bolls M12
+Zinc-Plated Slee
+Vaive

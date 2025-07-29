@@ -1,0 +1,114 @@
+DAILY PRODUCTION REPORT
+Report No: PR-446
+Customer: SWEDEN
+Shift:
+(Evening)
+Date: 28-02-2024
+Equipment
+Operation
+Worker
+From
+End Time
+@umtion
+Remarks
+(min)
+MC-203
+Polishing
+Pnemystaw
+07.15
+07.-51
+Delay
+completed
+Wasik
+MC-202
+Cutting
+Dawid
+13.15
+15.08
+Delay
+progress
+Oszmlanczuk
+MC 204
+Polishing
+Dawid
+09.30
+10.10
+Delayed
+Oszmianczuk
+MC-201
+Cutuing _
+Tovalse
+13-00
+14-12
+Rectorated
+Completed
+MC-209
+Drilling
+Jan Aowais<
+03.30
+09.2
+Reco
+librated
+Lomoleted
+MC-209
+Assemoi
+Nadia Sauter
+07.15
+08 1
+Recalibrated
+Completed
+MC-209
+Cutting
+Anna
+Nouek
+ukoo
+12-59
+Prortess
+MC202
+Cutting
+Rowask
+0s-0
+08.27
+Lomolered
+MC-208
+Welding
+Wiktor
+10-15
+10-52
+Delaved
+Kopcanski
+Verify the final counts against inventory records_ Refer t0 remarks for any rework
+quality concerns Check material
+consumption against standard usage rates Overal
+production performance met expectations for the day-
+Product ID
+Planned
+produced
+Scrap Qty
+Rejection %
+Rewrork
+Comments
+Output
+Count
+5B-140D
+198
+13.6478
+Reion
+CN-I50C
+262
+248
+5.3498
+Rework
+0e2d2o
+MC-SAOX
+242
+229
+5.373
+Revon
+TR-200B
+0.81
+Approved DY:
+Prepared Dy:
+Stare
+nacdad
+naeded

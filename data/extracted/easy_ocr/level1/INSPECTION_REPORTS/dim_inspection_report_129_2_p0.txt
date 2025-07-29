@@ -1,0 +1,68 @@
+Inspection Results Summary
+ecnnician
+Carlos Garcia
+Inspection Date
+2024 06-01
+AlI measured values are limeslamped for audit purposes. This section detalls Ihe measured values,
+tolerances;
+and status flags. Check that all dimensions comply with ISO and company standards. Use this
+examination summary
+confim component conformity, Ensure measurement methods align with
+calibration standards 
+Article No.
+GL-9B0S
+CN-150C
+MR-160H
+CE-905L
+MS-GO0P
+Part Name
+Shalt 500mm
+Pawe
+Switch
+Shaft s00mm
+Bearing 6202
+0-Ring NBR
+6 Oini
+Mleasurement
+Depth
+Hole
+Thickness
+Thickness
+Height
+Nomina
+89,08
+76,86
+69.32
+Ooscrvcd
+23.82
+Delta
++0.11
++0.16
++0.18
+Pass/Fail
+PASS
+PASs
+PASS
+PASS
+PASS
+Components failing inspection require immediate review and corrective action. Inspection notes have been
+logged for traceability: Please address any NOK items before proceeding
+the next production stage; Flag
+components requinng re-macnining
+adjustment:
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+Laccr
+Scanner
+34307
+2024-12-10
+Caliper
+24699
+2024-10-25
+Lasc
+Scanner
+54072
+2024-12-03
+Log:

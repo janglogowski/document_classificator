@@ -1,0 +1,73 @@
+Unit Configuration
+Praiect:
+PL-601Z
+Unernd
+PR-958
+Prepared Bv:
+Peter Schmidt
+Approved By:
+Jeter Schmidt
+Location: Plant 28
+Date; 2024-11-04
+Entries include both mechanical and electrical specifications. Use this =
+sheet
+Valgale
+assembly Instructions:
+This technical
+nveret
+supports the product-release checklist_ The following infarmation outlines performance
+characteristics and design data,
+Model Type
+Cooling Circulation
+Operating Pressure
+180 bar
+Sustem
+Throughput
+60 Llmin
+Operating Voltage
+480V / 60 Hz
+Reservoir Capacity
+ype
+Gear Pump
+Dimensions (LxWxHL
+1200
+700 x 1100 mm
+Oil Type
+HLP 68
+Total Weight
+250
+Service Interva
+1000
+Noise Leve
+70 dBIAL
+Protection Class
+P6S
+Frame
+Materia
+AMmnum
+FTAMA
+Mounting
+WNaM-maunted
+Working Temp
+Range
+10'C to 50*C
+Motor Power
+L5kW
+Cooling
+Kir-cooled Omlndiator
+Control Valve
+Direchona4s
+This closure note Indicates the data sheet E
+ready for release: Check that all section headers follow the product
+template. Refer
+parameter table for operating ranges and tolerances
+Ensure
+lossary terms Match the engineering
+nomenclature
+Archive this summary for future design-change management
+configuration
+within defined
+design and safety margins: Document control numbers are included for traceability-
+"SPCC -
+Pump
+Oveta

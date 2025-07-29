@@ -1,0 +1,120 @@
+Unit Data Specification
+Praiect;
+ON-770H
+Report No::
+9371097
+Prepared Bv:
+Ljura Koss
+Approved By:
+Anna Nowak
+Location; Plant 34
+Date; 2024-04-21
+Use thls sheetto confirm
+ineering
+requlrements and tolerances
+This technical
+Quenuu
+supports the product-
+release checklist. This section detalls the configuration and parameter set far the product: Confirm that performance
+ranges comply with project requirements
+The following information outlines
+rformance characteristics
+design
+data:
+Configuration Type
+Cooling Circulation
+Rated Pressure
+210 bar
+System
+Fluid Flov
+48 L{tin
+Voltage
+A00
+50 HZ
+Workine
+emp
+Range
+5"C to 45PC
+Filtration
+Lm Inline, 10 Um return
+Mounting
+Rack frame
+Noiso
+LCvc
+472 dB
+Protection
+Ciass
+5,5 KW
+Dimensions (LxWxH]
+1200
+700 * 1100 mm
+Frame
+Material
+Kluminum
+Frame
+Cooling
+Kir-cooled
+Tadiatar
+Charging Time
+Batten
+Capacity
+Service Interval
+1000 h
+Cantrolvale
+Proponional 4/2
+Reservoir
+Capacity
+Total Welght
+250kg
+Iype
+ocar Pumnp
+Oil Type
+HLP 46
+Overai
+configuration
+within defined design and safety margins
+AIl specifications mect the design requirements and
+industry standards; Check that all section headers follow the product template; Confirm that all test conditions are
+accurately represented
+This closure
+note indicates the
+data sheet
+ready for
+23sp
+Document control numbers are
+included for traceability- Ensure that the listed materials arc approved for the application
+Material of Construction:
+3950
+Cannectar
+Glas5-Filled Nxlon
+Switon
+Palcarbanale
+Copper
+Insulated lube 2smi
+Tnermiaulasc Poivurelane
+[TPU)
+Khermd
+FUS
+Imic Ofdc
+Pressure Valve
+(Z1Z1
+Battery Pack
+Lithium-Ion Cel Pack
+Digital Display Unit
+ABS Plastic
+Wooden PalleL
+Treated Pine Wood
+Fuse
+Ceramic Oxlde
+Cooling Gel Pack
+Silicone Rubber
+Ieflon
+Tape Ro
+Teflan
+Roll
+and
+Moton
+Powier
+Pump
+Brss
+Toce

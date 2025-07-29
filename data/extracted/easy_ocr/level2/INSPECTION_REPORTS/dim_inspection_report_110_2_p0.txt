@@ -1,0 +1,62 @@
+Measurement Summary Sheet
+Lur
+Suporvisor
+Inynucllan
+Dale
+2024-09-04
+Product Rof
+PW-SISY
+RE-850C
+RX-31OZ
+RM BGON
+WD- 180S
+WD-1805
+Componont
+Beanng 6202
+Piastc
+Graphilte Pad
+Shall 5o0mi
+Slaol Sheal
+Plasllo
+Rivels
+A3G
+Rials
+Dlma
+Lenath
+Holo
+Innor
+Thlckness
+Depih
+Hola
+Diamolor
+74.76
+47.51
+194
+12,04
+56.78
+90,37
+argut
+Actual
+74,94
+19.38
+90,48.
+DIIt
+#0.18
+uY
+PaseiFall
+Overall InspecIlon surmary indicalos accoptable quallty lovols. Please addross any NOK items before
+procauding
+the next producllon staga; Reviow failed items against the correctivo-acllon regisler: Cross
+verily mgasuromont data wlih CAD nominal valuas;
+Instrumeni Callbralion
+natrumcno
+Sorial Noa
+Last Callbrallon Date
+Calpor
+34617
+2024-10-21
+Micromoter
+91957
+2025-04-01
+Rost
+Log:

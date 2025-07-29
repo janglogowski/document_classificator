@@ -1,0 +1,94 @@
+BILL OF MATERIAL
+Use this breakdown t0 verify sourcing and cost estimates. This document provides
+detailed
+breakdown of all components required for the assembly process- The componentiroster below
+includes unit costs and
+batch codes_
+Ensure each component meets the specified quality
+standards. The parts manifest here is designed to support procurement workflows: This section
+outlines the parts; unit prices and tatal amounts for assembly-
+Item
+UOM
+Rate
+Amount
+Remarks
+Description
+Fuse 5A
+PCS
+0.30
+0.30
+SKF brand
+Plastic
+pcs
+1.10
+47.30
+grade
+Cover
+150x150
+Bolts
+pcs
+0.25
+Certified
+M12
+batch
+Steel
+Sheet
+5.00
+185.00
+High grade
+436
+Plastic
+pcs
+1.10
+39.60
+SKF brand
+Cover
+150x150
+Grease
+pcs
+1.90
+41.80
+High grade
+Tube 250ml
+Wooden
+pCS
+15.00
+15.00
+Certified
+Pallet
+batch
+Control
+pcs
+12.00
+336.00
+ISO-verified
+Panel
+Mount
+Bearing
+1.50
+22.50
+6202ZZ
+Hex Bolts
+pcs
+0.25
+6.75
+Switch
+M12
+tested OK
+Terminal
+pcS
+3.40
+3.40
+ISO-veritied
+Block 4P
+Customer ID: FINLAND
+Coordinator: Carlos Garcia
+Date: 2025-06-19
+Product ID: CN-150C
+Internal No:: 9593559
+Order Qty: 108
+Tatal Amount:
+698.90
+Qty
+Hien
+Hex E

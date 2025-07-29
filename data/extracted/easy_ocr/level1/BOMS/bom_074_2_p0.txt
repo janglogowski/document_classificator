@@ -1,0 +1,57 @@
+Customer ID: BRAZIL
+Prepared by: Anna Nowak
+Product ID: SL-430M
+Internal No:: 9158714
+The component roster below includes unit costs and batch codes
+The parts manifest here is
+designed t0 support procurement workflows
+This extract shows the bill of components and total
+projected spend. Review the materials tally for compliance with budget allowances. Use this
+schedule of
+to align with sourcing and stock levels. Ensure each component meets the
+specified quality standards_
+No
+Item
+Cable Tie
+Protective
+Bearing
+Spring
+Aluminum
+Control
+Description
+Pack (100)
+Sleeve
+6202 ZZ
+Washer
+Bracket
+Panel
+s0mm
+M1o
+Mount
+Qty
+304
+348
+UOM
+PCs
+PCS
+pCS
+Unit Price
+0.95
+12.00
+Amount
+643.
+547.20
+688.50
+37.95
+828.00
+4.176.00
+Remarks
+Imported
+ROHS
+Switch
+Urgent
+compliant
+tested OK
+TOTAL:
+6,920.80
+parts

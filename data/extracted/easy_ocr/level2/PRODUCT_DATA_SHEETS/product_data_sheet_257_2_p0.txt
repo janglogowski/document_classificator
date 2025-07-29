@@ -1,0 +1,50 @@
+Product Overview
+AIl data entries are traceable
+design revision history. Entries include both mechanical
+and electrical specifications.
+Belaw are the technical parameters and construction materials forthe unit; Confirm that perfarmance ranges comply
+with project requlrements. The following Information outlines performance characteristics and design data The
+parameter register below includes operating
+and
+Product ID;
+NE-2454
+Unterna
+No :
+2684230
+Prepared by: Anna Nowak
+Appraved by: Carlos Garcia
+2023-11-22
+Model Type
+Pneumatic
+Contro
+Rated Pressure
+210 bar
+Fluid Flow
+60 Limin
+Voltage
+400 
+50 Hz
+Mounting
+Skid base with vbration
+Frame Material
+Stainless Steee
+pads
+Cooling
+Water-coolen
+exchanger
+Filtration
+inline, 10 4Im retum
+AIl specifications meet the design requirements
+and industry standards. Check that all section headers follow the
+product template; Use this summary ta cross-check with BOM and inspection reports
+Flag any missing parameters for
+urrent
+specification updates This summary reflects the latest revision
+the product data: Ensure glossary
+terms
+match the engingering nomenclature
+Confirm that all test conditlons are accurately represented:
+rrating .
+Date:
+Unit
+Frame

@@ -1,0 +1,64 @@
+Component Dimensional Check
+Mechnician
+Anna Nowak
+Imspcctiun Dalc
+2024UZUL
+Use this examination summary
+confirm component conformity.
+reviem
+the inspection results for each
+comiponcnc
+listed below: Use this results summary
+trigeer
+any corective actions
+Ensure measurement mcthods
+align with
+ibration standards Review recarded tolerances against engineering specifications;
+Article No
+MR-J6uA
+WD-1805
+Pu-SISY
+SL-"3umi
+PW-S1sy
+Component
+Rivets
+Rubber Gasket
+Sheet 436
+Bearing 6202 Z2
+Wooden Pallet
+30mm
+dim;
+nem
+Qiameter
+Wicth
+Hole
+Width
+ctness
+Nomina
+06,43
+25,96
+Actual
+58.29
+0h3e
+peita
+u
+Pass/ Fail
+Confirm that pass rates meet the defined acceptance criteria_
+Archive this inspection summary for regulatory
+documentation: This assessment rcflects the latest metrology results.
+instrument
+Calibration Log=
+Instrument
+Serial No
+Calibration Date
+Laser scanner
+68435
+2025-01-18
+CMN
+31006
+2025-03
+Micrometer
+73262
+2025.02 03
+Please
+Plastic

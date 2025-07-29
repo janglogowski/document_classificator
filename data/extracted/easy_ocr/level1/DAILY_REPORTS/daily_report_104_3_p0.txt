@@ -1,0 +1,106 @@
+Production
+Report No:: PR-320
+Customer: POLAND
+Shift: =
+(Night)
+date: 48-06
+2024
+Machine
+Task
+Operator
+Begin
+Duration
+Comments
+Stage
+(min)
+MC-209
+Welding
+07:15
+07:57
+Delay
+Droeress
+Kowalski
+MC-209
+Cutting
+Mateusz
+12.15
+14-00
+105
+Daiae
+Progress
+Jarvna
+MC-207
+Assemoly
+Nadia
+08.30
+10.06
+Delayed
+Sauter
+MC-204
+Assembly
+Bartosz
+07.30
+08.19
+Recalibrated
+progress
+Wvawmvniak
+MC-202
+Welding
+Nadia
+07.30
+08.34
+Recalibrated
+Comp
+Sauter
+MC 204
+Assembly
+Wiktor
+10.15
+11.45
+progress
+Kopczyriski
+MC-201
+Polishing
+Anna
+1400
+14.45
+Recalibrated
+Completed
+Nowak
+Usethis sUmmary t0 update the overall production dashboard
+Reter
+rAmanks
+tor any rewoIk
+qualily
+cancerns
+Note eny unscheduled stops in the downtime register. Archive this output summary for end-of-day
+reporting:
+Item ID
+plannud
+Qty
+praduced
+Scrap Qty
+Rework
+Uwagi
+Qty
+Count
+Kv-390K
+249
+228
+8.4396
+Rework
+needed
+ZR-2OSR
+219
+187
+14.6196
+Pewvan
+needed
+VR-940T
+172
+10.4770
+Approved by:
+Prepared by:_
+Log
+eted
+Scrup

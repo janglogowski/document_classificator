@@ -1,0 +1,94 @@
+Inspection Sheet
+#1300404
+Date: 17.07.2025
+Product
+TY-350G
+Customer ID
+BRAZIL
+Iten
+Description
+Capacitor
+450
+AIl checklist entries are timestamped fortrareabilty: Referto tne quality register for sampling-plan references; This
+checkIlst captures quallty inspection points and sampling Ievels- Belaw are the itemis t0 be verified during tne final
+pronuct review Flease review each checklist point and mark the sampling results;
+Inspection Checklist Points
+Sample Tier
+Category
+Remarks
+Design SpEcs
+Criticd
+MaiOr
+Minor
+OnHold
+Incarrect Drientation
+Leve
+Critical impact
+Rubber Swltcn not woiking
+Necd: tever
+Coldi
+Tilsmatcn
+LCV
+Critical impacl
+Product doesn
+Joe
+Miinoi I5sue Odsenved
+Missing distributor
+Critical impact
+intormation
+Rubber texture
+Blossiness
+Needs review
+mismatch
+Not assemblec
+per crawing
+Levem
+Minor issue observed
+Loos;
+pais
+inside packaging
+Needs
+(pvel
+Lonnecofnom
+working
+Visual defecl on houslttg
+levd
+Critical Impact
+DCEC
+Mivl inSCCL W
+Level
+Crticall impact
+Packazing
+Packaging does not
+Level II
+sipred sample
+Missing Icgo
+warning lahel
+Needs review
+Missing_safety labels
+LC
+Critical impact
+Hinges loose
+LCVE
+neecsreviek
+incorrec quantity
+LevelMl
+asconmnent
+AQLLevel
+Wiior
+Wkunot
+Default
+Custome
+specific
+Ensure that all
+have
+corresnonding evidence attachments Please ensure sunervised sign-off on any non-
+conforming points Refere
+notes for any cbserved uefects
+deviations. Archlve tnis summiary In the audit-readiness
+falder. Items
+Marked
+for hold require additional review before release
+WMateh
+Cmica
+remarks

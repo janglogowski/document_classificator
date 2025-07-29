@@ -1,0 +1,38 @@
+Customer ID: FINLAND
+Prepared by: Carlos Garcia
+Product ID: PL-6012
+Internal No : 1277452
+The parts manifest here is designed to support procurement workflows.
+Below is the component
+listing and associated costs for the upcoming production batch: This summary lists every item
+required
+with per-unit pricing details.
+Use this breakdown t0 verily sourcing and cost estimates:
+Review the materials tally for compliance with budget allowances_
+Item
+Rubber Stopper
+Rubber Gasket
+Ceramic Disc
+Description
+80mm
+80mm
+Qty
+113
+454
+UOM
+pcs
+pcS
+Unit Price
+Amount
+62.15
+231.90
+227.00
+1,831,20
+Remarks
+Switch tested
+Imported
+SO-verified
+Hinge alignment
+adjusted
+TOTAL: 2,352.25
+Fuse

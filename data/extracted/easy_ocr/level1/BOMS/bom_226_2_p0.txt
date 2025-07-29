@@ -1,0 +1,42 @@
+Customer ID: FINLAND
+Prepared by: Peter Schmidt
+Product ID: HF-390A
+Internal No:: 4569142
+Ensure each component meets the specified quality standards
+The parts manifest here is
+designed t0 support procurement workflows
+All entries reflect the latest inventory and supplier
+rales_
+The component roster below includes unit costs and baltch codes. This summary lists every
+item required, with per-unit pricing details
+Use this breakdown t0 verify sourcing and cost
+estimates;
+No
+Item
+Termina
+Block
+Fuse 54
+Spacer Zmm
+Steel Sheet A36
+Description
+Qty
+143
+466
+804
+641
+UOM
+pcS
+pCS
+Unit Price
+5.00
+Amount
+486.20
+139.80
+120.60
+3,205 00
+Remarks
+alignment
+ISO-verified
+adjusted
+TOTAL: 3,951.60
+Hinge

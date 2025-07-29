@@ -1,0 +1,78 @@
+BILL OF MATERIAL
+Customer ID; BELGIUM
+Coordinator: Peter Schmidt
+Date: 2024-11-21
+Product ID
+NE-2454
+Intern?
+1077368
+Order QtK: 117
+The component roster below includes unit costs and batch codes This section outlines the parts, unit
+prices and total amounts ior assembly. Use this breakdown -
+verify sourcing and cost estimates Review'
+the materials tally for compliance with budget allowances:
+item
+Consumption
+Extra %
+Oty
+UoM
+Rate
+Amount
+Remarks
+Description
+Gasket
+1.28
+pcs
+1.25
+11.25
+Urgent
+Sheet 44
+Aluminum
+3,34
+10%6
+pcs
+72,00
+SKF brand
+Bracket
+Epoxy
+2.55
+10%6
+7.30
+146.00
+Imported
+Resin Kit
+Digital
+2.78
+1016
+15.00
+375.00
+Certified
+Display
+batch
+Unit
+Cable Tie
+2.77
+1056
+0.95
+0.95
+Hinge
+Pack (100}
+alignment
+adjusted
+Power
+pC;
+1.20
+51.60
+For
+Switch
+export
+Please confirin supplier lead times
+ensure limely delivery of all items
+final review confirms that all
+items are ready for requlsitlon;
+Total
+Amount:
+656.80
+Approved By:
+Sourcing Department:
+Tnis

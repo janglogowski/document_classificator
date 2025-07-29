@@ -1,0 +1,62 @@
+Unit Configuration
+This section details the configuration and parameter set for the product: Use this spec =
+assembly instructions. All data entries are traceable
+sheet to validate
+design revision history: Please review the
+specifications and material composition listed below Refer to this configuration surmary for unit-
+designation mapping:
+Product ID
+RE-850C
+No :
+5847879
+Prepared by: Jan Kowalski
+Approved by: Jan Kowalski
+Date:
+2025-01-24
+Configuration Type
+Pneumatic Control Unit
+Design Pressure
+210 bar
+Throughput
+48 Lmin
+Voltage
+230
+Reservoir Capacity
+160
+Control
+Valve
+50 Hz
+Charging Time
+Filtration
+Proportional 412
+10 pi return, 25 pm
+Frame Material
+Powder coated Steel
+Qil Type
+suction
+HLP 32
+missing parameters for urgent specificalion updates_
+Refer to parameter table
+and tolerances Check that all section headers follow the
+for operating ranges
+product template. Ensure (hat the listed materials
+approved for the application Material choices
+and process data have been verified
+compllance.
+Materal ol
+Construction:
+Ttem
+Composilion
+NBR
+Nitrile Rubber (NBR)
+Thermal Fuse
+Ceramic Oxide
+Cooling GelE
+Silicone Rubber
+Heat Sik ALU
+Aluminun 6061-T6
+Report
+Flag :
+0-Ring
+eom
+Pack

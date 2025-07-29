@@ -1,0 +1,65 @@
+Product Data Sheet
+Check that all material specs align with supplier certitications_
+The following information outlines
+perforance characteristics and design data, Ensure all referenced standards are up to date. This section
+details the configuration and parameter set for the product: All data entries are traceable to design revision
+history. This technical overview supports the product-release checklist; Entries include both mechanical and
+electrical specilicalions.
+Product
+HF-39QA
+Document No:
+PR-855
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt
+Date: 2025-03-06
+Contiguration Lype
+Pneumatc
+Contol Unt
+Design Pressure
+300 bar
+Flow Rate
+60 Lmin
+Operating Voltage
+230 V IS0Hz
+Working
+Range
+SCto 45C
+Oil Type
+HLP 68
+Mounting
+Skid base wilh vibration
+Cooling
+Alr-cooled Oil radialor
+pads
+Motor Power
+kW
+Check that all section headers follow the product temiplate. All specifications meet the design requirerents
+and industry standards. Use this summary t0 cross-check with BOM and inspection reports. Confim that all
+test conditions
+accurately represented,
+This summary reflects the latest revision of the product data.
+Material
+Construction:
+Subcomponent
+Raw Material
+Battery Pack
+Lithium-Ion Cell Pack
+Gasket Sheet
+Nitrile Rubber (NBR)
+Cooling Gel Pack
+Silicone Rubber
+Digital Display Unit
+ABS
+astic
+LED Light Strip
+Glass-Filled Nylon
+Therma
+Ceramic Oxide
+Wooden Pallet
+Treated Pine Wood
+Capacitor 450V
+Aluminum 6061-76
+Hex Bolts M12
+Zinc-Plated Steel
+Temp:
+Fuse

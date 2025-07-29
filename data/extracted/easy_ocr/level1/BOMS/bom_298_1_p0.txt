@@ -1,0 +1,109 @@
+COMPONENT BREAKDOWN
+Customer ID: NORWAY
+Coordinator: Jan Kowalski
+Date: 2023-12-04
+Product ID: DX-777T
+Internal No.
+8887782
+Order Qty; 160
+This document provides
+detailed breakdown of all components required for the assembly process
+Please review the itemized list of parts and material specifications before procurement. This summary
+lists every item required, with per-unit pricing details The parts manifest here
+designed
+support
+procurement workflows;
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Sensor Clip
+1.49
+pcs
+0.95
+5.70
+Certified
+batch
+Aluminum
+0.99
+pcs
+4.50
+157.50
+High
+Bracket
+grade
+Terminal
+0.32
+10%
+3.40
+20.40
+Imported
+Steel Sheet
+5.00
+210.00
+SKF brand
+A36
+Set
+2.53
+10%
+pCS
+2.50
+55,00
+Hinge
+alignment
+adjusted
+Ceramic
+1,07
+pCS
+2.10
+102.90
+ISO
+Disc 8Omm
+verified
+Protective
+1.36
+1.80
+75,60
+Eco
+Sleeve
+compliant
+SOmm
+Ceramic
+0.77
+10%
+pCS
+2.10
+81.90
+Eco
+Disc 80mm
+compliant
+Clamp
+0.96
+pCS
+1.75
+61.25
+Li-Ion
+120mm
+battery
+installed
+Bearing
+2.49
+pCs
+1.50
+27.00
+ROHS
+6202 ZZ
+compliant
+Review this summary against the master budgeting sheet:
+Total Amount:
+797.25
+Approved By: _
+Sourcing Department:
+Block
+Hinge =
+Rng

@@ -1,0 +1,49 @@
+QC Checklist
+Use tnis extract 
+coordinate
+sign-off with the QA manager: Use this list to confirm adherence to AQL and
+safoty standards.
+This section dotails quality requirements and tost points for the batch. The following table
+outlines inspection criteria and classification levels_
+Ensure all non-conforming marks are clearly
+documented_
+Product ID
+GL 9805
+Customer ID
+GREECE
+Item Description
+Ventilation Grid
+Audit Criteria
+Check
+Defect Class
+Notes
+Intensity
+Design Specs
+Hold
+Package
+not sealed
+Critical impact
+completely
+Connector not
+working
+Levei
+Minor issue obsered
+Missing safety labels
+Minor issue obsered
+Hinges loose
+Level
+Needs review
+Battery not included
+Color mismatch
+LcvG
+Needs review
+Rubber Swtch not working
+Lcve
+Needs review
+Visual defect on housing
+Minor issue observed
+Paint smearing or scratches
+Level 
+Minor issue observed
+Supervised by:
+Date:

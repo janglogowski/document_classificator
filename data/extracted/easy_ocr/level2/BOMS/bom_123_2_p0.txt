@@ -1,0 +1,69 @@
+Customer ID: NORWAY
+Product ID;
+Prepared by: Laura Rossi
+TX-8z0V
+Internal No.: 3946637
+Below is the companent
+manifest here
+listing and associated costs for the
+upcoming
+desigried to support procurement
+production batch The parts
+with
+llowances: This surnmary lists 
+workflows:
+the materials tally for compliarce
+oullines the parts; unit prices
+@VErYitem required, with per-unit pricing =
+and tolal amounts for assembly:
+cetails This section
+vendor quotes:
+All line-item costs are
+current as per
+Item
+Description
+Pack
+Coritral
+Packaging
+Panel
+Box
+Epoxy Resin
+Aluminum
+Mount
+Pack
+Bracket
+Qty
+155
+UOM
+969
+639
+912
+Unit
+25.00
+12.00
+Amount
+3,875_00
+0.95
+Remarks
+872.00
+969.00
+US0
+High grade
+Eco
+654.55
+6,657.60
+2,218.50
+campliant
+alignrerit
+battery
+aqjusted
+installed
+TOTAL: 16,246.65
+budget €
+Review
+Battety
+Cable
+4100)
+Price
+Hinge
+Li-ton

@@ -1,0 +1,75 @@
+DAILY PRODUCTION REPORT
+Report No::
+PR-751
+Customer'
+SWEDEN
+Supervisor:
+Nowak
+Department 
+Machining
+Dale
+14-05-2024
+Shift:
+[Morning)
+Equipment
+Task
+Wvorkem
+Begin
+Time Spent
+Remarks
+MC-201
+Welding
+Mateusz
+14;15
+15.20
+Recalibrated
+Jarzyna
+MC 204
+Welding
+Przemysiav:
+14.00
+15.57
+Recalbrated
+Wasik
+MC-209
+Przemystaw
+12:00
+13.04
+Wasik
+MC 201
+Polishing
+Bartosz
+07:15
+07.50
+Recalibrated
+Wawizyniak
+MC-205
+Drilling
+Magdalena
+09:15
+10.33
+Delay
+Witkowska
+Item
+planned
+Qty
+Produccd
+Qty
+Rejected Qty
+Scrap
+Commcnt
+HF390A
+5.8496
+Rewoikneeded
+3h00
+9396
+Rewanzneeded
+GL-9805
+0056
+Rawark needed
+Prepared bv:
+Jan Kowalski
+Approved by:
+Jan Kowalski
+Anna
+Cutting

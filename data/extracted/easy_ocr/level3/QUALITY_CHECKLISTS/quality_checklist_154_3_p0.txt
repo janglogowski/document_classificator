@@ -1,0 +1,73 @@
+Inspection Record
+Raview Points
+Check
+Defect Class
+Intonsity
+Comments
+Desien Specs
+Wood splinte
+'shatp
+Critical
+Major
+nor
+OnHold
+polnt
+Dlaquc
+Levell
+Instfucuon manual /s
+Critical impact
+missing 0r damaged
+Level II
+Missing loga ar waming
+Critical impact
+abe
+Level III
+Visual defect on
+ISSuc
+observed
+Level IlI
+Incorrect orientation
+Minor
+FAaa
+observed
+Level III
+Dead ,
+nsect in
+Minor Issue observed
+packaging
+Level III
+Not assembled
+drawing_
+Level II
+Packaging
+doas not match
+Needs rewew
+signed samole
+Level II
+Missing aistributor
+Critical impact
+intormation
+Level III
+Packoge
+nat sealed
+Critical Impact
+completely
+Dusudebris inside
+packaging
+Level III
+producl size
+Incorrect barcode
+label
+Level II
+Needs review
+Reference Standards:
+Needs review
+Standard
+CE Directivg
+Edition
+UL61010
+2020
+3rd Ed;
+Minot
+houbing
+Wtong

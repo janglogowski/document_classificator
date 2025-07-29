@@ -1,0 +1,119 @@
+Machine Log Summary
+Perfommed On: 2023-07-25
+Signedof
+Ana Noxa"
+pentmconot"
+Peler Schmial
+Ensure
+salely checks Kere
+comp eled during senvicing- Use Inis record
+plan upcoming Upkeep and repatts_ Please
+review Ihis log lr recent service dales; lypes; and remarks_Confrm thal service mlervals Iollow the prevenive schedule-
+Ths log records
+Mainienance
+actiities performed
+on the equipment
+Section
+Unit Code
+MC-257
+KC-226
+KC-224
+MC-209
+HC-252
+KC-228
+Equipment
+Foeemo
+AoSemd,
+Conveyor Beit
+CNC Milling
+Conveyor Belt
+Latne
+Robot
+Robot
+Machine
+LxPe
+CCLc C
+Preventie
+Prouentie
+Corece
+Inpecton
+Inpecton
+Technician
+Laura Rossi
+Janroakr
+Laua Roa
+Reter Schmiat
+Janroba
+Janroabh
+Duration
+Comments
+Wom gasket
+Replaced
+Replaced
+Algnmente
+replaced
+contacs
+coOant
+cooani
+hinges
+Claned
+acjusted
+Sectlon B:
+Unlt Code 
+MC209
+HC25L
+4C28
+HC2-
+NC226
+NcA
+Equipment
+CNC Maling
+Assembh
+Lathe
+Convveyor Belt
+Assembly
+Plasma Cutter
+Machine
+Robot
+Robot
+Lype
+Rreveniie
+Imeoecton
+Pretentie
+Rreeniie
+Inspection
+Inspecton
+ecnnician
+33
+Gcnmict
+JanKowakki
+Laua Ross
+Dunuen
+Comment
+WOM
+gasket
+WoM
+gasket
+Li-lon battery
+Sensor
+Alignment E
+Calbration
+Tedaceo
+replaced-
+Dact
+recalibrated
+hinges
+check OK_
+sennced
+adjusted
+Uptime
+Eror Count
+comment
+97.0822
+S4ch
+Calos
+Gara
+Ross
+Peter
+Cano
+Gara

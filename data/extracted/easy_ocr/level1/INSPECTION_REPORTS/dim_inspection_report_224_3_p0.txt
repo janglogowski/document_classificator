@@ -1,0 +1,147 @@
+Tolerance Check
+Inspection performed by Laura Rossi on 2023-09-01.
+This section details the measured values, tolerances_
+and status
+flags_
+The following data captures key
+dimensions and any deviations identified
+Ensure measurement methods align with calibration standards
+Check that
+dimensions comply with ISO and company standards. This data extract
+prepared tor
+quality-control sign-off:
+Environmental Conditions: Temperature:
+22.8 "C, Humidity: 52 %
+Article No.
+Component
+Measurement
+Nominal
+Actual
+Diff
+Status (VIX)
+RM-86ON
+Bearing
+Inner
+68,26
+68.31
++0.05
+OK
+6202
+Dlameter
+VF-2Z0D
+Ballery
+Widlh
+83.70
+83.53
+0.17
+OK
+NU 4402
+Hex Bolts
+Hole
+13.10
+13.05
+0.05
+Ok
+M12
+BZ-660F
+0-Ring NBR
+Length
+88.31
+88.35
++0,04
+Ok
+60mm
+WD-180S
+Battery
+Thickness
+76.57
+76.40
+-0.17
+OK
+Pack
+NU-440Z
+Steel Sheet
+Inncr
+13.25
+13.42
++0.17
+Ok
+A36
+Diameter
+Kv-390k
+Battery
+Inner
+35.42
+35.29
+-0.13
+Ok
+Pack
+Diameter
+PL-601Z
+Battery
+Inner
+48.65
+48.62
+0.03
+OK
+Pack
+Diameter
+FT-730X
+Steel Sheet
+Length
+10,99
+10,84
+0,15
+Ok
+A36
+XK- 610U
+Battery
+Inner
+42.96
+42.83
+0.13
+Ok
+Pack
+Diameter
+VR-940T
+Shaft
+Height
+49.39
+49.51
++0.12
+OK
+500mm
+SL-430M
+Bearing
+Depth
+71.48
+-0.04
+OK
+6202
+Pw-515Y
+Steel Sheet
+Inner
+71.47
+71.34
+-0.13
+Ok
+A36
+Diameler
+AL-1150
+Graphite
+Depth
+54,47
+54,60
++0.13
+OK
+Pad
+SB-140D
+Rubber
+Depth
+46.74
+46.70
+0.04
+OK
+Gasket
+80mm
+Pack

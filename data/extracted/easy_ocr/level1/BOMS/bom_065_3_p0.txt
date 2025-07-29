@@ -1,0 +1,100 @@
+COMPONENT BREAKDOWN
+Refer t0 this
+register t0 plan raw-material purchasing
+AIl line-item costs are current as per
+vendor quates
+AIl entries reflect the latest inventory and supplier rates:
+Use this schedule of
+to align with sourcing and stock levels_
+This section outlines the
+unit prices and total
+amounts for assembly. This document provides
+detailed breakdown of all components required
+for the assembly process
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Stainless
+pCS
+0.35
+10.50
+Certified
+Bolt M8
+batch
+Insulation
+pcs
+3.20
+83.20
+Pad
+Clamp
+pCS
+1.75
+45.50
+Imported
+120mm
+Protective
+1.80
+91.80
+Sleeve
+s0mm
+Clamp
+pCS
+1.75
+45.50
+Heat
+2.70
+21.60
+Resistant
+Sleeve
+Shaft
+pCs
+8.00
+280.00
+ROHS
+s0Omm
+compliant
+Set
+pcS
+2.50
+122.50
+High grade
+Digitab
+pcs
+15.00
+165.00
+Certified
+Display
+balch
+Unit
+Protective
+1.80
+66.60
+Sleeve
+alignment
+s0mm
+adjusted
+Customer ID: NORWAY
+Coordinator: Carlos Garcia
+2023-04-07
+Product ID:
+RX-310Z
+Interal
+7080223
+Order Qty 441
+Total
+Amount:
+932.20
+pans
+parts
+parts
+Foam
+Ring
+Ring
+120mm
+Hinge
+Hinge
+Dale:

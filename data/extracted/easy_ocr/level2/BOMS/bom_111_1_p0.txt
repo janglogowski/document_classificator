@@ -1,0 +1,58 @@
+BOM Report
+Customer ID: CANADA
+Coordinator: Laura Rossi
+Date: 2024-12-28
+Product ID: TR-ZOOB
+Interna
+No:: 7903436
+Order Qt 345
+Allline-item costs are current
+per vendor quotes Refer t0 this parts register t0 plan raw-material
+purchasing: The component roster below includes unit costs and batch codes. The following table
+summarizes the materials and quantities needed for the current project_
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+1.26
+1078
+pCS
+8.00
+48.00
+soOmm
+alignment
+adjusted
+Heat
+3.45
+1070
+2.70
+54.00
+Eco
+Resistant
+compliant
+Sleeve
+Insulation
+2.48
+PCS
+3.20
+124.80
+Foam Pad
+Copper
+2.18
+0.60
+12.60
+Imported
+Wire 3mm
+Please confirm supplier lead times to ensure timely delivery of all items: All sourcing notes have been
+logged for audit purposes Ensure archival of this materials summary for compliance records
+Total Amount:
+239.40
+Approved By:
+Sourcing Department:
+Hinge

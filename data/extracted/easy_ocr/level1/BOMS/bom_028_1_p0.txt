@@ -1,0 +1,89 @@
+BOM Report
+Customer ID: POLAND
+Coordinator: Laura Rossi
+Date: 2023-03-25
+Product ID: HF-390A
+Internal No.
+4985140
+Order Qty; 166
+All line-item costs are current as per vendor quotes Please review the itemized list of parts and material
+specifications before procurement:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Terminal
+0.57
+pCS
+3.40
+37.40
+Switch
+Block 4P
+tested
+Steel Sheet
+2.35
+5.00
+195.00
+A36
+Protective
+2.17
+1,80
+30.60
+High
+Sleeve
+grade
+5Omm
+Shalt
+2.58
+pcS
+8,00
+184,00
+Certified
+50Omm
+batch
+Rubber
+2.84
+pcs
+0.55
+14.30
+Imported
+Stopper
+Copper
+0.74
+0.60
+1.20
+Urgent
+Wire 3mm
+Protective
+0.66
+10%
+1.80
+High
+Sleeve
+grade
+SOmm
+Ceramic
+0.74
+10%
+pcS
+2.10
+6.30
+Li Ion
+Disc 8Omm
+battery
+installed
+Total
+include estimated over-consumption
+Ilowances and current unit rates_
+Amounts reflect current
+pricing; adjust
+necessary for bulk orders:
+Total Amount:
+470.60
+Approved By: _
+Sourcing Department:

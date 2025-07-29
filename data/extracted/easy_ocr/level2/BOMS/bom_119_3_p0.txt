@@ -1,0 +1,120 @@
+COMPONENT BREAKDOWN
+This summary lists every item=
+includes unit costs
+required, with per-unit pricing
+end batch codes
+aetails. The component roster
+stendards
+each component
+pelaw
+shows the bill of _
+meets the specified quality
+itemized list of parts and
+components and tctal projected
+material specifications belore
+spand;
+review; the
+procurement.
+Itern
+UoM
+Description
+Rate
+Amouht
+Spring
+Remarks
+PCS
+0.05
+0.90
+M1o
+Insulation
+Pad
+3.20
+22.40
+Ceramic
+PCs
+80mm
+2.10
+52.50
+For export
+Set
+Hex E
+Pcs
+127.50
+SKF
+M12
+0.25
+brand
+9.00
+Terminal
+export
+PCS
+3.40
+125,80
+Li-Ion
+Steel Shect
+A36
+5,00
+(stalled
+190.00
+Gasket
+alignment
+adjusted
+Sheet AA
+26,25
+Urgent
+Washer
+PCS
+0.05
+1.55
+MT
+Li-Ion
+pattety
+Set
+Epoxy
+2.50
+Installed
+Resin Kit
+pCs
+7.30
+SKF branq
+321.20
+patten
+installed
+verify totals with the ERP
+allowences and current €
+system for
+consistency Totals include
+unit rates
+estimated ovef-
+consurnption
+Custorer ID: NORWAY
+ProdluctID: DX-777T
+Coordinator: Anna
+intema
+No ; 7214686
+Date; 2024-01-79
+234
+Total
+1.014,60
+Ensuro
+Inis
+Otroci
+Please
+Wasnet
+Foam_
+Disc
+Hinrie
+2.,50
+Bolto
+Block =
+battery
+Hinge
+Spring
+Hinge
+137.50
+L-lon
+Cios&;
+Nowak
+Ordar
+Q:
+Amouni:

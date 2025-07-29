@@ -1,0 +1,95 @@
+BOM Report
+The component roster below includes unit costs ad batch codes. This section outlines the parts;
+unit prices and tota
+amounts for assembly
+This extract
+the bill of components and total
+projected spend. This document provides
+detailed breakdown of all components required for
+the assembly process:
+tem
+Qly
+UOM-
+Rale
+Amouni
+Remarks
+Description
+Stainless
+PCS
+0.35
+ROHS
+Bolt 48
+compliant
+Heat
+2.70
+27.00
+ISO-
+Resistant
+verified
+Sleeve
+Terminal
+pCS
+3.40
+119.00
+SKF brand
+Block 4P
+Battery
+pCS
+25.00
+675.00
+Pack
+Rubber
+pCS
+0.50
+16.00
+Gasket
+80mm
+Copper
+0.60
+3.60
+Imponted
+Wire 3mm
+Shaft
+PCs
+8.00
+128.00
+s00mm
+Spacer
+pCS
+0.15
+0.75
+Li-Ion
+Zmm
+battery
+installed
+Power
+1.20
+21.60
+Certified
+Switch
+balch
+Insulation
+PCS
+3.20
+38.40
+Urgent
+Foam Pad
+Wooden
+pCS
+15.00,
+555.00
+Pallet
+Final amounts include handling and logistics costs where applicable. Verify that all remark items
+meet tne sourcing department $ standards
+Customer ID: NORWAY
+Coordinator_Laura Rossi
+Date: 2023-02-25
+Product ID: JD-ZOOW
+Intera
+No:: 4714807
+Order QtL 488
+Tota
+AMounc
+588.90
+shows
+PCS

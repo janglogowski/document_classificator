@@ -1,0 +1,73 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-632
+Customicr
+POLAND
+Supervisor:
+Carlos Garcia
+Department:
+Painting
+Shift:
+(Nighth
+21-02-2025
+Ensure any downtime incidents are noted for follow-up
+Thiz section details the key metrics and activities
+recorded during the shift; This extract shows daily yield, scraprates, andrawork occurrences_
+Hachine
+Task
+Worker
+Begin
+End
+Duration
+Notes
+Temp
+Energy
+Wm
+(min}
+Used
+MC-208
+Cutting
+Jan Kowalski
+09.30
+11.00
+Recalibratad
+63.4
+1.73
+MC-205
+Pollshing
+Przamyslaw
+07.30
+08.50
+Racallbratad
+78.0
+2.59
+Wasik
+MC-204
+Cutting
+Dawid
+10.00
+10.55
+58.8
+1,80
+OszmianczuC
+MC-208
+Welding
+Piotr
+07.30
+08.49
+69.3
+1,96
+Lewandowski
+MC-205
+Drilling
+Agnieszka
+06.00
+06.27
+NJA
+63-8
+2.27
+Zielinska
+Prepared DY:
+Peter Schmiat
+Aoproveo DA
+Anna Nowak

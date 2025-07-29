@@ -1,0 +1,114 @@
+Measurement Summary Sheet
+Inspection performed by Jan Kowalski on 2024-03-01.
+Please review the inspection results for each
+component listed below
+This section details the measured values,
+Rolerances
+and sats
+flags. Refer
+the dimensional
+log for all component size readings The followirg data captures
+key dimensions
+and any deviatians identified_
+Environmenta
+Conditions: Tempe
+20.8
+Humidity: 52 %
+Article No_
+Component
+Measurement
+Target
+Observed
+Diff
+Status (VKX)
+LP-SSSV
+Steel Sheet
+Inner
+80.37
+80.31
+~0.06
+436
+Diameter
+MX-450L
+Plastic Rivets
+Length
+99,90
+99.72
+0,18
+HF-390A
+Rubber
+Length
+94.13
+9 -01
+0.12
+Gasket 80mm
+PW-S1SY
+Rubber
+Wicth
+17.43
+17.42
+0.01
+Gaske
+CE-905L
+Hex Bolts
+Length
+13.97
+13.93
+0,04
+M1?
+QP-GG0F
+Bearing 6202
+Depth
+39.72
+39.76
+40 Od
+CE-905L
+0-Ring NBR
+Hole
+56,01
+55.84
+0.17
+60mm
+XK-61OU
+Hinge
+Length
+82.59
+82.75
++0.16
+AL-1150
+shaft S0Omm
+Inner
+89.74
+89.85
++0.11
+Wiameter
+Gh-7701
+Hex Bolts
+Hole @
+49.92
+49.95
+40.03
+61)
+AZ-300T
+Rubher
+Depth
+21,59
+21.52
+0,07
+Gjset summ
+QN-ZZ0H
+Powe
+Swirch
+Wiath
+51,50
+51,37
+0 13
+Kv-390k
+Rubber
+Length
+82.51
+82.68
+T0;
+Gas-et *umm
+-rature
+Bomim

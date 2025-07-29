@@ -1,0 +1,131 @@
+Dimensional
+Inspection performed by Laura Rossi on 2024-09-07 .
+This report presents the dimensional measurements and inspection results. Refer to the dimensional log for all
+comiponent size readings
+This data extract
+prepared for quality-control sign-off. The Inspection
+below
+highlights any out-pf-tolerance parts. Use this results summary
+trigger any corrective
+acions
+Environmenta
+Conditions: Temperature
+22.9
+Humidity: 41 %
+Item Code
+Part Name
+Measurement
+Target
+Observed
+Diff
+Status (VKXL
+Xk-61OU
+0-Ring NBR
+Denth
+73.76
+73.81
++0.05
+60mm
+5L-430M
+Battery Pack
+Depth
+35,74
+35.83
+L00g
+Lk-8908
+Power 5wilch
+Depth
+85.28
+85.09
+AZ-JOOT
+Bearing 6202
+wicth
+21.24
+21-34
++0.10
+AZ-JOOT
+Bearing 6202
+Height
+91.70
+91.82
++0.12
+AZ-300T
+Bearing 6202
+Width
+54.37
+54.42
+10.05
+NU-44OZ
+Hex Bolts
+Length
+6.79
+6.74
+-0.05
+M1?
+PW-SISY
+Shaft S00mm
+Height
+TX-820v
+Plastic Rivets
+Length
+KP-3Z0E
+Battety Pack
+width
++0,05
+BZ-660F
+Hex Bolts
+Height
+68.31
+68.42
++011
+M12
+CN 150C
+Rubber
+wicth
+37.50
+37.6}
++0.13
+Ga5kei
+XD-ZIOR
+Graphite Pad
+Height
+5.83
++OC
+TX- B20v
+Wwaauen
+Thickness
+30.87
+30.97
++0.10
+palet
+NU- 4402
+Plastic Rivets
+Thickness
+74.07
+74.14
++0.07
+WD-1805
+0-Ring NBR
+Height
+90.86
+90.76
+0.10
+GOtm
+CN-150C
+Bearing 6202
+Hole
+95.31
+95.15
+0.16
+WD-1805
+Rubber
+Inner
+54.54
+54.55
++0.01
+Gaskelsomar
+Diameier
+Log
+TeElster
+O-To
+G0mm)

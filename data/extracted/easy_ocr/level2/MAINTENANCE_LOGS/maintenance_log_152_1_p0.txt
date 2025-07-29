@@ -1,0 +1,56 @@
+Equipment Record Report #7903731
+Date
+2025-04-25
+Machinc
+Equlpment
+Service Type
+Technician
+downtMC
+MC-240
+Assembly
+Inspeclion
+Jan Kowalski
+Plant 1C
+Changed oill
+Robot
+and Mtecs
+MC 255
+Assembly
+Inepectom
+Jan Kowalski
+Plant 28
+calbration
+Robot
+check OK
+MC-203
+L3se
+Cutter
+Praventve
+Peter Schmidt
+Piant 34
+Replaced
+coolani
+MC-263
+Plasma Culter
+Inspucliom
+Schmidt
+Plant 34
+Swrilch
+contacts
+Cieaned
+No critical faullts were found during the Iatest Inspection. Overab
+equlpment condition
+salisfactory post-malntenance
+Ensure next preventive senice [
+scheduled according
+plan: AIl maintenance durations are recorded for performance
+metrics. Check remaining life-Cyc es
+key componenis iromn this report:
+Lubrication Checked
+Cdllbralion Veriligu
+Fmerenc
+Stop Tested
+Signed ol:
+Performed by:
+Notes
+Pelet

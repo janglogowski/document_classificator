@@ -1,0 +1,69 @@
+Conformance Report
+#4685645
+Date: 17.07.2025
+Product ID
+AL1150
+Customer ID
+TURKEY
+Item Description
+Spring Washer M10
+Below are Ine items
+be verified during the final
+product review'
+Use this extract to coordinate sign-off with
+the QA manager: Check that inspection steps follow the approved procedure:
+This section details quality
+requirements and test points for the batch; Confirm that sampling levels comply with customer agreements
+This closure sumimary indicates comipliance wilh inspection critera_
+Use lhis Iist =
+adherence to
+AQL and safety standards_
+Audit Criteria
+Sample
+Category
+Comments
+Tier
+Component Crileria
+Hinges loose
+Level
+Connecior not
+working
+evel
+Not assembled as per drawing
+Level l
+Minor Issue observed
+product size
+Level
+Needs review
+Wood splinter or sharp point
+Level
+on product
+Exposed nail with sharp point
+Missing distributor infomation
+Needs review
+Instruction manual
+missing
+Needs review
+damaged
+Color mismal
+LevE
+Crilical ipact
+Visual delect on housing
+Minor issue observed
+ncorreci
+quantity =
+Minor issue observed
+assonmeni
+AQL Level
+Critical
+Minor
+Default
+Customer specific
+Corrective actions are scheduled for identified issues. Iterns marked for hold require additional review before
+relcase
+Confirm that :
+sampling results are within acceptable limits
+This final note confirms the checklist is
+complete and approved;
+confinn
+Wrong

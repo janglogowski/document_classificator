@@ -1,0 +1,90 @@
+Product Data Sheet
+Proieca
+LK 8908
+Report
+PR-162
+Prepared By
+Jan Kowalski
+Approved By:
+Laula
+Rassi
+Location; Plant 28
+Date: 2024-03-26
+Made
+Type
+Pneumatic Control Unit
+Design Pressure
+210 bar
+Throughput
+30 Limin
+Operating
+50 Hz
+Moror
+Powcr
+5,5kW
+Frame Materia
+4uminvm
+Leve
+Z0dB(A)
+Charging Time
+pumo
+Type
+Protection Class 
+IP65
+Control Valve
+Dlrectional 43
+Service Interval
+Monins
+Total Weight
+250 kg
+Dimensions (LxWxH)
+1000 x 650x 1000 mm
+Battery Capacity
+5 Ah
+Reservoir Capacity
+160
+Cooling
+Air-coaled oil radiator
+Oil Vype
+HLP
+Mounting
+Wai-mounted
+Filtration
+10 um return, 25 Mm
+quction
+Working Temp: Range
+10*C to50"C
+AII summary
+comments njve
+been recorded in tne revision
+Document control numbers are included
+traceability;
+specifications meet the design requirements and Industry standards This closure note indicates the
+data sheet
+TLady
+Iease
+Material _
+Construction:
+Mem
+Raw Material
+Hinge
+Stainless Steel 304
+Lannecar
+Illed Nylon
+Support Faot
+Stainless
+304
+Cooling
+Pack
+Rubber
+Cable Tie Pack (102)
+Nitrile Rubber INBR 
+Voltage
+Frame
+Noise
+Vane
+Pump
+Jor ;
+Glas?
+Steel
+Silicone

@@ -1,0 +1,67 @@
+Inspection Sheet
+Audit Criteria
+Check
+Severity
+Notes
+Intensty
+Product Requirements
+Hold
+Nol assemoled as per
+Level
+Needs review
+drawing
+Incorrect barcode or label
+Level
+Needs review
+Missing distbutor information
+Level
+Critical impact
+Package
+not sealed
+Level
+Critical impact
+completely
+Color mismalch
+evel
+Minor _ssue observed
+Screws
+Mssino
+Leve
+Needs
+Rubber_Switch nol working
+Leve
+Needs review
+Missing logo
+or warning label
+Levei
+Needs review
+Wrong product size
+Levei
+Needs review
+Sharp edges on plastic
+components
+Missing safety labels
+Levei
+Needs review
+Incorrect orientation
+Level
+Packaging does not match
+Critical impact
+signed sample
+Wood splinter or sharp point
+Minor issue observed
+on product
+Rubber texture
+glossiness
+Level IlI
+Critical impact
+mismatch
+Reference Standards;
+Standard
+Edition
+50 9001
+2020
+IEC 61010
+3rd Ed,
+evle:
+bor

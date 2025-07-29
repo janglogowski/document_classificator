@@ -1,0 +1,59 @@
+#1548818
+Quality Verification
+Date: 17.07.2025
+Product ID
+CN-I50C
+CuatomurI0
+FRANCE
+Itom Deacription
+Fuse 54
+Check that inspection steps follow the opprovad procedure
+UUao this xtructto
+coordinata sign-olf wlth the QA
+manager. This section dotails quollty requiroments and tost polnts for the batch. This summary supports the
+production:
+lenyu
+quallty gnte
+Entrles Includa both visua
+and funcilona
+Inspection items. Ihls closure
+aummEMU
+Indicates compllance with Inspaction critoria. Use this Uist
+confirm adherence t0 AQL and safety
+standards
+Ensure all non-conforming marks are clearly documented
+All checklist entries are tImestompad for
+tracanbillty: Confirm that sampling levels comply with customer agreements
+Quallty Check Itoms
+Sompling
+Sovority
+Obsorvationg
+Lmvu
+Dosicn Spucs
+Misalng loro or warning labol
+Lavui
+Nuuda rovaw
+Dust/dabris Inaida paCkOpiG
+Luvcm
+Mlsslng anfoty Iabols
+Crtical
+Impuct
+Sci4vy (0030
+Luvdi
+Minor Isque observod
+Cannector not eorking
+Lovai
+Instruction mnanuolia missing
+Neads ravlow
+damoged
+araduct SizC
+Lavui
+Criticalimpnct
+Wtong
+AQL Levol
+Critical
+Molor
+Dofuult
+Cuxtamar
+spuciilc
+hinol

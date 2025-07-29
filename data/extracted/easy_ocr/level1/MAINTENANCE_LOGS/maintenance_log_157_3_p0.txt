@@ -1,0 +1,96 @@
+Machine Log Summary
+Performed On: 2023-10-07
+Authorized bx;
+Laura Roszi
+OcGralor
+Carlos
+Garcia
+Dulor
+UTu Suramian
+SCNICC ucluns alu dOwnlIr US
+yach Mac Inc
+This log records
+MairlumanCC
+Jcuvilic $
+perloriied o the OqUIpmenL Use Inls record
+plami upcoMO
+upkuup and repars
+Tnis mainlenance exlracl
+prcuargd
+for compliance audit trails_
+ease review this Ilcg for recent service dates , types, and remarks
+sen ice
+3umman
+supports the reliability engineering review
+Section
+Machine
+MC 250
+KC ?94
+MC 293
+MC 255
+Wachine
+Assembly
+Robot
+Packaging
+Hvdraulic
+Hudraulic
+ypC
+preventve
+Lofrective
+Coreciive
+orecive
+Technician
+Anna ~cwar
+Jan Kovaiski
+Caros Garcia
+Laun
+Ross
+Durilon
+Comments
+Alignment
+hinges
+Switch contacts
+Calibration cneck
+Wooden pallet
+aqjuste D
+cieaned
+chacteo
+Sectlon B:
+Machine
+MC 293
+MC 250
+MC-294
+MC 255
+Machine
+Hydraulic Press
+Assembly Robot
+Packaging Line
+Hydraulic Press
+Type
+Concci
+Cocctv
+Caneclivc
+picrcninc
+echnician
+Jan Kowalski
+Peter Schmidt
+Anne
+Noiak
+Duratlon
+Comments
+No issues found;
+Wocden pallet
+Woaden pallet
+Refilled cil (HLP 46),
+checked
+cnecked
+Uptime (%)
+Error Count
+comments
+96 2626
+Reniacen Titer
+Tn,
+Prossi
+Prcse
+Carins
+Carcia

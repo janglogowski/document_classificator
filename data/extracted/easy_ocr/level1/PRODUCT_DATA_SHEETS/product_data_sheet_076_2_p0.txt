@@ -1,0 +1,62 @@
+Unit Configuration
+Use this sheet to confim engineering requirements and tolerances: This technical overview supports the
+product-release checklist: This data sheet provides key specifications and material details
+Entries include
+both mechanical and electrical
+specifications. Ensure all referenced standards are Up to date:
+Product ID:
+Zoow
+Document No::
+PR-5OO
+Prepared by: Jan Kowalski
+Approved by: Carlos Garcia
+Date: 2024-10-0g
+Configuration Type
+Pneumatic Control Unit
+Operating Pressure
+300 bar
+Flow Rate
+75 Umin
+Supply Voltage
+400
+S0Hz
+Noise Level
+70 dBLA
+Motor Power
+I1kW
+Dimensions (LxWxH)
+1200
+700 x 1100 mm
+AlI summary comiments have been recorded In Ine revision log
+Confirm thal all test conditions are
+accurately represented. Flag any missing parameters for urgent specification updates: This summary
+reflects the latest revision of the product data, Check that all section headers follow the product template,
+Material of Construction:
+Subcomponent
+Raw Material
+Wiring
+OCM
+PVC (Rigid)
+Wooden Pallet
+Treated Pine Wood
+eflon Tape Roll
+Teflon
+ape Roll
+Capacitor 450V
+Aluminum 6061-16
+Graphite
+Graphite Pad
+Gasket Sheet
+Nitrile Rubber (NBR)
+Support Foot Stee
+Stainless Steel 304
+Cable Tie Pack (10OL
+Nitrile Rubber (NBR
+Rubber Gasket B0mm
+Nitrile Rubber (NBR
+Hex Bolts M12
+Zinc-Plated Steel
+Bearing 6202 ZZ
+Stainless Steel 304
+Connector 2P
+Glass-Filled Nylon

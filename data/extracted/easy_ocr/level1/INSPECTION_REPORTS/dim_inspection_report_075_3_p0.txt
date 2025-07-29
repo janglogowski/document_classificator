@@ -1,0 +1,130 @@
+Inspection performed by Jan Kowalski on 2023-11-17.
+Item Code
+Component
+Dim
+Nominal
+Obsenvcd
+Delta
+Status
+(VIXI
+ZR-2OSR
+0-Ring NBR
+Height
+5.04
+5.23
++0.19
+PASS
+Gommn
+MX 450L
+Graphite Pad
+Thickness
+89.92
+PAss
+AZ-300T
+Powe
+Switch
+ength
+PASS
+HF-3904
+Height
+15.83
+15.8,
+0404
+PASS
+CN-150C
+Hinge
+Depth
+6.23
+PASS
+XD-7IOR
+Hex Bolts
+Hole
+52.76
+52.68
+0.08
+PASS
+M1?
+RF-850C
+Shaft s00mm
+inner
+37.71
+37,53
+0.18
+PaSS
+Diameter
+MS-6OOP
+Battery Pack
+Inner
+33.52
+33.48
+0-04
+PASS
+Diameter
+6I-9805
+Steel Sheet
+Height
+71,74
+71,59
+-0.15
+PASS
+A36
+KP-320E
+Wacden
+Inner
+80.33
+80.20
+0.13
+PASS
+pallet
+Wiameter
+BZ-660F
+Battery Pack
+Hole
+38,00
+0.13
+PASS
+GL-YRUS
+Battery Pack
+Height
+40.18
+40.31
+PASS
+CN-150C
+Hinge Set
+Width
+LO1i
+PASS
+GL-9805
+Plastic Rivets
+Inner
+45.03
+45.03
++0.00
+PASS
+Diameter
+58-140D
+Rubber
+wicth
+82.89
+83.04
++0.15
+PASS
+6a5* P
+PW-SISY
+0-Ring NBR
+Height
+83.46
+83.01
++0.15
+PASS
+6omm
+HF-3904
+Woaden
+Length
+5.32
+5,27
+0.05
+PASS
+Pallet
+hinge
+B0mm

@@ -1,0 +1,76 @@
+Equipment Record Report #5103793
+Date: 2023-10-30
+Unit Code
+Machine
+Service Type
+Operator
+Downtime
+Site
+Comments
+MC-294
+Plasma Cuttor
+Inspection
+Launa Rosc
+pant 23
+MC-242
+CNC Miling
+Ccrrective
+Peter Schmidt
+Changed oil
+Machine
+MC-205
+Conve"
+Bell
+Inspectici
+Laura Ko3si
+Plant 34
+Mc
+Laser Cuter
+Inspecticm
+Peter Schmidt
+pani /F
+MC-256
+Palnt Booih
+Eccct
+Jan Kowalski
+PhniC
+LI-Ion baltery
+RCNiced
+MC-239
+Conveyor Bell
+Prevantive
+Carlot
+Garcia
+Plant 2B
+Li-Ior
+battery
+dacic
+serviced
+MC-295
+CNC Miling
+Ccrrective
+Anna Nowak
+Plant 34
+gas*et
+Machine
+redlacec
+Maintenance
+nater
+are archived for compliance
+audltsFlag
+recurring
+ssMes
+fcr root-cause Invesiigation. Archive this
+summary in the CMMS for future reference
+Check remaining life-cycles
+key components from this repon;
+Luoncancn
+Checked
+Callbration Verlfed
+Emergency Stop Tested
+Signed olf: _
+Performed by:
+Plni
+Med
+pcR
+Won

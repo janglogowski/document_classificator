@@ -1,0 +1,49 @@
+Product Data Sheet
+Interno
+5035702
+Product ID: NE-2454
+2024-12-10
+Unit Type
+Pneumatic Contro
+Design Pressure
+250 bar
+Flow Rate
+48 Limin
+Voltage
+230 V
+50Hz
+Mator
+Pow
+Reservoir
+Capacity
+J60L
+Tota
+Weight
+180 kg
+servicc interval
+Moncns
+Hiltration
+10 um return
+Frame Material
+Powden-coated Steei
+Cooling
+Water-cooled exchanger
+Component Materials Overvieve:
+Labe
+Base
+Specification
+Bearing 6202 22
+Stainless Steel 304
+UL-stec
+Cooling Gel
+pacr
+Silicone Rubber
+RoHS compliant
+Support Foot Stee
+Stainiess btec
+DIN EN 10025
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia
+Date.
+Unit
+ioinc

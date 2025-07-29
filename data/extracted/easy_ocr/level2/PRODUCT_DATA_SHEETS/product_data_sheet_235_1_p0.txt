@@ -1,0 +1,64 @@
+Product Overview
+Project:
+SL-430M
+Unterna
+No::
+1751119
+Prepared
+Peter Schmidt
+Approved By:
+Anna Nowak
+Location: Plant 34
+Date: 2023-07-30
+The following information outlines performance characteristics and design data: This report extract
+prepared tor
+gn-verification audits Refer to this configuration summary for unit-designation mapping: This section details the
+configuration and parameter set for the product AlI data entries are traceable
+design revision history: Please
+revie t
+specifications and material composition listed below.
+Model Type
+Hydraulic Power Unit
+Design
+Pressure
+210 bar
+Flow Rate
+75 Lmin
+Supply Voltage
+230 -
+50 Hz
+Dlmensions (LxWxH)
+1200 x 700 * 1100 mm
+Battery Capacity
+10 Ah
+Miounline
+Rack (rame
+Control Valve
+Proportional 4/2
+Total Welght
+250
+seruice
+Interva
+12 months
+Charging Time
+Motor Power
+S.5kW
+Oil Type
+HLP
+Cooling_
+Air-cooled oil radiato
+Protection Class
+Working Temp:
+Range
+-10'Cto 50*C
+Use this summary
+Cnss
+check with BOM and Inspection reports
+Check that all section headers follow the product
+template. Overall configuration
+within defined
+safety margins
+spedfications meet the design
+requiremients
+and industry standards This summary reflects the latest revision of the procuct data.
+desien

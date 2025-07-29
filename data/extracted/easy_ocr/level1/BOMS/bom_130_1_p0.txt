@@ -1,0 +1,88 @@
+COMPONENT BREAKDOWN
+Customer ID: FRANCE
+Coordinator: Carlos Garcia
+Date:
+2024-08-27
+Product ID: QN-770H
+Interna
+No:: 7342229
+Order Qly: 491
+All entries reflect the latest inventory and supplier rates. This extract shows the bill of components
+and total projected spend
+Review the materials tally for compliance with budget allowances:
+Please review the itemized list of parts and material specifications before procurement
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ceramic
+2.67
+0%
+pCS
+2.10
+6.30
+Imported
+Disc 8Omm
+Protective
+1.98
+2%/
+1.80
+18,00
+SKF
+Sleeve
+brand
+s0mm
+Copper
+3.46
+0.60
+SKF
+Wire 3mm
+brand
+Control
+3.11
+pCS
+12.00
+408.00
+Switch
+Panel
+tested
+Mount
+OK
+Spacer
+2.23
+0%
+pCS
+0.15
+3.15
+Imported
+2mm
+Rubber
+3.44
+0%
+12
+pCS
+0.55
+6.60
+Eco
+Stopper
+compliant
+Power
+1.78
+pCS
+15.60
+High
+Switch
+grade
+This final review confirms that all items are ready for requisition. Verify that all remark items meet
+the sourcing department's standards
+Total
+Amount:
+462.45
+Approved By:
+Sourcing Department:

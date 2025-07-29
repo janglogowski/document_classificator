@@ -1,0 +1,101 @@
+Shift Summary
+Report No :
+PR-870
+Custcmer:
+BELGIUM
+Supervisor;
+Laura Ross)
+Department:
+Qually Contiol
+Date:
+15-04-2024
+Shift:
+(Nignt)
+Machine ID
+Task
+Operator
+Begin
+End Time
+Time Spent
+Uwagi
+MC-202
+Cutting
+Anna
+12.,00
+13.05
+Nowak
+MC-206
+Cutting
+Magdalena
+09.00
+10.53
+113
+Recalibrated
+Witkowska
+MC-206
+Cutting
+Agnieszka
+09.30
+10.56
+Delay
+Zielinska
+MC-201
+Welding
+Agnieszka
+11.00
+12.24
+Delay
+Zielinska
+MC-20g
+Welding
+Przemyslaw
+13.15
+15.04
+109
+Wasik
+MC-206
+Welding
+Przemnyslaw
+12.30
+14.21
+Delay
+Wasik
+MC-207
+Welding
+Agnieszka
+12.15
+13.29
+Zielinska
+MC-207
+Welding
+09.30
+11.01
+Delay
+Kowalski
+Part ID
+Planned
+Achieved Qty
+Scrap Qty
+Rejection
+Notes
+Output
+TY 350G
+119
+111
+6.729
+Rework
+needed
+IR-2OOB
+243
+241
+0.8240
+AZ-3OOT
+279
+246
+11,83%
+Rework
+needed
+Prepared DX:
+Laura Rossi
+Approved DV:
+Peter Schmidt

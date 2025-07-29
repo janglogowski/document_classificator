@@ -1,0 +1,98 @@
+BILL OF MATERIAL
+Customer ID: SWEDEN
+Coordinator: Carlos Garcia
+Dalte: 2024-07-01
+Product ID: VR-940T
+Internal No : 6529468
+Order Qty: 323
+This document provides
+detailed breakdown of all components requlred for the assembly
+process
+All entries reflect Ihe Iatest Inventory and suppller rates.
+Ensure each component meets
+Ihe specified quality standards. Use (his breakdown t0 verify sourcing and cost estimates
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+2,92
+5%
+pcs
+0,55
+5,50
+ISO-
+Stopper
+verifiled
+Aluminum
+0.35
+2%
+pcs
+4.50
+13.50
+Urgent
+Bracket
+Heat
+1.48
+2.70
+81,00
+High
+Resistant
+grade
+Sleeve
+Ceramic
+03
+10%
+pcs
+2,10
+94,50
+Eco
+Disc 80mm
+compllant
+Steel Sheet
+2.72
+109
+5,00
+260,00
+ROHS
+A36
+compliant
+Grease
+1,18
+pCS
+1,90
+58,90
+Switch
+Tube 250ml
+tosted
+Ok
+Spring
+1,12
+29/
+pCS
+0,05
+0,60
+Washer
+Mio
+Venillation
+1,17
+2%/
+pcs
+5,60
+240,80
+Urgent
+Grid
+All sourcing notes have been logged for audit purposes. Amounts rellect current pricing:
+adjust as
+necessary for bulk orders. Ensure archival of this materials summary for compliance records,
+This
+closure summary validates (hat all parts are approved for release
+Total Amount:
+754.80
+Approved By:
+Sourcing Department;

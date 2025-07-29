@@ -1,0 +1,153 @@
+No:: PR-784
+Customer: BRAZIL
+Shift: B (Evening)
+Date: 22-0322025
+Equipment
+Operator
+Begin
+Total
+MC-204
+Welding
+Wiktor
+duration
+Remarks
+Condition
+11315
+12.41
+Kopczynski
+MC-2d8
+Assembly
+Przemystaw
+Delayed
+14.15
+15.26
+Wasik
+MC .
+Welding
+Nadia
+Delayed
+MC-207
+Polishing
+Piodra Sauter
+12.00
+13.04
+Lewandowski
+Recalibrated_
+Completed
+MC-201
+Completed
+Bartosz
+08.30
+10.30
+MC-206
+Wawizyniak
+120
+Compleled
+Dawd
+07.30
+09.28
+118
+MC-203
+Palishing
+Oszmianczuk
+Piotr
+10.30
+Lewandowski
+11.56
+progress
+MC-204
+Zieniesaa
+13.00
+14.25
+progress
+MC-202
+Welding
+Magdalena
+Completed
+Witkowska
+07.30
+08.43
+MC-202
+Assembly
+Recalibrated
+Bantosz
+'2.,00
+Wawrzyniak
+13.14
+progress
+MC-202
+Delayed
+MC-207
+Kowalski
+06-00
+0Z.13
+07.15
+08.44
+Delay
+Delayed
+Jarma
+Ok
+Delayed
+remarks for any rewark or quality -
+here The performance recap
+concems_
+any adjustments to shift
+any pending issues. Archive
+supports the morning
+agenda. Ensure
+schedules Or staffin]
+thrs
+summary for end-of-day
+shift-handover notes include
+reporting;
+Part ID
+Qty
+Produced
+Qty
+Scrap Qty
+Rewbrk
+CE-9OSL
+151
+145
+Count
+Comments
+3.9790
+pM-860N
+222
+219
+3596"
+needed
+ZR-ZO5R
+213
+Scrap
+193
+39%
+confirmed
+FT-7j0X
+219
+3.5296
+conlimmed
+Rework
+needed
+Approved by:
+Report
+Process
+"206
+12.30
+43*09
+Delay
+Polishing ,
+Drilling
+Polishing
+Drlling
+Cutiing
+Maleusz
+Reler
+Record
+prefing
+output =
+Torget C
+Scrap
+Rework
+ecrap
+Prepared

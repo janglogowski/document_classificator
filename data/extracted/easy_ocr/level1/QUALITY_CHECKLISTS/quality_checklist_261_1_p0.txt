@@ -1,0 +1,94 @@
+Inspection Sheet
+#4714932
+Date: 17.07.2025
+Product ID
+KP-320E
+Customer ID
+BELGIUM
+Item Description
+Nut MG
+The follawing table outlines Inspection criteria and classilication levels
+Please review each checklist pointand
+mark the sampling results ,
+Use this list t0 confirm adherence to AQL and safety standards, Entries include both
+visualand functional inspection items
+Use this extract to coordinate sign-off with the QA manager. Refer to the
+quality register
+sampling-plan references
+This checklist captures quality Inspection paints and sampling
+levels, This section details quality requirements and test points for the batch;
+Review Points
+Sampling
+Severity
+Remarks
+Level
+Product Requirements
+Dust/debris inside packaging
+Level /
+Needs reviev"
+Package
+nat wealed
+Needs reviev
+completely
+Hinges loose
+Level II
+Critical impact
+Functionalitvtest tamlec
+Level
+Mnorissme apseren
+Shipping mark
+Illegible =
+Level E
+Critical impact
+Missine
+ncorrec
+arientatianin box
+Leval
+Cannuctar noi
+working
+LuveI
+Rubber Switch not working
+Critical impact
+Missing safety labels
+Levcl /
+Needs revicv"
+Incorrect parcode or labet
+LCvCi
+Needs review
+Screws
+anse
+missing
+Lrve
+Nerds reviev
+Wood splinter
+sharp point on
+Level Il
+Minor issue observed
+proquc
+Batterynot included
+Level
+Needs reviev
+AQL Level
+Critical
+Minor
+Default
+Customer
+specific
+All critical and major
+inspection
+havc becnaddressed
+Overall quality status
+Indicates
+corpliance witn
+defined AQL levels, Checklist results
+peen
+'reported to the quality manager. Refer to notes for any observed
+defects or deviations
+Confirm tnat all sampling
+Gsults aIc
+within acceptable limits. Plcasc ensure supervised
+sign-off on any non-conforming points. This finalnote confirrns the checklist is corplete ad approved
+Leve
+Malon
+pointa
+nave

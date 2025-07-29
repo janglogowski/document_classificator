@@ -1,0 +1,153 @@
+Equipment Record Report
+Performed On: 2025-01-28
+Authorized bY:
+Operator;
+Carlos Garcia
+Pelct
+Schmdt
+entries
+prevenuve ano
+corrective maintenance
+correclve notus
+All technician comments
+Lasks
+The equipment log below
+aut
+Bvent
+propery
+HIU Teconed {ot
+malntenance
+codes
+calegorized and
+Ilogged. Reler E
+the ralnlenance
+trend analysis
+Ihal -
+downlime
+Moimenansu
+exuact
+prepared
+regiater (or dutalled
+(emamt
+compllance audit trails
+reveu
+service hislories_ This
+this lag for recent service
+types;and
+Section A:
+Maching_
+MC-203
+MC-222
+Equipment
+CNC Milling
+Hydraulic
+MC-292
+MC-221
+Waching
+Boath
+Packaging
+MC.269 
+Senvice Type
+Preventive
+Lain E
+CNC Mning
+Technician
+Schm dl
+Preventive
+Ins pectian
+Correctivg
+Mach ne
+Downtime
+Ross
+Kowalski
+Corectio
+Preventivo
+Rossi
+Comments
+Jan Kowalsk
+Wgntened
+and Iilte"
+1cobe
+Swilch
+Replaced
+boyts.
+conracts
+Replaced
+Tightened
+cociani;
+cDoln
+clcaned
+loose bolts.
+Section B:
+Maching
+MC-205
+Equipment
+Packaging
+MC-221
+MC-228]
+MC-222
+Laine
+Hyaraulic
+MC-292
+MC-2691
+Service Typo
+Prevontive
+Paint Bcoth
+CNC
+Technician
+Insnectinn
+Preventvo
+Inspecton
+Maching
+Downtlue
+Annj
+Unsnection
+Corre ctive
+Jan Rovalski
+Comments
+Replacod
+Laura Ross
+Swilch
+Worn gaskel
+codiant
+comocts
+(ublaced
+Swlch
+Tightened
+Refilled
+clcaned
+contacis
+Ioose bolts
+cleaned
+(HLP 46}.
+Uptime [)_
+94.528
+Etor
+count
+Notes
+Bolt tgntened
+faduning
+Gelail
+Inciudos
+Chech
+Pleese
+daict
+MC-205
+Paint
+Pruss
+'Petel
+Lalra
+Calloe
+Gaco
+Lavo
+Changed
+Lathe
+Wming
+Pross
+Amo
+Nouer
+Calos
+Garcia
+Nomak
+Cadox
+Guca

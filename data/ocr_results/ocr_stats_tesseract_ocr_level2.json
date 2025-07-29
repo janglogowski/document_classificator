@@ -1,0 +1,33 @@
+{
+  "global": {
+    "engine": "tesseract_ocr",
+    "level": "level2",
+    "total_files": 1808,
+    "total_time_sec": 632.359,
+    "avg_time_ms_per_file": 349.14
+  },
+  "documents": {
+    "engine": "tesseract_ocr",
+    "level": "level2",
+    "folder": "C:\\Users\\janek\\Desktop\\TESTY\\data/extracted/tesseract_ocr/level2",
+    "total_files": 1808,
+    "min_words": 0,
+    "1st_percentile": 0,
+    "median_words": 86,
+    "mean_words": 88.21792035398231,
+    "99th_percentile": 229,
+    "max_words": 276
+  },
+  "drawings": {
+    "engine": "tesseract_ocr",
+    "level": "level2",
+    "folder": "C:\\Users\\janek\\Desktop\\TESTY\\data/extracted/tesseract_ocr/technical_drawings",
+    "total_files": 600,
+    "min_words": 0,
+    "1st_percentile": 0,
+    "median_words": 16,
+    "mean_words": 33.68666666666667,
+    "99th_percentile": 163,
+    "max_words": 275
+  }
+}

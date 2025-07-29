@@ -1,0 +1,113 @@
+Production
+Report No:: PR-893
+Customer: SWEDEN
+Shift:
+(Evening)
+Date: 14-03-2025
+Machine
+Operation
+Operator
+Begin
+End Time
+Ime
+Comments
+Condition
+Spent
+MC-205
+Assembly
+Mateusz
+06.00
+06.55
+Delayed
+Jarza
+MC-209
+Welding
+Nadia
+06.30
+08.17
+Sauter
+progress
+MC-203
+Welding
+Bartosz
+11.15
+11.43
+Completed
+Wawrzyniak
+MC-203
+Drilling
+Jan
+08.00
+08.27
+Completed
+Kowalski
+MC-205
+Polishing
+Przemyslaw
+14.30
+16.07
+Delay
+Completed
+Wasik
+MC-202
+Assembly
+Magdalena
+10.15
+11,01
+Delay
+Wilkowska
+progress
+MC-204
+Drilling
+Wiktor
+08.30
+09.54
+Completed
+Kopczynski
+MC-207
+Polishing
+Agnieszka
+06.00
+06.36
+Recalibrated
+Zielliska
+progress
+Item ID
+Target Qty
+Actual Qty
+Defect Qty
+Failure %
+Rework
+Comments
+Count
+NE-2454
+212
+208
+89%0
+Rework
+needed_
+QP-66QF
+142
+56%0
+BZ-660F
+115
+1.74%6
+Rework
+needed
+RM-86ON
+232
+205
+11.649
+MR-160H}
+106
+101
+4.7200
+Scrap
+confirmed
+QN-77OH
+6.55%0
+Scrap
+confirmed
+Approved by:
+Prepared by:
+Log

@@ -1,0 +1,84 @@
+Tolerance Check
+Inspection performed by Jan Kowalski on 2024-05-26.
+Ensure measurement methods align with calibration standards. The following data captures key dimensions and any
+devatons
+dentified: All measured values
+timestamped for audit purposes
+This report presents the dimensional
+measurements and inspection
+neSuts
+please
+review the inspection results for each camponent listed below:
+Environmenta
+Conditions: Temperature
+23.6
+Humidity: 59 %
+Product Ref
+Component
+Target
+Observed
+Status (V(X)
+KP-320E
+Plastic Rivets
+Tnickness
+40.56
+40.56
+EO_u
+Ty-3S0G
+Hex Bolts
+Height
+9.84
+9.88
++0.04
+M1?
+RM-B6ON
+Plastic Rlvets
+Depth
+92.50
+92.51
+TOO
+GH-770
+Bearing 6202
+Hole
+92.37
+92.56
++0.19
+PL-6OlZ
+Bearing 6202
+Inner
+65.21
+65.32
++0.11
+Diameter
+ZR-ZOSR
+0-Ring NBR
+Height
+33,37
+33,31
+0.06
+GOmm
+ZR-ZOSR
+Power Switch
+Height
+SUZ
+14.89
+0.13
+VF-ZZOD
+Plastic Rlvels
+nner
+37.48
+37.37
+0.11
+Diameter
+CE-9oSL
+Hinge Set
+Length
+60.92
+61.03
+40.11
+DX-Z77T
+Battety Pack
+Hole
++0IS
+Dim
+Delt a

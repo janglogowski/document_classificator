@@ -1,0 +1,56 @@
+Unit Configuration
+Ensure all referenced standards are up
+dute
+The following infomation outlines performance characteristics
+design data
+This section details the configuration and parameter set for the product: Below are the technical
+parameters
+and construction materials for the unit- Tne parameter register Eelaw includes operating limits and
+ratings,
+Product ID
+RE-850C
+Document No:
+6046481
+Preparec
+bv: Jan Kowalski
+Approved by: laura Rossi
+Date: 2023-09-07
+Unit Type
+Cooling Circulation
+Operating Pressure
+180 bar
+System
+Flow Rate
+60 L/min
+Supply Voltage
+230V _
+50 Hz
+Control Valve
+Propartional 4/2
+Battery Capacity
+10 An
+Dimensions (LxWxH)
+1000
+650
+1000 mm
+Cooling
+Water-caoled
+exnanee
+specifications
+meeithe
+requirements
+and industry standards, Materal
+choices and process Cata
+been
+verified for compliance: Flag any missing parameters for urgent specification updates: Archive this summary for future
+design change management This summary reflects the latest revision of the product data This closure note indicates
+the data sheet
+readi
+ease
+Refer
+parameter
+table for operating ranges
+and tolernces
+and
+des En
+nave

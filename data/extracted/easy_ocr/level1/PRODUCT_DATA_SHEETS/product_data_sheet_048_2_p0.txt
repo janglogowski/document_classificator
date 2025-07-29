@@ -1,0 +1,42 @@
+Unit Data Specification
+AlI data entries are traceable
+design revision history. This technical overview supports the product-release
+checklist; Use this spec sheet to validate assembly instructions. This data sheet provides key specifications
+and materal details
+Please review the
+specifications and material composition listed below. Refer to this
+configuration summary for unit-designation mapping
+Product ID:
+VR-M40T
+Interal No:
+8188891
+Prepared by: Jan Kowalski
+Approved by: Carlos Garcia
+Date: 2024-11-14
+Configuration Type
+Cooling Circulation
+Rated Pressure
+300 bar
+System
+Throughput
+30 Lmin
+Operating Voltage
+400 V IS0Hz
+Reservoir Capacity
+120
+Mounting
+Wal-mounted
+Cooling
+Air-Cooled
+Olraciator
+@nsure
+glossary terms match the engineering nomenclature
+All specifications meet the design requirements
+and industry standards. Overall configuration
+within defined design and safety margins. Confirm that all
+test conditions are accurately represented_
+This closure note indicates the data sheet
+ready for release:
+Check that all section headers follov Ihe product templale.
+Ensure that Ine Iisted materials are approved for
+the application

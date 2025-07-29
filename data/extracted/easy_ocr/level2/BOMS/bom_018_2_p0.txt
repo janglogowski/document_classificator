@@ -1,0 +1,53 @@
+Customer ID: CANADA
+Prepared by: Anna Nowak
+Product ID: LK-890B
+Internal No:: 6685547
+Below is the component listing and associated costs for the upcoming production batch
+Refer to
+this parts register to plan raw-material purchasing: This extract shows the bill of components and
+total projected spend. Use this schedule of parts to align with sourcing and stock levels. The
+component roster below includes unit costs and batch codes. The following table summarizes the
+materials and quantities needed for the current project.
+Item
+Terminal
+Wooden
+Battery
+Terminal
+Bearing
+Heat
+Description
+Block 4P
+Pallet
+Pack
+Block 4P
+6202 ZZ
+Resistant
+Sleeve
+Qty
+673
+527
+249
+213
+925
+202
+UOM
+Unit Price
+15.00
+25.00
+2.70
+Amount
+288.20
+7,905.00
+225.00
+724.20
+1,387.50
+545.40
+Remarks
+Urgent
+Certified
+ROHS
+ROHS
+batch
+compliant
+compliant
+TOTAL: 19,075.30

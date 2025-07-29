@@ -1,0 +1,132 @@
+Measurement Summary Sheet
+Inspection performed by Carlos Garcia on 2025-03-25.
+The following data captures key dimensions and any deviations identified. Below are the recorded
+measurements compared against nominal tolerances All measured values are timestamped for audit
+purposes. Please review the inspection results for each component listed below.
+Environmental
+Conditions: Temperature: 21.8
+C, Humidity: 38 %
+Product
+Component
+Dim:
+Nominal
+Actual
+Diff
+Status (VIX)
+Ref
+RX-310Z
+Bearing
+Width
+42.41
+42.51
++0.10
+620222
+KV-390K
+Rubber
+Thickness
+63.32
+63.40
++0.08
+Gasket
+BOmm
+MS-6OOP
+Plastic
+Thickness
+35.39
+35,46
++0,07
+Rivets
+VR-940T
+0-Ring NBR
+Depth
+22.93
+22.98
++0.05
+60mm
+XK-61OU
+Hex Bolts
+9,00
+8.95
+0.05
+M12
+Diameler
+LP-SS5V
+Bearing
+Inner
+92.80
+92.69
+0.11
+6202 ZZ
+Diameter
+AZ 300T
+Graphite
+Depth
+82.14
+82.15
++0.01
+Pad
+VR-940T
+Hinge Set
+Deplh
+27.81
+27.93
++0.12
+AL-1150
+Bearing
+Hole
+74.82
+74.72
+0.10
+6202
+SB-140D
+Rubber
+Thickness
+59.48
+59.36
+0.12
+Gasket
+BOmm
+CE-905L
+Steel Sheet
+Hole 0
+29.50
+29.47
+0.03
+A36
+TX-820V
+Set
+Depth
+98.59
+98.58
+0.O_
+BZ-660F
+Wooden
+Thickness
+27.95
+28.06
++0.11
+Pallet
+4Z-300T
+Plastic
+Length
+38.83
+38.88
++0.05
+Rivets
+LK-890B
+Steel Sheet
+Hole
+48.55
+48.70
++0.15
+A36
+GL-9805
+Hex Bolts
+82,.27
+82.33
++0.06
+M12
+Diameter
+Inner
+Hingo
+Inner

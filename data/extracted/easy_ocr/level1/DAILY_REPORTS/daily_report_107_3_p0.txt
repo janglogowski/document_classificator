@@ -1,0 +1,146 @@
+Production
+Report No:: PR-824
+Customer
+CANADA
+Shift:
+(Evening)
+Date: 15-01-2025
+Machine
+Task
+Worker
+From
+End Time
+Total
+Remarks
+Stage
+duration
+MC-208
+Assembly
+Mateusz
+13.15
+13.56
+oropress
+Jarzyna
+MC-203
+Assembly
+Bartosz
+12.00
+12.22
+NA
+Campleted
+Wvawmvniak
+MC-207
+Cutting
+Agnieszka
+13.00
+15.00
+120
+Delayed
+Zieliiska
+MC-201
+Welding
+Magdalena
+14.30
+15.46
+plopiess
+Vumkowska
+MC-202
+Cutting
+Piotr
+14,30
+15.20
+Completed
+Lewandowski
+MC 206
+Polishing
+Magdalena
+14.15
+15.07
+N/A
+Comoleted
+Witkowska
+MC-207
+Cutting
+Wiktor
+08.30
+09.16
+Completed
+Kopczyrski
+MC 207
+Welding
+Piotr
+13.15
+15.08
+113
+plopress
+Lewandowski
+MC-205
+Cutting
+Nadia Sauter
+11:00
+11451
+NIA
+progress
+MC 203
+Polishing
+Jan Kowalski
+13.30
+15.09
+Completed
+MC-208
+Welding
+Davnd
+09.15
+09.47
+Completed
+Oszmianczuk
+MC-203
+Assembly
+Wawnd
+10.30
+11;18
+progress
+Oszmianczuk
+All production targets have been logged; deviations are highlighted above
+Refer =
+remarks for
+anyrewoik or
+quality
+concarns
+Cantirm that scrap percentages align with quality benchmarks
+Archive this output summary
+for end-of-day reporting:
+Part ID
+Planned
+Produced
+Scrap Qty
+Failure
+Reworked
+Remarks
+Output
+Qty
+FT- 730X
+11.9840
+SB-140D
+130
+125
+8596
+Scrap
+coniitmiec
+AZ-300T
+267
+11.2496
+Pcwon
+necded
+TY-350G
+162
+146
+8896
+ZR-205R
+228
+Approved by:
+Prepared by:
+Log
+Delay
+Delay
+Unlts

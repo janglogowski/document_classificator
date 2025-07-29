@@ -1,0 +1,63 @@
+Product Overview
+Confirm that performance ranges comply with project requirements
+The parameter register
+deio
+includes
+operating limits and ratings. Use this spec shect
+validate assembly instructions Check that all material specs align
+with supplier certifications.
+Please review the specificatians and material camposition listed below.
+Praduct Id;
+PL-601z
+nterna
+PR-672
+Prepared bv: Peter Schmiot
+Apnrovem
+by; Carlos Garcia
+Date: 2024-07-31
+Mladei
+Type
+preumalic
+Contra Unit
+Rated
+Pressure
+250 Dar
+Fluid
+75 L{min
+Supply Voltage
+A00
+S0HZ
+Control Valve
+Manual Override 3/2
+Material
+Stainless
+Oil Type
+HLP 46
+Flag
+missing parameters for urgent specification updates. All summary comments have been recorded in the
+revision log: Material choices and process data have been verified for compllance
+Archive thls surmary for future
+design-change management; Ensure that the
+isted
+materials an
+approved
+for the application; Data shee
+has heen
+peer-reviewed by the engineering team:
+Material
+Construction:
+Kem
+Camposition
+Battery Pack
+Lithium-Ion Cel Pack
+Capacitor AS0
+Alumninur
+GOG1-T6
+Sink ALU
+Aluminum 6061-T6
+No;'
+Flov
+frame
+Stcen
+Erame
+Hejt

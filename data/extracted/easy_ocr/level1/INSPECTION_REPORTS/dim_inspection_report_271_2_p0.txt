@@ -1,0 +1,60 @@
+Tecnnician
+Anna Nowax
+Inspection Date
+02-02-19
+Check that =
+Jimcnsions
+comply wlth ISO and company standards
+This summary of measurements supports
+metrology traceability: This report
+rresents thc dimensiona
+measurements and
+inspection results.
+[eviev
+Inspection results for cach component listed below:
+Product Ret
+VF-2Z0D
+FT-730X
+SL-AJoM
+BZ-650F
+Pant Name
+Shait 50Omm
+Plastic Rivets
+Aubber Gaskencmr
+Hinge Set
+Wuidtr
+Depth
+Diamncter
+Innet Diamneted
+amze
+42.00
+86.23
+12.13
+Obsenved
+86.41
+4449
+12.23
+H
+Diff
+PassaFail
+devialion column for any oul-of-colerance
+Measutemnents
+Please address any NOK items befare proceeding
+the next production stage. All dimensions within tolerance have been marked
+Unsicument
+Calibration Log:
+Instrument
+Serial No.
+Last Calibration Date
+Caliper
+64001
+2024-11-25
+Laser Scunncr
+54772
+2025-05-09
+Laser scanner
+99189
+2025-02-03
+Please
+the
+Reter

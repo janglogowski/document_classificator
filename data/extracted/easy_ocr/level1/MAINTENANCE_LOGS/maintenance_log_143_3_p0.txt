@@ -1,0 +1,158 @@
+Maintenance Checklist Report
+Performed On: 2025-07-15
+Signed off
+Anna Nowak
+percmedb"
+Carlos
+Garcia
+This mainlenance extract
+prepared
+compliancu audil trails. Use Ihis rucord
+plan upcoming upkeep and repaus
+EMSUrC
+salcty chucks wOru
+COM Clcu
+during servicing
+Conlirm Ihal service intervals
+Iollow lhu prevenlive schedule
+The equipment Icg belo includes
+coce?
+cctrective
+notes
+Entries include work orders
+lechnician
+assignments ,
+and part changes
+Please
+Tevied
+Inis log for recent service dates
+types,
+remarks
+Section A:
+Unit Code
+MC 270
+MC ?98
+KC 280
+MC 292
+MC 271
+MC ?34
+Machine
+Paint Booth
+Packaging
+Laine
+Assembly
+Packaging
+CNC Miling
+Robr
+Machina
+Service Type
+Preventive
+Inspecticn
+Preventive
+Lomecine
+Insdection
+Corrective
+Operato_
+Callos Garcie
+Carios Garcia
+Janrowalski
+Anna Nowak
+Laura Rossi
+Laurz
+Ross
+Dawntime
+Comments
+Replaced
+Replaced
+Worn gaske
+No issues
+Sensor
+Li-Ior
+battery
+ccolari
+cdolan
+raplaced.
+Found
+recalibrated
+Dack
+sunviccd
+Seclion B;
+Code
+MC-298
+MC-280
+MC-281
+MC-254
+MC-246
+MC-292
+Machine
+Packaging
+Lalme
+Laser Culler
+Hydraulic
+Hydraulic
+Aisumb 
+Picss
+Picss
+Rcjol
+Senice
+Type
+Inspection
+Preventive
+mspecium
+nsnecion
+Insnection
+Ccrective
+Operato
+Lalnd
+Ross
+Carlos Garcia
+aura Rose
+Puler Schmich
+Calas
+GGanoa
+Lauta
+Poss
+Downtime
+Comments
+Relilled cl
+Wocdan
+Changed wil
+Cnanged Oil
+Tightened
+Tiqhteneo
+(HLP 46}.
+Jallci
+and Iilters
+and Illtcis
+Icose bells
+DOse bolls.
+checked,
+This log summary
+supporls Ine
+assel-managemeni dashboard
+Archive this summary
+the CMMS fcr future reference
+Ensure Ihal
+Gach RcNice
+entry has tne requ red approvals
+Record any spare
+parts usage
+for Inventory adjustment
+Miaintenance
+natee
+archivec
+Ior compiance
+auqits
+ensure nexc
+Drevennve ?envice
+scheduleo
+according
+plan;
+Conlinin Ihal all corruclive acbons WETe preperly closed ouL:
+Uptime (%)
+Erro
+Count
+Notet
+248
+Replaced filter
+Tuut

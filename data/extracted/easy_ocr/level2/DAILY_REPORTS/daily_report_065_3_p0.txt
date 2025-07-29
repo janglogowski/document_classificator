@@ -1,0 +1,92 @@
+Shift Summary
+Report No:: PR-943
+Customer:
+BELGIUN
+Shift;
+(Evening)
+Date: 06-11-2023
+Equipment
+Operation
+Technlclan
+From
+End Time
+Duration
+Remarks
+Imin
+MC-205
+Welding
+Agnieszka
+07.15
+03.51
+Completed
+Ziolinska
+MC-205
+Weldinig
+Nadia
+14.15
+15.10
+N/A
+Completed
+Sauler
+MC-203
+Polishing
+14-15
+15*07
+Delayed
+Kopczynski
+MC-202
+Polishinz
+Anna
+13.00
+13.26
+NA
+Nowvak
+Campleted
+MC-206
+Nadia
+10.15
+Recalibrated
+Delayed
+cauter
+MC-205
+Welding
+Annz
+71,00
+T2
+Delay
+Completed
+Nowek
+Item
+Target Qty
+Acrua
+Oty
+Screp Qty
+Scrap "
+Rework Qty
+HF-3904
+154
+147
+Remarks_
+4.5598
+Scrap
+TX-820v
+281
+conlirmed
+0.3894
+Scrap
+TL-9ooX
+205
+confirmed
+7.3290
+Scran
+MX-450L
+contirmed
+9-27%u
+Rework
+neeucd
+Approved by:
+Prepared by:
+Smce
+Mltor
+Dalay
+Drulune:

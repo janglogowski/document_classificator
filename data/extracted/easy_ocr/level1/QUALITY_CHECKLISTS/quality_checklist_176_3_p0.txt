@@ -1,0 +1,50 @@
+Conformance Report
+Review Points
+Inspection
+Severity
+Comments
+Depth
+Component Critera
+Hold
+ncoreconeramom
+Level
+Package
+nol sealed
+Level /
+Needs reviev'
+completely
+Connector
+not WCTking
+Level
+Needs review'
+Sharp edges on plastic
+Level
+components
+Incorec[ ba code
+label
+Visual
+fect on housing
+Level
+Shipping mark is illegible
+Level /
+Needs review
+missing
+Not assembled as
+Level /
+Minor issue observed
+drawing
+Carton
+damaged Or
+Level /
+Needs reviev
+makngs incorrect
+Exposed nall with sharp
+Minor issue observed
+point
+Reference Standards;
+Standard
+Edition
+50 9001
+2020
+UL 61010
+4th Ed.

@@ -1,0 +1,103 @@
+Shift Summary
+Report No:: PR-852
+Customer: GREECE
+Shift:
+(Morning)
+Date: 13-11-2024
+Equipment
+Process
+Worker
+From
+Jme
+Notes
+Status
+Spent
+MC-208
+Assembly
+Agnieszka
+13,30
+15,27
+117
+Ok
+Completed
+Zielinska
+MC-205
+Cutting
+Jan
+1.30
+12.52
+Ok
+Delayed
+Kowalski
+MC-208
+Drilling
+Bantosz
+11.15
+OK
+Delayed
+Wawrzyniak
+MC-20g
+Assembly
+Mateusz
+10.00
+10.24
+NIA
+Delayed
+Jarzyna
+MC-203
+Drilling
+Mateusz
+13.15
+14.19
+Completed
+Jarzyna
+MC-209
+Polishing
+Przemyslaw
+08;15
+09,01
+Ok
+Wasik
+progress
+Use this summary t0 update the overall production dashboard: Ensure routine maintenance between shifts
+t0 maintain consistent output No crtical delays were observed; please address any minor issues noted
+Refer
+remarks for any rework or quality concorns
+All operator notes have been archived for review.
+Check materal consumption against standard usage rates
+Item ID
+Planned
+Actual Qty
+Scrap Qty
+Rejection
+Reworked
+Comments
+Output
+Units
+JD-7oOw
+193
+189
+07%0
+Rework
+needed
+TR-2OOB
+230
+228
+0,87%6
+Rework
+needed
+PW-515Y
+135
+119
+11.859
+PW-S55Y
+248
+14.529
+Scrap
+confirmed
+LK-89OB
+119
+00%
+Approved by:
+Prepared by:
+11.55

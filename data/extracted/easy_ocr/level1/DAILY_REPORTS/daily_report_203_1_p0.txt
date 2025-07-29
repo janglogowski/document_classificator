@@ -1,0 +1,96 @@
+DAILY PRODUCTION REPORT
+Kepon No:
+PR 934
+Customer
+BRAZIL
+Supervisor:
+Jan Kowalski
+Departmenl;
+Painting
+Dale
+11-06-2024
+Shift:
+Morning)
+Machine
+Task
+Wvorkem
+Fram
+Finish
+Total
+Remarks
+duration
+MC 205
+Drilling
+Nadia Sauter
+13.00
+1413
+Recalibrated
+MC 202
+Assembly
+Magdalena
+06.30
+07.25
+Vitkowska
+MC-204
+Polishing
+Agnieszka
+06.30
+07.49
+Zieliska
+MC 208
+Cutting
+Mateusz
+14.00
+15.29
+Jarzyna
+MC-204
+Wolding
+Amna
+Nowak
+10:15
+OjoS
+MC-204
+Assemni
+Nadia Sauter
+09;1
+T03
+MC-?02
+Welding
+Dawid
+12.30
+12,54
+Oszmianczuk
+Item
+Target Qty
+Actua
+Qty
+defect
+Qty
+Failure
+Remarks
+HF-3904
+132
+124
+0656
+confirmed
+Kv-390k
+144
+2,7056
+RX-310Z
+293
+254
+13.318
+LK-B90B
+10.7995
+WD-180S
+0.9396
+confirmed
+TY-350G
+.4596
+Prepared by:
+Peter Schmidt
+ApprovEC
+Laura
+Rossi
+Scrap
+Scrap

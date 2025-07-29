@@ -1,0 +1,148 @@
+Report No:: PR-105
+Customer: SWEDEN
+Shift:
+(Evening)
+Date: 01-08-2024
+Equipment
+ask
+Warker
+From
+End Time
+Time Spent
+Remarks
+Condition
+MC-2OA
+Welding
+Barost
+13.-30
+15.06
+Delay
+proeress
+Wawrzyniak
+MC-209
+Cutting
+07-00
+07.41
+NYA
+Campleted
+Kowalski
+MC-206
+Welding
+14.15
+15,44
+Delay
+Delayed
+Kowalski
+MC-202
+Welding
+Agnieszka
+06-00
+06.49
+Campleted
+Zielinska
+MC-204
+Assembly
+Magdalena
+11.15
+12.02
+Delay
+Completed
+Witkowska
+MC-202
+Drilling
+Bartosz
+11.30
+12.19
+progress
+Wavrzyniak
+MC-202
+Assembly
+Przemysiaw
+06 00
+06.46
+Delayed
+Wasik
+MC-206
+Polishing
+Przemvsav
+13.15
+14.06
+Delay
+progress
+Wasik
+MC-208
+Drilling
+Bartosz
+12.15
+13,57
+Recalibrated
+proeress
+Wawrzyniak
+MC-201
+Assembly
+Bartosz
+07.30
+08.25
+N{A
+progress
+Wawrzynlak
+MC 205
+Welding
+Agnieszka
+14.30
+14.50
+N/A
+Delayed
+Zielinska
+MC-208
+Welding
+Magdalena
+12.15
+13.57
+Delay
+Delayed
+Witkowska
+Archive this output summan
+end-of-day reparting
+Check material ronsumptian against standard Usage
+032s
+This
+closure summary signals readiness for the next production run; Use this summary
+update the overall production
+dashboard. Note any unscheduled stops
+the downtime register.
+Product
+Target Qty
+Achieved Qty
+Rejected Qty
+Rejection %
+Rework
+Qty
+Nates
+MC-540X
+292
+260
+10.96%
+Scrap
+canfurmned
+TY-3SOG
+123
+8.9490
+Rewoik
+needeo
+MC-SA0X
+287
+254
+11.507
+Rewan
+needed
+FT-730X
+198
+13.13%
+Scrap
+confirmed
+DX-7771
+279
+0.7270
+Appraved by:
+Prepared by:

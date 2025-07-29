@@ -1,0 +1,28 @@
+Unit Data Specification
+Report No : 7252256
+Product ID: TY-350G
+Date: 2025-05-01
+Configuration Type
+Cooling Circulation
+Operating Pressure
+180 bar
+System
+Fluid Flow
+Supply Voltage
+480 VI60Hz
+Noise Leve
+68 dB(
+Total Weight
+230kg
+Charging Time
+Battery Capacitx
+2 Ah
+Cooling
+Air-cocled oil radiator
+Filtration
+Hm inline; 10 pm
+return
+Motor Power
+Z5kW
+Prepared by: Laura Rossi
+Approved by: Anna Nowak

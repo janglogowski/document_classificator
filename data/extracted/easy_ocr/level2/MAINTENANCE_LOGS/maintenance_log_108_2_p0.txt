@@ -1,0 +1,122 @@
+Equipment Record Report
+2025.04-08
+Thls sorvlce suMmary
+lpports the relablity cnginecing
+review Reler
+#he mainitenance reglster for datailad sunicu
+hisiories, Beloi"
+Uhe ;uiniany
+scrice
+artions
+davantimner
+each machine- Usa thie
+rucold
+plan upcoming
+Upkuep and repans
+This maintenance extracl
+prepered for compllanc? audit trails_
+Spare Part; Used:
+pam Nama
+Pan No
+Oly Used
+SMBUl Mojule
+P2747
+Hxdraulic Heie
+P-2272
+Sealin] Geske
+0.47?
+Oil Filtet
+1057
+Machina ID
+Machine
+Type
+Operator
+Duratiom
+Prevlous
+Aree
+noies
+Seryice
+MC-2J0
+CNC Mllng
+Prayentve
+2025-07-14
+Lilon
+Machine
+Kowa
+hattety
+naci
+4ar iceu
+MC-216
+CNC Milling
+Cotrectivd
+Carlos
+2024-05-01
+Allgnment
+Machine
+Goici
+ninges
+adjusled:
+MC-28s
+Lathe
+Preventive
+Anna
+2023 1/-18
+Calibration
+Notuk
+check OK
+MC-275
+AssGinu y
+Conreclive
+Laura Ro;si
+2024-11-06
+Nc IssuCS
+Faue
+Ropal
+MC-233
+Assemhly
+Comeck
+2023-09-01
+Replacad
+Robul
+MNowak
+(541
+MC-218
+Lalhe
+Preventve
+Cellos
+2024-11-26
+Rapiacei
+Garcla
+(5a1
+MC-254
+Convevor
+Preventvve
+Anne
+2024-10-23
+Callbration
+Boll_
+Noivat
+check PK
+MC 240
+Assemon
+Preventye
+2025-03-31
+Relilled oil
+Robol
+Garcia
+(HLP 48,
+MC-279
+Lalhe
+Inspection
+Anna
+2024-07-J1
+Allpnment
+Nowak
+hinges
+adjusted
+Signed cff
+Feler Schmidi
+Penom #d
+Lnce
+Nowvak
+Cancs

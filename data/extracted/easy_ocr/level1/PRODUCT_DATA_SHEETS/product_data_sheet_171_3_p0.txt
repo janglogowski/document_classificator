@@ -1,0 +1,27 @@
+Component Overview
+Report
+PR-849
+Product ID: JD-700W
+Date: 2024-10-29
+Configuration Type
+Pneumatic Contro
+Rated Pressure
+180 bar
+Throughput
+75 Lmin
+Supply Voltage
+60 Hz
+Mounting
+Ual-mnovntec
+NOis
+Leve
+70 dB(AJ
+Miotor POWCr
+Battery Capacity
+Charging Time
+Cooling
+Air-cooled 0ilnadlator
+Prepared by: Anna Nowak
+Approved by: Peter Schmidt
+No:;
+Unit

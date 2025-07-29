@@ -1,0 +1,108 @@
+Equipment Record Report
+Performed On: 2023-08-01
+Kuttorizcdo
+Carlns Garciz
+Uperator;
+Feter Schmdt
+This section captures equipment status andany maintenance observations
+The following entries detail preventive and corrective
+Mtantenanie [ASkE
+Ensufe
+safety checks were completed
+sefvicina
+Belam
+Ine summary
+serice acmionf Ane
+dovntimes for each machine: Use this summany
+fcrecast parts replacement and resource needs. Confirm that service intervals
+follo  the preventive schedule
+The equipment log below includes faule codes and cofrective noles;
+Section
+Machinte
+MC 797
+MC750
+KC 765
+Nc767
+MC 743
+Michint
+asmby Robot
+PackaFing Uinc
+Laser Cuttcr
+Asscmoly Robot
+Machine
+Servicc Typc
+Unspection
+Confectivc
+contectivc
+Correctivc
+cornectivc
+Operator
+Carlos Garciz
+Lamge
+Rossi
+Carlos Garcia
+Anna Novral
+ankowalsk
+Downtime
+Comnieni
+Refilled oll (HLP
+Replaced Tuse
+Refilled 0il (HLP
+Noissues fornd
+Worn gasket
+replaced
+Section
+Machine
+MC-267
+MC-265
+MC-250
+MC-243
+Yc-197
+Machine
+Laser Cutter
+CNC Mmne
+Fackazine Line
+Assembl; Robot
+Assemply 4obor
+Narhine
+Service
+Lorrective
+Inspection
+"reventive
+Corrective
+Lorrectve
+Operalor
+Peter Schauidt
+Anmu Nawar
+Peter Schumnidt
+Canids Garcia
+Laura Rost
+Downtime
+Comments
+L-lon Datten
+Issues tcung
+Calibration check
+Repiaced cooiant
+surwced
+Kalntenance notes
+archlved
+C@m
+ance Judats
+All malntenance
+ratlons are recorded {OC
+performance
+Memcs
+Referto
+remarks for any
+pcticns
+parts reclacement:
+Archive this qummar
+the CMMS for future reference
+Uptime
+Error Count
+Notes
+Yean
+"duting
+nlce
+TYp2
+idlo/-Up

@@ -1,0 +1,53 @@
+Unit Configuration
+Report No:: PR-338
+Product ID: LK-890B
+Date: 2025-06-18
+Configuration Type
+Pneumatic Control
+Operating Pressure
+300 bar
+Flow Rate
+75 Lmin
+Operating Voltage
+230 V
+50Hz
+Oil Type
+HLP 46
+Total Weight
+250kg
+Dimenslons
+ILXWXHI
+1200
+700
+1100 mm
+Mlountine
+Wall mounted
+Control Valve
+Manmz
+Overide 3/2
+pumd
+Type
+Vane Pumd
+Component Materia
+Overvier:
+Subcompanent
+Base
+Specitication
+Cooling Ge
+pack
+Rubbe
+Heat-resistan
+supdort
+FDot Stee
+Stainless Steel 304
+IS0 2768
+Witng
+[Rigid
+Heal-nessan
+Hinge Set
+Stainless Stecl 304
+certified
+Prepared by: Jan Kowalski
+Approved by: Anna Nowak
+Unit
+slicone

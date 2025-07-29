@@ -1,0 +1,109 @@
+DAILY PRODUCTION REPORT
+KepoNo.
+PR 344
+Customer
+NORWAY
+Supervisor:
+Peter Schmidt
+Departmenl;
+Maintenance
+Dale
+08-01-2024
+Shift:
+Night)
+Machine ID
+procese
+Operator
+Fram
+End Time
+Time Spent
+Uwagi
+MC-203
+Cutting
+Dawid
+08;00
+08;38
+Oszmianczuk
+MC 201
+Cutting_
+Kowalski
+13'0s
+Recalorated
+MC-202
+Assemoly
+Agnieszka
+09.30
+10.25
+Zieliiska
+MC-203
+Polishing
+Wviktar
+11;30
+175}
+NIA
+Kopczynski
+MC-202
+Drilling
+Wiktor
+08.00
+08.34
+Recalibrated
+Kopczyrski
+MC-209
+Assembly
+Bartosz
+14,00
+12.45
+Delay
+Wawizyniak
+MC-206
+Cutting
+Dawid
+10:15
+11:16
+Oszmiariczuk
+MC 203
+Welding
+Nadia Sauter
+07:15
+0 20
+Item ID
+Planned Qty
+Acnieved
+Qty
+Scrap Qty
+Scrap
+Comments
+SL43uf
+236
+222
+5,9356
+Rewanneeded
+CN-150C
+142
+5556
+VF-220D
+252
+15.1596
+MC 5A0X
+212
+211
+0.4796
+conluntued
+DX-7771
+190
+187
+5848
+Pw-5ISY
+243
+209
+13.9990
+conlunmted
+Prepared by:
+Peter Schmidt
+Approved by:
+Anni
+Nowvak
+Deley
+Scrap
+Scrap

@@ -1,0 +1,107 @@
+Product Data Sheet
+Praject:
+RM-BGON
+Report No::
+PR-564
+Prepared Bv:
+Carlos Garcia
+Approved By:
+Peter Schmiat
+Location; Plant 1C
+2024-02-10
+Use this sheet to confirm
+cngincenme
+requlrements and tolerances
+This section detalls the configuration and
+parameter set for the
+product Please
+Reteu
+the spedfications and material composition listed belov- Ensure all
+referenced standards are up
+date, The parameter register belov includes operating limits and ratings, Reter
+this
+configuration surrimary for unit-
+designation mapping: All data entries are traceable
+design revision history:
+Model TyPe
+Hydraulic Power Unit
+Rated Pressure
+180 par
+Fluid Flow
+75 Llmin
+Operating Voltage
+50 Hz
+Working Temp: Range
+10 C to 50"C
+Cooling
+Water-cooled exchanger
+Dimensions (LxWxH)
+1000 * 650
+1000 mm
+Charging Time
+Oil Type
+HLP
+Motor
+7,5KW
+Type
+Vane
+service
+Interval
+500
+Reservoir Capacity
+160
+Mounting
+Wall-mounted
+Tota
+Wclght
+230 kg
+Filtration
+UM Inc
+10 um return
+Hrame
+Material
+4luminum
+Arame
+Noise Leve
+72 dB(AE
+Protection Class
+Battery Capacity
+MaterIal of Construction:
+Part
+Raw Material
+Wcodp
+palet
+Treated
+Pine Wooo
+Insulated
+Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Digital Display Unit
+ABS Plastic
+Pare
+Swltcn
+Polycarbonate
+Copper
+Teflon Tape Roll
+Teflon Tape Roll
+Ruboc
+Gaskct sumn
+Nitrile Rubber INBR 
+FusC
+Ceramic Oxice
+Pressure
+Vaive
+Krass
+Nut M6
+Zinc-Plated Steel
+Heat Sink ALU
+Aluminum
+6061-T6
+Hex Bolls M1Z
+Zinc-Plated Stee
+Gasket Sheet 44
+Nitrile Rubber INBRL
+Date
+powier
+Pump
+Pump

@@ -1,0 +1,79 @@
+BOM Report
+The component roster below includes unit costs and batch codes; This section outlines the parts, unit
+prices and total amounts for assembly: This document provides
+detailed breakdown of all components
+required for the assembly process_
+This summary lists every item required, with per-unit pricing details:
+Item
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Rubber
+0.55
+19.25
+Urgent
+Stopper
+LED Light
+30.00
+ROHS
+Strip
+compliant_
+Wooden
+15.00
+510.00
+Li-Ion
+Pallet
+battery
+installed
+Cable Tie
+0.95
+6.65
+Eco
+Pack
+compliant
+Plastic
+1.10
+27,50
+Li-Ion
+Cover
+battery
+150x150
+installed
+Sensor Clip
+0,95
+14,25
+Eco
+compliant
+Plastic
+0.20
+5.40
+Switch
+Rivets
+tested OK
+Wooden
+15.00
+360.00
+ISO-verified
+Pallet
+Final amounts include nandling and logistics costs where applicable: Ensure archival of this materials
+summany
+for compliance records; This closure
+sumimany
+validates that all parts
+approved for release
+Verify that all remark items meet the sourcing department' $ standards_
+Customer
+BELGIUM
+Coordinator: Jan Kowalski
+Date: 2025-03-24
+Product ID: VR-9401
+No:: 4007721
+Order Qty: 283
+Total Amount:
+973.05
+Q10o)
+are
+Interna

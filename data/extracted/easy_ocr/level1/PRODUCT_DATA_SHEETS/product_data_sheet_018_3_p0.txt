@@ -1,0 +1,48 @@
+Product Overview
+Document No.
+PR-980
+Product ID: PW-515Y
+Date: 2024-05-02
+Contiguration Lype
+Hydraulc Power Unit
+Design Pressure
+180 bar
+Flow Rate
+JLmin
+Voltage
+S0Hz
+Qil Type
+HLP 32
+Dimensions (LxWxH)
+1200 x 700 x 1100 mm
+Protection Class
+IP54
+Noise Level
+Battery Capacity
+2 An
+Filtration
+10 pm return, 25 VM
+sucton
+Total Weight
+230 kg
+Mounting
+Skid base with vibration
+pads
+Component Materials Overview:
+Subcomponent
+Raw Maleria
+Jeciicalon
+Wooden Pallet
+Trealed Pine Wood
+Ciass
+Toerance
+ellon
+Hape Roll
+Tetlon
+Hape Roll
+certiled
+Digital Display Unit
+ABS Plastic
+RoHS compliant
+Prepared by: Anna Nowak
+Approved by: Laura Rossi

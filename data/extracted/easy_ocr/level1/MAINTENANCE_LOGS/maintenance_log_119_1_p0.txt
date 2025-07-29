@@ -1,0 +1,61 @@
+Equipment Record Report #9839166
+Date: 2023-12-21
+Unlt Code
+Machine
+Tvpe
+Operato
+Durabon
+Notes
+MIc 2u
+Conveyo Belt
+unspection
+Liura Rosi
+Plant 1C
+NIc-293
+CNC Milling
+Corrertivz
+o a
+lnt
+Li-lon battery
+Maching
+pack -CrvicCo
+MC-230
+Plasma Cutter
+Corrertive
+Jan Knwalski
+plant 28
+Tightened
+lousu Dot;
+MC-268
+CNC Milling
+Corrertive
+JanKowalski
+Plant 34
+Gensor
+Machin
+recalibratec
+MC-253
+Kdraulir Prese
+Preventive
+IJura Rorsi
+Plant 1C
+MC-28J
+Paint Bocth
+Lorrectve
+Carios barcia
+piani ZB
+Switch contacu
+clezned
+verj
+equipment concition
+sutistuctory post mjintenancc
+Senvice summaries havc bccniorjrocd
+tne enaineernktcjm
+maintenance tasks have been completed
+Bef hedule
+Archlve thls $ummafy Inthe CMMS fcr future reference.
+Lubrication Checked
+calibration Vefified
+EmeiRency Stop Teste d
+Autharizedt
+Orelur;

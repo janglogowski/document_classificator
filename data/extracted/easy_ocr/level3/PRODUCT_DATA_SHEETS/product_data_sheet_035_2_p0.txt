@@ -1,0 +1,40 @@
+Product Data Sheet
+Usethis sheet to confirm engineering requirements and tolerances: The following information outlines performance
+characteristics and design data  Ensure all referenced standards are up
+date. Please review tfe specifications and
+material composition listed below: This report extract
+prepared for =
+~verification audits. This section details
+the configuration and parameter set for the product: All data entries are traceable to design revisian history-
+Product ID:
+LK-89J8
+Document
+PR-432
+Prepared by: Jan Kowalski
+Approved by: Laura Rossi
+Date: 2025-05-28
+Unit Type
+Hydraullc Power Unit
+Operating Pressure
+180 bar
+Flow Rate
+75 Ymin
+Voltage
+230 5
+50 Hz
+Pump
+Vane Pump
+Cooling
+Air-cooled oil radiator
+Oil Type
+HLP 46
+Archive this summarv for future design-
+mznagement
+Material choices and process data have been verified
+compliance. Document control nunibers are included for traccability: This summary reflects the latest revision of
+the product data. Refer
+parameter table for operating ranges Jnd tolerances;
+design-
+No::
+Type
+change

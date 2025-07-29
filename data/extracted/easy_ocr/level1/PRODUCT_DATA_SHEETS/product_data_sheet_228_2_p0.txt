@@ -1,0 +1,67 @@
+Product Overview
+This technica
+overview supports the product-release checklist  This report extract
+prepared for design-
+verificalion audits
+Please review lhe specifications and materal composilion Iisted below
+Entries include
+both mechanical and electrical specifications;
+Use this spec sheet t0 validate assembly instructions_
+Use this
+sheet
+confirm engineering requirements and tolerances:
+Product ID:
+SL 430M
+Report No:
+PR-158
+Prepared by: Jan Kowalski 
+Approved by: Jan Kowalski
+Date: 2024-11-14
+Model
+Pneumatic Control Unit
+Operating Pressure
+300 bar
+Rate
+Supply
+480
+60 Hz
+Mounting
+Skid base with vibration
+Oil Type
+HLP 68
+pads
+Reservoir Capacity
+160
+Charging
+Battery Capacity
+10 Ah
+AII summary comments have been recorded in the revision log;
+any missing parameters for urgent
+specificalion updates. All specificalions meet the design requirenents
+industy standards,
+Ensure
+glossary terms match the engineering nomenclature_
+Check that all section headers follow the product
+template:
+Material
+Construction:
+Part
+Base
+LEDLight Strip_
+Glass-Filled Nylon
+Battery Pack
+Lithium-Ion Cell Pack
+Support Foot Steel
+Stainless Steel 304
+Power Switch
+Polycarbonate
+Copper
+Ceramic Oxide
+Type
+Flow
+Lnin
+Voltage
+Tlme
+Flag
+and
+Fuso

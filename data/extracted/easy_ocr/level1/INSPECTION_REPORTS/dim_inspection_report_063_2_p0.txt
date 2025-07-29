@@ -1,0 +1,53 @@
+Component Dimensional Check
+ecnnician
+Peter Schmid
+Inspection Date
+2024-03-03
+Item
+KP-320E
+MS-6OP
+VF-220D
+VR-940T
+Part Name
+Hex Bolls M12
+~RingNBR 60mm
+Plastic Riets
+Wooden Pallet
+Dim
+Height
+Height
+Length
+Inner
+Diameter
+Nomina
+13.74
+57.07
+73.56
+Actual
+1357
+57.41
+73,69
+12.03
+Dclta
+PassiFail
+Ensure status Ilags are updated in the quality management syster. Ensure all measuring tools were
+properly calibrated. All dimensions within tolerance have been marked as OK Flag ay components
+requiring re-machining or adjustment;
+Instrument Calibration Log:
+Instrument
+Serial No_
+Last
+Calibration Date
+Caliper
+68561
+2024-10-09
+Micrometer
+76342
+2025-02-06
+Calper
+48441
+2025-04-10
+Calper
+62472
+2025-04-17
+Code

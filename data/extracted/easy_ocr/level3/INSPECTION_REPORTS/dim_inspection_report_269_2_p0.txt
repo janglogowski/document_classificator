@@ -1,0 +1,66 @@
+Technician
+Inspection Date
+Curlos Garcia
+2023-10-16
+Product Ref
+NE-2454
+Pan Name
+4?-300T
+Jd-toow
+Rubber
+Shaft
+1Y-3506
+GH-770
+1X-82v
+Measurement
+Pale
+Switch
+Shaft SoOmm
+Rubber Gasker
+Jnicknes
+Wiath
+Observed
+86.84
+Senegh
+Lengtn
+Lenatn
+Widtr
+58.05
++0LOt
+Pass/ Faill
+016
+57,.86
+86.55
+Ensure all measuring tools
+were property
+calibrated
+leas@
+production stage: This assessment reflects the [
+any NOK items before proceeding to the
+metrology
+Tesui&
+next
+Instrument Calibration Log:
+Instrument
+Micrometer
+Serial No.
+Caliper
+30470
+Last
+Calibration
+30340
+2025-06-08
+2025-05-30
+Gasket
+5oonim
+oeden
+eomm
+Lotu
+Tong et
+@ Dmm
+12.08
+Dclid
+931.39
+address
+Hatest 
+Date

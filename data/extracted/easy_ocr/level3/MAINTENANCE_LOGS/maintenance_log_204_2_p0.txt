@@ -1,0 +1,119 @@
+Maintenance Checklist Report
+2023-12-29
+summary suppOrts the reliability engincering review. Please review this log for recent service datus, types, ond
+This
+maintenance
+detailed senvice histotcs
+Confirm that service Intervals follow the prevertive
+Femark
+Rerer
+register tor
+This
+records all maintenance activities performed on the equipment  Check that all downtima events are
+scheduie
+properly categorized and (oBBed .
+Spare Parts Used:
+par Namie
+Part No.
+Qty Used
+Swucheigsemoly
+5215
+Fuse
+8241
+Baiter PBCR
+P-2699
+M
+Li-lan BatterPack
+Hachine
+Senvice
+Technician
+uowntme
+Previous
+Site
+Notes
+Unil Code
+senvice
+Type
+CctrBcive
+Pelor
+2024-12-13
+Woineaskc
+MC-227
+Paint E
+Schmidt
+Teplaced
+MC-276
+Paint Booth
+Corrective
+hma
+Roesi
+2024-01-03
+baskat
+teclrced
+Prcvcmiive
+Anna
+2025-04.09
+Calotation
+MC-278
+Laser Cutter
+Nowvak
+chack
+Convevor
+Preventia
+Cancs
+2025 04 05
+Refilled Oil
+MC-265
+(HLP 261
+Garcia
+HC 253
+Assemnly
+Insoection
+Laura Rossi
+2024-04-11
+Alenmicmt
+Rcbot
+hinges
+adjusted
+MC-236
+Packaging
+Preventive
+Curtos
+7023-08-26
+Retilled oil
+Cucim
+THLP 46
+MC-289
+Paint Booth
+Preventive
+Carlos
+2023-10-22
+Wofn
+Basket
+cuneed
+Garcid
+Cotreclve
+Lono
+2024-10-13
+teplaced
+MC 260
+Packaging
+Gatcin
+coolant;
+Prevenciv
+puten
+2023 08 23
+Olnoi
+HC-203
+Pla sma
+TecaTneted
+Cutier
+Schmiat
+Anna Nowak
+Signed ott:
+pclcr Scnmint
+Petormneduv
+snce
+Rooth
+Worn
+Lne

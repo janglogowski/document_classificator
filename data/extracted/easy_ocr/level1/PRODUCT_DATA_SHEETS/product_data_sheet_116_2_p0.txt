@@ -1,0 +1,57 @@
+Product Data Sheet
+Below are the technical parameters and construction materials for the unit. Please review the specifications
+materal composition listed below; This section details the configuration and parameter set for the
+product: Use this spec sheet to validate assembly instructions. This technical overview supports the product-
+release checklist;
+Product ID:
+DX-77ZT
+Report No;
+1897302
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski
+Date: 2024-09-13
+Unit Type
+Cooling Circulation
+Rated Pressure
+250 bar
+System
+Flow Rate
+48 Umin
+Supply Voltage
+230 V IS0Hz
+Oil Type
+HLP 32
+Filtration
+Um inline;
+10 pm
+rCiurn
+Sorvice Interval
+1000
+Cooling
+Air-cooled oil radiator
+Frame Matorial
+Stainless Steel Frame_
+Battery Capacity
+This summary reflects the latest revision of the product data. Overall configuration
+within detined design
+and saiety margins
+Archive this summary for future design-change management: Use this summary to
+Cross
+check with BOM and inspeciion reports .
+specifications meet Ihe design requirements and industry
+standards;
+Material 0f Construction:
+Raw Material
+Powe
+Switch
+Powcarcona
+Copper
+Teflon
+Tape
+Tellon Tape Roll
+~RingNBR 60mm
+Nitrle Rubber (NBR
+Rubber Gasket BOmm
+Niuile Rubber (NBR)
+Mem
+Rol

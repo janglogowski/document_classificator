@@ -1,0 +1,71 @@
+Component Overview
+Project:
+SL-430M
+Unterna
+471788
+Anna
+Nowak
+Prepared
+Approved By:
+Carlos Garcia
+Localion: Plant 34
+Date; 2024-04-14
+Configuration Type
+Cooling Circulation
+Rated Pressure
+30U bar
+System
+48 Lmin
+Operating Voltage
+400 V{50 Hz
+Puropghpe
+Vane Pump
+Motor Power
+55kW
+HLP 46
+Working Temp Range
+50 C
+Oil Type
+Cooling
+Air-cooled oil radiator
+Battery Capacity
+Service Interval
+500
+Protection Class
+120
+Dimensions
+(LxWxH)
+1C00 X 650 x 10OQ Im
+Reservoir Capacity
+Mounting
+Rack trame
+Charging Time
+Frame Material
+Powder-rOaied
+Steel
+Noise Level
+70 dB(AL
+Control Valve
+direchona
+This closure note indicates the data sheet is ready for release
+Materal choices and process data have been
+verified for compliance
+Check that all section headers follow the product template_
+All summary comments
+have been recorded in the revision log
+Malerial of Construction:
+LabeE
+Base
+Wooden
+Pallet
+Teaied
+Pine Wood
+Digital Display Unit
+ABS Plastic
+Bearing 6202 22
+Stainless Steel 304
+Thermoplastic
+Polyuretnane (TPU)
+Insulated Tube 2Emm
+~onnecto
+Glass-Filled Nylon

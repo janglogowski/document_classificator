@@ -1,0 +1,123 @@
+Production Log
+Report Na :
+PR-256
+Customa 
+FINLAND
+Supervisor:
+Carlos Garcia
+Department:
+Logistics
+24-01-2024
+Shift;
+(Night)
+Equlpment
+Oporation
+Technician
+Time
+End Time
+Uwapi
+duration
+MC-208
+fsscMoi
+Anna Nowak
+07,30
+09;04
+Recalicratad
+MC-209
+Cutting
+KAteuz
+11;16
+12.47
+Recallbrated
+Javna
+MC-206
+Cutting
+piati
+08.30
+T0.28
+118
+Recalibrated
+ewandowzki
+MC-207
+Polishing
+Jan Kowalski
+I-Oo
+12.04
+DcLO
+MC-ZuB
+Welding
+David
+06.15
+06.-42
+Dela
+Oeimanctuk
+MC-201
+Polishing
+Piotr
+10.15
+11,54
+Recalibrated
+Lawundowaki
+MC-209
+Welding
+Banost
+12.00
+12.20
+NIA
+Wawizyniak
+MC-203
+Drillinb
+Agnieszka
+10.00
+11;06
+NIA
+Zlallriska
+MC-205
+Cutting
+Mardalane
+12.00
+12-25
+Delay
+Uvakowska
+MC- 209
+Polisning
+Mateusz
+06,00
+06,58
+Deley
+alyna
+Pait ID
+Target QtY
+Produced Qty
+Rejected Qty
+Scrap
+Remarks
+ZR-2OSR
+229
+196
+14.4190
+Scran
+contimcd
+CE-9O5L
+262
+252
+824
+ALWOM
+needed
+PW-5158
+179
+5090
+Scrad
+Contittnad
+GL 9805
+223
+14.5690
+Rewark riceded
+Prepared by;
+Carlas Garcia
+Aperoved by:
+Pate
+Schmidt
+Datt
+Totat
+Stant

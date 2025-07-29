@@ -1,0 +1,77 @@
+Production Log
+PR-182
+Report No :
+BELGIUM
+Customen:
+Anna Nowak
+Supervisor;
+Logistics
+Department:
+(Moming
+Shift:
+22025
+The summary below lists each station'
+actun
+versus
+flgures are
+recomdedtOr
+capacity planning:
+All throughput
+data
+track compliance with daily
+planned output Reviewthe operationa
+Total
+Remarks
+Temperature
+Energy
+Machine
+Task
+Technician
+From
+(kWh)
+Time
+426
+58.4
+MC-207
+Cutting
+Jan Kowalski
+13.00
+77.2
+1.63
+Bartosz
+13.30
+15.10
+100
+Delay
+MC-207
+Polishing
+Wawrzyniak
+1.98
+10:15
+10,38
+57.1
+MC-208
+Drilling
+Magdalena
+Witkowska
+60.0
+1.97
+MC-202
+Cutting
+Piotr
+10.15
+11,22
+Lewandoiski
+1 43
+57.2
+MC-203
+Assembly
+Przemiystav'
+06.30
+07.02
+Wasik
+Anna NowvAT
+Prepared by:
+Jan Kowalski
+Approvee
+Boals.

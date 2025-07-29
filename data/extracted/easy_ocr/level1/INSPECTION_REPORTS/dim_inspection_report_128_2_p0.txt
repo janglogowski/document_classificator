@@ -1,0 +1,53 @@
+Component Dimensional Check
+sudervisor
+Anna Noivak
+Inspection DJte
+2024U 29
+Ensure
+measurement methods align with calibration standards
+Please review the inspection results for each
+comiponcnc
+listed below- The inspection register below highlights any out of tclerance parts
+Product Rel
+HF-3904
+CN-150C
+CE-905L
+S0-[Ul
+Name
+Hinge Set
+Staphte
+Power Switch
+Hinge Set
+Height
+Hole
+nicknes:
+Lenetn
+Nomina
+1.93
+70.5
+7.18
+83.18
+Actuz
+13.U1
+75.97
+7.17
+Deltz
++0u8
++0.19
+Ensure all measuring tools were properly calibrated Flag any components requiring re-machining
+adiuslincmt
+Cross-verily measurement data with CAD nominal values
+Inspection notes have been
+logged far traceability-
+Instruicng
+Calibration Log:
+unstrument
+Serial No
+Calibration Date
+Ncrometer
+84939
+2024-1-26
+Lase
+Scanner
+47304
+2025-01-09

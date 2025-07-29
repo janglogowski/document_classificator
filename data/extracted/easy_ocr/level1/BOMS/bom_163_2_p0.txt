@@ -1,0 +1,62 @@
+Customer ID: POLAND
+Prepared by: Jan Kowalski
+Product ID: TY-3506
+Interna
+No:: 2583327
+Ensure each component meets the
+specified quality standards
+All entries reflect the latest inventory and
+supplier rates
+The
+Ml l
+ponent roster below includes unit costs and batch codes. This summary lists every
+item required; with
+unit pricing details This extract shows the bill of components and total projected
+spend. This section outlines the parts, unit prices
+total
+Amountc
+for assembly,
+Item
+Spacer Zmim
+Clamp
+Digital
+Copper
+Battery
+Grease
+Description
+120mm
+Display Unit
+Wire 3mm
+Pack
+Tube 250ml
+Qty
+184
+101
+638
+669
+810
+788
+UOM
+Unit Price
+25.00
+Amount
+27.60
+176.75
+9,570.00
+401.40
+20,250.00
+1,497.20
+Remarks
+Li-Ion
+For export
+Urgent
+Urgent
+Li-Ion
+battery
+battery
+installed
+installed
+TOTAL: 31,922.95
+per
+and
+Ring

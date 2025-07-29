@@ -1,0 +1,85 @@
+Production Log
+FR-824
+Repon No
+GREECE
+Customeg
+Peter Schmidt
+Supemisor:
+Aszemb)y
+Deparment:
+(Evening)
+Shift
+23-05-2024
+operation log and output summary for each workstation This dishhoatd Veistion
+Please reviow today's
+this overview to assess throughput and efficiercy levels.
+highlights any production bottlenecks
+Use
+Worker
+Stant
+Finish
+Total
+Remarks
+Thermal
+Energy
+Maching
+Operation
+Reading
+(KWhl
+Time
+Time
+Kowalski
+1400
+44.45
+MC-209
+Cutting
+Jan
+1443
+NIA
+78.3
+1,56
+MC-202
+Culling
+Nadia Sauler
+10*15
+Recalibrated
+62.,9
+1.63
+MC-204
+Cutting
+Wiktor
+11.30
+12,24
+Konazvoskak
+115
+1404
+109_
+Recalibrated
+76.3
+162
+MC-209
+Drilling
+Anna
+102
+Recaliprated
+56,5
+MC-201
+Welding
+Dawiu
+14.15
+Oszmlarczuk
+NIA
+65.8
+1,28
+MC-205
+Drilling
+Magdalena
+07.15
+08.23
+WtkowSka
+Peter Schmiot
+Prepared DY:
+Caros
+Garcia
+Approved bY:
+15/57

@@ -1,0 +1,71 @@
+Audit Trail
+This section details quality requirements and test points for the batch: Please review each checklist point
+and mark tne
+sampling results. All checklist entries are timestamped for traccability. This checklist captures
+quallty inspection points and sampling levels:
+Product ID
+PW-515Y
+Customer ID
+POLAND
+Item Descrption
+Clamp Ring
+20mm
+Review Points
+Check
+Defect Class
+Notes
+Intensity
+Design Specs
+Paint smearing
+scratches
+Level
+Critical
+imdact
+Package
+not sealcd
+Level
+Critical impact
+completely
+Shipping mark is illegible or
+Level Il
+Critical impact
+missing
+Missing logo
+waming labe
+Level
+Minor issue observed
+Product doesntt power
+Needs reviel
+Missing distributor infomation
+Leve
+Needs review
+Connector not working
+Level
+Minor issue observed
+Not assembled as per drawing
+I55uC
+observed
+Visual defect
+housing
+LcvGI
+Functionalit
+failed
+ncorrcc
+carcocc
+abel
+Needs revicw
+Missing safety
+Leve
+Crtical impact
+Rubber
+texte
+glossiness
+Level
+Needs review
+msmalch
+Sharp edges on plastic
+Level III
+components
+Supervised by:
+Date:
+Minor

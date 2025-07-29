@@ -1,0 +1,39 @@
+43.50
+H7 +0
+12.00
+8.88
+35.00
+3
+2
+8
+2
+1
+8
+5.00
+SECTION A-A
+26.00
+SCALE
+1 : 2
+SIGMA AUTOMECH, SHIROLI
+Do not scale
+MATERIAL- EN8
+QTY  -
+08
+Drawn By-
+SWAPNIL
+Project -
+degree inclined machining
+Checked By-
+Part Name
+Cover DN 75
+Support)
+Date
+12-11-2020
+No.
+SA-02IMDOOI
+REV=
+All dimensions are in MM
+Sheet -
+01 OF 0p
+sa
+Dwg:

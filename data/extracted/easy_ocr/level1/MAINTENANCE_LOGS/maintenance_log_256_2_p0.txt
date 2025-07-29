@@ -1,0 +1,93 @@
+Machine Log Summary
+2025-01-19
+This service
+summa
+upports the reliability engineering review. Check that
+dcivntime
+vents are propeniy
+tegorized and
+Iopae
+Confinm tnat $ervice intervals followa tne preventive schedul
+following ertries cetail preventive and cctrective
+maintenance tasks
+Intenance extact
+prepared tor compliance auoiz trails
+Spare Parts Used:
+Fart Name
+Fart No
+aty Used
+LI-Ion Battery Pack
+P-6103
+Unit Cod
+Equioment
+Technician
+Downtimi
+Previdus
+Comments
+Serlce
+Mc 761
+Bxumhly
+Prawventive
+LMM; Roxt
+2025-01-30
+Switch
+Rodmt
+CCOacs
+clcancd
+MC-268
+Packaging
+Inspection
+Peter
+2024-11-29
+KEes
+Line
+Scmict
+tound
+MC-223
+Lonuevon
+Lorecmve
+Jankouralsk
+2025-03-01
+Censor
+ncumbrated
+Mc-2OZ
+Aecemhly
+Preventive
+Laura Rose
+2024-07-23
+Censor
+Ronct
+nkcumnruted
+Mc787
+Conuavon
+Intolchon
+Prtem
+2025 05 0g
+Rcplaced
+Schmiat
+MC 222
+Laser Cuticr
+Prevcmtive
+Noxak
+2075 02-13
+Replace d
+ccolang
+MC-794
+Aaembly
+Prevemtive
+Peler
+2024-17-13
+5wtch
+Rodor
+Bcnmlat
+ccnacts
+cleaned
+MC-298
+Lamne
+Lorecmve
+Jan Kowalskl
+2024-12-18
+ApEovedEyi
+JanKawkki
+Serviced Dy;
+Jankowalsk

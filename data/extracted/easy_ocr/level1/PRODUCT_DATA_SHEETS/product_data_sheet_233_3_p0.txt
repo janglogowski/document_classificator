@@ -1,0 +1,59 @@
+Product Overview
+Document No: 1637920
+Product
+QP-660F
+2023-09-12
+Unit Type
+Hydraulic
+Unit
+Design Pressure
+250 bar
+Fluid Flow
+L8 Kimin
+Operating Voltage
+400
+50Hz
+TYpL
+vane
+Total Weight
+230kg
+miotor POWCi
+Protection
+Char
+ing Time
+Filtration
+um inline,
+10 um return
+Material
+Powder-coated
+Mounting
+Rack frame
+Component Materials Overview:
+Labe
+Base
+Specification
+Sneet 436
+Carbam
+436
+IS0 2768
+Therma
+FUS
+Ceramic Oxide
+certned
+Fusc 5F
+Leramic Oxidc
+Liass
+colerance
+Support Foot Stee
+Stainless Stecl 304
+DIN EN 10025
+Prepared by: Peter Schmidt
+Approved by: Jan Kowalski
+Date;
+Poxer
+Pump
+Puinp
+Class
+IP6s
+Fram €
+Sicc

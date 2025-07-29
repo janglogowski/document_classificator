@@ -1,0 +1,58 @@
+Tolerance Check
+Inspector
+Larics Garcia
+Inspection Date
+2024-12-22
+Refer t0 the dimensional lag for
+camponent size readings
+inspectian register below highlights any out-af-
+tolerance
+parts; Use this examination summary
+confirm component
+conformity. The following data captures key
+dimensions and any deviations identified. All measured values are timestamped for audit purposes
+This data extract
+prepared for quality-control sign-pff;
+Item Code
+Lk-8908
+UP.Ss5V
+TY-3506
+PW-51SY
+Component
+Graphite Pad
+Bearing 6202 ZZ
+Graphite
+Measurement
+Thickness
+Inner Dimeter
+Inner Diameter
+Length
+varge
+8102
+74.81
+Observed
+25.01
+75.70
+74,97
+Delta
+Pass/Fail
+Inspection
+notes have
+deen
+lagged for traceahility, Ensure all measuring tonls were praperly calibrated; Archive this
+inspection summary for regulatory documentation
+Instrument Calinration (OB:
+instrument
+Seria
+Calibration Date
+muicrometer
+62087
+2024-12-09
+LdSE
+scanner
+54461
+2025-03-09
+Mider
+64419
+2024-08-31
+Ht?e

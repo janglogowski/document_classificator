@@ -1,0 +1,57 @@
+Component Overview
+Document No.
+9134477
+Product ID: FT-730X
+Date: 2024-01-15
+Unit Type
+Cooling Circulalion
+Rated Pressure
+210 bar
+System
+Fluid Flow
+30 Umin
+Operating Voltage
+230 V / 50 Hz
+Frame Material
+Stainloss Steel Frame
+Reservoir Capacity
+160
+Control
+Valve
+Manual Ovenide 3/2
+Working Temp: Range
+'C to 45"C
+Mounting
+Wall-mounted
+Motor Power
+7.5kWv
+Component Materials Overview:
+Labe
+Specification
+Bearing 6202
+Stainless Steel 304
+RoHS compliant
+Heat Sink ALU
+Aluminum 6061-T6
+Ul-istco
+Digital Display Unit
+ABS Plastic
+pnticorrosivo
+Support Foot Stee
+Stainless Steel 304
+ulance
+Cable Tie Pack (100)
+Nitrle Rubber (NBRE
+RoHS compliant
+Nut M6
+Zinc-Plated
+licted
+Thermal
+Ceramic Oxide
+UL-listed
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia
+Base
+Ciss
+Slec
+Fuse

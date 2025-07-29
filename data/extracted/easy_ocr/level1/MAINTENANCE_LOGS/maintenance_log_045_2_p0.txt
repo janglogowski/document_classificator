@@ -1,0 +1,77 @@
+Equipment Record Report
+2025-01-08
+This service
+summar
+upports the
+eliability engi neering review. Tnis section captures
+equipment status and any maintenance
+Gaan ands
+Winamnl
+Miety chec ; WCre cutipi
+dunine tcrvicine
+easereview this log for recent service dates, 'ypes, and
+renanks
+The following entries deta
+Df eventiv
+and corective
+intenance tasks. The equipment log below Includes fault codes
+and rorrertivcnotes
+Spare Pairts Used;
+Putt Name
+Part No
+Oty Uced
+Oil Filter
+Gy
+l-on
+P-7202
+Machine
+Maching
+5envice Tpe
+Operator
+Dowuntiml
+Previdus
+Nole
+Serlce
+MC-247
+Palat Bcoth
+Preveative
+Peter
+2024-09-2Y
+Sens06
+Schmiat
+Tecalihrated
+MC-218
+Palat Bcoth
+Inspection
+Larics Garciz
+2025-0Z-06
+Replace d
+cocant
+MC-286
+Faint Bcotn
+Preventive
+Jankowalske
+2u2-0S-19
+No /ssues
+found
+MC-250
+Packaging
+Preventive
+Jankowalske
+2024-02-24
+Keplace d
+Line
+coolani
+ML-2uy
+CNC Milling
+Inspection
+Nox"dk
+{2u25-04-18
+Tientened
+M-chini=
+lcnsubalt-
+Authocized Du;
+Ann Nowar
+Operator:
+Annz Nowral
+Rauten

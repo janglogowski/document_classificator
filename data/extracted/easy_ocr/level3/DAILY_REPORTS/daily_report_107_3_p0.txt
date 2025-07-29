@@ -1,0 +1,138 @@
+Production
+Report No:: PR-824
+Customer: CANADA
+Shift:
+(Evening)
+Date: 15-01-2025
+Machine
+Task
+Worker
+From
+End Time
+Total
+Remarks
+Stage
+duration
+MC-208
+Assembly
+Mateusz
+13.15
+13.56
+In progress
+Jarzyna
+MC 203
+Assembly
+Bartosz
+12.00
+12.22
+Completed
+Wawrzyniak
+MC-207
+Cutting
+Agnieszka
+13.00
+15.00
+120
+Delayed
+Zielinska
+MC-201
+Welding
+Magdalena
+14.30
+15.46
+Delay
+progress
+Witkowska
+MC-202
+Cutting
+Piotr
+14.30
+15.20
+Completed
+Lewandowski
+MC-206
+Polishing
+Magdalena
+14.15
+15.07
+NIA
+Completed
+Witkowska
+MC-207
+Cutting
+Wiktor
+08.30
+09.16
+NIA
+Completed
+Kopczynski
+MC-207
+Welding
+Piotr
+13.15
+15.08
+Delay
+In progress
+Lewandowski
+MC-205
+Cutting
+Nadia Sauter
+11;00
+11.51
+progress
+MC-203
+Polishing
+Jan Kowalski
+13.30
+15.09
+Completed
+MC-208
+Welding
+Dawid
+09.15
+09.47
+Completed
+Oszmianczuk
+MC-203
+Assembly
+Dawid
+10.30
+11.18
+In progress
+Oszmianczuk
+All production targets have been logged; deviations are highlighted above. Refer to remarks fOr any rework Or
+quality concerns. Confirm that scrap percentages align with quality benchmarks. Archive this output summary
+for end-of-day reporting:
+Part ID
+Planned
+Produced
+Scrap Qty
+Failure %
+Reworked
+Remarks
+Output
+Qty
+Units
+FT-730X
+217
+191
+11.9890
+SB-I40D
+130
+125
+3.8590
+Scrap
+confirmed
+AZ-300T
+267
+11.2490
+Rework
+needed
+TY-350G
+146
+9.8896
+Zr-205r
+0.4480
+Approved by:
+Prepared by:
+Log

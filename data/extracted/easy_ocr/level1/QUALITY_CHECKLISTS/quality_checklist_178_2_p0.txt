@@ -1,0 +1,59 @@
+Quality Verification
+Entries include both visual and functional inspection items. Below are the items -
+be verified during the final
+pfOduCiraview.
+This summary supports the praduction-release quality gate. Use this list to confirm adherence
+AQL and safety standards. Archive this list in the
+uality-
+management system.
+Please review each checklist
+point and mark the sampling results .
+Productd
+Ce-905L
+Customcrd
+FINLAND
+Item Description
+Cable Tie Pack (1001
+Review Points
+Inspection
+Category
+Observations
+Depth
+Item
+DecS
+Fxnosed
+ilwith sharp
+naint
+Levei
+Minor iSsue odsenved
+Scras
+0osk
+Mssine
+Leval
+Critical impact
+Battety not included
+Levele
+Minor issue observed
+Missing distributor information
+Lcvcl
+Critical impact
+ncorrect omentation
+box
+Level II
+Dead
+live insect in
+Level II
+Critical impact
+packaging
+Wrong product size
+Level [
+Critical impact
+Rubber Switch not working
+Levei
+ncorrect
+quantity
+Level III
+Critical impact
+assortment
+Supervised by:
+Date:

@@ -1,0 +1,56 @@
+Unit Data Specification
+Internal No:: 2231132
+Product ID: JD-700W
+Date: 2024-08-26
+Unit Type
+Hydraulc Power Unit
+Design Pressure
+300 bar
+Fluid Flow
+30 Lmin
+Supply Voltage
+480
+60Hz
+Dimensions (LxWxH)
+1200 X 700 X 1100
+Motor Power
+11kW
+Pump Type
+Vane
+Frame Material
+Powder-coated Stee
+Qil Type
+HLP 68
+Noise Level
+68 dB(A
+Component Materials Overview:
+Label
+Composition
+Specitication
+Battery Pack
+Lithium-Ion Cell Pack
+DIN EN 10025
+Digital Display Unit
+ABS Plastic
+Anticorrosive
+Capacitor_ 450
+Aluminum 6061-16
+UL-listed
+Ring NBR 6Omm
+Nitrle Rubber (NBR
+CE certified
+Heat Sink ALU
+Aluminum 6061-T6
+RoHS compliant
+Graphite Pad
+Graphite Pad
+certified
+Thermal Fuse
+Ceramic Oxide
+RoHS compliant
+Bearing 6202 ZZ
+Stainless Steel 304
+Heat-resistant
+Prepared by: Anna Nowak
+Approved by: Laura Rossi
+Pump

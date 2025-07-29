@@ -1,0 +1,47 @@
+Product Overview
+Document No.
+PR-591
+Product ID: XD-T1OR
+Date: 2024-07-14
+Model Type
+Cooling Circulation
+Design Pressure
+300 bar
+System
+Throughput
+60 Umin
+perating Voltage
+480 V / 60 Hz
+Reservoir Capacity
+120
+Charging Time
+Battery Capacity
+Control Valve
+Manual Override 3/2
+Motor Power
+kW
+Protection Class
+IP54
+Working Temp
+Range
+10C to 50"C
+Pump Type
+Gear Pump
+Component Materials Overview:  
+Item
+Base
+Specification
+Bearing 6202
+Stainless Steel 304
+IP67 rated
+Nut M6
+Zinc-Plated Stec
+Heat-resistant
+Wooden Pallet
+Treated Pine
+Gasket Sheet
+Nitrle Rubber (NBR
+RoHS compliant
+Prepared by: Jan Kowalski
+Approved by: Peter Schmidt
+Wcod

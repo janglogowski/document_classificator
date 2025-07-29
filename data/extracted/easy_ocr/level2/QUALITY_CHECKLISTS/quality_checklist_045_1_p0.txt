@@ -1,0 +1,66 @@
+#2161673
+Inspection Sheet
+Date: 17.07.2025
+RX-31OZ
+Customor ID
+FINLAND
+Product ID
+Itemn Description
+Hinge Set
+This saction delails quality requirements and test points for Ihe batch; Use Ihis extract 
+coordlnate slgn-off
+with the QA manager; This summary supports the productlon-release quality gate . Check that 
+Inspection
+procedure
+Entrios Include both visual and functlonal inspection items: All
+steps follow Ihe approved
+checkilst ontrles are (imestamped (or traceability:
+Notes
+Revlew Polnts
+Sampling
+Soverlty
+Lovol
+Crltical
+Major
+Minor
+OnHold
+Item specs
+Minor Issue
+Packaging doos nol
+Level Ill
+observed
+malch signed sample
+Carton
+damaged
+Level IlI
+Crilical Impact
+markings Incorrect
+Exposad nall with sharp
+Lovel II
+Needs roviow
+poini
+Screws Ioose
+Or missing
+Missing dlstnbutor
+Crliical impact
+Lovol
+Infommation
+Minor ISSU0
+Connector not working
+Level IlI
+observed
+Package
+rol sealed
+Levol
+Crillcal Impact
+complotoly
+Rubbar texture Or
+Level |
+Needs revlew
+glossinoss mlsmatch
+Cotical
+Major
+Minor
+AQL Lovel
+Default
+Customer specific

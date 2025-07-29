@@ -1,0 +1,70 @@
+BOM Report
+Ensure each component meets the
+specified quality standards_
+This document provides
+dotailed
+breakdown of all components required for the assembly process. Refer to this parts register to plan
+raw-material purchasing: The parts manifest here is designed t0 support procurement workflows_
+Use this schedule of parts t0 align with sourcing and stock levels
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Spacer
+0.15
+3.00
+ROHS
+2mm
+compliant
+Hinge Set
+75.00
+Kiuminmm
+4.50
+45.00
+Bracket
+Shaft
+8.00
+176.00
+s00mm
+compliant
+Ventilation
+pCS
+201.60
+Imported
+Grid
+Ventilation
+pCS
+44.80
+Grid
+Copper
+17.40
+Urgent
+Wire 3mm
+Power
+pCS
+10.80
+Imported
+Switch
+Battery
+pcs
+25.00
+350.00
+Pack
+Grease
+91.20
+Urgent
+Tube 250ml
+Customer ID: POLAND
+Coordinator: Jan Kowalski
+Date; 2025-02-25
+Product ID: DX-777T
+Internal No_
+5843518
+Order Qty: 310
+Total Amount:
+1,014.80
+pcs
+PC5

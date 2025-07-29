@@ -1,0 +1,92 @@
+BOM Report
+Customer ID: FINLAND
+Coordinator: Jan Kowalski
+Date; 2022-10-29
+Product
+PL-6012
+Internal No.
+5182761
+Order Qty: 340
+This extract shows the bill of components and total projected spend. The parts manifest here
+designed
+to support procurement workflows This summary lists every item required; with per-unit pricing details.
+AIl line-item costs are current
+per vendor quotes
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+1,52
+pc$
+4.50
+166.50
+For
+Bracket
+export_
+Heat
+3.22
+10%6
+2.70
+137.70
+Resistant
+alignment
+Sleeve
+ddjusted
+sensor
+Clip
+2.32
+1096
+0.95
+41.80
+Urgent
+Epoxy
+2.54
+7,30
+299,30
+Certified
+Resin Kit
+batch
+Grejse
+1.90
+30.40
+Certified
+Tube
+batch
+250ml
+Packaging
+0,33
+pCS
+1.00
+9,00
+Box
+export
+Bearing
+0,33
+10%
+pCS
+1.50
+13.50
+6202 Z2
+export
+set
+2.24
+2.50
+67.50
+mported
+Verify that all remark items meet the sourcing department'$ standards, Totals include estimated over-
+consumption allowances and current unit rates Amounts reflect current pricing; adjust a5 necessary for
+bulk orders.
+Total
+Amount;
+765.70
+Approved Bv:
+Sourcing Department:
+Hinge
+Hinge
+240

@@ -1,0 +1,53 @@
+Unit Data Specification
+Check that all material specs align with supplier certifications. Refer to this configuration summary for unit-
+designation mapping:
+Please review the specifications and material composition listed below. This section
+details the configuration and parameter set for the product: This technical overview supports the product-
+release checklist;
+Product ID:
+LP-S55V
+Interal No:
+PR-374
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski
+Date: 2024-02-23
+Configuration Type
+Cooling Circulation
+Operating Pressure
+300 bar
+System
+Throughput
+60 Lmin
+480 V
+60Hz
+Filtration
+10 um retum;
+Motor Power
+kW
+suction
+Noiso Level
+70 dB(A)
+Archive this summary for future design-change management: Check that all section headers follow the
+product template_
+Document control numbers are included for traceability. Refer to parameter table for
+operaling ranges and lolerances. All summary corments have been recorded In the revision log
+Ensure
+glossary tems match the engineenng nomenclature:
+This summary reflects the latest revision of the product
+data
+Material of Construction:
+Padt
+Raw Materla_
+Cable Tie Pack (100
+Niule Rubber (NBR)
+Gasket Sheet A4
+Nitrle Rubber (NBR)
+Power Switch
+Povcaroonate
+Copper
+Thermal Fuse
+Ceramic Oxide
+Rubber Gasket BUmm
+Nitrile Rubber (NBR)
+Voltage
+25 m

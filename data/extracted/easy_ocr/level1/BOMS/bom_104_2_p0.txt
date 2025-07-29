@@ -1,0 +1,47 @@
+Customer ID: CANADA
+Prepared bv: Carlos Garcia
+Product ID: BZ-660F
+Interna
+No:: 2461594
+All entries reflect the latest inventory and supplier rates_
+AII line-item costs are current=
+per vendor
+quotes. Use this schedule of parts to align with sourcing and stock levels_
+The following table summarizes
+the materials and quantities needed for the current project: The
+manifest here is designed to
+support procurement workflows: This extract shows the bill of components
+total projected spend
+Item
+Fuse SA
+Wooden
+Epoxy Resin
+Rubber
+Epoxy Resin
+Fuse 5A
+Description
+Pallet
+Stopper
+Qty
+717
+803
+952
+694
+442
+UOM
+Unit Price
+Amount
+215.10
+2,685.00
+,861.90
+523.60
+5,066.20
+132.60
+Remarks
+Imported
+Urgent
+SO-verified
+SKF brand
+TOTAL: 14,484.40
+Pans
+and

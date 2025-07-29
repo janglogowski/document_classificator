@@ -1,0 +1,94 @@
+Shift Summary
+Report No:: PR-943
+Customer: BELGIUM
+Shift:
+(Evening)
+date:
+06-11-2023
+Equipment
+peration
+Technician
+From
+End Time
+Duration
+Remarks
+Stage
+(min)
+MC-205
+Welding
+Agnieszka
+07:15
+08.51
+Completed
+Zielinska
+MC-205
+Welding
+Nadia
+14.15
+15.10
+NA
+Completed
+Sauter
+MC-203
+Polishing
+Wiktor
+14.15
+15.07
+Delay
+Delayed
+Kopczyrski
+MC-202
+Polishing
+Anna
+13.00
+13.26
+NA
+Completed
+Nowak
+MC-206
+Nadia
+10.15
+Recalibrated
+Delayed
+Sauter
+MC 206
+Welding
+Lnna
+Tie0u
+11.21
+Completed
+Nowak
+Item
+Targee
+Actual
+Scrap Qty
+Scrap
+Rework Qty
+Remarks
+HF-3904
+154
+4.5500
+Scrap
+confirmed
+TX-820v
+281
+280
+0.3610
+Scrap
+confirmed
+TL-90OX
+205
+190
+732ug
+Scrar
+confirmed
+MX- 450L
+151
+137
+9.2790
+Rework
+needed
+Approved by:
+Prepared by:
+Drilling
+Delay

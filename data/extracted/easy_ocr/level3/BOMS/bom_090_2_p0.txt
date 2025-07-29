@@ -1,0 +1,38 @@
+by:
+No::
+Customer ID:
+Product ID:
+Rubber Stopper
+Fuse SA
+Sleeve
+288
+Item
+somm
+270
+863
+0.55
+Qty
+0.30
+158
+uoM
+81.00
+Unit Price
+1,553.40
+SKF
+Garcia
+Carlos 5
+Prepared
+6309564
+Internal 
+POLAND
+CN-1SOC
+Protective
+Description
+Imported
+compliant
+RoHS
+brand
+Amount
+Remarts
+1792.80
+TOTAL:

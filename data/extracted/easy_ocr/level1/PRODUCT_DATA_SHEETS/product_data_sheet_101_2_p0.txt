@@ -1,0 +1,65 @@
+Unit Configuration
+The following information outlines performance characteristics and design data_
+This section details the
+configuration and parameter set for the product, This technical overview supports the product-release
+checklistTis data sheet
+provides
+specifications and material details_
+This report extract
+prepared for
+design-verification audits. Use this sheet-
+confirm engineering requirements and tolerances. Confim that
+perfonnance ranges comply with project requirements.
+Product
+IR-ZOOB
+Document No;
+3865303
+Prepared by: Peter Schmidt
+Approved by: Laura Rossi
+Date:
+2023-10-19
+Unit Type
+Hydraulc Power Unit
+Rated Pressure
+210 bar
+Fluid Flow
+75 Umin
+Operating Voltage 
+400 '
+S0Hz
+Qil Type
+HLP 46
+Pump Type
+Gear Pump
+Dimensions (LxWxH)
+1000
+650 * 1000 mm
+Cooling
+Water-cooled
+exchanger
+Use Ihis summary t0 cross-check with BOM and inspection reports _
+Ensure that the listed materals are
+approved for the application: Check that all section headers follow the product template
+Data sheet has
+been peer-revieved by the engineering team
+Archive this summary for
+umge
+design-change management
+any missing parameters for urgent specification updates
+Material 0f Construction;
+Label
+Raw Material
+Cable_Tie Pack (1OOL
+Nitle Rubber (NBR
+Sheet
+Carbon
+Tellan
+Tape Ro
+Tellon Tape Rol
+Capacitor 450_
+Eluminum
+6061-T6
+Gasket Sheet A4
+Nitile Rubber (NBRL
+Flag
+Sieei

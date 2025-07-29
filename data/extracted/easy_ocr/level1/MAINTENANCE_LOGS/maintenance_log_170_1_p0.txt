@@ -1,0 +1,98 @@
+Machine Log Summary #1724505
+Date: 2025-05-22
+Machine
+Equipment
+Service Type
+Operator
+Downtime
+Site
+Notes
+MC-233
+Conveyor Belt
+Insocctcn
+Anna Nowak
+Piant IC
+Alignment =
+ninges
+Acueted
+MC-291
+Lalha
+Inspection
+Arna Nowak
+Plant 1C
+Replaced
+5A)
+MC- 285
+Paint Booth
+Inspecticn
+Jan Kowalski
+Piant 2B
+onment
+hinges
+agjusted
+MC-235
+Plasmia Culler
+culeclive
+Peler Schmidl
+Piant 28
+Rujlacgo
+cuolani
+MC-224
+Laser Cutter
+Preventive
+Anna Nowak
+pant *A
+Changed oil
+and Iters
+MC-288
+Laser Culer
+Cqteclive
+Lara Ruse
+Punl 2B
+MC-271
+Lase
+Cuter
+Preventive
+Peter Schmidt
+Plant 1C
+Refilled
+(HLP 46).
+MC-225
+Pusua Cullur
+PryvGMlvc
+Ana Nowak
+Plant 2B
+MC-251
+Paint Booth
+Inspection
+4nna Nowak
+Pilant 34
+Switch
+contacts
+cleaned
+MC 278
+Paint Bcoth
+Lcrectve
+Carlos Garcia
+Piant 2B
+Calbration
+check OK
+This log summary
+suppOns Uc aSSUl-manaocmcnl dashudalo
+Arcnive this summary
+CMMS fcr fulure refcrence
+All maintenance tasks have been completed as per
+SCneqme
+Ensure that
+service entry has the required approvals
+Senice summanes nav
+deem
+Orvarded
+the engineering
+eam
+Lubncabion Checked
+Caliprajion Verifed
+Emergency Stop Tested
+Signed cff:
+Performed by"
+eech

@@ -1,0 +1,89 @@
+Inspection Record
+Quality Check Items
+Sample
+Category
+Remarks
+Tier
+Component Criteria
+Critical
+Major
+OnHold
+Incarrect prientation inDox
+LevelI
+Needs review
+Package
+Jolscalcd
+Minor Issue
+LevelIlI
+completely
+absenad
+Minor issue
+Battery nat included
+Level II
+apsenven
+Paint smearing or
+Level
+scratcnes
+Praduct doesn't power On
+Levell
+Critical impact
+Hinges
+Ipd 6
+Levelll
+Insuuclion Manualis
+LevelIlI
+Needs review
+Missing or damaged
+Not assembledas per
+Level III
+Needs review
+drawing
+Incatrect quantily 0r
+Levelll
+Critical impact
+assortment
+Laose parts inside
+Level III
+packaging
+Connecion
+not working
+Level /
+Needs rGview
+edges
+plastic
+Minor issuc
+Level III
+components
+absered
+DusUdebris inside
+Minor Issue
+Level III
+packaging
+apsenvec
+Rubber
+armra
+Issme
+Levell
+slossiness mismatch
+observed
+Dead
+live insectin
+LevelII
+ging
+Carton
+Jamaced
+markings incorrect
+Color mismatch
+Level ImI
+Critical impact
+Reterence Standards;
+Standard
+Edition
+CE Directive
+2011
+UL 61010
+4th Ed;
+Minor
+Sharp
+Minore
+packa

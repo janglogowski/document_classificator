@@ -1,0 +1,32 @@
+Unit Data Specification
+Report No: PR-691
+Product ID: NU-4402
+Date: 2025-03-08
+Unit Type
+Cooling Circulation
+Operating Pressure
+250 bar
+System
+Flow Rate
+75 Umin
+Supply Voltage
+480 V / 60 Hz
+Mounting
+Skid base with vibration
+Reservoir Capacity
+120 L
+pads
+Protection Class
+P65
+Service Interval
+1000
+Jotal Weight
+230
+Nolse Leve
+Control Valve
+Directional 43
+Working Temp
+Range
+10'C
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt

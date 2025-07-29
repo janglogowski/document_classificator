@@ -1,0 +1,61 @@
+BOM Report
+Customer ID:FRANCE
+Coordinator: Anna Nowak
+Date: 2023-05-24
+Product ID:
+PL-6012
+Internal
+No : 9383615
+Order Qty: 371
+Refer to this parts register to plan raw-material purchasing: Ensure each component meets the
+specified quality standards. This document provides
+detailed breakdown of all components
+required for the assembly process
+No
+Item
+Consumption
+Extra
+UOM
+Rate
+Amount
+Remarks
+Description
+Control
+2.01
+590
+pCS
+12.00
+420.00
+ROHS
+Pane
+compliant
+Mount
+Epoxy
+0.61
+240
+pcs
+102.20
+Resin
+Clamp Ring
+1.42
+5%
+pcs
+1.75
+75.25
+ROHS
+120mm
+compliant
+Stainless
+2.32
+0%
+pcs
+0.35
+6.65
+ISO-
+Bolt M8
+verfied
+Total Amount:
+604.10
+Approved By:
+Sourcing Department:
+aty

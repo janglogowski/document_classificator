@@ -1,0 +1,104 @@
+Production Log
+Report No:
+PR-810
+Custamer
+CANADA
+Supervisor:
+Curios Gjrciz
+Menarmente
+Packaging
+01-08-2024
+Shitt:
+orning
+Machine
+Process
+Technician
+Begin
+End Time
+Time
+Remarks
+MC-2O1
+Welding
+Mateusz
+07:15
+09.01
+106
+Tarzvna
+MC-208
+Welding
+Agnieszka
+12.15
+13,02
+NYA
+Zielinska
+MC-207
+Assembly
+Wiktor
+10,00
+11,04
+NYA
+Kopczynski
+MC-202
+Polishing
+Piotr
+06,00
+06.24
+Recalibrated
+Lewancowski
+MC 207
+Drilling
+Wiktor
+11.00
+12.28
+Recalibrated
+Kopczyriski
+MC 208
+Welding
+Przemystaw
+07.00
+07.41
+Wasik
+MC-208
+Assembly
+Anna
+Vowak
+14.00
+14.56
+Rpcluraled
+MC 209
+Welding
+Przemyslaw
+14.30
+14.50
+Wasik
+Part ID
+Target Qty_
+Actua
+Relecten
+Failure
+Note
+MR-160H
+205
+Jle
+Rework ncedeo
+8970
+connnned
+HF-3904
+Rework needed
+TX-820v
+5,029
+ARCOP
+12,187"
+Scrap confirmed
+KP-320E
+13.127
+scrap
+confirmed
+Prepared by:
+Kowalski
+Approved D%:
+Schmidt
+Date;
+Total
+Sap
+Petet

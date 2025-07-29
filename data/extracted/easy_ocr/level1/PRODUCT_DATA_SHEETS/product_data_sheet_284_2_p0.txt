@@ -1,0 +1,54 @@
+Component Overview
+Below are the technical parameters and construction materials for the unit. This section details the
+configuration and parameter set for the product; Entries include both mechanical and electrical
+specifications
+The parameter register below includes operating limits and ratings_
+Confirm that performance
+ranges comply with project requirements
+Product ID:
+XK-610U
+Interal No:
+1202390
+Prepared by: Anna Nowak
+Approved by: Anna Nowak
+Date: 2023-08-21
+Configuration Type
+Hydraulic Power Unit
+Design Pressure
+250 bar
+Flow Rate
+60 Umin
+Supply Voltage
+480
+60Hz
+Frame Materal
+Stainless Steel Frane
+Working Temp
+Range
+5'C
+Dimensions (LxWxH)
+1200
+700
+1100 mm
+Total Welght
+230
+Noise
+72 dBLA)
+Oil Type
+HLP 46
+AlI specifications meet the design requirements and industry standards- All summary comments have been
+recorded in the revision log; Ensure glossary terms match the engineering nomenclature: Material choices
+process data have been verified for compliance_
+Flag any missing parameters for urgent specification
+updates.
+This summary reflects the Iatest revision of the product data:
+Material of Construction;
+Padt
+Raw Material
+Wiring Loom
+PVC (Rigid)
+Q-Ring NBR 6Qmm
+Nule Rubber (NBR)
+Pressure Valve
+Brass CZ121
+Leve

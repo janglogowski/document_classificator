@@ -1,0 +1,90 @@
+Unit Data Specification
+Project:
+MR-160H
+Document No::
+PR-789
+Prepared
+Lanos
+Garcia
+Approved By:
+Lanos
+Garcia
+Location: Plant 2B
+Date
+2023-08-26
+Please review the specifications and material composition listed below: This section details the configuration
+and parameler set for the product; This data sheet provides key specifications and material details
+AIl dala
+entries are traceable
+design revision history- Refer t0 this configuration summary for unit-designation
+mapping:
+Configuration Type
+Hydraulic Power Unit
+Operating Pressure
+250 bar
+Fluid
+75 Lmin
+Voltage
+400
+S0Hz
+Working Temp
+Range
+10PC t0 55*C
+Dimensions (LxWxH)
+1200
+700 *
+100 Mm
+Reservoir Capacity
+160
+Total Welght
+80 kg
+Charging Time
+Protection Class
+Service Interval
+500
+Pump Type
+Gear Pump
+Cooling
+Water-cooled
+Mounting
+Skid base with vibration
+exchanger
+pads
+Oil Type
+HLP 68
+Filtration
+10 pm return, 25 Um
+suctdn
+Noise Level
+68 dB(A)
+Archive this summary for future design-change management: Check that all section headers follow the
+product template
+Ensure that the Iisted materials are approved for the application. AlI specifications meet
+Ihe design requirements and industry standards;
+Material
+Construction:
+Subcomponent
+Raw Material
+Battery Pack
+Lithium-Ion Cell Pack
+Bearing 6202 ZZ
+Stainless Steel 304
+Cooling Gel Pack
+Silicone Rubber
+Capacitor 450V
+Aluminum 6061.16
+Graphite Pad
+Graphite Pad 
+Woodon Pallet
+Treated Pine Wood
+Thermal Fuse
+Ceramic Oxide
+Ring NBR GOmm
+Nitrile Rubber (NBR
+Hex Bolts M12
+Zinc-Plated Steel
+Nut M6
+Zinc-Plated Steel
+Heat Sink ALU
+Aluminum 6061-76
+Flov

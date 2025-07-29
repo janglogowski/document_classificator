@@ -1,0 +1,86 @@
+Machine Log Summary #2923608
+Date: 2024-08-23
+Unit Code
+Machine
+Type
+Operator
+Duration
+Site
+Notes
+MC-206
+CNC Miling
+Eccct
+Anna Nowak
+Piant IC
+Worn gasket
+Maching
+Fedecem
+MC-257
+Lathe
+Ccrrective
+Carloe
+Carciz
+Plant J4
+librated
+MC-217
+Packaging
+LCCCU
+Pcter Schmidt
+Piant 2B
+Sensor
+Line
+recalibrated
+MC-243
+Lathe
+Inspection
+Anna Nowak
+pant 28
+Changed oil
+and mulers
+MC 255
+Lathe
+Preventive
+Laura Rossi
+plan /R
+No issues
+Tomno
+MC-245
+Packaging
+Preventive
+Arna Nowak
+Plant 1C
+Alignment of
+Linc
+ninges
+aoiuslud
+MC-213
+Paint Booth
+Ccrrective
+Peter Schmidt
+Plant 34
+Calibration
+check OK
+MC-262
+Lallig
+Inspeclicm
+JanKowalskI
+Plant 1C
+No cnlical
+(hulle
+Wete louno
+the latest inspuclion_ All maintenarce (asks
+nave been
+compleled
+schadule.
+Confirm that all corective actans were prcperly closed out: AIl maintenance durations are recorded for performance
+metncs Overal
+equipment condition
+satistactor' Post-Maintenance
+Luoncadcn
+Checked
+Callbration Verifed
+Emergency Stop Tested
+Aulnorized by:
+Opcrator: _
+Sensos
+Guntg

@@ -1,0 +1,61 @@
+Unit Configuration
+The following information outlines performance characteristics and design data_
+Use this spec sheet to
+validate assembly instructions, The parameter register below includes operating Iimits and ratings; Ensure
+all referenced standards are up to date. This report extract
+prepared for design-verification audits. Entries
+include both mechanical and electrical specifications.
+Product
+HF-39QA
+Interal No:
+8399034
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia
+Date: 2023-09-10
+Model Type
+Cooling Circulation
+Operating Pressure
+210 bar
+Syslem
+Fluid Flow
+Umin
+Voltage
+480
+60Hz
+Qil Type
+HLP 46
+Frame Material
+Stainless Steel Frane
+Filtration
+pm inline; 10 pm
+Motor Power
+11 KW
+roturn
+Dimensions (LxWxH)
+1000
+650
+1000 mm
+Working Temp: Range
+10'C to 50*C
+Overall configuration
+within defined design and safety margins. All specifications meet the design
+requirements and industry standards: AlI summary comments have been recorded in the revision log_
+Use
+Ihis summary
+cross-check wilh BOM and inspeclion reports. Archive Ihis summary for future design-
+change management_ Material choices and process data have been verified for compliance. This summary
+reflects the latest revision of the product data:
+Material of Construction:
+Subcomponent
+Composition
+Fuse 5A
+Ceramic Oxide
+Connector
+Glass
+Illed Nylon
+Heat Sink ALU
+Aluminum 6061-76
+Wiring Loom
+PVC (Rigid)
+Pressure Valve
+Brass CZ121

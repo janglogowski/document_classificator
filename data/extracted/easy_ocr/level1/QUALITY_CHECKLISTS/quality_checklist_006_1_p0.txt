@@ -1,0 +1,96 @@
+Conformance Report
+#4105040
+Date: 17.07.2025
+Product ID
+AL-115Q
+Customer ID
+SWEDEN
+Item Description
+Rubber Stopper
+This closure surmary Indicates
+camipuancewilh Inspeclion Crilena
+Check that Inspection steps follow the
+approved procedure: Archive this list in the quality-management system. Use this extractto coordinate sign-off
+with the QA manager. Please review cach checklist point and mark the samplingresults_
+Belowv are tne items t0
+be verified during the final product review
+Ensune
+Jilnon-
+conforming rarks are
+clearly documiented. The
+following table outlines inspection criteria and classification levels
+Quality Check Items
+Sample
+Defect Class
+Remarks
+Component Criteria
+Nat assembled as per drawing
+Level II
+Hinges
+JOSe
+Leve
+Fimor Issue dbservad
+Paint smearing
+scalcues
+Levei
+Needs
+Tevida
+Package
+nal scaled
+Level |
+Critical Irpact
+completely
+Dust/debris Inside packaging
+Level Il
+Minor Issue observed
+Missing safoty labels
+LEvCI
+ncorrec
+Darcode
+Leve
+Shipping mark
+illegible .
+Critical impact
+missing
+Wood splinter or sharp point on
+Level Il
+Minor issue observed
+product
+Visual defect on housing
+Level
+Critical impact
+Product doesnt power
+Lave
+Critical impact
+Dose nans
+Inside
+packaging
+Level
+Veeds
+Tava
+Functionality test failed
+Leval
+Hncdrrec
+quanu
+Hasonimem
+Crlce
+Hrdad
+Instruction mnanual IS mnssingor
+Level Il
+Needs review
+damaged
+Packaging does not match
+Level III
+Critical irpact
+signed sample
+Missing logo
+waming label
+Critical irpact
+AQL Level
+Critical
+Maior
+Minor
+Default
+Customer
+specific
+Tici

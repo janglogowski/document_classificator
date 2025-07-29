@@ -1,0 +1,68 @@
+Component Dimensional Check
+FEEMEc
+Deft
+Schnidi
+Inspecton Dale
+202540519
+Tnis repor presents the dinensional measuements
+inspection fesulis Check thal all diniensions
+comply with ISO and company standards
+Below &e tne recorded measurrements compared against ncminal
+[clerances
+Please revewi tne inspecton results for each comporient Iisled Eelow
+Anticie Ho
+L-8SQB
+BZ-660=
+5L4304
+Ck7d
+Pant Name
+Botts M1z
+Riastic
+Gasket
+Fiastic
+cutM
+Dim.
+Lengin
+Depth
+Heighi
+Hath
+Nomina
+16.68
+8054
+413.25
+3428
+Actua-
+416.8 0
+60.46
+13.47
+3-39
+DI#t
++0.12
+-0.08
+~0.08
+PassiFa
+Ensure all measunng tocls were poperly callbraled_ Tnis Cosure Memo Confinns that dimensional checks
+are ccmplele- Overall inspection summary indicates acceptab e quality levels
+Coriimm tnat pass rates meet
+lne delined acceptance &tena_
+Instrument Celibration Lcg:
+Instrument
+Senal Ro.
+Last Calibration Date
+Mconete
+Bo635
+2024-08-40
+Caliper
+67717
+2024-09-18
+Laser Scanet
+716792
+2025-0+-26
+Miconeter
+56252
+202+1024
+end
+Kal
+Rivels
+Rurder
+Ruvets

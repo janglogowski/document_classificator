@@ -1,0 +1,115 @@
+Maintenance Checklist Report
+Performed On: 2025-05-10
+Jcter Cchmidt
+Fertormeddy
+Annz
+Nowar
+The following
+entries detail preventive and corrective maintenance tasks
+The equipment
+beloucincludes fault codef and
+conectcenones
+Thls malntenance extract
+prepare
+for comcilance aundltraile
+Iosur
+safetchecks Vere
+completed
+sericinp
+This lcg records
+Maintemance activities Dentormed on tne equipment
+technician comments are recorded for
+maintenance trena Aralysis: This sectiori captures equipmnent status and any maintenarice observations
+section
+Unit Code
+MC 742
+Mc 76I
+MC 723
+Mc797
+Mc 746
+MC 799
+Equipmcnt
+Paint Buotm
+Convcys_Belt
+Hycnulic Prcs;
+Lascr
+Cutter
+Paint Bootn
+Convgyo_ Belt
+Service
+Preventh
+ocrecuye
+Corrective
+Unspection
+Ftva
+nspecuicr
+Tecnnician
+Peter Schmiat
+Jeter Snmidt
+Jan Kowvals<
+Peter schmidI
+Peter Schmiat
+Duration
+Commrnt'
+Worn Rasket
+Refilled c  HLP
+WondenDallect
+WVorn Paskc
+Scnanr
+Suritch cnntart'
+AGed
+Gnecked
+replaced
+fecambeated
+cleared
+section
+Unit Code
+MC-223
+MC-Z6 1
+MC-242
+MC-248
+MC-29
+MC-299
+Equipmcnt
+Hydraulic Prc;
+COnvCvcr Bcit
+Paint Booth
+Paint Booth
+Laser @uttcr
+convcvotect
+Scrvice Iypt
+Prevcntiv
+Intoecon
+Correctiva
+Canteoctivg
+Inspection
+Pra entivc
+echnician
+Anna Nowvak
+Larics Garciz
+schmidt
+Larids Garcia
+Rossi
+Larics barcia
+Duration
+Commrnt'
+Calibration
+Calahratinn
+Wcrn Easkct
+Aminment
+Renlared fuksc
+Alienment
+chei
+Cnecz
+Fediacem
+adiusted
+acjusted;
+Uptime (K)
+Efror count
+WOtes
+91.7056
+Genco
+qurce
+Laua
+hinges
+hinges

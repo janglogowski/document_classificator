@@ -1,0 +1,33 @@
+Customer ID: CANADA
+Prepared by: Jan Kowalski
+Product ID: JD-ZOOW
+Internal No:: 9072808
+Ensure each component meets the
+specified quality standards. The component roster below
+includes unitcosts and batch codes
+Please review the itemized list of parts and material
+specifications before procurement: This section outlines the parts, unit prices and total amounts for
+assembly- All entries reflect the latest inventory and supplier rates.
+Item
+escription
+Cable Tie Pack (100)
+Shaft S0Omm
+Wooden Pallet
+Qty
+861
+165
+402
+UOM
+pcs
+Unit Price
+15.00
+pmount
+817.95
+1,320.00
+030.00
+Remarks
+ROHS compliant
+High
+Switch tested OK
+TOTAL: 8,167.95
+Brade

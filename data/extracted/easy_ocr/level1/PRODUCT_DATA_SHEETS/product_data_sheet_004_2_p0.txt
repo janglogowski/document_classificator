@@ -1,0 +1,76 @@
+Product Data Sheet
+All data entries are traceable
+design revision history: Check that all materia
+secs
+align with supplier certifications.
+This data sheet provides key specifications and material details. Confirm that performance ranges comply with project
+requirements Use this spec sheet
+validate assembly instructions.
+Product ID:
+NE-2454
+Renart
+PR-484
+Prepared bv: Ian Kowalski
+Approved by: Jan Kowalski
+Date: 2024-09-20
+Model Type
+Coolling Circulation
+Rated Pressure
+210 bar
+System
+Throughput
+60 Lltin
+Supply Voltage
+490"
+60 HZ
+Dimensions ILxWxH)
+1000
+650
+1000 mm
+Mlountine
+Kack MJmc
+Service Interva
+500
+Frame Material
+Stainless Steel Frame
+Pump Type
+Piston Pump
+Check that all section headers follow the product template . Overall configuration
+within defined design and safety
+margins Refer =
+parameter tabletOr
+operating ranges and tolerances Material choices ad process data have been
+verified for compliance. Ensure glossary terms match the engineering nomenclature
+Material pf Construction:
+suucompgneni
+Raw Materal
+Cable
+packimui
+Mte
+Rubboc
+INBR
+Teflon Tape Ro
+Teflon Tane Roll
+Heat Sink ALU
+Aluminum 6061-T6
+Cooling Gel Pack
+Silicone Rubber
+Wodden
+Pallet
+Treated Pine Wood
+Fuse
+Ceramic Oxide
+Pressure
+Vaive
+Brass CZ121
+Connector 2P
+Glass Filled Nylon
+Hinge Set
+Stainless Steel 304
+Loam Lm
+PVC (Rigid}
+Paver S itorn
+Palvrarbonate
+Copper
+No;:
+Wvininb

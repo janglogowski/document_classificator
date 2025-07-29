@@ -1,0 +1,108 @@
+Product Data Sheet
+Rroject
+Uniems
+QP ESQF
+Approved BY
+Caros Garcia_
+Location: Plant 28
+Date: 2025-01-25
+Carlos Garcia
+Use this sheet to confirm engineering requirements
+specifications and material
+and tolerances
+oata sheet provides key
+revew
+detalls
+include both mechanical and electrical specifications
+the specifications and material composition listed below; Ensare
+date_
+The parameter register below includes
+al referenced standards are UP t0
+design-verification audits
+operating limits and
+This repont extract
+prepared lor
+Configuration Type
+Cooling Circulation
+Pressure
+System
+300 bar
+Flow
+4Lmin
+Qil Type
+HLP 32
+Operating Voltage
+40Q V/50HZ
+Dimensions LWxH)
+1200
+700 X
+Service Intenval
+s500
+Working Temp
+5 C [0.45C
+I100mm
+Mounting
+Wall mounted
+Motor Power
+Noise Level
+Battery Capacity
+5A1W
+Charging
+Cooling
+Water-cooled
+Protection Class
+P67
+exchanger
+Frame Matenal
+Pump Lype
+Gear Pump
+Aluminum Frame
+Control Valve
+Proponional422
+Document control numbers are included for traceabiity Flag any
+updates
+Refer t0 parameter table for
+missing parameters for urgent speciication
+revision of the product data:
+operating ranges and tdlerances This summary reflects the latest
+Confinm that all test conditions are accurately represented
+Material of Construction:
+Label
+Power_Switch
+Insulated Tube 25mm
+Polycarbonate
+Copper
+Pressure Valve
+Themoplastic Polyurethang QPU)
+Rubber Gasket 8Omm
+C2121
+Telon_Tape Rol
+Nitnle Rubber (NBRI
+QEQ LighiStp
+Tellon Tape Ro
+Connector 2P
+Glass-Filled Nyon
+Gasket Sheet 44
+Glass FilledNton
+Hex Bols M12
+Rubber (NBR)
+NulM6
+Zinc Plated Sleel
+BatteryPack
+Zinc-Plated Steel
+Lithium Jon Cer
+Pack
+PR-987
+Prepared
+Thts
+Entries
+Please
+ralings
+Design
+Fluid
+Range
+@B(Al
+Tmg
+Base
+Bruss
+Mtnte

@@ -1,0 +1,87 @@
+COMPONENT BREAKDOWN
+Customer ID: FRANCE
+Coordinator: Jan Kowalski
+Date:
+2024-04-19
+Product ID: NE-2454
+Interna
+No:: 3841385
+Order Qly: 245
+The parts manifest here is designed to support procurement workflows
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Bearing
+1.55
+10%
+pCS
+54.00
+Eco
+6202
+compliant
+Bearing
+1.74
+5%/
+pCS
+1.50
+15,00
+Imported
+6202
+Control
+2.47
+2%/
+pCS
+12.00
+96,00
+Urgent
+Panel
+Mount
+Bearing
+0.39
+2%/
+pCS
+1.50
+10.50
+Certified
+6202
+batch
+Cable Tie
+0.95
+5%/
+pCS
+0.95
+33.25
+Pack (100)
+Shaft
+2.03
+5%/
+pCS
+8,00
+8,00
+ROHS
+s00mm
+compliant
+Termina
+3.17
+2%/
+pCS
+3.40
+105.40
+ISO-
+Block 4P
+verified
+AlI listed components have been verified for availability and compliance. Review this summary
+against the master budgeting sheet: Totals include estimated over-consumption allowances and
+current unit rates. The cost subtotal supports financial forecasting for the next cycle_
+Total
+Amount:
+322.15
+Approved By:
+Sourcing Department:

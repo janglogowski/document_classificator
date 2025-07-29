@@ -1,0 +1,95 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+pCS
+148.50
+Imported
+Bracket
+Plastic
+pCS
+1.10
+11.00
+Cover
+alignment
+150x150
+adjusted
+Shaft
+pCS
+80.00
+Eco
+s00mm
+complant
+Spacer
+pCS
+0.15
+3.75
+Eco
+2mm
+compliant
+Wooden
+pCS
+15,00
+45.00
+Pallet
+Gasket
+pCS
+21.25
+ISO-
+Sheet A4
+verified
+Epoxy
+pCS
+343.10
+High grade
+Resin Kit
+Grease
+pCS
+53.20
+ISO-
+Tube
+verified
+250m1
+Hex Bolts
+pCs
+0.25
+3.25
+M12
+Gasket
+pcs
+1.25
+8.75
+Li-Ion
+Sheet A4
+battery
+installed
+LED Light
+2.50
+22.50
+High grade
+Strip
+Battery
+pCS
+25.00
+800.00
+For export
+Pack
+Amounts reflect current pricing; adjust as necessary for bulk orders;
+Cross-verify totals with the
+ERP system for consistency: All sourcing notes have been logged for audit purposes
+Customer ID: NORWAY
+Coordinator: Jan Kowalski
+Date: 2024-05-0
+Product ID: QN-7Z0H
+Interna
+No:: 7451708
+Order Qty: 360
+Tota
+Amount:
+540.30
+Hinge

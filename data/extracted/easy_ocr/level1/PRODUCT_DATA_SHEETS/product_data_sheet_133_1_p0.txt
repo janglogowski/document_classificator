@@ -1,0 +1,83 @@
+Unit Configuration
+Praject:
+QP-GE0F
+Dacu
+PR-476
+Prepared Bv
+Peter Schmiat
+Approved By:
+LaMa Ross
+Location; Plant 28
+Date; 2024-10-07
+Mode
+Type
+Hydraulic Powe
+Unit
+Operating Pressure
+210 bar
+Fluid Flow
+60 Limin
+Voltage_
+60 Hz
+Battery Capacity
+Dimensions (LxWxH)
+1000 * G50* 1000
+Working Temp
+Range
+52C to 45'C
+Service Interval
+1000 =
+Cantronvanc
+Directional 4/3
+Type
+Vane
+Motor Power
+Cooling
+Kin-cooied
+oil radiator
+Frame Material
+Powder-coated Steel
+Reservoir
+Capacity
+Noise Leve
+70 dB(A)
+Filtration
+10um return, 25 um
+Charging Time
+Protection Class
+1p54
+Mounting
+Skid base with
+vibration
+pads
+Material of Construction:
+Subcomponent
+Composition
+paver Svitcn
+Palvcarbonate
+Copper
+Dam m
+(Rigid
+Hex Bolts M1Z
+Zinc-Plated Steel
+FUSC
+Cermic Oride
+Grapmicc
+Gldpm[c
+Gasket
+chee
+Mtfie
+Rubber INBR
+Connector 2P
+Glass-Filled Nylon
+Nut M6
+Zinc-Plated Steel
+Cooling Gel Pack
+Rubber
+Bearing 6202 22
+Stalnless Steel 304
+Pump
+Pumnp
+suciion
+Winne
+suicone

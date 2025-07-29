@@ -1,0 +1,56 @@
+Inspection Sheet
+#9580417
+Date: 17.07.2025
+Product
+450L
+Customer ID
+TURKEY
+Item
+Description
+Bearing 620277
+Ensure all non-ronforming marks
+are clearly documented
+Use this Ilist to confirm adherence
+AQLand satety
+standards
+Below are the items
+be verified during the final product review: This summary supports the production
+release quality
+Eate, This section details quality requirements and test points for the batch; Use this extract to
+coordinate sign-off with the QA manager. This closur
+summary indicates compliance with inspection critera, Confirm
+that sampling levels comply with customer agreements Refer =
+the quality register for sampling-plan references:
+Archive this list in the quality-manaRement system;
+Audit Criteria
+Inspection
+Category
+Observations
+Depth
+Item specs
+Incarrect barcode
+Level
+Nassin
+distributo
+information
+Mino
+issue ahsered
+Expased
+with sharp doint
+Leve
+Mlinar ssue abserved
+ddnse
+Needs review
+Missing logo_
+Or warning label
+Levei
+Rubber Switch not working
+Leveie
+Minor issue ohserved
+AQL Level
+Critical
+Major
+Minor
+Detauit
+Customer speciflc
+Hinges

@@ -1,0 +1,96 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Battery
+pcS
+25.00
+375.00
+For export
+Pack
+Copper
+0.60
+8.40
+Wire 3mm
+alignment
+adjusted
+Clamp
+pcS
+1.75
+85.75
+ISO-verified
+120mm
+Insulation
+pcs
+3,20
+131.20
+Li-Ion
+Foam Pad
+battery
+installed
+Steel Sheet
+190.00
+Imported
+A36
+Rubber
+pcS
+0.50
+21.00
+Switch
+Gasket
+tested OK
+8Orm
+Copper
+0.60
+13.80
+Wire 3mm
+Protective
+39.60
+For export
+Sleeve
+SOmm
+Shaft
+pcs
+8,00
+320.00
+ISO-verified
+soOmm
+Digital
+pCS
+15.00
+75.00
+Li-Ion
+Display Unit
+battery
+installed
+Steel Sheet
+85.00
+A36
+alignment
+adjusted
+Shaft
+pcS
+8.00
+440.00
+Certified
+50Omm
+batch
+Verify that all remark items meet the sourcing department' $ standards. Please confirm supplier lead times
+ensure
+timely delivery of all items. Amounts reflect current pricing; adjust as necessary for bulk orders:
+Customer ID: BRAZIL
+Coordinator: Carlos Garcia
+Date: 2023-07-03
+Product ID: VR 940T
+Iterz
+6395383
+Order Qty: 328
+Total Amount:
+784.75
+Hinge
+Ring
+Hinge

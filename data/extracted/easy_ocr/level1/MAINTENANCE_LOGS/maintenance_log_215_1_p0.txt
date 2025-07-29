@@ -1,0 +1,105 @@
+Maintenance Checklist Report #7318753
+Dall:
+2024-08-23
+Machinc
+quiPMcnt
+Operato
+Downtimr
+Notes
+MC-223
+Packaging Line
+Preventive
+Laura Rosse
+Plant 34
+Lalibration
+check Ok
+MC-208
+Fackaeinz Line
+Inspection
+Jankowalsk
+Flant 10
+Nuienment
+adjusted.
+MC 745
+Lati
+Prewentive
+Carlos Gurcia
+Pl-Int 26
+Sursnr
+librated:
+MC-26Z
+Aembly
+Corrective
+ankowakh
+Plant 34
+Changed
+and Filters
+MC-795
+Conveyor Belt
+Inspeclion
+Carlas Garcia
+Plant 1C
+Swritch contacts
+cleaned
+MC-256
+CNC
+Inspection
+Lara Rosse
+Plant 1C
+Lalibration
+Machine
+check O<
+MC-216
+Laser Cutter
+Preventive
+Carlos Garcla
+Plant 2B
+Wom asket
+[CE uced
+MC-255
+Paint Bootn
+Lorrecuivz
+Laura Rosse
+Flant ZB
+Sensor
+rCclibrated
+MC-288
+CNC Milling
+Inspection
+Lanios Garcia
+Flant 1L
+Refilled cil HLP
+Macnimg
+MC-264
+Lcnvevor beit
+Preventive
+Nowar
+Woooen pallet
+checked
+Check
+emaining Mte-cycies
+components from thls
+econ
+Reccroanyspare parts
+Joventonadinstment
+Referto
+remarks for any follow-Up acticns
+parts rep acemenu
+Kilmjintenanci
+durations are recorded for performance netrics
+Ensurc
+next preventive service Is scheduled according
+Archive this summafy
+the CMMS for futufe feference
+Lubricaticn Checked
+Calidraticn verified
+Emereency
+Stop _
+25i20
+nutnofized D:
+Operator
+Dirge?
+Roboi
+Ming
+Pint
+0ikey

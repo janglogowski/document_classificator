@@ -1,0 +1,84 @@
+BILL OF MATERIAL
+This summary lists everyitem required; with per-unit pricing details Please review the itemized list 0f
+and material specifications before procurement The following table summarizes the materials and
+quantities needed for the current project All entries reflectthe latest inventory and supplier rates Refer
+to this parts register t0 plan raw-material purchasing: This document provides
+detailed breakcown of all
+components required for the assembly process:
+Item
+Oty
+UOM
+Rate
+AMount
+Remarks
+Descnpton
+Insulation
+3-20
+12.80
+Switch
+Foam Pad
+tested Ok
+Shaft
+8.00
+120.00
+Certified
+soomm
+batch
+Wocden
+15,00
+60.00
+Li-Ion
+Pallet
+battery
+installed
+Plastic
+1.10
+38.50
+Urgent
+Cover
+150x150
+Ceramic
+2-10
+4-20
+expont
+Disc BOmm
+Gasket
+PcS
+1.25
+16.25
+Imported
+Sheet 44
+Sensor Clip
+pCS
+0.95
+1.90
+Li-Ion
+battery
+installed
+Copper
+0.60
+4.20
+For export
+Wire 3mm
+Ruboer
+0.50
+25.50
+ROHS
+Gasket
+compliant
+BOmm
+Verify that all remark items meet the sourcing department $ standards Amounts reflect current pricing;
+adjust as necessary for bulk orders_ Plezse confinm supplier lead times to ensure timely delivery of all
+items
+Customer ID: POLAND
+Coordinator: Anna Nowak
+Date: 2024-12-20
+Procuct ID: KP-3Z0E
+Intemal No_
+9713925
+OrgerQ1E53
+Tota
+Amount
+283.35
+pOFLs
+DCS

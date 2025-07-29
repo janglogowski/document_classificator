@@ -1,0 +1,87 @@
+Inspection Summary
+Entries include both visual and functional inspection items. Ensure all non-conforming
+Mams are
+clearly
+documented_
+Use this extract to coordinate sign-off with the QA manager: This closure summary indicates
+compliance with inspection crteria
+Refer to the quallty
+for sampling-plan references. Archive this Iist
+in the quality-management system: Use this list to confirm adherence
+AQL and safety standards_
+Product ID
+ZR-205R
+Customer ID
+CANADA
+Item Description
+Teflon Tape Roll
+Audit Criteria
+Sample
+Defect Class
+Remarks
+Product Requirenents
+Critical
+Major
+OnHold
+Visual defect on housing
+Level
+Crilical Impact
+Dusudebris inside
+packaging
+Incotect
+barcode
+labe
+Critical impact
+Missing distributor
+Level IlI
+informatiot
+Wooa splinter
+sharp
+Level IlI
+Needs review
+point on product
+Missing safety labels
+Level _
+Functional
+test failed
+Needs review
+Balterz not included
+Leve
+Exposed nail with sharp
+Level IlI
+Crilical impact
+point
+Wrong
+5iz0
+Critical impact
+Connectornot working
+Critical impact
+Paint smearing
+Needs review
+scralches
+Incorrect quantity -
+Level Il
+Critical impact
+assortment
+Carton
+damagoa or
+Level [
+markings incorrec
+Packaging does not match
+Level Il
+Critical impact
+signed sample
+Missing
+warning
+Level |
+Needs review
+abel
+Sharp edges on plastic
+Level |
+Critical impact
+components
+Supervised by:
+Date:
+register _
+Minor
+Jogo

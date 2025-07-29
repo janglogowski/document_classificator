@@ -1,0 +1,69 @@
+BOM Report
+Customer ID: FRANCE
+Coordinator: Jan Kowalski
+Date:
+2023-08-
+Product ID: MX-450L
+Interna
+No.
+3056345
+Order Qly: 390
+All entries reflect the latest inventory and supplier rates. Use this schedule of parts to align with
+sourcing and stock levels_
+The following table summarizes the materials and quantities needed
+for the current project_
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Fuse SA
+2.83
+29
+pCS
+0.30
+11.10
+Hinge
+alignment
+adjusted
+LED
+Light
+1.12
+29
+2.50
+85.00
+Strip
+Insulation
+1.25
+10%
+pCS
+3.20
+83.20
+Urgent
+Foam Pad
+Hinge Set
+1.68
+109
+pCS
+2.50
+115.00
+ISO-
+verified
+LED Light
+2.27
+10%
+2.50
+130.00
+For
+expor
+Total
+Amount:
+424.30
+Approved By:
+Sourcing Department:
+Stip

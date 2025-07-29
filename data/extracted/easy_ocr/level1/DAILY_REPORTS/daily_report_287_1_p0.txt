@@ -1,0 +1,87 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-227
+Customer:
+SWEDEN
+Supervisor:
+Laura Rossi
+Department:
+Painting
+Date
+17-12-2023
+Shift:
+(Morning
+Machine ID
+Operation
+Operator
+Begin
+Finish
+Time Spent
+Comments
+MC-202
+Assembly
+Anna Nowak
+1315
+1419
+MC-208
+Welding
+Wiktor
+10.15
+11.36
+Recalibrated
+Kopczynski
+MC-203
+Welding_
+Nadia Sauter
+08.15
+10.14
+119
+MC-204
+Assembly
+Piotr
+14.30
+16.18
+108
+Recalibrated
+Lewandowski
+MC-206
+Assembly
+Przemystaw
+10.15
+12.13
+118
+Wasik
+Part ID
+Target Qty
+Achieved Qty
+Rejected Qty
+Failure
+Uwagi
+PW-515Y
+216
+209
+3.244
+GL-980S
+115
+112
+2.61%
+Rework
+needed
+KP-320E
+274
+243
+14.31%
+ZR-2O5R
+205
+204
+0.4956
+Scrap
+confirmed
+SL-430M
+223
+223
+0003
+Preparedby:
+Carlos Garcia
+Approved PY
+Anna Nowak

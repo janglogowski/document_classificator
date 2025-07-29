@@ -1,0 +1,81 @@
+Audit Trail
+#7641981
+Date: 17.07.2025
+Product ID
+PL-601Z
+Customer ID
+BELGIUM
+Item Description
+Clamp
+Archive this list in the quality-management system:
+ase [aview
+cach
+checklist
+and mark the sampling
+results. This sectian details quality requirements and test points for the batch: The following table outlines
+inspection criteria and classification levels
+Entries include
+both visual and functional inspection items. Check
+that inspection steps fallow the approved
+procequre
+This checklist captures quality inspection points and
+sampling levels_
+Quality Check Items
+Sampling
+Severity
+Remarks
+Level
+Item Specs
+Hold
+Sharp edges
+plastic
+Levei
+Minor issue abserved
+components
+Missing logo
+Wamninp
+Needs
+Dav
+Exposed na
+with sharp point
+Level
+Needs review
+Minor GSU
+ocsatved
+Dust/debris inside packaging
+LEvCL
+Visual defect on housing
+Level
+Needs
+Fevict
+Battory not included
+LCUC
+Cuticalmpact
+Package
+not sealed
+Level IlI
+Critical impact
+completely
+ncorred
+daicodc
+Labe
+Level
+Nueds review
+Needs [eviar
+Wrong product
+Level
+Rubber texture
+Fossincss
+LevclilI
+Needs ruviev"
+mismatch
+Minor
+AQL Level
+Critical
+Default
+Customer
+specific
+Ring
+10mm
+poini
+Hajor

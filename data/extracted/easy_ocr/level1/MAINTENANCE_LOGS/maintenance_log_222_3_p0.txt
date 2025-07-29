@@ -1,0 +1,139 @@
+Machine Log Summary
+Performed On: 2024-08-02
+Signed off
+Anna Nowak
+perc medbv"
+Anna Navak
+Entries include work
+Dlauis
+luciniclan asstunmunts
+Durt chanacs
+The lollowing
+enlries dulail pruvenlive and
+colrucuve
+mainlunancu lasks. Ins suclon caplurus
+equipment slalus and any maintenance Obscrvalions
+Confirm thal
+Serce
+Inien8
+follo
+the preventive schedule
+Ensure all safety checks were completed during servicing:  This log
+recorde
+maintanance activmies
+performed
+on the equipment Check Ihal
+doumtime
+avant
+properly categorized
+loggcd.
+Section A:
+Machine
+MC-244
+MC-215
+MC-230
+MC-2ZA
+MC-290
+MC-245
+Equipment
+Plasia Cullur
+Cenveyor Bell
+Packaging
+Laser Culler
+CNC Milling
+Conveyor Belt
+Machine
+Service Type
+Inspection
+Preventive
+Preventive
+Preventive
+Correcivve
+Preventive
+Operutor
+Laui
+Rossi
+Anna Notdr
+Pcter Schmidt
+Carlo: Garcia
+Jamkowviski
+Lauj Kogsi
+Downtime
+Notes
+Relilled w
+No issuus
+Svalch
+Tighlened
+Sersor
+Ruplaced
+(HLP 46).
+toung
+contacs
+loose bolts
+fecalaiated
+fuse (54)
+Ceaned
+Section B:
+Machine ID
+MC-296
+MC-230
+MC-290
+MC-215
+MC-224
+MC-244
+Equipment
+Palnt Booth
+Packaging
+CNC Milling
+Conveycr Belt
+Laser Cutter
+Plasma Cutter
+Machine
+Service Type
+Preventive
+Prevantive
+Corre clive
+Prevenve
+Inspection
+Preventive
+Operator
+Anna Nowak
+Anna Noa*
+Lamta Ro3?
+Lanma Rass
+Hankowalsk
+Anna
+Ncrat
+Downtime
+Sensor
+battery
+Replaced
+Tightened
+Replaced
+Li-Ion battery
+recalibrated
+Dack
+Cocani
+loose poits
+ccoiant
+pack
+3enviced
+3enviceo
+Recon
+spare parts usage for Inventory
+aclstment
+All maintenance tasks have
+comolelen
+Der schecme
+Service summanes have heen fonvarded
+the engineering team; Check remaining life-cycles
+ofkey components irom
+Lhis reporL: All maintenance duralions are recorded lor performancu mebrics. Mainlenarce nolus ar8 archived fxr
+compliance audiis
+Uptlmc (%
+Ertor Count
+Commcnts
+92.97%
+Lno
+Nolcs
+Lion

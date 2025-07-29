@@ -1,0 +1,28 @@
+Component Overview
+Internal No:: PR-694
+Product ID: TX-B20V
+Date: 2023-09-19
+Model Lype
+Pueumatic Contol Unt
+Design Pres sure
+250 bar
+Flow Rate
+30 Lmin
+Operating Voltage
+400
+S0Hz
+Protection Class
+Ip6E
+Frame Material
+Stainless Steel Frame
+Qil Type
+HLP 46
+Service Interva
+12 months
+Total Weight
+180 ko
+Motor Power
+SkW
+Reservoir Capacity
+Prepared by: Peter Schmidt
+Approved by: Jan Kowalski

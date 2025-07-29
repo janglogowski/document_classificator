@@ -1,0 +1,84 @@
+Production
+Ropont No
+PR-824
+Customer:
+GREECE
+Peter Schmidt
+Supervisor:
+Assainbly
+Department:
+Shilt;
+(Evening)
+23-05-2024
+Please review taday'
+operation log and output summary for each workstation
+Thls dashboard seclion
+highlights any production bolilenecks
+Use (hls overviow to assess (hroughput and efficiency levels
+Machine
+Operation
+Worker
+Start
+Finish
+Total
+Remarks
+Thermal
+Energy
+Time
+Tlme
+Reading
+(KWh)
+MC 209
+Cutting
+Jan Kowalski
+14,00
+1445
+NA
+66.2
+MC- 202
+Culling
+Nadia Sauter
+10.15
+11,43
+NA
+78.3
+MC-?04
+Culting
+Wiktor
+11.30
+12.24
+Recalibrated
+62.,9
+1.63
+MC-209
+Drilling
+Konczvoskak
+12.15
+14,04
+109
+Recallbrated
+76,.3
+1,62
+MC-201
+Welding
+Dawid
+14;15
+15,57
+102
+Recallbrated
+1,41
+Oszmlanczuk
+MC-205
+Drlllling
+Magdalena
+07,15
+08,23
+NFA
+65,8
+1,28
+Wllkowska
+Prepared by:
+Peter Schmidt
+Approved bY:
+Carlos Garcia
+Log

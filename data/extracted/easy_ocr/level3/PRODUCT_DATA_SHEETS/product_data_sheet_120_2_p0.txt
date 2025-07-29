@@ -1,0 +1,45 @@
+Component Overview
+Ensure all referenced standards are up
+date, Confirm that performance
+This data sheet provides key specifications ard material
+ranges comply with project requirements-
+Hnts
+details_ The parameter register below includes operating
+and ratings Below are the technical parameters and constrection materials
+confirm
+for the unit. Use this sheet t0
+engineering requirements and tolerances:
+Product ID;
+905L
+Report
+PR-389
+Prepared by: Anna Nowak;
+Approved by: Peter Schmidt
+Date: 2025-01-13
+Configuratijn Type
+Cooling Circulation
+@perating Pressure
+J00 bar
+System
+Fior
+Rate
+30 Lfinin
+Oil Type
+Operating Voltage
+230VLSO Hz
+HLP 68
+Charging
+Uamce
+Mounting
+Rack irame
+Data sheet has been peer-reviewed
+the engireering tcam, Use this summari
+inspection reports; Archive this summary
+cross check Witn
+BOM and
+for future Gesign-
+management Flag any missing parameters for
+urgent specification updates;
+summary comments have been recorded in the revision log;
+No
+change

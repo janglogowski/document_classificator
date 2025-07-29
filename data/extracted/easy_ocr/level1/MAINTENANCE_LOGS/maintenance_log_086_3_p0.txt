@@ -1,0 +1,99 @@
+Maintenance Checklist Report
+Performed On: 2025-01-05
+Signed off
+Laura Roszi
+perc medbv"
+JanKowalskI
+The equipient lcg bulo Includes
+laull codus and
+cureclive
+nolus
+This service surirary supporls Ine reliabilily
+naincCtino (Cvicw
+Tnis sucbon caplures uquipient slalus and any mainlenancc
+Jbscivalons
+Conlirm that service
+Intenae
+preventive schedule
+Ensure
+safety cnecks were completed
+curing servicing Below is the
+suMman
+pf service actions and downtimes for each machine
+Amtechniciz
+Cmmank
+are recorded for maintenance Irand
+anaksis
+Section A:
+Unit Code
+MC-280
+MC-273
+MC-206
+MC-214
+Machine
+CNC
+Nachine
+Packaging Line
+lescr
+Culler
+Conveyor Bell
+Service Type
+Inspection
+Inspecton
+Corrective
+Corective
+Operator
+Laurd Rossi
+JanKoxalski
+Ama Nowak
+Laura Rossi
+Downtime
+Notes
+Switch conlacis
+No Issues
+Qud
+Swilch conlacls
+Changed
+and
+cleaned
+cleanad
+Uillets
+Section B:
+Code
+MC-280
+MC-206
+MC-273
+MC-214
+Machinc
+CNC Millng Machlnc
+LOcCr Cullcr
+Packaquq Ling
+Conve e Bell
+Senice
+Type
+pteventive
+Cncrective
+Inspeciion
+Insnection
+Operato
+Jankovalsk
+Jan Kualski
+Laura Ross
+pnna
+Nowvak
+Downtime
+Woodan palel
+Wocden pallel
+Replaced fuse (5A):
+Replucud coolang
+cncckco
+ccckcu
+Uptime
+Count
+Comments
+94-52"
+Repiacec
+ioilioy
+Mllng
+Noler
+Enor

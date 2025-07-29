@@ -1,0 +1,88 @@
+Shift Summary
+Report No=
+PR-245
+Cusomen
+TuRKEY
+Supervisor;
+Carlos Garcia
+Depanment;
+Painting
+Shift;
+(Night)
+04-04-2025
+Machine
+Process
+Technician
+tan
+Finish
+Duration
+Uwagi
+Thermal
+Enerey
+Kmin
+Reading
+Used
+MC 202
+Welding
+Matcus
+10.15
+11.57
+102
+Recalibrated
+2.71
+Jarzvnd
+MC-207
+Polishing
+12 00
+12.53
+73,0
+Kowalskil
+MC 202
+Assemol
+10.15
+11.41
+75.8
+1.50
+Kowalski
+MC-208
+Polishing
+BarLcsz
+14.30
+15.50
+58.0
+1.83
+Wawrzvnlak
+MC 206
+Pollshing
+Lnna
+12,00
+12.35
+56.6
+2.85
+Noikak
+MC-207
+Cuttine
+Maleusz
+12.30
+14.30
+Janyna
+MC-206
+Pollshing
+Agnieszka
+07.30
+07.52
+Delay
+66.3
+1.36
+Zielinska
+MC-201
+Assembly
+08.30
+09.56
+2.38
+Koialski
+Prepared by:
+Laund Ross
+Appeved OX:
+Ljurj R 0SSE
+Tnie

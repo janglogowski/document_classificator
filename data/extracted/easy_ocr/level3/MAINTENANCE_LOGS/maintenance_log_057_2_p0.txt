@@ -1,0 +1,59 @@
+Maintenance Checklist Report
+2025-06-04
+FThe eq Llpment
+log below Includes fault coces and corrective notes. Check tiat all downtime events are properly categorized and
+lquaed:Con(lrm that satvice (ntervals follow the preventive schedule: Below [
+the sumtary
+service #clons and dewntlmes (0r
+eich machina;
+Spure Parts Uaed;
+Pan Name
+Oty Used 
+sutcn Accemblv
+J,7335
+Sensor Moqule
+IS6o
+Hydraulle Hose
+04k730
+P.9r38
+Machlne
+Machine
+Wype
+Technican
+Oowuntime
+Last Check
+Notcs
+ML-Z5;
+Plasma
+cortectve
+Jan kowalsh
+2024-02-13
+Refilled oll
+Cuttet
+JHLP 461.
+MC-J0l
+Laser Cutter
+Preventive
+KowalsKI
+2024-07-22
+senor
+brated
+MC-292
+Palnt Booth
+Correslive
+Laura Rossi
+2024-12-11
+Replaced
+codiani
+MC-205
+CNCMilna ,
+Preventive
+Anna Nowak
+2025.02.22
+Calibration
+Machlne
+Authorized bdi
+Carlos Garcia
+Operator
+JaVn Ross
+check

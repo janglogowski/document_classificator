@@ -1,0 +1,85 @@
+Quality Checklist
+Refer
+the quality register
+for sampling-plan reterences
+checklist entries are timestamped for traceability. The
+following table outlines inspectian criteria and classification levels: Below are the items-
+verified during the final
+product review: Check that Inspection steps fallow the
+proved procedure. This checklist captures quality inspection
+points and sampling levels Use this list -
+contirm adherence
+AQL and satety standards:
+Product ID
+SB-140D
+Gustamer id
+NORWAY
+Item Description
+Aluminum
+3rackel
+Audit Criteria
+Sampling
+Classification
+Dbsenatians
+Level
+Item Specs
+Rubber t
+Tetmune
+glosslness
+Minor issue abserved
+mismaton
+Deau
+Hve insect inpackaginG
+LCVC
+Needs
+Feu+
+Missing safety labels
+Leve
+Carton
+damaged
+markings
+Minor issue observed
+incanect
+Packaging daes nat matcn signed
+Needs review
+samnie
+Nisuz
+defect
+housing
+Level
+Critica
+Impact
+screwsIOOSL
+Mlssing
+Nol ascemblen
+asper drawing
+Minor iSSu@ Qbserved
+Minorissuic ooscrved
+uncorrect Durcode
+label
+CDO F
+parts insice packaging
+Critical impact
+Dust
+debrs Inslde packaging
+Levei
+incorecl Orientation
+Critical impact
+edges on plastic
+Level 
+Minor issue observed
+components
+connector not workine
+Minorissue Obsenpo
+Functionality test failed
+Levei
+Critical impact
+product
+Leveli
+Hinges
+OOSC
+Needs revlewv
+Supervised by:
+Date:
+Sharp
+Wrone

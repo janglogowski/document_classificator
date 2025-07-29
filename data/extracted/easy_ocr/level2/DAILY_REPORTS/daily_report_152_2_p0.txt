@@ -1,0 +1,89 @@
+o "
+Production
+Customer:
+PR-848
+CANADA
+Department;
+Peter Schmiot
+Shift;
+Quality Contro
+(Nizhl)
+All throughput figures
+recorded for
+12-2024
+daily goals. Use this overview to
+capacity Planning; Review the operationa
+noted Tor
+tollow-Up:
+asse3$
+throughput and efficiency levels.
+Gat
+track compliance with
+Ensureany
+oowntime incicents are
+Machine
+Operation
+Worker
+MC 202
+Finish
+Duration
+Notes
+Welding
+Kowalski
+(min]
+MC-203
+710:15
+11.07
+MC-203
+Nadia Sauter
+13.15
+NIA
+Magdalena
+15702
+Recalibrated
+Wtkowska
+11:15
+12.40
+18.2
+MC-206
+Polishing
+Dawid
+72.9
+14315
+16.12
+MC-206
+Assembly
+Oszmianczuk
+Delay
+66.7
+3.00
+Magdalena
+12.30
+13.32
+MC-205
+Wktor
+Recalibrated
+79.4
+2.22
+10-00
+11,27
+Kopczynski
+75 1
+Preparedby:_
+Approvadby:
+Laune
+Peter Schmidt
+Log
+Repott
+Super0r.
+Start
+Tme
+Temp
+Enefey
+Cuttng
+Uted
+Dnlling
+Mito
+Welaing
+256
+Rossi

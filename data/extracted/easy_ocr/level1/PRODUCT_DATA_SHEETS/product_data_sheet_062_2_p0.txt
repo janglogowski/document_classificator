@@ -1,0 +1,66 @@
+Product Overview
+Use this
+engineering requirements and tolerances This report extract
+prepared for design-
+verification audits. This technica
+ovciic
+supports the product-release checklist.
+revicw IMC
+specifications
+and material composition listed below: This section details the configuration ano
+parameter set for the produc-
+Confirm that performance ranges comply with project requirements
+The following infarmation outlines performance
+characteristics and design data.
+PraducID
+ZR-ZOSR
+Documenl No;:
+2055208
+Prepared by: Jan Kowalski
+Approved by: _
+Kowalski
+Date: 2024-08-04
+Unit Type
+pneumatic
+Control Unit
+Operating Pressure
+250 bar
+Fluid Flow
+30 L{min
+Voltage
+230 -
+50 Hz
+Reservoir
+Capacity
+160 L
+Battery Capacity
+Working Temp. Range
+5 "Cto45"C
+Cooling
+Air-cooled oil radiator
+Archive this summary
+Future
+design-change management
+All summary comments
+been recarded in the
+revisiom
+log: This closure note Indicates the data sheet
+ready for release. Material choices and process data have
+been verified for compliance: This summnary reflects the latest revision ofthe product data_
+Material of Construction:
+Uten
+Raw Material
+Bearing 6202 7
+Stainless Steel 304
+Battery Pack
+Lthium-Ion Cel Pack
+Wooden Palle
+Treated Pine Wood
+Support Foot Stee
+Staunles: Stee
+Digital Display Unit
+ABS Plastic
+shect-
+confian
+please
+havc

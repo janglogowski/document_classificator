@@ -1,0 +1,45 @@
+Unit Data Specification
+Project:
+JD-700W
+Interna
+8585932
+Prepared Bx:
+Schmidt
+Approved Bx:
+Jan Kowalski
+Location: Plant 1C
+Date: 2024-09-12
+Unit Lype
+Pneumatic Control Umt
+Rated Pres sure
+210 bar
+Throughput
+48 Lmin
+Operating
+480
+60 Hz
+Filtration
+pm inline, 10 um
+Service Interval
+500 h
+relumn
+Reservoir Capacity
+160
+Charging Time
+Control Valve
+Manual Ovejde 3/2
+Motor Powel
+Battery Capacity
+Pump
+Vane Pump
+Cooling
+Air-cooled Oll radiator
+Total Weight
+250
+Noise Level
+68 dB(A)
+Protection Class
+P67
+Pelel
+Voltago
+Iype

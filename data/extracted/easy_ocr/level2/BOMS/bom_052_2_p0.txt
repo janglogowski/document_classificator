@@ -1,0 +1,31 @@
+Customer ID: GREECE
+Prepared by: Jan Kowalski
+Product ID: MX-450L
+Internal No.: 9133891
+Use this schedule
+parts to align with sourcing and stock levels. All line-item costs are current as per
+vendor quotes: This summary lists every item required, with per-unit pricing details. The component
+roster below indudes unit costs and batch codes. All entries reflect the latest inventory and supplier rates:
+Description
+Digital Display Unit
+Ceramic Disc 8Omm
+Control Panel Mount
+Qty
+256
+895
+UOM
+pcS
+Unit Price
+15.00
+2.10
+12.00
+Amount
+555.00
+537.60
+10,740.00
+Remarks
+Switch tested OK
+High grade
+Li-Ion battery installed
+TOTAL: 20,832.60
+Item

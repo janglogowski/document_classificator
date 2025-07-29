@@ -1,0 +1,126 @@
+Production
+Report No;: PR-200
+Customer: CANADA
+Date: 20-02-2024
+Shift:
+(Morning}
+Stant
+End
+Total
+Notes
+Conditlon
+Equipment
+Task
+Operator
+Jime
+Time
+Time
+13.30
+15.07
+Dolayed
+MC-206
+Drillirg
+Barosz
+Wawizyiak
+Przemyslawi
+09.30
+10.54
+Recallbrated
+MC-207
+Assemoly
+progress
+Wasik
+203
+Welding
+Nadia Seuler
+1475
+15.48
+Recalibrated
+MC
+prcgress
+MC-202
+Drilling
+Dawid
+11.10
+Recelibrated
+Delayed
+Oszmnianczuk
+MC-203
+Orilling
+Anna Nowak
+10.15
+11.58
+OK
+progress
+MC-205
+Drilling
+Bartosz
+12.30
+12.58
+Recalibrated
+progress
+Wawrzyniak
+Cutllng
+Anna Nowak
+09 00
+09.52
+Delay
+Completed
+MC-?08
+08.30
+07.41
+NIA
+MC-201
+Assembly
+Nadia Sauter
+progress
+MC-201
+Drilling
+Wiktor
+08.30
+09.11
+Recalibrated
+progress
+Kopczyieki
+MC-204
+Drilling
+Jan Kowalski
+09.30
+10.22
+Completed
+Pianned
+Produced
+Rejectad
+Rejection
+Rework
+Uwagi
+Item
+ount
+Ot
+Oty
+AC-T15Q
+242
+237
+07%u
+Scrap
+conflmed
+254
+0.C0%
+Scrap
+RM-86ON
+254
+confirmed
+2.8896
+Scrap
+KP-3Z0E
+208
+202
+confirned
+13.0202
+HF-3904
+4-5190
+MC-540X
+Approved by:
+Prepared by:
+Log
+10.00

@@ -1,0 +1,101 @@
+Dimensional
+Inspection performed by Peter Schmidt on 2023-11-12.
+Use this results summary
+trigger any corrective actions. Review recorded tolerances
+enginecring
+specifications:
+This summary
+measurements supports metrology traceability. The following data captures
+key dimensions and any deviations identified
+Check that all dimensions comply with ISO and company
+standards;
+Environmentai
+Conditions: Temperature=
+20.6
+C, Humidity: 42 %
+Item Code
+Part Name
+Measurement
+Nominal
+Actual
+Delta
+Status (VIX)
+MX-A50L
+Plastic
+Depth
+25.84
+25.68
+0.16
+Rlvets
+KP-320E
+Rubber
+Depth
+98.33
+98.15
+0.18
+Gasket
+80mm
+MX-450L
+Hex Bolts
+Inner
+72.48
+72.42
+~0,06
+M12
+Diameter
+LK-890B
+Set
+Height
+11.34
+HF39QA
+Thickness
+34.85
+34.77
+TX-820v
+Steel Sheet
+Thickness
+9.13
+9.14
+A36
+KV-390K
+Hinge Set
+Length
+MR-160H1
+Power
+Hole
+21,35
+21,21
+0,14
+Swltch
+SB-140D
+Plastic
+Thickness
+82.32
+82.24
+~0.08
+Rivets
+TY-350G
+Battery
+Depth
+68.91
+68.96
++0.05
+Pack
+MC-540X
+Graphite
+Height
+83.47
+83.39
+0.08
+Pad
+VR-940T
+Battery
+Hole
+90.69
+90.65
+-0.04
+Pack
+Log
+against -
+Hinge
+Hinge

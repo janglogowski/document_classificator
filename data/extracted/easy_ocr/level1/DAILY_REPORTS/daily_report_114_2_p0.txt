@@ -1,0 +1,88 @@
+Production
+Repont
+PR-221
+Customer:
+IURKEY
+Supervisor;
+Laur?
+Rossi
+Department
+Painting
+Shift:
+(Night)
+17-12-2023
+Use this shift summary
+drive continuous improvement actions_
+Ensure any downtime incidents are noted
+for follow-Up.
+This dashboard section highlights any production bolllenecks.
+Machine
+Process
+Worker
+Begin
+Duration
+Uwagi
+Thermal
+Energy
+(min)
+Reading 
+(kWh)
+MC-201
+Assembly
+Wiktor
+12.30
+13.27
+Recalibrated
+74,4
+2.25
+Kopczynski
+MC-201
+Assembly
+Nadia
+14.00
+15.54
+114
+OK
+74,0
+1.11
+Sauter
+MC-202
+Assembly
+Przemyslaw
+08.30
+09.41
+Recalibrated
+68.0
+2.16
+Wasik
+MC-207
+Cutting
+Jan
+12.30
+12.57
+Ok
+65,5
+2.47
+Kowalski
+MC-206
+Cutting
+Wiktor
+08.15
+08.42
+76.3
+2,97
+Kopczynski
+MC-206
+Drilling
+Jan
+12.15
+13.03
+NA
+58.3
+1.80
+Kowalski
+Prepared b%:
+Peter Schmidt
+Approved DX:
+Peler Schmidt
+Log

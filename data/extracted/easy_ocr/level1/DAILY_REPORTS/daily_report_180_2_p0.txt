@@ -1,0 +1,104 @@
+Shift Summary
+Redar ND;:
+PR-407
+Custamer-
+BRAZIL
+Supervisor:
+Laura Rossi
+Department:
+Logistics
+Snift;
+(Moming)
+22-01-2024
+This
+summarlzes the dally operations and
+for the production line
+This dashboard section highlights any
+production bottlenecks; Use this overview'
+35se55
+throughput =
+efficiency levels; Refer 
+this log
+monitor shift
+productivty and cycle counts
+Machine
+Process
+Techniclan
+Begin
+End
+MMc
+Uwagi
+Tempcraturc
+Energy
+Time
+Spent
+(kwh)
+MC-202
+Pollshing
+Nadia
+cauler
+08.30
+10.09
+65.0
+MC 205
+W@idine
+Anna Nowak
+08.00
+09.14
+Delay
+MC- 204
+Polishing
+Lnnj NowJk
+08.15
+08.59
+Kecalbrated
+MC-206
+Wiktor
+14,30
+14.51
+Recalibrated
+56,7
+Kopczyrski
+MC-208
+Cutting
+Dawid
+13,15
+14.20
+Delay
+55,1
+2.98
+Oszmianiczuk
+MC-206
+Drilling
+Agnieszka
+11.30
+12.22
+Recalibrated
+77.8
+2.26
+Ziellriska
+MC-204
+Welding
+Mateusz
+08,00
+08.38
+N{A
+79,7
+1.33
+Jaryna
+MC-207
+Assemoiy
+10.00
+10.21
+64.5
+1.93
+Lewandowski
+Prepared by:
+Carlos Garcia
+Approved p%:
+Anna Nowak
+Feport
+output
+and
+Cutting
+Piolt

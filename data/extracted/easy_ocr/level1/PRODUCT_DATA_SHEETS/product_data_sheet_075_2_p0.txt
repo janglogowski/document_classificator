@@ -1,0 +1,78 @@
+Unit Data Specification
+This data sheet provides
+specifications and
+Materio
+details. Confirm that performance ranges comply with project
+requircments
+This section details the configuration and parameter set for the product: The parameter register below
+includes
+operating limits and ratings Please review the specifications and materia
+compasition listed below:
+Product ID:
+GH-770]
+interna
+3843989
+Prepared bv: Peter Schmiot
+Approved Dy: Anna Nowak
+Date
+2025-03-05
+Mladei
+Type
+preumalic
+Contra Unit
+Operating
+Pressure
+300 Dar
+Flow Rate
+30 L{min
+Supply Voltage
+G0 HZ
+Motor Power
+7,5KW
+Dimensions (LxWxH)
+1000
+650x 1000 mm
+Total Weight
+230 ke
+Protection Class
+Control Valve
+Directional 4/3
+Iype
+Piston
+Document contro
+numbers JiC
+included for traceability. Use this summary
+cross-check with BOM and inspection
+repons
+Ensure
+ossary terns
+match the engincering nomenclature. All summary comments have been recorded in
+the revisian IDg- Materal choices and process data have
+Deem
+verified far compliance
+Overa
+contiguration
+within
+defined design and safety margins
+All specifications meet the design requirements and industry standards
+Material of Construction:
+Subcpmpanent
+Lamposition
+Wing
+PVC (Rigid
+Bearine
+6o0t
+Stainless Steel 304
+Connector 2P
+Glas5-Filleo
+Nuon
+Wooden
+palle
+Treated
+Insulated Tube 25mm
+Thermonlastic Polyuretnane (TPU)
+No;'
+Pump
+pump
+Pinc
+Woon

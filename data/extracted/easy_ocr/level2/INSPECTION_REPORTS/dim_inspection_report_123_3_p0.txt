@@ -1,0 +1,116 @@
+Inspection Results Summary
+Inspection performed by Jan Kowalski on 2025-05-18
+Entries include both pass/fail markers and deviation magnitudes
+Ensure measurement methods align with calibration
+standards. Use this examinatian summary Lo confirm
+component conformity- This repart presents the dimensional
+measurements and
+inspectior
+esults
+Environmenta
+Conditions: Temperature
+20.5
+Humidity: 35 %
+Product Ref
+Component
+Measurement
+Target
+Observed
+Diff
+Status (VIXI
+MC-54oX
+Thicaness
+12.70
+12.58
+CN-150C
+Graphite Rad
+Length
+61,13
+61,22
+40.09
+NE-2454
+Graphite Pad
+Depth
+52.82
+52.69
+-0.3
+MX-4S0L
+0-Ring NBR
+Unner
+83.07
+83.12
+10.05
+GOmm
+Diameter
+PL-601Z
+Bearing 6202
+Thickness
+14.67
+14.63
+0.04
+LK-RCOP
+Plastic Rivets
+Length
+16.51
+0.16
+AL-suu
+Plastic Rivets
+Wdtn
+38.58
+38.39
+CN-150C
+Rubber
+Width
+45 &0
+45.88
+0.04
+Gasket 8Ommt
+Kv-390k
+Rubber
+Length
+83.50
+83.42
+0.08
+Gasket B0mm
+MS-GOOP
+Steel Sheet
+Thickness
+29.53
+29,35
+-0.18
+A36
+TY-3S0G
+Hex Bolts
+Depth
+72.47
+72.33
+0.14
+M1?
+CE-GoSL
+Rubber
+Length
+79.35
+79.16
+-0.19
+Gaske
+LP-SSSV
+Snatt 500mm
+Length
+47,85
+47.94
++0,09
+QN-770H
+0-Ring NBR
+Width
+14,54
+14,61
++0.07
+6omm
+LP-SSSV
+Bearing 6202
+Thickness
+39.75
+39.69
+~0.06
+Hinge
+Bonim

@@ -1,0 +1,117 @@
+Maintenance Checklist Report #3112018
+Date: 2024-05-06
+Unit Code
+Machine
+Type
+Operator
+Downtime
+Site
+Notes
+MC-260
+Lascr Cullicr
+Prevcntivc
+Carlos Garcla
+pPan 44
+Calbiation
+Cued
+MC-244
+Lathe
+Preventive
+Jan Kowakki
+Plant 34
+Wocden
+pallet
+checked
+MC 227
+Plasma
+Inspecticn
+Jan Kowalski
+Piant 2B
+Replaced
+(SA)
+MC-280
+CNC Mlling
+Prevenlive
+Laura Rossi
+Piant 34
+Changed oil
+Machinu
+and Ilurs
+MC 238
+Plasma Cutter
+Ccectve
+Anna Nowak
+Piant 2B
+Wom
+gasket
+[rdiacec
+MC-23J
+Plasia Culler
+Prevcnivc
+Peler Scnmidt
+Pan44
+Relilled
+IHLP 46
+MC-213
+Assembly
+Ccrrective
+Carlos
+Plant 34
+Tightened
+Robot
+7ose
+MC-242
+Plasma Culter
+Pruventive
+Carlos Garcia
+Piant 1C
+No issues
+Jouno
+MC-257
+Paint Booth
+Inspecticm
+Anna Nowak
+Plant 1C
+No issues
+jouna
+MC 223
+Paint Bcoth
+Ccrective
+Carlos Garcia
+Piant 2B
+Remiaced
+coolant
+Ensure next preventlve scrvlce
+scncuuICC
+accordino
+Refer
+6 Cmnaiks or anyicc -Up
+jclons
+Dars
+replacemenis
+Ensure that each service
+enin
+the required
+apcrovals
+This log summary
+supnons
+tne asset-
+management dashboard
+Yainienanc
+noles
+archived
+compliance
+audits. Archive
+this summary
+the CMMS for
+Fuemerencrencc
+Luoncalcn Checkeo
+Calibration V ermmad
+Emergency
+Tesicd
+Approved by:
+Sericed by" ,
+Culet
+Garcia
+Dolls
+Slop

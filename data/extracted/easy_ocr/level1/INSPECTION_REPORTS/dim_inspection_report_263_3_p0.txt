@@ -1,0 +1,112 @@
+Inspection performed by Peter Schmidt on 2023-08-24.
+Use this examination summary
+contirm component conformity. Review recorced talerances against engineering
+specifications. This report presents the dimensional measurements and inspection results The inspection register
+bclow
+highlights
+Jnvout-ofetolcnnce
+Entries include both pass/fail markers and deviation magnitudes: Ensure
+measurement methoos
+align with calibration standards
+Environmenta
+Conditions: Temperature
+24.2
+Humidity: 43 %
+Article No_
+Component
+Measurement
+Nomina
+Actua
+Diff
+Status (VIX)
+HF-3904
+Plastic Rivets
+Hole
+11.79
+11.80
+40.0I
+PASS
+TR-ZMOB
+Waaden
+inner
+6.58
+6.73
+40.15
+PASS
+Pallet
+Diameter
+QN-770H
+Waaden
+Height
+99.43
+99.24
+0.19
+PASS
+pallet
+Gh-7701
+Hex Bolts
+Width
+12.50
+12.36
+0.14
+PASS
+M12
+PW-SISY
+Plastic Rivets
+Height
+90.93
+00S
+PASS
+FT-730X
+Shaft 5Omm
+width
+9.64
++0 13
+PASS
+GL-9805
+sleli
+Sheet
+Tnickness
+23.94
+23.81
+0.13
+PASS
+A36
+IR-ZOOB
+Hinge Set
+Height
+7.95
+8.06
++01
+PASS
+ZR-ZOSR
+Bearing 6202
+Depth
+71.55
+71.37
+0.18
+PASS
+MX 450L
+Bearing 6202
+Thickness
+38.51
+38.57
++0.06
+PASS
+MS-GOOP
+Steei
+Sheet
+Hole
+38.03
+38.14
++0.11
+PASS
+A36
+BZ-SS0F
+Graphite Pad
+Length
+25.18
+25.33
+10.15
+PASS
+parts,

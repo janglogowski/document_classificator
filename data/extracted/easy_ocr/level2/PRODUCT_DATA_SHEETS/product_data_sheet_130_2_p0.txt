@@ -1,0 +1,68 @@
+Unit Configuration
+Use this sheet to confim engingering requirements and tolcrances Thia technical overview supforts tne
+produc-release checklist This section detalls tne configuration and parameter set for the product This data
+sheet provides
+specifcations and materal delalls_ All data entries are traceable to design revision
+history.
+ProducID:
+P-S158
+Dccumen: No :
+PR-230
+Prepared by: Carcs Gercia
+Approved Dy - Jan Kowaiski
+Date; 2024-10-26
+Configuration Type
+Pneumatic Contol Unit
+Design Pressure
+300 Dar
+Throughput
+48 Lmin
+Operating Veltagg
+230VASHZ
+Frame Material
+Poider-coated Steel
+Filtration
+10 pm reltin, 25 VM
+sucton
+Total
+Weight
+230ka
+Working lemp Range
+4Co50C
+Check that all section headers fcllow the prauct template_ Document control numbers are inc uced for
+traceabilityEnsure glossary lems match tne engineening nomenclature
+Tnis € Ozure note indicates Ine
+daia sheet
+Teady i0 (e eas
+any missing parameters for urgent specification updates  All summary
+comments have been recorcedin Ihe revizion log
+This sumiary rellects Ihe latest revison of Ine produci
+dala;
+Material
+Construction;
+Me
+Base
+Locn
+PVC RRiqid]
+Contecior 20
+Glass- Filed Mlon
+Hooden Pelet
+Trealed
+Wecd
+Dital Dispax Uni
+ABS Plasiic
+Prezeuie Vale
+Brass C2121
+Cate IePac"1CQL
+Nine Rubbe
+(NeRL
+[DLSi2
+Glass-Filed Nilen
+Pearng 620272
+Slalnless Sleel 304
+Insulaled Tube23mm
+Iiemoplaslic Poluurellane [PUL
+;
+Flag
+Mn
+Pina

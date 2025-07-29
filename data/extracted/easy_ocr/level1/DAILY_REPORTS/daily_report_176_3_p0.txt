@@ -1,0 +1,147 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-589
+Customer: TURKEY
+Shift: =
+(Night)
+date:
+06-11-2024
+Equipment
+Operation
+Technician
+Start
+End Time
+Duration
+Uwagi
+Condition
+Time
+(min)
+MC-206
+Polishing
+Piotr
+06.30
+08.20
+110
+proptess
+Lewandowski
+MC-207
+Polishing
+Wiktor
+06.30
+08.07
+NYA
+Delayed
+Kopczynski
+MC-202
+4s9emoi
+Dawid
+07.00
+08.29
+NYA
+In progress
+Oszmianczuk
+MC-204
+Polishing
+Agnieszka
+06.30
+08:18
+108
+Completed
+Zielinska
+MC-207
+Polishing
+Piotr
+11;00
+12.27
+Delayed
+Lewandowski
+MC 201
+Cutting
+Magdalena
+07.30
+08.37
+Delay
+progress
+Witkowska
+MC-205
+Welding
+Nadia Sauter
+08.00
+09.40
+Completed
+MC-204
+Welding
+Wiktor
+08.30
+10.05
+Delayed
+Kopczyiski
+MC-203
+Cutting
+Przemystaw
+13.30
+14.39
+Recalibrated
+Delayed
+Wasik
+MC 202
+Drilling
+Anni
+Nowak
+08.30
+10:13
+103
+Delayed
+MC-204
+Drilling
+Wiktor
+I1;00
+12.40
+100
+Completed
+Kopczyiski
+MC-209
+Cutting
+Nadia Sauter
+10.30
+11.2
+Delat
+progress
+Note any
+unscheduled stops
+the downtime register. Check materia
+consumption against standard usage
+ralcs
+This closure summary signals 
+eadiness for the next productiontun: Refer
+remiarks for any rework 0r
+quality
+concarns
+Product ID
+Target Qty
+Produced
+Defect Qty
+Scrap
+Rework
+Comments
+Qty
+Count
+VF-220D
+133
+117
+12.0396
+Rewan
+needed
+SL 430M
+239
+233
+2.5190
+Rework
+nCydeu
+RE-BS0C
+209
+384
+0206
+0-8204
+30n0
+Approved by:
+Prepared by:

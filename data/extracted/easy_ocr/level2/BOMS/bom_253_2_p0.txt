@@ -1,0 +1,34 @@
+Customer ID: TURKEY
+Product ID: ZR-2O5R
+Prepared by: Carlos Garcia
+Internal No:: 5569794
+Item
+Description
+Epoxy Resin Kit
+Insulation Foam
+Plastic
+Qty
+Pad
+Rivets
+Clamp
+UOM
+365
+960
+120mm
+pcS
+756
+Unit Price
+Amount
+664.50
+Remarks
+Switch
+072.00
+151,20
+tested
+Certified batch
+904.75
+OK
+ROHS compliant
+Switch tested
+TOTAL: 6,792.45
+Ring

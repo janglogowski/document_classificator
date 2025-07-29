@@ -1,0 +1,123 @@
+Equipment Record Report
+Performned On: 2024-12-23
+Authorized Dv:
+Peter Schmidt
+Upuculum;
+Anna Nowak
+Checkthat a  dowmntimiu;
+Dronerly cuturorizedano
+Ilogded
+This sectioni captures equipment status and uny
+maintenance observations. AIl technician comments
+ecorded for maintenance trend analysis- Entries include work
+urders
+tuc hniciun assiangnent;
+Dunt chanees
+untnies dclullprevuntive unc
+coneciivt mulintunanc& (usks
+Sectlon
+Unit Code
+HC-ZU/
+MC-232
+MC-242
+MC-246
+MC-208
+MC-269
+Machlne
+Plasme Cutter
+Packaging
+latne
+Atne
+A33emdi
+Packaging
+Robot
+Type
+Corrective
+nspection
+Preventn e
+Dreventi
+unspection
+Prevertiv
+Operato
+Palen Schmnnidt
+Jan Kowrlsk
+Anna Nowvak
+AnnaNowak
+JanKowalsk
+Jan Kovalsk
+Duration
+Note s
+Tightened
+No issues
+No issmes
+Wooder
+Refilled oil
+Sensor
+lOosu polt?
+touno
+touno
+ChCc*CO
+IHLP 46
+ryculiorulco
+Section
+Unit Codo
+MC-227
+MC-269
+MC-210
+MC-242
+MC-246
+NC-2J7
+Hachine
+Plasma Cutter
+Hackawing
+Plasma Cutter
+Latne
+Lathe
+Packaging
+Type
+Correctivz
+Preventive
+Preventive
+Preventive
+Comective
+Preventive
+Operalor
+AnnaNowat
+AnnaNoxak
+Jan Kewalski
+Laua
+30991
+Peter Schmdt
+an ko alski
+Duration
+Notos
+Calidration
+Li-Ion batteni
+Wornejsket
+Refilled oil
+check OK
+nack servicud
+[uplilcud
+(HLP
+All maintenancu tusks have bucn completed us pur schedule
+Check remaining life
+cyclus Onkey componuntstrom this
+repont
+Contimm that
+comective actions ivere properly closeo out
+AlL Maintenance durbtiong BrB recorded tor pertormance
+metrics. Usu this closure note
+update tne maintenance KPI tracker
+Oe-ralllenuinmunt condilion
+satislactory post=
+Meintenence
+Archive this summary
+the CMMS
+Feuntare
+Aterence
+Uptime
+Ettor Count
+Comments
+91 7146
+dollo ' nd
+pallet

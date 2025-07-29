@@ -1,0 +1,37 @@
+Customer ID: POLAND
+Prepared by: Carlos Garcia
+Product ID: GL-980S
+Internal No:: 4787240
+Ensure each component meets the specified quality standards_
+This extract shows the bill of
+components and total projected spend. Please review lhe itemized Iist of parts and material
+specifications before procurement: The component roster below includes unil costs and batch
+codes_
+Item
+Ceramic Disc
+LED
+Strip
+Rubber Gasket
+Protective
+Description
+80mm
+8Omm
+Sleeve S0mm
+Qty
+846
+884
+927
+UOM
+PCs
+Unit Price
+Amount
+488.90
+2.115.00
+442.00
+668.60
+Remarks
+Switch tested
+Urgent
+Certified batch
+TOTAL: 5,714.50
+Light

@@ -1,0 +1,46 @@
+Id: GREECE
+ID:
+by: Peter
+Item
+Description
+No::
+Oty
+UOM
+528
+LED Light Strip
+651
+Unit
+380
+Amount
+950.40
+0.15
+97.65
+8,00
+tested OK
+2,216,00
+Li-Ion
+installed
+Customer
+Product B
+PL-601Z
+PreparedE
+Schmidt
+Internal
+2854728
+Protective
+Sleeve
+Spacer
+somm
+Zmm
+Shaft
+soomm
+Price
+Remarks
+Li-Ion E
+battery
+950,00
+Switch
+Installed
+battcry
+TOTAL:
+4,214.05

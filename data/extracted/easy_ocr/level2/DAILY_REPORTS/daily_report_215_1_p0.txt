@@ -1,0 +1,99 @@
+Shift Summary
+Report No
+Customer:
+PR-456
+GREECE
+Departmant'
+Kowalski
+Mamtenance
+Shit
+16212-2023
+(Nighlj
+Machine ID
+Task
+Worker
+Start
+Flnish
+MC-2u2
+Total
+Culling
+Plotr
+09,00
+duration
+MC 206
+Lewardowski
+10 05
+MC-206
+Assembly
+Kowaiski
+06 QD
+08,39
+10,30
+10;17
+MC-202
+Assembly
+WvMkoiska
+Recallbrated
+Bartosz
+08.30
+09 53
+MC-201
+Weleling
+Wawrzyhlak
+NVA
+Kowalski
+MC-205
+Assemoly
+Malausz
+Q0,30
+09.10
+11,00
+NKA
+MC-?02
+Orllng
+Jarzyuia
+NVA
+Magdalena
+15,39
+Wikawska
+Plannod
+Output
+Achteved Qty
+Qty
+Rojoction
+L73OX
+235
+Remarks
+PW-5157
+140
+201
+127
+VF-2200
+17J
+14,7796
+SCcap
+conlimed
+VR-940T
+0.5000
+106
+nceded
+G0%0
+Approverddby:
+Jan
+Jan Kowalski
+Sunonisor
+Dule"
+Time
+Uwogi
+Dolay
+Polshiw
+Magdaiena
+12.22
+44 15
+Delly
+Part
+Scmp
+14x
+Ren Drk
+Prepord'
+Koiuski

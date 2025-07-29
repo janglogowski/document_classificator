@@ -1,0 +1,78 @@
+Component Dimensional Check
+Lecnnician
+Anna Kowa
+Inspection Date
+2o2c-02-01
+Use this examination summary
+component
+conformity Please review
+inspection
+each
+comdonenc
+listed below: Use this results
+summon
+any corrective actions: Ensure measurement methods
+align with
+libration standards; Review recarded talerances against engineering specifications;
+Article No.
+MR-160H
+IW0-1405
+PW-515Y
+SL-430M
+Pl-515Y
+Camponent
+Plastic Rivets
+Aubbe
+Gasket
+Steel Sheet 436
+Rearing 6202 77
+Wonden Pallet
+0 Wmnm
+Dim
+Inner Diameter
+Wiath
+Hole
+Widtm
+tnickness
+Nomina
+47.35
+58.26
+66.04
+25.95
+25.96
+Actual
+47.55
+76.2
+26.08
+Delta
++0.20
++0.03
+0.10
++0 17
++ 12
+[Fail
+Canfirm that pass rates
+meet the defined acceptance
+criteria. Archive this inspection summary for regulatory
+documentation; This assessment reflects the latest
+OgY results;
+Instrument Calibration Log:
+instrument
+Serial No
+Last Calibration Date
+Laser Gcanner
+68435
+2025-01-18
+CMM
+31006
+2025-03-27
+plcrometer
+73262
+2025-02-03
+contirm
+hc
+results
+tor
+trigzer =
+Past
+Metrc

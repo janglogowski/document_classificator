@@ -1,0 +1,112 @@
+Shift Summary
+Redar ND;:
+PR-904
+Cuslamer-
+BELGIUN
+Supervisor
+Anna Nowak
+pepartment
+Painting
+Snift;
+(Night)
+09-11-2023
+Machine
+Task
+Technician
+Begin
+Finish
+Total
+Remarks
+Temp
+Power
+Time
+(C)
+Drav
+MC 208
+Drilling
+Magdalena
+14.30
+16.07
+60.7
+2.20
+Wmtko s*7
+MC-206
+Drilling
+Dawid
+11.15
+11.59
+Recalibrated
+64.8
+1.38
+Oszmianczuk
+MC 203
+Polishing
+Nadia Sauter
+06.30
+02.22
+73.4
+2.92
+MC-205
+Cutting
+Piotr
+11.15
+12.43
+Delay
+62.8
+2.55
+Lewandowski
+MC-202
+Drilling
+Bartosz
+08,00
+09.57
+74,4
+1.75
+Wawiyniak
+MC-204
+Welding
+Piotr
+07.15
+08.09
+69.9
+2.04
+Lewandowski
+MC 205
+Polishing
+Wiktor
+11.00
+11.59
+66.8
+2.97
+Kopczyriski
+MC-207
+4s5@moiv
+Agnicszkj
+12.00
+13.22
+Recalibrated
+60.1
+1.91
+Zieliniska
+MC-206
+Welding
+Dawld
+14.00
+14.26
+71.5
+1.15
+Oszmianczuk
+MC-205
+Assembly
+Dawid
+07.00
+08-58
+118
+67.5
+2.08
+Oszmiancuk
+Prepared by:
+Peter Schmidt
+Approved pl:
+Peter Schmidt
+Delay

@@ -1,0 +1,45 @@
+Unit Configuration
+The parameter register below includes operating limits and
+AIl data entries are traceable to design
+revision history; Use this sheet t0 confim engineering requirements and tolerances_
+This section details the
+configuration and parameter set for the product  Please review the
+specifications and material composition
+listed below: Use this spec sheet to validate assembly instructions,
+Product ID:
+PW-515Y
+Report No :
+8819924
+Prepared by: Laura Rossi
+Approved by: Anna Nowak
+Date: 2024-05-03
+Configuration Type
+Hydraulic Power Unit
+Rated Pressure
+300 bar
+Fluid Flow
+60 Umin
+Supply Voltage
+480
+60Hz
+Protection Class
+Battery Capacity
+Filtration
+10 um
+renrn
+Document control numbers
+included for traceability. Material choices
+process data have
+been
+venfied for compliance_
+Use this summary
+cross-check with BOM and inspection reports:
+Confirm that all
+test conditions are accurately represented
+This summary reflects the latest revision of the product data;
+Ensure that the listed materials are approved for the application; Ensure
+lossary terms match the
+engineering nomenclature:
+ratings-
+Inline
+are 

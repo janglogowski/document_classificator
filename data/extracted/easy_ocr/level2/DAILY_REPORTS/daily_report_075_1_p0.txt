@@ -1,0 +1,105 @@
+Roport No;:
+pn-765
+Customar:
+TURKEI
+Superviaor:
+Ain
+Nora
+Depurtmeng;
+Logiatlcs
+Uht
+19-09-2024
+Shift:
+(Evening)
+Machlng
+Tagk
+Tuchniclan
+From
+End Timo
+Duratlon
+Camnmcnm
+(min)
+MC-205
+Drllng
+Agnieszko
+13.00
+14,24
+Delny
+um
+MC-201
+Welding
+Mardulona
+14.30
+16,04
+Wlikowaka
+MC-201
+Polishing
+Porntsiew
+07:15
+09:12
+Dalny
+Wqaik
+MC-201
+Asgerbly
+Anno Nowak
+08.30
+Tu;
+MC-207
+Dring
+Wiktor
+12.30
+14;16
+10G
+NIA
+Kopezyrski
+MC-201
+Dcng
+Mandolana
+11215
+12.40
+wnlkowuku
+MC-?06
+Driling
+Prumet
+12.00
+13,44
+104
+Recalibruted
+Wosik
+MC-?07
+Nadla Sautor
+10.00
+7,99
+Dolny
+Itamn ID
+Target Qty
+Achinvad
+Qty
+Dafect Qty
+Relectlon %
+aaae
+AX-JIOZ
+224
+210
+25"0
+PWv-515y
+Fylem
+naadad
+GL-9805
+184
+104
+7090
+Serap
+confirmed
+BZ-G80F
+299
+290
+3,010k
+Rawork nuadad
+PW-sI5y
+bica
+Proparad by:
+Anna Nowok
+Approvud by:
+Carlog Gurclo
+Waldlna

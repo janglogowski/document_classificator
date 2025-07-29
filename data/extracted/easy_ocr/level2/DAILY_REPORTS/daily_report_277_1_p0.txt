@@ -1,0 +1,83 @@
+Repon No:
+PR-356
+Cusiomer
+NORWAY
+Supenisor
+Carlos Garcia
+Department:
+Qualily Contro
+Dale
+18-03-2024
+Shift:
+MMoming)
+Equipment
+Operation
+Worker
+Begin
+End Time
+Duration
+Uwagi
+(min
+MC-208
+Welding
+Kowalski
+05.00
+07-03
+NA
+MC-203
+Welding
+Bartosz
+1200
+13.54
+NA
+Wawizyniak
+MC-204
+Drilling
+Annakowar
+03.15
+10.31
+NA
+HC-207
+Assembly
+Piotr
+T1.00
+12.20
+Leancolrk
+MC-203
+Welding
+Anna Nowak
+11.00
+1254
+Recalibrated
+MC-209
+Welding
+Magdalena
+08.30
+09.56
+Recalibrated
+Emzoreka
+Product ID
+pianner
+Qty
+Produced Qty
+Scrap Qty
+Scrap
+Comments
+BZ-660F
+260
+12.6910
+DX-TT7T
+169
+5970
+Scrap
+confirmed
+GL-9B05
+204
+199
+2.4580
+Scrap
+Continmeo
+Prepared by:
+LaunaRosz
+Approved bY:
+Carlos Garcia

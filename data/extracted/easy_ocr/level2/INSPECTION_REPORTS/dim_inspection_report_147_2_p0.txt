@@ -1,0 +1,75 @@
+Measurement Summary Sheet
+Inspecior
+Carlos Garcia
+Inspection Date
+2024 08-14
+Aticle No
+FL73OX
+GL-980S
+1X-820V
+T2OOB
+ChI7Q
+GL-980S
+K-390K
+Component
+Shan
+Power
+Finge Set
+Power
+Finge Set
+Set
+Rubber
+s0omM
+Swatch
+Swatch
+Gasket
+bumm
+Measurement
+Thickness
+Height
+Width
+Hole 0
+Hole 0
+nner
+nner
+Diameter
+Diameter
+Target
+42.44
+32.80
+39.34
+12.56
+25.15
+26.24
+3477
+Actual
+42.50
+32.60
+39-18
+12.60
+25.26
+34.59
+Dift
+T-LO
+-0.20
+~0.16
+70.04
++0.11
+-.20
+~0.18
+Pass Fail
+Confim that pass rates meet the defined acceptance citera_ Ensure status
+are updated in the quality
+management system Components failing inspection require immediate review and corective action
+Instrument Calibration Log:
+Instnument
+Serlal No:
+Last Calibration Date
+Calipen
+50084
+2024-1010
+Caliper
+56519
+2025-02-07
+Hinge
+iags

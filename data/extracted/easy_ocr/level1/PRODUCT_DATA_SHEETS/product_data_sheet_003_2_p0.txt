@@ -1,0 +1,68 @@
+Unit Configuration
+This data sheet provides key specifications and material details. Please reviow the specifications and
+material composition listed below. The parameter register below includes operating Iimits and ratings: Use
+(nis spec sheet
+validate assembly instructions. All data entres are traceable
+design revision history.
+Product ID;
+3350G
+Document No::
+PR /00
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+Date: 2024-10-06
+Model Type
+Cooling Circulation
+Rated Pressurc
+210 bar
+System
+Fluid Flow
+30 Lmin
+Supply Voltage
+400 V /50 Hz
+Dimensions (LxWxH)
+1200 x 700 X 1100 mm
+Type
+Gear
+Motor Power
+kW
+Oil Type
+HLP 32
+Working Lemp:Range
+10'C to 50'C
+Ensure glossary terms match the engineering nomenclature:
+any missing parameters for urgent
+specificalion updales. Use (his summary
+CroSs
+check with BOM
+inspection reports
+All summary
+comments have been recorded in the revision log: AIl
+specifications meet the design requirements and
+industry standards. Ensure that the listed materials are approved for the application
+Confim that all test
+conditions
+accurately represented
+Material
+Construction:
+Part
+Composition
+Pressure Valve
+Brass CZ121
+Ring NBR 60mm
+Nitrile Rubber (NBR)
+Hex Bolts M12
+Zinc [
+lated Steel
+Nut M6
+Zinc-Plated Steel
+Gasket Sheet A4
+Nitrile Rubber (NBR)
+Cooling Gel Pack
+Silicone Rubber
+Cable Tie Pack (10OL
+Nitrile Rubber (NBRI
+Pump
+Pump
+Flag
+and

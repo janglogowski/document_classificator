@@ -1,0 +1,85 @@
+Equipment Record Report
+2024-07-19
+This senvice
+3umman sup ooms
+reliability engineering review Belo
+the summary of service actions and downtimes
+far eact
+Machine
+Kiltechnician
+comments
+are recorded for maintenance
+Treng
+analysis- This maintenance
+extmact is
+Drewancd
+Comoiancl
+audlt tralls_
+Thes secllon capturcs @qulpment slatus and any maintcnance observalions_
+Spare Parts Used;
+Part Name
+pant No
+Oty Used
+Fusl
+P-6048
+Sealing Gasket
+P-2363
+Fuse
+P-3051
+Machine ID
+Machine
+Type
+Technician
+WownuIc
+Previous
+Ancu
+Comments
+Service
+MC-236
+Packaging
+Preventne
+Carlos
+2024-11-13
+Renlaceo
+Galcia
+ccolani
+MC-?86
+CNC Milling
+Prevente
+Carlos
+2024-06-25
+Calibration
+Machine
+Galca
+check OK
+MC-268
+Packaging
+Corre clive
+Canlos
+2023-09-28
+Relilled
+Line
+GGaloa
+IHLP 461
+MC-291
+ASsemoi
+Inspechon
+Carlos
+2023-10-06
+Hionmeni
+Rohot
+Gamcia
+oi hinges
+adjusted
+MC-262
+ConvCvOr
+Corrcctlve
+2024-0311
+No issucs
+Kowalski
+touno
+Anproved DY
+Carlos
+sunviced DY
+4nna Nowak
+Garcia

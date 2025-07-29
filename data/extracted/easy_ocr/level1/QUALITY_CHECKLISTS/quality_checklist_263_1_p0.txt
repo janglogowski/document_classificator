@@ -1,0 +1,116 @@
+Inspection Summary
+#5818105
+Date: 17.07.2025
+Product
+VF-2200
+Customer
+SWEDEN
+Item
+description
+Ring NBR 60mm
+This summary supparts the production-release quality
+The tollowing table outlines inspection criteria and
+classification levels
+Check that inspection steps follow the approved procedurc
+Below are the items t0 be venfied
+during the final product review. Archive this list in the
+lity-management system;
+ease review each checklist
+point
+mark the sampling results
+Quality Check Items
+Sampling
+Classification
+Comments
+Level
+Utem
+Packaging does not match
+gned
+Level |
+Needs review'
+sjinp
+Instnction manuz
+missing
+Level
+damaged
+Dusty debris insid@ packaging
+Leve
+Needs revicv
+Runbe
+Switch not working
+Leve
+Critical impact
+Rubber
+texture
+Riossiness
+Levei
+Minor issue observed
+mismatch
+Missing safety labels
+Leve
+Mlinoriseue
+observed
+Nat assembled
+Dtawinp
+eve
+Needs review'
+Wrong product size_
+Leve
+Critical impact
+screwsoase
+rissine
+ISSue
+Dbsened
+Canan
+damagedor mal kngs
+Needs review'
+incorteci
+Battery
+natincluded
+Neccsicui
+Exposed nail with sharp
+Doint
+Leve
+Need: reuiew
+Shipping mark is illegible =
+Level |
+Minor issue observed
+missing
+Product docsnt power
+Neea: reuiCw
+loos
+Dansinsioe
+packaging
+Leven
+Critical impact
+Woad
+splinter or sharp point on
+Levei
+Minor issue observed
+pFOCUcC
+Missing JOgo
+waming label
+Needs neviev
+or live insect
+nac apine
+eve
+Needs revev
+AQL Level
+Critical
+Maidr
+Minor
+Default
+Customer specific
+Overal
+quality status Indicates compliance with defined AGL levels Corrective actions are scheduled for identified
+issues; Ensure that
+remarks have corresnonding evidence attachments_ This final note confirms the checklist is
+complete and approved. Archive this summary
+the audit-readiness folder. Use this closure report to update the
+quality KPI dashboard.
+Bate 
+qual
+and 
+Spccs
+Mingr
+Dead

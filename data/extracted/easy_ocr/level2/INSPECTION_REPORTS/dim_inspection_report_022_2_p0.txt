@@ -1,0 +1,81 @@
+Inspection Results Summary
+Kachncion
+Lauro Ro3si
+Inspoction Dale
+2024-00 04
+AlI measured values Are limestamped Ior audlt purposes. Below are the recorded mcasurernents compared
+against nomlnal tolerances
+Check Ihal all dlmnenslons comply wlih IS0 and company standards. Entrios
+Include both pass/fall markers ard deviation magritudes; Use thls results sumary =
+Irigger any correclive
+acllons;
+Artlcla No
+KV-HPOK
+Re-8S0C
+0Z-GGQF
+RE 8S0C
+CE-V0sL
+ZR-205R
+Part Namo
+Powxer
+Graphile Pad
+Stuel Sheol
+Batlery Pack
+Baltary Pack
+0 Ring NBR
+Swich
+AJG
+G0mm
+Mengtromiont
+Holo
+Longth
+Hole
+widu
+Unnar
+Innhr
+Dlamglar
+Dlamictar
+Nomlnal
+04,06
+00.52
+O0B
+0,.42
+34.59
+Actud
+04.26
+80.36
+0,06
+06,38
+34.70
+Dolla
+020
+e017
+-0.03
+FM4
+40T8
+4O*
+Poesifall
+PASS
+PASS
+PASS
+PASS
+PAss
+PASS
+Thls uss0ssinent rellects the Iatest mnetrology resulls
+componants roquuring r8-machinung] Or
+udjustmont Record any moasuromuntanomallas for (ollow-Up) analysis,
+Comipononts (alllrg) Irspacilon
+requlre Urnedlate revlev? and Correctivo ucllon;
+Instrument Callbration Log"
+Instr umnant
+Serial No:
+Lmet
+Callbration Dato
+Caliper
+16278
+2024-I1=
+Lasur
+Scanner
+35637
+2024-.07-25
+Flod

@@ -1,0 +1,69 @@
+Quality Inspection List
+Audit Criterla
+Inspection
+Category
+Notes
+Depth
+ilem specs
+Critical
+Major
+OnHold
+Incorrect quantity=
+Level II
+Needs revlew
+Iesarincn
+corect Oncngation
+box
+Level IlI
+USSuC
+observed
+Hattery nat ncideo
+Needs fevlew
+Woad
+splinter
+doint
+Level II
+Minor issue observed
+product
+Cartan
+damagedar
+Level Il
+markings incortect
+Color mismatch
+LevelW
+Issue observed
+Paint smearng
+scnatenes
+Leve
+Needs [evie
+Packape
+sealed
+Level |
+Needs review
+completely
+MissIng distrlbutor
+Leveli
+Intanmation
+Dust/debris Inslde packagIng
+Levell
+Needs review
+deiccl On housinm
+LCVC
+ISsuL Obsived
+Dead
+Iive Inscct In
+Needs revlew
+pack apIng
+Reference Standards:
+Standard
+Edition
+CE Directive
+2011
+IEC 61010
+Ath Ed;
+Minar
+Minor
+ahatp
+Minor
+Visua
+Minoi

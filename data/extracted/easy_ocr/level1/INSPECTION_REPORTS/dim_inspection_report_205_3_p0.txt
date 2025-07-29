@@ -1,0 +1,122 @@
+Inspection Results Summary
+Inspection performed by Jan Kowalski on 2024-08-17.
+Article
+Component
+Measurement
+Nomina
+Observed
+Delta
+Status
+VKXL
+DX-Z77T
+Rubder
+Inner
+21.02
+21.13
++0.11
+Gaskel
+B0rm
+Diamneter
+PL6ul T
+Graphite Pad
+Depth
+70.85
+LP 555V
+Battery Pack
+Hole
+93.39
++0 15
+TX-820v
+Bearing 6202
+wicth
+66.61
+66.72
++011
+MR-160H
+Graphite Pad
+Height
+79.50
+79.70
++0.20
+XD 710R
+Wwdoden
+wicth
+15.04
+15.0}
+0.01
+palet
+90OX
+Hinge Set
+Leneth
+39.61
+39.69
++On?
+VR-940T
+Hinge Set
+Height
+46.67
+0.16
+DX-777T
+0-Ring NBR
+Thickness
+62,44
+57 41
+0,03
+60mm
+JD-700W
+Wooden
+Height
+67.81
+67.86
++0.05
+palet
+PW-S1SY
+Shaft S00mm
+9,47
+MX-4SOL
+Waoden
+Inner
+24,05
+23.86
+0.19
+Pallet
+piameret
+GH-7701
+Power Switch
+Width
+60.62
+5074
++012
+VR-94T
+Bearing 6202
+Inner
+82.77
+82.91
+40,14
+Wiameter
+5B-I40D
+0-Ring NBR
+Tnickness
+48.83
+48.76
+0.07
+60mm
+RX-310Z
+Plastic Rivets
+Length
+73.93
+73.86
+O
+RX-31OZ
+Woaden
+inner
+84,38
+84.26
+0.12
+Diameter
+FT-730X
+Power Switch
+Hole
+5.04
+T0.0
+Depth

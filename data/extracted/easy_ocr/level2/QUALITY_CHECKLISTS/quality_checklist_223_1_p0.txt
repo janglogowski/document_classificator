@@ -1,0 +1,73 @@
+Quality Inspection List
+#5689563
+Date: 17.07.2025
+Product ID
+W-Si
+Customer
+NORWAY
+Item Description
+Batteny Pack
+The following table outlines inspection critera and classification levels Confirm that sampling levels comply wth
+customer agreements_Please review each checklist point and mark the sampling results All checklist entries are
+timestamped for traceability- Refer to the quality register for sampling-plan references_ Ensure all non-conforming
+marks are clearly documented: Use this list
+confirm adherence t0 AQLand safety standards
+Quality Check Items
+Check
+Classification
+Obsenatons
+Intensity
+Product Requirements
+Hold
+Incorect quanty
+ossorment
+Leve
+Minor issue obsenved
+Missing Icgo or waming label
+Leve
+Minor ISSue Obsenved
+Color
+MNasmanc
+Dead Or ieinec ipac Oging
+Leve]
+produc
+Needs rewew
+Dustdebns insid2 Padaging
+Leve]
+need5 relnel
+not working
+2v?
+Needs review
+Exposednai
+Mtnsnar point
+Leve
+Neecs revew
+Sharp edges on plastic
+Level
+Critical impact
+coMooneng
+Rubber Switch not working
+Neecs revew
+Missine
+Gistnoimo
+nntotmaton
+Critical impact
+Battennotincuded
+Lntica
+Impac
+AQL
+Cntc
+Major
+Yanor
+Default
+Customer
+specific
+Items marked for hold require additional review before release
+Checklist results have Deen reported
+the quality
+manager- Confirm that all samplng results are within acceptable Imits All critical and major inspection points have
+been addressed_ Refer to notes for any obsenved defects
+deviations_
+Wrong
+Conn
+ILetcl

@@ -1,0 +1,72 @@
+Component Overview
+Project:
+MC-540X
+Interal No
+PR-824
+Prepared
+Laura Ross_
+Approved By:
+Jan Kowalski
+Location: Plant 1C
+Date: 2024-05-01
+Configuration Type
+Paeumatic Control Unit
+Operating Pressure
+300 ba
+Flow Rate
+60 Lmin
+Operating Voltage
+400 VISQHz
+Filtration
+Umi inline
+10 pm
+Frame Material
+Powder-coated Stee[
+return
+Reservoir Capacity
+160
+Motor Power
+5.5kW
+Dimensions (LxWxHL
+1200 x 700 x 1100
+Protection Class
+IP6Z
+Noise Level
+70 dB(A)
+Pump Type
+Piston Pump
+Total Weight
+230 kg
+Control Valve
+Manual Override 3/2
+Oil Type
+HLP 32
+Charging Time
+Cooling
+Air cooled oil rdiator
+This summary reflects the latest revision of the product data. Document control numbers are included for
+traceability. This closure note indicates the data sheet"
+ready for release. Use this summary to cross-check
+with BOM and inspection reports;
+Material
+Construction:
+Label
+Composition
+Pressure Valve
+Brass CZ12L
+Battery Pack
+Lithiun-lon Cell Pack
+Digital Display Unit
+ABS Plastic
+Wiring Loom
+PuC
+Rigid)
+Power Switch
+Polycarbonate
+Copper
+Bearing 6202
+Stainless Steel 304
+Cooling Gel Pack
+Silicone Rubber
+Fuse 5A
+Ceramic Oxide

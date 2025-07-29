@@ -1,0 +1,86 @@
+Inspection Register
+#4766039
+Date: 17.07.2025
+ProductID
+NE 2454
+Csomern
+BRAZIL
+Item
+Description
+Themmal Fuse
+Archive this listin the quality-management system All checklist entries are timestamped for taceabilityUse
+tnis list to confinm adherenceto AQland satety standards- Tnis closure summary indicates compliance with
+inspection critera: Below are the items
+be verified during the final productreview.
+Inspection Checklist Points
+Sampling
+Classification
+Notes
+Level
+Component Critera
+Camon
+damaged or markings
+Minor issue observed
+Incoteci
+Notassembled
+perarawng
+Packaging does
+notmatcn
+LevelIl
+signed sample
+Package
+not sealed
+Levell
+Hinor issue obsenved
+completel
+Missing distributor information
+Hinor issue
+Dosened
+Wood splinter
+snarp pointon
+Criticali
+impact
+proquct
+Jncomec
+barcode or label
+Leuem
+Needs review"
+Paint smearing
+sctatcnes
+Needs reviel
+Sharp edges on plastic
+Level III
+Criticalimpact
+components
+Exposedna
+Wusnarpoint
+Leveli
+Needs reviel
+Lonnecidg
+not working
+LeveL
+minor
+Ssue Doseneo
+parts inside packaging
+LEE
+Neete
+Lnet
+Wion
+DroduclSie
+LCVCL
+Critical impact
+Battery not included
+Lcte
+Hinor issue obsened
+Incorrect quantity 0f
+Levelil
+Hinor issue obsenved
+assortment
+AQL Level
+Crtical
+Major
+Minor
+Default
+Customer
+specific
+Loose

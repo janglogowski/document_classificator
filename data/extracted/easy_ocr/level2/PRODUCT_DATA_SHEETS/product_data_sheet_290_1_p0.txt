@@ -1,0 +1,75 @@
+Component Overview
+Prolecta
+SL-asu
+Document
+crtugsg
+Prepared
+Peter Schmidt
+Appraved Hy:
+Carlos Gurcha
+Loculiane
+Plant 1C
+Date; 2024-12-29
+Check that allmnateria
+SpCCS
+allgn wvith suppller certifications; Use thls spec sheet
+vallidate assembly instructions
+Refer ta this confikuration summary far unit-designation mapping. Conlirm that performance ranges comply with
+praject requirements;
+Unit Type
+Cooling Clrculatlon
+Desikn Pressure
+250 bar
+System
+Flloi Rate
+60 Lmlo
+Operating Voltare
+230"
+50 Hz
+Acrvoir
+Capacity
+Coolling
+Alr-cooled olladlator
+Orotedlon Ch
+DGd
+Gentnm
+Mntcnn
+Miuminmm
+Pump Typo
+goanplnin
+Control Valve
+plrectlonal 4!
+Total Welcht
+210
+Battery Capacity
+Mounting
+Skid base wlth Mbration
+Working Temp. Range
+~1o"cto 50 'C
+pnds
+Servlce Interval
+S00 h
+Noise /eve
+70 dB(AL
+Flltration
+10 um retum, 25 um
+Charging Tlme
+sucton
+Materlulof Constructlan;
+Item
+Materia
+0 RIna NBR 6Umm
+Nitrile Rubber UNBR)
+Gasket Sheet A4
+NItcile Rubber INOR)
+Teflon Tape Rolll
+Telllon Tape Roll
+Dipital Displav Unlt
+ABS Plast C
+436
+Carbon
+ctrel
+436
+Frdma
+SICC
+Shret

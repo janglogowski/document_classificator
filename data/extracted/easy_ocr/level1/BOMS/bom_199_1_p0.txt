@@ -1,0 +1,99 @@
+BILL OF MATERIAL
+Customer ID: FINLAND
+Coordinator: Anna Nowak
+Date
+2023-07-23
+Product ID: FT-730X
+Internal No
+6885369
+Order Qty: 397
+The component roster below includes unit costs and batch codes Use this breakdown to verify sourcing
+and cost estimates.
+Item
+Consumption
+Extra %
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+1.98
+pcs
+450
+36.00
+Switch
+Bracket
+tested
+power
+1.86
+pcs
+1,20
+25,20
+Switch
+Switch
+tested
+Hinge Set
+pcS
+12.50
+Insulation
+2.46
+pcs
+3.20
+115.20
+Li Ion
+Foam Pad
+battery
+installed
+Terminai
+3.03
+3.40
+91.80
+Imported
+Block 4P
+LED Light
+2.83
+10%
+2,50
+82,50
+High
+Strip
+grade
+Protective
+2.14
+1.80
+28.80
+Switch
+Sleeve
+tested
+50mm
+LED Light
+2.27
+109
+2.50
+100.00
+For
+Strip
+export
+Clamp
+3.42
+0%6
+pcs
+1.75
+64.75
+ISO
+120mm
+verified
+Wooden
+1,9
+pcs
+15.00
+405.00
+Pallet
+Ensure archival of this materials summary for compliance records:
+Total Amount:
+961.75
+Approved By:_
+Sourcing Department:
+aty
+Ring

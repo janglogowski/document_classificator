@@ -1,0 +1,103 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-554
+Cuslamier-
+FINLAND
+Supervisor
+Ljura Koss
+Department:
+Quality Control
+Date
+11-07-2024
+Snitt:
+KEveningi
+Machine
+Operation
+Worker
+End Time
+Time
+Notes
+MC 204
+Assembly
+Wiktor
+11.15
+12.26
+Kopczyrski
+MC-20}
+Assembly
+Knne
+Nowak
+08-15
+09.09
+MC-206
+Welding
+Mateusz
+07.00
+08.50
+Delay
+Jafzvna
+MC 205
+Polishing
+Nadia Sauter
+13.30
+15.22
+MC-20}
+Drilling
+Przemystaw
+10.15
+10.42
+N/A
+Wvasik
+MC 201
+Cutting
+Dawid
+11-00
+11.56
+Dszmanczuk
+MC-204
+Drilling
+Przemystaw
+07.15
+08.54
+Wasik
+MC 205
+Assembly
+wiktor
+11-15
+13.10
+115
+Kopczynski
+MC-203
+Polishing
+Magda
+14.15
+15.01
+Witkowska
+Product ID
+Target Qty
+Progkiced
+Rejected Qty
+Rejection %
+Notes
+S90k
+150
+6-257
+60H
+Rewon neened
+QP-660F
+0253
+Rework needed
+BZ-SG0F
+37767u
+Scrap contirmem
+CE-9oSL
+276
+0.770,
+Reworz needed
+Prepared b%:
+Laura Rossi
+pproved by:
+Peter Schmidt
+Fcom
+Spent
+Delay

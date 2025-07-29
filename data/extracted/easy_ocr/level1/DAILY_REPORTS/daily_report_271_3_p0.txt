@@ -1,0 +1,123 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-461
+Customer: FRANCE
+Shift: _
+(Morning)
+Date=
+06-01-2024
+Machine
+Task
+Worker
+Begin
+End
+Duration
+Comments
+Stage
+Time
+(min
+MC-205
+Welding
+Nadia Sauter
+11.30
+12.33
+Delaz
+Completed
+MC-207
+Assembly
+Magdalena
+11,00
+12.03
+Witkowska
+progress
+MC-209
+Cutting
+Agnieszka
+08.00
+08.31
+Recalibrated
+Zielinska
+progress
+MC-202
+Drilling
+Mateusz
+11,30
+11.56
+Completed
+Jarzyna
+MC-202
+Drilling
+Bartosz
+06:15
+06.36
+NA
+Wawrzyniak
+progress
+MC-207
+Drilling
+Dawid
+12.15
+13.43
+NA
+Oszmiaiczuk
+progress
+MC-204
+Assembly
+Jan Kowalski
+14.30
+15.39
+progress
+MC-206
+Polishing
+Jan Kowalski
+12.00
+12.21
+progress
+MC-204
+Polishing
+Kowalski
+14.15
+15.13
+Dela;
+Delayed
+MC-20g
+Drilling
+Magdalena
+12.00
+13.25
+Delay
+Delayed
+Witkowska
+MC-207
+Assembly
+Jan Kowalski
+08.30
+09.36
+Dr04est
+Part ID
+Planned
+Achieved
+Scrap Qty
+Scrap %
+Rework
+Uwagi
+Qty
+Qty
+Count
+LK-890B
+122
+105
+13.93%
+Rework
+needeo
+RX-3102
+285
+266
+6.6780
+VF-2Z0D
+288
+253
+12.15%
+Rework
+needed
+Approved by:
+Prepared by:

@@ -1,0 +1,68 @@
+BILL OF MATERIAL
+Customer ID: POLAND
+Coordinator: Anna Nowak
+Date: 2023-10-25
+Product ID: VR-940T
+Internal No.
+2356616
+Order Qty; 119
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Steel Sheet
+0.39
+10%
+5.00
+SKF brand
+436
+Termina
+3.29
+3.40
+54.40
+Block
+Packaging
+0.35
+1.00
+15,00
+Box
+Aluminum
+2.43
+117.00
+Bracket
+export
+Rubber
+1.03
+0.50
+20.00
+SKF brand
+Gasket
+B0mm
+Rubber
+1.63
+0,50
+5.50
+Eco
+Gasket
+compliant
+B0mm
+Battery
+0.99
+25.00
+350.00
+Switch
+Pack
+tested OK
+Review this summary against the master budgeting sheet: Final
+amounts include handling and logistics
+costs where applicable: Ensure archival of this materials summary for compliance records
+Total
+Amount
+566.90
+Approved By:
+Sourcing Department:

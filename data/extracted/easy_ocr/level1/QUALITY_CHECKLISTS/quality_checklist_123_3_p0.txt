@@ -1,0 +1,61 @@
+Inspection
+Review Points
+Check
+Severity
+Notes
+Intensity
+Component Criteria_
+Hinges
+[00sa
+Lavel
+Minor Issue observed
+Package
+sealed
+completely
+Shipping mark =
+illegible
+Tevan
+Level II
+Needs
+missing
+lncorrechbarcdde Oracel
+Level
+Neede
+B
+Functionality test falled
+LGvCU
+Wood splinter or sharp point on
+Necds roview
+product
+Incortect onientation Mbox
+LyvelI
+Critical impact
+ustruction manuai
+missing,
+Level III
+Needs revlew
+damaged
+Battery not included
+Level II
+Packaging does
+notmatch
+Level III
+Needs review
+signed sample
+Loose parts inside packaging
+Needs rEvicy
+Wrong product size
+Levei
+Crutica
+pacu
+Rubber Switch not working
+Level
+Critical impact
+Reference Standards;
+Standard
+Edition
+ISO 9001
+2015
+UL 61010
+Jrd Ed_
+Sheet

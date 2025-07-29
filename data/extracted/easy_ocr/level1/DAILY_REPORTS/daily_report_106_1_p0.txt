@@ -1,0 +1,119 @@
+Shift Summary
+Report No :
+PR-502
+Lustomer
+GREECE
+Supervisor:
+Peter Schmidt
+departmeni_
+Painting
+0anc
+12 11-2024
+Shift:
+ivioring
+Machine
+Task
+Technician
+Begin
+Finish
+Total
+Uwagi
+curaton
+MC 206
+Drilling
+Kowalski
+10.J0
+11.30
+Recalibrated
+MC 206
+Polishing
+Magdalena
+09.15
+10.59
+witkovska
+MC 206
+Polishing
+Agnieszka
+06.30
+07.39
+Zlellriska
+MC 208
+Culling
+Kawalski
+08.30
+10-0S
+MC 204
+Cutting
+Kowalski
+15.0
+MC 208
+Drilling
+Mateusz
+11.30
+12.25
+Jalyme
+MC 203
+Polishing
+wiktor
+10.30
+12.29
+Delay
+Kapczyiski
+MC-201
+Polishing
+Nadis
+Saute
+13.30
+15-05
+MC-204
+Assemoly
+Kowalski
+13.10
+MC 205
+Assembly
+Janos
+11-00
+12.51
+Wawrzynlak
+MC 201
+Polishing
+Przemystaw
+13.00
+13.57
+Wasik
+MC-209
+Cutting
+Piatr
+11-00
+12.36
+Lewandowski
+Product IL
+Planned Qty
+Produced Qty
+Scrap Qty
+Scrap
+Uwagi
+ON-770H
+219
+1.791
+XK-6I0U
+2.60%
+ZR-ZOSR
+g4W
+Rework needed
+VF-220D
+186
+2.11%
+Scrap confirmed
+NE- 2454
+14814
+SB-140D
+203
+188
+3996
+Kework needec
+Prepared DY:
+Carlos Garcia
+Approved hy:
+Knna
+Nowak

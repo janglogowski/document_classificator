@@ -1,0 +1,50 @@
+Quality Checklist
+#2081904
+Date: 17.07.2025
+Product ID
+VR-JAOT
+Customer
+NORWAY
+Item Description
+Ventilation Grid
+This section details quality requirements and test points for the batch  All checklist entries are
+timestamped for
+traceability- This checklist captures
+quality Inspection points and sampling levels: Use this extract
+[D coordinate sign -
+off with the QA manager; Ensure
+non-conforming marks are clearly documented. Check that inspection =
+steps
+follow the approved procedure
+Belov Hie
+items
+be verified
+during the final product review:
+Quality Check Items
+Sample Tier
+Classificatlon
+Observations
+Component Criteria
+Functionality test failed
+Leve
+eoges €n plastic
+components
+Level
+Battery not included
+Leve
+Issue Doseneo
+Rubber Siitchnot working
+Minor issue observed
+Packare
+nolsen
+ed completely
+Minor issue observed
+AQL Level
+Critical
+Major
+Default
+Cuctomer
+speclllc
+Shatp=
+Ninor
+Mnor

@@ -1,0 +1,53 @@
+Dimensional
+Supenvisor
+JanKowask
+Inspection Date
+2024 06-08
+Review recorded tolerances
+engineering specifications.
+Refer t0 Ihe dimensional log for all
+component size readings. This report presents the dimensional measurements and inspection results. Alll
+measured values are timestamped for audit purposes:
+Articlo No
+RX 3102
+XK61QU
+PW-515Y
+CE 905L
+Component
+Rubber Gasket
+Graphite Pad
+Bearing 6202 ZZ
+0-Ring NBR 6Omm
+B0mm
+Dim.
+Depth
+Inncr diamcici
+Thickness
+Hole
+Nominal
+26.92
+52.47
+J4.0
+48.26
+Actua
+26.73
+52.43
+044-
+Delta
+-00-
++0u-
+PassfFall
+Refer to deviation column for ay out-of-tolerance measurements. Inspection notes have been logged for
+traceability- All dimensions within tolerance have been marked as OK
+Instrument Calibration Log
+Instrument
+Serial No
+Last Calibration Date
+CMM
+93221
+2024-12-11
+Micrometer
+58706
+2024-09-25
+Log
+against

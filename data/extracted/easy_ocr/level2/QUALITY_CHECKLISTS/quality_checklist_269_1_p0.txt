@@ -1,0 +1,87 @@
+#9136280
+Quality Inspection List
+Date: 17.07.2025
+Customer ID
+POLAND
+procuct
+BZ-660F
+tem
+Description
+Ruble
+Stopper
+standards. Confirm that samplirg levels comply with customer
+Use this list -
+confirm adherence
+AQL and safety
+quality inspection points and sampling levels. This section details quality
+agreements: This checklist captures
+procedure; The
+follawing
+requirements and test
+nolints
+far the batch: Check tha
+inspection steps follow the appraved
+table outlines Inspection criteria and classification levels _
+Inspection Checklist
+Inspection
+Defect Class
+Depth
+Critical
+Minor
+OnHold
+Specs
+Needs revlew
+Wrong product size
+Cumtom
+damagedor
+Level III
+markings Incorredt
+nolsclled
+Critical impact
+Package
+compieiely
+Needs rCview
+Hinges loose
+Critical Impact
+Product doesn t power on
+Leve
+Iseue
+Opsenvcd
+Miino
+screws
+OoSe
+Missime
+Needs review
+HNcdmel
+orientation
+Level M
+Shipping mark is illegible
+missing
+Cannecto
+not working
+Visuz
+derect on housmp
+lmom
+Melcln
+AQL
+Critical
+Default
+Customem
+speclfic
+compliance; Canfirm that all sampling results are within acceptable limits
+Inspection summany
+filled
+regulatory
+issulrt
+CAPA tracking system: Checklist results have been reported to the quality manager:
+Flag any open
+in the
+the audit-readiness folder. Overall
+actions are scheduled for identified issues Archive this summary
+Corrective
+quality status indicates compliance with defined AQL levels.
+Notes
+Points
+Mjjot
+Desin
+Level

@@ -1,0 +1,65 @@
+Unit Data Specification
+Report No
+5055772
+Product ID: TR-ZOOB
+Date: 2024-11-14
+Configuration Tupe
+Pneumatic Control Untt
+Design Pressure
+250 bar
+Fluid Flow
+E0 LMin
+Supply_Voltage
+AoovSOkz
+Batter Capacity _
+Mounting
+Wacmtuniet
+Working Temp
+Range
+10 C to 50C
+Protection Class
+Ip65
+Noise Level
+68 @B
+Fitaton
+Inline; 10um retum
+Component Materials Ovenielr:
+Subcomponent
+Composition
+Speciication
+Capacitor AS0V
+Fmminm
+6061-T6
+I50 2768
+Gasket SneetAd
+Nitrle Rubber (NBRI
+Electnel
+Sie
+Sheet F36
+Carbon Stee
+436
+Class
+Iolerance
+LED Lieht Strip
+Glass
+Filled Alon
+Heat-resistant
+Wring 
+o om Im
+PVC (RigidL
+Class
+Toerng
+Support Foot Steel
+Stainless
+304
+Heat-resistant
+Beanng 6202
+Stainess Stee/304
+Cicentified
+Pressure Valve
+Brass CZ1ZI
+Antcomtosne
+Prepared DY: Jan Kowalski
+Approved Dy: Anna Nowak
+Edt
+se

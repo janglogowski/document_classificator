@@ -1,0 +1,116 @@
+Equipment Record Report
+Performed On: 2024-06-29
+Autnoritco Oy;
+Canns Garci 
+Operator;
+Jankowalsh
+The following
+enines detamgreventiveand corrertive Maintenancetasks
+Check thataidouintime events
+propethy
+categorized
+logged. The
+equlpment log belo " Includes fault codes and corrective notes
+RelefTothe
+maintenance reglster for
+dletalled
+sennce nistories
+service summany supports the reliability engineering review. This section captures equipment status andany
+maintenance docenvations
+AIl techaician commnenis are recorded for (Aintenance trend analysis
+Sectlon
+Unit Codc
+MC 212
+MC 269
+MC 209
+MC768
+MC 259
+MC 7G0
+Anchin
+Plasma Cutilr
+Cuttct
+PackaRing Line
+Paint Booth
+CNC Milling
+Cutter
+Machine
+Scrvicc Wypo
+Lotrcctivc
+cocrcctvt
+correctivc
+Lontectivc
+Inspcction
+Prc cntivc
+Operator
+Larios dardz
+Larios Garciz
+IanKowalck
+Jan Kovalaki
+Jan Kowvalski
+nneoo
+Duration
+ominen
+Replaced
+Replaced
+Mentened
+Changed
+Wooden pallet
+cooiant
+Coolznt
+loose bolts
+and tters
+checzed
+Section B;
+Unit Code
+MC2C0
+MC-269
+MC-268
+Mc)
+MC-259
+MC-20S
+Machine
+Piasma Lutter
+Lutter
+Paint Booth
+Plasma
+Lutter
+CNC Milling
+Packaging Line
+Machine
+Senvice
+Insdection
+preventive
+Vreventive
+Inspection
+Lotreciive
+Preventive
+Operalor
+Cario: GarLn
+Peler SCnmIC[
+Kowalski
+Kowalski
+anna Nowak
+Ana 4otak
+Duration
+comments
+S "itch contacts
+caloration
+Switch contacu
+Laiioraticn
+Wocden
+Li-ion batteni
+cleand
+checkOK
+cchneo
+ckkok
+checked
+Datk rinced
+Uptime (%1
+error Count
+comments
+90 6742
+Bolt tightened
+Plaema
+Plasm
+Masma
+TYPe

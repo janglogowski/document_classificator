@@ -1,0 +1,97 @@
+DAILY PRODUCTION REPORT
+Report No::
+PR-564
+Customer
+FINLAND
+Supervisor:
+Peter Schmidt
+Department:
+Logistics
+Dale
+16-11-2023
+Shift:
+(Evening)
+Equipment
+procese
+Technician
+Start Time
+End Time
+Time Spent
+Remanks
+MC-202
+Drilling
+Mateusz
+06;30
+07.22
+Jalyna
+HC 202
+Welding
+Nadia Sauter
+08.15
+09,35
+Delay
+MC-202
+Polishing
+Wiktor
+10:15
+10.52
+NIA
+Kopczynski
+MC-201
+Welding
+Annanowak
+08;Wu
+09.45
+Delay
+MC-?07
+Polishing
+Jan Kowalski
+09:15
+10.19
+MC-201
+Welding
+Anna Nowak
+14.30
+15.39
+Recalibrated
+MC-201
+Welding
+Nadia Salter
+08.00
+09.19
+MC-206
+Polishing
+Jan Kowalski
+06.00
+06.46
+Delay
+Item
+Target Qty
+Produced
+Qty
+detect
+Qty
+Fanlune
+Comments_
+IX-820V
+239
+207
+13.3980
+MC-540X
+146
+0,6896
+Rewonneeded
+MC-540X
+178
+0.0096
+RE-BSOC
+230
+209
+9.1390
+Scrap
+contirmed
+Prepared by:
+Lamta possi
+Approved by:
+Knnz
+Nowak

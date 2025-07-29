@@ -1,0 +1,131 @@
+Equipment Record Report
+Performed On: 2023-12-26
+Autnogizuo Dy;
+Pclur Schmidt
+Uperator;
+Peter Schmidt
+All technicia
+commenis AFB
+acorded for maintenance treng
+analysis
+Use this summary
+forecast parts replacement and
+6 9 Ofce 0eAde
+Use this record
+pian vocoming upkeep And
+Beloy
+the summary
+3emiceacuons&no
+dow ntimngsT0C gacnmachine
+lBase rBvie vthis lopror recunt service date;
+tYpes
+0no remark 5
+This maintenance Bxtractis
+prenared tar complance audil trais
+Section _
+Machine
+MC 215
+NC 275
+MC?09
+MC?25
+NC7Ai
+HC247
+Equipment
+Hydrilulic
+cunve"
+Belt
+CNC
+Asscmnbly
+Luser Cuuur
+Lultc
+Press
+Machine
+Koboi
+Wype
+Piuvcnvt
+Pruvuntivc
+Comuclivu
+Coreclivu
+cutcclvt
+Pruvuniive
+Technician
+Peter Schmidi
+Schmiot
+Carce
+Garcis
+Laur Rossi
+Jan Kowaleki
+nne
+Vowvnk
+Downtime
+Note9
+No Issues
+Aeplaced
+Tightened
+Alignment
+Worn gasket
+Swlich
+tound
+10030 bolts
+hinga
+replacec
+contac s
+AAMsIAC
+CHHNKC
+Section
+Machine
+MC28Q
+MC24
+MC-209
+MC-290
+MCZ
+MC-285
+Equinmcnt
+CNC Milling
+Plasma Cutter
+CNC Milling
+Asscmbl
+Lasur Cuttur
+Esumibl
+Hache
+Machine
+Robot
+Hobot
+Lype
+TsofcoM
+Poeventive
+Prevaniive
+Pieveniva
+Pieveniive
+Inspeclion
+Vecnnician
+Jankowalsk
+Lqura
+Rossi
+Lauro
+Ros;i
+Carlos Gurcia
+Laura Rossi
+Peter Scnmict
+Downtime
+Note;
+No ISSLAs
+Tightened
+Calibralnn
+Senshi
+Sansor
+War
+Towind
+oosero Dus
+checkor
+recalibrated
+recalibrated
+TadincBdi
+Uptime (S)
+Error Couni
+Comnment =
+9U-T04
+Bolt tigntengo
+[edaifa
+Mnlling
+Ansaot

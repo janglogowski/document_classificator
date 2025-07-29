@@ -1,0 +1,58 @@
+Quality Inspection List
+Inspection
+Checklist
+Sampling
+Defect Class
+Observations
+Points
+Level
+Component Criteria
+Critical
+Major
+OnHold
+Missing logo ar waming
+Level II
+Critical impact
+Tane
+Waod splinte
+sharp
+Level |
+point on product
+Paint smearing or
+Level III
+Minor
+issue observed
+scratches
+Battery not included
+Leve
+Needs review
+Incorrect barcode
+Level III
+Critical impact
+label
+Packaging daes nat
+Needs review
+match
+gned sample
+Connectar not warking
+Rubber Switch not
+Level |
+Needs review
+working
+Missing satety labels
+Level
+Mino
+issue observed
+Dead
+Live insect
+Level |
+Critical impact
+packaging
+Reference Standards;
+Standard
+Edition
+RoHS
+2011
+UL 61010
+3id Ed.
+Minor

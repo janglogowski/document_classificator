@@ -1,0 +1,66 @@
+Measurement Summary Sheet
+Technican
+Laura K3s
+Inspection Date
+2025 03-11
+The inspection
+below highillghts ary oul-of-tolerance parts. This summary Of measureinents
+supports metrology traceability. All measured values are timestamped for audit purposes- This section
+details the measured values; tolerances; and status flags; This data extract
+prepared for quality-control
+sign-off:
+Item Code
+MX-AJ0L
+3B-1400
+TY-350G
+GL-980S
+XD-T1OR
+Component
+Steel Sheet
+Plastic Rivets
+Shalt sQQmim
+Rubher Gaskei
+Hex Balts M12
+A36
+dOtlm
+Dim;
+Cepin
+Depin
+hickneqs
+Height
+Inner Diameler
+Nomina
+64,82
+7750
+72,34
+95.94
+doscnad
+64.70
+I 30
+72.33
+96.96
+Diff
+-0.12
++0.02
+~0.01
+-0.02
+Rass Fail
+This closure meno confirms that dimensional checks are complete_ Ensure all measuring tcols were
+properly calibrated. Please address Any NOK iteis belcre proceeding t0 tne next production
+Archive
+Lns
+inspeclion surmary for reguletory docurnentation:
+Instrument Calibration
+Instrumeni
+Serial No:
+Last Calibration Date
+CMM
+78119
+2025-03-24
+Labui
+Scanner
+94047
+2025-02-15
+register
+5l8ge.
+Logr

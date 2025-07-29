@@ -1,0 +1,106 @@
+Tolerance Check
+Inspection performed by Jan Kowalski on 2025-03-23.
+The inspection register below highlights any out-of-tolerance parts. This section details the measured
+values, tolerances, and status flags. Review recorded tolerances against engineering specifications
+This
+dala extract
+prepared for quality-control sign-off:
+Environmental Conditions: Temperature: 22.5
+C, Humidity: 53 %
+Item Code
+Component
+Measurement
+Target
+Opserveo
+Diff
+Status (VIX)
+ON-770H
+Hex Bolts
+Height
+32.54
+32.38
+~0.16
+Ok
+M12
+JD-ZOOW
+0-Ring NBR
+Height
+94.67
+94.86
++0.19
+OK
+60mm
+CE-9O5L
+Hex Bolts
+Hole
+24.39
+24.42
++0.03
+OK
+M12
+PW-S15Y
+Wooden
+Hole
+86.01
+86.19
++0.18
+Ok
+Pallet
+JD-70OW
+Plastic
+Height
+70.77
+70.70
+~0,07
+OK
+Rivets
+XK-610U
+Graphite
+inner
+51.88
+52.06
++0.18
+OK
+Pad
+Diameter
+QN-770H
+Wooden
+Inner
+63.98
+64.01
++0.03
+Ok
+Pallel
+Diameler
+PL-601Z
+Wooden
+Length
+33.31
+33.12
+-0,19
+OK
+Pallet
+MS-6OOP
+Hex Bolts
+Length
+78.91
+79.03
++0.12
+OK
+M12
+NU-4402
+Graphite
+Depth
+99,18
+99.,38
++0,20
+OK
+Pad
+TR-ZOOB
+Graphite
+Length
+39.26
+39.26
++0.00
+OKk
+Pad

@@ -1,0 +1,111 @@
+Inspection Results Summary
+Inspection performed by Anna Nowak on 2024-03-06.
+This data extract
+prepared for quality-control sign-off, Check that all dimensions comply with ISO and company
+standards. Entrles Include both pass/fall markers and devlatian magnitudes. All measured values are tImestamped for
+audlt purpases
+Ensure measurement methods alikn with callbration standards,
+Envlronmenta
+Conditions: Temperature: 20.4
+Humidity: 33 %
+Product Ref
+Component
+Meisurement
+Nomina
+Observed
+Dift
+Status
+(Vixi
+TR-2008
+Bearing 6202
+Imner
+6,29
+6.42
++0,13
+PASS
+Diameter
+CE-905L
+Woaden
+Height
+13,63
+13.73
+40,10
+PASS
+pallet
+CN-150C
+shaft 500mm
+Depth
+90,98
+9L.40
+40;2
+PaSS
+Kv-390k
+Rubber
+Tnickness
+10,88
+1L,05
+10.17
+PaSS
+Gasket
+LP-5SSv
+Battety Pack
+Depth
+42.78
+42.66
+OZ
+PASS
+PW-SISY
+Bearing 6202
+Depth
+64,54
+64.53
+0,01
+PaSS
+HF-39OA
+shaft 500im
+Depth
+65.13
+HUUG
+PaSS
+AZ-JoOT
+Battery Pack
+wldth
+PaSS
+Xk G10U
+Battery Pack
+Hole
+80.79
+80,87
++0,08
+PASS
+LP 555
+Hinge Set
+wldth
+pASS
+QN-Z70H
+Hinge Set
+Thickness
+0.20
+PASS
+RX-3IOZ
+shat s0omm
+Length
+84.93
+84.84
+0,09
+PASS
+PL-G012
+Bearing 6202
+Depth
+90,05
+90.22
+10.17
+PaSS
+660F
+Battety Pack
+Hole
+16,92
+16.90
+0,02
+PaSS
+somm

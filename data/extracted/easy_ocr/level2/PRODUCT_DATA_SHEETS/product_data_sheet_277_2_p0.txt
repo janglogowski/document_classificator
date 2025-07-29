@@ -1,0 +1,39 @@
+Unit Configuration
+This data sheet provides key specifications and material detals. The parameter register below includes
+operating Iimits and ratings: Use this spec sheet tO validate assembly instnuctions All data entries are
+traceable
+design revision history- Entries include both mechanical and electrical specifications. Refer to
+this configuration summary for unit-designation mapping; Use this sheet t0 confim engineering
+requirements and tolerances;
+Produd ID;
+RX-3102
+Documen No:;
+PR-802
+Prepared by: Jan Kowalski | Approved by- Peter Schmidt
+Date: 2024-01-01
+Model Uype
+Paeumatic Contol Untt
+Rated Pressure
+180 bar
+Fluid Flow
+30 Lmin
+Operating Voltage 
+A00VI50HZ
+Dimensions (LWHL
+1200
+Z00
+H100mm
+Pump Lype
+Vane Pump
+Cooling
+Ar-cooled Oll @dalo
+Service Interva
+500h
+Mounting
+Wall-mounted
+Refer t0 parameter table for operating ranges and tolerances: Confirm that all test conditions are accurately
+represented. Flag any missing parameters for urgent specification updates_
+Data sheet has been peer-
+reviewed by the engineenng team
+summary comments have been recorded
+the revision log

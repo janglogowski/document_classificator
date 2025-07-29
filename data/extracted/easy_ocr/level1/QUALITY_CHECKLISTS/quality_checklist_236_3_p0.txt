@@ -1,0 +1,34 @@
+Inspection Sheet
+Audit Criteria
+Sampling
+Severity
+Notes
+Level
+Item Specs
+Hold
+Paint smearing
+scratches
+Levei
+Critical impact
+Functionality test alled
+Critical impact
+Product doesn"L power on
+Level
+Minor issue observed
+Battery not included
+Level
+Needs review
+Visual defect
+housing
+Level
+Critical impact
+Hinges
+Do5e
+Level
+Reference Standards:
+Standard
+Edition
+CE Directive
+2015
+IEC 61010
+4th Ed;

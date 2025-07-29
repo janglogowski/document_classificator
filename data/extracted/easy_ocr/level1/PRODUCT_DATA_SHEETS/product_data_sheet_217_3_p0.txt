@@ -1,0 +1,27 @@
+Component Overview
+Report No : 5655446
+Product ID: XD-T1OR
+Date: 2023-09-06
+Unit Type
+Pueumatic Contol Unt
+Design Pres sure
+250 bar
+Fluid Flow
+48 Lmin
+Voltage
+400
+S0Hz
+Cooling
+Water-cooled
+Total Weight
+230 kg
+exchangor
+Filtration
+10 pm retum; 25 um
+Working Temp: Range
+58C to 45"C
+suction
+Pump Type
+Gear Pump
+Prepared by: Anna Nowak
+Approved by: Jan Kowalski

@@ -1,0 +1,117 @@
+Inspection Results Summary
+Inspection performed by Peter Schmidt on 2025-01-07 .
+The following data captures key dimensions and any deviations identified.
+The inspection register below
+highlights any out-of-tolerance parts. Please reviev the inspection results for each component listed below.
+Refer t0 the dimensional
+og for all component size readings.
+Environmental
+Conditions: Temperature: 23.0
+C, Humidity: 42 %
+Article No:
+Component
+dim
+Target
+Actual
+Delta
+Status (VIX)
+PW-515Y
+Hex Bolts
+Length
+40.68
+40.71
++0.03
+M12
+SB-140D
+Set
+Depth
+34.62
+34.53
+0.09
+MR-160H4
+Length
+62.45
+62.51
++0.06
+NU-440Z
+Shaft
+Inner
+64.79
+64.62
+0.17
+500mm
+Diameter
+QP-660F
+Plastic
+Inner
+76.97
+76.83
+0.14
+Rivets
+Diameter
+VF-220De
+Hinge Set
+Thickness
+40.62
+TR-2O0B
+Power
+Thickness
+56.49
+56.53
++0.04
+Switch
+GL-980S
+Wooden
+Length
+83.39
+83.55
++0.16
+Pallet
+LK-890B
+Battery
+Height
+46.98
+47.13
++0.15
+Pack
+CE-9Q5L
+Hinge
+Width
+6935
+MS-6OOP
+0-Ring NBR
+Hole
+49.58
+49.61
++0.03
+b0mm
+TR-ZOOB
+Ring NBR
+Width
+12.88
+12.93
++0.05
+60mm
+XK-61OU
+Steel Sheet
+Height
+25.43
+25.37
+0.06
+A36
+GL-980S
+Hex Bolts
+Depth
+82.43
+82.57
++0.14
+M12
+GH-770J
+Shatt
+Length
+55.06
+55.01
+0.05
+500mm
+Hinge
+Hinge

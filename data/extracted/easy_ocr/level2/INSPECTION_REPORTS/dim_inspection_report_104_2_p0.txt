@@ -1,0 +1,75 @@
+Dimensional
+ecnnician
+Carlos Garcia
+Inspection Date
+2024-08-20
+The inspection register
+below highlights ary out-of-tolerance parts. This report presents lhe dimiensional
+measurements and inspection results
+Ensure measurement methods align with calibration standards
+Refer
+t0 the dimensional
+for all component size
+readings, Review recorded tolerances
+engineering
+specifications. Below are the recorded measurements compared
+nominal tolerances:
+Item Code
+JD-7OOW
+CE-905L
+VR-940T
+KP-320E
+GL-980S
+Component
+Waaden Pallet
+Rubber Gasket
+Shaft s00mm
+Wooden Pallet
+Bearing 6202
+80mun
+Mleasurement
+Tnickness
+Wdth
+Height
+Thickness
+Widin
+95,61
+32.07
+70,04
+@nscnvcd
+45.82
+95.43
+S2m
+70.15
+Delta
++0.07
+Uut
++0.11
++0.08
+PassIFail
+Record any measurement anomalies for follow-up analysis
+This assessment reflects the latest metrology
+results_
+Overall inspection summary indicates acceptable qualily levels
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+12633
+2024-08-20
+Laser
+Scanner
+14194
+2025-05-06
+CMM
+7418
+2025-03-23
+Micrometer
+97058
+2024-09-16
+Log
+og
+against
+againstt
+Tange

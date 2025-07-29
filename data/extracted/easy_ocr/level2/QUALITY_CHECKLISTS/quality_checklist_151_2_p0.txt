@@ -1,0 +1,74 @@
+Quality Verification
+Entries include both visual and functional inspection items: This checklist captures quality inspection points
+and sampling levels_
+Confirm that sampling levels comply with customer agreements
+Please reviow each
+checklist point and mark the sampling results. Check that inspection steps follow the approved procedure:
+Product ID
+RM-BGON
+Customer ID
+FRANCE
+Item Description
+Steel Sheet A36
+Roview Points
+Sample
+Severity
+Observations
+Tier
+Component Criteria
+MA
+Hold
+Not assembled as per
+Level E
+Minor issue observed
+drawing
+Missing distributor
+Needs review
+infomation
+Wrong product size
+Level
+Needs review
+ncOrrec
+barcode or label
+Levp
+Needs review
+Paint smearing_
+scratches
+Critical impact
+Exposed nail with sharp
+point
+Wood splinter or sharp point
+Level =
+Minor issue observed
+on product
+Carton
+damaged or
+markings incorrect
+Dead
+ive insect
+Level E
+Critical impact
+packaging
+Missing logo
+warning
+Critical impact
+label
+Shipping mark
+illegible
+Level
+missing
+Hinges
+0o56
+Level
+Needs review
+Screws loose or missing
+Leve
+Minor issue obsened
+Product doesnt power
+Level
+Needs review
+Visual defect on housing
+Leve
+Nccas review
+Supervised by:
+Date:

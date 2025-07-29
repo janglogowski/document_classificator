@@ -1,0 +1,41 @@
+Unit Configuration
+Check that all material specs align with supplier cerlications. This dala sheet provides key specifications
+and material details All data enines are traccablc
+revision
+hisiory. Use this spec sheet to validate
+assenibly instruclions This seclion delails the coriliguralion and paratieler set for lhe producl; The following
+intomation outlines performance characteristics and dosign data:
+Produc
+MR-160H
+Documont No;
+PR-900
+Prepared by: Peter Schmiot
+Approved by: Anna Nowak
+Date: 2023-10-12
+Model Type
+Cooling Circulation
+Operating Pressure
+250 bar
+Syslen
+Flow Rate
+Voltage
+23VASUHZ
+il Ixpe
+HLP 46
+Frame Material
+Auminum Frame
+Dimensions
+XWxH)
+1200 
+70Q x 1J0Qm
+Battery Capacity
+Reservoir Capacity
+120
+Service Interval
+42 months
+Malerial choices and process dala have been verifled for complilance
+Archive Inis summary ior fulure
+design-change mnanagement; Data sheet has been peer-reviewed by the engineering team: Document
+contral numbers are Included for traceability; , Confirm that all test conditions are 2ccurately represented;
+design!
+Vmn

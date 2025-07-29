@@ -1,0 +1,75 @@
+Report No
+PR-981
+Custoner;
+SWEDEN
+Supervisor:
+Jan Kowalski
+Department:
+Qual
+Control
+Shift
+(Nigi)
+07-03-2024
+Please review today $ operalion log and output surmary for each workstalion. Review the operational data
+t0 track compliance with daily goals
+Use this overviow
+asscsc
+throughput and efficiency levels
+Equipment
+Process
+Technician
+From
+Finish
+Duration
+Uwagi
+Thermal
+Energy
+(min
+Reading
+Used
+MC-207
+Welding
+Przemysiaw
+11,30
+12.26
+1,75
+Wasik
+MC-202
+Polishing
+Jan
+12.15
+13.06
+76.5
+1.02
+Kowalski
+MC-209
+Drilling
+Magdalena
+09;15
+10,07
+OK
+75,5
+2,06
+Witkowska
+MC-203
+Cutting
+Magdalena
+07.30
+08.22
+NVA
+55.3
+2.47
+Witkowska
+MC-20g
+Polishing
+Nadia
+14.15
+15.21
+NA
+73.7
+2.28
+Sauter
+Prepared bY:
+Jan Kowalski
+ApprovedDX
+aura RossL

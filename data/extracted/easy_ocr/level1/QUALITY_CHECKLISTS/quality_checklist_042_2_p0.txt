@@ -1,0 +1,61 @@
+Audit Trail
+dosure summary Indicates compliance with inspection criteria
+Please reviev' each checklist point =
+Mark the
+This
+esults, This section details quality requirements and test points for the batch: The following table outlines
+sampling
+Inspection criteria and classification levels
+This surmary supports the praduction-release quality gate. Ensure all
+non-conforming marks are clearly documented. Use this extract t0 coordinate sign-off with the QA manager.
+Product ID
+ZR-2OSR
+Customer
+FINLAND
+Item Description
+Copper Wire 3mm
+Audit Criteria
+Check
+Defect Class
+Obeenvations
+Intensity
+Praduc
+Requirements
+Rubbertexture
+Rlossiness
+msmarcn
+LCOS p
+parts Inside
+packaging
+Level
+Visua
+defect on housing
+Leve
+Cunnectorno
+Working
+LevE
+Critical Impact
+Crilical impact
+Missing Icgo
+waring label
+Nleds
+reul
+paint smneaninp
+or scratches
+Level Il
+Need:
+reviewu
+Rubber Switch not wvorking
+Needs review
+Incarrect orientation
+MsS
+leve
+Critical impact
+screvs
+0056
+Minor Issue ahserved
+Mlssing safety labels
+LevCI
+Supervised by:
+Date;
+and

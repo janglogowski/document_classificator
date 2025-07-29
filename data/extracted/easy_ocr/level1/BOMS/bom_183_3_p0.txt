@@ -1,0 +1,106 @@
+COMPONENT BREAKDOWN
+Review the materials tally for compliance with budget allowances_
+Use this breakdown t0 verily
+sourcing and cost estimates: The component roster below includes unit costs
+batch codes_
+This extract shows the bill of components and total projected spend
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Digital
+pCS
+15,00
+555.00
+Urgent
+Display
+Unit
+Digital
+pCs
+15.00
+150.00
+Eco
+Display
+compliant
+Unit
+Stee
+5.00
+30.00
+SKF brand
+Sheet A36
+Ventilation
+pcs
+5.60
+179.20
+Switch
+Grid
+tested OK
+Insulation
+pCS
+3.20
+160.00
+Foam Pad
+alignment
+adjusted
+Spacer
+pCS
+0.15
+Zmm
+Stainless
+pCS
+0.35
+9.45
+ROHS
+Bolt M8
+compliant
+Wooden
+pCS
+15.00
+525.00
+Eco
+Pallet
+compliant
+Insulation
+pcs
+3.20
+12.80
+For export
+Foam Pad
+Rubber
+pCS
+0.50
+27.50
+For export
+Gasket
+80mm
+Digita
+pCS
+15,00
+255.00
+Certified
+Display
+batch
+Unit
+Amounts reflect current pricing; adjust as necessary for bulk orders_
+The cost subtotal supports
+financial forecasting for the next cycle:
+lease confin supplier lead times t0 ensure timely
+delivery of all items_
+All sourcing notes have been
+logged for audit purposes_
+Customer ID: POLAND
+Coordinator: Peter Schmidt
+Date:
+2023-10-03
+Product ID: TR-2OOB
+Interna
+No:: 1832503
+Order Qly: 336
+Total
+Amount:
+1,905.60
+and
+Hinge

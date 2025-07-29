@@ -1,0 +1,29 @@
+Customer ID: POLAND
+Prepared
+Carlos Garcia
+Product ID: CN-150C
+Internal No.: 6309564
+Item Description
+Protective Sleeve
+Fuse 5A
+Rubber Stopper
+SOmm
+Qty
+270
+288
+UOM
+pCS
+Unit Price
+1.80
+0.30
+0.55
+Amount
+1,553.40
+81.00
+158.40
+Remarks
+SKF brand
+ROHS compliant_
+Imported
+TOTAL: 1,792.80
+by:

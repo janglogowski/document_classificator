@@ -1,0 +1,35 @@
+Unit Data Specification
+Uelov
+are the technica
+parametars and construction materlals for the Unit, The following Information outlnes
+perfarrarce characternstlcs and desuen dara; Confro chat performance rarges complv with project requirements:
+The parameter reBister below Includes operating Uimuits and ratings All data entrles are traceable to desien revlsion
+history; This data sheet provides key specifientions and mnterial detolls
+Product
+TY-JsUG
+pocumeni No;'
+PR-482
+Prepared D; Jan Kovaalski
+Hdbiovel
+by; Caurlos Garcia
+Date: 2023.09-27
+Model Type
+Cooling Crculation
+Operating Prossufe
+250 hor
+Susem
+Fluld Flow
+Valtage
+G80v / 60mz
+Frami
+Materai
+Pawder-Loated Sted
+Ruservoit
+Capacity
+Motor
+Pown
+11 |W
+Protectlon Class
+All summary €ommnents have been recorded In thc revision log. Check that all section headers follow the product
+template , Materlal cholcez and process data have been verliled (or compllance. Archlve thls summarv Ior future
+desipn chanke management; Ensure Blossarv terms match the engineering namenclature;

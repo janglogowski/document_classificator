@@ -1,0 +1,30 @@
+Customer ID: BRAZIL
+Prepared by: Anna Nowak
+Product ID: HF-390A
+Internal
+7843842
+Item
+Description
+Ventilation Grid_
+Ventilation Grid
+Insulation Foam Pad
+Qty
+599
+816
+UOM
+pcs
+pcs
+pcs
+Unlt Price
+5.60
+5.60
+Amount
+3,354.40
+4,569.60
+998.40
+Remarks
+For export
+Switch tested OK
+High grade
+TOTAL: 8,922.40
+No::

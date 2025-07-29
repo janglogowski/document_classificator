@@ -1,0 +1,84 @@
+BILL OF MATERIAL
+This summary lists every item required, with per-unit pricing details_
+Use this schedule of parts to align
+with sourcing and stock levels
+Refer to this parts register t0 plan raw-material purchasing: The parts
+manifest here
+designed to support procurement workflows
+Item
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+0.25
+5.25
+M12
+Plastic
+1.10
+42.90
+Eco
+Cover
+compliant
+150x150
+Aiuminum
+171.00
+ROHS
+Bracket
+compliant_
+Cable Tie
+0.95
+38.00
+Hinge
+Pack
+alignment
+adjusted
+127.50
+IS0
+veritied
+Cable Tie
+0.95
+30.40
+Pack (100)
+Rubber
+0.55
+11.55
+SKF brand
+Stopper
+Packaging
+43.00
+SKF brand
+Box
+Plastic
+Rivets
+Copper
+1.80
+Wire 3mm
+compliant
+Kiuminum
+229.50
+For export
+Bracket
+Ventilation
+156.80
+Switch
+Grid
+tested OK
+Ensure this materials summary is reconciled with the purchase order.
+Customer ID: POLAND
+Coordinator: Jan Kowalski
+Date: 2023-01-09
+proquctID:
+GL-980S
+Unterna
+3813952
+Order
+Qtyi 136
+Tota
+Amount:
+866.30
+Pcs
+(100)
+Hinge

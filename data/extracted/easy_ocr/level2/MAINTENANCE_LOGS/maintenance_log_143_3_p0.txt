@@ -1,0 +1,145 @@
+Maintenance Checklist Report
+Perfomed On: 2025-07-15
+Signed o:
+Ama Nuwak
+Penormedidy
+Carios Garcin
+Tnis Maintenance extrac:
+prepared lor compliance audil Irails. Use Ihis record
+upcoming UpKEEp and repairs
+Ensure all safety checks vrere completed during servicing: Confirm that service intervals follow Ine preveniive schedule
+uquipmenilcg below includes Iaull codes and
+comuclivg nolys
+Entrius include work orders,
+lecnnician assignmenls:
+and part changes. Please review this log
+recent sen CC
+dules
+TDCE
+and remarks
+Sectlon A:
+Unlt Code
+MC-270
+MC-298
+MC-280
+MC-292
+MC -271
+MC-234
+Machine
+Paini Booth
+Packaging
+Lathe
+Assembly
+Packaging
+CNC Milling
+Line
+Rndot
+Line
+Machine
+Service Type
+Prevenuve
+Inspeclion
+PIeennch
+Coctecive
+Inspecilion
+Cuctech
+Upurator
+Carlos Garcla
+Carios
+Gaicia
+Jan Kowalski
+Anna Nowak
+Laula
+Rossi
+Laura Kosst
+downtime
+Comments
+Replaced
+Replacad
+Warn
+No issues
+Sensor
+Li-Ion baltery
+codani
+colani
+replaced,
+Hound
+recalioraled
+pack
+sunricad
+Section B:
+Unit Code
+MC-298
+MC-280
+MC-281
+MC-254
+MC-246
+MC-292
+Machine
+Packaging
+Lalhu
+Lasur Culler
+Hydraulic
+Hydraulic
+Assembly
+Piccs
+Prcss
+Rob ?
+Sece UYPC
+Inspection
+Preventve
+ingpection
+Insdecion
+Inspection
+Loreciive
+Operato
+Lauce
+Rossi
+Cands
+Garciz
+Laura Rossi
+Peter Scnmidt
+Carios
+barcid
+Laura Ross
+Downulme
+Comments
+Refilled cil
+Wooden
+Changed oil
+Changed cil
+Tightened
+Tightened
+(HLP 46}.
+pallet
+filters
+filters ,
+dose
+bolts
+loose polts
+checked
+This log summary suppors the
+assei-management dashboar
+Archive this summary
+the CMMS for 
+Tefererce
+Ensure lhal each survice
+has Ihe required approvals. Record any spare parts Usage lor invenlory adjustmenL
+Maintenance notcs afre archlved
+compllance audits.
+Ensurc
+nextpreventivc sccvicc
+scheduled according
+Dlan
+Confirm that
+comectve
+actions Were
+propeny closed out:
+Uptime (%o)
+Error Count
+Notes
+91,2490
+Replaced filter
+Tno
+gaskot
+@ny

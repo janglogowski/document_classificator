@@ -1,0 +1,63 @@
+Unit Configuration
+All data entries are traceable t0 design revision history- Below are the technical parameters and construction
+materals for the unit Please review the specifications and materal composition listed below. Use this spec
+sheet to validate assembly instructions_
+Check that .
+materal specs align wth supplier certifications_ This
+repont extract [$
+prepared for design-verfication audrts: Ensure all referenced standards are up t0 date
+ProducID:
+L-gOX
+Repon No ;
+PR-866
+Prepared by: Peter Schmidt | Approved by: Jan Kowalski
+Date: 2024-10-27
+Configuration Type
+Hydraulic Power Unit
+Design Pressure
+210 bar
+Fluid Flow
+30 Lmin
+Operating Voltage
+400 V /
+Control Valve
+Directional43
+Pump Uype
+Vane Pump
+Filtration
+inline,
+10 uM
+Cooling
+Air-cooled 0il radiator
+retum
+This summary reflects the latest revision of the product data_ Data sheet has been peer-reviewed by the
+engineering team Flag any missing parameters for urgent specification updates
+Ensure glossary terms
+match the engineering nomenclature
+Ensure that the Iisted materials are approved for the application
+Material 0f Construction:
+Label
+Base
+Insulaled Tube 25nn
+nem
+oplastic Polurethane (TPUL
+Steel Sheel 4 36
+Carbon Steel 4 36
+Fuse
+Ceramic Oxce
+Heton _Jape Roll
+Telon Tape Roll
+Pressure Valve
+Brass CZ12
+Suppodt Foot Steel
+Sltainless Steel 304
+Connector 2P
+Glass-Filled Nlon
+Hex Bolts M12
+Zinc-Plaled Sleel
+Capacitor 450V
+Auminum 6061-16
+Power Swtch
+Polycarbonate
+Copper
+s0tZ

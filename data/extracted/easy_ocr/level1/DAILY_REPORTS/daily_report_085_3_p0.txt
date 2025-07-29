@@ -1,0 +1,136 @@
+Shift Summary
+Report No;; PR-342
+Customer: GREECE
+Shift:
+(Night)
+Date: 23-10-2023
+Machine
+Operation
+Worker
+Start Time
+Finish
+Time Spent
+Uwagi
+Status
+MC-202
+Assembly
+Bartosz
+06.15
+08.10
+Completed
+Wawrzyniak
+MC-205
+Drilling
+Dawid
+07.00
+08.08
+Delayed
+Oszmianczuk
+MC-204
+Polishing
+Wiktor
+13.15
+14,49
+Recalibrated
+progress
+Kopczyriski
+MC-201
+Welding
+Nadia Sauter
+07.00
+08.55
+N{A
+Delayed
+MC-202
+Welding
+Dawid
+09.15
+10,03
+Delay
+progress
+Oszmiaiczuk
+MC-202
+Welding
+Bartosz
+12.15
+12,38
+Delaved
+Wavrzyniak
+MC
+Welding
+Nadia Sauter
+07.30
+0Y;2
+Delay
+Delaved
+MC-209
+Polishing
+Magdalena
+06  0
+06,20
+In progress
+Witkowska
+MC-202
+Welding
+Przemysiaw
+13.15
+15,02
+Delay
+Completed
+Wasik
+MC-207
+Welding
+Mlateust
+13 00
+13,30
+Recalibrated
+Delaved
+Jarzvnp
+Ensure shift-handover notes Include any pending Issues
+Nole
+any unscheduled
+stops In the downtime
+this summary
+undate the overall production dashboard, Confirm that scrap percentages align with quality
+benchmarks. Overall production performance met expectations for the day. Record any adjustments
+shift
+schedules
+staffing here:
+Item
+Target Qty
+Achieved Qty
+Detect Qty
+Rejection %
+Rework Qty
+Uwag
+NU-A4OZ
+253
+2.3770
+Rework
+needeo
+GL 9805
+229
+219
+4.3770
+Scrap
+cantirmed
+RM-86ON
+126
+0.7970
+Rewar
+needed
+BZ-S60F
+274
+4.74%
+Rewon
+needed
+QP-GG0F
+248
+248
+D.0D?
+Rework
+needed
+Approved by:
+Prepared by:_
+-106
+reglster.

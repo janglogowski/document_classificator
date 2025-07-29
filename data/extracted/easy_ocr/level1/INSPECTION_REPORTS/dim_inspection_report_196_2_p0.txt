@@ -1,0 +1,72 @@
+Inspection Results Summary
+Sudervisor
+Catios
+Garcia
+Inspection Date
+2024 03.03
+Below are the recorded measurements
+compared against nominal tolerances
+The inspection register below
+highlights any out- of-tolerance parts. Use this examination summary
+confirm component conformity.
+Product Rel
+PL-515Y
+Lv-3yuk
+MS-6O0P
+QNtuh
+CN-1S0C
+Name
+Bearing 6202 ZZ
+Graphit
+Plastic Rivets
+Graphite PJd
+Hinge Set
+nnci
+Diameter
+Width
+Heicht
+Height
+Inner
+Diameter
+Market
+81.43
+ZU1
+5482
+66.51
+Shoe
+Observed
+81.29
+20.21
+50-85
+66.66
+31.66
+Deltz
+T0.0"
+4u.3
++0.15
+-0.02
+Picc
+PASS
+PASS
+aduress Jny
+NOK items before proceeding
+the next production stage-
+dimensions within tolerance
+MavC
+been marked :
+OK. Flag any components requiring re-machining
+adjustment:
+instruicnc
+Calibration Log_
+Instrument
+Serial No
+Last Calibration Date
+CMM
+97969
+7024-u
+Nicrometer
+37398
+2025-01-02
+PASS
+PaSS
+please

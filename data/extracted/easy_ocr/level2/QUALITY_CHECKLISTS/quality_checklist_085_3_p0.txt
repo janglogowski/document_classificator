@@ -1,0 +1,57 @@
+Quality Inspection List
+Inspection Checklist
+Sampling
+Defect Class
+Observations
+Points
+Level
+Component Criteria_
+Critical
+Major
+OnHold
+Missing logo
+warning
+LevelII
+Critical impact
+lape
+Wood splinter
+snard
+Level |
+point on proquCC
+Paint smearingor
+Level III
+Minor issue observed
+scratcnes
+Battery not included
+Needs
+eviet
+ncatact
+palcada Dr
+Level III
+Critical impact
+label
+Packaging does not
+Needs reviev"
+match signed sample
+Connector not working
+Rubber Switch nat
+Leveli
+Needs reviev'
+rking
+Missing satety labels
+Laveli
+Finor Issue obsenved
+Dead
+Live insect
+Level |
+Critical impact
+packaging
+Reference Standards:
+Standard
+Edition
+RoHS
+2011
+UL 61010
+3d Ed.
+Ainor
+Levet

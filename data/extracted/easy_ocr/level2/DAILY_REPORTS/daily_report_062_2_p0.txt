@@ -1,0 +1,90 @@
+Production
+ReportNc :
+PR-127
+Customer;
+NOMWNAY
+Supetvisar:
+Lauarossi
+Depa'
+FTAAT `
+Machining
+Snift;
+(Night)
+22-07-2023
+All throughput flpures Are recorded for capacity planning The summary beloi lists #ech staticn's #ctuai varsus
+plannedoutcul Please revic  ! today s operation log and output summary for each workstation.
+Machine
+Task
+Worker
+Begin
+End
+Comments
+Thermal
+Enercy
+Spent
+Rending
+Used
+MC-207
+Drilling
+Anna
+06.30
+08,23
+113
+66.5
+2.35
+Nawak
+MC-207
+Welding
+Bartosz
+10.15
+10.35
+Recalluratec
+59.5
+1.17
+Wawrzyniak
+MC-207
+Polishing
+11300
+11;35
+69.5
+1,61
+Kowalski
+MC-205
+Welding
+13.30
+14.23
+72,6
+2.86
+Koivalski
+MC-206
+Cutting
+Mateusz
+13.00
+13.42
+70.4
+2.63
+Jarzyna
+MC-202
+Assembly
+Nadia
+11.00
+12.59
+119
+74.2
+2.88
+Sauter
+MC-?08
+Assembly
+Agnieszka
+10;15
+11;19
+69.2
+2.08
+Zielinska
+Prepared by:
+Jan Kowelski
+Approved Dya
+Peter Echmidt
+Log
+Tinie
+Timne

@@ -1,0 +1,44 @@
+Report
+No `
+8422943
+Product ID: TR-ZOOB
+Date: 2023-11-04
+Configuration Type
+Hydraulc Power Unit
+Rated Pressure
+250 bar
+Throughput
+75 Umin
+Operating Voltage
+480 V ! 60 Hz
+Noise Level
+72 dB(A)
+Mounting
+Wall-mounted
+Pump
+Vane Pump
+Working TempRange
+5 C to 45"C
+Total Weight
+230 kg
+Component Materials Overviow:
+Subcomponent
+Raw Material
+Specitication
+LED Light Strip
+Gass
+Filled Nylon
+UL-listed
+Hex Bolts M12
+Zinc-Plated Steel
+Heat- resistant
+Wiring Loom
+PVC (Rigid)
+Heat-resistant
+Capacitor 450V
+Kimminun
+6061-T6
+RoHS compliant
+Prepared by: Jan Kowalski
+Approved by: Carlos Garcia
+Type

@@ -1,0 +1,50 @@
+Unit Configuration
+Report No: PR-658
+Product ID: HF-3904
+Date;
+2024-06-25
+Model WyPe
+Hydraulic Power Unit
+Rated Pressure_
+180 Dar
+Flow Rate
+48 Lmin
+Supply Voltage_
+L0
+Motor Power
+75kw
+s06
+HLP 46
+Working Temp
+Range
+40 c toS0 C
+Senvice Intenal
+Charging Time
+1000
+Mata
+Weight
+Cooling
+Water-copled exchanfe
+230
+component
+Materiaks Ovenviewe
+Item
+Dse
+Connector ZP
+Specification
+Filled Nylon_
+nucomosve
+Capacitor A50v
+Fumioum
+6061-T6
+Electiclgrde
+Graphite
+Graphite Pad
+CE cenfled
+Pressure Valve
+Brass (Z121
+P67 rated
+Prepared by: Peter Schmidt
+Approved DY: Peter Schmidt
+Oi Wype
+Giass

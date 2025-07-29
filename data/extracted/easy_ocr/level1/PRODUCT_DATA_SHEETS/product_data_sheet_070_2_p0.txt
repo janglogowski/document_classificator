@@ -1,0 +1,43 @@
+Unit Configuration
+Below are the technical parameters and construction materials for the unit. This data sheet provides key
+specifications and material details,
+This section details the configuration and parameter set for the product
+Entries include both mechanical and electncal
+specifications_ Please review the specifications and material
+composition listed belov
+Ensure all referenced standards are up to date
+Use this sheet t0 confirm
+engineering requirerents and tolerances;
+Product ID;
+DXIUI
+Report No:
+PR-187
+Prepared by: Laura Rossi
+Approved by: Carlos Garcia
+Date: 2024-09-22
+Unit Type
+hydraulc Power Unit
+Rated Pressure
+250 bar
+Flow Rate
+60 Lmin
+Operating Voltage
+480 V !60Hz
+Cooling
+Waler-cooled
+Working Temp. Range
+-10"C to 50"C
+exchanger
+Mounting
+Wall-mounted
+Dimensions (LxWxH)
+1200
+700 -
+100 mm
+Protection Class
+IP65
+Check that all section headers follow the product temiplate:
+This closure note indicates the data sheet I5
+ready for release. Archive this summary for future design-change management; Refer
+parameter table for
+operating ranges and tolerances; Flag any missing parameters for urgent specification updates,

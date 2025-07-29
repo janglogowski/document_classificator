@@ -1,0 +1,97 @@
+DAILY PRODUCTION REPORT
+Report No.: PR-717
+Customer: GREECE
+Shift:
+(Merning)
+Date: 24-09-2024
+Machine
+Operation
+Technician
+Begin
+Total
+Comments
+Condition
+duration
+MC-202
+Drlling
+Mateusz
+07,30
+08*49
+Recallbrated
+Delayed
+Jazya
+MC- 208
+Cutting
+Bartosz
+13.20
+15.28
+T18
+Delayed
+Wawzyniak
+MC-206
+Polishing
+Bartosz
+08.30
+09.49
+NIA
+Delayed
+Wawizyniak
+MC- 205
+Cutting
+Wiktor
+11.00
+12.12
+Delayed
+Kopczyiiski
+MC-201
+Orilling
+Agnieszka
+09.15
+11311
+116
+Recalibrated
+Delayed
+Zielliska
+MC-204
+Assembly
+Wiktor
+12.00
+1307
+NIA
+Kopczyxiski
+progress
+MC-203
+Cutting
+06.00
+07.19
+Completed
+Kowalski
+Part ID
+Planned
+Achieved
+Defect Oty
+Failure %
+Rework
+Comments
+Qty
+Qty
+Count
+CE-9051"
+102
+11.76%
+Rework
+needed
+AZ-JOOT
+280
+261
+6.79w0
+Rework
+ncoocc
+TL-90CX
+285
+269
+5.61%0
+Scrap
+conirmed
+Approved hy:
+Prepared by:

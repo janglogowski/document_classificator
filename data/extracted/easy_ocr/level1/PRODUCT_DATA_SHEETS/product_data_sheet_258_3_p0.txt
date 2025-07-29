@@ -1,0 +1,70 @@
+Unit Configuration
+Document No.
+PR-275
+Proquct ID: PL-601z
+Date: 2024-09-01
+Made
+Type
+Hydraulic Power Unit
+Design Pressure
+250 bar
+Flow Rate
+G0 Lmin
+Supply Voltage_
+60 Hz
+Cooling
+cooieo
+radiator
+Filtration
+10 um retum; 25 um
+suction
+protectan
+Cass
+Ip54
+Mounting_
+Rack frame
+Framc
+Miateriai
+Stainless Stec
+Frame
+Charging Time
+Cantrol
+Valve
+Manual Override 3/2
+Component Materials Overview:
+Part
+Compasition
+Specitication
+LED Light Strip
+Glass-Filled Nylon
+Anticorrosive
+Insulated Tube 25mm
+Tnermoplastic Polyurethane (TPUI
+Class =
+tolerance
+Hex Bolts M12
+STCc
+P6rnJcd
+Fuse 54
+Ceramic Oxide
+Electrical grade
+Power
+Sitcm
+polvcamoname
+Copper
+UL-listed
+bejrine
+6202
+Stainless Steel 304
+CE certified
+Cooling Gel Pack
+Silicone Rubber
+Anticorrosive
+Hinge
+Stainiess
+304
+IP6Z
+Prepared by: Laura Rossi
+Approved by: Jan Kowalski
+Stcel
+Nted

@@ -1,0 +1,72 @@
+Quality Inspection List
+Use Ihis extract
+coordinate sign-olf wlth the QA manager; Please review each checkllst point and mark
+Ihe sampling results . All checklist entries are tImostamped for traceability: This closure summary Indicates
+complilance wlih Inspeclion crteria
+The following table oulllnes inspection criteria and classificalion levels ,
+Confirm that sampling levels comply with customer agreements . Archive this Ilst In the quality-management
+systemn. Check that inspection steps follow the approved procedure.
+Product ID
+WD-1B0S
+Customer ID
+FRANCE
+Item Description
+Power Swilch
+Inspection Checklist
+Check
+Defect Class
+Remarks
+Points
+Intensity
+Component Crtena
+Critical
+Major
+Minor
+OnHold
+Sharp edges on plastic
+Level /
+Critical Impact
+compongnis
+Carton
+damagod 0r
+Minor issue
+Level 
+markings incorrect
+observed
+Loose parts Inside
+Level II
+Needs reviow
+packaging
+Minor issue
+Product doesn t power on
+abseived
+Minor issue
+Color mismatch
+Level =
+0DBGNvCC
+Dusidebris inside
+Level
+packaging
+Exposed nall wiih sharp
+Level |
+Critical impact
+poini
+Missing distributor
+Informalion
+Critical impact
+Connector not working
+Level |
+Incorrect orentation in
+Level
+Needs review
+Dox
+SCres
+oose Or missing
+Needs
+Shipping mark Is Illegibble
+Level II
+Needs reviow
+missing
+Supervised by:
+Date:
+Tovior

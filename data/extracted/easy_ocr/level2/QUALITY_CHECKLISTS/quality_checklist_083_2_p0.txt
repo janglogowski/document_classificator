@@ -1,0 +1,102 @@
+Conformance Log
+comply with customer agreements_
+This section delalls
+requirements
+Confirm that sampling levels
+point and mark the sampling results. The
+and test points for Ihe balch
+Please review each checkiist
+sampling-
+criteria and classification leveis_
+Refer to Ihe quality
+following table outlines inspection
+functional inspection items. This checklist captures quality
+plan references_
+Entries include both visual and
+inspection points and sampling levels.
+Customer ID
+BRAZIL
+Product ID
+Pw-515Y
+Item Description
+Aluminum Brackel
+Comments
+Audit Criteria
+Inspection
+Severity
+Depth
+Crilical
+Major
+Minor
+OnHold
+Design Specs
+Incomec
+barcode =
+Needs reviow
+Level
+Label
+Not assembled as per
+Level IlI
+Needs review
+drawing
+Necds reviewv
+Insiniciion
+manual is
+Level
+missing
+damaged
+Minor issuC
+Package
+not sealed
+observed
+completely
+Needs review
+Missing safety labels
+does noi
+Needs review
+Packaging
+Level IlI
+match signed sample
+Minor issue
+Visual defect on housing
+Level /
+noserad
+Functionality test failed
+Level
+Missing logo
+warning
+Levell
+Critical impacl
+Iabe
+Rubber texture or
+Level II
+glossiness mismatch
+Dustidebris inside
+packaging
+Conneclor nol working
+Level
+Needs reviewv
+Color mismatch
+Minor issue
+Incorrect orentation
+Level B
+observed
+box
+Incorrect quantity
+Level
+assorment
+Rubber Switch not
+Level (
+working
+Wood splinter or sharp
+Level /
+Needs review
+poini on produci
+inside
+Needs roview:
+Loose parts
+packaging
+Date:
+Supervised by:
+quality
+register

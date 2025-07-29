@@ -1,0 +1,92 @@
+Inspection Register
+#4379275
+Date: 17.07.2025
+Product ID
+BZ G80F
+Customer ID
+SWEDEN
+Item Description
+Steel Sheet 436
+Plcase
+reviaw each cnecklist point and mark the gamplingresulls. Usa this list t0 confimm adherence
+AQLand
+atat
+standards, Ensure allnon-canforming mark5 are clearly documented; Entries incluce bothvisual and
+tunciionpi
+inspection Items
+This chacklist captures quality Inspection points and
+sampling levels. This closura
+SUmmary indicates cornpuance with Inspectlon criterla. Check that Inspection staps (ollaw tne approvad
+procedure: Use this extract
+coordinate
+ign-off with the QA manager. This summary supports the production-
+releate
+qualily Bate_
+Archive this listin the quallty-management
+Review Points
+Sample Tier
+Defect Class
+Comments
+Component Criteria
+Anstructian Mianualis Missing
+Leveli
+Needs review
+0anapem
+Exposed rail with shajp_
+Levei
+Not assembleo
+netoretnnr
+LBvei
+Sharp edges on plaslic
+Level !
+Needs teview
+components
+Screws loase
+Missing
+Level II
+Needs review
+Connector not
+working
+LAVA
+Package
+Gabiad
+Level II
+Needs review/
+comdietei
+Color mizmnatct
+Levei
+Critical impact
+Dead
+inseciin packarink
+Leval
+Producl doesn
+JWVET Oti
+LevelIl
+Critical imipact
+Wior
+coucise
+Batternot Ircluded
+Minor SsuB Oueivad
+Packaging
+dcesnolrnaich
+Levelil
+Critical impact
+signed sample
+Wood splinter
+sharp poIn On
+Minor ISSuB observed
+product
+AQL Level
+Cticel
+Minos
+Default
+Customem
+spaciflc
+Overall quality status indicates compliance
+defined AQL levels. Refer
+notes for any cbserved defects=
+deviations: Ensure that all remarks have corresponding evidence attachments. Checklistresults have been
+reparted to the quality manager, Archive this summary in the audit-readiness folder;
+braum,
+Point
+Malol

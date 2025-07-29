@@ -1,0 +1,85 @@
+COMPONENT BREAKDOWN
+Ensure each component meets the specified quality standards
+Below is tne component
+listing and
+associated costs for the upcoming production batch: Use this breakdown to verify sourcing and cost
+estimates. This section outlines the
+unit prices and total amounts tor
+assembly-
+Item
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Clamp Ring
+1.75
+78.75
+For export
+120mm
+Bearing
+30.00
+High grade
+6202 ZZ
+Protective
+23,40
+For export
+Sleeve
+S0mm
+Steel Sheet
+50.00
+Li-Ion
+A36
+battery
+installed
+Battery
+25.00
+750.00
+SKF brand
+Pack
+Insulation
+3.20
+153.60
+High grade
+Foam Pad
+Rubber
+15.50
+ISO-verified
+Gasket
+BOmm
+Steel Sheet
+150.00
+Urgent
+A36
+Control
+12.00
+588.00
+Panel
+Mount
+Bearing
+1.50
+7.50
+Eco
+6202 ZZ
+compliant
+Digitab
+15.00
+375.00
+Eco
+Display Unit
+compliant
+All listed components have been verified for availability and compliance
+Cross-verify totals with the ERP
+system for consistency: Ensure archival of this materials summary for comipliance records Check that
+component quantities align with production run requirements:
+Customer ID: TURKEY
+Coordinator: Peter Schmidt
+Date; 2025-04-12
+Product ID: AL-115Q
+Internal No:: 2735747
+Order Qty: 422
+Total Amount:
+2,221.75
+parts;
+Pcs

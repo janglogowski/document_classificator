@@ -1,0 +1,41 @@
+Unit Data Specification
+The parameter register below includes operaling Iimils and ralings_
+This techrical uverview supports lhe
+product-release checklist_ Entries include both mechanical and electrical specifications. Cneck that all
+malerial specs align wilh supplier certifications
+The following information oulllnes performance
+characteristics and design data; Below are the technical parameters and construction materials for the unit:
+All dala entries are (raceabie
+design revision history.
+Product ID
+MR-I60H
+Internal No.
+4699424
+Preparod by ; Carlos Garcia
+Approved by; Carlos Garcia
+Date: 2025-02-02
+Unit Type
+Hydraulic Powver Unil
+Rated Pressure
+210 bar
+Fluid Flow
+60 Lmin
+Operating Voltage
+400 v /50 Hz
+Service Interval
+500
+Nolse Level
+68 dB(AL
+Fraine Matelial
+Stainless Steel Frame
+Battery Capaclty
+10 Ah
+Charging lime
+Pump Lype
+Piston Fump
+AII specillcallons meet the design requirements and industry standaras: Confini Inal ail test condidons
+accurately reprasented. Matorial chciccs and process data have been verified for compliance. This closurc
+nole indicates Ine dala sneet
+ready for release: Refer
+parameter table for operauing ranges and
+tolcrances

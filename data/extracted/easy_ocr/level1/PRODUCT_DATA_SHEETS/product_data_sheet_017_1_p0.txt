@@ -1,0 +1,71 @@
+Project;
+RE-850C
+Interal No
+Aai6e
+Prepared
+Rossi
+Approved By:
+Carlos Garcia
+Localion: Plant 3A
+Date
+2025-05-30
+Configuration Type
+Paeumatic Contol Unit
+Rated Pressure
+180 bar
+Flow Rate
+60 Lmin
+Supply Voltage
+480
+Lype
+Vane
+Frame Material
+Stainless Steel Frane
+Motor Power
+Charging Time
+Noise Level
+Dimensions (LxWxH)
+1000 X 650X 100Q 
+Protection Class
+Reservoir Capacity
+Battery Capacity
+10 Ah
+Mounting
+Skid base with vibralion
+pads
+Oil Type
+HLP 32
+Working Temp: Range
+58C to 45'C
+Control Valve
+Proportional 4/2
+Filtration
+10 pm roturn, 25 pm
+suclion
+Material of Construction:
+Item
+3as0
+0-Ring NBR 60mm
+Nitrle Rubber (NBR)
+Steel Sheet A36
+Carbon Steel
+436
+Insulated Tube 25mm
+Themoplastic Polyurethane (TPU)
+Support Foot Stee
+Stainless Steel 304
+Gasket Sheet A4
+Nitrile Rubber (NBR
+Battery Pack
+Lthimalon
+Cem
+Pack
+Digital Display Unit
+ABS Plastic
+Nut M6
+Zinc
+lated Steel
+Laura
+Pump
+Pump
+dBIAJ

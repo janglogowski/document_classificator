@@ -1,0 +1,95 @@
+Tolerance Check
+Inspection performed by Laura Rossi on 2024-12-17.
+Article No_
+Pant Name
+Target
+Observed
+Delta
+Status NVKL
+GL-9805
+0-Ring NBR
+Wicth
+42.63
+42.73
+70.10
+6omM
+LP-SS5V
+Hex Bolts
+Hole
+51.21
+51.14
+0.07
+M1Z
+WD-1805
+Bearing 6202
+Inner
+28.86
+28.95
++0.09
+Diameter
+ZR-2O5R
+Graphite Pad
+Thickness
+22.93
+23.03
+40.10
+PW-S15Y
+Batter Pack
+Height
+81.89
+82.08
++0.19
+TL 900X
+Batter Pack
+Height
+6 C
+87.8
+MC-540X
+0-Ring NBR
+Length
+95.11
+95.08
+0.03
+60mm
+FT-730X
+Hex Bolts
+Thickness
+61.04
+61.24
++0.20
+M1Z
+FT-730X
+Rubber
+Inner
+37.63
+37.64
++0.01
+Gasket SOmm
+Diameter
+RM-860N
+Bearing 6202
+Height
+66.18
+66.23
++00s
+VR-9401
+Plastic Rivets
+Inickness
+45.57
+29.8
+C011
+RE 850C
+0-Ring NBR
+Hole
+79.09
+79.00
+0.09
+6Omm
+VF-220D
+Steel Sheet
+Length
+22.00
+22.18
++0.18
+A36
+Dim

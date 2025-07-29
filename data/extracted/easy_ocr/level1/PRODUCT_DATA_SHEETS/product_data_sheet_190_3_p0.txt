@@ -1,0 +1,59 @@
+Unit Configuration
+Document No;
+5450916
+Product ID: QN-770H
+Date: 2025-03-17
+Configuration Type
+Cooling Circulalion
+Operating Pressure
+300 bar
+System
+Fluid Flow
+75 Umin
+Supply
+480 V / 60 Hz
+Filtration
+10 pm roturn; 25 um
+Battery Capacity
+10 Ah
+suction
+Nolse
+70 dB(A
+Charging
+Pump Type
+Piston Pump
+Component Materials Overview;
+Part
+Raw Malerial
+Specilicalion
+NBR GOmmn
+Nilrile Rubber
+(NBR)
+Anlconosive
+Support Fool Sleel
+Stalnless Sleel 304
+Heal-resisiant
+Wiring
+Dom
+PVC (Rigid)
+Class
+talerance
+Insullated Tube 25mm
+Thermioplaslic Polyurelhane
+Electrical grade
+(TPU)
+Heat Sink ALU
+Aluminum 6061-T6
+IP67 rated
+Wooden Pallet
+Trealed Pine Wood
+DIN EN 10025
+Digital Display Unit
+ABS Plaslic
+UL-listed
+Prepared by: Laura Rossl
+Approved by: Carlos Garcia
+Voltago
+Level
+Time
+~Ring

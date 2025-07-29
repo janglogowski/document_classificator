@@ -1,0 +1,58 @@
+Inspection Summary
+#4835219
+Date: 17.07.2025
+Product ID
+SL 430M
+Customer ID
+SWEDEN
+Item Description
+Hinge Set
+Ensure all non-conforming marks are clearly documented_
+Use this Iist t0 confinm adherence
+AQL and
+satety standards. Archive this Iist in the quality-management system: This section details quality
+requirements and test points for the batch; Check thal
+inspection steps follow the approved procedure. This
+closure summary Indicates compllance wilh inspection criteria. The following table oullines inspeclion criteria
+and classification levels:
+All checklist entries are timestamped for
+traceability-
+Review Points
+Sample
+Classification
+Observations
+Tier
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Packaging does not
+Needs reviev'
+match signed sample
+Dead or live insect in
+Level II
+Minor Issue observed
+packaging
+Connector not wolking
+Level
+Criical impact
+Loose parts inside
+Level /
+packaging
+Visual detect on
+housing
+Levei
+Critical impact
+Missing distributor
+iniormation
+AQL Level
+Critica
+inor
+Default
+Customer Speciic
+Archive tnis summary in the audit-readiness folder. AIl summary comments have been validated by the QA
+team: Overall quality status indicates compliance with defined AQL levels
+Checklist results have been
+reported
+the quallly manager: Ensure Ihat all remarks have corresponding evidence allachments.

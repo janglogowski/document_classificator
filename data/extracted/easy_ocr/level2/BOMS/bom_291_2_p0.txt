@@ -1,0 +1,43 @@
+Customer ID: NORWAY
+Prepared by: Laura Rossi
+Product ID: QN-770H
+Internal
+2474816
+Item
+Cover
+Hex Bolts M12
+Description
+150x150
+Insulation
+Fuse 5A
+Rubber
+Qty
+Foam Pad
+407
+409
+307
+UoM
+882
+Unit Price
+Jalo
+0.25
+3.20
+0.30
+Amount
+102.25
+0.55
+Remarks
+Switch tested
+982.40
+175.50
+485.10,
+ROHS
+For export
+SKF brand
+compliant
+Certified batch
+TOTAL: 2,192.95
+No::
+Plastic 5
+Stoppel
+4170

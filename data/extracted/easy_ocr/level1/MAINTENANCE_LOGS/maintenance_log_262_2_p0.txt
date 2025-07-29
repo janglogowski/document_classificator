@@ -1,0 +1,66 @@
+Machine Log Summary
+2023-07-21
+The fcllowing entries detall preventive and corrective malntenance tasks. Check that _
+downtime events are properly categorized
+Confirm that service intervals follow thne
+entive schedule: This mainter
+eytractic
+prepared for compliance audit
+Eas
+cnunt Party Uscd
+Part Namo
+Qty Used
+Sealing Gasket
+P-1390
+Qilfter
+P-1208
+Unit Code
+Macnine
+service Tnpe
+echnician
+Doxntime
+Last Check
+Kotes
+Mc 760
+Paint Ronth
+Canecivg
+Hn Kowikaki
+7074-11-77
+RenlacE E
+comiari
+MC-216
+CNC Millng
+Conective
+Anna Nowar
+2013-10-25
+Callbration
+Machine
+check Ok
+Mc-796
+Paint Bonth
+Insqueciuri
+Cts Garci
+7074-06-17
+Calibralian
+cherk OK
+MC-288
+Convev0l
+Inspection
+Carlos Garcia
+2013-10-24
+Callbration
+Belt
+check Ok
+MC-741
+Hydiaulic
+Canecive
+LAuna Rosi
+2073-10-31
+Wcn Rasket
+Press
+replaced_
+Auincnted DY;
+Aan Kowakak
+@perator
+peter Cchmidt
+Torged

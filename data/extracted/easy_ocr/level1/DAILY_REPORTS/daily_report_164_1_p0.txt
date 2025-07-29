@@ -1,0 +1,105 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-664
+Custamier-
+FINLAND
+Supervisor
+Anna Nowak
+Department:
+Painting
+Date
+09-10-2023
+Shift:
+ivorning
+Machine
+Task
+Operator
+Finish
+Total
+Uwagi
+duration
+MC-205
+Iding
+Nacia Sauter
+07.15
+08.30
+MC-20Z
+Drillirg
+Agnieszka
+06-30
+07.03
+Recalbrateg
+Zielinska
+MC-202
+AssCibIY
+Agnieszka
+07.00
+07.35
+Recallbrated
+Zielinska
+MC-20Z
+Drilling
+Mateusz
+06-15
+08.13
+118
+arzyna
+MC-207
+Welding
+Kadia Sauter
+06-15
+08.14
+Delay
+MC 201
+Ascembl
+Nadia Sauter
+09-06
+10.01
+MC-206
+Drilling
+Dawid
+06.30
+08.15
+Oszmlanczuk
+MC 203
+Polishing
+Dawid
+08.30
+10.21
+Oszmianczuk
+MC-206
+Polishing
+Dawid
+09.00
+10.17
+Oszmlanczuk
+MC-206
+Polishing
+Harosz
+12-00
+13.54
+Wawrzyniak
+Part ID
+Planned Output
+Actua
+Qty
+Defect QtY
+scrap
+Motes
+Dxe
+9740
+Lc67d contirnco
+BZ-660F
+269
+I40o
+Rewonsneened
+TR-?CB
+7 4307
+Rework needed
+VR-940T
+750
+Prepared by:
+Kawalsk
+Approved b%:
+Kawaiski
+Begin

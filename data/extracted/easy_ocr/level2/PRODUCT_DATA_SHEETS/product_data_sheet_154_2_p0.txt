@@ -1,0 +1,59 @@
+Unit Configuration
+Belolv are the technical parameters and construction materials forthe unit Confim tnat performance ranges comply
+with project requlrements. The parameter register belaw Includes operating Ilmlts arid ratings: Check that all matetial
+specs
+align
+supplier certifications This report extract is prepared for design-veritication aucits. Tnis data sheet
+provldes key :pedficatlons and materlal detalls.
+Protluct ID:
+HF-39QA
+Document No::
+PR- 192
+Prepared DY: Jan Kowalskl
+Approved by: Jan Kowalski
+Datc: 2024-06-10
+Unit Wpe
+Pneumatic
+Conlg
+Unlt
+Deslgn Pressure
+300 bat
+Fluld Flow
+30 Lainin
+Operating Voltage
+230
+{S0Hz
+Filtration
+Lm Inline, 10 Kiti return
+Cooling
+Water-cobled exchanger
+Charging lime
+Battery Caparity
+Dimenstons (LWxH
+ToOm
+650
+100 mm
+Use this summary
+cross-check with BOM anc Inspeciion reports Document control numbers are included for
+traceability; All specifications meet the design requirements anc
+industry standards; This summary reflects the latest
+revisian of Lhe
+product data Archlve this summary far future design-charge maragement Ensure thatthe Ilsted
+materials
+approved for the application;
+Material 
+Construction:
+Item
+Base
+Nut M6
+Zinc Plated Steel
+Wiring Loom 1m
+PVC (Rigidl
+GJackci
+Gncet
+tei
+Rubber (NBRI
+Cable Te Pack (100]
+Nitrile Rubber INBR}
+Support Foot Steel
+Sanices Sec 304

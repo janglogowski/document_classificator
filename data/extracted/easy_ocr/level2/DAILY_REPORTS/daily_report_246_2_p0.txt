@@ -1,0 +1,116 @@
+Report NNo :
+Customer
+PR-939
+Supensor
+TURKEY
+Department:
+Lauta
+Rossi
+Shift;
+Logistics
+Evening]
+This extract shows
+27-01-2024
+dailyyield, scrap rates
+ana fexor
+occurtences
+operations andoutput for the production line
+This repart summarizes the daily
+workstation_ Use this
+Please review today s operation log and output
+shift summaryto
+drive continuous improvement
+'summary for each
+acdons
+Equipment
+Task
+Operator
+Begin
+Total
+Comments
+MC-201
+duration
+Temperature
+Power
+Cutting
+08.00
+09.14
+NA
+Draw
+MC-204
+Kowalski
+78.7
+1.12
+Mateusz
+10:15
+11.43
+MC204
+Jarzyna
+77 4
+262
+Cutting
+13.15
+13.55
+Wawzyniak
+NA
+60.2
+2.09
+MC-205
+Assembly
+13.15
+13.45
+NA
+73.1
+MC206
+2.46
+Mateusz
+10:15
+12.13
+118
+Jarzyna
+NIA
+74.2
+1.05
+MC- 206
+Nadia
+09.20
+11.04
+Sauter
+Recalibrated
+56.7
+MC-205
+Agnieszka
+07.15
+08-43
+Zielinska
+59.9
+263
+MC-206
+Welding
+Wiktor
+T0.00
+11313
+NA
+Kopczynski
+59.3
+2.70
+HC-209
+Welding
+06.00
+07-20
+Kowalski
+73.9
+2.52
+Prepared by:
+Approvedby:
+Foss
+Lauj Ross
+Drilling
+Bartosz
+Anna
+Notur
+Welding
+Polishing
+Polshing
+Delo;
+LJuta

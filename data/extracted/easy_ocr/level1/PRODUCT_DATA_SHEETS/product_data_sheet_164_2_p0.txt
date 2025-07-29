@@ -1,0 +1,46 @@
+Unit Data Specification
+Check that all material specs align with supplier certitications_
+Confirm that perfommance ranges comply with
+project requirements;
+Use this spec sheet t0 validate assembly instructions; Refer
+this configuration
+summary ior unit-designation mapping
+Ensure all referenced standards are up to date
+Product ID:
+MS-600P
+Report No :
+PR-446
+Prepared by: Jan Kowalski
+Approved by: Peter Schmidt
+Date: 2024-01-08
+Modcl Type
+Hydraulic Power Unit
+Operating Pressure
+210 bar
+Flow Rate
+48 Lmin
+Voltage
+230
+S0Hz
+Dimensions (LxWxHL
+1200
+700 X 1100 mm
+Pump Type
+Vane Pump
+Service Interval
+1000
+Cooling
+Water-cooled
+ExCMandCI
+Protection Class
+P54
+Noise
+72 dBLA
+missing parameters for urgent specification updates_
+Confirm that all test conditions are accurately
+represented_
+Dala sheet has been peer-reviewed by the engineering team: Material choices and process
+data have been verified for compllance: Use this summary
+cross-check with BOM and inspection reports.
+Levol
+Flag

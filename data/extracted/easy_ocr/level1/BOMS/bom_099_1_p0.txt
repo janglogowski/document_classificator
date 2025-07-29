@@ -1,0 +1,66 @@
+BILL OF MATERIAL
+Customer ID: POLAND
+Coordinator: Peter Schmidt
+Date:
+2024-11-08
+Product ID: SL 430M
+Interna
+No.
+9716832
+Order Qly: 467
+AIl entries reflect the latest inventory and supplier rates. The following table summarizes the
+materials and quantities needed for the current project:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Terminal
+2.08
+10%
+pCS
+3.40
+180.20
+High
+Block 4P
+grade
+Insulation
+2.64
+290
+pCS
+3,20
+150.40
+Imported
+Foam Pad
+LED Light
+0.41
+590
+2.50
+22.50
+Strip
+Hex Bolts
+1.07
+10%
+pCS
+0.25
+3.00
+Switch
+M12
+tested
+Spacer
+1.43
+200
+pCS
+0.15
+3.75
+2mm
+Total
+Amount:
+359.85
+Approved By:
+Sourcing Department:

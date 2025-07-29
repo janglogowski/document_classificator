@@ -1,0 +1,71 @@
+Dimensional
+sudervisor
+Jan Kowalski
+Inspectiun Dalc
+2024 04-02
+This data extract
+prepared for quality-control
+sign-off. This section details the measured values;
+tolerances
+and
+stalus
+This summary
+measurements supports
+metrology traceability- The following data captures key
+dimensions and any deviations identified.
+Lode
+RE-850C
+FT-730X
+Pu-SISY
+GL-9805
+DX-7771
+Component
+Bearing 6202 ZZ
+Powver Switch
+0-Ring NBR
+Bearing 6202 Z2
+Hinge Set
+clmm
+dim;
+nickness
+Wicth
+Uner @iameter
+Lenuth
+Nomina
+72.96
+58,63
+Aclu?
+85.31
+914/0
+58,76
+PassiFai
+PASS
+DaSs
+PASS
+address any NOK items before proceeding
+the next production stage. Ensure status
+updated
+quality management system. Confirm that pass rates mect the defined acceptance criteria_
+instrument
+Calibration Log=
+Instrument
+Serial No
+Calibration
+Micrometer
+75774
+2024-10-14
+Nicromctem
+14892
+2074-T7c0x
+Lusci
+scannei
+54862
+2024-08-14
+Nncrometer
+56028
+2024-10-10
+Log
+flags -
+Please
+fags
+Dale

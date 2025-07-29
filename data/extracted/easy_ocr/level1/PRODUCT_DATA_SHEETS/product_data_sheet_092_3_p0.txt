@@ -1,0 +1,68 @@
+Product Overview
+Interna
+No:PR-829
+Product ID: WD-1805
+Date: 2024-01-09
+Modcl Type
+Hyraulic Power Unit
+Pressure
+180 bar
+Flyid Flow
+Lmin
+Supply Voltage
+480 V A60 Hz
+Oil Type
+HLP 32
+Pumm
+Type
+Gejr
+Mounting
+skid base with vbration
+Control Valve
+Manual Override 3/2
+Motor Power
+5,5 kW
+battery
+Capacity
+Noise Level
+70 dB(A)
+Frame Materia
+Powder-coated Steel
+Component Materials Overview:
+Subcomponent
+Raw Matena
+Specification
+Cdpacita
+4Suv
+Aluminum 6061
+UL-listed
+Support Foot Stee
+Stainless Steel
+Electrical
+Nitrile Rubber INBR
+ISO 2768
+Heat
+5061
+2/68
+Ring NBR EDmm
+Nitrile Rubber
+P6? rated
+Connector 2P
+Glas5-Filled Nylor
+RoHS compliant
+Shect 436
+Carbon Steel A36
+I5Q 2768
+Wooden Pallet
+Treated Pine Wood
+IP6Z
+Prepared by: Peter Schmidt
+Approved by: Jan Kowalski
+Desibn
+Pump
+PJOs
+grode
+Gaske
+Sncel
+(Nar
+Falrd

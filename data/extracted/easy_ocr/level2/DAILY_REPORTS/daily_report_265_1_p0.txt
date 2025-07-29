@@ -1,0 +1,126 @@
+Repont No
+PR-326
+Customer:
+TURKEY
+Supenisor
+Anna Nowak
+Depantment;
+Painting
+Date:
+31-07-2023
+shift
+MMoming
+Machine
+Operation
+Technician
+Start Mime
+Total
+Remarks
+quration
+MC-208
+Assembly
+Premyslaw
+07-00
+08-56
+116
+Recalibrated
+Wasik
+MC-204
+Assembly
+Magualena
+1130
+11-52
+Recalibrated
+Witkowska
+MC-20A
+Welding
+Wiktor
+07-30
+08.40
+Delay
+Kopanski
+MC-203
+Polishing
+Agnieszka
+12-330
+14.17
+107
+Zielinska
+MC-202
+Cutting
+Magdalena
+13.00
+13.56
+Delay
+Wtkouska
+MC-209
+Cutting
+pnemisai
+03-30
+10.23
+113
+NIA
+Wasik
+MC-201
+Cutting
+Bartosz
+10.30
+11.29
+NIA
+Wawnnlak
+MC-208
+Welcing
+Magdalena
+09.0
+4025
+Witkowska
+MC-203
+Drlling
+AnnjkouDr
+10.10
+100
+NA
+MC-205
+Assembly
+MateUsZ
+14.15
+14 40
+Delay
+Janyna
+MC- 209
+Cutting
+Agnieszka
+11.00
+12.54
+Zielinska
+MC-202
+Assembly
+Piotr
+11.-30
+12.47
+Delay
+levancor
+Item
+Planned Qty
+AqtualQu
+Rejectecot
+Failure
+Kotes
+WD-1805
+270
+7538
+Rework needed
+WD-1805
+116
+10.774
+RE-850C
+11.2155
+Rewonkneedeo
+RE-85OC
+266
+73762
+Scrap confinec
+Prepared PY:
+Caros Gardia
+Approvedby:
+Canos Gargla

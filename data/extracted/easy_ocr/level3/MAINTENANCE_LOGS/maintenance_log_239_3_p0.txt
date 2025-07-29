@@ -1,0 +1,119 @@
+Machine
+Summary
+Performad On: 2025-02-27
+Sikned o:
+Laura Rogsi
+Pettormed by
+Annu
+Nowak
+Tna equipment log belaw Includes fault codesand corrective notes. The following entries
+preventive and corregtive
+mainienancu [J8k6. Entos Include work orders
+Jechnican
+assignments_
+part changes: This log records all maintenance
+activities performad on the equlpment_ This section captures equipment status and any maintenance observations 
+Suction A:
+Maching ID
+MC-274
+MC-270
+MC-278
+HC-293
+HC-268
+MC-206
+Hachine
+Plasma Cutter
+plaema Cinter
+Assembly
+Packaging
+4350
+Cutter
+CNC Hilling
+Robat
+lacnine
+Serice
+Type
+Cotracive
+Inspection
+Comectve
+Inspection
+Inanection
+Inspection
+Teahnnicinn
+peler Scnmidi
+Koaleki
+Anna Nowak
+Laura Rossi
+occschmidi
+aua
+Ros:
+Ducatlon
+Hatus
+Alignment of
+Wotn
+Gasker
+Aeplaced
+Callbration
+Tightened
+Sanson
+hinges
+replnced
+coolant;
+check Ok.
+loose bolts.
+recallbrated
+udiusted
+Saction B:
+Machine ID
+MC-293
+MC-288
+MC-206
+MC-270
+MC-278
+MC-274
+Machine
+Packaging
+Laser Cutter
+CNC Milling
+Plasma Culter
+Assembly
+Plasma Culter
+Linc
+Hachine
+Robot
+Senvict
+Pnevennve
+pieventive
+Jreventive
+pieventive
+Preventie
+Inepecton
+lachnician
+Kowvalski
+Jan kowalski
+{otvalski
+Jan Kowalsk/
+Carlos Garcia
+Jan Kowalski
+Dumlan
+Hotes
+Changed oil
+Switch
+Camgfation
+Switch
+Tightened
+and Tilters.
+contacts
+cneck Ok
+contacts
+loose bolts.
+cleuneu
+Cloaned
+Uptime (a)
+EltoT Count
+Comments
+92.9636
+Bolt tptuned
+Log'
+datall
+IyPe

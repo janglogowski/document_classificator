@@ -1,0 +1,106 @@
+Maintenance Checklist Report #3112018
+Dale: 2024-05-06
+Unit Code
+Machine
+Type
+Operator
+Dowinbme
+Site
+Notes
+MC-260
+Lascr Culici
+Proventive
+Carlos Garcla
+Piant 34
+Calbration
+Cnedi
+MC-244
+Latha
+Preventive
+Kawalski
+Plant 34
+Wocden
+pallet
+checkad
+MC-227
+Plasma
+Unspecticn
+Kowalskl
+Pianr 2B
+Replaced
+MC-280
+CNC Millling
+Prbvanlive
+Laura Rossi
+Piant 34
+Changed Dil
+Maching
+and Iulcrs
+MC 238
+Plasma Cutter
+Ccreciive
+Anna Nowak
+Piant 2B
+Worn gasket
+taniacal
+MC-2JJ
+Plasma Cullut
+Pruvenlivo
+Pcler Scimidt
+Piant JA
+Relliled 0ll
+(LLP 46
+MC-213
+Assembly
+Ccrrective
+Carics
+Carcip
+Niani JA
+Tinhtened
+Rohat
+Mose
+bolls.
+MC-242
+Piasma Cultur
+Provenllve
+Carlos Garcla
+Piant 1C
+No Issuus
+Jounc
+MC-257
+Faint Rooth
+Inspection
+Anna Nowiak
+Plant 1C
+No iasue3
+found
+MC-223
+Paint Bcoth
+Ccrecinve-
+Carlos Garcia
+Piant 28
+Replaced
+Cociant
+Ensurc next provunlivo scrvlce
+schedulud according
+Relor
+remafks ior any I0 Cw-up aclons
+Dane
+repiasemenis
+Ensure (hat each service entny
+required approvals  This log summar} suppors the
+management dashooard
+Yairienanc
+nolat
+archived
+comiplianca audits. Archive this summary
+tha CMMS Iar
+Kuege KGlerancc
+Luoncaton Checked
+Calidration V erltad
+Emergonc_
+Stop_Tosled
+Approved by;
+Serviced Dy: 
+Curet
+25+0[ -

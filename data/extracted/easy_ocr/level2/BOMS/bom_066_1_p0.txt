@@ -1,0 +1,91 @@
+COMPONENT BREAKDOWN
+Customer ID: FRANCE
+Coordinator: Laura Rossi
+Date: 2024-08-04
+Product ID: MX-AS0L
+Internal No.
+3865648
+Order Oly: 82
+Use this breakdown to verify sourcing and cost estimates.
+Item
+Consumption
+Extra
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+1.38
+10%
+PCS
+0.25
+9.00
+Li-Ion
+M12
+battery
+installed
+Copper
+2.42
+0.60
+10.80
+Hinge
+Wire 3mm
+alignment
+adjusted
+Spring
+3.31
+pCs
+0.05
+0.30
+ISO
+Washer
+verified
+M1o
+Plastic
+2.44
+6,60
+Rivets
+Plastic
+1.62
+pcs
+1.10
+3.30
+Eco
+Cover
+compliant
+150x150
+Battery
+1.84
+10%
+25,00
+700.00
+SKF
+Pack
+brand
+Aluminum
+0.37
+10%
+pCS
+4,50
+117.00
+Li-Ion
+Bracket
+battery"
+installed
+Aluminum
+pcS
+4.50
+76.50
+High
+Bracket
+grade
+This closure summary validates that all parts are approved far release.
+Tota
+Amount:
+923.50
+Approved By:
+Sourcing Department:
+0,.20
+DCS

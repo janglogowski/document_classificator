@@ -1,0 +1,37 @@
+Unit Data Specification
+This technical overview supports the product-release checklist: The parameter register below includes
+operating Iimits and ratings; Please review the specifications and material composition listed below. Use this
+sheet:
+confimm engineering requirements and tolerances. Refer 
+this
+configuration summary for unit-
+designation mapping:
+Product ID:
+VR-M40T
+Report
+NO ,
+PR-782
+Prepared by: Anna Nowak | Approved by: Carlos Garcia
+Date: 2024-03-26
+Configuration Type
+Cooling Circulation
+Operating Pressure
+210 bar
+System
+Flow Rate
+75 Umin
+Operating Voltage
+230 V IS0Hz
+Frame Matenal
+Powder-coated Steel
+Motor Powel
+I1kW
+Battery Capacitx
+Working Temp Range
+10"C to 552C
+Dimensions LLxWHL
+1200 x 700x 4100
+Refer t0 parameter table for operaling ranges ad tolerances; Material choices and process dala have been
+verified for compliance_
+This closure note indicates the data sheet is ready for release. Use this summary t0
+cross-check with BOM and inspection reports. Confirm that all test conditions are accurately represented

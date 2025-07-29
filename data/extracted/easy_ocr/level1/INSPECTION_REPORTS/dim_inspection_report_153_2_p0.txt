@@ -1,0 +1,51 @@
+Component Dimensional Check
+Wechnician
+catios
+Garcia
+In_pcctiun Dalc
+2024 04.23
+Product Ret
+IX3506
+LP S55V
+NE 2454
+TR 2O0B
+component
+Power Sutch
+Rubber Gaykel &umnrti
+Wooden Pallet
+Stcel Snee 43G
+Ncasurement
+hickness
+Hole
+Lerkth
+Height
+arzet
+61.3
+23.23
+86.15
+Observed
+61.30
+23.30
+80.24
+passaFail
+PiGS
+ps
+Dds
+Ensure status flags are updated
+the quality management system
+KCIcy
+failed items against the corrective-action
+register; Components failirg inspection require immediate review and
+comective
+action;
+Instrumenc
+Calibration Log:
+instrument
+Serial No
+Calibration Date
+Nncrometer
+61022
+2025-01-11
+CMM
+92643
+2025-05-14

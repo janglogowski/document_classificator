@@ -1,0 +1,71 @@
+Unit Configuration
+The following information outlines performance charactenstics and design data: Use this spec sheet t0
+validate assembly instructions. The parameter register below includes operating limits and ratings;
+Ensure
+all referenced standards are up
+date.
+This report extract
+prepared for design-verification audits_
+Entres
+include both mechanical and electrical specifications.
+Product ID:
+Interna
+8399034
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia
+Date: 2023-09-10
+Model
+Type
+Cooling Circulation
+Operating Pressure
+210 bar
+System
+Fluid Flow
+48 Lmin
+Voltage
+480
+60Hz
+Oil Type
+HLP 46
+Frame Material
+Slainless Steel Frame
+Filtration
+pm inline,
+10 pM
+Motor Power
+Tetunm
+Dimensions (LxWxH)
+1000
+650 x 1000 Mm
+Working TempRange
+10"C to 50"C
+Overal
+configuration
+within defined design and safety margins
+specifications meet the design
+requirements
+indusiry standards
+All summary comments have been recorded in the revision log
+Use
+this summary
+cross-check wilh BOM and inspection reports
+Archive this summary for future design
+change management; Material choices and process data have been verified for compliance
+This summary
+reflects the latest revision of the product data
+Material 0f Construction:
+Subcomponent
+Comnositon
+Fuse
+Ceramic Oxide
+Connector 2P
+Giass
+illed Nylon
+Heat Sink ALU
+Aluminum 6061-T6
+Loom Im
+PVC (Rigid)
+Pressure Valve
+Brass CZ121
+and
+Winng

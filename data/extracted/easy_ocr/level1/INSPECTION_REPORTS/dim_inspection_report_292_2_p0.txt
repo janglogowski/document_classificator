@@ -1,0 +1,57 @@
+Dimensional
+ecnnician
+Carlos Garcia
+Inspection Date
+2024 08-28
+Product Ref
+RE-8SOC
+RE-8SOC
+TL-GOOX
+CE-905L
+GL-9805
+Component
+Waaden Pallet
+Battery Pack
+Hex Bolts M12
+Pawer Switch
+0-Ring NBR
+6 Otni
+Mleasurement
+Depth
+Thickness
+Deptn
+Length
+Denth
+Hargct
+73.13
+14.26
+27.19
+12.74
+Acta
+72.98
+14.27
+27.33
+12.86
+90.39
+delta
++0.0
++0.12
+Pass /Fail
+Review failed items
+the corrective-action register. Record any measurement anomalies for follow-Up
+analysis
+Components failing inspection require immediate review and corrective action; Archive this
+inspection summary for regulatory documentation.
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last
+Calibration Date
+Micrometer
+91339
+2024-09-19
+Microme
+62742
+2024-11-24
+Log
+agalnst E

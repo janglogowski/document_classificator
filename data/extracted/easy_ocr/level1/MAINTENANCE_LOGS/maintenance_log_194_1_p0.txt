@@ -1,0 +1,86 @@
+Equipment Record Report #7806330
+Date: 2024-03-11
+Unit Codr
+Equipment
+Scrvice Typc
+Operato
+Duration
+Atcir
+Comment 
+MC-ZZZ
+Kssembiy
+Preventive
+Carlos Carcia
+Plant 2B
+Worn gasket
+Rohat
+cunlicud
+MC-ZYE
+Convbvor Belt
+Inspecricn
+Laura
+RCsgi
+Fant IC
+MC-227
+CNC Milling
+Preventive
+4nna Nowek
+Plant 2B
+Worn gasket
+Hachine
+replacBO
+MC-256
+Conveyo
+Belt
+Corrective
+JeterSchmidt
+Plant 2P
+Li-Ion battery
+pack seNic Bd
+MC-299
+CNC Milling
+Insoecron
+Anna Nowak
+Plant J4
+Alignment
+Machine
+ninkus
+adluste d
+MC-212
+palni Bcorh
+preventive
+Anna Noutek
+Callbration
+check OK:
+MC- 236
+Lasel Cnter
+Preventive
+Laa Fceei
+Plant ?1
+No issues
+touno
+MC-78 
+Plasme
+Ctter
+Corrective
+4nna Nowek
+Plant ZP
+Celinretion
+check OK:
+Ensure that each sernce
+antni nas tne raquireo approvals
+Ensur
+next prevente seryice
+schedule
+accordine
+pian;
+Maintenance notes are archived for compliance audits. No cntica
+faults were found during the latest inspecticn. Confirm tha
+all correctivu actions woro properly closed out;
+Lubiication Checkem
+Calibration Verilied
+Emergeng
+Siod Tested
+Approved 0Y
+Servicec
+Eant

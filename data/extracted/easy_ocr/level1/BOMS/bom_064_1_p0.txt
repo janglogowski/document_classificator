@@ -1,0 +1,66 @@
+BOM Report
+Customer ID: POLAND
+Coordinator: Carlos Garcia
+2024-05-03
+Product ID: TY-3506
+Internal No.
+4805921
+Order Qty: 437
+All entries reflect the latest inventory and supplier rates:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Stainless
+0.42
+pcs
+0.35
+0.35
+Bolt M8
+alignment
+adjusted
+Plastic
+3.25
+109
+pcs
+0.20
+5.00
+Imported
+Rivets
+Spring
+2.13
+109
+pcs
+0.05
+0.60
+SKF brand
+Washer
+M1O
+Aluminum
+0.57
+109
+pcs
+4.50
+211.50
+High
+Bracket
+grade
+Insulation
+pcs
+3.20
+44.80
+Foam Pad
+expon
+Final amounts include handling and logistics costs where applicable: All sourcing notes have been logged
+for audit puroses
+Total Amount:
+262.25
+Approved By: _
+Sourcing Department;
+Date:
+Hinge

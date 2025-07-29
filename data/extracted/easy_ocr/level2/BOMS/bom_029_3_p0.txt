@@ -1,0 +1,82 @@
+COMPONENT BREAKDOWN
+This summary lists every item required,
+with per-unit pricing details. The following table
+summarizes the materials and quantities needed for the current
+project: All entries reflect the
+latest inventory and supplier rates_
+This section outlines the parts
+unit prices and total amounts
+for assembly.
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Protective
+.80
+86.40
+Imported
+Sleeve
+s0mm
+Wooden
+pCs
+15.00
+375.00
+Imported
+Pallet
+Bearing
+pCS
+72.00
+Imported
+6202Z2
+Spacer
+pCS
+0.15
+6.90
+For export
+2mm
+Terminal
+pCS
+3.40
+142.80
+Switch
+Block 4P
+tested OK
+5.00
+145.00
+Sheet A36
+Plastic
+pCs
+0.20
+Rivets
+Sensor
+pcs
+0.95
+27.55
+Certified
+balch
+Stainless
+pCS
+0.35
+SKF brand
+Bolt M8
+Protective
+1.80
+5.40
+Sleeve
+alignment
+s0mm
+adjusted
+Customer ID: FINLAND
+Coordinator: Carlos Garcia
+Date: 2025-01-18
+Product ID: QN-77OH
+Intemal No:
+2788123
+Order Qty: 305
+Total Amount:
+870.75
+Steel
+Hinge

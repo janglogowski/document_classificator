@@ -1,0 +1,125 @@
+Auhorizen
+Jan Kcvals-
+Oderator
+Jan Kovalsk
+Conlirin Inal servicu inlervals (ollow lhe prevenlive schedule
+Reler
+lhe maintenance regisler lor delalled service
+histonGs
+This seciion captures equipment status
+maintenance Obeevatons
+Ensufe
+safety checks vrere
+comn eled
+during servicing: This maintenance extract
+prepared for compliance audit trails;,
+Section A:
+Unit Code
+MC 233
+MC-?12
+MC ?76
+MC ?61
+MC ?72
+MC 245
+Equipment
+Laser Cutter
+Lathe
+Laser Cutter
+Laser Cumer
+Conveyor Belt
+Assembly
+Rohal
+Txpe
+Insdeciion
+Cureclive
+Comeclive
+Inspeclion
+Come cliva
+Corracive
+rechnician
+Anna NOwak
+Laura Rossi
+Anna Nowiak
+Peter Schmict
+Anna Nowas
+Laura Rossi
+downtime
+comments
+Relilled oil
+Wocden
+No issuUS
+Alianmiyni 0l
+No [ssues
+(HLP 46).
+pajici
+uunu:
+hngus
+Jound
+cneckao
+adjusled:
+Section B:
+Unit Code
+MC-245
+KC-233
+MC-261
+MC-276
+MC-253
+MC-272
+Equlpment
+Assembly
+Lazet
+Laser Cutter
+Lager
+Lasel
+Conveyor Belt
+Robot
+Type
+ptevenve
+Corrective
+Prevenve
+Ccttecine
+Comectiva
+Inspectior
+Technician
+Carlos Garcla
+Laura Rossi
+Laur Ross
+Catlas GGarcia
+Jan Kawalski
+Cailos Garcla
+bowntimc
+comments
+Alignment
+Changed oill
+Lhion
+battery
+Redlacad
+Refilled oil
+Ren aceo
+hinges
+and @tets .
+Fack
+cdolani;
+(HLP 46).
+fuse (54).
+adimsieo
+Renace d
+Ensure nexl
+prevenlive survice
+schcduled according
+Servlce summarles have been forwarded t0 thc
+engineennq leam
+Flag any recurring issues for root-cause Investigation. Use this closure note
+update the maintenance
+KPI tracker, AlI maintenance
+Jurarions
+recorded for performarce metrics , Confimm that
+corrective actions were
+properly closed out_
+uptmc
+Etrar Couni
+comments
+92 75"8
+Cuter
+Cutter
+Culet

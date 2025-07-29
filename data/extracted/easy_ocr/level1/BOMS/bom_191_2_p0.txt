@@ -1,0 +1,32 @@
+Customer ID: CANADA
+Prepared by: Carlos Garcia
+Product ID: MC-540X
+Internal No:: 3419667
+Item
+Resistant
+Clamp Ring
+Batlery Pack
+Insulation Foam
+Description
+leeve
+120mm
+Pad
+Qty
+800
+207
+UOM
+pCS
+Unit Price
+25.00
+Amount
+287.90
+400.00
+16,350.00
+662.40
+Remarks
+Hinge alignment
+Eco compliant
+Switch tested
+adjusted
+TOTAL: 19,700.30
+Heal

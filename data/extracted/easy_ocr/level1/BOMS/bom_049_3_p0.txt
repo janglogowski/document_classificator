@@ -1,0 +1,77 @@
+COMPONENT BREAKDOWN
+Below is the component listing and associated costs for the upcoming production batch: The following
+table summarizes the materials and quantities needed for the current project: This document provides
+detailed breakdown of all components required for the assembly process. Review the materials tally for
+compliance with budget allowances: This summary lists every item required
+with per-unit pricing details:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption
+Grejse
+1.90
+85.50
+Li-Ion
+Tube 250ml
+battery
+installed
+Heat
+2.70
+132.30
+Resistant
+Sleeve
+Insulation
+3.20
+153.60
+Hinge
+Foam Pad
+alignment
+adiusted
+55.00
+Imported
+Contro
+12.00
+84,00
+ROHS
+Panel
+compliant
+Mount
+LED Light
+35,00
+ROHS
+Strip
+compliant
+LED Light
+2.50
+35.00
+ROHS
+Strip
+compliant
+Plastic
+1.10
+29.70
+For export
+Cover
+150x150
+Check that componen
+quantities align with production run requirements. Verify that all remark items
+meet the sourcing
+department'$ standards. Ensure archival of this materials summary for compliance
+records; This final
+review
+confirms that all items are
+eady for requisition:
+Customer ID: BELGIUM
+Coordinator: Peter Schmidt
+Date: 2023-01-09
+Product ID: BZ-G60F
+Unterna
+No -
+7000973
+Order Qty: 170
+Total Amount:
+610.10
+Hinge

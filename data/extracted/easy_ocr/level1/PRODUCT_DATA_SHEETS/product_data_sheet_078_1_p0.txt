@@ -1,0 +1,69 @@
+Project:
+MS-6OOP
+Report
+PR-753
+Prepared
+Schnid
+Approved By:
+Pete
+Schmidt
+Localion: Plant 1C
+Date: 2024-07-31
+Use this sheet to confim engineering requirements and tolerances: This technical overview supports the
+product-release checklist This section delails the configuration and parameter set for the product Use this
+spec sheet
+validate assembly instructions. Check that all material specs align with supplier certifications:
+Configuration Type
+Pneumatic Control Unit
+Rated Pressure
+180 bar
+Throughput
+75 Dmin
+Operating
+400 V / 50 Hz
+Service Interval
+1000
+Oil Type
+HLP 32
+Filtration
+um inline
+10 um
+Charging Time
+relurn
+Working Temp Range
+-1QCto 50'C
+Total Weight
+180k9
+Reservoir Capacity 
+Pump Type
+Piston Pump
+Frame Matenal
+Powder-coated Steel
+Motor Power
+LSkW
+Noise Level
+Dimensions (LxWxHL
+4200 
+700x 1100_
+Protection Class
+Mounting
+Wal-mnounted
+Contro_
+Valve
+toportiona
+Material of Construction:
+Raw Material
+Pressure Valve
+Brass CZ12C
+Digital Display Unit
+ABS
+lastic
+Nut M6
+Zinc-Plated Steel
+Connector 2P
+Filled
+Pelel
+Voltage
+Iem
+Giass
+Nvon

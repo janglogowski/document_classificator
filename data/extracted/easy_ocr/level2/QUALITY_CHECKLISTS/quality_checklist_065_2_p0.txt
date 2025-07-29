@@ -1,0 +1,90 @@
+Audit Trail
+Ensura allnon-conforming marks ara claarly documontad: Chock that inspaction atops follow" the approved
+procaduru: Tha "
+following tabla outllnes Inspoction criteria und classlllcatlon levols . Entrios Include both visual
+and functional Inspaction Itoma,
+product
+AL1150
+Custome ID
+TURKEY
+Item Description
+Sensor Cip
+Audit Criterla
+Sample Tler
+Sovurlty
+Romarks
+Companont Crltaria
+Incorract barcoda
+qbcl
+Critical Impnct
+Shippingmark
+Mogiblo
+Critical Impnct
+MUSum
+Misslng snfoty Iobols
+Neads ravlow
+(onnectonnat
+working
+Lovol/
+Cuticai
+Impact
+Dand
+Mva Inaucgin
+packoring
+Lovali
+Critical Impact
+Missing loro =
+Wanink Inbal
+Crltical Impact
+Color msmatch
+Lovali
+Neads ruviaw
+Carton
+damagad
+nwtking;
+Critiaal Impact
+ncaract
+Rubbar
+Ruem
+0i0yin4y4
+Lavol II
+Minor Issue observad
+mismatch
+Packarng dous not match
+Leval |
+Nuuds ruvlew
+4nned shmple
+Packope
+nat 9unled
+Luval II
+Needs ravlew
+complatoly
+Inatruction manualis missing Or
+Leval II
+demened
+praduci
+daesn"t power On1
+Lovel |
+Needs
+(uviuw
+Incarucl oniuntalion
+Minor
+Is4uu Odyurvud
+Vsuadulcc
+anhousin
+Leuul
+Ncdd"
+Uu
+Functionallily tost fallad
+LovuI
+Crltical Impact
+Scrleoaro
+miasine
+Lovol E
+Critical Impact
+Wood aplinter
+sharp point on
+LavolM
+product
+Supurvisud by:
+Duto:

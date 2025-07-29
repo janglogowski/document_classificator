@@ -1,0 +1,55 @@
+Product Overview
+Internal No
+3303033
+Product ID: HF-390A
+Date: 2024-02-01
+Configuration Type
+Pneumatic Control Unit
+Rated Pressure
+180 bar
+Fluid Flow
+60 Umin
+perating Voltage
+230 V {50 Hz
+Noise Level
+68 dB(A)
+HLP 68
+Total Weight
+250
+Working Temp: Range
+-1OFC to 50PC
+Service Interval
+1000
+Cooling
+Water-cooled
+exchanger
+Control Valve
+Direclional 4/3
+Component Materals Overvicw:
+Label
+Raw Material
+Specitication
+Pressure Valve
+Brass CZ121
+DIN EN 10025
+Wiring Loom
+PVC
+Rigid)
+Heat-resistant
+Cable Tie Pack (100}
+Nitrile Rubber
+NBR)
+Heat-resistant
+Rubber Gasket 80mm
+Nitrile Rubber (NB
+DIN EN 10025
+Support Foot Steel
+Stainless Steel 304
+IP67 rated
+Wooden Pallet
+Treated Pine Wood
+Class
+tolerance
+Prepared by: Laura Rossi
+Approved by: Carlos Garcia
+Type

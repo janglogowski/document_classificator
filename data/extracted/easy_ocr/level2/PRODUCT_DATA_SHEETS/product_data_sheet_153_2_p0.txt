@@ -1,0 +1,62 @@
+Unit Configuration
+Tho prottolor
+bolow Ircludos oporoturg) Unta cud
+AlI dota ontrloe uro (ruconble lo doelgn
+rovision halary: Relor Io Ihts coniiqurallon aumniY Ior unt-deeinalion mspping. Conlitn Ihnt potlormurco
+cangos comply wllh prolect roqulromonta
+Tho Iollowing Intormollon oulllnos portormonco charuclorlellca und
+dosg dola,
+Prexxuca
+OL;Os
+Intet  No
+50522
+Propated by: Poler Schmidt | Approved by: Curlos Gurcla
+Dalu; 2025 0221
+coniiquratlon Typo
+Pnoumellc Conlrol Unit
+Doalgn Prodauro
+210 Dt
+Fluid Flow
+Jo Ummn
+supply Vollago
+40U
+50 Hz
+FIltratlon
+Inline, 10 Nm
+Pump Typo
+pibion Pump
+Fullma
+Working Tomp: Rango
+H0"C lo 50 C
+Frnmno Matorlol
+Powdor-conlod Slool
+Protacilon Cldae
+IPM
+Ubo Ihia eummary (o crona chock wllh BJOM and inapoction roports, Flag Ony minsing poramiotors Ior urgioni
+spociicolion updalos , Nchlvo Ihle eumnary lor (uturo doelgn chango managoront, Rolor (o paramolor
+tablo tor oporallng) cunqos und tolororicou, Data sheot has boon peor rovlowod by Iho ongineoring lonm,
+Enaure Uhnt Ino Iated mnaterlals uru opprovud or Iho upplicntion;
+Mntorlol
+Conelrucilon;
+Mbol
+Support Fool Slool
+slulnloua Sluol 3O4
+houlAJU
+Cubon Sluo AJ6
+Coolng
+Pack
+Slliconu Rubbor
+NAK (mu
+NltIlu Rubbor (NIR)
+uM
+Cqqumlc Oku
+Dlgilal Dieplny Unt
+AUS Pluellc
+Iollou Ipo Roll
+Tollon Tpa Koll
+reqrator
+rollnu",
+Funtu
+slou
+@ul
+0 Ring 

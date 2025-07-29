@@ -1,0 +1,104 @@
+COMPONENT BREAKDOWN
+Customer ID: FINLAND
+Coordinator: Carlos Garcia
+Date: 2023-10-09
+Product ID: AL-1150
+Internal No:
+8969274
+Order Qly: 70
+This document provides
+detailed breakdown of all components required for the assembly
+process_
+Review the materials tally for compliance with budget allowances_
+Below is the
+component
+listing and associated costs for the upcoming production batch. This section outlines
+the parts, unit prices and total amounts for assembly.
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Fuse
+2.93
+pcs
+0.30
+2.70
+Imported
+Battery
+3.31
+0%
+pcs
+25.00
+100.00
+Switch
+Pack
+tested
+Spring
+2.04
+pcs
+0.05
+1.60
+SKF
+Washer
+brand
+M1o
+Heat
+2.70
+56.70
+Resistant
+Sleeve
+Rubber
+3.03
+10%
+pCS
+0.55
+24,20
+Switch
+Stopper
+tested
+OK
+Cable Tie
+1.26
+5%
+pCS
+0.95
+0.95
+Imported
+Pack (100)
+Packaging
+0.3
+29
+pCS
+1.00
+44.00
+ROHS
+Box
+compliant
+Spring
+0.72
+0%
+pc5
+0,05
+0.20
+High
+Washer
+grade
+M1O
+Copper
+2.31
+109
+0.60
+24.60
+Eco
+Wire 3mm
+compliant
+Tota
+Amount:
+254.95
+Approved By:
+Sourcing Department:

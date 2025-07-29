@@ -1,0 +1,150 @@
+DAILY PRODUCTION REPORT
+Report No.
+PR-298
+Customer: NORWAY
+Shift:
+(Evening)
+Date: 01-02-2024
+Equipment
+Task
+Worker
+Begin
+Duration
+Comments
+Condition
+(min
+MC-207
+Polishing
+Piotr
+07.15
+08*44
+Delayed
+Lewandovski
+MC-204
+Cutting
+Mateusz
+08.30
+0g:18
+Delayed
+Jarzyna
+MC-202
+Assembly
+Piotr
+11.15
+12.09
+Lewandovski
+progress
+MC-206
+Drilling_
+Nadia Sauter
+13.15
+1447
+Delay
+Completed
+MC-209
+Assembly
+Wiktor
+13.00
+14.05
+Kopczynski
+progress
+MC-201
+Cutting
+Wiktor
+13.30
+15.19
+109
+Recalibrated
+Kopczyiski
+progress
+MC-208
+Drilling
+Przemyslaw
+06.15
+07:02
+Delayed
+Wasik
+MC-208
+Cutting
+Wiktor
+13.00
+14.05
+Recalibrated
+Delayed
+Kopczyuiski
+MC-206
+Polishing
+Dawid
+07.00
+07.43
+Delay
+Completed
+Oszmianczuk
+MC-205
+Polishing
+Agnieszka
+14.30
+15.56
+Zieliiska
+piogress
+MC-205
+Culting
+Magdalena
+08.30
+09;17
+Delayed
+Wilkowska
+MC-202
+Cutting
+Dawid
+13.30
+15.30
+120
+Delay
+Delayed
+Oszmianczuk
+Overall production perforance met expectations for the day: All operator notes have been archived for
+Toviot
+Refer
+remarks for any rework or quality concerns
+Archive this output summary for end-of-day
+reporting: Confir that scrap percentages align with quality benchmarks. No critical delays were observed;
+please address any minor issues noted,
+Product ID
+Target Qty
+Actual Qty
+Scrap Qty
+Scrap
+Rework Qty
+Uwagi
+TY-3506
+132
+126
+4.559/
+Scrap
+confirmed
+TX-820v
+137
+121
+11.68%6
+Scrap
+confirmed
+MS-600P
+106
+100
+66%
+Rework
+needed
+MS-600P
+5.4390
+GL-980S
+234
+230
+1.7190
+Rework
+needed
+WD-1805
+199
+10.5500
+Approved by:
+Prepared by: _

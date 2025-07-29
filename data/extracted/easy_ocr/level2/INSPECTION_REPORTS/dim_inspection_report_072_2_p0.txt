@@ -1,0 +1,79 @@
+Dimensional
+Supenrisor
+JanKowalki
+Inspection Date
+2024 04-02
+This data extract i
+prepared for quality-control sign-off: This section
+status
+detalls the measured values, tolerances;
+flags: This summary of measurements sunoorts
+dimensions
+metrology traceabillty The following data captures key
+and any
+deviations identified:
+trem Codo
+RE-RSOC
+Fl-730x
+Component
+Bearing 6202 ZZ
+powr Swlrch
+PW-515Y
+-9805
+DX-T7[
+Bearing 6202 zZ
+Hinge Set
+humm
+Dlm
+Thickness
+Wictn
+Inner Diameter
+Naminal
+85.50
+94.68
+Length
+Actua
+72.96
+58.63
+94,70
+-0.q
+58.76
++0 9
+10.16
+4
+PassFaii
+PASS
+PESS
+Piss
+PiSO
+Please
+any NOK items before
+procecding
+the next production stage
+Ensure
+quality management system. Canfirm that pass
+Meet
+status
+are upoated in the
+rates
+the defined acceptance criterla,
+Instrument Calibration Log:
+Instrument
+Seria
+Micrometer
+Last Calibration Date
+75774
+4024-10-12
+Micromete
+14897
+AcJnne
+2024-11-08
+54862
+Mlicrometer
+2024-08-14
+56028
+2024-10-10
+Log
+0-Ring
+'addicse
+flags :

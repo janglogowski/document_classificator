@@ -1,0 +1,104 @@
+BILL OF MATERIAL
+Customer ID: SWEDEN
+Coordinator: Carlos Garcia
+Date:
+2024-07-01
+Product ID: VR-940T
+Intema
+No : 6529468
+Order Qly: 323
+This document
+provides
+detailed breakdown of all components required for the assembly
+process.
+All entries reflect the latest inventory and supplier rates. Ensure each component meets
+the specified quality standards. Use this breakdown to verify sourcing and cost estimates
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+2.92
+59
+pcs
+0.55
+5.50
+ISO-
+Stopper
+verified
+Aluminum
+0.35
+290
+pCs
+4.50
+13.50
+Urgent
+Bracket
+Heat
+1.48
+59
+2.70
+81.00
+High
+Resistant
+grade
+Sleeve
+Ceramic
+10%
+pcs
+2.10
+94.50
+Eco
+Disc 8Omm
+compliant
+Steel
+Sheet
+2.72
+10%
+5.00
+260.00
+ROHS
+A36
+compliant
+Grease
+1.18
+290
+pcs
+1.90
+58.90
+Switch
+Tube 250ml
+tested
+OK
+Spring
+1.12
+29
+pcs
+0.05
+0.60
+Washer
+M10
+Ventilation
+1.17
+200
+pcs
+5.60
+240.80
+Urgent
+Grid
+All sourcing notes have been logged for audit purposes.
+Amounts reflect current pricing; adjust as
+necessary for bulk orders. Ensure archival of this materials summary for compliance records_
+This
+closure summary validates that all parts are approved for release.
+Total
+Amount:
+754.80
+Approved By:
+Sourcing Department:

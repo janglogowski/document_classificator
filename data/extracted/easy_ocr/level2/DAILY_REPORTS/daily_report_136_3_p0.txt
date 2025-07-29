@@ -1,0 +1,147 @@
+Production
+Report No
+PR-382
+Customer: BRAZIL
+Shift:
+(Evening}
+Data: 18-05-2025
+Equipment
+Task
+Worker
+Start
+End
+unraricn
+Comments
+Stage
+Tme
+Time
+@i
+MC-208
+Assemoly
+Agnieszka
+11.15
+12.11
+Ok
+Compleled
+Zielinska
+MC-209
+Drilling
+Mateusz
+06-C0
+07.24
+NIA
+Completed
+Jamzyna
+MC 205
+Cutting
+Agnieszka
+10.15
+10.44
+Recalibrated
+Delayed
+Ziellnska
+MC-205
+Assembly
+Bartosz
+11-15
+11.51
+Compleled
+Wawrzyniak
+MC- 202
+Cutting
+Przemyslaw
+14-15
+15.11
+Recalibrated
+Wasik
+progress
+MC-205
+Polishing
+Dawid
+06.15
+C6.36
+Completed
+Oszmilanczuk
+MC 202
+Cutting
+Jan Kowaiski
+12.15
+13.55
+Delay
+progress
+MC-208
+Cuiting
+Matovsz
+09-00
+10.54
+Delay
+Completed
+Jelzua
+MC-203
+Assenibly
+Bartosz
+09.00
+10*40
+#00
+Recalibraled
+Comipleted
+Wawrzyniak
+MC-204
+Polishing
+Bartosz
+14.30
+15.20
+Delayed
+Wawrzynlak
+MC-207
+Cutling
+Dawiid
+11;15
+12.11
+Recalibrated
+Delayed
+Oszmianczuk
+MC-205
+Assembly
+Magdalena
+06.30
+08.24
+114
+Recalibrated
+Completed
+Wnnkouska
+Record any adjustments
+shift schedules
+stafiing here. Note any unscnedulod stops in the downtime
+register . Refer t0 remaiks ior any rework or quality concems. All production targeis have been logged;
+deviations are highlighied above. Erisure shift-hardover notes include ary pending Issues_
+Archive tis
+output sumimary for end-of-day reporting:
+Product ID
+Planned
+Actual Qty
+Rejected
+Rejection
+Rework
+Uwagi
+Output
+Qty
+Count
+TX-B20v
+152
+129
+15.13%
+CE-905L
+202
+189
+44%
+Rework
+needed
+KP-JZOE
+105
+769
+MC 540X
+10.86",
+Approved by:_
+Prepared by;
+Log

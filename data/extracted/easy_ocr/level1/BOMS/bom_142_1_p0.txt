@@ -1,0 +1,70 @@
+BOM Report
+Customer ID: BELGIUM
+Coordinator: Peter Schmidt
+Date: 2023-02-02
+Product ID: BZ-660F
+Internal No;; 3036873
+Order Qty; 203
+Refer to this parts
+egister to plan raw-material
+purchasing:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+1.26
+pcs
+0.20
+1.60
+High
+Rivets
+grade
+Rubber
+2.52
+pcs
+0.55
+19,25
+Urgent
+Stopper
+Shaft
+0./8
+pcs
+8.,00
+64,00
+Eco
+50Omm
+compliant
+Rubber
+1.36
+pcs
+0.55
+20.35
+Certified
+Stopper
+batch
+Shait
+3.03
+8.00
+232.00
+ROHS
+soOmm
+compliant
+Amounts reflect current pricing_
+adjust as necessary for bulk orders_
+Ensure this materials summary is
+reconciled with the purchase order. Verify that all remark iterns meet the sourcing department' $
+standards
+Final amounts include handling and
+costs where applicable.
+Total Amount:
+337.20
+Approved Bv:_
+Sourcing Department:
+DcS
+ogistics

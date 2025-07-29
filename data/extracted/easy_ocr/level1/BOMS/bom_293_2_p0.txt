@@ -1,0 +1,52 @@
+Customer ID: NORWAY
+Prepared by: Peter Schmidt
+Product ID: RX-3102
+Internal No.: 8170587
+Refer tothis parts register t0 plan raw-material purchasing: All entries reflect the latest inventory and
+supplier rates
+Use this schedule of parts
+align with sourcing and stock levels_
+Below is the
+component listing and associated costs for the upcoming production batch: The parts manifest here
+is designed
+support procurement workflows_
+Ensure each component meets the
+specified quality
+standards
+Item
+Epoxy
+Shaft
+Packaging
+Sensor Clip
+Spring
+Sensor Clip
+Description
+Resin Kit
+s0Omm
+Box L
+Washer
+M1O
+Qty
+709
+UOM
+Unit Price
+0.95
+0.05
+0.95
+Amount
+5,175.70
+1520.00
+823.00
+427.50
+33.35
+125.40
+Remarks
+Switch
+Imported
+SKF brand
+Switch
+ROHS
+tested OK
+tested OK
+compliant
+TOTAL: 10,104.95

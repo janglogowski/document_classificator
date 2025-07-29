@@ -1,0 +1,88 @@
+Kowalski
+mpecior
+Inspection Dale
+2025-03.21
+This data extract is prepared for quality-control sign-off; The following data caplures key dimensions and any
+deviations Identified . This summary
+measurements supports metrology traceability: The inspection
+register belw highllghts any out-of-tolerance parts:
+Item Coda
+TR-ZOUB
+MC {4QX
+MR-160H
+MR-IGOH
+OP-660F
+MR-IGoH
+MC-S4OX
+Comporent
+Woodon
+Wooden
+Uvouden
+Battery
+Steel
+Wooden
+Rubber
+Palle"
+Pallel
+Pallel
+Pack
+Sheet 436
+Pailet
+Gasket
+pomm
+Dim;
+Lenglh
+Length
+Widin
+Knncr
+Height
+Length
+Height
+Diameler
+Target
+69.53
+25.20
+30.32
+48.35
+41.85
+Actual
+69,59
+25.16
+48.25
+4157
+9.92
+-On
+~0I0
+Dinf
++0,06
+Fass Fail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Pieasa address ary NOK items before proceeding to Ihe next production stage. Componerts failing
+Inspection requira irnmediate
+view and corrective action: Flag any components requiring
+~machining Or
+adjustmenl Overall inspection summary indicales acceptable quality levels.
+Instrurient Calibralion
+Ungtrument
+Serial No:
+Last Calibration Date_
+Micromelar
+54423
+2024-12-17
+Calper
+60349
+2025-02-04
+Fnd?
+2025-04-06
+CMM
+CMM
+78593
+2024-10-02
+631
+PARS
+Log

@@ -1,0 +1,59 @@
+Component Dimensional Check
+Inspeclor
+Jan Kowalski
+Inspection Date
+2025-03-15
+Entries Include both passifail markers and deviation magnitudes. Review recorded tolerances against
+engineering specifications_
+This section details the measured values
+tolerances, and status flags_
+Use this
+examination summary
+confirm component conformity.
+Article No:
+NU-440Z
+NU-440Z
+WD-180S
+RX 310Z
+Part Name
+0-Ring NBR 60mm
+Shait S0Omm
+Bearing 6202 ZZ
+Bearing 6202 ZZ
+Dim;
+Length
+Height
+Deplh
+Thickness
+Targot
+82.77
+10.07
+69.44
+Observed
+82.63
+10.25
+69.56
+Dclta
+0114
+40.18
++0.12
+PassiFall
+Refer t0 deviation column for any out-of-tolerance measurements
+Cross-verify measurement data with CAD
+nominal values. Confirm that pass rates meet the defined acceptance criteria
+Overall inspection summary
+indicates acceptable quality levels
+Instrument Calibration
+Instrument
+Serial
+Last
+Calibration Date
+Caliper
+16152
+2025-01-23
+Laser Scanner
+2024-11-20
+Caliper
+25946
+2024-11-10
+Log:

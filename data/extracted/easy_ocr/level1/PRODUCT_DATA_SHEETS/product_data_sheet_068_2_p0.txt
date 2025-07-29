@@ -1,0 +1,60 @@
+Product Overview
+Refer to this configuration summary for unit-designation mapping: Ensure all referenced standards are up to
+date:
+echnical overview supports the product-release checklist: The following information outlines
+pertormance characteristics and design data_
+All data entries are traceable
+design revision history. Check
+that :
+material specs align with supplier certifications. Use this spec sheet to validate assembly instructions
+Product ID:
+MR-160H
+Interal No:
+PR-951
+Prepared by: Peter Schmidt | Approved by: Peter Schmidt
+Date: 2024-07-22
+Configuration Type
+Hydraulic Power Unit
+Operating Pressure
+180 bar
+Fluid Flow
+60 Lmin
+Operating Voltage
+480
+60Hz
+Noise
+72 dBLA)
+Reservoir Capacity
+Type
+Gear Pump
+Mounting
+Skid base with vibration
+pads
+Protection Class
+P65
+AII specifications meet Ihe design requirements and industry standards
+Flag any missing parameters for
+urgent specification updates. Use this surmary
+cross-check wilh BOM and
+inspection reports_ Al
+summary comments have been recorded in the revision log: Overall configuration
+within defined design
+and safety margins
+This summary reilects the latest revision
+(he product data
+Material
+Construction:
+Subcomponent
+Raw Material
+Thermal Fuse
+Ceramic Oxide
+Cooling Gel Pack
+Silicone Rubber
+LED Light Strip
+Glass
+illed Nylon
+Capacitor 450V
+Aluminum 6061-16
+Tnis
+Leve
+Pump

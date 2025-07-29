@@ -1,0 +1,101 @@
+Production
+Roport _
+PR-190
+Custamer
+BELGIUM
+Supervisor:
+Dypartmeng:
+Painting
+Dale
+23-06-2024
+Shilt:
+Momingh
+Machine ID
+Operatlon
+Technician
+Start Tlme
+End Time
+Dunatan
+Remarks
+(min)
+MC-201
+Polishing
+Nadla Sautor
+13:15
+13.59
+Recalibrated
+MC 209
+Drilllng
+nnm Novak
+4'0u
+444
+MC-205
+Assombly
+Nadia Sautor
+1.30
+12,34
+N/A
+MC-204
+Cuttlng;
+Nadla Suuter
+T.yu
+13,23
+143
+Delay
+MC-206
+Cutting
+Dawid
+14.30
+15.24
+Oszmlanczuk
+MC-206
+Aysumaly
+Anna Nawak
+08;00
+09.31
+Recalibrated
+MC-205
+Drillng
+Duwid
+06.00
+07:08
+Oszmianczuk
+MC-209
+Polishing
+Jan Kowalski
+07.30
+08,21
+Delay
+Part ID
+plunnud
+Actual Qty
+Rojected Qty
+Rojection %
+Communt
+Output
+FT-730X
+104
+0,9590
+CE905L
+7098
+MR-160H
+9,6596
+Scrap
+conlimmed
+XD 710R
+231
+213
+7.7990
+XK-610U
+290
+5590
+Rework neoded
+Prepared by;
+Canos
+Gaicia
+Approved by;
+Jan Kowalski
+Log
+No -
+Laut
+Rousi

@@ -1,0 +1,55 @@
+Quality Inspection List
+Inspection
+Checklist Points
+Check
+Category
+Remarks
+Intensity
+Design Specs
+Product doesn [ power On
+Level
+nstnuctanmnanalc
+missingor
+Level Il
+damaged
+Color mismatch
+Needs review
+Rubbe
+Switch not
+working
+LEUE
+Needs revlew
+Shippingmark
+illegible =
+Level III
+missing
+Functionality test failed
+Needs review
+Battery not included
+Level II
+Missing safety labels
+Critical impact
+splinter
+sharp point On
+Level /
+Minor issue observed
+pfoduc
+ncorrectquantity Or
+Level |
+Needs review
+assorment
+Paint smearing or scratches
+evel III
+Needs review
+Package
+nat waled
+Critical impact
+completely
+Reference Standards:
+Standard
+Edition
+RoHS
+2015
+EC 61010
+4th Ed.
+Wooo

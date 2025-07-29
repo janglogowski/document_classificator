@@ -1,0 +1,31 @@
+Component Overview
+Document No: PR-543
+Product ID: BZ-660F
+Date: 2025-03-01
+Unit Type
+Cooling Circulation
+Design Pressure
+210 bar
+Flow Rate
+75 Umin
+Supply Voltage
+230 V !50 Hz
+Charging Time
+Oil Type
+HLP 46
+Noise Level
+dBIA)
+Dimensions (LxWxH
+1200 X700X 1100 mn
+Control Valve
+Proponional 4412
+Frame Materal
+Powder-coated Stee_
+Total Weight
+250 kg
+Pump
+Piston Purp
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+System
+Type

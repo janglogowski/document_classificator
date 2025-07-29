@@ -1,0 +1,107 @@
+Shift Summary
+Report No :
+PR-128
+Customer
+FINLAND
+Supervisor:
+Lauma
+Department:
+Maintenance
+Shift:
+(Evening
+02-06-2024
+Reviewr the operational data to track compliance with daily goals. Entries include all startstop times and
+operator
+ignments. The line-output register captures all production events for the day- The summary below
+lists each station s actua
+versus planned output-
+Equipment
+Process
+Operator
+From
+Duration
+Comments
+Temp
+Energy
+(min)
+(KWh)
+HC-205
+Cutting
+Kowalski
+14.00
+15.24
+55.4
+MC-206
+Cutting
+Agnieszka
+07.00
+07.28
+Recalibrated
+73.5
+2.34
+Zielinska
+HC 207
+Assembly
+Nadia Sauter
+J0.00
+1ia9
+Delay
+58.8
+2.44
+MC-207
+Assembly
+Magdalena
+09.00
+09.56
+Delay
+63.8
+1.48
+Witkow ska
+HC-205
+Drilling
+Magdalena
+07.30
+08.14
+Delay
+74.7
+2.09
+Witkowska
+MC-201
+Polishing
+Nadia Sauter
+08:15
+08.41
+Delay
+63.5
+1.39
+HC-207
+Assembly
+Wiktor
+09.30
+11:17
+NA
+67.6
+284
+Kopczyiski
+MC-201
+Assembly
+Bartosz
+06.00
+06.32
+Recalibrated
+75.7
+2.03
+Wawrzyniak
+MC-207
+Polishing
+Dawid
+08:15
+03.23
+62.1
+2.92
+Oszmianczuk
+Prepared DY:
+Jan Kowalski
+Aoroved Dic
+Carlos Garcia
+Rossi

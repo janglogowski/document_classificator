@@ -1,0 +1,127 @@
+Dimensional
+Inspection performed by Jan Kowalski on 2025-05-30.
+Revlew recorded tolerantes against engineering specifications:
+Tne inspection register beldw
+highlights any out-of:
+lerance parts, This summary of measurements supports metrology traceability This section details the measured
+values; tolerances; and status flags. Below are the recorded
+measurements compared against nominal tolerances
+This dataextract
+prepared for quality-control sign-off.
+Environmenta
+Conditions: Temperature
+Humidity: 56 %
+Code
+Component
+Nomina
+Actual
+Status (V(X)
+FT-730X
+Tnickness
+64.86
+64.94
+40.08
+PASS
+BZ 660F
+Plastic Rlvets
+mcr
+80.96
+4093
+003
+PASS
+Diameter
+KP-3Z0E
+Steei
+Sheet
+width
+47.31
+47.14
+0.17
+PASS
+A36
+GH-7701
+Rubber
+Length
+75.47
+75.45
+0.02
+PASS
+Gasket
+SL-430M
+Inner
+81.88
+82.03
++0.15
+PASS
+Wiameter
+QN-7ZOH
+Graphite Pad
+Depth
+96,.91
++0.03
+PASS
+DX-Z77T
+Wacden
+Depth
+56.48
+56.68
++0.20
+PASS
+Pallet
+MC-SA0X
+Hex Bolts
+Height
+43.80
+43.69
+0.11
+PASS
+M1?
+JD-700W
+Wicth
+80.
+80.25
+0.12
+PASS
+RM-86ON
+Waaden
+Wicth
+35.44
+35.56
++0.12
+PASS
+Pallet
+CN-150C
+Plastic Rivets
+Tnickness
+87.39
+87.52
++0.13
+PASS
+MC- 540X
+plastc Kivels
+Helght
+191
+19.35
++016
+PAss
+LK 8908
+Shaft S00mm
+52.86
++0.0O
+PASS
+RE 850C
+Steel Sheet
+wicth
+75.31
+75.45
++0.14
+PASS
+A36
+Log
+Mtcm
+Din
+Hingel
+G0mm
+Hinge
+Hingel
+widln

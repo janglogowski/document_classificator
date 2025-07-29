@@ -1,0 +1,75 @@
+Product Overview
+Pralecl;
+82-6G0F
+Report No::
+PR-208
+Prepared Bv:
+Peter Schmidt
+Appraved By:
+Anna Nawak
+Locatian; Plant IC
+Date; 2025-04-04
+Unit Type
+Hydraulic Power Unit
+Rated Pressure
+300 bar
+Flow Rate
+48 L{mnin
+Supply Voltage
+A00
+50 Hz
+Mounting
+Rack framne
+Iyp
+Gear
+Chareing Time
+Working
+Temp
+Range
+10"€
+50 'C
+Frame Materlal
+Seninicss Sc
+Hnamc
+Battery Capaclty
+Oil Type
+HLP 46
+Reservoir Capacity
+160 [
+Nolse Level
+68 dBLAI
+Serulce Interval
+IO0
+Protection Class
+Motor Power
+Material of Construction:
+Knem
+Raw Materia
+Heat Sink ALU
+huminum
+6061-T6
+Support Foot Stee
+Stainiess Ste
+304
+Mnerma
+FuSL
+Ceramic Oxide
+Gaskesuc
+NitrIle Rubber INBRL
+LED Lieht Strip
+Glass-Filled Nylon
+Cable Tie Pack (100)
+Nitrie Rubber INBR)
+Graphite
+Graphite Pad
+Steel sheet 436
+Carban Steel 436
+Cooling Gel Pack
+Scong Rubber
+balterPdck
+Lthlum Ion CellPack
+Nut MG
+inc
+lated Stce
+Pump
+Pump

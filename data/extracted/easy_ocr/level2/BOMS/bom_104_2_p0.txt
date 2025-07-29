@@ -1,0 +1,48 @@
+Customer ID: CANADA
+Prepared by: Carlos Garcla
+Product ID: BZ-660F
+Internal No;: 2461594
+All entrles rellect the Intest Inventorv und suppller rntes, AlI Ilne Item costs Ore cutrent n per vondor
+quotes, Use ths schedule ot parts t0 allgn wlth sourcIng and stock Ievels The (ollowing table summarlzes
+the materlals and quontltles needed Ior the current project, The parts munlfest here
+designed t0
+support procurement workllows Thls extrnct shows the billof components and total prolected spend
+Itei
+Fuse SA
+Wooden
+Fpoxy Hesin
+Rubber
+Fpoxv Rasin
+Fuse SA
+Descuptlon
+Palllet
+stopper
+Ql
+747
+179
+8OJ
+452
+694
+442
+UOM
+pc'
+pC:
+pca
+pcs
+pc:
+Unlt Prlce
+1500
+0,J0
+Amount
+215.10
+685,00
+,861,90
+521,60
+066 20
+192,G0
+Romatks
+Umported"
+Utrcnt
+ISO vcIled
+SKE brand
+TOTAL: 14,484,40

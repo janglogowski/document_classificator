@@ -1,0 +1,107 @@
+Product Overview
+Project:
+MR-160H
+Report No:
+2098033
+Prepared
+Jan Kowalski
+Approved By:
+Carlos Garcia
+Location: Plant 34
+Date: 2023-08-11
+Unit Type
+Cooling Circulation
+Operating Pressure
+210
+System
+Rate
+30 Lmin
+Supply
+400 V !S0Hz
+Charging
+Wime
+Total Weight
+230
+Frame Materal
+Powder-coated Steel
+Protection Class
+P6?
+Battery Capacity
+5 An
+Mounting
+Skid base with vibration
+pads
+Noise Level
+72 dB(A)
+Cooling
+Af-cooled Oil adator
+Motor Power
+Working Temp Range
+58C
+Oil Type
+HLP 46
+Control Valve
+Manual
+Override 3/2
+Dimensions (LxWxH)
+1000
+650 x 1000 mm
+Pump Type
+Gear Pump
+Service Interval
+12 months
+Filtration
+10 pm return, 25 m
+suction
+Reservoir Capacity
+160
+Refer
+parameter table for operating ranges and
+Olerances
+Overa
+configuration
+within defined design
+and safety margins
+This closure note indicates the data sheet
+ready for release. Archive this summary for
+future design-change management_
+Use this summany
+cross-check with BOM and inspection reports. AlI
+summary corments have been recorded In lhe revision log:
+Material 0f Construction:
+Label
+Composition
+Digital Display Unit
+ABS Plastic
+Pressure Valve
+Brass CZ12t
+Bearing 6202
+Stainless Steel
+Battery
+Pack
+Lithium-
+Pacz
+Power Switch
+Poicarconaie
+Copper
+Cooling Geb
+Pack
+Silicone Rubber
+Stainless
+304
+Tape Roll
+Tellon
+Light
+lass-Filled
+Vvlon
+Heat Sink ALU
+Limminum
+6061-T6
+Rubbor Gaskot BOmm
+Nitrile Rubber (NBR
+Flow 
+Voltage
+Hingo
+Tellon
+Tape
+SW2

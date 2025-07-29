@@ -1,0 +1,68 @@
+BILL OF MATERIAL
+Please review! the itemized Iist of parts and material specificalions before procurement: AlI line-
+item costs are current as per vendor quotes: Review Ihe materials tally for compliance with
+budget allowances_
+This summary lists every item required, with per-unit pricing details. This
+section outlines the parts, unit prices and total amounts for assembly.
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Cable Tie
+pCS
+For export
+Pack (100)
+Digitab
+pcs
+15.00
+165.00
+Display
+alignment
+Unit
+adjusted
+Ceramic
+pcs
+2.10
+29.40
+SKF brand
+Disc 8Omm
+Fuse
+pCS
+8.40
+Gasket
+pCS
+12.50
+Sheet 44
+Fuse 54
+pCS
+0.30
+270
+SKF brand
+Ceramic
+pcs
+2.10
+107.10
+Disc 80mm
+Power
+pcs
+1.20
+55.20
+Switch
+Switch
+tested OK
+AlI listed components have been verified for availability and compliance. This closure summary
+validates that all parts are approved for release.
+Customer ID: BRAZIL
+Coordinator: Jan Kowalski
+Date; 2024-12-20
+Product ID: MX-450L
+Interna
+No : 5551770
+Order Qty: 154
+Total
+Amount:
+382.20
+Hinge

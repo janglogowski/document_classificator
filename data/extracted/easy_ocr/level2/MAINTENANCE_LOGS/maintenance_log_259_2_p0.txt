@@ -1,0 +1,115 @@
+This lCg records all maintenance
+actmiteg denormeo
+the equipment_
+All technician comments are recorded for
+mainterance frend
+analysis. This soction captures equipment status and any maintonance observations
+Entrios include work
+@dCr$
+(ecnnicudn assijnmtenis
+uar Cnanpe;
+Spare Parts Used:
+Part Name
+PartNo
+Qty Used
+RAtten
+pac*
+P-6226
+Sealing Gasket
+P-1251
+MachineID
+Muchine
+S4vice
+Technician
+Downtime
+Previous
+Aral
+Notus
+Type
+Servlce
+MC 774
+Plastn
+Pievenive
+Carlos
+2022-12417
+Calinralion
+Cutter
+check
+MC-283
+Lathe
+Cotreciive
+Carlos
+2026-02-02
+Tightened
+Gurci
+(oujc
+JU
+MC-246
+CNC Milling
+Coticciiv
+Carlos
+20je-12-21
+Calinmation
+Machine
+Garcia
+chcck
+MC-201
+Paint Rootr
+Praventive
+ma
+Rossi
+2o2a-0s-f
+Ki-lon
+pallury Dack
+Rericed
+MC-256
+Plasma
+Preventive
+Canos
+ZUZJ-Uj-27
+Wvooder
+Cuttcc
+Ganra-ia
+pallet
+Checzed.
+MC-242
+Pla*M;
+Insocction
+Paun
+2024-05-08
+AliEnment
+Cuuer
+Schmidi
+alninges
+aqiusteo
+MC-?44
+shecmon
+2024 04-25
+Calbration
+Kowalski
+check OK
+MC-275
+PuckdpinA
+Preventive
+Lulra Rossi
+2024-05-22
+Ro Issug "
+touno
+MC-225
+Hilling
+Preventive
+2u25-01-2u
+No issuc $
+Michinu
+Kovilleki
+found
+Approved bX:
+Anne
+Vowak
+Serviced DYE
+Luur Ross
+L-lon
+Galci"
+Paint
+Bootn
+CMc

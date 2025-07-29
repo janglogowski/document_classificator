@@ -1,0 +1,87 @@
+Inspection Results Summary
+inspecior
+Carlos Garcia
+Inspection Date
+2024 08-23
+Article No.
+MR-
+160H
+SL-430M
+QN-770H
+KP-320E
+TX-BZOV
+QP-GSQF
+FT-730X
+Component
+0-Ring
+Woaden
+Shaft
+Shaft
+Hex Bolts
+Wacnen
+Shalt
+NBR
+Pallel
+S0Omtim
+50Omnm
+M12
+Pallel
+s0Omm
+60mm
+Dim;
+Anner
+Innai
+Widlh
+Wme
+Thickness
+Hole
+Lengih
+Diameter
+Diameter
+Diameter
+Targel
+70.28
+79.90
+71.75
+27.41
+64.93
+72.13
+92.88
+Observed
+70.15
+79-98
+7-Js
+27.35
+64.85
+9295
+Delta
+L013
++0,08
+-0.06
+-0.08
+-0,.03
+PassiFall
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Overall inspection summary indicates acceptable quality levels , This assessment reflects the latest
+metrology results _
+Record any measurement anomalies for
+follow-up analysis-
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Laser Scanner
+4562
+2024-09-05
+Mlicrometer
+61491
+2024-08-27
+Caliper
+562
+2025-01-28

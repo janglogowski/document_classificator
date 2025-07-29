@@ -1,0 +1,54 @@
+Compliance
+Quality Check Items
+Sampling
+Defect Class
+Comments
+Level
+Item Specs
+Missing distributor information
+Rubbei
+{exlure
+glossiness
+Needs reviev"
+mismatcn
+Paint smearing or scratches
+Level E
+Minor Issueabserved
+Not assemnbled as per drawing
+Level
+Minorissue
+Oservem
+Functionality test failed
+LGvCL
+Needs revlev'
+Hinges
+loose
+Needs reviev'
+Loose parts inside
+packaging
+Levei
+Issue bsenued
+Rubber Switch not working
+Lavel
+productddesn'
+Dawar Dn
+Lavel
+Colar Msmalcn
+Unsucton maNaI
+rissing
+LevelIl
+Needs reviev"
+damaged
+Visual defect on housing
+Wrong product size
+Level
+Needs reviev"
+Reference Standards:
+Standard
+Edition
+Directive
+2015
+IEC 61010
+4th Ed,
+Log
+Kunor

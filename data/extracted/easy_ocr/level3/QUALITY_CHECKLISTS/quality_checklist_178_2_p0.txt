@@ -1,0 +1,61 @@
+Quality Verification
+Entries include both visual and functional inspection _
+productreview. This summary
+items. Below are the items
+be verified during the final
+to AQL and safety =
+schivorts shis produciion-release Quality gate Use this list to canfirmadhererace
+standards. Archive this list in the qualit t-
+point and mark tne sampling resulte,
+'management systemn
+revicw each checklist
+Product ID
+CE 905L
+tem
+Pescription
+Customor ID
+FINLAND
+Cable Tie Pack (TCOJ
+Review Points
+Inspection
+Depth
+Observations
+Utem Specs
+Exposedhail wth sharp point
+Level |
+Scto 5 lbose
+Missina
+Minor
+Isque
+Level IIn
+observed
+included
+Criticall mpact
+Leve
+Missing distributar information
+LeVe
+Minor isque observed
+ncurre  
+nrientation
+Leve
+Critica
+Umpact
+Dead Or live insectin
+packeging_
+Level II
+Wrong product size
+Critical impact
+Level |
+Rubber Switch not working
+Level II
+Critical Impact
+Wconec
+quantity
+assortment
+Level III
+Critical impaot
+Supervised by:
+Date;
+Please 5
+Catagory
+Bbttery[

@@ -1,0 +1,57 @@
+Inspection Results Summary
+inspecior
+Peter Schmid
+Inspection Date
+2025 02-13
+Review recorded tolerances against engineering specifications .
+Refer t0 the dirnensional log for all
+component size readings. Below are the recorded measurements compared against nominal tolerances_
+The inspection register below highlights any out-of-tolerance parts. Please review the inspection results for
+each component listed below. This report presents the dimensional measurements and inspection results_
+Article No.
+AL-1450
+ON-770H
+TR-2OOB
+LK-89OB
+Component
+Hex Bolts M12
+Bearing 6202 72
+Bearing 6202 72
+Rina
+NBR 60mm
+Mcasurement
+Height
+Thickness_
+Depth
+Target
+51.59
+15.23
+22.85
+28.84
+Observed
+51.-44
+15.07
+22.68
+28.89
+Diff
+Pass(Fail
+Archive this inspection summary for regulatory documentation;
+Please address any NOK items before
+proceeding to the next production stage
+components requiring re-machining or adjustment:
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+CMM
+67358
+2024-10-31
+Caliper
+67762
+2025-05-31
+65121
+2024-12-10
+Wdm
+Flag
+Log:
+Calipot

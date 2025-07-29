@@ -1,0 +1,109 @@
+BOM Report
+Coordinator: Anna Nowak
+Date_2024-07-10
+Customer ID: EINLAND
+Order Qty: 490
+Product ID: AL-115Q
+Intemal No : 3432162
+uom
+Rate
+Amount
+Remarks
+Item
+Consumption
+Extra
+aty
+Description
+0.15
+6.45
+Imported
+2.39
+200
+pCs
+Spacer
+Zmin
+DCS
+5,60
+128.80
+Eco
+Venlilalion
+2.05
+complant
+Grid
+0%0
+pCS
+25,00
+350.00
+Lifion
+Battery
+2.19
+battery
+Pack
+Installed
+10%0
+0.35
+18.55
+Imported
+Stainless
+3.37
+Bolt M8
+0.05
+0.75
+Certified
+Spring
+2.16
+1046
+pCS
+palch
+WNasner
+M1O
+pCS
+25.00
+75.QU
+Switch
+Ballery
+2.91
+59/0
+tested
+Pack
+OK
+34.20
+For
+Prolective
+3.05
+500
+expor
+Sleeve
+50mm
+pCS
+12.00
+288,00
+Urgent
+1.45
+24/0
+Control
+Pane
+Mount
+3.20
+80.00
+Eco
+Insulation
+0.65
+0%0
+compllant
+Foam Pad
+pCS
+0.55
+18,15
+Certifica
+Rubber
+1.85
+109
+batch
+Stopper
+999.90
+Total Amount:
+Sourcing Department:_
+Approved By:
+CCS
+FCS

@@ -1,0 +1,85 @@
+BILL OF MATERIAL
+Customer ID: SWEDEN
+Coordinator: Anna Nowak
+Date:
+2022-12-28
+Product ID: VF-220D
+Intera
+No : 7318286
+Order Qly: 202
+This section outlines the parts
+unit prices and tota
+amounts for assembly. Use this schedule of
+parts to align with sourcing and stock levels
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Spacer
+1.39
+10%
+pCS
+0.15
+2.25
+Eco
+Zmm
+compliant
+Spacer
+2.13
+10%
+pCS
+0.15
+5.10
+Eco
+2mm
+compliant
+Digital
+2.33
+pCS
+15.00
+390.00
+High
+Displax Unit
+grade
+Set
+0.8
+0%
+pCS
+2.50
+100.00
+For
+export
+Copper
+1.44
+0%
+0.60
+29.40
+Urgent
+Wire 3mm
+Spring
+2.16
+2"/
+pCS
+0.05
+0.10
+Washer
+M1o
+Fuse 5A
+0.47
+10%
+pCS
+0.30
+9.00
+Cross-verify totals with the ERP system for consistency:
+Total
+Amount:
+535.85
+Approved By:
+Sourcing Department:
+Hinge

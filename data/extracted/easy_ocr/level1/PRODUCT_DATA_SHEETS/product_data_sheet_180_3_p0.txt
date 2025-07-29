@@ -1,0 +1,61 @@
+Product Overview
+Document No:: 9835804
+Product ID: HF-3904
+2025-05-03
+Unit Type
+Cooling Circulation
+Operating Pressure
+300 bar
+Svstem
+Throughput
+30 Lmin
+Supply Voltage
+60 Hz
+Frame
+Materia
+powder-coateo Stee
+Charging Time
+Reservoir Capacity
+160
+Noise Leve
+68 dBIAI
+Oil Type
+HLP 46
+Component Materials Overview:
+Lane
+Composition
+Specification
+Cable Tie Pack (100)
+Nitrile Rubber (NBRI
+Heat-resistant
+Battery Pack
+Lithium-lon Cel
+Pack
+UL-listed
+Hex
+M1z
+Zinc-Plated Stee
+IP6Z rated
+Stainless Stecl J04
+AniicorrosivC
+Hejisins
+Aluminum 6061-T6
+DIN EN 10025
+Graphite Pad
+Graphite Pad
+Anticorrosive
+Tetlon Tape Ro
+Tetior
+ISO 2768
+NBR
+Nitrile Rubber INBR)
+Electrica
+erade
+Prepared by: Anna Nowak
+Approved by: Laura Rossi
+Date;
+Bolts
+Hinee
+Tape
+Rinb
+eonim

@@ -1,0 +1,61 @@
+Product Data Sheet
+Document No_
+PR-587
+Product ID: AZ 300T
+Date: 2024-10-05
+Model Type
+Cooling Circulation
+Rafecepressuro
+300 bar
+System
+Fluid Flow
+75 Llmin
+Operating Voltage_
+400
+50Hz
+Battery Capacity
+5 Ah
+Mounting
+Skid base with vibration
+Charging Time
+Moto
+power
+114W
+Reservoir
+Capacity
+160
+Working Temp Range
+45-C
+Frame Material
+Powder-gatec
+Steel
+Pump
+Type
+Pump
+Component Materials Overview:
+Label
+Raw Material
+Specilicatlon
+Connector ZP
+Giass-Fled
+Nlan
+CaSt
+rolerance
+Rubber Gaske
+oumm
+Nitrile Rubber (NBRL
+ISO 2768
+Support Foot Stee
+Stainless Steel 304
+Heat-resistant
+Graphite Pad
+Graphite Pad
+certitied
+Pressure Valve
+Brass (Z121
+IP6? rated
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+Pads
+5Cto
+Plston

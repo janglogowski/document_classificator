@@ -1,0 +1,38 @@
+Customer ID: TURKEY
+Prepared by: Jan Kowalski
+Product ID: MS-6OOP
+Interna
+No:: 4681527
+This document provides
+detailed breakdown of all components required for the assembly process. AII
+entries reflect the latest inventory and supplier rates This extract shows the bill of components and total
+projected spend: This summary lists
+item required, with
+unit pricing details
+Ensure each
+component meets the specified quality standards, All line-item costs are current as per vendor quotes:
+Item Description
+Woaden Pallet
+Protective Sleeve
+Steel Sheet 436
+5Omm
+Qty
+842
+285
+361
+UOM
+pcs
+Unit Price
+15.00
+Amount
+12,630.00
+513.00
+805.00
+Remarks
+ISO-verified
+SO-verified
+batter installed
+TOTAL: 14,948.00
+every
+per -
+L-lon

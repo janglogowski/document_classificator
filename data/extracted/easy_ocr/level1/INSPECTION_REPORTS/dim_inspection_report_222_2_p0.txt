@@ -1,0 +1,70 @@
+Inspector
+Lals
+Nowak
+Inspechon Date
+2023-08-15
+Check that all dimensions comply with ISO and company standards. The inspection register below highlights
+any out-of-tolerance parts- Ensure measurement methods align with calibration standards
+Product Ref
+XK-SJOU
+NE-2454
+XK-S1OU
+BZ-S60F
+I-9OOX
+Part Name
+Steel Sheet
+Hex Bolts M12
+0-Ring NBR
+Bearing 6202
+Plastic Rivets
+A36
+60mm
+Acaeurement
+Inner Diameter
+Height
+Hole
+Reroht
+Widin
+Nominal
+92.39
+30.65
+23.60
+28.55
+1554
+Actua
+92.19
+30.77
+23.64
+28.68
+15.59
+Delta
+-020
++0.12
+2004
+20.13
+T005
+PassFFail
+Inspection notes have been logged for traceability
+Overall inspection summary indicates acceptable quality
+levels
+Record any measurement anomalies for follow-up analysis_
+Confimm that pass rates meet tne defined
+acceptance cteria
+Instrument Calibration Log:
+Instrument
+Seria
+No;
+Last Calibration Date
+CMM
+9250
+2025-02-06_
+Micrometer
+23104
+2025-03-03
+CMM
+24006_
+2024-10-27
+Lasei
+Scanner
+57075
+2024-11-17

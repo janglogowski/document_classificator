@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-07-28T12:37:11.132467",
+  "level": "level1",
+  "n_train": 412,
+  "n_val": 104,
+  "final_val_accuracy": 1.0,
+  "classification_report": {
+    "doc": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 52.0
+    },
+    "tech_drw": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 52.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 104.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 104.0
+    }
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.19479483084807409,
+      "train_acc": 0.9344660194174758,
+      "val_loss": 0.017263754485891417,
+      "val_acc": 1.0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.022636034084004757,
+      "train_acc": 0.9927184466019418,
+      "val_loss": 0.002828046930237458,
+      "val_acc": 1.0
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.007412312631450087,
+      "train_acc": 0.9975728155339806,
+      "val_loss": 0.0026307973670415007,
+      "val_acc": 1.0
+    }
+  ],
+  "samples_per_subfolder": 43
+}

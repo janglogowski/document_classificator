@@ -1,0 +1,113 @@
+QC Checklist
+#7657922
+Date: 17.07.2025
+Product
+LK-890B
+Customer
+TURKEY
+Item
+description
+Fuse 54
+Use this list
+contirm adnerence
+AQL and satety standaros
+This clasure summary indicates compliance with
+inspection criteria: All checklist entries are timestamped for traceability. Entries include both visual and functional
+inspection items
+Use this extract
+coordinate sign-off with the Q4 manager;
+ease revew Pach
+checklist point and
+mark the sampling results
+Review Points
+Check
+Category
+Observations
+Intensity
+Component Criteria
+Critical
+Major
+Minor
+OnHold
+Dead
+JvC Insect
+Minor Issue observed
+packapinp
+Battery not included
+Levei
+Needs reviewv
+Connectornot working
+Leve
+Lqiam
+Mismatcn
+Needs reviewv
+Wronp product size
+pvE
+Critic?
+Impaci
+defect on housing
+Level
+Mlino
+Issue absenved
+Paint smearing
+Scraiches
+Needs
+#vet
+Screws
+oose
+missing
+Levei
+Miino
+Issue oosenve
+Dustdebris inside packaging
+Levei
+Critica
+Mnoed
+Hinges loose
+Impact
+Missing satety labels
+Leveli
+Critica
+impaci
+Packaging =
+does nat match
+Level Il
+Critical impact
+signed sample
+Sharp edges on plastic
+Level Il
+comnonente
+Carton
+damaged
+Level |
+Minor issue ahserved
+markings incorrect
+Missing distributor
+Level Il
+Minor
+observed
+Tntormation
+Shipping mark is illegible
+Critical impact
+Mus sinp
+AQL Level
+Critical
+aior
+Minor
+Default
+Customer specific
+Please ensure supervised sign-aff on any non-confarming points Archive this summary in the audit-readiness folder;
+This final note
+contirms the checklist
+complete and approved
+Use this closure report t0 update the
+quality KPI
+dashboard_
+Confirm that all samipling results
+within acceptable limits- All critical
+and major Inspection points have
+been addtessed
+Inspection summary is filed for regulatary compliance;
+Viqua
+Cnilca
+iSssuc

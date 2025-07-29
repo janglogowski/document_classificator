@@ -1,0 +1,54 @@
+Inspection Results Summary
+Inspector
+Laura Rossi
+Inspection Date
+2024-01-20
+Anticle No:
+Fk-730X
+NE;2454
+SB-140D
+HF-3904
+ZR-ZO5R
+Pant Name
+Battery Rack
+Hex Bolts M12
+Graphite Rad
+Hinge_Set
+Battery Pack
+Measurement
+Depih
+Hole
+Hole
+Hole
+Hole
+Target
+7.30
+94.09
+44.85
+83.93
+80.01
+Actual
+94.02
+83.83
+79 48
+Diff
+10.14
+70.05
+Pass Faill
+Refer to deviation column for any out-of-tolerance measurements. Review failed items against the
+corrective-action register- Overall inspection summary indicates acceptable quality levels Please address
+any NOK items before proceeding
+the next production
+Instrument Calibration
+Instrument
+Serial No
+Last
+Calibration Date_
+CMM
+19883
+2024-08-19
+Micrometer
+22794
+2024-10-19
+stage.
+Log:

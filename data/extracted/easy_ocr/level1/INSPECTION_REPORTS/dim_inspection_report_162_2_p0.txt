@@ -1,0 +1,56 @@
+Dimensional
+inspecior
+Laura Rossi
+Inspection Date
+2025 01-15
+This
+eport presents Ihe dimiensional measurements and inspeclion resulls. All measured values are
+timestamped for audit purposes_
+Refer to the dimensional log for all component size readings_
+Check that all
+dimensions comply with ISO and company standards, Entries include both pass fail markers and deviation
+magnitudes_
+Review recorded tolerances against engineering specifications_
+Product Ref
+RM-86ON
+PL-6012
+MR-160H
+NE-245A
+Part Name
+patter
+pacr
+Wcddem
+pallet
+Bearng 6202 72
+Battery Pack
+Dim
+Thickness
+Depth
+Length
+Inner Diameter
+Nominal
+50.52
+65.22
+13.90
+48.41
+Actua
+48.24
+Delta
+Pass(Fail
+Record any measurement anomalies for follow-up analysis
+Refer
+deviation column for any out-of-
+tolerance measurements
+Confirm that pass rates meet the defined acceptance criteria:
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+CMM
+'6302
+2024-08-05
+Caliper
+25171
+2025-02-18
+Log
+Log:

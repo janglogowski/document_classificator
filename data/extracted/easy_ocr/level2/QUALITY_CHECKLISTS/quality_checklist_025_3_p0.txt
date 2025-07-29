@@ -1,0 +1,57 @@
+Inspection Register
+Review Points
+Sample Tier
+Defect Class
+comments
+Item specs
+Hold
+Missing safety labels
+eve
+Loose parts inside
+Packaging
+Level
+Packaging uoes not match signed
+Critical impact
+sample
+Waod splinter
+sharp paint
+Level E
+Critical impact
+proquct
+Not assembled 35 per drawing
+Level
+Critical impact
+MissIng logo
+warning label
+level
+Minorissuc Ooseneo
+Deac
+OnVC
+nsect
+puckdpine
+LCVCi
+Neeos rCvicw
+@ustadeons inside
+packaging
+Critical impact
+Connecto
+not wotking
+Leve
+Needs review'
+Batterynot included
+Leve
+Minor issue observed
+Functionality test
+Screws
+0o5e
+missing
+Leve
+Minor issue Dbserved
+Reterence Standams:
+Stangand
+coan
+CE Directive
+2011
+MEC6lo1
+3rd Ed
+Hailed

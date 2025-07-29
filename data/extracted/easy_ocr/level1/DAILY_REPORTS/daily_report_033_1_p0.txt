@@ -1,0 +1,73 @@
+Shift Summary
+Repont No::
+PR-391
+Custorner:
+FRANCE
+Supervisor:
+Laura Kosse
+Department:
+Packaging
+Date
+23-08-2024
+Shift:
+(Night)
+Machine
+Process
+Operator
+Begin
+Time
+Note
+MC 204
+Drilling
+Kowalski
+07.30
+0Sjjo
+NIA
+MC 207
+Cutting
+Djwd
+10.15
+10.59
+Osmiancuy
+MC-203
+Drilling
+Mateusz
+13.15
+13.59
+Jalumo
+MC 207
+Cutting_
+Anna Nowk
+07.00
+0720
+MC-202
+Cutting
+Anna Nowak
+08.15
+10,09
+Recalibrated
+Item
+Planned Qty
+Actua
+Qty
+Rejected Qty
+Comments
+AZ-300T
+247
+15.127
+Scrap confirmed
+CN-150C
+9-02yu
+Scrap contirmeo
+PI-515
+2470
+DX-7771
+255
+90%0
+Prepared by:
+Jan Kowalski
+4pprovec
+Carlos
+garcia
+Tota
+Scrap

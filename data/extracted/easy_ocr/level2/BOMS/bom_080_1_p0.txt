@@ -1,0 +1,65 @@
+COMPONENT BREAKDOWN
+Customer
+NORWAY
+Coordinator: Anna Nowak
+Date
+2024-07-31
+Product ID: TR-ZOOB
+Intera
+4405293
+Oroe
+Qty: 270
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Description
+Amount
+Remarks
+Power
+2.55
+Switch
+1.20
+62.40
+Plastic
+0,65
+0.20
+8.80
+Eco
+Rivets
+Terrinal
+0.52
+compliant
+Block AP
+pCs
+3.40
+163.20
+Certified
+Shaft
+batch
+8.00
+176.00
+Certified
+S0Omm
+Plastic
+1.02
+batch
+Rivets
+pcs
+0.20
+7,60
+Li-Ion
+battery
+installed
+The cost subtotal supports financial forecasting for the next cycle: This final review
+are ready for requisition: Ensure
+confirms that all items
+this materials summary
+reconciled with the purchase order. Totals
+include estimated over-consumption allowances and current unit rates.
+Total Amount:
+413 0n
+Approved By:
+Sourcing Department:

@@ -1,0 +1,100 @@
+Shift Summary
+Report No:: PR-926
+Customer
+CANADA
+Shift:
+(Morning)
+Date: 13-09-2024
+Mlachine
+Operation
+Technician
+Start Time
+Finish
+Total
+Remarks
+Condition
+duration
+MC-201
+Welding
+Agnieszka
+12.30
+14.10
+100
+Completed
+Zielinska
+MC-204
+Cutting
+Przemystaw
+06.30
+07.51
+Daia"
+Delayed
+Wasik
+MC-205
+Welding
+Magdalena
+08.00
+09.59
+119
+Delayed
+Witkowska
+MC-208
+Drilling
+Mateusz
+08.30
+09.31
+NA
+Completed
+Jarzyna
+MC-208
+Drilling
+12.00
+14.00
+120
+NA
+Delayed
+Kowalski
+MC 208
+Assembly
+Wiktor
+12.30
+13.01
+Recalibrated
+Delayed
+Kopczyriski
+Refer -
+remarks for any
+@NOIk
+quality =
+Enncens
+The performance reca
+supports tne morning briefing
+agenda; Confirmthat scrap percentages align with quality benchmarks
+Archive this output summary for
+of-day
+porting: Ensure shift-handover notes include any pending issues
+Product ID
+Target Qty
+Actual Qty
+Defect Qty
+Fallure
+Rework Qty
+Remarks
+CN 1S0C
+241
+229
+9800
+Rewon
+needed
+NU A40Z
+284
+254
+10.5690
+CE-905L
+233
+5.1500
+Rewan
+needed
+Approved by:
+Prepared Dy:
+end-

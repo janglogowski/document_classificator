@@ -1,0 +1,54 @@
+Measurement Summary Sheet
+In_pector
+Ldula Ros;
+Inspcctiun Dalc
+2u2s UZIL
+This report presents the dimensional measurements and inspection results. The inspection register belov' highlights
+any out-of tolerance parts Use this results summary
+trigger any corrective actions
+Aricie No
+AZ-300T
+Ni-440/
+CN-150C
+@k- /Uh
+XK-61QU
+Component
+Hex Bolts
+Hinge Set
+Graphite Pad
+Wooden Pallet
+Hex Bolts M12
+Neasurement
+Wiath
+Heighl
+Hole
+Lenetm
+Widef
+arket
+9,55
+7U67
+76.33
+47.73
+JL43
+Observed
+76.58
+76.34
+52.26
+Deltz
+~U-09
+TO.0I
+All dimensions within tolerance have been marked
+Inspection notes have been logged for traceability- Review
+failed items against the corrective-action register-
+instruicng
+Calibration Log:
+unstrument
+Serial No
+Calibration Date
+Lase
+scanner
+52393
+Z02a-
+Caliner
+22720
+2025-04-20

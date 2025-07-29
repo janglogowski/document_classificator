@@ -1,0 +1,66 @@
+Component Overview
+Praiect:
+MX-450L
+Dacu
+6257230
+Prepared Bv:
+Anna Nowak
+Approved By:
+Kowalski
+Location; Plant IC
+Date; 2024-12-12
+Unit -
+Preumatic
+Contral Unit
+Operating Pressure
+180 bar
+Flow Rate
+48 Limin
+Supply Voltage
+60 Hz
+Mounting
+Rack frame
+Frame
+Materia
+Powden-coaled Steel
+Cooling
+Alr-cooled
+Tadialon
+Service Interval
+monehS
+Working
+10"C
+50"€
+Motor Power
+Battery Capacity
+Noise Leve
+dBIAJ
+Total Weight
+230
+Filtration
+10 um return
+Protection Class
+IP54
+Reservoir Capacity
+Charging Time
+Dimensions
+(LxWxH)
+1200 * 7OD * 1100 mm
+Material of Construction;
+Part
+Lamposition
+Teflon Tape Roll
+Tetlan
+Tape Roll
+Capacilor
+450V
+Kluminum
+JULI-IC
+Stainies'
+Rubber Gasket 80mm
+Nitrile Rubber INBRI
+Iype
+Tcmp
+Range
+inlinc,
+Hinge

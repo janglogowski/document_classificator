@@ -1,0 +1,88 @@
+Inspection Summary
+Audit Criteria
+Sample
+Defect Class
+Remarks
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Packaging does not match
+Level II
+Needs review
+signed sample
+Dead
+insectin
+Level /
+Needs review
+packaging
+Functionaln testtamled
+Leve
+Critical impact
+Minor Issue
+Incarrect barcode =
+label
+Level 
+Dnserved
+Missing laga Or warning
+revev
+Needs
+labe
+Hinges Ioase
+Levei
+Critica
+impact
+Not assembledas per
+Level Il
+Needs
+Temek
+drawing
+Visual delecton housing
+Levei
+Product doesn'
+power
+LevGI
+DusUdcbris inside
+Minor issue
+Level III
+packasing
+Doseved
+Color msmatch
+LevgI
+Needs review
+Sharp edges on plastic
+Level /
+Needs review
+components
+Carton
+damaged =
+Minor issue
+markings incarrect
+DuSenved
+Minor Issue
+Connector notworking
+Level l
+observed
+Missing safcty labels
+Levcl |
+Missing distributor
+Minor issue
+Level Il
+nlanmalan
+Dsunved
+Paint smearing
+scrichgs
+Critical impact
+Scre k
+IDose
+missing
+Level
+Nccos reuicu
+Reference Standards:
+Standard
+Edition
+CE Directive
+2020
+UL6101Q
+4th Ed,

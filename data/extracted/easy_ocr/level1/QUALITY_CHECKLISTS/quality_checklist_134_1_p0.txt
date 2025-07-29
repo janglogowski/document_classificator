@@ -1,0 +1,80 @@
+Quality Inspection List
+#4028624
+Date: 17.07.2025
+Product ID
+TX-BZ0v
+Customer ID
+FINLAND
+Item Description
+Thermal Fuse
+Below arethe items
+be verilied during the final
+ufaducirevigw_
+Archive this Uist In the qualily-management
+system
+Ensure all non-conforming marks are clearly documented. This summary supports the production-
+rcicase
+quality gate. Confirm that sampling levels comply with customer agreements_
+picasc(uidN
+cach
+checklist paint ard mark tne samplingresults. All checklist entries are timestarped far traceability- Refer t0 the
+quality register for sampling-plan references
+Entries include both visua
+functional inspection items
+Inspection
+Checklist Points
+Sampling
+Classification
+Remarks
+Level
+Item Specs
+Carton
+damaged
+Markines
+Level /
+incorrec
+Batterynot included
+Ninor issue Qbsen8 6
+Paint smearing
+scratcnes
+Level l
+Needs review
+Rubber Switch not working
+Levei
+Ninor is5me Ohsened
+Package
+nat sealed
+LevelII
+completely
+Rubber texture
+Blossiness
+Level |
+abserved
+mismatch
+Loose pants inside
+dackacing
+issue observed
+ncorrec
+Darcode
+Labe
+Needs raviev
+Scrcws
+Si
+missing
+LcvcI
+Nccdsievic
+Hinges loose
+Level
+Exposed nail with sharp point
+Levei
+AQL Level
+Critical
+Major
+Ninor
+Default
+Customer
+specific
+Minore
+Issu8
+Minor
+7 5

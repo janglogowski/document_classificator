@@ -1,0 +1,90 @@
+Inspection Summary
+Audit Criteria
+Sample
+Defect Class
+Remarks
+Tier
+Product Requirements_
+Critical
+Major
+Minor
+OnHold
+Packagi
+@DA
+nat match
+Level II
+Needs review
+signed sample
+Dead or live insect in
+Levell
+Needs review
+packaging
+Functionality test (ailed
+Laveli
+Critical impact
+Minoi
+SEb
+Incorrect barcode or label
+Levell
+observed
+Missing logo
+warning
+Needs review'
+label
+Hinges
+Jose
+Level II
+Critical impact
+Not assembled
+Level II
+Needs review'
+drawing
+Visua
+defect on housing
+LeveI
+Product doesn
+powe
+Level I
+Dustidebris inside
+Minor issue
+Level III
+packaging
+ohsenved
+Color mnismatch
+LaveL
+Needs revlew
+Sharp edges
+plastic
+Level |
+Needs revlew
+components
+Carton is damaged or
+Minor issue
+markings incorrect
+ODScnco
+SSuG
+Cannector not working
+Level II
+onsenm
+Missing satety labels
+Level|
+Missing distributor
+Minor issue
+Level II
+ntormarion
+obsenie0
+Paint smearingor scratches
+Critical impact
+Scrcwc
+@DSi
+missing
+Levell
+Needs revicw"
+Reference Standards:
+Standard
+Editian
+CE Directive
+2020
+UL 61010
+Ath Ed;
+Minot

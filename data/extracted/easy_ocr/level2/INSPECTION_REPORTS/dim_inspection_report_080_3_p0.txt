@@ -1,0 +1,131 @@
+Inspection Results Summary
+performed by Carlos Garcia on 2024-04-03.
+Inspection
+parts. The following data captures key
+register below highlights any cut-ot-toledancn
+for ali component size readings This
+The inspection
+identified. Reter
+dimensional 1og
+measurerents
+dimensions and any deviations
+inspection results. This summaty
+presents the dimonsional measurementshed
+for each component Iisted below:
+report
+Please review the inspection
+supporls metrology traceability;
+22.8
+C, Humidity: 58 %
+Environmental Conditlons: Temperature:
+Diff
+Status [VIXL
+Target
+Actua
+Component
+Dim
+64.22
+Article
+Lenglh
+6440
+JD-7ooW
+Graphite
+Pad
+~0.06
+oe
+56.68
+FT-730X
+Graphile
+Pad
+Dlameter
+39,17
++0.19
+WNiath
+38.98
+SL-430M
+Shafl
+s0omm
+82.24
++0.16
+Thickness
+82.08
+VF-ZZOD
+Rubber
+Gasket
+a0rnm
+17.98
+17.79
+~0.19
+TK-890B
+Rubber
+Height
+Gasket
+@omm
+92.26
+92.30
++0.04
+6-Ring NBR
+Wicth
+CE-905L
+60mm
+35.21
+FT-730X
+Hinge Set
+Thickness
+58.91
+59.01
++0.10
+TY-3J50G
+Graphite
+Widin
+59.58
++0.09
+Depth
+59.49
+HF-3S0A
+Wooden
+Pallel
+62.07
+62,06
+~0.01
+LP-555V
+Bearng
+Length
+6202 72
+93.84
+93.70
+0.14
+Wooden
+Thickness
+LP-SSSV
+Palle
+88.06
+88.15
++0.09
+JD-700wN
+Baltery
+Lengin
+Pack
+94,61
+-0,08
+Hole
+94,69
+XD-710R
+Shaft
+soomm
+37.74
+37.74
+PL 601Z
+Power
+Widlh
+Switeh
+35.18
+35.22
++0.04
+ZR-ZOSR
+Graphlte
+Thickness
+Pad
+results
+58,62
++0 00

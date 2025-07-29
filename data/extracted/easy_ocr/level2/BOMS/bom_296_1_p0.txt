@@ -1,0 +1,64 @@
+BILL OF MATERIAL
+Date; 2023-04-27
+Coordinator: Carlos Garcia
+400
+Customer ID: TURKEY
+Order Qty:
+Untema
+Product ID: ZR-2OSR
+review the
+itemized list of parts and
+the latest inventory and supplier rates: Please
+raw-material
+All entries reflect
+Refer to this parts register to plan 5
+material
+specifications before procurement:
+and total projected
+This extract shows the bill ot
+components
+purchasing:
+UOM
+Rate
+Amount
+Remarks
+Consumption
+Extra
+Qty
+Item
+Description
+12.00
+36.00
+ROHS
+2.06
+pcs
+compliant
+Control
+Panel
+Mount
+0.60
+7.80
+High
+1.63
+1010
+Brade
+Copper
+Wire 3mm
+pcs
+1.25
+57.50
+Gasket
+0.6
+Sheet A4
+25.00
+125.00
+2.73
+Battery
+Pack
+226.30
+Total Amount:
+Sourcing Department:
+Approved By:
+2812457
+spend
+Ds

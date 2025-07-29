@@ -1,0 +1,115 @@
+DAILY PRODUCTION REPORT
+Repor Ne_
+PR-265
+Custamer
+FRANCE
+Supervi
+Anna Nowak:
+Department
+Machining
+Date
+23-07.2023 
+Shitt:
+B (Evening]
+Equipment
+Task
+Operator
+Start Time
+Duration
+Notes
+(minp
+MC-207
+Assembly
+Agnieszka
+08.30
+10314
+Zielinska
+MC-208
+Welding
+Agnieszka
+14.00
+15.59
+NIA
+Zielinska
+MC-201
+Polishing
+Magdalena
+08.15
+09.21
+NIA
+Wilkowska
+MC-207
+Polishing
+Nadia _
+11.30
+12.46
+OK
+Sauter
+MC-207
+Polishing
+Nadia
+17.30
+12.29
+NIA
+Sauler
+NC-202
+Cutting
+Anna
+97.15
+08.50
+Nowak
+MC-206
+Cutting
+Przemyslaw
+13.30
+15.21
+111
+Wasik
+MC-204
+Assembly
+Magdalena
+08.15
+08.55
+Delay
+Wilkowska
+MC
+207
+Polishing
+Nadia
+14.00
+15.18
+OK
+Sauter
+MC-204
+Assembl;;
+Nadia
+12.30
+13.45
+OK
+Sauter
+Product ID
+Target Qty_
+Produced Qty
+Defect Qty
+Failure % _
+Notes _
+MC-540X
+169
+156 .
+7.69%
+Rework
+needed
+DX-777T
+197
+169
+84.2196
+Scrap
+conjimed
+TR-2OOB
+104
+7390
+Prepared bY;
+Peler Schmidt
+Approved DY:
+Peter Schmidt
+179

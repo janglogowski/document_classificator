@@ -1,0 +1,100 @@
+Shift Summary
+PR 456
+GREECE
+Repom_No
+Jan
+Custonor
+MMaintenance
+Supervisor:
+16.12-2023
+Deparment;
+04ro
+snilti
+Uwagi
+Total
+Star Time
+Finish
+duration
+Worker
+Delay
+Task
+Machine
+09.00
+Piolt
+Cutting
+MC-202
+06-Q0
+Jan
+11;17
+MC 206
+Assembly
+Magdalena
+10.30
+NIA
+MC-206
+Polishing
+Wilkowska
+09.53
+NIA
+Assembly
+Bartosz
+09.10
+NIA
+MC-202
+08.30
+Jan Kowalski
+MC-201
+Welding
+Maleusz
+T1.00
+Delay
+MC205
+Assembly
+Jarzyna
+15.39
+14,15
+MC
+Orilling
+Wilkowcka
+Remarks
+Scrap Qty
+Rejection
+Achieved Qty
+14,.4792
+Part ID
+Scrap
+201
+confimed
+FT-730X
+235
+Rework
+149
+589
+needed
+172
+173
+6036
+VF-2200
+106
+VR 940T
+Kowalski
+Jan
+Prepared bY:
+Kowaiski
+JNght
+10.05
+Recalbrated
+Lewandotski
+08.32
+Komik
+08 30
+Watnlak
+12.22
+Magdalena
+~202
+Planned
+Outeut
+14.7790
+PW-55Y
+Kowalsk
+Apprpued

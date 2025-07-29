@@ -1,0 +1,103 @@
+DAILY PRODUCTION REPORT
+Report No; ;
+PR-753
+Customer:
+Supervisor;
+POLAND
+Kowalski
+Department:
+Date;
+Packaring
+15-12-2023
+Shift:
+Evening)
+Machine
+Task
+Technician
+MC-201
+End Time
+Spent
+Notes
+Assembly
+Wiktor
+11.30
+13.13
+103
+Kopczynski
+MC-203
+Polishing
+Anna Nowak
+14.15
+15.47
+MC-201
+Palishing
+Nadia Sauter
+14.00
+14.27
+Delay
+MC-202
+Drilling
+Wiktor
+09.30
+Recalibrated
+11,29
+Kopczyiiski
+MC-203
+Magdalena
+14.30
+16.17
+107
+Witkowska
+Delay
+MC-201
+Welding
+Agnieszka
+13.15
+15,07
+112
+Ziclnska
+MC-207
+Drilling
+Wiktor
+10.00
+11.20
+Kepczynski
+MC-207
+Drilling
+Kowalski
+14.00
+15.50
+Delay
+Item ID
+planned
+Achicved Qty
+Rejected Qty
+Scrap %
+Uwagi
+Output
+CN-T50C
+101
+9.8296
+DX-7
+BZ G60F
+13.6096
+Rework needed
+9-340
+TY-350G
+296
+288
+2.7096
+Scrap
+GH-7701
+203
+contirmed
+3.4590
+Rewark needed
+Peter Schmidt
+Appraved by:
+Anna
+Nowak
+From
+Time
+Welding
+Prepargd

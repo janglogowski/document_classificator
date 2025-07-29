@@ -1,0 +1,89 @@
+Inspection Register
+#4379275
+Date: 17.07.2025
+Product ID
+BZ-G60F
+Customer ID
+SWVEDEM
+Item Description
+Steel Sheet 436
+Please review each checklist point ard rark the sarpling=
+SSis
+Usa this list
+comrmi aunerence
+AQLand
+samet 'standards
+Ensure all non-conforming marks are clearly documented, Entries include both visual and
+functional inspection items. Tnis checklist captures quality inspection points and sampling levels. Tnis closure
+surmary indicates compliarice with Inspection criterla. Check that inspection steps follow the approved
+procedure
+Use this extract to coordinate sign-off with the QA manager_
+This summary supports the production-
+igasg
+quality gate. Archive this list in the quality-ranagement system:
+Revicw
+Points
+Sample Tier
+Defect Class
+comments
+Component Criteria
+instructionmanuai
+Missine cr
+Level |
+Necds revicw
+damaged
+Exposed nailwith
+Levcl II
+Not assembled as per drawing
+LevCi
+Sharp edges on plastic
+Level |
+Needs review
+comdonents
+Screws loose or missing
+Level
+Needs review
+Connector
+not working
+Leve
+Packape
+nat sealed
+Level II
+Needs review
+completely
+Color mismalch
+Luvel
+Critical
+Impact
+Dead
+mve insectn
+packagng
+Lovel
+Product doesn t powCr on
+LCvCI
+Critical impact
+Wrong product size
+Battery not included
+Minor issue observed
+Packaging dces not match
+Level Il
+Critical impact
+signed sample
+Wood splinter
+sharp point on
+Minor issue observed
+product
+AQL Level
+Critical
+Faic
+Minc
+Default
+Customer specmic
+Overall quality status indicates complianc
+with defined AQL levels: Refer to notes for any observed defects
+deviations. Ensure that allremarks have corresponding evidence attachments. Checklist results have been
+reported
+the quality manager. Archive this summiary
+the audit-readiness folder;
+shaip
+point

@@ -1,0 +1,100 @@
+Report No:: PR-611
+Customer: SWEDEN
+Shift:
+(Evening)
+Date: 17-12-2024
+Machine
+Process
+Operator
+From
+Tota
+Mime
+Lomments
+Londition
+MC-207
+Drillirg
+Piotr
+09.15
+09-44
+Delayed
+Lewandovski
+MC-205
+Assembly
+Magdalena
+10.15
+10.41
+progress
+Witkowska
+MC-208
+Drilling
+Agnieszka
+14.15
+15.46
+N/A
+nropres5
+Zielinska
+MC-206
+Welding
+Naqia Sauter
+12.15
+13-05
+Delay
+Comnieted
+MC-206
+Cutting
+Nadia Sauter
+08.00
+09-13
+proEress
+MC-206
+Drillirg
+Mateusz
+10.15
+12.06
+NYA
+Delaved
+Jarzvna
+MC-201
+Cutting
+Wiktor
+06.00
+06.48
+NJA
+propress
+Kopczyrski
+All production targets
+have been logged; deviations are highlighted above
+No critical delays were observed; please
+address any minor issues noted
+Archive this outout summary for end-of-day reporting Record any Jdjustments
+shift schedules or
+'staffing here:
+Part ID
+Planned
+Achieved Qty
+Defect Qty
+Scrap
+Reworked
+Notes
+Output
+Units
+JD-ZOOW
+217
+200
+7,8336
+PW-SISY
+138
+119
+13.77%0
+Scrap
+cantirmed
+DX-777T
+121
+104
+14.05%"
+Scrap
+confirmed
+AL-1150
+13,71%
+Appraved bv:
+Prepared by: _

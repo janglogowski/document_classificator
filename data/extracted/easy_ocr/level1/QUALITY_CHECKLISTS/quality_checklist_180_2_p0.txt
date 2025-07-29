@@ -1,0 +1,104 @@
+Quality Checklist
+Below are ine items
+be verified during the final product review_
+Please review each checklist point and
+mark tne
+sampling results
+Ensure all non-conforming marks are clearly documented
+Rofer to the quality
+for sampling-plan references:
+Check that Inspection steps follow the approved procedure.
+Confimm
+that sampling levels comply with customer agreements:
+This checklist captures quality
+inspection points and
+sampling levels .
+The following table outlines inspection criteria and classification levels
+Product ID
+RE-850C
+Customer ID
+FRANCE
+Item Descrption
+Hex Bolts M12
+Inspection Checklist
+Sampling
+Defect Class
+Comments
+Points
+Level
+Component Criteria
+Critical
+Major
+Minor
+OnHold
+Instruction manual
+Minor issue
+Level
+missing
+aamaged
+Obsened
+Not assembled as per
+Minor issuo
+Level II
+drawing
+observed
+Packaging does not
+Level =
+Minor issue
+match signed sample
+observed
+Missing
+warning
+Critical impact
+Jabel
+Incorreci Orientation in
+Level
+Critical impact
+box
+Shipping mark is illegible
+Level II
+Or missing
+Exposed nail with sharp
+Minor issue
+Level II
+point
+Observed
+Paint smearing or
+Needs review
+scralcnes
+Functionality test failed
+Level
+Package
+not sealed
+Minor issue
+Level II
+completely
+observed
+Hcorrec
+barcode
+Issue
+label
+observed
+Connector not working_
+Battery not included
+Level
+Critical impact
+Minor issuC
+Wrong product size
+Level
+Ousenved
+ncorrec-
+quantity Or
+Level 
+Needs review
+assortment
+Dead
+Iive insect in
+Minor issue
+Level III
+packaging
+observed
+Supervised by:
+Date:
+regisler [
+Minor

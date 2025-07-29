@@ -1,0 +1,113 @@
+Machine Log Summary
+2023-11-26
+Check that
+doxintime events are properly
+'categorzed
+The equipment log below includes fault codes and
+corrective notes-Confirm thal senice intetvals tollow the preventive schedule
+technician comments are
+recorded tor
+maintenance trend analysi3- Entnes includework orders
+tecnnician
+assignments
+and pan changes
+Ensure all safety checks
+Mnt comolcicd
+during servicing
+Spare Pafts Used:
+Pamt Namr
+ParHo
+Qty Used
+Sensothicqule
+P-7667
+Sealing Gasket
+04604
+Ou Fier
+P41912
+censocicqule
+P-1224
+Code
+Equipment
+Service
+Mecnnician
+Downtime
+Last Check
+Anea
+Comments
+Type
+MC-223
+Palnt Booth
+Cotmecine
+Lanma @os
+2025-03-23
+Replaced
+fuse (54.
+MC-224
+Packaging
+nspecton
+Lanre Rossi
+2024-01-29
+Line
+MC-248
+CNC Miling
+Pievenine
+Pelet
+2024-04-09
+Sensor
+Machine
+Schmidt
+recaldraied
+MC-236
+Fydraulic
+Prevenn 2
+Enna
+2023-10-18
+Replaced
+Press
+Kowak
+fuse (541
+MC-260
+Paint Booth
+nspecton
+Fnna
+2024-05-02
+Changed
+Rowa4
+and filters
+MC-291
+Convavor
+Cottecina
+Laumz Rossi
+2025-03-24
+Wooden
+pallet
+checked;
+MC-296
+Plasmti
+Ptcvenin U
+2023-12- 15
+Scnsor
+Cutte]
+Kowalsk
+6ecalidraled
+MC-232
+Hydraulic
+nsdcction
+Enna
+2025-04-19
+Calibration
+Pies
+Noxar
+checkOk:
+MC-252
+Luser Cuuer
+Preventive
+Luuna RoSS
+2u2sui
+Changed Orl
+and filer-
+cuthonzcoo;
+Carlos Garcia
+Operator:
+4aleh
+Nogeed

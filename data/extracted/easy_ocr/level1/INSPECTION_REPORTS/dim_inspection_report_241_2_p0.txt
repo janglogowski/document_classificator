@@ -1,0 +1,73 @@
+Inspection Results Summary
+Sudervisor
+Laula Ross
+Inspection DJte
+2u2s 04-US
+This data extract
+prepared for quality-control
+sign-off. Use this results summary
+tngger any
+conrective
+actions:
+The inspection register below highlights any out-of tolerance parts. This summary
+measurements supports
+metrology traceability-
+Lode
+A-S5Y
+RM-860N
+NE-2ASA
+L-JuuX
+CN-150C
+Component
+Wooden Pallet
+Wooden Pallet
+Shaft S0Omm
+Bearing 6202 22
+Stee
+Sheet A36
+Measurement
+Innei
+Diameter
+Height
+Inner Diameter
+Inner
+Diameter
+arze
+95.00
+45-24
+9.95
+90.339
+Obsenved
+1-17
+90.46
+Deltz
+4UC
+AOI
+TO.11
+40-16
+T0.07
+PassFall
+Review ralled
+items against the conrective-action register_
+Ensure
+measuring toals were properly calibrated:
+Inspection notes
+have been logged for traceability. Archive this inspection summary for regulatory documentation;
+inslrumenl
+Callbration Log:
+unstrument
+Serial No.
+Calibration Date
+Lase
+scanner
+53533
+2025-03
+Caliper
+17252
+2024-11-20
+Caliner
+29613
+2025-05-20
+Nicrometer
+23794
+2025-03-13

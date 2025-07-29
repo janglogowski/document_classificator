@@ -1,0 +1,84 @@
+Unit Code
+Machine
+Senvice
+Type
+Operator
+Juration
+Area
+Comments
+MC-249
+Plasma Cutter
+Preventive
+Lana Ros?
+pant IC
+Rcoacen
+cuolant
+MC-245
+CNC Miling
+Corrective
+Carlor
+Carcia
+Plant 1C
+Repl-
+acec
+Machine
+MC-229
+Plasma
+Ccrrectlve
+Carlos Garcla
+Piant 34
+Callbration
+check OK
+MC-247
+Paint Booth
+Cctrective
+Jan Kowalski
+Plant 2B
+Replaced
+cwolant_
+MC-250
+CNC Miling
+Preventive
+Jan Kowalski
+Plant 1C
+Worn gasket
+Machine
+(Rdiaced
+MC-214
+Lalhe
+Pruvenlive
+Jan Kowalski
+Plant IC
+Wocden
+checked
+MC-297
+Hydraulic
+Preventive
+Arna Nowak
+Plant JA
+Alignment of
+ninges
+adjusted
+recurring issues for root-cause investigation
+All maintenance durations
+are recordedtcr perommance Metrcs
+Ensure Ihal each survicu enly has Ine required
+Juplovals
+No crilical laulls were
+duMC
+during Ine lalesl inspeclion This
+Iog summary supports the
+asset-manaqement
+Cashboard
+Lunncancn Cnecken
+Calinraiion Verifed
+Emerqency
+Tesied
+Auingrized
+Oderator
+SAi
+Cultar
+palet
+Pross
+Flad =
+Sioo

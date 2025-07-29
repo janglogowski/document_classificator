@@ -1,0 +1,54 @@
+Unit Configuration
+Document No: PR-137
+Product ID: BZ-660F
+2024-03-16
+Configuration Type
+Pneumatic Control
+Design Pressure
+300 bar
+Flow Rate
+75 Lmin
+Operating Voltage
+60 Hz
+Mounting
+Rack frame
+Control Valve
+Manus
+Ovende 3 2
+Filtration
+10 um retum; 25 pm
+Battery Capacity
+10 Ah
+suction
+Dimensions (LxWxH)
+1200
+700 * 1100 mi
+Working
+SCto45'C
+Component Materials Overview:
+Item
+Rase
+Specification
+Wiring
+DOm m
+(Rigid
+UL-listed
+Fuse
+Ceramic Oxide
+IS0 2768
+Rubber Gasket 80mm
+Nitrile Rubber INBR)
+UL-listed
+Battery Pack
+Lithium Ion Cell Pack
+Class
+colerancc
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+UL listed
+Prepared by: Peter Schmidt
+Approved by: Laura Rossi
+Date;
+Unit
+Temp
+Range

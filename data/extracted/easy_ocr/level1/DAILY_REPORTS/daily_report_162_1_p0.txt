@@ -1,0 +1,86 @@
+DAILY PRODUCTION REPORT
+Redam ND;:
+PR-5GB
+Cuslamier-
+FRANCE
+Supervisor;
+Jan Kowalski
+Department:
+Quality Control
+Date
+12-10-2023
+Shift:
+(Moming)
+Machine
+Process
+Technician
+Start Time
+Total
+Notes
+duration
+MC-204
+Polishing
+Agnieszka
+09.15
+10.36
+Delay
+Zielinska
+MC-201
+Polishing
+Kowalski
+09-JC
+11.16
+106
+NfA
+MC 205
+Assembly
+Dawid
+08.00
+09.30
+Oszmianczuk
+MC-207
+Cutting
+AnnaNotar
+13-30
+14.:44
+MC-2O1
+Drilling
+Agnieszka
+12.30
+14.02
+Zielinska
+MC 201
+Polishing
+wiktor
+12-00
+13.06
+Kopczyrski
+MC-20}
+Polishing
+Przemyslav
+09-00
+09.34
+Recallbrated
+Wasik
+Ktem
+Target Qty
+Prociiced
+Qt
+delect
+Qt
+Faice
+Comment
+LK 8908
+8679
+15uC
+00"o
+contirnco
+NU-4402
+8896
+Prepared by:
+Laura Rossi
+Appraved
+Carlos
+Scrap
+Iby:
+Garcid

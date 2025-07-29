@@ -1,0 +1,62 @@
+Dimensional
+Mechnician
+Anna Nowak
+Inspection Datc
+2024-10.30
+This section details the measured
+lues;
+tolerances
+and status flags. Please review the inspection results for each
+comiponcnc
+listed below Review recorded tolerances against engineering specifications. Entries include both pass/fail
+markers and deviation magnitudes:
+Lode
+Pw-S151
+T-3Su6
+FT-730X
+TX-820v
+Component
+Steel Sheet A36
+Graphite
+Hex Bolts M1Z
+Shaft S0Omm
+Diamerer
+Leneth
+nickness
+Jarget
+25.06
+47.72
+97-91
+83.56
+Actual
+25.22
+47.5
+98-05
+40.16
+4o0
+40.14
+PassaFall
+This closure memo
+confirms tnat dimensiona
+checks are cordlete
+Contirm thal Dass rates
+meet tne delined
+acceptance crteria, Flag any components
+equiring re-machining '
+adjustment;
+inslrumenl
+Calibration Log:
+Instrument
+Serial No.
+Calibration Date
+Lase
+scanner
+92765
+2025-02-15
+CMM
+64053
+2024-08-04
+CMM
+48222
+2025-04-07
+Log

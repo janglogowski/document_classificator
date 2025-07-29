@@ -1,0 +1,57 @@
+Quality Verification
+Entries include both visual and functional Inspection items- Belov are tne items
+bg verilied during the final
+producte
+This summary supports the production-relesse quality gate. Use chis list
+confirm adherence
+AQL and safety standards. Archive this list in the quality-menagement system; Please review each checklist
+point and mark tha sampling results
+Product ID
+CE-9OsL
+Customer ID
+FINLAND
+Item Description
+Cable Tie Peck (T00)
+Review Polnts
+Inspeclon
+Category
+Observations
+Depth
+Item Specs
+Exposed na
+with shArp point
+LAVEL
+Miror
+9sup Gnsetved
+Screws
+olo
+te
+Critical Impacl
+Battery not included
+LEVAL
+Minar Issue observed
+Missing distributor information
+Lave
+Criticalimpact
+Incorrect Drientatian
+LevEL
+Dead
+insectin
+Level II
+Critical impact
+packaging
+Wrong product size
+Level |
+Criticalimpact
+Ruboer
+Witch notwoiKinp
+Level Il
+Incottect
+quantity 01
+Lovcl III
+Critical inipact
+ASSutaneini
+Supervised by:
+Date:
+aview
+Mis;

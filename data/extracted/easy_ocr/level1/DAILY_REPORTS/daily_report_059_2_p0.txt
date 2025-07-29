@@ -1,0 +1,100 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-356
+Custcmer:
+CANADA
+Supervisor;
+Anna Nowak
+Department:
+Painting
+Shift:
+Moring
+24-01-2025
+Below is an overview of machine performance and output figures for today's shift: Entries include all
+startistop times and operator assignments_
+This report summarizes the daily operations and output for the
+production line:
+Equipment
+Task
+Technician
+Fron
+Finish
+Duration
+Uwagi
+Thermal
+Power
+(min)
+Reading_
+Draw
+MC-202
+Welding
+Przemystaw
+11.30
+12.08
+72.6
+2.93
+Wasik
+MC-201
+Drilling
+Przemystaw
+10.00
+11.17
+Recalibrated
+80.0
+Wasik
+MC-208
+Drilling
+Nadia
+08,00
+09,27
+Delay
+69.7
+1,46
+Sauter
+MC-205
+Drilling
+Bartosz
+11.15
+12.52
+77.1
+1.42
+Wawrzyniak
+MC-209
+Assembly
+Mateusz
+12.30
+13,55
+Recalibrated
+79,6
+2,87
+Jarzyna
+MC-205
+Welding
+Anna
+11.00
+11.20
+NIA
+77.1
+1.27
+Nowak
+MC-205
+Cutting
+Magdalena
+10.30
+11.49
+73.3
+1.62
+Wllkowska
+MC-20g
+Assembly
+Magdalena
+11.30
+11,51
+Recalibrated
+62.6
+2.86
+Witkowska
+Prepared D%:
+Jan Kowalski
+Approved DX:
+Jan Kowalski

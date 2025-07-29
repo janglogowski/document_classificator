@@ -1,0 +1,74 @@
+Product Overview
+Confirm that performance rangos comply with project requiremonts. This section details the configuration
+parameter set for tho product . Cneck that all matera
+specs align with supolier certifications: Ensure all
+reterenced standards are up t0 dale
+Use this sheet =
+confirn engineenng requirements and tolerances.
+Product ID;
+ZR-ZOSR
+Report No;
+PR-318
+Prepared by: Jan Kowalski
+Approved by: Laura Rossi
+Dale: 2023-08-29
+Configuration Typo
+Cocling Circulation
+Operating Pressure
+250 bar
+System
+Fluid Flow
+E0 Umin
+Operating Voltage
+480
+VI60 Hz
+Noise Level
+72 dB(A}
+Aoor
+Pomer
+7.5 kW
+Filtration
+10 um return; 25 UM
+Charging Time
+suciion
+Use this Summar; t0
+cross-check with BOM and inspection repors
+This closure note indicates Ihe data
+sheet
+ready for release_
+Ensure that the listed materials are approved for lhe application. AIl specifications
+mect the design requirements and industry standards
+Data sheet has been peer-roviowed by Ine
+engineerng
+Ensure glossary lerins inalch Ihe engineering nomenclature,
+Material 0f Construction;
+Wlen
+Base
+Power Switch
+Poivcarbonate
+Copper
+Connector 2P
+Glass
+illed Nylon
+Thcrmai fuso
+Ceramic Oxide
+Cooling Gel Pack
+Silicone Rubber
+Support Foot Steel
+Stainless Steel 304
+Teflon Tape Roll
+Teilon
+Rcll
+Graphite Pad
+Graphite Pad
+Steel Sheet A36
+Carbon Steol 436
+Digital Display Unit
+ABS Plastic
+Bearing 6202 Z2
+Stainless Stecl 304
+0 Ring NBR 60mm
+Nitrilc Rubber {NBR)
+Rubber Gasket 80mm
+Nitrile Rubber (NBR
+team:

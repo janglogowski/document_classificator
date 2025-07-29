@@ -1,0 +1,55 @@
+Inspection Checklist
+#1175880
+Date: 17.07.2025
+Product ID
+MC-54OX
+Customer ED
+GREFCE
+Item Description
+Insulation Foam Pad
+Use this extract to coordinate sign-off with the QA manager. Below are the items to be verified during tne final
+product review: This summary supports the production-release quality gate_
+This check"st captures quality
+inspection points and sampling levels. Use this list to confirm adherence t0 AQL and safety standards. This
+section Getails quality requirements and test points for the batch:
+Audit Criterla
+Sample Ver
+Defect Class
+Notes
+DesiEn Specs
+Hold
+Exposed nail with sharp point
+Level II
+Sharp edges on plastic
+Cvitical impact
+components
+product size
+Levei
+Issue Obsered
+Screws
+nose
+mssine
+Critical impact
+Missing distributor information
+LeveliI
+Package is not sealed
+Level /
+Critical impact
+completely
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer specific
+Checklist results
+been repurted to the quality manager: All summary -
+comments have beer: validated by
+the QA team.
+Fleg any open issues in the CAPA tracking system. Please ensure supervised sign-off on any non -
+coniorming points- Archive this summary in the audit-readiness folder. Ovcrall quality status incicates
+with defined AQL levels. Refer to notes for any observed defects 0f deviations
+Wrong
+Hinot
+hava
+comaliance =

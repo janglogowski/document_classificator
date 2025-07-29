@@ -1,0 +1,72 @@
+COMPONENT BREAKDOWN
+Customer ID: POLAND
+Coordinator: Peter Schmidt
+Date: 2023-03-26
+Product ID: FT-730X
+Internal No;: 3085564
+Order Qty; 203
+This section outlines the parts; unit prices and total amounts for assembly: The parts manifest here
+designed to support procurement workflows Use this breakdown to verify sourcing and cost estimates
+All line-item costs are current as per vendor quotes;
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Control
+2.84
+pCS
+12.00
+360.00
+Panel
+Mount
+Gasket
+3.28
+10%
+pcs
+1.25
+57,50
+Sheet 44
+grade
+Terminal
+pcS
+3.40
+108.80
+Switch
+Block 4P
+tested
+Gasket
+1.61
+pcs
+1.25
+17,50
+Sheet 44
+Hinge Set
+0.79
+2.50
+47.50
+export
+Hex Bolts
+2.57
+0.25
+3.00
+Urgent
+M12
+Stainless
+2.36
+0.35
+12.25
+Urgent
+Bolt M8
+Please confirm supplier lead times
+ensure timely delivery of all items Totals include estimated over -
+consumption allowances and current unit rates;
+Total Amount:
+606.55
+Approved By:
+Sourcing Department:
+High

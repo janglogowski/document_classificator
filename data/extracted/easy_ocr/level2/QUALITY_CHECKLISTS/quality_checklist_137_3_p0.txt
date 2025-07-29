@@ -1,0 +1,50 @@
+Inspection Checklist
+Quality Check Items
+Sample
+Defect Class
+Comments
+Tier
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Dead
+Live insectin
+Level II
+packaging
+Colar mismatch
+Critical impact
+Insttuctidn manuALIS
+missing r damaged
+Functionallily test falled
+vel
+Critical Impact
+Paint smearing or
+LevelII
+scratcnes
+Visua
+deleclon
+housing
+Level
+Needs [evie
+Wrong
+produclsize
+LCVGI
+Critical impact
+Missing safety labels
+LCVCI
+Minoi
+Se
+DDscned
+Dustdebris inside
+Level III
+Needs reviewv
+packaging
+Reference Standards:
+Standard
+Edition
+CE Directive
+2020
+EC 61010
+3rd Ed.

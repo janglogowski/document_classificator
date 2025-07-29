@@ -1,0 +1,119 @@
+Report No
+PR-250
+Customer
+TURKEY
+Supervisor:
+Carlos Garcia
+Departnen:
+Painting
+Date:
+30-03-2024
+Shift:
+(Night)
+Machine ID
+Task
+Worker
+From
+End Time
+Total
+Uwagi
+duration
+MC-201
+Assembiy
+Piotr
+07.30
+07.55
+Lewandowski
+MC-207
+Drilling
+Nadia Sauter
+08.00
+08.47
+Delay
+MC-205
+Drlling
+Kowalski
+11.30
+MC-206
+Magdalena
+11.30
+12.12
+Delay
+Wlkowska
+MC-202
+Welding
+Wiktor
+10.30
+11;17
+Kopczyiski
+MC-202
+Culting
+Wiktor
+06.30
+07.56
+NA
+Kopczyiski
+MC-201
+Assembly
+Przemystaw
+14.00
+15.43
+103
+Wasik
+MC-207
+Cutting
+Nadia Sauter
+MC 202
+Cutling
+Nadia Sautor
+10.1
+11.29
+Recalibrated
+MC-206
+Assembly
+Piotr
+07.30
+08.24
+Lowandowski
+Product ID
+Planned Qty
+Achioved Qty
+Rejected Qty
+Failure
+Notes
+RM-B6ON
+160
+152
+5.00%
+Rework
+needod
+QP-660F
+172
+82%
+Rework
+needed
+SL-430M
+13.07%6
+Scrap
+confimmed
+SL-430M
+155
+139
+10.32%6
+Scrap
+conurmed
+SLA30M
+136
+9490
+Rework
+needed
+NE-2454
+146
+6,8590
+Scrap
+contimcd
+Prepared by:
+Laura Rossi
+Approved DX:
+Carlos Garcia
+Cuttlng

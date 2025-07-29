@@ -1,0 +1,65 @@
+Conformance Report
+#3039745
+Date: 17.07.2025
+Product ID
+AL-115O
+Customer ID
+SWEDEN
+Item Description
+Ventilation Grid
+Use this Uist to confinin adherence
+AQL ard safety standards
+All checklist entries are tIrnestamiped for
+traceability. This section details quality requirements and test points for the batch: This checklist captures
+quality inspection points and sampling levels_
+Ensure allnon-conforming marks are clearly documented.
+Quallty Check Items
+Inspection
+Severity
+Remarks
+Depth
+Product Requlrements
+Missing logo
+"urning
+Level /
+Nnor issucobscruco
+Packaging does not match
+Level/
+Needs reviev"
+signed samiple
+Wrong product size
+Loose parts insidepackaging
+Levei
+Critical impact
+Proquctnoesn
+DO Ei
+Leven
+Critical impact
+Sharp edges on plastic
+Level III
+Critical impact
+components
+Carton
+damaged
+markings
+Level Il
+incorrect
+Rubber texture
+piossiness
+Minor issue observed
+mismatch
+AQL Level
+Critical
+Faior
+Minor
+Default
+Customer specific
+Contirm that allsamplingresults are within acceptable limits- This summary supports theend-of-line quality
+certification. Archive this summary in the audit-readiness folder. Refer =
+notes for any observed defects
+duvinuong
+Use this closure report to update the quallty KPI dashboard_
+All summary
+comments have been
+validated by theQA
+team-

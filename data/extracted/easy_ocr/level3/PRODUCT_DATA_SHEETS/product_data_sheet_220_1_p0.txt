@@ -1,0 +1,77 @@
+Product Data Sheet
+Projeo
+LK-890B
+Repor No;
+PR-162
+Preparcd By
+Jan Kowalski
+ADOtoVcc
+Laura Rossl
+Locaiinn
+Plant 28 | Date: 2024-03-26
+Model Type
+Pneumatic Contral Unit
+Design Pressure
+210 bar
+Throuahput
+30 Umin
+Operatng Voltage
+4001
+50 Hz
+Power
+Frame Material
+Aluminum Frame
+Noita LFai
+70dBIAI
+Charging Iime
+Pump Iipe
+Vang Pump
+Protectlon Class
+Contio Vale
+Direconalaa
+Service Interva
+Hora
+Weight
+250
+Dimhensions ILxWxH)
+1odo
+650
+1000 Mm
+Batten;
+Lapacin
+Keservoir Capacity
+160
+Cooling
+Air-cooled Dil radiator
+Oil Type
+HLP 68
+Mounting
+Wall-mounted
+Fltration
+10 um return
+25 HM
+sucliom
+Working
+Range
+10'C i0 50"C
+All summary comments have been recorded in the revision log, Cocument contral numbers are included for
+traceabllity- All specificatibns mect the design requirements and industry standards. This closure note Indicates the
+data shcet is rcady for release-
+Material of Construction;
+Item
+Raw Materia
+Set
+Stainless Steel 304
+Connector 2P
+Glass-Filled Nylon
+Support Foot Stecl
+Stainless Steel 304
+Caoling Gel Pack
+Siliconc Rubber
+Cable He Pack (LOQL
+Nitrile Rubber INBR
+Miotor
+IP6S
+manths
+TTemp
+Hinge

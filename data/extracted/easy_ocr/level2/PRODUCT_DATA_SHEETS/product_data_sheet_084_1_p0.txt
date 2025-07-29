@@ -1,0 +1,76 @@
+Product Data Sheet
+I-3506
+Projecti
+Locumen
+PR-261
+Laur
+Preparco BIE
+Laun
+Ross
+Approved Bye
+Location: Plant 1C
+Date: 2024-04-03
+Model TyPe
+Cooling Circulation
+Design Pressure
+180 baf
+System
+Fluid Flov
+60 Lmin
+Operating Voltage_
+4005
+{0tu
+Total WVeight
+250
+Batter Capacity
+Motor pomei
+55kW
+Sence ntene
+12 months
+Working Temp
+Range
+-10 C tos0c
+Resenvoir Capacily
+Oil TyPe
+HLP 68
+Control Valve
+Directional 43
+dimensions
+(LWxHL
+1200
+700
+4100
+Pump IyPe
+Vane
+Waler-coqled exaneer
+Protection Cass
+IP65
+Cooling_
+Frame Material
+Ruminum
+Ensure glossary terms match the engineering nomenclature. All specifications meet the design requirements and
+industry standards. Data sheet has been peer-reviewed by the engineering team Ensure that the lsted materials are
+approved for the application-
+Material
+Construction:
+Sase
+Label
+Cermic Oudt
+Fuse 54
+Lithium
+Pack
+Batten  Pack_
+Pressure
+Lae
+Brass (Z12I
+Graphite Pza
+Graphite Pad
+Foot Stee
+Stainless Steel 304
+Support
+HejisngALU
+3uminum
+6061-16
+Roxsi
+Pump
+Fram €

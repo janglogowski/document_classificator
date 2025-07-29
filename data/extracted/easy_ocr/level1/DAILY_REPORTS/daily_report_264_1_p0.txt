@@ -1,0 +1,92 @@
+keuan No; :
+PR 955
+Customer
+TURKEY
+Supervisor:
+Anna Nowak
+Department:
+Maintenance
+Date:
+12-06-2024
+shife:
+JEveningl
+Equipment
+Task
+Operator
+From
+Duratian
+Nates
+(min)
+MC 202
+Polishing
+Nadia Sauter
+10-00
+u.3u
+MC-209
+Cutting
+Piotr
+12.15
+13.48
+Recalibrated
+Lewandavsk
+MC 202
+Drilling
+WvIklor
+06.30
+07:00
+Kopczyriski
+MC- 205
+Polishing
+Jan Kowalski
+06-Ul
+07.56
+116
+NYA
+MC-208
+Cutting
+Bartosz
+14.00
+15,53
+Wawrzynlak
+MC 204
+Drilling
+Magdalena
+09.30
+11.28
+118
+Witkowska
+MC-207
+Welding
+Przemystaw
+09.15
+10.15
+Delay
+Part ID
+pianned
+Qty
+Produced
+Qty
+Rejected Qty
+Failure
+Remarks
+RE-850C
+0.6790
+Rework needed
+300T
+188
+5906
+Xk-61QU
+8.415
+confirmed
+ON-770H
+2otu
+scrap contirmem
+XD-TIOR
+8706
+Prepared Dv
+Anna Nowak
+pproved by:
+Larios
+Garcid
+Wasin
+Scrap

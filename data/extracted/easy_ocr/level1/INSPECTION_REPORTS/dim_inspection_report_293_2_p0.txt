@@ -1,0 +1,65 @@
+Tlcchnician
+Peter Schmid
+Inspection Dale
+2023-09-27
+Item Code
+MR-IG0H
+CE-905L
+NU-4402
+WD-1805
+MX-450L
+LK-89QB
+Component
+Rubber
+Bearing 6202
+Plastic
+Plastic
+Steel Sheet
+Rubber
+Gaskel
+Rivels
+Rivels
+A36
+Gaskel
+Romm
+B0mm
+Measurement
+Mnickness
+Hale
+Deplh
+Hole
+ickness
+Deplh
+Nominal
+66.63
+5129
+Observed
+5441
+80.60
+66 44
+413.68
+5145
+19 40
+Delta
++UJUo
+Pass/Fail
+Ensure all measuring tools were properly calibrated_
+This assessment reflects the latest metrology results
+Ovoram
+inspection summary indicates acceptable quality levels.
+Ensure status flags are updated
+quality management system:
+Instrumont Calibration
+Instrument
+Serial
+Last Calibration Date
+CMM
+98224
+2025-04-25
+CMM
+84282
+2025-04-16
+Caliper
+38825
+2025-05-08
+Log:

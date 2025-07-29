@@ -1,0 +1,41 @@
+Inspection Summary
+This summary supponts the production-release quality gate
+checklist entries are timestamped for
+traceability: Check that inspection steps follow the approved procedure. Use this Ist to confin adherence to
+AOL and safely standards
+Confirm that sampling levels comply with customer agreements
+Product ID
+K-390K
+Customer
+BELGIUM
+Item Descrption
+Spacer2mm
+Review Points
+Inspection
+Classification
+Observations
+Depth
+Design Specs
+Hold
+Incoec
+Darccce 0nade
+Cntical impact
+Produc doesnt poweron
+Levei
+Minor issue obsened
+Hinges loose
+Level
+Needs reviewl
+Color mismatch
+Level
+Needs review!
+Exposed nail with sharp
+Level
+Needs review
+pot
+incotec
+quantily =
+Needs review
+assonment
+Supervised by:
+Date

@@ -1,0 +1,138 @@
+DAILY PRODUCTION REPORT
+Report No.: PR-218
+Customer: NORWAY
+Shift:
+(Night)
+Date: 14-04-2025
+Operator
+From
+End
+Time
+Remarks
+Status
+Equipment
+Operation
+Time
+Spent
+MC-204
+Drilling
+Agnieszka
+08.30
+09.09
+Completed
+Zielinska
+MC-208
+Assembly
+Przemyslaw
+06.00
+06.50
+Recalibrated
+Compleled
+Wasik
+MC-208
+Drilling
+Piotr
+08.00
+09.32
+Recalibrated
+Lewandowski
+progress
+MC-208
+Assembly
+Anna Nowak
+09.15
+10.45
+QDelay
+Completed
+MC-205
+Welding
+Mateusz
+10.15
+11.20
+Delay
+Compleied
+Jarzyma
+MC206
+Assembly
+Nadia Sauter
+08.30
+10,.26
+116
+Completed
+MC-201
+Drilling
+Magdalena
+08.15
+09.40
+Delayed
+Wilkowska
+MC-206
+Drilling
+Nadia Sauter
+13.00
+13.35
+NA
+progress
+MC-207
+Polishing
+Agnieszka
+08.30
+10.13
+Delay
+Zielinska
+progress
+that scrap
+percentaqu:
+align with quality benchmarks, Refer t0 remarks
+for any revrork
+quallly
+Contirm
+concerns: Ensure shift-handover notes include any pending issues
+Check material consumption
+standard usage rates. All operator notes have been archived for review.
+Item ID
+Target Qty
+Produced
+Scrap Qty
+Rejection
+Rework
+Notes
+Count
+Qty
+LP-S55V
+189
+176
+889/
+Scrap
+confimmed
+255
+225
+76%
+Scrap
+JD-7OOW
+confirmed
+LK-890B
+105
+10.48%k
+Rework
+needed
+CE-905L
+221
+200
+9.50%
+Rework
+needed
+QP-660F
+286
+274
+20%
+Scrap
+confined
+VF-220D
+156
+62%/
+Scrap
+confirmed
+Approved Dy:
+Prepared by:
+against

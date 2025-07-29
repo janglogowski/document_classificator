@@ -1,0 +1,88 @@
+Equipment Record Report #1552791
+Dale: 2025-05-24
+Unin Code
+Machine
+Senvice
+Type
+Technician
+Duration
+Area
+MC-247
+Convevc
+Belt
+Preventive
+Laun
+3ossi
+Note5
+Plant 28
+Kionmennol
+hinges
+MC-280
+Paint Boolh
+nspecticn
+4nna kowar
+B0MSICC
+Plant 34
+Changed Dl
+MC 294
+Plasma Cutter
+Insp ecion
+ano Wulurs
+Jan Kowalski
+Plant 1C
+Tightened
+MC-229
+Hydraulg
+Comecmive
+AnnaNcvak
+lpcse bolls.
+Press
+Piant 2B
+Replaced
+MC 295
+Lasei
+Cutter
+Insceclion
+cooiang
+Kowalski
+Plart 34
+Nlignment ol
+MC-267
+Luser Culler
+Cure civc
+Carlos
+Garciz
+adjusted
+Plant 2B
+Worn gasket
+MC-250
+Hydraulic
+Insoc ctiom
+ruplaced
+Garcia
+Plant 34
+Alignment 0f
+hinges
+admsied
+Maintenance
+notes are archived for compliance audits
+Confirm that all correclive actions
+Record
+any spare parts usage for Inventory
+were
+urupeci
+closed out
+ddiusimeni
+Archive Inis summary
+CMMS Ior future reference_
+Lubricalion
+Cnucked
+Culbratian
+Verfied
+EMeroency
+Stop ]sted
+AFproved by: _
+Serviced by:_
+ninges
+Cancs
+Prejb

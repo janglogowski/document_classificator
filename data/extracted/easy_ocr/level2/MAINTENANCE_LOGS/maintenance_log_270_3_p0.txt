@@ -1,0 +1,98 @@
+Equipment Record Report
+Perforrned On: 2023-11-05
+Approved byi
+Peter Schmidt
+Ceddy
+Nowak
+Beloy
+8 umnhmnan
+sanricajctiong and dowuntimius
+eechmachine
+Please reviewv this log for recent semice datcs
+typ8s
+and rurmugks
+technician cormnents are recorded tor malntenance trund Jnalysis- Use this suMaly
+fofecast
+parts replacement androsource needs
+This service summary supports the reliability engineering review.
+Section
+Machine ID
+MC-296
+MC-20g
+MC-223
+MC-2J0
+FC235
+Equlpment
+Hxdraulic Fre55
+Packaging Line
+Aei
+Cutter
+Lusur Cutter
+CNC Mmling
+Heching
+Scnice
+pravuntivc
+Correcint
+Comective
+Inspecton
+Coirecuve
+Jype
+Tec hnician
+Ovaiski
+Peter Scnmiot
+Peter Schmidt
+Carlos Garcib
+Luuqe
+Aoee
+Duuretlon
+comments
+enrened oojc
+Hetilled
+Toil (HLP
+Ruplaced (u3B
+Tiantened 10032
+Swch cuntacl
+bo s
+DCig
+cleaned
+Sectlon
+Machine
+MC-ZJu
+NC-2og
+NCZ3E
+MC ?23
+HC296
+Equipment
+Lasur Cutter
+Palckadna Line
+aarcr
+Cutter
+Avorauic Pres?
+Maching
+Senvice Ivpc
+inspecuon
+Cotrectne
+nsdect
+preventive
+Inspection
+Technician
+AnnaNo bk
+Carlos Garcia
+Lanra Rc331
+Cuios Garcie
+Laa Rassi
+Duration
+Camments
+Renlaced [u9e
+Worm
+Raplacca
+Replaced fuse
+replaced
+cuolani
+Uptime (B)
+ount
+Noles
+Rolt Fiphtened
+8.1640
+cne
+Rnsaot

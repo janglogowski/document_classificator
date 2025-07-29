@@ -1,0 +1,72 @@
+HOM Report
+All entries reflect the latest inventory ard supplier rates Use this schedule of parts to
+align with
+and stock levels The component roster below includes unit costs and batch codes Review the
+materials
+tally for compliance with budget allowances;
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+0,55
+7.15
+Urzent
+Stopper
+Wooden
+pCS
+15.00
+750,00
+Certified
+Pallet
+batch
+Sensor
+0.95
+14,25
+Switch
+tested OK
+Bearing
+pcs
+24.00
+High
+6202 Z7
+Grade
+Digital
+15.00
+75,00
+Hign grade
+Display Unit_
+Gasker
+1.25
+58-75
+SKF brand
+Sheel 44
+Spacer Zmm
+0.15
+5.55
+ROHS
+Sensor
+compliant
+33.25
+Urgent
+Final amounts include
+handling and logistics costs where applicable:
+All sourcing notes have
+for audit purposes;
+been logged
+Customer_ID: FINLAND
+Coordinator: Jan Kowalski
+Date: 2025-04-29
+Product ID: RX-3102
+nterna
+6189625
+Qty; 180
+Total Amount;
+967.95
+sourcing
+clip
+ciip
+Orcr

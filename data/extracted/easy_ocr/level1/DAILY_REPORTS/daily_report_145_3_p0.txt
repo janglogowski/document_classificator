@@ -1,0 +1,91 @@
+Report No:: PR-734
+Customer: FRANCE
+Shift:
+(Night)
+Date: 25-03-2024
+Machine
+ask
+Technician
+Begin
+Finishh
+Time Spent
+Notes
+Condition
+MC-209
+Welding
+Plotr
+10.15
+11-55
+100
+NJA
+Delayed
+Lewandovski
+MC-204
+Polishing
+Jan Kowalski
+09.15
+09-53
+NA
+Inprortess
+MC-208
+Welding
+Mateusz
+06.30
+07-28
+NJA
+Delayed
+anzyna
+MC-207
+Assembly
+Plotr
+09.15
+11-00
+Delaved
+Lewvandowski
+MC-201
+Assembly
+Jan Kowalski
+08.15
+08-39
+Delayed
+MC-208
+Welding
+Przemyslav:
+11.00
+11.21
+NA
+progress
+Wasik
+This closure summary signals readiness for the next productian run; All operator nates have been archived far review:
+Archive this output summary for end of-day reporting Check material
+cansumctan
+against standard usage rates:
+Refer
+remars Oranvewon
+@la corcerns
+Product ID
+planned
+Produced
+Scrap Qty
+Reworked
+Notes
+Output
+Qty
+Units
+WD-1805
+186
+179
+3.7676
+Scrap
+contirmed
+NU-4402
+242
+214
+11,57%
+Scrap
+confirmed
+XK-61QU
+5.8026
+Approved by:
+Prepared by:_
+Scrap

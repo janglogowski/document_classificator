@@ -1,0 +1,53 @@
+Unit Data Specification
+This technical overviev" supports the product-release checklist Check that all materia
+specs
+align
+supplier
+certifications Refer
+this configuration summary for unit- designation mapping: Use this spec sheet to validate
+assembly instructians;
+Please review the specifications and material composition listed below This sectian details the
+configuration and parameter set for the product: All data entries are traceable to design revision history:
+Product ID
+NE-2454
+Report
+7066614
+Prepared bv: Anna Nowak
+Approved by: Anna Nowak
+Date: 2025-02-12
+Model Type
+Pneumatc
+Contral Unit
+Design Pressure
+300 dar
+Throughput
+75 L{min
+Operating Voltage
+A00
+50Az
+Cooling
+Alr-copled oll adialor
+Motor Power
+Dlmenslons (LxWxH)
+1000
+650
+1000 mm
+Working
+10'C to 50'c
+Protection Class
+Confirm that all test conditions are accuratcly represented
+Arcmive
+this summary for future design-change
+management
+Document cantrol numhers are included far trareability- Data sheet has heen peer-reviewed by the
+engineering team Check that all section headers follow the product template
+Ensune
+glossary
+terms match the
+engineering nomenclature. Refer
+Waramnete
+table for operating ranges and tolerances:
+No :
+Temp
+Range
+0p54

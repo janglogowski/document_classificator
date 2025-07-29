@@ -1,0 +1,93 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descnption
+Copper
+0.60
+24.00
+Hinge
+Wire 3mm
+alignment
+adjusted
+Spacer
+pCS
+0.15
+5.70
+Impored
+2mm
+Battery
+pCS
+25.00
+550.00
+High grade
+Pack
+Power
+pCs
+1.20
+48.00
+Eco
+Swtch
+compliant
+Insulation
+pCS
+3.20
+124.80
+ISO-
+Foam Pad
+verified
+Spacer
+pCS
+0.15
+6.75
+Switch
+2mm
+tested OK
+Heat
+2.70
+75.60
+Certified
+Resistant
+batch
+Sleeve
+Bearing
+pCS
+1.50
+40.50
+Certified
+620222
+batch
+Contro
+pCS
+12.00
+84.00
+High grade
+Panel
+Mount
+Heat
+2.70
+121.50
+Li-Ion
+Resistant
+battery
+Sleeve
+installed
+Verify that all remark items meet the sourcing department'$ standards: This final review confirms
+that all items are ready for requisition
+All sourcing notes have been logged for audit purposes
+Customer ID: POLAND
+Coordinator_Anna Nowak
+Dale
+2023-11-04
+Product ID: ZR-ZO5R
+Intemal
+3662523
+Order
+192
+Tota
+Amount
+1,080.85
+OtL

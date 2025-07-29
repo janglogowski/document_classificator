@@ -1,0 +1,110 @@
+DAILY PRODUCTION REPORT
+Roport _
+PR-753
+Custamer
+POLAND
+supeivisor:
+lano nlyki
+Dupurtmient 
+Packaring;
+Dale
+15-12-2023
+Shilt:
+(Evoningi
+Machine ID
+Task
+echnicinn
+Fram
+End Time
+Time Spent
+Natea
+MC-201
+Assembly
+Wiktor
+11,30
+13.13
+103
+Kopczyrski
+MC 203
+Polishing
+nnm Novak
+14'in
+15'4,
+Deiny
+MC-201
+Polishing
+Nadia Sauter
+14,00
+14,27
+Recalibrated
+MC-202
+DrlllIng
+Wiktor
+09,30
+11.29
+119
+Kopczynski
+MC-?03
+Welding
+Mepdalena
+14,30
+16;17
+107
+Delny
+Witkowska
+MC-201
+Welding
+Agnieszka
+13;15
+15,07
+112
+Zielinska
+MC-?07
+Drilling
+Wiktor
+10;00
+11;20
+Kopczynski
+MC-207
+Drilling
+Kowalski
+14,00
+19'Su
+110
+Delay
+Item ID
+plnnned
+Achieved Qty
+Rejected Qty
+Scrap
+Uwagi
+Output
+CN-
+SUC
+9,8206
+DX-777
+125
+13,6096
+Rework needed
+BZ-G60F
+182
+4165
+9.3440
+TY-350G
+296
+288
+2.7098
+Scrap
+conlumed
+Gi-7701
+203
+196
+3.4590
+Rawoik ncaded
+Prepared
+Potor Schmidt
+Approved by;
+Mna
+Nownk
+No -
+by:

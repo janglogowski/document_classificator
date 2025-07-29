@@ -1,0 +1,64 @@
+Inspection Sheet
+#2161673
+Date: 17.07.2025
+Product ID
+RX 3102
+Customer ID
+FINLAND
+Item Description
+Hinge Set
+This section details quality requirements and test points for the batch: Use this extract
+coordinate sign-off
+with the QA manager: This summary supports the production-release quality gate_
+Check that inspection
+steps follow Ihe approved procedure; Entries include both visual and functional inspection items
+checklist entries are limestamped for traceability:
+Review Points
+Sampling
+Severity
+Notes
+Level
+Item Specs
+Critical
+Major
+OnHold
+Packaging does not
+issue
+Level IlI
+match signed sample
+Obsered
+Carton
+damaged Or
+Level IlI
+Critical impact
+markings incorect
+Exposed nail with sharp
+Level
+Needs review
+point
+Screws loose or mnissing
+Missing distrbutor
+Level III
+Critical impact
+intomation
+Minor issue
+Connector not working
+Level IlI
+Obsened
+Package
+not sealed
+Level L
+Critical impact
+completely
+Rubber texture Or
+Level
+Needs review'
+glossiness mismatch
+AQL Level
+Critical
+Maior
+Minor
+Default
+Customer specific
+Minor
+Minor

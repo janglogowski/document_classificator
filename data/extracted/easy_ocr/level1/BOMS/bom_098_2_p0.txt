@@ -1,0 +1,58 @@
+Customer ID: CANADA
+Prepared by: Laura Rossi
+Product ID: DX-777T
+Internal No:: 4352769
+The component roster below includes unit costs and batch codes
+This summary lists every item
+required, with per-unit pricing details.
+All entries reflect the latest inventory and supplier rates:
+Below is the component listing and associated costs for the upcoming production batch: This
+extract shows the bill of components and total
+projected spend_
+The
+manifest here is
+designed t0 suppart procurement workflaws
+No
+Item
+Digital
+Grease
+Ventilation
+Epoxy
+Ventilation
+Digital
+Description
+Display
+Grid
+Resin Kit
+Grid
+Display
+Unit
+250ml
+Unit
+Qty
+449
+358
+528
+UOM
+PCs
+Unit Price
+15.00
+5.00
+Amount
+6,735.00
+680.
+2.576.00
+5.409.30
+956.80
+8,580.00
+Remarks
+Li-Ion
+Eco
+ISO-
+battery
+compliant
+verified
+installed
+TOTAL: 26,937.30
+pans
+Tube

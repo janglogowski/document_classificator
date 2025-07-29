@@ -1,0 +1,57 @@
+Tolerance Check
+ecnnician
+JanKowabkI
+Inspection Date
+2024-11-01
+Article No.
+KV-39OK
+VF-220D
+PW-51SY
+Kv-39ok
+Component
+Set
+Rubher Gasket
+Power Switch
+Rubber Gasket
+80ti
+Bomn
+Mleasurement
+Depth
+Widin
+~ole
+Lenain
+Nominal
+75.44
+63.02
+51.33
+Actua
+75.51
+62.85
+68.74
+51.17
+delita
+Pass /Fail
+Cross-verify measurement data with CAD nomina
+values
+Overall inspection summary indicates acceptable
+quallity levels: This assessment reflects (he latest metrology results. All dimensions within tolerance have
+been marked as OK.
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last
+Calibration Date
+Laser Scanner
+65280
+2024-12-20
+CMM
+26199
+2024-08-10
+Laser
+Scanner
+93496
+2024-10-08
+CMM
+75241
+2025-01-01
+Hinge

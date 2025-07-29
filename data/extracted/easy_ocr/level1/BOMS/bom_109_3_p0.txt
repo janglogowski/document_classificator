@@ -1,0 +1,96 @@
+COMPONENT BREAKDOWN
+This extract shows the bill of components and total projected spend_
+Use this breakdown-
+verify
+sourcing and cost estimates Please review the itemized list of parts and material specifications before
+procurement
+AIl line-item costs are current
+vendor quotes
+This document
+orovides
+detailed
+breakdown of all components required for the assembly process.
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption
+Insulation
+3.20
+108.80
+Foam
+compliant_
+Steel
+Sheet
+170.00
+Switch
+A36
+tested
+LED Light
+90,00
+For export
+Strip
+Ceramic
+2.10
+44.10
+Imported
+Disc 80mm
+Packaging
+1.00
+5.00
+For export
+Box
+Grease
+1.90
+28.50
+Eco
+Tube 250ml
+compliant
+Grease
+62.70
+Tube 250ml
+alignment
+adjusted
+Protective
+63.00
+SKF brand
+Sleeve
+50mm
+Control
+pCS
+12.00
+156.00
+SO-verified
+Panel
+Mount
+Insulation
+pcS
+3.20
+108.80
+Li-Ion
+Foam Pad
+battery
+installed
+Bearing
+pcS
+1.50
+24.00
+Switch
+6202 ZZ
+tested OK
+All listed components have been verified for availability and compliance; Amounts reflect current pricing;
+adjust as necessary for bulk orders. Verify that all remark items meet the sourcing department's
+standards
+Customer_ID: BELGIUM
+Coordinator: Carlos Garcia
+Date: 2024-03-11
+Product ID: ZR-2OSR
+Internal No.
+8179049
+Order Qty: 327
+Total Amount:
+860.90
+Der
+Hinge

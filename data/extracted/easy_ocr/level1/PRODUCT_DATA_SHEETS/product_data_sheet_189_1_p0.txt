@@ -1,0 +1,72 @@
+Project;
+730X
+Internal No
+8286683
+Prepared
+Laura Rossi
+Approved Bx:
+Peter Schmiat
+Location: Plant 3A
+Date: 2024-02-01
+This section details the configuration and parameter set for the product; This technicab
+ovenlev
+supports the
+product-release checklist Use this sheet t0 confirm engineering requirements and tolerances. Ensure all
+referenced standards are Up t0 date_
+Check that all material specs align with supplier certifications. The
+following information outlines performance characteristics and design data
+Configuration Type
+Pneumalic Control Untt
+Rated Pressure
+180 bar
+Throughput
+30 Umin
+Operating Voltage
+480
+60 Hz
+Reservoir Capacity
+120
+Pump Type
+Piston Pump
+Frame Material
+Aluminum Frame
+Filtration
+10 um retum, 25 Hm
+suCtion
+Protection Class
+IP54
+Charging Time
+Contro
+Valve
+Manual Override 3/2
+Total Weight
+230
+Motor Power
+Battery Capacity
+Oil Type
+HLP 32
+Service Interval
+500 h
+Mounting
+Rack irame
+Dimensions (LxWxH)
+1000
+650 * 1000 mm
+Noise Level
+70 dB(A
+Cooling
+Air-cooled oil radiator
+Working Temp. Range
+10C to 50"C
+Material 0i Construction:
+Subcomponent
+Composition
+~RingNBR G0mm
+Nitile Rubber (NBR
+Hinge Sez
+Stainless Steel 304
+Therma
+Fuse
+Ceramic Oxide
+Gasket Sheel
+Nulle Rubber (NBRL

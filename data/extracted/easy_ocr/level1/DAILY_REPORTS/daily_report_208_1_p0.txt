@@ -1,0 +1,104 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-487
+Custcmer:
+NORWAY
+Supervisor:
+Knna
+Nowak
+Department:
+Logisuics
+Date:
+25-02-202
+Shift:
+(Evening
+Machine
+Task
+Worker
+Begin
+End Time
+Duration
+Uwagi
+Umini
+MC-201
+Welding
+Mateusz
+08.15
+09.46
+Jarzyma
+MC-201
+Drilling
+Anna Nowak
+10.00
+11.36
+MC-207
+Cutting
+Jan Kowalski
+08.15
+09.33
+MC-205
+Polishing 
+Jan Kowalski
+09.58
+Delay
+MC-207
+Drilling
+Piotr
+13.30
+14.07
+Lewandowski
+MC-205
+Culting
+Piotr
+07.00
+08.08
+NA
+Lewandowski
+MC-206
+Cutting
+Wiktor
+08.00
+09.29
+Delay
+Kopczynski
+MC-207
+Culting
+Bartosz
+13.00
+13.26
+Recalibraled
+Wawrzyniak
+MC-202
+Polishing
+Przemyslaw
+12.15
+13.10
+Wasik
+Item ID
+Planned
+Achieved Qty
+Defect Qty
+Failure
+Uwagi
+Qutput
+WD-180S
+289
+269
+6.92%8
+Rework
+needed
+XD-Z1OR
+207
+188
+9.1886
+NU-440Z
+150
+128
+14.67%0
+Rework
+needed
+Prepared bX:
+Carlos Garcia
+Approved DY:
+Carlos Garcia
+MA

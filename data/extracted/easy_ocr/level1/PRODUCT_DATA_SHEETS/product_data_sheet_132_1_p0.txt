@@ -1,0 +1,80 @@
+Product Overview
+Praject:
+SS55V
+7833588
+Prepared
+Laura Rossi
+Approved By:
+Anna Nowak
+Location; Plant 28
+Date; 2023-09-08
+Mode
+Type
+Hydraulic Powe
+Unit
+Operating Pressure
+250 dar
+Flow Rate
+75 Limin
+Voltage_
+50 Hz
+Mator
+Power
+Frame
+Material
+4luminum
+FraMe
+Control
+Valve
+Mamua
+Ovenide 3/2
+Charging Time
+Dimensions (LxWxH)
+1200
+700 * 1100 mm
+Filtration
+return; 25 pm
+Oil Type
+HLP 46
+Reservoir Capacity
+120
+Mounting
+Racktrame
+Service
+Interval
+12 months
+Cooling
+Water-cool
+exchaneer
+Protection
+IP54
+Noise Level
+70 dB
+Total
+Weight
+250Kg
+Material -
+Construction:
+Part
+Raw Material
+Pressure
+CZ1Z1
+Cooling Gel Pack
+Sllicone Rubber
+Capacitor 4S0V
+Aluminum 6061-T6
+Powci switci
+Polycarbonate
+Loppcr
+Wcoden
+pallet
+Treated
+Pine Wooo
+Gasket
+Nitrile Rubber INBRL
+10 Wm
+sucuon
+Cias:
+Vahve
+Brass
+Sncet

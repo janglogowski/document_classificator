@@ -1,0 +1,68 @@
+Quality Checklist
+#3562191
+Date: 17.07.2025
+Product
+BZ-660F
+Customer ID
+GREECE
+Item Description
+Support Foot Steel
+This checklist cantures quality inspection paints and sampling levels
+This section details quality requirements andtest
+for the batch: All checklist entries are timestamped for traceability. The following table outlines Inspection
+criteria and dlassification levels, Archive this list in the quality-management system: Confirm that sampling levels
+comply with custome
+aereements
+Ensure all non-conforming
+clearly documented
+Entries include both
+VISUZ
+and functiona
+uspection IlCMis
+This closure summary Indicates compliance with Inspection criteria:
+Audit Criteria
+nspection
+Category
+Comments
+Depth
+Design Specs
+Critical
+Major
+Minor
+OnHold
+unscruction Mamuai
+missing
+damaped
+Hinges
+Jose
+Level II
+Needs revi
+Packaging
+daes not match
+Minar issue observed
+signed sample
+Wuood solnter
+or sharp
+Level [
+Critical Impact
+draduci
+Paint smearing or scratches
+Critical Impact
+Package
+not scaled
+completely
+AQL Level
+Critical
+Mjior
+Mor
+Default
+Customer specific
+Archive this summary in the audit-readiness folder.
+marked for hold require Jdditional
+reviev
+before release:
+All critical and major inspection points have been addressed. Carrective actions are scheduled far identified issues:
+poinu
+Monks
+point
+Items

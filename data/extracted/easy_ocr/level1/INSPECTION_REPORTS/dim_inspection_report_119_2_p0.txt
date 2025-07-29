@@ -1,0 +1,90 @@
+inepecicl
+JeeAO ue
+Inspection Dale
+2025-03-21
+This data extract
+prepared for quality-control
+sign-off. The following dala captures key dimensions and any
+deviations identified_
+This summary f measurements supports metrology traceability. The inspection
+register below highlights any oul-of-tolerance parts;
+Item Code
+TR-2OOB
+MC 540X
+MR-160H
+MR-I60H
+OP 660F
+MR-160H
+MC 540X
+Component
+Waaden
+Waader
+Wooden
+Ballery
+Sleel
+Waoden
+Rubber
+Pallet
+Pallet
+Pallet
+Pack
+Sheet A36
+pallet
+Gasket
+80mm
+Dim;
+Length
+Lengin
+Width
+Inner
+Height
+Length
+Height
+Diamete
+Target
+69,53
+25.20
+30.32
+48 36a
+41,65
+Actua
+25.16
+30.14
+48.25
+5.15
+Diff
++046
+0.04
+~O.1B
+-0.10
+~0 16
+0.08
++0.20
+pass Fai
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Please address any NOK items before proceeding to the next production stage. Components failing
+inspection require immediate review and correclive action. Flag any components requiring re-machining 0r
+adjustment: Overall inspection summary indicates acceptable quality levels:
+Instrument Calibration Log
+Instrument
+Serial No_
+Last
+Calibration Date
+Micrometer
+54423
+2024-12-17
+Caliper
+60349
+2025-02-04
+CMM
+66411
+2025-04-06
+CMM
+'8693
+2024-10-02

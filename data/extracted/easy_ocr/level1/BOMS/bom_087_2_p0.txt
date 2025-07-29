@@ -1,0 +1,31 @@
+Customer ID: SWEDEN
+Prepared by: Laura Rossi
+Product ID: TX-820V
+Internal No.=
+4803728
+This section outlines the parts, unit prices and total amounts for assembly. All line-item costs are
+current as per vendor quotes: The parts manifest here
+designed t0 support procurement
+workflows. Below is the component listing and associated costs for the upcoming production batch:
+Item Description
+Spring Washer M1o
+Ventilation Grid
+Copper Wire 3mm
+Qty
+526
+279
+UOM
+Unit Price
+.60
+Amount
+26.30
+2,581.60
+167.40
+Remarks
+alignment
+Li-Ion battery installed
+grade
+adjusted
+TOTAL: 2,775.30
+Hinge =
+High

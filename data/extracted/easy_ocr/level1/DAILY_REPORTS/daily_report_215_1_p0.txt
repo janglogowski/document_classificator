@@ -1,0 +1,97 @@
+Shift Summary
+Repont No :
+PR-456
+Customer:
+GREECE
+Supervisor
+Jan Kowalski
+Department:
+Maintenance
+Date:
+16-12-2023
+Shift
+(Night)
+Machine ID
+Task
+Worker
+Stant
+Finish
+Total
+Uwagi
+duration
+MC-202
+Cutting
+Piotr
+09.00
+10.05
+Delay
+Lewandowski
+MC-206
+Assemoly
+Jan Kowalski
+06-00
+06.39
+NA
+MC-206
+Polishing
+Magdalena
+10.30
+11.17
+Recalibrated
+Wikkouska
+MC-202
+Assembly
+Bartosz
+08.30
+09-53
+NA
+Wawzyniak
+MC-201
+Welding
+Jan Kowalski
+08.30
+09-10
+MC-205
+Assembly
+Mateusz
+11-00
+12.22
+NA
+Jarza
+MC-202
+Drilling
+Magdalena
+14.15
+15.39
+Delay
+Wikowska
+Part ID
+Planned
+Achieved Qty
+Scrap Qty
+Rejection %
+Remarks
+Quteut
+FL-730X
+235
+2u1
+14470
+PW-515Y
+149
+14.7790
+Scrap
+confimed
+VF-2Z0D
+173
+172
+0.5890
+Rework
+needed
+VR-940T
+106
+6020
+Prepared bY:
+Jan Kowalski
+Approved DE
+Jan Kowalski
+Time

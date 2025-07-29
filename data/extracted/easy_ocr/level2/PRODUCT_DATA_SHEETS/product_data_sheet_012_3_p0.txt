@@ -1,0 +1,28 @@
+Unit Configuration
+Oncuneni
+No.; 1641235
+Praduct ID: XK-GIOU
+Date: 7025-06-79
+Model Type
+Pneumatic Control Unit
+Rated Pressure
+180 nar
+Flow Rate
+Voltage
+E0Hz
+Nalse Level
+69 dB(A)
+Mounting
+Skid Dase wilh vibration
+pans
+Charging Time
+Battery Capacity
+Motor Power
+Working Temp: Ranze
+45 C
+Dimensions LxWxHI
+1000 * 650
+1CQ0
+Prepared by: Arina Nowak
+Approved by: Peter Schmidt
+5cto

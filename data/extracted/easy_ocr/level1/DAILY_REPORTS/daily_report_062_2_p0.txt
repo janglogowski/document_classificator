@@ -1,0 +1,96 @@
+Production Log
+KeponNo;:
+PR-127
+Customer'
+NORWAY
+Supervisor:
+Laura Rossi
+Departmenl;
+Machining
+Shilft:
+(Night)
+22-07-2023
+All throughput figures are recorded for
+pacin
+planning: The summary below lists each station
+actua
+Versus
+planned outpul
+uasa[Buiei
+today" $ operation log and output summary for each workstation
+Machine
+Task
+Worker
+Begin
+End
+Time
+Comments
+Therma
+Energy
+Time
+Spent
+Reading
+Used
+MC-207
+Drilling
+Anna
+06.30
+08.23
+113
+66.5
+2.35
+Nowak
+MC-207
+Welding
+Bartosz
+10:15
+10.35
+Recalibrated
+59.5
+1.17
+Wawrzyniak
+MC-207
+Polishing
+11;00
+11,36
+69.5
+1.61
+Kowalski
+MC-205
+Welding
+Jan
+13.30
+14.73
+72.6
+2.86
+Kowalski
+MC-206
+Cutting
+Mateusz
+13.00
+13.42
+NYA
+70.4
+2.68
+Jarzyna
+MC-202
+Assembly
+Nadia
+11;00
+12.59
+119
+74.2
+2.88
+Sauter
+MC-208
+Assembly
+Agnieszka
+10:15
+11.19
+69.2
+2.08
+Zielinska
+Prepared byi
+Kowalski
+Anprovedpy;
+Pater Schmidt

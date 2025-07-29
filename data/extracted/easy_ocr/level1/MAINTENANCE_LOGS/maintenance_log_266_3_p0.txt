@@ -1,0 +1,134 @@
+Equipment Record Report
+Performed On: 2024-01-08
+Ian Kuwilski
+Perommeddy:
+Anna Nowak
+Aitechniciancommenis Are
+acorded For maintenance treng
+analusis
+Refer to the maintenance registe
+For detailed senice
+histones
+Ensufe
+RARe
+Cait 0 'VeTe
+Comdlete
+dunnp
+ervicing
+The folloving entries deta
+preventive and cofrective
+Mainienance tsks
+Below
+thig summar
+service Jction; ano
+downtimgs
+gach machine
+his soction capturde
+equipment stamus and an maintenance obeenvations
+This maintenance extract
+Jrepared toi campliance audit uails.
+Section_
+Unit Code
+MC 208
+HC735
+MC ?275
+MC?17
+NC777
+HC725
+Machine
+4S$urmuy
+Luscr Cullem
+Lasur Cuem
+Packaping
+Luser Cuuur
+Packagirg
+Robot
+Senicevpc
+Inspucion
+Pruvuntivc
+nsucclun
+Tnsuccliur
+cutclvt
+Ptuvuntive
+Operator
+Lanre
+305s1
+Carlo
+Garcip
+Caroe
+Garcis
+Laura Rossi
+Peter Schmidi
+Schmiot
+Downtime
+Note9
+LI-Ion battery
+No Issues
+Hetmllec Gil
+Callbration
+5 -tch
+Refilled
+pBC < genicer
+tound
+(HLP 461-
+check OK.
+contactz
+IHLP 461
+cleaned
+Sectlon
+Unit Code
+MC232
+MC-235
+MC-225
+MC-286
+MC208]
+MC275
+Machinc
+Packaging
+Lilsjcr Cuttur
+Packaging
+Packaging
+E""urba
+'lasc[
+Cutter
+Robot
+Senvice
+Type
+Codteclve
+Carieclive
+COMecive
+Jsdecdm
+nsDfcMOM
+HfASHLicM
+pcrator
+Jankowalsk
+EnnaNoyBk
+Pater Schmidt
+Jan kowalski
+Jankowjlski
+Carios Gafcid
+Downtime
+Nale;
+Warn Gasket
+Changed 0il
+L-Ion waliery
+Caldatin
+Alignment
+AWanment
+redlacem
+and filters
+pack serviced
+check OK.
+idjusicu
+dujusted
+Flag any recurring issues lor roct cause investiRation
+Ensure that each service entty has tne required approvals
+Conlitt that
+all corrective actiong were properly closed ouI.
+Uptimc (%)
+errorcount
+commcnts
+95 7104
+Slone8
+hineae
+hinpas

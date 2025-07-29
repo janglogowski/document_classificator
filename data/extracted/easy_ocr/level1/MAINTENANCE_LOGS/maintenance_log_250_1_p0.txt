@@ -1,0 +1,64 @@
+achinc
+EquipMent
+Service Type
+Hecnnician
+Duration
+AreR
+Oe
+MC-226
+Fiasma Lutier
+Inspection
+Carlos Garcia
+Flant 3/
+No Issues
+{aund
+MC-295
+CNC Milling
+Inspection
+Laura Ros;
+Piant IC
+Repiaced ruse
+Maichim
+MC 299
+Plasma Cutto
+cocrlctvt
+Jankowalsk
+Plant2B
+MC-238
+Packaging Line
+Correrve
+Jamra Rozs
+Plant IC
+Suritch contacte
+clcancd
+Mc25Z
+Hydraulic Press
+ocrecmve
+Lanos Grrcia
+Plant IC
+Rediace
+Is4
+MC-242
+Paint Bootn
+Preventive
+Vnvrak
+Plart 32
+Renlared
+cucani
+Check remalning Ilfe-cycles of key components from thls report
+Ensure next preventive sefvice
+scnedu
+accordinz
+pian
+Maintenance nctes are archived for compliance audits
+Use this closure ncte
+update the maintenance KPl tracker, No critica |
+(aults werefouna
+Ine /atest inspeciion
+Lupnicatict
+Checked
+Callbration Verified
+[merrency S odTerd
+Signed off:
+Performed by:
+qurte

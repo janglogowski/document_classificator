@@ -1,0 +1,68 @@
+BOM Report
+Item
+aty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pCS
+0.50
+23,50
+For export
+Gasket
+80mm
+Aluminum
+pCS
+85.50
+ISO-verlfied
+Bracket
+Spacer Zmnm
+pCs
+0.15
+5.70
+ISO-verified
+Steel Sheet
+5.00
+90,00
+For export
+A36
+Power
+pCS
+1.20
+28,80
+Switch
+Protective
+27,00
+Urgent
+Sleeve
+50mm
+Epoxv Resin
+7.30
+226.30
+SKF brand
+Packaging
+1,00
+38,00
+ROHS
+Box
+compliant
+Gasket
+1.25
+16,25
+Li-Ion
+Sheet A4
+battery
+Unstalled
+Customer ID; GREECE
+Coordlinator: Carlos Garcia
+Date; 2022-10-24
+Product ID: DX-7771
+Internal
+No -
+4302060
+Order Qty: 105
+Tota
+ammnt
+541,05

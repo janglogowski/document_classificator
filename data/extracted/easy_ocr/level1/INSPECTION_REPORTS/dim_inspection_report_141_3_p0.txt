@@ -1,0 +1,138 @@
+Component Dimensional Check
+Inspection performed by Anna Nowak on 2023-10-29.
+The inspection register below highlights
+out-of-tolerance parts_ Review recorded tolerancos against
+engineering specifications: Use this examination summary to confirm component conformity: The following
+data captures key dimensions and any deviations identified: Entries include both passifail markers and
+deviation magnitudes. This section details the measured values, tolerances_
+status
+Environmental Conditions: Temperature: 21.6
+C, Humidity: 54 %
+Article No
+Part Name
+Measurement
+Nomina
+Observed
+Diff
+Status
+AL-1150
+Wooden
+Hole
+85,86
+85.76
+-0.10
+OK
+(VIX)
+Pallel
+MR-160H
+Steel Sheet
+Thickness
+17.58
+17.39
+0.19
+A36
+SB-140D
+Wooden
+Height
+5 43
+5.51
++0.08
+Pallet
+A-115Q
+Hinge Set
+Height
+67.80
++0.03
+HF-390A
+Shaft
+Depih
+69.09
+69.10
++0.01
+s0Omm
+AL-1150
+Hinge Set
+Width
+40,08
+40.10
++0O
+SB-140D
+Power
+Innei
+54.36
+54.24
+-0.12
+Switch
+Diameter
+NU- 4402
+Steel Sheet
+Thickness
+54,19
+54.38
++0.19
+A36
+NU-4402
+Bearing
+Height
+74,24
+74.43
++0.19
+620222
+Xk-610U
+Hinge Set
+nncr
+89.64
+89.45
+0.19
+Diameter_
+JD-ZOOW
+Hinge Set
+Hole
+61.67
+67.62
+-0.05
+MX-450L
+Battery
+Length
+17,95
+18.00
++0.05
+Pack
+TX-820V
+Plastic
+Innci
+97.25
+97.27
++0.02
+Rivets
+Dianie
+PW-5158
+Plastic
+Hole
+32.04
+31.86
+-0,18
+Rivels
+SL 430M
+Rubber
+Lengtn
+48.15
+48.16
++0.01
+Gasket
+80mm
+VR-940T
+Hinge Set
+Hole
+4338
++0.03
+TR-2OOB
+Batlery
+widlh
+20.67
+20.67
++0.00
+Pack
+Jny
+and
+flags

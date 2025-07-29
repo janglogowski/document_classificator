@@ -1,0 +1,96 @@
+Component Overview
+Praiect:
+RM-BGON
+Unerna
+PR-471
+Prepared Bv:
+Carlos Garcia
+Approved By:
+LaMa Ross
+Location; Plant IC
+2024-09-28
+This
+eport extract
+prepared for design-verification audits
+Check that all material specs align wlth supplier
+certifications- This technica
+Dverviev' supports the product-release checklise. Ensure allrelerenced standards are up
+date, The following information
+performance characteristics
+design data
+data shee
+provides key
+specifications and material details. All data entries are traceable
+design revision history-
+Unit Type
+Cooling Circulation
+Design Pressure
+210 bar
+System
+Flat
+Rate
+L{min
+Operating Voltage
+480
+G0Hz
+Control Valve
+Preponional 472
+Battery Capacity
+Dimensions (LxWxH)
+I20u
+700
+1100 mm
+Working_
+10'C
+55"C
+Reservoir Capacity
+120
+Cooling
+Water-cooled exchanger
+Total
+Weight
+250k8
+Oil Type
+Mounting
+Rack
+Service Intenva
+500
+Protection Class
+IP67
+Filtration
+10 um retum, 25 pr
+Charging Time
+suction
+Noise Leve
+Z0 dB(
+Pump
+Type
+Gear Pump
+Ensure Blassary terms match the engineering
+nomenciature
+Use this summary
+cross-check with BOMand
+inspection reports Check that all section headers follow the product template: AIl summary comments have been
+recordeo
+the revision log: Overall configuration
+within defined design and safety margins:
+Material of Construction;
+Labe
+Raw Material
+Cooling Gel Pack
+Sicone Rubber
+FusC
+Celamic Oxide
+Baterpace
+Lithium Ion Cell Pack
+Capacito
+450V
+Aluminum 6061-T6
+Date
+Outlincs
+and.
+Temp
+Range
+Motor
+Powier
+Franie

@@ -1,0 +1,112 @@
+Alltechnician comments are recorged
+maintenance
+Trend anziysis
+Belowi Is the summary Of service acticns and downtimes for
+carh Maching
+Check that
+dowvntimi
+ents are properly categcrized and Icaged
+Please reviewr this E
+IOR for recent service dates;
+xpes and(emaike
+Use this $ummary
+Torecie
+pans (eciacemeng ane
+esclnceneeos
+Thls melntenince
+etacn
+prepared for
+compliance audit trails
+spare Parts Used:
+Part Namc
+Partno
+Qty Used
+Fise 52
+P-5578
+Hvdraulic Hose
+Sl)
+canad ucdue
+p-1610
+Unit Code
+achine
+Operato
+#otyntime
+Last Check
+Notes
+ML-Z16
+Lonvevor
+Preventive
+Jankowalski
+2024-U-Ua
+Worn 2a3*ec
+Belt
+renlaced
+MC-203
+CNC
+Lorrecuive
+Yo ak
+2024-10-07
+No issues
+Michine
+Tlnd
+ML-ZU
+Assembiv
+Insdection
+Peter
+2023-11-11
+Changed
+Ronc
+Scmmiai
+nd timecs
+MC-262
+Packapin?
+Preventive
+Larios Garcia
+2025-01-24
+Replaced
+Lcolant
+MC286
+Lonvevor
+Inspection
+corio; Garcia
+2024 05 22
+No isuCs
+Belt
+Tuund
+MC-249
+Latie
+cotrecuve
+Ljura Rosst
+2u24-05-27
+WorneasrCt
+replaced:
+Mc-768
+CNC Milling
+Pneventive
+Peler
+2024-07-29
+ClionIliok
+Machlne
+Scamiat
+check Ok
+MC 295
+Lascr Cuticr
+Prevcntivc
+curic, Gurcia
+2023-08-13
+Kienment oi
+hinges
+adiusted
+MC-292
+Asembi
+Preventive
+Larics Garcia
+ZuzS-UZ-ZZ
+Ketilled
+Robc[
+THLP 46
+ApprovedEy:
+Feter Scnmidt
+rulced Du'
+cchmidt
+Mlire

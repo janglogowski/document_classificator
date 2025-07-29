@@ -1,0 +1,111 @@
+Inspection performed by Peter Schmidt on
+This data extract
+prepared
+2024-05-29
+traceability: This secronarelailgr qealeaconeral sign-off
+summary of measurements
+tolerances against engineering
+cmeasured values, tolerances, and stalue
+supports metrology
+Environmental
+specificalions;
+(lags. Revlew recorded
+Conditions: Temperature: 23.0 *C;, Humidily: 58 %
+Item Code
+Part Name
+HF-390A
+Graphite
+Depiurement
+Nominal
+Observed
+Dlff
+Pad
+84,59
+84.75
+Status (VIX)
+GH-770J
+Steel Sheet
++0.16
+436
+Depth
+60.66
+60.85
+Kv-390k
+Shatt
++0.19
+Hale @
+64,56
+S0Omm
+64.70
++0.14
+MR-160H
+Wooden
+Pallet
+Depth
+89.92
+89.76
+TY-350G
+Shaft
+0.16
+Hole
+87.71
+500mm
+87.53
+-0.18
+JD-7o0w
+Shaft
+Width
+so0mm
+7.38
+Xk-610U
+Sheet
+Wiath
+36.48
+436
+XD-710R
+Plastic
+Width
+70.29
+XK-610U
+Rivets_
+70.30
++0.01
+Steel Sheet
+Depth
+A36
+68 56
+68.62
+MX-450L
++0,06
+Graphite
+Length
+Pad
+65.61
+65.45
+0,16
+MX 450L
+Width
+SB-140D
+0-Ring NBR
+Thickness
+28.44
+28.30
+0.14
+60mm
+15.56
+15,61
+TL-QooX
+Shaft
++0.05
+WNidth
+46.79
+s00mm
+46.91
++0.12
+Ok
+Thi :
+40.12
+Steel
+36.52
+-0.04
+Hinge

@@ -1,0 +1,80 @@
+BILL OF MATERIAL
+Use this breakdown to verify sourcing and cost estimates: This extract shows the bill of components and
+total projected spend_
+The parts manifest here
+designed
+support procurement workflows. All line -
+item costs are current as per vendor quotes
+Item
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Stainless
+0.35
+7.35
+For export
+Bolt M8
+Rubber
+0.50
+22.00
+export
+Gasket
+8Ornm
+Control
+12.00
+636.00
+Imported
+Panel
+Mount
+Insulation
+3.20
+32.00
+Hinge
+Foam Pad
+alignment
+adjusted
+LED Light
+2.50
+72.50
+ROHS
+Strip
+compliant
+Steel
+Sheet
+80,00
+Li-Ion
+A36
+battery
+installed
+55.00
+Clamp
+1.75
+54.25
+Urgent
+120nm
+LED Light
+2.50
+27.50
+Switch
+Strip
+tested OK
+Digital
+15.00
+360.00
+Display Unit
+This closure summary validates that all parts are approved for release;
+Customer
+NORWAY
+Coordinator: Peter Schmidt
+Date; 2024-11-05
+Product ID: TR-ZOOB
+unterna
+No:: 6807547
+Order Qty: 83
+Total Amount:
+1,346.60
+Hingc
+Rine

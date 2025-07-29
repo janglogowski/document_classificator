@@ -1,0 +1,122 @@
+Machine Log Summary
+Performed On: 2024-12-10
+Autnorizuo Dy;
+Po"i
+Uperator;
+Carlos Carcia
+Enaure pII safet
+Cneckstara
+completed during
+mcina
+The equipment log below includes fault codes and corrective
+noies
+This service summary supports the
+reliability engineering
+MA
+This maintenance
+Oeact
+prepared for compliance
+qucit trail;
+Checktnat &l downtime
+ovents are properly catogorized und lcgged.
+Sectlon
+Nac hine ID
+NC-28U
+FC-294
+YC-231
+MC-2JS
+NC-284
+MC-217
+Machlne
+Lathe
+plaeme
+Cnel
+CNC
+Palnt Booth
+Lathe
+Packaging
+Maching
+Service Type
+Corrective
+Preventi
+comective
+Loireciive
+Prevenina
+Insp BCtion
+Technician
+Laune
+Hassi
+Lauia
+Rosgi
+Laura Fc881
+Pelen Gchmidi
+Cailas Garcia
+Anne
+Vav ak
+Duration
+Notos
+5 vitch
+Rufilled oim
+Suritch
+Wcrn Busket
+ccnacis
+IHLP 46)
+canmacl
+renaced
+cleaned
+cleaned
+Section
+Machinc
+MC-294
+HC-226
+MC-290
+MC-220
+MC-274
+HC-231
+Nac hine
+Fasme
+Cutter
+Fiasma
+Cutier
+Pla3ma
+Cutter
+Lathe
+LagerCutter
+CNC
+Haching
+Selvice [Ype
+Inspection
+inspecrion
+nswetuui
+Coieciive
+prevenive
+Preventive
+WecanictAn
+Konalek
+Schmlat
+Lnna MOEk
+4nna Nciak
+Carlos Gercia
+404aig
+Duration
+Note5
+Tchtened
+ehtene
+Mientbnbo
+Re placeo
+Chanzed 0L
+Refilled oil
+lacsubuls
+looseboll
+Udus
+bolts
+EOma
+ind (illuns;
+IHLP 46)
+Uptime (%)
+Ccount
+comments
+9 7 144
+Bolt tigntened
+Mmoe
+Ming

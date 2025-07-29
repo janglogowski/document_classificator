@@ -1,0 +1,71 @@
+Equipment Record Report #6251633
+Date: 2024-12-19
+Machine
+Machine
+Type
+Technician
+Downtime
+Site
+Notes
+MC-251
+Plasma Cutter
+Cccct
+Pcter Scnmidt
+Piant IC
+LI-Ion baltery
+udc
+Reniced
+MC-290
+Packaging
+Inspection
+Carlos Garcia
+Plant 34
+MC 254
+Aasemci
+Preventive
+Laura Ro3si
+Piant 34
+Changed oil
+Rohot
+anomters
+MC-247
+Conveyor Belt
+cctrective
+Carlos Garcia
+Plant 1C
+Tightened
+Lpose bolls:
+MC 211
+Palnt Bcoth
+Inspectom
+Jan Kowalski
+Piant IC
+Alignment of
+hinges
+acjusted
+This log summary
+suppors tne
+asset-management dashhoard
+Fnsure
+nexi prevenive sevice
+scheduled according
+Ensure Inal uacn service
+has Ihe required approvals
+RelerE
+[amacks
+ary lollo"-Up aclions
+replacumenls
+Ovura
+equipment cond Lion
+salislaclory Post-manlunance
+SENKE
+surraries have buun (unvarded lo
+the engineering team
+Loncancn
+Checked
+Calibralion Vurilgd
+Emergency Stop Tested
+Approved by:
+Serviced by:
+unny
+parts

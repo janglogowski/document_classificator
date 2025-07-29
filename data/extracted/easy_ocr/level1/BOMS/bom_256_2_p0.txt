@@ -1,0 +1,32 @@
+Customer ID: POLAND
+Prepared by: Anna Nowak
+Product ID: JD-ZOOW
+Interna
+No:: 2459756
+Item Description
+Ventilation Grid
+Steel Sheet 436
+Rubber Stopper
+Insulation Foam
+Pad
+Qty
+637
+788
+520
+603
+UOM
+pCS
+Unit Price
+0.55
+Amount
+567.20
+940.00
+286.00
+1,929.60
+Remarks
+Li-Ion battery
+Urgent
+Certified batch
+nsia
+Iled
+TOTAL: 9,722.80

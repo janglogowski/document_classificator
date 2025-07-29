@@ -1,0 +1,105 @@
+DAILY PRODUCTION REPORT
+Report No:
+PR-29
+Customer
+GRFECE
+Peler Schmiat
+Supervisor:
+Deparment:
+Machining
+~05-2024
+Date
+(Evening)
+Sht:
+Proccss
+Technician
+From
+Duration
+Notes
+Machine
+(min
+Welding
+Wiktor
+09.00
+09.36
+NIA
+MC-207
+Kopczynski
+06.30
+07.57
+MC-208
+Cutting
+Kowalski
+MC-204
+Drilling
+Mateusz
+06.30
+07;09
+Jarzyna
+MC-204
+Cutting
+Przemyslaw
+09.00
+09.30
+Delay
+Wasik
+Drilling
+4tna
+12.00
+13.05
+MC-201
+Nowak
+Magdalena
+14.30
+16.16
+106
+Recalibrated
+MC-204
+Cutting
+Witkowska
+Polishing
+Przemyslaw
+08.30
+09.53
+Recalibrated
+MC-202
+Wasik
+Part ID
+Planned
+Actual Qty
+Rejected Qty
+Failure
+Comments
+Output
+250
+216
+13,6090
+Scrap
+XK-61OU
+confirmed
+VF-ZZOD
+269
+242
+10,049
+Scrap
+conlimed
+MC-540X
+226
+200
+1150%0
+295
+264
+10.519
+Scrap
+Kv-390k
+confimed
+CE-905L
+164
+12.20%
+Rework
+needed
+Peter Schmidi
+Prepared bXi
+4nna
+Nowak
+Approved by:

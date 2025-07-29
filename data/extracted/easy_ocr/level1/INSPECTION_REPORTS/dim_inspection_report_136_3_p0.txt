@@ -1,0 +1,140 @@
+Dimensional
+Inspection performed by Peter Schmidt on 2025-04-02.
+Please review the inspection results for each component Iisted below. This section details the measured
+values, tolerances
+status flags. Review recorded tolerances against engineering specifications: Use
+this resuits summary
+trigger any corrective actions 
+Environmental Conditions: Temperature: 20.4
+C, Humidity: 46 %
+Product
+Component
+Measurement
+Nominal
+Actual
+Diff
+Status (VIX)
+Ref
+QN-770H
+Shaft
+Depth
+80.27
+80.24
+0.03
+500mm
+HF-390A
+0-Ring NBR
+Depth
+68.72
+68.81
++0.09
+60mm
+SL-430M
+Graphite
+Depth
+75.86
+75.85
+0.01
+Pad
+MX-ASOL
+Hex Bolts
+Depth
+73,14
+73.32
++0.18
+M12
+HF-390A
+Shatt
+Hole
+16.31
+16.32
++0.01
+s00mm
+TX-820v
+~Ring NBR
+Length
+83,11
+83,06
+bUn
+TL-9oOX
+NBR
+widlh
+90.06
+90.05
+~0.01
+60mm
+CE-905L
+NBR
+Inner
+9.91
+9.89
+0.02
+60m
+Diameter
+JD-70OW
+Hex Bolts
+Height
+95.12
+95.18
++0,06
+Miz
+SB-140D
+Graphite
+Height
+77.71
+77.73
++0.02
+Pad
+MC-5AOX
+0-Ring NBR
+Thickness
+45,52
+45.59
++0,07
+60mm
+BZ-660F
+Wooden
+Hole
+13.55
+13.53
+0.02
+Pallet
+MC-540X
+Hinge Set
+Hole
+58.70
+58.59
+FT-730X
+Graphite
+Thickness
+59.18
+59.23
++0.05
+Pad
+VF-220D
+Battery
+Height
+24,09
+24.13
++0,04
+Pack
+NU 4402
+Set
+Length
+69.44
+69.46
++0.02
+RX-3102
+Power
+Inner
+83.4
+83.31
+0.10
+Switch
+Diameter
+Log
+and
+Ring
+Ring
+0.
+Hinge

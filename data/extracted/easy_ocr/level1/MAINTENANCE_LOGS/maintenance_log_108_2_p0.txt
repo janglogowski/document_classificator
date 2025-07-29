@@ -1,0 +1,122 @@
+Equipment Record Report
+2025-04-08
+This service
+3umman' suppons
+reliability engineering
+eview
+Refer [
+the maintenance register for
+detailed service
+hastories
+Belor"' is the summary
+service actions and dowintimes for each machine
+Use this record
+plan upcoming
+upkeep and repalfs
+his manlcnancc Gmci
+prepared lor compllance audlt tralls:
+Spare Parts Used:
+Part Name
+Part No
+Oty Used
+Sunsor Module
+P-274l
+Hydraulic Hose
+P-2272
+Sualing Gaskel
+P4733
+Qil Filter
+P.1057
+Machine
+Machine
+Type
+Operator
+Duration
+Previous
+Area
+Notes
+Senice
+MC- 290
+CNC Milling
+Preventive
+2025-07-14
+Lhlon
+Machine
+Kowalsk|
+battery
+Renced
+MC-216
+CNC Milling
+Corccivc
+Carlos
+2024-05-01
+Allgnment
+Machine
+Garcia
+hinges
+admsien
+MC-285
+Latha
+Prevantive
+4nna
+2023-11-18
+Calibraior
+Vowval
+CFAC
+MC 275
+Aosemci
+Corrective
+Laura
+2024-11-06
+No issues
+Robot
+Touno
+MC-233
+Assembii
+Corectve
+4nna
+2023-08-01
+Replaced
+Robji
+aovax
+MC 248
+Lathe
+Preventive
+Carios
+2024-11-26
+Replaced
+Garcia
+MC-254
+Convcvo
+Prcvcnivc
+Anna
+2024-10-23
+Calldraldn
+Bell
+Joval
+check OK
+MC-240
+Assembly
+Preventive
+2025-03-31
+Refilled oil
+Rohot
+Garcia
+(HLP 46)
+MC-279
+Lallg
+Inspcclicm
+4nna
+2024-07-31
+Alignment
+Nowak
+hinges
+adiusicu
+Signed off
+Schmidt
+Perlormed by:
+Arna Nowak
+nack
+Rossi
+Cart05
+Pejer

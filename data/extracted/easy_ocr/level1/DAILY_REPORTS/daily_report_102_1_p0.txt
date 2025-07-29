@@ -1,0 +1,123 @@
+DAILY PRODUCTION REPORT
+KeporNo-
+PR-330
+Customer
+SWEDEN
+Supervisor:
+Jan Kowalski
+Department:
+Quality Contral
+Dale
+17-05-2025
+Shift:
+(Night)
+Machine ID
+procese
+Wvorkem
+Start Time
+Finish
+Time Spent
+Comments
+MC-204
+Polishing
+Przemystav
+08;15
+08.55
+Wasik
+MC 207
+Polishing
+Dawid
+12.15
+13.31
+Oszmianczuk
+MC-202
+Welding
+Piotr
+07,00
+07.32
+Lewandowski
+MC 202
+Welding
+Lnna Nowak
+10.30
+11.15
+MC-204
+Drilling
+Piotr
+08.00
+08.30
+Lewandowski
+MC-207
+Drilling
+Dawid
+06;15
+08.15
+120
+Oszmianczuk
+MC-203
+Assemoly
+Anna Nowak
+U9;SU
+10.14
+Recalibrated
+MC-205
+Assembly
+Jan Kowalski
+09:15
+09.52
+MC-204
+Polishing
+Przemystav
+11,30
+13.10
+100
+NA
+Wasik
+MC-201
+Polishing
+Dawid
+07.30
+09.18
+108
+Oszmianczuk
+MC-202
+Welding
+Mateusz
+07;30
+08.19
+Delay
+Jarzyna
+MC-205
+Drilling
+Dawid
+1;o
+134
+100
+Oszmiariczuk
+Product ID
+Planned Qty
+Actual Qty
+Defect Qty
+Failure
+Remarks
+SB-I40D
+188
+160
+14,8936
+Scrap
+contirmed
+QP-660F
+287
+263
+3656
+Scrap
+confirmed
+S1-4306
+14.3781
+Rewanneeded
+Prepared by:
+Jan Kowalski
+Approvedby:
+Kowalski
+Delay
+Delay

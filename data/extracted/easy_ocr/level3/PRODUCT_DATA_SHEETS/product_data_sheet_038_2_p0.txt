@@ -1,0 +1,54 @@
+Product Data Sheet
+Belcw are the technical paraneters and construction materials for the unit This technical overview supports the
+product-release checklist: Please review the specifications and material composition listed below. Ensure all
+referenced standards are up
+date, Use this spec sheet to validate assembly instructions.
+Product ID:
+MX-450L
+Report
+PR-580
+Prepared by: Laura Rossi
+Approved by: Peter Sciimidt
+Date: 2025-03-15
+Configuration Type
+Cooling Circulatian
+Rated Pressure
+210
+System
+Fluid Flaw
+75 Umin
+Voltage
+400 V / 50 Hz
+Total Weight
+250 KB
+Noise Level
+dBIA
+Filtration
+jminline,
+pm return
+Dimensions (LxWxHI
+1000
+650 x 1000 mm
+Control Valve
+Proportional 4/2
+Battery Capacity
+All specifications meet the design requlrements and industry standards. Document control numbers are included far
+traceability. Data sheet has been peer-reviewed by the engineering team: This closure note Indicates the data sheet Is
+ready for release
+Elag any missing parameters for u:gent specification updates. Refer t0 parameter table for
+operating ranges and tolerances All summary comments have been recorded in the revision log:
+Material of Construction:
+lem
+Composition
+M6
+Zinc-
+ated Steel
+Battery_ Pack
+Lithlum-Ion Cell Pack
+Wiring Laom Im
+PVC (Rigid)
+Rubber Gasket B0mm
+Nitrile Rubber (CBR)
+NO :
+bal
+Nut

@@ -1,0 +1,93 @@
+Tha follovang entries Gelall preventive and correciiva mairiienance lasks. Use this summary to forerast parts replacament
+resovrce
+needs, Th s log records all malntenance activities performed on the equipmen Flcase revicw
+Icg fOr
+receniscry cC dalcs
+KDCE
+and remarks: Confrm Inat servica intervals follow tho proventive schedule
+Spare Pamts Used;
+ParName
+Pant No
+Otx Used
+P2
+Hroa-e Hose
+P.734s
+Unit Code
+Equipment
+Survci
+Wacnnician
+Vovintime
+Previous
+Site
+Notes
+Seruice
+MC-218
+Aasembly
+Insnection
+Carlos
+2023-08-19
+Sensor
+Roboi
+Garcia
+recal draleo
+MC-228
+Plasma
+Corracie
+Carios
+2024-09-01
+Tiahlenad
+Cutter
+Garcia
+loose bolis;
+MC-246
+Laine
+Corective
+Lnna
+2025-01-09
+Sunbor
+Nowak
+(ecaljraiec
+MC-297
+Asrendy
+Freveniva
+Arina
+2024-03-23
+Changed 0l
+Rcbot
+Nowat
+andiits
+MC-23I
+Lasut
+Unznecton
+Lanos
+2025-01-12
+No issueS
+Cutier
+Corcia
+Joung
+MC-242
+PISITIA
+Inspeciion
+pener
+2024-08-06
+Kionn enc
+Cumar
+5chmict
+hnges
+aojueted
+MC-288
+Plasma
+Cortucllve
+Carlos
+2025-05-10
+4 dodcn
+Cutar
+Garcia
+paic
+checked
+Authorized bX
+Koralski
+Udetalor
+Peter Schmii
+Hije
+Type

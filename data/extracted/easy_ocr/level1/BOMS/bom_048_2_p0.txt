@@ -1,0 +1,49 @@
+Customer ID: BRAZIL
+Prepared by: Carlos Garcia
+Product ID: PL-601Z
+Internal No.=
+8883093
+The parts manifest here is designed to support procurement workflows. This document provides
+detailed breakdown of all components required for the assembly process
+This summary lists every
+item required, with per-unit pricing details_
+Use this schedule of parts to align with sourcing and
+stocklevels. All line-item costs are current a5
+vendor quotes 
+Item
+Spring
+Protective
+LED Light
+Set
+Power Switch
+Description
+Washer M1O
+Sleeve 50mm
+Strip
+Qty
+874
+322
+591
+UOM
+pcs
+Unit Price
+0.05
+pmount
+43.70
+207.80
+1,177.50
+805.00
+709.20
+Remarks
+grade
+ISO-verified
+Hinge
+Li-Ion battery
+compliant
+alignment
+installed
+adjusted
+TOTAL: 3,943.20
+Pere
+Hinge
+High

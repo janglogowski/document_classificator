@@ -1,0 +1,83 @@
+Quality Checklist
+Inspection Checklist
+Check
+Severity
+Comments
+Points
+Intensty
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Missing distributor
+information
+Not assembled as per
+Critical impact
+drawing
+Connector nol working
+Level
+Needs review
+Missing logo
+warning
+Level II
+Minor issue
+Ace
+observed
+Carton
+damaged
+Level /
+markings incorrec
+Scrows loose or missing
+Level !
+LOOSe
+parts inside
+Critical impact
+packaging
+Instruction manual
+Level /
+missing or damaged
+Hinges
+100se
+Level
+Dcad
+live insect in
+Level
+packaging
+Incorrect quantity
+Needs review
+assortment
+Visual defect on housing
+Level
+Critical impact
+Exposed nail with sharp
+Level
+Critical impact
+point
+Wood splinter
+sharp
+ISsuE
+Level IlI
+point onproduct
+observed
+Rubber Switch not
+Level /
+working
+Color mismatch
+Levol
+Needs revicw
+Shipping mark is illegible
+Minor issue
+Or missing
+Observed
+Functionality test falled
+Level II
+Critical impact
+Reference Standards:
+Slandard
+Edilion
+CE Directive
+2020
+UL 61010
+4th Ed.
+Minor

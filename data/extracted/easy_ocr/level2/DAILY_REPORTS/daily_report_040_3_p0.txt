@@ -1,0 +1,111 @@
+DAILY PRODUCTION REPORT
+Customer: POLAND
+Report No:: PR-779
+Date: 26-06-2025
+Shitt:
+(Evening)
+Tolai
+Remarks
+Status
+Start
+Finish
+Machine
+Task
+Worker
+Time
+Time
+Delayed
+07.30
+08.28
+MC-206
+Welding
+Dawid
+Oszmianczux
+NIA
+Completed
+Assembly
+Agnieszka
+11.15
+12.16
+MC-206
+Zielinska
+Delay
+Delayed
+Jan Kowalski
+10.15
+11553
+Completed
+MC-201
+Palishing
+Kowaleki
+12,00
+13,03
+Delayed
+MC203
+Welding
+Jan
+09.23
+Delay
+Pollshing
+Dawid
+09.00
+MC-201
+Oszmianczuk
+NA
+Completed
+Dawid
+11.15
+12,01
+MC-207
+Polishing
+Oszmianczuk
+[Bcac
+supports the morning briefing
+Refer
+remarks for any rewrk =
+concerns
+Fhedierfor Overal production perfomance met
+unscheduled stops in the downtime regisier.
+agerida. Note any
+expectations for the aay:
+Rework Qty
+Uwagl
+Qby
+Actual Qty_
+Scrap Oty
+Scrap
+Pan ID
+Target !
+3.0490
+CN-IS0C
+263
+255
+14,66%
+Rework
+CE-9O5L
+116
+Rewark
+13%0
+needed
+MC-54OX
+177
+175
+9.B0%6
+ON-ZZOH
+153
+12.10%
+Scrap
+KP-320E
+248
+218
+confirmed
+Scrap
+6.4390
+140
+131
+canfirmeo
+JD-7OOW
+Prepared by:
+Approved by: _
+quality
+neuded

@@ -1,0 +1,137 @@
+Equipment Record Report
+Performed On: 2025-01-28
+Authorizedov
+Callas
+Ooctalar:
+Peter Schmldt
+The follovring
+enries detaipeveniv Jnd comectve
+maintenance tasks. The equiprient log below includes Iaull codas
+and corycIu noles
+Ailtechnician
+commnenis
+are recordcd Ior maintenance trend analysis
+Check that
+downlime
+evants are propedl
+calcdonzud and
+logged. Refer
+tne maintenance register for Cetailed service histories
+malntenance
+axtmact
+cepared iur
+cunpliance audit Irails -
+Bane
+this log for recent service dates, lypus,
+remams
+Sectlon A:
+Machine
+MC-203
+MC-?22
+MC-292
+MC-205
+MC 221
+MC-269
+aquipmntent
+CNC Milling
+Hyuraulic
+Palnt Boolh
+Packaging
+Lathe
+CNC
+Mirling
+Machine
+Picss
+Line
+Machine
+Service
+Prevcniive
+Preventive
+Unspeciion
+Cocteclive
+Ccrrective
+preventive
+Technician
+Peter Schmidt
+Laur Rossi
+Kowalski
+Garca
+Luura
+R0ssi
+Han xqwalski
+Downiime
+Comments
+Changed cil
+Tightored
+Switch
+Replaced
+Ruplacud
+nntened
+ang Mans
+Inose bolts.
+conlacls
+cC olan
+conlant
+onse DC(E
+clcaned
+Section B:
+Maching
+MC-205
+MC-221
+MC 228
+MC 222
+MC-292
+MC-269
+Equipment
+Packaging
+Lathe
+Lathe
+Hydraulic
+Painl Booin
+CNC
+Press
+Machine
+Scrvico
+Prevenmve
+Inspeclon
+Preventive
+Insnection
+sdeclion
+Comuclv
+Trlechnician
+Anna Nawrak
+Garcla
+Anna Noxak
+Canas Garcin
+Jankowaiski
+Laura
+Rass
+downtine
+Comments
+Replacud
+Switch
+Worn
+Swilch
+Tightened
+Refilled oil
+conlant
+comiacis
+reniace d
+contacis
+lbose bolts,
+(HLP 46).
+clbaned
+cleaned
+Uptime
+Entor Count
+Notes
+5208
+Bollt tighlened
+Gurgia
+Tni
+Type
+Canos
+Mhig
+Type
+Cartos
+gaskel

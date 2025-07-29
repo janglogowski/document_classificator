@@ -1,0 +1,36 @@
+Customer ID: POLAND
+Prepared by: Peter Schmidt
+Product ID: MS-6OOP
+Internal No:: 5588262
+Please review the itemized list of parts and material specifications before procurement_ Refer t0
+this
+register t0 plan raw-material purchasing
+The component roster below includes unit
+costs and batch codes. Below is the component listing and associated costs for the upcoming
+production batch;
+Ensure each component meets the specified quality standards_
+The following
+table summarizes the materials and quantities needed for the current project;
+No
+Item Description
+Resistant
+Ceramic Disc 8Omm
+Grease Tube 250ml
+leeve
+Qty
+959
+413
+UOM
+pcs
+Unit Price
+Amount
+927
+013.90
+784.70
+Remarks
+Certified batch
+Switch tested OK
+SKF brand
+TOTAL: 4,726.40
+parts
+Heat

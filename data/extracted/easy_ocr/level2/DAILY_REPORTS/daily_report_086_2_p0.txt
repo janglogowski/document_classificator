@@ -1,0 +1,103 @@
+Production
+PR-690
+Report No::
+Lustomci;
+Ian Kowalski
+superison
+Quality Controz
+Depanment:
+Shift:
+Evening
+21-12-2024
+Time
+Motes
+Temperature
+Energy
+Equipment
+Task
+Operator
+Begin
+Finish
+Used
+Spent
+Recallbrated
+59.3
+1.37
+06.00
+07.00
+MC-208
+Polishing
+Agnieszka
+Ze inska
+2.34
+07.49
+Recalibrated
+Mc-203
+Drilling
+Nadia Sauter
+2.64_
+MC-208
+Cutting
+Nadla Sauter
+09.15
+10,02
+Recalibrated
+73.4
+1,81
+Drilling
+Przemystaw
+08,00
+09.19
+MC-208
+Wasik
+73.9
+1.51
+MC-202
+Assembly
+pnemusiaw
+11.39
+Wasik
+57.4
+Ip elav
+Welding
+Banosz
+09.30
+11-04
+MC-201
+Wawrzyniak
+Recalibrate@
+MC-202
+Assembly
+Kowalski
+06.15
+08.06
+2
+Nowax
+3.39
+MC-205
+Cutting
+Annz
+Recalibrated
+58.6
+Agnieszka
+14,00
+15.06
+MC-209
+Drilling
+Zielinska
+63,9
+1.93
+Dawid
+14.30
+15.06
+MC-203
+Assemoly
+Oszmlanczuk
+Carlas Gurciz
+Prepareo
+Carlos Garcia
+Approved by:
+Log
+NORWA
+06;J0
+10,00

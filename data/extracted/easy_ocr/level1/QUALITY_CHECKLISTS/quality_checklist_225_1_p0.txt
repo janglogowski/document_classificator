@@ -1,0 +1,116 @@
+Conformance Report
+#5451523
+Date: 17.07.2025
+Product ID
+CF-9OSL
+Customer
+POLAND
+Item Description
+Nut M6
+This section details quality requlrements and test
+forthe batch: Check that inspection
+follow the
+approved procedure; Reter 
+the quality register for sampling
+olan reterences
+Tnis closure summary Indicates
+compliance with inspection criteria This surmary supparts the production-release quallty gate. Entries include both
+VisuJ
+tunctiana
+inspection items
+Quality Check Items
+Sampling
+Category
+Level
+Item Spec
+Hold
+Dead
+Iive insect in packaging
+Leve
+Critical Impact
+Wrong product size
+LLvL
+Shipping mark 
+illegible
+Levcl IlI
+Critical impact
+missing
+Loose parts inside
+packaging
+Level
+Missing safety labels
+Leve
+Neeosrevilt
+inciudeo
+Leve
+Critical impact
+Battety not
+raviet
+Paint smearing
+scratcnes
+Leve
+Notasscmbled
+drawing
+Leve
+Aucorrect barcade
+abel
+Needs reviewv
+kuobe
+Gwiton nol
+working
+Level
+Instniction Mamua
+Missine
+Level III
+damaged
+Screws
+dosp
+missing
+Levci
+Neeos revier
+Rubber texture
+Elossiness
+Level
+Needs review'
+rsmatcn
+Functionality test faled
+Connector notworking
+Missing LOgO
+warning Iane
+LCve
+Critical impact
+Ninor
+ansenved
+Package
+nor <ealed campielely
+Incorrect orientation
+Leve
+Critical impact
+AQL Level
+Criticai
+Mdioi
+Mlinar
+Default
+Customer
+specific
+Confirm that all sampling
+esults are within acceptable limits
+Tnis fina
+note confirms the checklist 
+complete and
+approved
+Flag any open issues
+the CAPA tracking system
+summan commente
+have been validated by the QA
+team
+Overall quality status Indicates
+comdiiance
+wlth defined AQL levels Archive this summary in the audit-
+Feadiness
+folder.
+seps
+points
+an
+Notes
+Necds

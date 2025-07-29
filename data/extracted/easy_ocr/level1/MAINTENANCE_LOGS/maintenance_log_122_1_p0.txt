@@ -1,0 +1,71 @@
+Equipment Record Report #9719859
+Date: 2023-10-21
+Unit Code
+Machine
+Service Type
+Technician
+Downtime
+Site
+Notes
+MC-257
+CNC Millng
+Unececham
+Jan Kowalski
+Plant 28
+Wcoden
+Machine
+Dallel
+Checken
+MC-299
+Conveyor Belt
+Corre ctive
+Carlos Garcia
+Plant 1C
+Tigntened
+iocee
+nolis
+MC-272
+Lager
+ingpeciom
+Laura Ross
+Plant 28
+Replaced
+cociani
+MC-215
+Assemb
+nsp echian
+Laura Rossi
+Plant 1C
+Replaced
+Rujol
+Lusu (54
+MC 248
+Assembly
+Cortectve
+Jan Kowalski
+Piant JA
+Li-lan
+battery
+Robot
+pacr
+senviced
+Maintenance
+noies
+archived for compliance audits
+any recucnno
+Iesues
+root-cause investigation
+This Iog
+sumMan
+supports Ihe assel-management Cashboard. Reler
+remarks lor any lallow-Up
+acliane
+pars
+replacemenls_
+Lubricalion Cnecked
+Calibralion Verifed
+Emergency Siop Tested
+Authorized by;
+Operator
+Cutler
+Flag

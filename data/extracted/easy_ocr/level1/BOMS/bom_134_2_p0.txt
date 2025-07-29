@@ -1,0 +1,36 @@
+Customer ID: TURKEY
+Prepared by: Peter Schmidt
+Product ID: HF-390A
+Internal No:: 3829708
+No
+Item
+Packaging
+Hex Bolts
+Sensor Clip
+Bearing 6202
+Cable Tie
+Description
+Box
+M12
+Pack (100}
+Qty 
+895
+362
+UOM
+Unit Price
+Amount
+578.00
+223.75
+343.90
+1,276.50
+175.75
+Remarks
+Certified
+Urgent
+SKF brand
+Eco
+Switch tested
+batch
+compliant
+OK
+TOTAL: 2,597.90

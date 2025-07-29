@@ -1,0 +1,91 @@
+Dimensional
+Technician
+Peter Schmidi
+Insheciion Dale
+2024-07+01
+AIl measured values are limeslamped ior, audit purposes
+Check Ihat all dlmensions comply wiih ISO and
+company standards. Refer Ig the dimensional log for all component size readings. This section details tne_
+measured values; (dlerances; and slalus
+Please review Ihe inspection results for each component
+Iisted below: Review retorded tolerances
+enginecring specifications.
+Product Ref
+Op-680F
+DX 77Z
+WD-1808
+XK-610U
+GH-7Z0J
+LP-SSSV
+RX-310Z
+Component
+Hex Bolls
+Bearing
+Bearing
+Ballery
+Sleel
+Rubber
+Shali
+M12
+6202 ZZ
+6202 ZZ
+Pack
+Shect 436
+Gaskel
+500mm
+Pumm
+Measurement
+Lengih
+Depi
+Thickness
+LenuL
+Depin
+Wvidih
+Width
+98.73
+7287
+45,95
+92,47
+83.26
+19,55
+Acta
+42.96
+98.7u
+73.03
+49 45
+444
+83.33
+19.69
+Delta
++0,09
+FOWu
+FulO
+PassiFail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Confin that pass rates meet the defined acceplance criteria_
+Ensure sialus flags are updated in the quality
+management system. Cross-verify measurement daia with CAD nominal values. Flag any components
+requiringre-machining or adjustment
+Instrument Calibration Log:
+Instrument
+Serial No;
+Last Calibration Date
+Laser Scanner
+26822
+2025-02-04
+Caliper
+93423
+2024-08-14
+Caliper
+49621
+202412.31
+Log
+Mags:
+againsl =
+Tarqu

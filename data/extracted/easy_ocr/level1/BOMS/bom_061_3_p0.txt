@@ -1,0 +1,93 @@
+COMPONENT BREAKDOWN
+Please reviewthe itemized list of parts and material specifications before procurement. Refer to this
+parts register to plan raw-material purchasing
+Review the materials tally for compliance with budget
+allowances_
+Ensure each component meets the specified quality standards _
+Below is the
+componenty
+listing and associated costs for the upcoming production batch: The parts manifest here
+designed to support procurement workflows_
+Item
+UOM
+Rate
+Amount
+Remarks
+Description_
+Cable Tie
+0.95
+39.90
+Eco
+Pack (100)
+compliant
+Steel Sheet
+105.00
+Imported
+A36
+Ventilation
+pcs
+123.20
+SKF brand
+Grid
+Set
+PCS
+20.00
+SKF brand
+Shaft
+pCS
+J0o
+128.00
+soomm
+alignment
+adjusted
+Copper
+0.60
+13.80
+Wire 3mm
+Epoxy
+109.50
+Eco
+Resin Kit
+compliant
+Aluminum
+pcs
+207.00
+ISO-verified
+Bracket
+Plastic
+pcs
+0.20
+0.40
+Rivets
+alignment
+adjusted
+Gasket
+pcs
+1.25
+2.50
+Imported
+Sheet A4
+Control
+pcs
+12.00
+132.00
+ROHS
+Panel
+compliant
+Mount
+Ensure this materials summary
+reconciled with the purchase order. Totals include estimated Over -
+consumption allowances and current unit rates:
+Customer ID: FINLAND
+Coordinator: Laura Rossi
+Date: 2022-12-19
+Product ID: MX-450L
+Internal No.
+2651924
+Order Qty: 451
+Total Amount:
+881.30
+ps
+Hinge
+Hinge
+Hinge

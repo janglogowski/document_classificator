@@ -1,0 +1,90 @@
+BILL OF MATERIAL
+Cubtomor ID; FINLAND
+Coornntor; |ultHonal
+Duto; 2026-Q0-|8
+Product ID: MS-GO0P'
+Mllaam
+No.: 7831670
+Ordur OlyB |0Q
+Rovlow the mntorlela tally /or compllunce with budket nllownncun: Tho componont roator bolow
+Includo? Unit coata (d butch codon
+No
+Itomn
+Conaumptlon
+Extro
+Qty
+UOM
+Rato
+Amount
+Ramnatka
+Dqdcryptlon
+Sholt
+0w
+pca
+0,00
+72,00
+Imponrtud
+600min
+Sonaor Cip
+0.17
+10%
+peu
+0,06
+I,40
+Lion
+battoty
+Inatollud
+Sonaor Clp
+0,59
+pC?
+20.00
+Impvortod
+Rubboi
+'1,08
+54
+pCr
+0,66
+20,00
+Impontod
+Stoppor
+LED | pht
+I41
+546
+2,60
+10,00
+ROHS
+Stp)
+compllung
+LED Lpht
+2.64
+2
+2,60
+110,00
+ISO
+Stp)
+vorlllocl
+Vontilotlon
+1,46
+0w
+pC?
+212.80
+Hngo
+Grld
+oigumont
+udluutod
+Curamic
+54
+peu
+2,10
+39,00
+ROHS
+Dluc boiniimi
+compllung
+Enauru thla mntorlnla dumnimiy
+ruconclled wlth thu purchnuu ordor. Cronu-vurlly totala wlth tho
+ERP uyatom for conalatonoy; Chuck thnt componort quorttoa ollgn wlh productlonrun
+cuculcumionu;
+Totol Amount;
+503,40
+Approvud By:
+Sourolng Dopontmont:

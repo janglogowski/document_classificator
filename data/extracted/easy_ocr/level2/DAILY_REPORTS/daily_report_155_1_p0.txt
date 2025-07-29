@@ -1,0 +1,116 @@
+DAILY PRODUCTION REPORT
+Report Na::
+PR-263
+Custo
+CANADA
+Supervisor:
+Peter Schmidt
+Department:
+Naintenange
+Date
+24-12-2024
+Shitt:
+C (Night)
+Machine
+Task
+WNorke
+Begin
+Time Spent
+Remarks
+MC- 202
+Welding
+Mateusz
+08.30
+09.58
+N/A
+Jaruna
+MC-209
+Drilling
+Anna Nowak
+13.s
+14.02
+MC-202
+Polishing
+David
+08.30
+40.24
+Oszmlariczuk
+MC 202
+Assembly
+Anna Nowak
+W:SW
+0841
+MC-209
+Assembly
+Przemystaw
+12.30
+14.17
+Recalibrated
+Wasik
+MC 209
+Drilling
+Agnleszka
+14.30
+15.39
+NYA
+Zieliniska
+MC-208
+Drilling
+Dawid
+13.30
+14.34
+NYA
+Oszmlanczuk
+MC-205
+Welding
+Agnleszka
+09.00
+Ju;y
+Zielinska
+MC-206
+Welding
+Piatr
+14.15
+16.05
+110
+Lewandawski
+MC-208
+Assembly
+wiktor
+09.30
+10.24
+Recambraler
+Kopczynski
+MC-209
+Cutting
+Bartosz
+13.30
+14.57
+Wawrzyniak
+Procmct
+planned
+Qty
+Actua
+Qty
+Rejected Qty
+Rejection %
+Remarks
+RX-3102
+182
+5.706
+Rewarknecded
+WD-1805
+262
+236
+9.9295
+Kewarkneeder
+TL-goOX
+8696
+Ty-3506
+Scrap confirmed
+WD-1805
+3695
+Preparedby:
+Jan Kowalski
+Approved by:
+Jankowaish

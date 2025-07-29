@@ -1,0 +1,111 @@
+DAILY
+PRODUCTION REPORT
+PR-963
+Report No:
+BRAZIL
+Cusiomet
+Peter
+Schmidt
+Supervisor:
+Maintenance
+Department:
+Evenine
+Shitt:
+18-06-2024
+This dashboard section highlights any production
+operationa
+data
+track compllance with dally goals.
+Review
+nctuz
+VpTes
+planned output:
+bottlenecks The summary below lists each station'$
+Remarks
+Temperature
+Energy
+Operation
+Operator
+Fromn
+~Finlsh
+Duration
+(kWh)
+Equipment
+(min)
+Recalibrated
+73.6
+1.76
+MC-202
+Cutting
+Nadia Sauter
+13.00
+13,37
+66.9
+1,54
+09.00
+10.34
+NIA
+MC 202
+Assembly
+Dawid
+Oszmlanczuk
+Recallbrated
+1.81
+Jan Kowalski
+14.15
+16.03
+108
+Mc-207
+Polishing
+Delav
+65-0
+Anna
+Noivak
+11-00
+12-02
+MC-208
+Welding
+14.57
+102
+73,.6
+MC-203
+Cutting
+Przemyslaw
+13.15
+Wasik
+MC 206
+Assemoiy
+Nadia
+08,00
+08,23
+78.0
+Polishing
+Bartosz
+13.30
+14.19
+MC-209
+wrzyniak
+57.1
+2.18
+13,30
+14.58
+Delay
+MC-208
+Welding
+Piotr
+Lewandowski
+70,5
+2.95
+MC-209
+Cutting
+Agnieszka
+09;00
+10.14
+Zlelinska
+Jan Kowalski
+Prepared PL:
+Annz
+Nowak
+Approved
+168
+Gauler

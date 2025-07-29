@@ -1,0 +1,110 @@
+BILL OF MATERIAL
+Use this breakdown to verify sourcing and cost estimates. All line-item costs are current
+vendor quotes:
+Below is the component listing and
+as per
+associated costs for the upcoming production
+balch: Refer to this parts register to plan raw-material purchasing-
+Ensure each
+component meets
+the specified quality standards_
+The
+following table summarizes the materials and quantities
+needed for the current project:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pcs
+0.55
+10.45
+For
+Stopper
+export
+pcs
+15.00
+600.00
+Li-Ion
+Display
+Unit
+battery
+installed
+Plastic
+PCS
+0.20
+2.20
+Imported
+Rivets_
+LED Light
+2.50
+122.50
+ROHS
+Strip
+Copper
+0.60
+21.60
+Rognplrade
+Wire 3mm
+Cable Tie
+pCS
+0.95
+45,60
+Pack (100)
+Urgent
+Grease
+pCS
+1.90
+9.50
+Li-Ion
+Tube
+baltery
+250ml
+installed
+Clamp
+pCs
+1.75
+59.50
+Eco
+Ring
+120mm
+compliant
+Steel
+5,00
+85.00
+Hinge
+Sheet A36
+alignment
+Spacer
+adjusted
+pcs
+0.15
+Imported
+2mm
+Digital
+pCS
+15.00
+690.00
+Imported
+Display
+Unit
+LED Light
+2.50
+22.50
+Switch
+Strip
+tested Ok
+Customer ID: POLAND
+Coordinator: Carlos Garcia
+Date
+2024-07-24
+Product ID: KP_320E
+Jnternal No : 1949202
+Order Qly:328
+Total
+Amount:
+1,670.80
+Digital

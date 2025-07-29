@@ -1,0 +1,116 @@
+Dimensional Log
+Inspection performed by Anna
+Vowjk On
+2024-03-11_
+Belav are tncrecorded Measuremenis
+compared
+apainst nominal tolerances
+This report presents the dimensional
+measurements and
+inspection results: All measured values are
+timestamped for audit purposes
+Fnsure meacurement
+methods align with calibration standards. The following data cantures key dimensions and any devations identified.
+Use this
+esuits summany
+trigger
+corredve
+acrions
+Environmental Conditions; Temperature
+22.4
+Humidity: 37 %
+Article No
+component
+Nominai
+Observed
+Ditt
+Status
+WK)
+LK 890B
+Hex Bolts
+Depth
+16.46
+16,32
+0.14
+M1?
+NU-4402
+Shaft 50Omim
+Unne
+70.80
+70.86
++0 0f
+Diamieter
+TL 900X
+Battery Pack
+Length
+79.64
+79.55
+CE-9OSL
+Bearing 6202
+Depth
+10.31
+10.30
+Ms-GOOP
+Shalt S0Omm
+Depth
+29.90
+pU-5is"
+Shaft 500mm
+Length
+HF-390A
+Hinge Se
+Tnickness
+32.68
+3285
+CN 150C
+Battery Pack
+Inner
+79,95
+79.9C
+Luu:
+Diameter
+MX 450L
+Plastic Rivets
+Thickness
+68.50
+MX-450L
+Plastic Rivets
+nner
+42.14
+42.12
+Dlameter
+NE-2454
+plastic Rivcts
+Helght
+97-Ub
+92.16
+MX-45OL
+Grapmlte pud
+Hole
+LK-8908
+Shaft SO0mm
+Thickness
+83.0g
+83,02
+TL-SCOX
+Hex Bolts
+Length
+99.12
+93.15
++0.03
+M12
+1P-555
+Rubher
+Innet
+40.75
+40.76
++0.01
+Gasket 80mm
+Diameler
+PW-515Y
+Graphite Pad
+width
+48.95
+43.80
+0.15
+Dim

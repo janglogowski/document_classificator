@@ -1,0 +1,71 @@
+Dimensional Log
+supenvisor
+Liun K0ss
+Inspecton Date
+2023-44-42
+Anticic No
+NE-2454
+TX-820v
+CMeISUC
+GH 7701
+VF-2200
+IR-2000
+AlJuu
+Part
+Qattery
+Shalt
+Rubber
+0 Alng NBR
+Wooden
+Wooden
+Power
+Pack
+50 Dmm
+Gasket
+mm
+ailet
+pallet
+Swvitch
+Komum
+Dlm.
+pepth
+widtn
+Wmtmam
+Thlckness
+anne-
+Hole
+Hole.
+plmeter
+Dlameter
+Nominal
+61.26
+20.73
+Ydu
+21,22
+Skui
+Actuni
+61,43
+Hubs
+74r64
+21,27
+Si
+T0A
+00S
+LuLUS
+PassaFall
+Inspection notes have been logred for traceabillty: All dlmenslons within tolerance have been marked
+OK: Ensure
+status Ilags are updated
+the quality management system Archive thls Inspection summary for regulatory
+clacumncntanon
+Instrument Callbration Log:
+Instrument
+Serhal No
+Callbration Date
+Lser Scannui
+66230
+2025.06-15
+CmM
+33906
+2025-02-07
+Namo

@@ -1,0 +1,101 @@
+Conformance Report
+#8561753
+Date: 17.07.2025
+Product ID
+KV-390k
+Customer
+BRAZIL
+Item
+Description
+Coolg Gel Pack
+Use this extract to coordinate sign-off with the QA manager: Use this list to confirm adherence
+AOJud
+standards
+This section details quality requirements andtest
+for the
+batch. Confirm that sampling levels comply
+wlth customer
+agreements. This checklist captures quality insnection points and
+sampling levels The
+follawing
+ladle
+outlines inspection criteria and ciassification levels,
+Audit Criteria
+Check
+Classification
+Observations
+Intensity
+Component Critena
+Hold
+Swltch not
+working
+Leve
+Sharp
+plastic
+compDnents
+Level |
+Connector not
+working
+Levei
+icorrect crientaticn
+Minor iSSuc Observed
+Packaging dces
+match
+signed sample
+Levelll
+Exposed nail with sharp point_
+Needs review
+Shipping mark Is illegible
+Level Il
+Mssine
+Minor issue observed
+Hinges Ioose
+LC
+Isque observed
+Package
+nat sedicu
+completely
+Level !
+Needs review
+Laron
+damupedor
+markings
+Tncorred
+Level III
+Critical impact
+uroduc SizC
+Levem
+Critical Impact
+distributor Information
+AQL Level
+Critical
+Maior
+Detault
+custome
+specific
+Checklist results have been reported to the
+quality manager;
+AIl summary
+commentshave
+been valldated by the QA
+team
+This summary supparts the end-of-Iine quality certification, Please ensure
+5upcryised
+sign-offe
+any non-
+conforming points Items marked for hold require additional review befare
+ease. Ensure that all remarks
+have
+corresponding evidence attachments
+any open
+the CAPA tracking system;
+safely
+polnts
+Rudbe
+Foges
+Minon
+Wconk
+Mlssing
+Ninoi
+Flag -
+isue>

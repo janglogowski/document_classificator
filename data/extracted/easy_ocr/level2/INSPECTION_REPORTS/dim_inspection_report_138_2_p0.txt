@@ -1,0 +1,64 @@
+Inspection Results Summary
+Inspector
+Peter Schmidt
+Unspection Date
+104-JY-0i
+This data extract
+prepared
+quality-control sign-off. This section details the measured values; tolerances, and
+status flags Use this examination summary
+confirm component conformity.
+Article
+TY-350G
+Kv-390K
+AZ-3ooT
+aP.660F
+hame
+Gasket Qumm
+Battel Pack
+Plastic Rivets
+soOmm
+Depth
+Helght
+Hole
+Mamet
+94,86
+16,09
+116}
+Jbsenied
+93.88
+26.1"
+71.71
+8146
++QOz
+TLVC
+FassiFai
+This closure memo confirms that dimensicnal checks are complete
+Lomnonente
+inspection require immediare
+reviev Jnd corective Jction
+Review failed items against the corrective- action register:
+Instr ument Calibiation Log:
+Instrument
+Suridino
+Calibratlon Date
+Laei
+SCATiEM
+60051
+2025-01-24
+Caliper
+4s10
+2025-01-15
+Losei
+ScJnner
+44891
+2025-04-28
+Laser Scinacr
+81603
+2024-12-23
+Pon
+Ruobe
+Sm
+Dim
+Widin
+tamlng

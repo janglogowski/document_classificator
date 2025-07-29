@@ -1,0 +1,73 @@
+Quality Review
+#4977989
+Date: 17.07.2025
+Product ID
+BZ-660F
+Customer ID
+TURKEY
+Item Description
+Battery Pack
+Ensure all non-conforming marks are clearly documented
+Reier
+the quality register
+sampling-plan
+references
+Below are the items t0 be verified during the final product reviev:; Confim that sampling levels
+comply with customer agreements:
+Please review each checklist point and mark the sampling results_
+This
+clocuro
+summary indicates compliance with inspection criteria. Check that inspection steps follow the
+approved procedure. This section details quality requirements and test points for the batch: This checklist
+captures quality inspection points and sampling levels: Use this Iist -
+confirm adherence to AQL and safety
+standards
+Inspection Checklist Points
+Check
+Defect Class
+Remarks
+Intensity
+Component Criteria
+MA
+Hold
+Dead
+live insect
+Level |
+Critical impact
+packaging
+Incorrect barcode
+label
+Level =
+Critical impact
+Hinges
+@OSE
+Level
+Critical impact
+Incorrect orientation
+Levei
+Needs review
+Rubber Switch not working
+Critical impact
+Wrong produc 
+Needs review
+Functionalit
+est failed
+Needs review
+Rubber texture
+glossiness
+Needs reviow
+mismatch
+Missing salety labels
+Level
+Critical impact
+Product doesnt
+Levei
+Needs review
+AQL Level
+Critical
+Maior
+Minor
+Default
+Customer specilic
+evel
+Fower

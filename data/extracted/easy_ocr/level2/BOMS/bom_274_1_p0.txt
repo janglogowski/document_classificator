@@ -1,0 +1,47 @@
+BILL OF MATERIAL
+Customer ID:
+BELGIUM
+Coordinator: Anna Nowak
+Date
+2023-03-14
+Product ID: DX-7771
+Internal No:
+7176836
+Order Qty: 496
+Item
+Consumption
+Extra
+UOM
+Rate
+Amount
+Remarks
+Description
+Gasket
+3.14
+1,25
+37.50
+Sheet A4
+Aluminum
+0,63
+1090
+229.50
+ROHS
+Bracket
+compllant
+Gasket
+1,25
+30,00
+Sheet A4
+Rubber
+1,44
+0,50
+16.00
+High
+Gasket
+Brade
+8Omm
+Total Amount;
+313,00
+Approved By:
+Sourcing Department:
+aty

@@ -1,0 +1,104 @@
+Shift Summary
+KepoNo;.
+PR-705
+Customer'
+FINLAND
+Supervisor:
+4nna
+Nowak
+Department:
+Assembly
+Dale
+25-08-2024
+Shift:
+Night)
+Machine ID
+Operation
+Operator
+Start Time
+Finish
+otal
+Uwagi
+Guranon
+MC-205
+Cutting
+Dawid
+14.00
+14.23
+Oszmlarczuk
+MC208
+Polishing
+Nadia Sauter
+11:15
+1249
+Recalbrated
+MC-208
+Welding
+Piotr
+08.00
+Lewandowski
+MC 207
+Welding
+Agnieszka
+11.30
+11.54
+Zieliriska
+MC-209
+Polishing
+Bartosz
+09.00
+09.42
+Recalibrated
+Wawizyniak
+MC 209
+Polishing
+Wiktor
+06.15
+07.33
+Kopczyrski
+MC-207
+Polishing
+Dawid
+09.30
+10.19
+Recalibrated
+Oszmianczuk
+MC-202
+Cutting
+Agnieszka
+11.30
+13.19
+109
+Ziellriska
+Product ID
+Target Qty
+Achieved Qty
+Rejected Qty
+Failure
+Remarks
+ZR-205R
+0DuY-
+Rewonneeded
+LP-5sSV
+116
+13,7990
+Scrap
+confirmed
+GL- 9805
+224
+218
+6896
+VR-940T
+200
+5096
+MS-600P
+205
+4696
+Rewanneeded
+Preparedby:
+Approved by:
+Kowalski
+06,10
+Delay
+Laura
+Rosei

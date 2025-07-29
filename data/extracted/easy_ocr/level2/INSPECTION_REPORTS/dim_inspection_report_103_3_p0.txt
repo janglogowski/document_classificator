@@ -1,0 +1,94 @@
+Tolerance Check
+performed by Jan Kowalski on 2024-05-26.
+Inspection
+data captures keY
+dimensions
+align
+calibration standardsThe following
+presents =
+dimensiona
+Ensure measurement methods
+timestamped for audit purposes: This =
+identified All measured values are
+results for each component listed below:
+deviations
+resuit
+Please review the
+inspection
+measurements and inspection
+Humidity: 59
+Conditions: Temperature: 23.6
+Environmental
+Status NVML
+Obsenved
+Delta
+Component
+Dim;
+Target
++0,00
+Product Ref
+40.56
+40 56
+KP-320E
+Plastic Rivets
+Thicunezs
+9.88
+9.84
+Her Boits
+Heignt
+TY-3506
+M12
+92,51
++0.01
+92.50
+RM-860N
+Plastic Rivets
+Depth
+92.37
+92.56
++0.19
+GH-7708
+Bearing 6202
+Hole
+65.32
++0,11
+Inner
+65.21
+Bearing 6202
+PL-601Z
+Diameter
+33.31
+33.37
+ZR-ZOSR
+0-Ring NBR
+Heignt
+6om1M
+1489
+0.13
+Power Switch
+Heignt
+15,02
+37.37
+-0.11
+ZR-ZOSR
+Plastic Rivets
+Inner
+VF-2200
+Diameter
+61 ,03
++011
+Hinge Set
+lenein
+60.92
+4015
+CE 905L
+8-5_
+Battery Pack
+Hole
+DX-T
+nd
+th
+feport
++0,04
+~olos
+37.48

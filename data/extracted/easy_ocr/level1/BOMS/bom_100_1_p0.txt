@@ -1,0 +1,56 @@
+BOM Report
+Customer ID: FINLAND
+Coordinator: Carlos Garcia
+Date: 2023-12-31
+Product ID: PL-601Z
+Internal No.
+4218357
+Order Qty; 168
+This section outlines the parts; unit prices and total amounts for assembly: All entries reflect the latest
+inventory and
+supplier rates The following table summarizes the materials and quantities needed for the
+current project; The parts manifest here
+designed to support procurement workflows:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+2.67
+0.20
+0.60
+ROHS
+Rivets
+compliant
+Sensor Clip
+2.88
+10%
+0.95
+39.90
+Hinge
+alignment
+adjusted
+Insulation
+1.95
+3.20
+128.00
+Eco
+Foam Pad
+compliant
+Wooden
+0.86
+15.00
+735.00
+Certified
+Pallet
+batch
+Tota
+Amount:
+903.50
+Approved By; _
+Sourcing Department:

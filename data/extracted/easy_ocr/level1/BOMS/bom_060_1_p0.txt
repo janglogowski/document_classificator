@@ -1,0 +1,99 @@
+BOM Report
+Customer ID: CANADA
+Coordinator: Laura Rossi
+Date:
+2024-04-25
+Product ID: QN-770H
+Interna
+No : 2068323
+Order Qly: 356
+This summary lists every item required
+with per-unit pricing details. The following table
+summarizes the materials ad quantities needed for the current project: Below is the component
+listing and associated costs for the upcoming production batch: All entries reflect the latest
+inventory and supplier rates
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Set
+3.08
+5%
+pCs
+2.50
+35.00
+Eco
+compliant
+0.38
+10%
+DCS
+15.00
+765.00
+Display Unit
+alignment
+adjusted
+Aluminum
+1.48
+59/
+pCs
+4.50
+193.50
+Li-Ion
+Bracket
+battery
+installed
+Fuse 5A
+DCS
+8.10
+Sensor Clip
+10%0
+pCS
+Urgent
+Set
+3.25
+DCS
+2.50
+130.00
+ISO-
+verified
+Shaft
+2.36
+0%
+pCS
+8,00
+128.00
+Li-Ion
+s0Omm
+baltery
+installed
+Digital
+0.57
+290
+pCS
+15.00
+225.00
+Display Unit
+Control
+3.0
+pCs
+12.00
+60.00
+Switch
+Pane
+tested
+Mount
+Total
+Amount:
+1,584.50
+Approved By:
+Sourcing Department:
+Hinge
+Digital
+Hinge
+Hinge

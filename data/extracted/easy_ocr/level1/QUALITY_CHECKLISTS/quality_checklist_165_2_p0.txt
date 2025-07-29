@@ -1,0 +1,99 @@
+Audit Trail
+This summary supports the production-release quality gate. Confirm that sampling levels comply with
+customer agreements
+This closure summary indicates compliance
+inspeclion critaria; Ensure all non-
+conforing marks are clearly documented_
+Use (his extract
+coordinate sign-olf with the QA manager; This
+checklist captures quallty inspection polnts and sampling levels
+Archive Ihis Iist i
+the quality-management
+system
+Product ID
+HF-39QA
+Customer ID
+BELGIUM
+Item Description
+Sensor Cilp
+Quallty Check Items
+Sample
+Classification
+Notes
+Tlor
+Design Specs
+Critical
+Wajor
+Minor
+OnHold
+Shipping mark
+illegible
+Minor issue
+Level /I
+onmissing
+Dbsenvdd
+Missing logo
+warning
+Level III
+Minor issuG
+label
+observed
+Nol assembled as per
+Level /I
+drawing
+Rubber Swilch not
+Needs review
+woiking
+Loose
+parts Inside
+Minor Issue
+pacradino
+00servud
+Carton
+damaged or
+Level II
+Needs revlew
+markings incorec
+Visual
+delec
+housing
+Level II
+Needs review
+Incorrect barcode
+Iabel
+Needs roviow
+Connector_not working
+Level I
+Dead
+Ilve Insect In
+Level III
+Needs review
+packaging
+Incorrect quantity
+Minor issue
+Level III
+assorment
+observed
+Dustdebris inside
+Minor issuG
+pdlkddind
+observed
+Wrong product slze
+Level II
+Exposed nail wilh sharp
+Level /
+Minor Issue
+observed
+Hinges
+0os8
+Needs review
+Minor issuC
+Funclionalily test (alled
+observed
+Incorrect arentalion In
+Level III
+Needs review
+box
+Supervised by:
+Date:
+point

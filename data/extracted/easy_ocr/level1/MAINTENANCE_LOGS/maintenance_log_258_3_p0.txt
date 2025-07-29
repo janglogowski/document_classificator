@@ -1,0 +1,157 @@
+Machine Log Summary
+Performed On: 2025-04-01
+Signed off
+Carlos Garcia
+perc medbv"
+Anna Navak
+Ensure
+salely chucks weru
+COMp &lcu
+during servicing
+Inis $ urmumane
+lcrecasl parls ruplacumenand rusourcu
+nacus
+Entrius Include work orcers
+lyciniciam
+JSS0JnMtUnis
+and part changes: The (ollovring enbries delall preventive and
+comecive
+maintenance
+Jasks
+This service summary supports the
+Iiability engineering review"',
+Section A:
+Unit Code
+MC-288
+YC51
+MC-25T
+MC-253
+MC-219
+MC-255
+Machine
+Hydraulic
+Conveyor Belt
+CNC Milling
+CNC Milling
+Hydraulic
+Laine
+Press
+Machine
+Machine
+Iype
+Inspcction
+Preventive
+Preventve
+Prcventive
+LOICCC
+Inspection
+Operator
+Carlas Garcia
+AnnaNcra:
+Peter Schmidt
+Lamr
+Rass
+Peter Schmidt
+Jan Kowalski
+Downtime
+Comments
+Tightened
+Changed oil
+Sensor
+tgnteneo
+Replaced
+Wocden
+Icose cos
+Tters
+librated_
+lonse poits
+(5A):
+pallet
+checked
+Sectlon B:
+Unlt Code
+MC 255
+MC 253
+MC 288
+MC 252
+MC219
+MC 247
+Machine
+Lathe
+CNC Milling
+Hydraulic
+CNC Milling
+Hydraulic
+Packaging
+Machine
+Press
+Macnine
+Press
+pieveniive
+Lcrective
+Inapection
+Comeciive
+lnsnection
+Preventive
+Operator
+Garcia
+Jankoxaiski
+4nna Novak
+Lamre
+Rossi
+Nowval
+wownumic
+Comments
+Chanoed Oil
+Calipration
+Wocn
+gasket
+Changed oil
+Replaced
+Switch
+flters
+check OK
+replaced.
+and Iltens
+fuse (54)
+contacts
+cluaned
+This log summary
+suppors tne
+ass81-Manaoemeni
+dashhoard Maintenance
+noiee
+are arcnivec
+compliance
+audits
+Ensure
+Ihal each service enlry has Ine
+approvals
+Na critical laulls
+Wvare
+DunG
+Ine Ialesl inspeclion:
+Record any
+parts
+for Inventory adjustment Overall equlpment condliion
+satisfactory post-maintenance
+Use this closure nnte
+update the maintenance KP
+tracker;
+Uptime (%)
+Frror
+Count
+Comments
+93 07 28
+Replacec
+Pocst
+IyPe
+Carlos
+Carlor
+Garcia
+JAnna
+roquved
+during
+Juare
+Uiagc
+Fuci

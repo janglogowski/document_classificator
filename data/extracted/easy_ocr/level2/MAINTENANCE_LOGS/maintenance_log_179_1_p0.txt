@@ -1,0 +1,75 @@
+Equipment Record Report #1701019
+Date
+2024-06-03
+Unit Code
+Equipment
+Service Type
+Tecnnician
+Downtime
+Area
+Notes
+Mc-205
+Asscmbly
+CcCcIc
+Anna Nowak
+Plant 1C
+Replaccm
+Rcbal
+codani
+MC-208
+Lasei
+cullel
+Inspection
+Carlos Garcia
+Plant 1C
+Calibration
+check OK
+MC-229
+Hydraulic
+Ccrrective
+Peter Schmict
+Plant 1C
+Swlcn
+Prezs
+contacts
+cleaned
+MC-218
+Latne
+Preventive
+Lavta
+Plant 1C
+Alignment =
+hinges
+adjusted
+Confinm hat
+comective
+3Ctione
+wrere properly
+criric?
+faults were
+ound
+inspection; Flag
+recurring
+issues for raat-cause invesligalion
+Use Ihis closure nole
+update Ihe maintenance KPI tracker: Overall
+Howidmini
+canglan
+salislaclory post-rainlenance
+Ensure
+narbrevenim
+Gence
+schaduled
+according
+Kupncation
+Checked
+Calinralicn Verilieg
+Emeragnc =
+Stop esled
+Signed oll:
+Perlormed by:
+Rous 
+C and
+dunng
+later
+plon

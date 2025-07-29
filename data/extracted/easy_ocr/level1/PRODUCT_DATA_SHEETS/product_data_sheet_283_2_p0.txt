@@ -1,0 +1,68 @@
+Product Overview
+Use this spec shecet to validate assembly instructions_
+Confim that perfomance ranges comply with project
+requirements; Refer to this configuration summary for unit-designation mapping
+This section details the
+configuration and parameter set for tne product
+'lease reviev' the
+specifications and material composition
+listed below.
+Product ID:
+QN-7ZOH
+Interal No:
+PR-774
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia
+Date: 2023-11-08
+Configuration Type
+Hydraulic Power Unit
+Rated Pressure
+180 bar
+Flow Rate
+60 Umin
+Operating Voltage
+480
+60 Hz
+Charging Time
+Working Temp
+Range
+Cooling
+Aif-cooled
+radiator
+Motor Power
+7,5kWv
+Dimensions (LxWxH)
+1000
+650
+1000 mm
+Material choices and process data have been verfied for compliance
+Document control numbers are
+included for traceability. This closure note indicates the data sheet is ready for release
+Use this summary
+cross-check with BOM and inspection reports. Ensure that the listed materials are approved for the
+application.
+Material of Construction;
+Item
+Raw Materia_
+Cable Ile Pack (10U
+Nitnle Rubber (NBR)
+Digilal Display Unit
+ABS Plaslic
+herma
+FuSe
+Ceramic Oxide
+Conector 2P
+Glass-Filled Nylon
+Linc-Plated Steel
+Wiring Loom Im
+PVC
+Rubber Gasket BUmm
+Nitrile Rubber
+Hellon Vape Roll
+Tellon Tape Roll
+LED Light Strip
+Glass-Filled Nylon
+Battery Pack
+Lithium-Icn Cell Pack
+(Rigid)
+(NBR)

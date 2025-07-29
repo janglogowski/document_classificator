@@ -1,0 +1,61 @@
+Equipment Record Report #9797733
+Date: 2025-03-31
+Unit Code
+Equipment
+Service Type
+Trechnician
+Duration
+Area
+Comments
+MC-256
+CNC
+Milllng
+Eccct
+Anna Nowak
+Piant IC
+Switch
+Machine
+cunlacs
+cleaned
+MC-26A
+Paint Booh
+Prevantive
+Lar
+Rosti
+Plant 34
+Changed oil
+MC- 230
+Plasma Cutter
+Inspecticn
+Garcia
+Piant 34
+No issues
+Touno
+MC-237
+Hvdraulic
+Preventive
+Jan Kowalski
+Plant 1C
+Replaceo
+Piuss
+Flag
+any recurting issues for rool-cause invesligalion
+Use lhis closure nole
+the mainlenance KP
+Kackar
+Archive this summary In the CMMS for future reference
+All maintenance duralions are recorded for
+performance metrics .
+Service summanes have heen fonvarded
+the engineering team;
+Luoncancn
+Checked
+Calipralion Vurifad
+Emerdenc
+Stod
+Tesieo
+Approved Dy:
+Scrviced by: 
+fters
+Car05
+updulu

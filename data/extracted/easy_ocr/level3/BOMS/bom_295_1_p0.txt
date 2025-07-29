@@ -1,0 +1,85 @@
+COMPONENT BREAKDOWN
+Customer ID 
+NORWAY
+Coordinator: Anna Nowak
+Date: 2023-03-27
+Product ID
+3904
+Untenne
+1057123
+Orcer Otyi 279
+Please review the itemized Ifst of parts and material specifications before procurement: Use this
+breakdown to verify sourcing and cost estimates The component roster below includes unit costs and
+batch codes:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Terminal
+2.26
+0%
+pcS
+3.40
+112.20
+Switch
+Block 4P
+tested
+Grease
+0.83
+pcs
+87.40
+Li-Ion
+Tube
+battery
+250ml
+installed
+Insulation
+pcs
+153.60
+Imported
+Foam Rad
+LED Light
+2.81
+2.50
+122.50
+ISO-
+Strip
+verified
+Gasket
+0,39
+1.25
+45.00
+Sheet 44
+Rubber
+0.75
+pcs
+0,55
+5.50
+Stopper_
+Stainless
+1.63
+0%6
+pcs
+0.35
+14.00
+Urgent
+Bolt M8
+Sensor Clip
+1.96
+0.95
+12.35
+Li-Ion
+battery
+installed
+Ensure this materials summary is reconciled with the purchase order. The cost subtutal suppurts financial
+forecasting for the next cycle: Any deviations from standard pricing have been annotated here_
+Total Amount:
+552.55
+Approved By:
+Sourcing Department:
+3.20

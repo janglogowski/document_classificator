@@ -1,0 +1,55 @@
+Component Dimensional Check
+nspeciom
+Laura
+Rossi
+Inspection Date
+2023 -08-07
+Below
+the recorded measurements compared against rominal tolerances: Please review the inspection
+results for each component listed below: Entries include both passifail markers and deviation magnitudes 
+Refer t0 the dimensional
+og for all component size readings.
+Product Ref
+RM B6ON
+VR-940T
+PL 601Z
+ZR-2O5R
+KP 320E
+Component
+Hinge Set
+Plastic Rivets
+Steel Sheet
+Rubber Gasket
+Bearing 6202
+A36
+8Omm
+Mcasurement
+Height
+Thickacss
+Thickness
+Length
+lnncr diamcici
+Nominal
+48.70
+32.98
+Observed
+18.42
+33.05
+Delta
+01
+0T
+FOO
+Pass Fall
+Cross-verify measurement data with CAD nominal values. Inspection notes have been logged for
+traceability- Review failed items against the corrective-action register:
+Instrument Calibration Log:
+Instrument
+Serial No_
+Last Calibration Date
+Laser Scanner
+33991
+2025-04-07
+Micromete
+85604
+2025-04-26
+ara

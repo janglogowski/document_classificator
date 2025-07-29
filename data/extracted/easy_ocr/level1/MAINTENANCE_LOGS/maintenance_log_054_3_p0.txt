@@ -1,0 +1,118 @@
+Machine Log Summary
+Performed On: 2025-03-17
+Authorized bx;
+Laura Roszi
+OcGralor
+Anna Navak
+Usu [his sulary
+lurucusl palts r uplaccmuni amd resource nueds
+Conlirmi Inal survicu Intervals
+Jollaw Ug pievemimu
+scncdulc- Bulor
+Ihe $ ummary
+SCNICc uclams
+anu dOwnlm us
+Ior each machinc. Ensure all salely chucks were
+completed during servicina
+entries
+detail preventive and corective
+maintenance tasks.
+Section A:
+Machine
+MC-283
+MC-226
+KC-250
+NC-230
+HC-242
+Machlne
+Laser
+Hydraulic Press
+Conveyor Belt
+Lazer
+Cutter
+Conveyor Belt
+Iype
+Comuclive
+Coneclive
+Pravenie
+Pravenlive
+cyreclive
+Technician
+Ann;
+Nawak
+Anna Nowak
+Jan Kowakki
+Carios
+Gaccia
+Carlos Garcia
+Downtime
+Comments
+Changed
+C ano
+Swiitch contacts
+Li-Ion batteny
+Cieaneo
+Dack senceO
+Section B:
+Machine
+MC-230
+MC-242
+MC-283
+HC-250
+HC-225
+Machine
+Laser Cutter
+Conveyor Belt
+Laser Cutter
+Conveyor Belt
+Hycraulic Press
+Comecvc
+Canece
+Provcne
+Inspeclon
+Prevenlivc
+Technician
+Anna Nowak
+Laura
+303?
+Laura Ro3?
+Kowalski
+Downtime
+Catnmncnis
+Lilon
+battery
+Allgnment cf
+ssuGS
+Dund
+No Issues found
+Wocden pallet
+3eniced
+hinges acjusted
+cnecken
+cntical faults were found
+dunno
+atest inspection Use this closure note
+update the maintenance KP
+tracker
+Maintenance
+[35*5 have
+been
+completed
+per schedule.
+equipmer
+condiion
+satisfactory post-maintenance
+Uptime
+Error Count
+Comments
+85 174
+Boll icnlenud
+Tne
+following
+Cutter
+Mich
+Type
+Cartos
+Garia
+p8ck
+Ovela

@@ -1,0 +1,32 @@
+Unit Configuration
+Internal No:: 1488367
+Produci ID
+RE-850C
+Date: 2025-07-14
+Configuration Type
+Cooling Circularion
+Operatlng Pressure
+180 Dar
+System
+Fiow Rate
+60 Llmin
+Operating Voltage
+480 V / 60 Hz
+Filtration
+10 pm retutn; 25
+Control Valve
+Manual Override 3/2
+suction
+Reservolr Capacity
+Battary Capacity
+10 Ah
+Motor Powe
+SkWV
+Pump
+Gear Pump
+Noise Level
+72 dBLA)
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia
+VM
+Typo

@@ -1,0 +1,63 @@
+Unit Configuration
+Interno
+No:: 5038540
+Product
+CE-9OSL
+2025-05-26
+Unit Type
+Cooling Circulation
+Rated Pressure
+180 bar
+Svstem
+Flow Rate
+75 Lmin
+Supply Voltage
+400
+50 Hz
+Reservoir
+Capacity
+120 L
+Mounting
+Skid base with vibration
+pads
+Service Interva
+1000
+Motor Power
+75k
+Working
+Range
+HO"C
+50"C
+Noise Leve
+471
+dBIAI
+Dimensions (LxWxH)
+1200
+700
+1100 mm
+Component Materials Overvlew:
+Subcomponent
+Composition
+Specification
+Nut M6
+Zinc-Plated Steel
+Heat-resistant
+Woodes
+Treated Pine
+lectrica
+Erade
+Support Foot Stee
+Stainless Stee
+Heat-resistant
+Cable Tle Pack (100)
+Nitrile Rubber INBR)
+ISO 2768
+Wne Loam LM
+PVC (Rigid)
+class
+colerance
+Prepared by: Anna Nowak
+Approved by: Laura Rossi
+Date.
+Temp
+Wood

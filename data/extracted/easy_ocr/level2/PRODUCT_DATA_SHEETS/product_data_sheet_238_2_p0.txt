@@ -1,0 +1,55 @@
+Unit Data Specification
+Check that all material specs align with supplier certifications. Use this sheet t0 confirm engineering
+requirements and tolerances. The following information outlines performance characteristics and design
+data. Entries include both mechanical and electrical specifications. Confirm that performance ranges comply
+with project requirements. This report extract /
+prepared for design-verification audits:
+Product ID:
+JD-4UUN
+Document No
+PR-867
+Prepared by: Anna Nowak
+Approved by: Peter Schmidt
+Date: 2024-08-04
+Configuration Type
+Cooling Circulation
+Rated Pressure
+300 bar
+System
+Fluid Flow
+60 Umin
+Supply Voltage
+480 VI60 Hz
+Reservoir Capacity
+Pump Type
+Piston Pump
+Service Interval
+500
+This summary reflects the latest revision of the product data_
+Data sheet has been peer-reviewed by the
+engineering learn: Refer l0 parameler table for operaling ranges and tolerances. Archive this summary for
+future design-change management; This closure note indicates the data sheet is ready for release
+Use this
+summary
+cross-check wilh BOM and Inspeclion reports
+Material =
+Construction:
+Subcomponent
+Composition
+Nut M6
+Zinc-Piated
+Sicc
+Hinge Set
+Stainless Steel 304
+Pressure Valve
+Brass C2121
+Ceramic Oxide
+Insulated Tube 2Smm
+Thermoplastic Polyurethane (TPU)
+Bearing 6202
+Stainless Steel 304
+Wooden Pallet
+Treated Pine Wood
+Digital Display Unit
+ABS Plastic
+Fuse

@@ -1,0 +1,60 @@
+BOM Report
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pCS
+23.50
+For export
+Gasket
+8Omm
+Aluminum
+85,50
+SO-verified
+Bracket
+Spacer Zmm
+5.70
+SO-verified
+Steel Sheet
+90.00
+For export
+A36
+Jowcr
+1.20
+28.80
+Switch
+Protective
+27,00
+Urgent
+Sleeve
+S0mm
+Epoxy Resin
+226.30
+SKF brand
+Packaging
+1,00
+38,00
+ROHS
+Box
+compliant
+Gasket
+1.25
+16.25
+Li-Ion
+Sheet 44
+battery
+installed
+CustomeriD-
+GREECE
+Coordlnator: Carlos Garcia
+Date: 2022-10-24
+Product ID: DX-777T
+Internal No:: 4302060
+Order Qty: 105
+Total
+Hmount
+541.05

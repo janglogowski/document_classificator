@@ -1,0 +1,37 @@
+Customer ID: GREECE
+Prepared by: Carlos Garcia
+Product ID: KP-320E
+Internal No:: 6069161
+Item
+Spring
+Rubber
+Packaging
+Power Switch
+Terminal
+Description
+Washer M1O
+Stopper
+Box
+Block 4P
+Qty
+698
+103
+313
+UOM
+Unit Price
+Amount
+34.90
+414.70
+103.00
+375.60
+105.00
+Remarks
+Switch tested
+Li-Ion battery
+Switch tested
+Certified
+OK
+installed
+OK
+batch
+TOTAL: 2,033.20

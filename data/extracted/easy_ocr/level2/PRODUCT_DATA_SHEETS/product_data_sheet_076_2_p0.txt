@@ -1,0 +1,79 @@
+Unit Configuration
+Use this sheet to confimm engineering requirements and tolerances: This =
+product-release checklist: This data sheet
+technical overview supports the
+provides key specifications and material details . Entries include
+both mechanical and electrical specifications. Erisure all referenced
+standards are up to date
+Product ID:
+JD-7OOW
+Document No::
+PR-5DO
+Prepared by: Jan Kowalski
+Approved by: Carlos Garcia
+Date: 2024-10-0g
+Configuration Type
+Pneumalic Control Unit
+Operating
+300 bar
+Flow Rate
+75 Umin
+Supply
+Noise Leve
+70 dBLA)
+Motor
+400
+50 Hz
+Dimensions (LxWxH)
+1200
+700X 1100
+ILkW
+All summary comments have been recorded in the revision log:
+Confimm thal all test conditions
+are
+acturately represented. Flag any missing parameters for urgent specification updates. This
+summany
+reflects the latest revision
+the product data
+Check that all section headers follow
+the product template_
+Materia
+Construction;
+Subcomponent
+Raw_Material
+Wiring_ Loom Jm
+PVC
+Wooden Palle
+(Rigid
+Tellon
+Hape Rol
+Pine
+Tellon Tape_Roll
+Capacior 450V
+Aluminum 6061 T6
+Graphite
+Graphile Pad
+Gaskoi
+Sheet
+Nikile Rubber
+NBR
+Suppon Foot Stee
+Cable_ Tie Pack (100
+Slainless Steel
+Rubber
+Nitrile Rubber (NBR
+Gasket 80mm
+Nitrile Rubber (NBR
+Hex Bolts M12
+Zinc Plated Steel
+Bearing 6202 ZZ
+Stainless
+Connector 2P
+Steel 304
+Glass-Filled Nylon
+Prosgure
+Voltage
+Powel
+Lreated
+Wood
+Pao

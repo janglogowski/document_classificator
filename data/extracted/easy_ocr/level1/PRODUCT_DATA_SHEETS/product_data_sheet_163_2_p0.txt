@@ -1,0 +1,85 @@
+Component Overview
+Entries include both mechanica
+and
+lectrical specifications. Ensure all referenced standards
+are up
+date: Use this
+sheet
+confirm engincerine
+requirements ano
+lerances
+This report extract
+prepared for design-verification
+audits- Please
+review the specifications and material composition listed below- Confirm that performance ranges
+comply with project requirements; The
+following information outlines performance characteristics and design data
+Product ID
+Xk-610U
+Document No:
+PR-633
+Preparec
+bv; Peter Schmiat
+Approved by: Peter Schmidt
+Date: 2025-03-04
+Unit Type
+Pneumatc
+Contral Unit
+Rated
+Pressure
+Zsu dar
+Fluid
+48 L{min
+Supply Voltage
+480
+60 Hz
+Total Weight
+250 kB
+Reservoir Capacity
+Charging Time
+Oil Type
+HLP 46
+Confirm that all test conditlons are accurately represented
+All specificatlons meet the design requirements and
+industry standards, Document
+numbers are
+included for traceability. Ensure
+Ossani
+match the
+engineering nomenclature
+Check that all section headers follow the product template: Use this summary
+Cioss
+check with BOM and Inspection reports: Data sheet has been peer-reviewed by the ergineering team
+Material of Construction:
+Subcomponent
+Base
+Bearing
+DZ02 4
+Stainless Steel 304
+0-Ring NBR GOmm
+Nitrile Rubber INBR 
+Cable Tie Pack (10Q)
+Nitiile Rubber INBRL
+Rubber
+Gasket BOmm
+Nltiile Rubber INBR 
+Winne
+Looi
+PVC (Rigid}
+Teflon Tape Ro
+Teflon Tape Roll
+LED Light Strip
+Glass-Filled Nylon
+Stainless Steel 304
+Fuse
+Ceramic Oxide
+Hex Bolts M12
+Zinc-Plated Steel
+Digital Display Unit
+ABS Plastic
+Steel Sheet 436
+Carbon Stecl 436
+Flov
+contro
+terms
+Hingel

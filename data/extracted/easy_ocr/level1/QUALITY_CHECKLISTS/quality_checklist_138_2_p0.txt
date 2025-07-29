@@ -1,0 +1,58 @@
+Inspection Summary
+This checklist captures quality inspection points
+and sampling levels. Please reviev' each checklist point and
+mark the
+sampling 
+TOSuis
+Refer t0 the
+quality register
+sarnpling-
+puaniglerences
+Entries Irclude both visual
+and functional inspection items_
+Product ID
+KP-320E
+Customerid
+SWVEDEN
+Item Description
+Wander
+Dallet
+Inspection Checklist
+Inspuction
+Classification
+Comments
+Points
+Depth
+Desipn Specs
+Critical
+Major
+Minor
+OnHold
+Visual defect on housing
+LEvGI
+Critical Irnpact
+Wood splinter
+sharp
+Needs revlew
+product
+Missing safety labels
+Package
+not seale0
+Level /
+Minor issuc observed
+completely
+Dustldebris inside
+Needs revlew
+packaging
+Nat assembled as
+Level /
+Necds revicw
+drawing
+Connector notworking
+Level II
+Packaging does
+Minor issuc obscrved
+match slgned sarnple
+Supervised by:
+Date:
+point

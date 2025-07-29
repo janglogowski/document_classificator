@@ -1,0 +1,121 @@
+Report No
+PR-672
+Custoner;
+FINLAND
+Supervisor:
+Carlos Garcia
+Department:
+Assembl
+Shift
+Morning)
+22-03-2025
+Ensure any downtime incidents are noted for follov-up
+Review Ihe operational data
+track compliance with
+daily goals. The summary below Iists each station $ actuab
+vorus
+planned output: The following data
+captures production targets
+actual output; and any deviations:
+Equipment
+Operation
+Operator
+Begin
+Total
+Uwagi
+Temp
+Energy
+duration
+(kWh)
+MC-207
+Drilling
+Piotr
+12.30
+13.28
+NIA
+59.4
+Lewandowski
+MC-209
+Drilling
+Przemyslav:
+07;15
+08.28
+Recalibrated
+Wasik
+MC-203
+Welding
+Magdalena
+06.00
+06.33
+Recalibrated
+71.4
+1.26
+Witkowska
+MC-206
+Assembly
+Bartosz
+08.30
+10.24
+68.7
+2.73
+Wawrzniak
+MC-202
+Drilling
+Wiktor
+09.00
+09.32
+70.4
+Kopczynski
+MC-208
+Drilling
+Przemyslav
+14.00
+14.39
+67.0
+2.55
+Wasik
+MC-206
+Drilling
+Piotr
+11.55
+70,7
+267
+Lewandowski
+MC-207
+Cutting
+Jan Kowalski
+1400
+14.30
+74.0
+1.88
+MC-202
+Welding
+Magdalena
+06.15
+08.00
+105
+Delay
+61.7
+2.79
+Witkowska
+MC-20g
+Cutting
+Piotr
+11.30
+12.35
+Delay
+55.9
+2.37
+Lewancouuski
+MC-207
+Drilling
+JanKowalski
+06.15
+06.57
+66,.6
+115
+Prepared DX
+Peter Schnidt
+Approved by:
+Peter Schinidt
+74,5

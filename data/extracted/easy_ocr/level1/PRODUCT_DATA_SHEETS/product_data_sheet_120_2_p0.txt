@@ -1,0 +1,47 @@
+Component Overview
+Ensure all referenced standards are up
+dute
+Confirm that pefformance
+ranges comply with project requrrements
+This data sheet provides key specifications and material details The parameter register below includes operating
+limits and ratings
+Belav are the technica
+parameters and constructian materials for the unit_ Use this sheet to
+confirm engineering requirements and tolerances;
+praduct Id
+CE-905L
+Report
+PR-389
+Prepared bv: Anna Nowak
+Approved by: Peter Schmidt
+Date; 2025-01-13
+Configuration Type
+Cooling Circulation
+Operating Pressure
+300 bar
+System
+Flow Rate
+30 L/min
+Operating Voltage
+230V
+50 Hz
+Qil Type
+HLP 68
+Charging Tme
+Mounting
+Rack frame
+Data sheet nas been peer-reviewed by the
+enpineering
+pam
+Use this summary
+cross-check with BOM and
+inspection reports. Archive this summary for =
+desipn-
+change management Flag Jny missing parameters for
+Ureent
+specification updates
+All summary comments
+have been recorded
+tnerevision
+No :
+Future

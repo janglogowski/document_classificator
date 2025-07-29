@@ -1,0 +1,49 @@
+Quality Inspection List
+Inspection Checklist Points
+Check
+Defect Class
+Dosenations
+Intensity
+Product Requlrements
+Runnertextre
+Glossiness
+msmatch
+Color mismatch
+Leve
+revielv
+Package
+not sealed completely
+Leve
+Instruction manua
+missing
+Critical impact
+damaged
+Rubber Switch not working
+Mtinor issue
+Onsened
+Hirges
+Leve
+Veeds revie
+ncorr
+arentation
+Leve
+edees
+plastic
+Minor issue observed
+companents
+Wrone
+product slze
+Leve
+Battery not included
+Leve
+Critical impact
+Relerence Standards:
+Standard
+Edition
+CE Directive
+2015
+UL 61010
+3rd Ed.
+Levet
+Necds
+Sharp

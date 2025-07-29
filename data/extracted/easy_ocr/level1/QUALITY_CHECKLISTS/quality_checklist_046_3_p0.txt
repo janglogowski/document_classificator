@@ -1,0 +1,70 @@
+Audit Trail
+Review Points
+Sampling
+Classification
+Notes
+Level
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Ninor ISsuE
+Calor
+mismatch
+Level III
+opsenved
+Loose parts inside
+Level III
+Critical impact
+dackarinp
+Missing distributor
+Critical impact
+intormation
+Missing safety labels
+Critical impact
+Missing logo or warning
+Level
+Critical impact
+ade
+Sharp edges on
+astic
+Ssu8
+Level III
+components
+observed
+Dead
+live insectin
+Minor issue
+Level |
+packaging
+onsenved
+Expased nail with sharp
+Level III
+Critical impact
+point
+Wood splinter
+sharp
+Minor issue
+Level III
+point on product
+onsened
+Instruction manual is
+Level !
+Critical impact
+missing or damaged
+Minor issue
+Connector not working
+Level II
+ODSCNvcd
+Packaging does not match
+Needs revie "
+signed sample
+Reference Standards:
+Standard
+Edition
+RoHS
+2011
+EC 61010
+3rd Ed;
+Mindr

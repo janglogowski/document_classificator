@@ -1,0 +1,67 @@
+BOM Report
+Customer ID: BELGIUM
+Coordinator: Carlos Garcia
+Date; 2024-04-03
+Product ID: DX-7771
+Internal No.: 2618476
+Order Qty: 269
+Refer tothis parts
+plan raw-material purchasing: This section outlines the parts, unit
+prices and total amounts for assembly. Review the materials tally for compliance with budget
+allowances_
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Grease
+57.00
+Tube 250ml
+alignment
+adjusted
+Spring
+0.68
+0%6
+0.05
+0.85
+Switch
+Washer
+tested OK
+M1o
+Shaft
+1.62
+8.00
+256.00
+Li-Ion
+5OOmm
+battery
+installed
+Bearing
+3.19
+1.50
+10.50
+6202 ZZ
+Fuse 54
+3.15
+0%
+0.30
+9.30
+Urgent
+Cable Tie
+0.94
+0.95
+13.30
+SKF
+Pack (100).
+brand
+Total Amount:
+346.95
+Approved By:
+Sourcing Department:
+egister
+Hinge
+pcs

@@ -1,0 +1,27 @@
+Component Overview
+Report [40.
+PR-849
+Product ID: JD-7COW
+Date: 2024-10-29
+Configuration Type
+Pneumatic Control
+Wnit
+Pressure
+180 bar
+Tnroughput
+75 Lmin
+Supply Voltage
+60 Hz
+Mountine
+Wall-mounted
+Noise Level
+$ 70 dB(A)
+Motor Power
+Z.5 KW
+Battery Capacity
+Charging Time
+Cooling
+Air-cooled oil radiator
+Prepared by: Anna Nowak
+Approved by: Peter Schmnidt
+Rated

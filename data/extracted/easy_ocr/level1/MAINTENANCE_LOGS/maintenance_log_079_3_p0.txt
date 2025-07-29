@@ -1,0 +1,142 @@
+Equipment Record Report
+Performed On: 2025-06-25
+Signed olf
+Jan Kowalski
+perc medb"
+Anna Navak
+Bulor
+Ihu Suamiany
+scnvicc jcuons and downlirus Ior yach Macninc
+inis SucIan caplurgs equiplieni slalus and
+any mainlenancu
+ObsUvalions
+The cquipmenilog bulow includus Iaull codus
+cuicclivu nolus
+Usu Inis recurd
+Plan upcoming upkeep and repairs  All technician
+ccmmenis ae recordec
+for maintenance trend analysis   This log
+recorde
+maintanance activmies
+performed
+the equipment_
+Section
+Machine
+MC 242
+MC 252
+KC 260
+MC 223
+MC 237
+MC 274
+Machine
+Assembly
+L3e8
+Cutter
+Assembly
+Paint Booth
+Paint Booth
+CNC Milling
+Roba
+Rabc
+Machina
+Type
+Preventive
+Inspecticn
+Lorte Ctive
+Preventive
+Preventive
+Corrective
+Operato_
+Anna Kowar
+Jan Koxaiski
+Janrowalski
+Laura Rossi
+JanKowalski
+Carlos
+Sarcia
+pduration
+Comments
+Swich
+Replaced
+Li-Ion
+contacts
+coniani
+pack
+clcancd
+scviced
+SeclonB;
+Machine
+MC-237
+MC-223
+MC-274
+MC-260
+MC-252
+MC-242
+Machine
+Paint Boom
+Paint Boath
+CNC Milling
+Kssembli
+Lasel
+cuter
+Aisumb "
+Hachimc
+Robe
+RCJOC
+Type
+pteveniive
+Preventive
+mspecium
+Insnecion
+Comecine
+Ccrective
+Operator
+Launa
+Ross
+Carlos Gamcia
+Laura Russ
+Wan Kowalsk
+Peler Schidl
+Jan Koralski
+Duration
+Comments
+Aianmeni
+Li-Ion ballery
+Refilled oill
+Raplaced
+No issues
+dask81
+MnOCs
+Jack
+(HLP 46).
+5A}.
+Iauna
+rublacco
+adjuste d
+3erviced
+Overall
+equipment condition
+~salisfactory post-maintenance
+AILmaintenance duration'
+Hretecorded for
+performance
+metncs_ All maintenance tasks have
+Oeem
+comolcien
+Der schedug
+Senc
+summaries have been forwarded
+engineering team,
+Reier
+remanks
+IC ant
+Tolloy-p actions
+ans
+rediacemenis
+Uptime
+Frror Count
+Comments
+97 812
+Bolt tghtened
+Datteny
+Worn

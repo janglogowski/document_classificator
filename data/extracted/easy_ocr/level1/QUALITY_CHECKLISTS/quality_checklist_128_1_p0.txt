@@ -1,0 +1,104 @@
+Compliance
+#8174699
+Date: 17.07.2025
+Product ID
+Gh-77o
+Customer ID
+FINLAND
+Item Description
+Capacitor 450V
+Archive this Uistin the quality-managemnent systemn
+Check tnat Inspection steps follow the approved procedure
+Use this extract to coordinate sign-off with the QA manager, This summary supports the production-release
+quality 2
+Ensure allnon-conforming marks are clearly documented. Use this list
+confinmn adnerence t0
+AQL and safety standards Confiri that samplirg levels comiply with customier agreerents
+Entries Include
+both visual
+functional inspection items ,
+Quality Check Items
+Inspection
+Severity
+Notes
+Depth
+Specs
+Critical
+Major
+Minor
+Onhold
+Visua
+detect
+nousinp
+Level
+Critical impact
+Paint smearing or
+Needs revier"
+scrarches
+Not assembled as per
+Needs revie "
+drawing
+Shipping mark
+illegible
+Level III
+Critical impact
+Ofmiss
+Sharp edges on
+astic
+Level II
+Critical impact
+components
+Dustidebris inside
+LevelI
+Critical impact
+packaging
+Minor issue
+Product doesntpower on
+ODScivca
+Dcad
+Wucinsectin
+Leveli
+Needs rovicw"
+packaging
+Incorrect quantity 0r
+Minor issue
+Level!
+asSOrmeni
+ODSCivca
+Minor issue
+Color mismatch
+Level III
+ODSenvBo
+Wrong product size
+LGvEl
+Critical impact
+Battery not included
+LevclII
+Critical impact
+Packaging does not match
+Level !
+Critical impact
+signed sample
+nstruction manualis
+Levell
+missing or damaged
+Missing distributor
+Minor issue
+LevelIII
+inforinalion
+Odsenvea
+AQL Level
+Critical
+Maic
+Minc
+Default
+Customer snecmic
+Inspection summaryis filed for regulatory compliance
+Overall quality status indicates compliance with defined
+AQL levels. Checklist results have been reported t0 the quality manager. All critical and major Inspection points
+have been addressed. This tinal note
+confirms the checklist is camplete and appraved
+Archive this sUmmary in
+Log
+Rale;
+Dasien

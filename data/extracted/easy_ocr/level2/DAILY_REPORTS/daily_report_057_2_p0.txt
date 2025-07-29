@@ -1,0 +1,93 @@
+Shift Summary
+PR-820
+Report No
+FINLAND
+Cuslomer:
+Peter Schmidt
+Supervisor:
+Logistics
+Department;
+(Nighi)
+02-09-2023
+Shifl;
+Notes
+Therma
+Power
+Worker
+Begin
+End
+Time
+Reading
+Draw
+Machine
+Task
+Time
+Spent
+MC-2OV
+Welding
+Anna Nowak
+08.15
+09,06
+Delay
+79.8
+2.60
+14.15
+MC-209
+Polishing
+Bartosz
+Wawrzyniak
+76.9
+06.30
+08.29
+119
+MC-202
+Welding
+Piotr
+Lewandowski
+61.7
+12,00
+12.42
+MC-202
+Welding
+Barlosz
+Wawrzyniak
+100
+Recalibrated
+55.9
+1.26
+MC-207
+Polishing
+Magdalena
+07.30
+09.10
+Witkowska
+70.2
+1.48
+Mateusz
+08,30
+10,27
+MC-202
+Polishing
+Jarzyna
+62.2
+2.35
+09.00
+10.02
+MC-202
+Cutting
+Piotr
+Lewandovski
+Recalibrated
+57.8
+2.24
+Nadia Sauter
+11.30
+13.22
+112
+MC-203
+Drilling
+Carlos Garcia
+Prepared by:
+Kowalski
+Approved bY:
+13.15

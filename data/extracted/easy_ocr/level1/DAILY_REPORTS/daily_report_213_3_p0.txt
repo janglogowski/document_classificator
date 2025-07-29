@@ -1,0 +1,122 @@
+Production
+Report No_
+PR-200
+Customer: CANADA
+Shift:
+(Morning)
+Date: 20-02-2024
+Equipment
+Task
+Operator
+Start
+End
+Ilotai
+Motes
+Condition
+Time
+Iime
+Time
+MC-206
+Drilling
+Bartosz
+13.30
+15.07
+Delayed
+Wawrzyniak
+MC-207
+Assembly
+Przemyslav:
+09.30
+10.54
+Recalibrated
+Wasik
+progress
+MC-203
+Welding
+Nadia Sauter
+14.15
+15.48
+Recalibrated
+progress
+MC-202
+Drilling
+Dawid
+10.00
+11.10
+Recalibrated
+Delayed
+Oszmianczuk
+MC-203
+Drilling
+Anna Nowak
+10.15
+11.58
+103
+progress
+MC-205
+Drilling
+Bartosz
+12.30
+12.58
+Recalibrated
+Wawrzyniak
+progress
+MC-208
+Cutting
+Anna Novak
+09.00
+09.52
+Delay
+Completed
+MC-201
+Assembly
+Nadia Sauter
+06.30
+07.4
+NA
+progress
+MC-201
+Drilling
+Wiktor
+08.30
+09.11
+Recalibrated
+KopcZyiski
+progress
+MC-204
+Drilling
+Jan Kowalski
+09.30
+10.22
+Completed
+Item ID
+Planned
+Produced
+Rejected
+Rejection
+Rework
+Uwagi
+Count
+AL-1150
+242
+07%0
+Scrap
+confirmed
+RM-86ON
+254
+254
+00%6
+Scrap
+contirmed
+KP-320E
+208
+202
+2.88%
+Scrap
+confirmed
+390A
+MC-54OX
+288
+Approved by:
+Prepared by:
+Log

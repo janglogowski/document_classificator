@@ -1,0 +1,72 @@
+Unit Data Specification
+This technical overview supports the product-release checklist. This report extract is prepared for design-
+verfication audits
+Please review the specifications
+material composition listed below; The following
+information outlines pertormance characteristics and design data
+Use this spec sheet to validate assembly
+instructions:
+Product
+RX-310z
+Document No
+PR-662
+Prepared by: Anna Nowak
+Approved by: Peter Schmidt
+Date: 2025-05-08
+Configuration Type
+Pncumatc
+Control Unit
+Operating Pressure
+300 bar
+Flow Rate
+75 Umin
+Supply Voltage
+480
+60Hz
+Oil Type
+Battery Capacity
+Type
+Vane
+Filtration
+inline,
+10 Um
+reIrN
+Confirm that all test conditions are accurately represented
+Data sheet has been peer-reviewed by the
+engineering team
+All specifications meet the design requirements and industry standards. Materal choices
+and process data have been verified for compliance
+Ensure that the listed materials are approved for the
+application:
+Material 0f Construction:
+Label
+Composition
+Wooden Pallet
+Treated Pine
+Graphite Pad
+Graphite Pad
+Hex Bolts M12
+Zinc-Plated Steel
+Ring NBR 60mm
+Nitrile Rubber (NBR)
+Cooling Gel Pack
+Silicone Rubber
+Battery Pack
+Lithium-Ion Cel
+Pack
+Power Switch
+Polvcarbonate
+Copper
+Fuse 5A
+Ceramic Oxide
+Connector
+Glass-Filled Nylon
+etlon Tape Roll
+Teflon Tape Roll
+pacitor 450V
+Aluminum 6061-76
+and
+HLP
+Pump
+Pump
+Wood

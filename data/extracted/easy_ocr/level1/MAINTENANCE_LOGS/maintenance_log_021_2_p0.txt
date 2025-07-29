@@ -1,0 +1,76 @@
+Equipment Record Report
+2023-09-20
+Refer
+the maintenanct
+egister for detailed service histories
+Check that
+downtime
+properly categorized and
+Cenlirm that service irtervals follow thte prevertive
+Ueuthi
+plan upcorriirg UFxeep and epirs, This
+Maintenance extract
+preparedior compiiance audit traus
+Spare Parts Useo;
+Part Name
+Panto
+Oty Used
+0i Filtet
+O-6tg
+Sensor Module
+0-5374
+Oul Hilte f
+-1020
+DensOr damie
+0-60at
+Unit Code
+Machine
+Senvice Ype
+Technician
+Downtime
+Previous
+Notes
+service
+MC-233
+Lathe
+Hnsderhor
+In{nvralski
+2024-01-26
+Tightened
+ucse toll
+MC-285
+pudraulic
+nscecmor
+Carlo:
+Garcia
+2023-08-24
+Refilled cil
+Pres
+IHlp 461
+MC 276
+Paint Anoth
+Preventive
+Laura kossi
+7025 04-07
+Aensar
+recalibrated
+MC-242
+Plasma
+nscertor
+Annz Ncvak
+2023-09-07
+Cutter
+MC 272
+atha
+Prawcntivc
+Anni Nowal
+2023 12-13
+Changed
+Andfter
+Signed oft;
+Anna Novak
+Perormed
+Larics Garcia
+loreed
+Knrdul
+record

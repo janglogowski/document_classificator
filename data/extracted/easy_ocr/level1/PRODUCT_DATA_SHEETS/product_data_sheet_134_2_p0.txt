@@ -1,0 +1,61 @@
+Component Overview
+Entries include both mechanical and
+lectrical specifications This section details the configuration and parameter set
+for the product: Check that all material specs align with supplier certifications
+Please revicw the specifications and
+materia
+compasition listed below. Ensure all referenced standards are up to date- This data sheet provdes key
+sperifications and material details_ This repart extract
+prepared
+for design-verification audits,
+Product ID:
+ZR-205R
+Interng
+2605387
+prerareo
+by: Laura Rossi
+Anproved bY: Jan Kowalski
+Date: 2025-01-01
+Model Type
+Cooling Circulation
+Design Pressure
+210 bar
+System
+Flow Rate
+75 U{min
+Supply Voltage
+230 V / 50 Hz
+Frame
+Materia
+Powder-poated Steel
+Total Weight
+180
+Mounting
+Skid base with vibration
+Protection
+Ciass
+IPS4
+pads
+This closure note
+indicates the data sheet
+ready for
+lease, Use this summary
+cross-check with BOM and
+Inspection reuans
+any missing parameters for urgent specification updates_
+Document control numbers are
+included for traceability- All summary comments have been recorded
+the revisian log:
+Material of Construction:
+Part
+Raw Material
+Wiring Loom Im
+PVC (Rigid}
+Gasket Sheet 44
+Mitrile
+Rubber INBR)
+LED Light Strip_
+Glass
+Nyion
+No '
+Flog =

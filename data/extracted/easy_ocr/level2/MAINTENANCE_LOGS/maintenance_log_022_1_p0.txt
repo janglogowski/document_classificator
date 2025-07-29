@@ -1,0 +1,84 @@
+Equipment Record Report #1055767
+Date: 2024-05-04
+Macnine
+cquipment
+Service Type
+Operator
+powntime
+Area
+Notes
+MC-275
+CNC Mllng
+inapeclicn
+Anna Nowak
+plant IC
+'lianmeng Oi
+Flacnine
+hinges
+adiusted
+NC-299
+Paint Booth
+Preventive
+Anna Nowak
+Plant 2B
+Hlanment ot
+adjusted.
+MC-258
+Hvcraulic
+Ingpectcn
+Laura Rossi
+Piant 34
+Switch
+Pre3s
+contacme
+clean8o
+MC-201
+Hydraulic
+Preventive
+Lavae
+Ro3ai
+PlantJP
+Tightened
+Ptuss 
+ousabults
+MC-284
+LAtne
+Comective
+Carlos Carcia
+Plant 2P
+NC2AT
+Laser Cuttel
+Inapecticn
+Peter Schmidt
+plant 21
+Calidration
+checkok
+MC-260
+Nlasma Cutter
+Preventive
+Laura Ro3gi
+Plant 2B
+Seniice aummeries have
+Deen forvarded
+enpineeringtebm
+Confirm ther ei comective
+actong Wve
+properly closed
+Ruici
+remarks for any
+Jctcns
+purtsreplucements
+criticull ault;wvcquound durng thulutust
+inspecmon
+ensure next preventive gerice
+scneduled accordinz
+plan_
+Lubticaticn Checked
+Calibration Yenfie 0
+Emetgency
+patem
+Signed off: _
+Performed by: _
+ninjus
+Kollova-
+stop

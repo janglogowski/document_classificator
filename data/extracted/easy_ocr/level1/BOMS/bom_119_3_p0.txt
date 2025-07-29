@@ -1,0 +1,93 @@
+COMPONENT BREAKDOWN
+This summary lists every item required
+with per-unit pricing details. The component roster below
+includes unit costs and batch codes: Ensure each component meets the specified quality
+standards. This extract shows the bill of components and total projected spend_
+Please review the
+itemized list of parts and materia
+specifications before procurement:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Spring
+0.05
+Washer
+M1O
+Insulation
+3.20
+22.40
+Foam Pad
+Ceramic
+2.10
+52.50
+For export
+Disc 8Omm
+Set
+127.50
+SKF brand
+Hex Bolts
+pCs
+0.25
+9,00
+For export
+M12
+Terminal
+pCs
+3.40
+125.80
+Li-Ion
+Block 4P
+battery
+installed
+Steel Sheet
+5.00
+190.00
+A36
+alignment
+adjusted
+Gasket
+pCS
+26.25
+Urgent
+Sheet A4
+Spring
+pCS
+0.05
+Li-Ion
+Washer
+battery
+M1o
+installed
+Set
+pCS
+2.50
+137.50
+SKF brand
+Epoxy
+pCS
+7.30
+321.20
+Li-Ion
+Resin Kit
+battery
+installed
+Cross-verify totals with the ERP system for consistency. Totals include estimated over-consumption
+allowances and current unit rates_
+Customer ID: NORWAY
+Coordinator: Anna Nowak
+2024-01-19
+Product ID: DX-7771
+Internal No_
+7214686
+Order Qty: 234
+Total Amount:
+1,014.60
+pCs
+Hinge
+Hinge
+Hinge
+Date:

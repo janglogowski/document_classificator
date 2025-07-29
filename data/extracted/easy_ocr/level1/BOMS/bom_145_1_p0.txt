@@ -1,0 +1,116 @@
+BILL OF MATERIAL
+Customer ID: POLAND
+Coordinator: Jan Kowalski
+Date; 2024-01-26
+Product ID: XK 610U
+Internal No.: 5009855
+Order Qty: 255
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+3.27
+1050
+pcs
+0.55
+4.95
+For
+Stopper
+expont
+Plastic
+1.41
+5"0
+pcs
+1.10
+53.90
+Li-Ion
+Cover
+battery
+150x150
+installed
+Grease
+2.48
+590
+pcs
+1.90
+13.30
+Li-Ion
+Tube 250ml
+battery
+installed
+Insulation
+3.38
+1090
+pcs
+3.20
+19.20
+SKF
+Foam Pad
+brand
+Packaging
+1.87
+200
+1.00
+43.00
+High
+Box L
+grade
+Hinge Set
+0.42
+109/
+2.50
+97.50
+Hinge
+alignment
+adjusted
+Wooden
+2.67
+290
+pcs
+15.00
+135.00
+For
+Pallet
+export
+Steel Sheet
+3.04
+290
+5.00
+80.00
+A36
+verified
+Wooden
+0.99
+0c
+15.00
+90.00
+Pallet
+alignment
+adjusted
+Spring
+2.83
+290
+pcs
+0.05
+0.30
+Switch
+Washer
+tested OK
+M1o
+Verify that all remark items meet the sourcing departrent 's standards. Any deviations from standard
+pricing have been annotated here. Ensure this materials summary
+reconciled with the purchase
+order. Review this summary against the master budgeting sheet:
+Total Amount:
+537.15
+Approved By:
+Sourcing Department:
+pcs
+pcs
+Hinge

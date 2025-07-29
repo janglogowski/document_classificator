@@ -1,0 +1,77 @@
+COMPONENT BREAKDOWN
+The component roster below includes unit costs and batch codes. Use this schedule of parts to
+align with sourcing and stock levels_
+This section outlines the parts
+unit prices and tota
+amounts
+assembly. Refer to this parts register to plan raw-material purchasing: Ensure each
+component meets the specified quality standards
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption_
+Battery
+pcs
+25.00
+825.00
+High grade
+Pack
+Battery
+pcs
+25.00
+1,375.00
+High grade
+Pack
+Clamp
+pcs
+1.75
+42.00
+Li-Ion
+battery
+120mm
+installed
+Hex Bolts
+pcs
+0.25
+Urgent
+M12
+Cable Tie
+pcs
+0.95
+18.05
+Imported
+Pack (100)
+Shaft
+pcs
+8.00
+296.00
+s00mm
+alignment
+adjusted
+Plastic
+pcs
+0.20
+8.60
+High grade
+Rivets
+Termina
+pcs
+3.40
+34.00
+Block 4P
+Customer ID: FRANCE
+Coordinator: Jan Kowalski
+Date:
+2023-10-03
+Product ID: PL-601Z
+Interna
+No : 7741140
+Order Qly: 309
+Total
+Amount:
+2,606.15
+Ring
+Hinge

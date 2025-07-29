@@ -1,0 +1,107 @@
+Confirm that service Intervals follow the preventive schedule_
+Use tnis (ecord
+plan Mpcominc upkeepand repzirs
+Pleasereview
+this IoE; for recent service dates; types
+andtemark
+Check that all dovrntime events are properly
+categorized and logzed: This log;
+Fecords
+Mzntenanceacutnes
+performed o the equipment
+Spare Parts Used:
+par Name
+anno
+utyused
+Hvdoqulic Hoe
+-4634
+Sealing Gasket
+P-4382
+Hydraulic Hos
+0-7639
+Batten Paca
+-60s4
+Mncnna
+Equipment
+Imchnicin
+#o Unml
+0rngMS
+Note
+service
+Mc 760
+PI:S
+Ursptclion
+Voa
+7074-00-13
+L-lon
+Cutter
+battery pack
+criccc
+MC-210
+Paint Bcotn
+Lotrecoive
+Jankowalske
+2024-12-03
+Switch
+ccrmac
+cieaned
+MC-799
+Convevon
+In DFlon
+Noak
+7075-05-77
+Retiledail
+(HLP 461.
+Mc 772
+Paint Bcotn
+Intpcon
+Prte
+2074-10-09
+Scnmict
+MC-27S
+Convevoi
+Preventive
+Laura Rose
+20125-01-14
+5wiich
+Belt
+coctacts
+cleaned
+MC-234
+Conveug
+Cocrertve
+Peter
+2024-05-26
+Cranped
+Scnmidt
+and Tilten:
+MC-220
+Paint Bcotr
+Inspection
+JanKowralsk
+2025-07-06
+Kces
+Tond
+MC 236
+Lascr Cuticr
+Intplchon
+Prten
+2023-11.22
+Noi  u
+Scnmlet
+Tond
+Mc749
+CNC Milling
+Unsocron
+Launa Rossi
+202401-07
+Li-or
+Machine
+batteni
+senviced
+ciEned
+cchmidt
+Perturmed
+Muna Ross
+Jen
+pack

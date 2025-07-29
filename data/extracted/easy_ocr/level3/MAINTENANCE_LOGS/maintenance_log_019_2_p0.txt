@@ -1,0 +1,79 @@
+Equipment Record Report
+2025-05-25
+The equipment log below Includes fault codes and corfective notes : Confirm that service Interviils (ollow the preventive
+schedule
+Belowis the summary
+Service actions and downtimes for each machine
+Check thaf all downtime events are
+properly catcgorzed and logged. Ensure all safety checks were completed during servicing:
+Spare Parts Used:
+pun Name
+PumNo
+Qty Usod
+Switch Assembly
+P5380
+Unlt Codu
+Equipment
+Jpe
+Operator
+dointimc
+LaST
+Check
+Arei
+Note 5
+MC-285
+Conveyo
+Coneclve
+Petet
+2023-10- 16
+neoiaceC
+Schmidt
+54L:
+HC-282
+Assembly
+Preventive
+Lauma Rossi
+202y 09
+Alignment of
+Robot
+hingos
+adjusted:
+MC-263
+Paint Booth
+Ccrrectivu
+Caros
+2024-03-01
+Worn gasket
+Garcia
+Jeolaceo
+HC-222
+Assembly
+Inedcction
+Dpter
+2023-01-21
+Benso
+Ribot
+Schmnidt
+ccalibrated
+MC-215
+Packaring
+Com-ccie
+LBUrB Rosse
+2024-05-09
+Wccder
+Line"
+checked_
+MC-292
+CNC Milling
+Praveniive
+Anma
+2023-07-26
+Wooden
+Machina
+Nowak
+pallet
+checked:
+Autonco Oy=
+Peler Scnmidt
+Oneralot;
+Latlcs Garcize

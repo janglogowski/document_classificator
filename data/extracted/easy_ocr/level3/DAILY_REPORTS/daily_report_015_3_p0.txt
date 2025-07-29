@@ -1,0 +1,103 @@
+Customer:
+SWEDEN
+Report No:: PR-611
+Date:
+17-12-2024
+Shift:
+(Eveningl
+From
+Total ime
+Comments
+Condition
+Machine
+Process
+Opertor
+Delayed
+MC-207
+Drlling
+Piotr
+09.15
+09.44
+Lewandawski
+10.15
+10.41
+progress
+Kc-205
+Assembly
+Magdalena
+Witkowska
+14.15
+15.46
+NJA
+progress
+MC-208
+Drilling
+rgnieszka
+Zielinska
+Welding
+Nadia Sauter
+12.15
+13.05
+Delay
+Completed
+MC-206
+09.13
+In progress
+MC-206
+Cutting
+Nadia Sauter
+08-00
+10.15
+12,06
+NIA
+Delayed
+MC-206
+Drilling
+Mateusz
+Jaryna
+C6.00
+06.46
+ptogtess
+MC 201
+Cutting
+Wiktor
+Kopczynski
+been
+deviations
+highlighted above: No critical delays were observed; please
+All production targets have
+logged
+any ajustmants t0
+addrcss any minor issues noted  Archive this Outpyt summary for end-of-day rcporting: Record
+shift schedules or staffing here.
+Planned
+Achieved Qty
+Defect Qty
+Scrap
+Reworked
+Notes
+Part ID
+Units
+Output
+200
+0.83470
+JD-700W
+13.77/90
+Scrap
+PW-S15Y
+138
+119
+coniirmed
+121
+104
+14.0598
+Scrap
+DX-T7TT
+confymed
+299
+258
+13.7190
+AL-l5Q
+Approved DY:
+Prepared by: .
+Jre

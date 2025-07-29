@@ -1,0 +1,99 @@
+BILL OF MATERIAL
+Customer ID: TURKEY
+Coordinator: Jan Kowalski
+Date:
+2024-10-28
+Product ID: MS-6OOP
+Intema
+No : 4753539
+Order Qly: 76
+The parts manifest here is designed to support procurement workflows
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Spring
+3.26
+10%
+pcs
+0.05
+0.10
+ISO-
+Washer
+verified
+M1o
+Hex Bolts
+2.41
+10%
+pcs
+0.25
+10.50
+SKF
+M12
+brand
+Grease
+0.96
+10%
+pcs
+1.90
+57,00
+Tube 250ml
+Stainless
+2.54
+0%
+pcs
+0.35
+12.25
+Urgent
+Bolt MB
+Grease
+1.76
+2%
+pcs
+83.60
+Imported
+Tube 250ml
+Hex Bolts
+2.18
+200
+pCs
+0.25
+8.50
+Imported
+M12
+Rubber
+2.33
+29/
+pcs
+0.50
+17.50
+Switch
+Gasket
+tested
+8Omm
+OK
+Clamp
+1,.34
+10%
+pcs
+1.75
+70.00
+Eco
+120mm
+compliant
+Verify that all remark items meet the sourcing department's standards
+Review this summary
+against the master budgeting sheet: All listed components have been verified for availability and
+compliance:
+Total
+Amount:
+259.45
+Approved By:
+Sourcing Department:
+Ring

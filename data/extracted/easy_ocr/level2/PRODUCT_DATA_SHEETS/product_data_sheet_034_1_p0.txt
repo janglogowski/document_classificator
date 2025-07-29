@@ -1,0 +1,56 @@
+Product Data Sheet
+Project;
+CE-905L
+Inietna
+4504136
+Prepared
+Carlos Garcla
+Approved BY:
+Anna Nowak
+Locallon; Plant 28
+Date: 2025-05-17
+Configuration Type
+Pneumalic Conirol Uni
+Oporating Pressuro
+180 bar
+Flow Rato
+75 Umin
+Oporating Voltago
+480
+60 Hz
+Oil Type
+HLP 46
+Motor Powcr
+7.5 kW
+Cooling
+Alr-coolod oil rndlator
+Working Tomp: Range
+10 C
+to 50 €
+Framo Matorial
+Alumiqum Fano
+Total Wolght
+250 kg
+Nolso Lovol
+68 dB(A)
+Charging Tllmo
+Servlce Interva
+1000
+Type
+Gear Pump
+Mounting
+Wall-mounted
+Battery Capacity
+Dlmenslons (LxWxH)
+1200
+700 * |100 um
+Conlim that all tast condillons ara accuratoly represented; AI summary comments have beon recarded in
+Ihe revision log: Rofer
+paraniater Iable (or operaling rangus and (olerances Check that alll secilon
+headers follow Ihe product template;
+Ensure glossary lerms match the engineering nomenclature; All
+specilicalions meet the deslgn requlrements and Industry standards
+Thls summary rellecis Ihe Vatest
+revision of Ihe product data,
+84.
+Pump

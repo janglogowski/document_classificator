@@ -1,0 +1,54 @@
+ID:
+ID: HF
+by:
+Schmidt
+Internal No:: 3829708
+Qty
+Hez
+Sensor CWp
+578
+Unjt
+pCs
+895
+362
+Cabie Tie
+L00
+OCS
+851
+Pack (100)
+578.00
+185
+Remarks
+223.75
+DCS
+Cenified
+34390
+batcn
+SKF
+276.50
+ECO
+175.75
+compllant
+tested
+2,597.90
+Dk
+Customer
+TURKEY
+Product
+Prepared 
+~S90A
+Peter
+Item
+Packaging
+Description
+Bolls
+Box
+Bearing !
+JOM
+6202
+Price
+Amount
+Urgent
+Lrand
+Switch
+TOTAL:

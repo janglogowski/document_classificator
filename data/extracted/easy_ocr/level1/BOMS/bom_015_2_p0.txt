@@ -1,0 +1,41 @@
+Customer ID: SWEDEN
+Prepared by: Jan Kowalski
+Product ID: TY-3506
+Interna
+No:: 6683110
+Below i5 the component
+listing and associated costs for the upcoming production batch: This section
+outlines the parts, unit prices and totab
+Jmounte
+assembly. This summary lists every item required
+with per-unit pricing details The component
+roster below includes unit costs and batch codes: Use this
+breakdown t0 verify sourcing
+cost estimates; The parts manifest here is designed
+support
+procurement workflows;
+Item Description
+Sensor Clip
+Clamp
+Gasket Sheet A4
+Set
+120mm
+Qty
+867
+133
+666
+UOM
+Unit Price
+Amount
+823.65
+232.75
+Remarks
+Eco compliant
+SKF brand
+Switchtested OK
+TOTAL: 3,625.15
+and
+Ring
+Hinge
+903.75
+1,665

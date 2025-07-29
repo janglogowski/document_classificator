@@ -1,0 +1,81 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+pCS
+Switch
+M12
+tested OK
+Grease
+pCS
+22.80
+Li-Ion
+Tube 250ml
+battery
+installed
+Rubber
+pCS
+17.50
+Gasket
+8Omm
+Protective
+Urgent
+Sleeve
+5Omm
+Steel Sheot
+150.00
+High grade
+A36
+Fuse 5A
+Imported
+LED Light
+90.00
+Switch
+Strip
+tested OK
+Rubber
+.0O
+SO-verified
+Gasket
+8Omm
+Steel Sheet
+.00
+150.00
+ROHS
+A36
+compliant
+Ventilation
+pcs
+.60
+16.80
+Switch
+Grid
+tested
+LED Light
+2.50
+105.00
+Hex Bolts
+0.25
+3.50
+Urgent
+M12
+Ensure archival of this materials summary for compliance records
+The cost subtotal supports
+financial forecastingforthe next cycle. All listed components have been verified for availability and
+compliance
+Customer ID: FINLAND
+Coordinator: Laura Rossi
+Date: 2023-06-28
+Product ID: CN-150C
+Internal No_
+4857939
+Order Qty: 403
+Total Amount:
+581.70
+Pc5
+Strip

@@ -1,0 +1,64 @@
+COMPONENT BREAKDOWN
+Customer ID: NORWAY
+Coordinator: Anna Nowak
+Date: 2024-07-31
+Product ID: TR-2OOB
+Internal No.
+4405293
+Order Qty; 270
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Power
+2.55
+pcs
+62.40
+Switch
+Plastic
+065
+pcs
+0.20
+8.80
+Eco
+Rivets
+compliant_
+Termina
+0.52
+pcS
+3.40
+Certitied
+Block
+batch
+Shaft
+pCS
+8,00
+176.00
+Certified
+500mm
+batch
+Plastic
+1.02
+pcS
+0.20
+7.60
+Li-Ion
+Rivets
+battery
+installed
+The cost subtotal supports financial forecasting for the next cycle: This final review confirms that all items
+ready for requisition. Ensure this material
+summary
+reconciled with the purchase order. Totals
+include estimated over-consumption allowances and current unit rates:
+Tota
+Amount
+418.00
+Approved By:_
+Sourcing Department:
+163.20

@@ -1,0 +1,45 @@
+Quality Inspection List
+Confirm that sampling levels comply with customer agreements; This closure summary indicates campliance with
+Inspection criteria. Below are tne iterns t0 be verified duririg the final product review. AIl cnecklist entnes are
+timestamped for traceability This summary supports the production-release quality gate. Refer
+the quality register
+for sampllng-plan refererces_
+Product
+BZ GG0F
+Customcr im
+BELGIUM
+Item Descrnption
+HealResistant ciceve
+Audit Criteria
+Sampling
+Classification
+Comments
+LCVC
+Component Criteria
+Critical
+Major
+Mnar
+Onholo
+Inconecc
+Darccoc
+label
+LCYC
+Kccus
+ievicy
+Lcocc
+patts inside pickaging
+Missing Icgo
+Warning Ijdci
+LCVC
+ASSuC
+cosered
+Carton
+damaged
+Critical lmpact
+markings incorrect
+Ratternos
+included
+Leve
+Supervised by:
+Date
+Minor

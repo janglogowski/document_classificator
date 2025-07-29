@@ -1,0 +1,105 @@
+Report No:: PR-326
+Customer: CANADA
+Shift: "
+(Night)
+Date: 12-07-2025
+Equlpment
+Task
+Worker
+Begin
+Finish
+Total
+Notes
+Status
+duration
+MC-208
+Drilling
+Przemystaw
+06.00
+07.57
+Recalibrated
+piognyss
+Wasik
+MC-202
+Polishing
+Bartosz
+11:00
+12.39
+Recalibrated
+In progress
+Wawrzyniak
+MC-205
+Polishing
+Agnicszka
+0B:15
+08.42
+progress
+Zielinska
+MC-204
+Welding
+Dawid
+09.30
+11:10
+Recalibrated
+Delayed
+Oszmianczuk
+MC-208
+Assembly
+Agnieszka
+11:15
+12.33
+Completed
+Zielinska
+MC-206
+Cutting
+wiktor
+07:15
+08.20
+Delay
+progress
+Kopczynski
+MC-202
+Drilling
+Wiktor
+08.00
+09.20
+Delayed
+Kopczynski
+Item ID
+Target Qty
+Actuul
+Dulcct
+Qty
+Scrap %0
+Reworked
+Notes
+Units
+LK-890B
+178
+169
+5.0694
+confirmed
+LK-890B
+124
+105
+15.3296
+Scrap
+caninmed
+XK-61OU
+163
+11.8940
+Scrap
+contirmed
+MR-160H
+208
+193
+7.21"
+Rework
+MeedED
+RM-BGON
+159
+150
+5.6692
+Appraved by:
+Prepared by: _
+Scrp

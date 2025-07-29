@@ -1,0 +1,138 @@
+Shift Summary
+Report No:: PR-342
+Customer: GREECE
+Shift: C (Nlght)
+Date; 23-10-2023
+Machine ID
+Operation
+Worker
+Start Ime
+Finish
+Tlme Spent
+UwarI
+Status
+MC-202
+Assembly
+Bartosz
+06*15
+08.10
+115
+Completed
+Wawizynlak
+MC 205.
+Orilling
+Dawild
+07,00
+08, 08
+Delayed
+Oszmlanczuk
+MC-204
+Pollshing
+Wiktor
+13.15
+14.49
+Recallbrated
+prontcs
+Kopczynski
+MC 201
+Welding
+Nadla Squter
+07.00
+08.53
+NIA
+Oelayed
+MC 202
+Welding
+Dawld
+09.15
+10.03
+Delay
+pprontcss
+Oszmlanczuk
+MC-202
+Welding
+Bartosz
+12.15
+12.38
+Delayed
+WNnanunnt
+MC 206
+Welding
+Nadia Sauter
+07.30
+09.25
+115
+Delay
+pelayed
+MC-209
+Polishing
+Magdalena
+06,00
+06.20
+probress
+witkovaska
+MC-202
+Welding
+Przemyslaw
+13,15
+15,02
+107
+Delay
+Completed
+Wasik
+MC-207
+Welding
+Mateusz
+13,00
+413,30
+Recalibrated
+Delayed
+Jarzyna
+Ensure shift-handover nates Include an pendlng Issues
+Nol
+any unscheduled stops
+the downtlme reglster; Use
+thus summan
+update the overall productlon dashboard, Confirm that scrap percentares allgn wlth quallty
+benchmarks: Overall productlon performance met expectatlons for the day. Record any adjustments
+~shift
+schedules or stalfing here:
+Item
+Tarret Qty
+Achieved Qty
+Detect Qty
+Rejection
+Rework Qty
+UwarI
+NU-A402
+253
+247
+23706
+Rework
+needed
+GL-9805
+229
+219
+4.375
+Scrap
+contined
+RM-8GON
+126
+125
+0,7918
+Rewvork
+needed
+660F
+274
+261
+4,749
+Rewvork
+neeeled
+QP-GG0F
+248
+248
+0,00%
+Rewvork
+neededi
+Approved by:
+Prepared bv:

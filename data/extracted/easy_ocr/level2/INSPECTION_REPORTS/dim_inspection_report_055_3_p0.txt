@@ -1,0 +1,100 @@
+Dimensional
+Inspection performed by Peter Schmidt on 2023-11-12.
+Use Ihls results sUmmary t0 (rigger any corroctive acllons; Raviow recorded (olerancos
+ongincoring
+specilicalions;
+This sumnary
+measurements supports metrology Iracoabillly: The (ollowing data capturos
+key dimensions and any devlallons Identlflad
+Check Ihat all dimenslons comply wilh ISO and company
+standards
+Envlronmental
+Conditions: Terperature=
+20.6 "C, Humidity; 42 %
+Item Code
+Part Name
+Moasurement
+Nomlnal
+Actual
+Delta
+Status (ViX)
+MX-AS0L
+Plasilc
+Depih
+25,84
+25,68
+0,16
+Rlvels
+KP-320E
+Rubber
+Depih
+98,33
+98,15
+0,18
+Gaskal
+BOmmn
+MX-A50L
+Hex Bolls
+Innor
+72,48
+72,42
+0,06
+M12
+Dlamoter
+LK-890B
+Hlnge Set
+Height
+11.34
+HF-390A
+Hlnge Set
+Thickness
+34.85
+34.77
+TX-820v
+Steel Sheel
+Thickness
+9.13
+9.14
++0,01
+43G
+KV-39OK
+Hinge Set
+Lenglh
+99,64
+MR- I60H
+Power
+Hole
+21,35
+21,21
+0,14
+Swiich
+SB-140D
+Plasilc
+Thicknuss
+82,32
+82,24
+0,0d
+Rlvels
+TY-350G
+Ballery
+Dopih
+88,91
+68,96
++0,05
+Pack
+MC-S540X
+Graphite
+Height
+03,47
+83,39
+0,08
+Pad
+VR-940T
+Baltery
+Hole
+90,69
+90,65
+0,04
+Pack
+Log
+agalnst =

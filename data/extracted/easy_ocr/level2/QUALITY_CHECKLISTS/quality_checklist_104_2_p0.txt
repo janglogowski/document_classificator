@@ -1,0 +1,67 @@
+Quality Verification
+Use this extract-
+coordinate sign-off with the QA manager.
+closure summo
+ryindicates compliance with
+inspection criteria. This checklist captures quality inspection points and sampling levels. Check that inspection
+steps follow the approved procedure.
+ProductID
+TL-9OOX
+Customer ID
+CANADA
+Item Description
+Sensor Clip
+Inspection Checklist Points
+Sampling
+Severity
+Notes
+Level
+produgi
+Requirements
+Hold
+Insiuclion manval
+rissing
+Needs reviev'
+damaged
+Visual defect on housing
+Level
+Minor issueobserved
+Shipping mark is illegible or
+Levelll
+Missing
+Package
+naf seaicd
+Level III
+Needs revlew
+completely
+Battery not included
+Needstaview
+Sharp edges
+plastic
+LevelII
+Critical impact
+cumiponens
+Missing logo
+warning labol
+Level III
+Rubber texture
+glossiness
+rnismatch
+Exposed nail with sharp point
+lncorectbarcode
+abei
+LcvGi
+Needs revicwv
+incorrect
+orientation
+Level
+Minor issue observed
+Dead
+live insect
+Level Il
+Critical impact
+packaging
+Hinges loose
+Supervised by:
+Date:
+Tnis

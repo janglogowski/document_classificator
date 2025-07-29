@@ -1,0 +1,84 @@
+Component Dimensional Check
+Inspection performed by Carlos Garcia on 2025-01-14.
+This summary of measurements supports metrology traceability: Please review the Inspection results for each
+component Ilsted below Review rfordud talerances agalnst engirz gting specllicatiors
+Ensure measuremeni
+methods align vaith calibratian standards. Below are the recarded measurements
+compared against nominal
+tolerances
+Environmental Conditions: Terperature: 22.4 "C, Humiaily: 50 %
+Proruc
+Ref
+Lomboncat
+Dim;
+Momino
+Obseneu
+DIff
+Status Av/X}
+ON-770H
+0-Ring NBR
+Hole @
+71.55
+71.39
+40.16
+6Omm"
+GL-9805
+0-Ring NBR
+Length
+23.78
+23,90
++0.12
+6 Qmm
+Ni- 454
+Power
+Switch
+Tnicknes5
+45.43
+45,61
+GH-7701
+NBR
+Length
+60.02
+60,07
++0,05
+6omm
+VR-940T
+Battery Pack
+Hole
+57.80
+57.76
+0.04
+NU-4407
+Battery Pack
+Lentth
+73,75
++0,04
+ON-770H
+Steel Sheet
+Denth
+98,98
+58.80
+0.18
+A36
+Az-JooT
+Battery Pack
+Hole
+17 46
+12,64
++0.19
+ZR-JOSR
+0-Ring NBR
+Length
+72.37
+72,36
+0.01
+GOmm
+MC-540X
+Rubopr
+Hole
+47,58
+47.57
+0.01
+Gasket
+0-Ring
+Bom

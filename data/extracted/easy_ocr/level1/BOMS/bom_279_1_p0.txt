@@ -1,0 +1,107 @@
+BILL OF MATERIAL
+Customer ID: BRAZIL_
+Coordinator: Jan Kowalski
+Date: 2024-08-19
+Product ID: TX-820v
+Intcrna
+8739280
+Order Qty: 284
+Refer tothis parts register to plan raw-material purchasing: Ensure each component meets the
+specified quality standards_
+All line-item costs are current as per vendor quotes_
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Cable Tie
+1.443
+10%6
+0.95
+24.70
+ISO
+Pack (100)
+verified
+Packaging
+1.72
+290
+1.00
+16.00
+High
+Box L
+grade
+Protective
+2.51
+290
+.80
+12.60
+Sleeve
+sOmm
+Stainless
+0.88
+pcs
+0.35
+13.65
+Hinge
+Bolt MB
+alignment
+adjusted
+Packaging
+0%0
+pcs
+1,00
+3.00
+SKF
+Box
+brand
+Rubber
+1.87
+10%0
+pcs
+0.55
+18.15
+High
+Stopper
+grade
+Hinge Set
+pcs
+2.50
+62.50
+Switch
+tested OK
+Grease
+0.84
+090
+pcs
+1.90
+64.60
+Tube 250ml
+verified
+Bearing
+1.04
+0%0
+pCS
+1.50
+70.50
+6202 ZZ
+alignment
+adjusted
+Ceramic
+1,01
+296
+2.10
+8.40
+SKF
+brand
+Disc 8Omm
+Total Amount:
+294.10
+Approved By:
+Sourcing Department:
+No;
+Dcs
+Hinge

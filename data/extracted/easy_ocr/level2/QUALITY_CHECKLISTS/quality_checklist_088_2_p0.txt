@@ -1,0 +1,71 @@
+Checklist
+Use this extrad tO coordinate sign-off with the QA manager. The following table outlines inspection criteria
+classification levels
+Confin that sampling levels comply with customer agreements Use this Iist to
+confimm adherence t0 AOL and safety standards. Entries include both visual and functional inspection items
+Below are the iems t0 be verified during the final product review_ Refer
+the quality register for sampling-
+plan references. This summary supponts the production-release quality
+Product ID
+PL-601Z
+Customer
+NORWAY
+Het
+Descrption
+Cooling Gel Pack
+Audit
+Criteria
+Check
+Category
+Remarks
+Intensity
+Desgn Specs
+Critical
+Major
+Minor
+OnHold
+Not assembled as per
+drawing
+Level /
+Needs review
+Paint smearing Or
+Level Il
+scralches
+Sharp edges on plastic
+Minor issue
+comoonents
+Level /
+opsened
+Wood splinter
+sharp
+poilon product
+Conneclor not wotking_
+Level
+Cntical impac
+Exposed nail with sharp
+Minor issue
+Level II
+doinI
+obsened
+Carton
+damaged Or
+makkrings incorec
+Level Il
+Crtical impact
+Icqver[pacoce Olabe
+Crticalimpac
+ncomect quandty
+assonment
+Level IlI
+Needs review
+Dusudebris inside
+Level M
+packaging
+Critical impact
+Visual detect on housing
+LeveI
+Cntical impact
+Supervised by:
+Date:
+OC
+gate

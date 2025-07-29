@@ -1,0 +1,81 @@
+Inspection Record
+All checklist entries are timestamped for traceability. Use this extract
+coordinate sign-off with the QA
+ranager. Ensure all
+non-conforming _
+Manks are
+clearly documented
+Entries include both visua
+and functional
+inspection items
+This checklist captures quality inspection points and sampling levels . Archive this list in the
+quality-management system. Please review cach checklist point and mark the sampling results_
+Product ID
+CN-1S0C
+Customer
+SWEDEN
+Item Descriptlon
+nsulation
+Pad
+Inspection Checklist Points
+Sampling
+deleciciass
+Remarks
+Level
+Item Soecs
+edges on plastic
+Lomnonents
+Level III
+Critical impact
+Functionality test falled
+Level
+Rubber texture
+glossiness
+nsinatch
+Level III
+Neeas review
+Wood splinter or sharp point on
+praduct
+Level III
+issue observed
+Incartect quanu
+as3ortmen
+Level II
+Critical impact
+Incorrect origntation inbox
+LevelI
+Critical impact
+Wrong product size
+LCvG
+Needs
+cviei
+Paint smearing or scratches
+Leve
+Minos
+iSSUC observed
+incorrect barcade
+Hahc
+Leve
+Missing distributor (nformation
+Cmicalimbact
+Rmbcet
+Switchnot working
+Levem
+Screws loose
+Mussine
+Leve
+Critical impact
+Visual
+defect on nousing
+Levai
+Instruction manual|
+rrrssing or
+damaged
+LevelIII
+Critical imipact
+Supervised
+datc;
+Foamn
+shatp
+Minor
+by:

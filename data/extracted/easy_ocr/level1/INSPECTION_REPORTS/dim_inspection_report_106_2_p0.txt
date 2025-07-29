@@ -1,0 +1,76 @@
+Component Dimensional Check
+sudervisor
+Petet Schmid
+Inspection DJte
+2025 06.27
+Refer
+dimensiona
+log for all component size readings This report presents the dimensiona
+measucements
+and
+inspection
+results- All measured values are timestamped for audit purposes
+Entries include both pass/fail markers
+and deviatian
+Mapnitudes
+Lode
+Ms-6OOP
+TX-B20v
+WD-1805
+NE-2454
+SB-MUD
+TX-820v
+AL-1150
+Part Name
+Shaft
+Hinge Set
+Rubber
+Battery
+Hinge Set
+somm
+Gasket
+Pack
+somm
+Measurement
+Length
+nner
+Wiath
+Height
+Width
+Width
+Length
+Diameter
+Nominal
+7687
+86,09
+81.82
+17.79
+22,89
+87,32
+43,59
+Obsenved
+81 75
+DIfI
+~(M
++005
+HiWt
+Pass/Fail
+Reter
+deviarion
+calumn tor any out-of-tolerance measurements
+Piease
+address
+NOK items betore proceeding
+the next production stage. All dimensions within tolerance have been marked
+Instrument Calibration Log:
+Instrument
+Serial Noj
+Last Calibration Date
+Nicromnelem
+93916
+2024-07
+Cn{
+46512
+2025-02-11
+Hinge
+Hinge'

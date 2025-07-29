@@ -1,0 +1,79 @@
+BOM Report
+Customer ID: GREECE
+Coordinator_Jan Kowalski
+Date: 2023-05-07
+Product ID: KP-320E
+Intemal No:
+6412452
+Order QIL 284
+Below is the component listing and associated costs for the upcoming production batch: The
+parts manifest here is designed t0 support procurement workflows
+Use this schedule of pants t0
+align with sourcing and stock levels:
+Please review the itemized Iist of pants and material
+specifications before procurement
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption
+Rubber
+28
+10%
+pcs
+0.55
+2.75
+Stopper
+Cable Tie
+0.76
+pCS
+0.95
+6.65
+Hinge
+Pack (100)
+alignment
+agjusted
+Protective
+2.07
+10%
+1.80
+21.60
+For
+Sleeve
+expont
+s0mm
+Cable Tie
+1.55
+10%
+pCS
+0.95
+26.60
+Pack (100L
+Protective
+0.36
+0%6
+1.80
+41.40
+Urgent
+Sleeve
+50mm
+Gasket
+3.49
+270
+PCS
+1.25
+53.75
+Imported
+Sheet A4
+AII sourcing notes have been logged for audit purposes: This final review confirms that all items
+are ready for requisition: This closure summary validates that all parts are approved for release
+Cross-verify totals with the ERP system for consistency:
+Tota
+Amount
+152.75
+Approved By:
+Sourcing Department:

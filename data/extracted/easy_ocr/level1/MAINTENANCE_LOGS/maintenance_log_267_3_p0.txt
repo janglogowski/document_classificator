@@ -1,0 +1,141 @@
+Machine Log Summary
+Performed On: 2024-06-29
+Signed off
+Peter Schmidt
+perc medbv"
+Pccr Scnmldt
+Thu ollovaing
+Snlgs
+prevunive
+curiecive
+rainlenance lasks. Chuck Inal
+duMUMIC
+UvuMLS
+ar8 prop Ury
+calegorized ard logged_ Ertries Include work orders
+lechnician assignmnens
+and part changes_ All technician comrients
+recorced for maintenance trend analys 5
+Tne summan
+Serice
+actions and downtimes for each machine;
+Refer=
+Ine maintenance
+for detailed service histories.
+Section
+Machine ID
+MC 238
+MC ?20
+KC ?42
+MC 266
+MC 228
+MC 259
+Machine
+Lase
+Cuter
+Conveyor Belt
+Packaging
+Packaging
+Hydraulic
+Paint Booth
+Preas
+Service Type
+Preventive
+Corrective
+Insnechon
+Corective
+Correciive
+Ccrrective
+Operato_
+Peter Schmid:
+Laura
+Rossi
+Peler Schmidl
+Laura Ross
+Laur Rossi
+Anna
+Noxa 
+Dawntime
+Comments
+Tightened
+Switch
+Refilled oil
+Refilled oil
+Replaced
+Calibration
+Igasa kols
+coniace
+(HLP 46).
+(HLP 46)-
+5A)
+check OK
+ceaneu
+Seclon B;
+Machine
+MC-242
+MC-220
+MC-238
+MC-266
+MC-228
+MC-259
+Machine
+Packaging
+convovor Bell
+Lasbr Cullar
+Packaging
+Hydraulic
+Paint Booth
+Picss
+Senice
+Type
+Inspection
+MNSORNDM
+Prevene
+Comeciive
+Preveniive
+Inspection
+Operator
+pnna Voval
+Jan Kovalski
+Arna Navak
+Wan Kowalsk
+Peler Schdl
+Jhn Kualski
+Downtime
+Comments
+Relilled cl
+Cdlbration
+Replaced
+Tahlened
+Li-Icn paliane
+Reolacgo
+(HLP 46}.
+cicck
+54}.
+loosu bolls
+pack
+lusc (5A).
+gericed
+Senice summaneS have
+beem
+lor varde di
+the engineeting
+eam
+Archive this summary
+the CMMS for future
+reference. Confirm Ihat all correciive actions were
+clased Dut
+Malntenance notes are archived for ccmpllance
+audits
+Maintenance
+Qurations
+are recorded for performance
+Meirics
+Uptime
+Frror Comnt
+96 4328
+Bolt tightened
+Belo"
+renuter
+Propuny"
+Note s

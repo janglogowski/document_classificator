@@ -1,0 +1,86 @@
+Inspection performed by Laura Rossi on 2023-10-29.
+This sectian details the measured values, tolerances, and status flags. This report presents the dimensional
+measurements and inspection results. This data extract
+prepared for quality-control sign-off. Use this examination
+summary
+confirm component conformity. The -
+following data captures key dimensions and any deviations
+identified:
+Environmenta
+Conditions: Temperature: 23.7
+Humidity: 45 %
+Item Code
+Part Name
+Nomina
+Observed
+Status (V(X)
+QN-770H
+Hinge Set
+Tnicknes5
+63.69
+63.73
+40.04
+Gh-7701
+Graphite Pad
+Hole
+26.03
+25,93
+0.10
+PL 6012
+Switch
+Hole
+83.68
+83.69
++0.01
+TR- 2COB
+Bearing 6202
+Height
+71.10
+71.01
+009
+TL 90OX
+Steel Sheet
+Hole
+61.47
++0.08
+A36
+Kv-390K
+Hinge Set
+Width
+31.34
+31. 76
+MX-450L
+Hex Bolts
+Width
+8.21
++0.13
+M1Z
+PL G012
+Graphite Pad
+wicth
+40/
+30.69
+SB-1400
+Hinge Set
+Thickness
+NE-2454
+Shaft S00mm
+Thickness
+19.5-
+tOWi
+SB-1400
+Bearing 6202
+inner
+23.54
+23,60
++0,06
+Diameter
+AL-1150
+Graphite Pad
+Wiath
+91,.93
+918
+0.12
+Dim
+Delta
+Poxel

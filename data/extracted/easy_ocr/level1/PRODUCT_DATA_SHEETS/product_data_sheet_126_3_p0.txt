@@ -1,0 +1,64 @@
+Product Data Sheet
+Report
+3908473
+Product ID: NU-440Z
+2024-02-24
+Configuration Type
+Cooling Circulation
+Design Pressure
+250 bar
+Svstci
+Throughput
+48 Limin
+Supply Voltage
+400 V/SQ Hz
+Contro_
+Value
+Proportiona
+Motor
+Powe
+11kW
+Total
+Weight
+180 kg
+Frame
+Matenial
+Powder-coated Steel
+Charging Time
+Component Materials Overview:
+Part
+RalNateria
+Specification
+Cooling
+DIN
+10025
+Pressur
+Vaive
+Brass CA
+DIN EN 10025
+Therma
+Ceramic Oxide
+IP6Z rated
+Sheet 436
+Carbon
+436
+Aniicorrosivl
+pale
+Tregted Pine
+Wocd
+Electrical
+Capacitor 450v
+Aluminum 6061
+IP67 rated
+Digital Display Unit
+ABSPiastc
+Anticorrosive
+Prepared by: Peter Schmidt
+Approved by: Jan Kowalski
+No:;
+Date.
+Pac:
+suicone
+Rubbcr
+Fuse
+Blade

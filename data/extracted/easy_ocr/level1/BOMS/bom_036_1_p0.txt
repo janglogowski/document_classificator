@@ -1,0 +1,86 @@
+BOM Report
+Customer ID; TURKE)
+Coordinator: Peter Schmidt
+Date; 2023-1130
+Product ID PL-6012
+Internal No: 3014137
+Order Qty:393
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+LED Light
+1.72
+0%
+2.50
+70.00
+SKF
+Strip
+brand
+Plastic
+1,99
+590
+pCS
+1.10
+50.60
+Cover
+150x150
+LED Light
+1.59
+10%
+2.50
+55.00
+Certified
+Strip
+batch
+Rubber
+1.76
+10%
+pcs
+0.50
+15.50
+Gasket
+8Omm
+alignment
+adjusted
+Power
+2.01
+0%
+pCS
+1,20
+16,80
+High
+Switch_
+grade
+Stee
+Sheet
+1.12
+10%
+5.00
+255.00
+High
+A36
+grade
+Plastic
+2.59
+59
+pCS
+0,20
+3,20
+Certified
+Rivets
+batch
+Ensure archival of this materials summary for compliance records
+AII sourcing notes have been
+logged for audit purposes
+Tota
+Amount;
+466.10
+Approved By:
+Sourcing Department:
+Hinge

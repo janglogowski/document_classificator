@@ -1,0 +1,88 @@
+DAILY PRODUCTION REPORT
+Report No;:
+PR-192
+Customer:
+FINLAND
+Supervisor;
+Carlas Garcia
+Department:
+Quality Contro
+Date:
+04-05-2025
+Shift;
+(Nisht)
+Machine ID
+Task
+Worker
+From
+End Time
+Duration
+Notes
+(min)
+MC 209
+Welding
+Magdalena
+08.15
+09.24
+Witkowska
+MC 205
+Polishing
+Plotr
+13-00
+14.27
+Delay
+Lewandowski
+MC-202
+Cutting
+Piotr
+12.30
+13,27
+Reca
+librated
+ewando ski
+MC 202
+Drilling
+wiktor
+13.00
+14.16
+Delay
+Kapczyiski
+MC 201
+Welding
+Dawid
+08.30
+09.17
+Oszmianczuk
+Mc-207
+cing
+Nadiz
+sauter
+14.00
+15.01
+Part ID
+Target Qty
+Achieved Qty
+Scrap Qty
+Scrap
+Comments
+RX-3107
+10.1586
+Rework needed
+PL-601Z
+264
+6536
+Rework needed
+PL-601Z
+3336
+contirmed
+WD-1805
+4107
+Rework needed
+TX-820Vv
+4540
+Prepared by:
+Peter Schmidt
+Approved by:
+Lamn
+Ross
+Scrap

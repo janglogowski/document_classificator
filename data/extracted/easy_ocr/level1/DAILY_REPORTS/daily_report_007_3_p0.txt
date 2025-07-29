@@ -1,0 +1,147 @@
+Shift Summary
+Report No:: PR-418
+Customer: POLAND
+Shift:
+(Night)
+Date: 10-04-2024
+Machine
+Task
+Operator
+Begin
+End
+Total
+Remarks
+Stage
+Ime
+duration
+MC-201
+Assembly
+Bartosz
+06;15
+07.00
+NIA
+Wawrzyniak
+progress
+MC-203
+Polishing
+Dawid
+06.00
+07.23
+NA
+Completed
+Oszmiaiczuk
+MC-208
+Welding
+Nadia Sauter
+06.00
+06.52
+Delayed
+MC-201
+Welding
+Dawid
+12,30
+13.13
+Delayed
+Oszmianczuk
+MC-201
+Assembly
+Wiktor
+10:15
+11,04
+Delayed
+Kopczynski
+MC-20g
+Polishing
+Wiktor
+11.00
+11.31
+Kopczynski
+progress
+MC-207
+Assembly
+Agnieszka
+11,30
+12.02
+Recalibraled
+Delayed
+Zielinska
+MC-207
+Cutting
+Jan Kowalski
+10.15
+7u-50
+Delayed
+MC-208
+Welding
+Wiktor
+06:15
+07.17
+Delayed
+Kopczynski
+MC-207
+Assembly
+Anna Nowak
+13.15
+14.46
+Delayed
+MC-207
+Cutling
+Bartosz
+12,00
+13*45
+105
+Completed
+Wawrzyniak
+MC-203
+Agnieszka
+11.00
+11.48
+Zielinska
+progress
+Confirm that scrap percentages align with quality benchmarks- All operator
+notes have been archived for
+roviow. Ensure routine maintenance between shifts to maintain consistent output. Verify the final counts
+against inventory records
+Part ID
+Planned
+Achieved
+Defect Qty
+Failure %
+Rework Qty
+Remarks
+Qty
+Qty
+GL-9808
+270
+240
+11.119
+Rework
+needed
+MR-160H
+124
+122
+61%
+Rework
+needed
+TR-ZO0B
+257
+252
+9540
+Rework
+needed
+ZR-ZO5R
+156
+14.7580
+HF-390A
+239
+238
+0.42%0
+TY-350G
+219
+200
+8.68%0
+Scrap
+confirmed
+Approved by:
+Prepared by:
+Cutting

@@ -1,0 +1,74 @@
+Compliance Log
+Archive this list in the quality-management system. This summary supports the production-release quality gate.
+Confirmi that sampling levels corply wilh custome
+#preements
+Ensure all ron-conlorming marks
+clearly
+documented
+This closure summary indicates compliance with inspection criteria
+Product [
+NE-2454
+Customer
+POLAND
+Item Description
+Support Foot Steel
+Audit Criteria
+Inspection
+Category
+Comments
+Depth
+Proquct Renuiremente
+MA
+Hold
+Dead
+insect in
+packaging
+Paint smearing Or scratches
+Critical impact
+Screws
+loosk
+rnssine
+Leveli
+Rubber Switch not working
+Level
+Needs t@view
+Wtrong product
+Nceds revicw
+Batterynot included
+LCVCl
+Packaging does
+normarch
+LevelIII
+Critical impact
+signed sample
+Missing safety labels
+LevclIII
+ISSuC ODSCicd
+Rubber texture
+Blossiness
+Needs review
+mismatch
+Exposed nal
+Witn sharo poing
+Levei
+Needs review"
+Lncumec
+harcooe Orade
+Levei
+Needs revie #
+Hinges
+0052
+Levei
+Visual defect on housing
+Level
+Critical impact
+Package
+nolsealet
+Minor issueobserved
+completely
+Not ssemnieo
+crawing
+LevAIM
+Supervised by:_
+Date:_
+Minoi

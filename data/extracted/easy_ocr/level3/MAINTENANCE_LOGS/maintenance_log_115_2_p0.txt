@@ -1,0 +1,106 @@
+2025-04-20
+Equipment Record Report
+maintenance observations. The fodlowing entries detall preventive and
+This section captures equipment status and any
+downtimes foreach machine: Ensure all satety
+corrective maintcnance tasks_ Below
+the summary
+scrvice actions ana
+checks wet
+compicted
+during servicing:
+Spare Parts Used:
+Qly Used
+Oartaro
+Pant Name
+P-639]
+Oillfilter
+0-6707
+Suatch Aien100
+0-3820
+oct
+KmiD
+prevlous
+Cammunts
+Cado
+Machine
+Servic @
+Dncrator
+Duration
+unil
+Scnvice
+Iype
+2025-05-06
+Tightened
+KC-288
+pnstna
+Pactent
+loosu bolts:
+Cutter
+Kowalsk
+2024-06-15
+5ensor
+MC-213
+Assembly
+Preventive
+Caros
+racaliorated
+Gultcia
+Rabor
+2024-11-24
+Senzor
+HC-274
+Laser Cuttert
+Druvante
+recalibrated
+Kowalski
+7026-02-09
+Tightened
+HC-295
+Plasma
+Corrective
+Carlos
+[DOSc
+Cuttor
+Gatcia
+Corrective
+Carlos
+2024-05-20
+Wooden
+MC-258
+CNC Mling
+pAllct
+barcie
+Machine
+chocked:
+COMActe
+Peler
+2025-04-15
+Calibration
+MC-292
+Lathe
+Schmidt
+2024-02-27
+Senso
+MC-207
+Laser Cutter
+Inspection
+Carlos
+recalibrated
+Garcid
+2024-04+05
+WVonden
+anna
+MC 294
+CNC Milling:
+Corractive
+nallet
+Nowak
+Machine
+checked:
+Jan Kowalsk
+Signed of:
+Laura R0391
+Punoimcd uY
+bolia
+chtck

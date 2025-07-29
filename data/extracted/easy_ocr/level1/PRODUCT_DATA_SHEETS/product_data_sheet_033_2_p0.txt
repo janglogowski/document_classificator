@@ -1,0 +1,84 @@
+Product Data Sheet
+Refer
+this configuration summary for unit-designation mapping: This technica
+vermer
+supports tne product-
+reicJsc
+checklist: This data sheet provides key specifications and materia
+details Belov are the technical
+parameters
+and construction materials for the unit; Use this sheet to confirm engineering requirements and tolerances_
+Use this
+spec sheet
+validate assembly instructions, Confirm that perfarmance ranges comply with project requirements;
+Product ID
+CE-905L
+Report
+8844353
+Preparec
+by; Laura Rossi
+Approved bY: Anna Nowak
+Date: 2024-04-12
+Model Type
+Pneumatic
+Contral Unit
+Operating
+Pressure
+210 par
+Fluid
+30 L{min
+Supply Voltage
+G0 Hz
+Dimensions ILXWxH]
+1000
+650
+1000 mm
+Pump Type
+vane pump
+Total Welght
+180 kg
+Reservoir Capacity
+Oil Type
+HLP 32
+Data shect has been peer-revicwed
+by the engineering team Refer -
+paramctcr
+table for operating ranges and
+rolerances; Materia
+choices
+process data have been verified for compliance
+Overa
+contiguratian
+within
+defined design and safety margins
+Document contro
+nunbers Jreinciuceo
+for traceability. This closure note
+Indicates the data sheet
+reade
+Tor recase
+Check that all section headers follow the product template.
+Material of Construction:
+Labe
+Raw Material
+Stainless Stee
+Heat Sink ALU
+Aluminum 6061-
+NBR 6Ornm
+Nltiile Rubber INBRI
+insulatcd
+IUDC ZJmn
+Thermoplastic Polyurethane (TPU)
+Digital Display Unit
+ABS Plastic
+Support Foot Steel
+Stainless Steel 304
+Wooden Pallet
+Treated Pine Waod
+Light Strip
+Gia55-Filled
+Nylon
+No :
+Flov
+Hinga
+Rlog

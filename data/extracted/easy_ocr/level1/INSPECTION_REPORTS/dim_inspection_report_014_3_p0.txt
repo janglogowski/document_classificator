@@ -1,0 +1,101 @@
+Tolerance Check
+Inspection performed by Anna Nowak on 2025-02-22.
+Below are the recorded measurements
+comnared
+against nominal tolerances
+AIl measured values are timestamped
+for audit purposes_
+Refer to the dlmensiona
+log far all camponent size readings. The following datd captures key
+dimensians and any deviatians identified- This summary
+Measurements
+supports metrology traceability: This
+repor
+presents the dimensiona
+measurements
+and inspection results
+Environmenta
+Conditions: Temperature: 20.9
+Humidity: 31 %
+Item Code
+Part Name
+Micasurcmcnc
+Nominal
+Actuai
+Diff
+Status
+(viX)
+SL-430M
+Hex Bolts
+Thickness
+98.16
+98.00
+0.16
+M12
+PL-6012
+Hinge
+88,00
+88.08
++0,08
+LK-8908
+Waonen
+Inner
+60,99
+61.10
++0
+palet
+piamerei
+GL-9805
+Bearing 6202
+Depth
+87.75
+87.86
++0.11
+MX-45OL
+Hex Bolts
+Hole
+21,02
+21.12
++0,10
+M12
+CE-905L
+Switch
+Inner
+88.59
+88.60
++0.01
+Dlameter
+PWS15Y
+Hinge Set
+Tnickness
+35.78
+35.82
++0.04
+KV-390k
+Hex Bolts
+Height
+30,39
+30.57
++0,18
+M12
+KP-320E
+Plastic Rivets
+Inner
+72.30
+72.18
+0.12
+bamcc
+CN-150C
+Shaft S00mm
+Hole
+97.43
+97.52
++0.09
+RX-31OZ
+Bearing 6202
+Hole
+98.91
+98.78
+0.13
+Depth
+Poxer

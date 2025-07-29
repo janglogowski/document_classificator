@@ -1,0 +1,51 @@
+BILL OF MATERIAL
+Customer ID: BRAZIL
+Coordinator: Anna Nowak
+Date: 2025-02-24
+Product ID: NE-24SA
+Interna
+5999026
+Order Qty: 388
+Item
+Consumption
+Extra
+UOM
+Rate
+Amount
+Remarks
+Description
+Ceramic
+0.75
+1070
+pcs
+2.10
+111.30
+Disc BOmm
+Plastic
+0.75
+pcs
+1.10
+2.20
+Cover
+verified
+150x150
+Gasket
+0.44
+1.25
+45.00
+Certified
+Sheet 44
+batch
+Wooden
+pcs
+15.00
+720.00
+High
+Pallet
+grade
+Tota
+Amount;
+878.50
+Approved By:
+Sourcing Department:
+aty

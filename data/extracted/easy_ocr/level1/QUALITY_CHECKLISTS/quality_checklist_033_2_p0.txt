@@ -1,0 +1,47 @@
+Verification Log
+Use this extract t0 coordinate sign-off with the QA manager. All checklist entries are timestamped for
+traceability: This closure summary indicates compliance with inspection criteria_
+Entries include both visual
+and functional inspection items. Belov are the Items
+be verified during the final product review. The
+following table outlines inspection criteria and classification levels. Archive this list in the quality-
+management system: Check that inspection steps follow the approved procedure
+Product ID
+SB-I40D
+Customer ID
+FINLAND
+Item Descrption
+Ring NBR 60mm
+Audit Criteria
+Sample
+Category
+Remarks
+Tier
+Item Specs
+Hold
+Battery not included
+Needs review
+Carton
+damaged or
+Level Il
+Critical impact
+markings incorect
+Screws
+DOSe
+missing
+Level
+Not assembled as per
+Level
+Minor issue observed
+drawing
+Missing logo or_varing label
+Level
+Minor Issue obsenved
+Missing disurbutor infomation
+Level
+Minor Issue obsenved
+Paint smearing or scratches
+LevelL
+Needs review
+Supervised by:
+Date:

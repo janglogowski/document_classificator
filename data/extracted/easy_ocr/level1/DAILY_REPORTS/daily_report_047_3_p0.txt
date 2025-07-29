@@ -1,0 +1,98 @@
+Production
+Report No:: PR-266
+Customer
+FRANCE
+Shift: =
+(Night)
+Date: 09-10-2023
+Machine
+Operation
+Operator
+Start Time
+End Time
+Total Time
+Uwagi
+Condition
+MC-203
+Drilling
+Agnieszka
+10.00
+11;33
+NA
+Completed
+Zielinska
+MC-202
+Polishing
+Przemystaw
+09.30
+11.25
+115
+Daiae
+progress
+Wasik
+MC-201
+Assembly
+Wiktor
+14-.06
+15.54
+progress
+Kopczynski
+MC-204
+Polishing
+Agnieszka
+06.00
+06.48
+In progress
+Zielinsk?
+MC-203
+Assembly
+Przemystaw
+10.30
+11.28
+propress
+Wasik
+MC 207
+Assembly
+Przemystaw
+10.00
+11.44
+104
+Jiopiess
+Wasik
+All production targets have
+acen
+logged; deviations
+highlighted above
+Refer
+remans
+any rewoik Or
+quality concerns
+Archive this output summary for end-of-day reporting; Record any adjustments
+shift
+schedules
+staffing here. Ensure shift-handover notes include ay pending issues
+Check material
+consurption against standard usage rates.
+Part ID
+Planned Qty
+Actual Qty
+Rejected
+Scrap %
+Rework
+Comments
+Qty
+Coun
+JD-700wv
+111
+13.5190
+confirmed
+Fi-30x
+39
+WD-1805
+143
+15.3856
+Approved by:
+Prepared by: _
+Log
+Delay
+Scrap

@@ -1,0 +1,71 @@
+Inspection Summary
+Ensure all non-conforming marks
+are clearly documented
+Refer
+the quality register ior sampling plan references
+This summary supparts the production-release quality Gate, Confirm that sampling
+evels comply with customer
+agreements This checklist captures quality inspection points and sampling levels This closure summary indicates
+compliance with Inspection criteria. All checklist entries are tlmestamped for traceabllity.
+Product ID
+CN-IS0C
+CustomerID
+FRANCE
+Item Description
+Hex Bolts M12
+Quality Check Items
+Check
+Defect Class
+Observations
+Intensity
+Component Cuteria
+Package
+not sealed completely
+LCVc
+Mmor ISSuc OOSCNco
+Dust/debris inside
+Dackarine
+Leve
+Critica
+mnact
+Color mismatch
+Leve
+Mnor issue Obsened
+Missing
+pO Or Wvamninb
+abel
+leve
+issue observed
+Battery not included
+Critical impact
+MissIng distributor
+ntormation
+Minor
+Isque Obsenved
+Missing safety labels
+LevcI
+Kudde
+Switch not working
+Minor issue observed
+Packaging does not match signed
+Critical impact
+sampie
+Incorrect harcode
+ahe
+Minor issue observed
+Loos e
+pansinsioe dackafing
+IssuE Opsenven
+Nat a55 empled
+drawing
+Leve
+Critical impact
+4ncorrer
+quantity
+arassorment
+leve
+Needs review
+Supervised bv:
+Date
+Minor
+Minor

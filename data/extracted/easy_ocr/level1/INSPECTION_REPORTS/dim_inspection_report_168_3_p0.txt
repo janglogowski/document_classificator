@@ -1,0 +1,104 @@
+Measurement Summary Sheet
+Inspection performed by Carlos Garcia on 2025-05-04.
+This report presents the dimensional measurements and inspection results:
+This section details the
+meacuroo
+values, tolerances
+and status flags
+AlI measured values are timestamped fcr audit purposes
+Ensure measurement methods align with calibration standards.
+Environmental
+Conditions: Temperature: 21.7
+C, Humidity: 44 %
+Item Code
+Component
+dim
+Nomina
+Observed
+Deita
+Status (VIXI
+CN-150C
+Bearing
+Height
+26.50
+26.58
++0.08
+6202 ZZ
+TR-ZOOB
+Bearing
+Width
+20.15
+20.10
+0.05
+6202
+RE-850C
+Shaft
+Thickness
+27.75
+27.68
+0.07
+so0mm
+SL-430M
+Steel Sheet
+Height
+49.31
+49.30
+0.01
+A36
+CN-1S0C
+0-Ring NBR
+Inner
+98.25
+98.37
++0.12
+60mm
+Diameter
+SL- 430M
+Steel Sheet
+Hole
+46.57
+46.41
+0.16
+KP-320E
+0-Ring NBR
+Hole
+77.36
+77.26
+0.10
+bUmn
+TR-2OOB
+NBR
+Hole
+74.30
+74.46
++0.16
+60mm
+GL-9805
+Power
+Inner
+92.54
+92.59
++0.05
+Suitch
+Diameter
+GH-770J
+Shalt
+Widlh
+5,86
++0.03
+500mm
+JD-700w
+~Ring NBR
+Depth
+71.16
+71.26
++0.10
+60mm
+HF-390A
+Battery
+Length
+45,61
+45.56
+-0.05
+Pack
+Ring

@@ -1,0 +1,101 @@
+Tolerance Check
+Inspection performed by Carlos Garcia on 2024-09-19.
+eramination sumniany
+confirm companent
+Fnsure
+measurement methods align with calibration standards. Use this
+measured values are
+timestamped for audlit
+conformity: This data extractis prepared for quality-contron
+measured values;
+Npasurements
+supports metrology trareability This section details the
+purposes
+This
+mimary of
+Tclerances
+and stalus
+flags-
+Conditlons: Temperature: 21,2
+Humidizy; 44 %
+Environmenta
+Target
+Actual
+Delta
+Status (VfX
+Item Code
+Lompanent
+Dirn
++0,03
+SL-430M
+0-Ring NBR
+HeiEht
+74.48
+74.51
+eomm
+51.94
+40.03
+Rucber
+Thickness
+51.91
+AL-1150
+Gasket S0mim
++0.14
+Hex Bolts
+HQe
+9.65
+9.79
+XD-71OR
+M1Z
+0.04
+JD-ZCw
+Plastic Rivets
+Lenmth
+75,96
+75.92
+Ycocen
+Depih
+30.47
+30,34
+0.13
+KV-390k
+Pallet
+40.10
+44.37
+44-47
+TX-8201
+Graphite Pad
+Height
+Power Swvitch
+Wicth
+70,29
+70.31
+MX-450L
+Steel Sneet
+Unner
+31.88
+31,.87
+SL 430M
+A36
+Diametet
+Width
+18.17
+17.99
+0.18
+ZR-Z05R
+79,19
+-0.15
+KP-JZOE
+Woaden
+Hole
+79.34
+Pallet
+49,.32
+0.07
+NU-440Z
+Steel Sheet
+Depth
+49,39
+436
+sign-olt,
+Hinbe

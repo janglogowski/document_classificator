@@ -1,0 +1,104 @@
+Equipment Record Report
+2025-04-20
+Thig section capture; uquipmcnt status und Jny mitintenance observatians
+Thetolior in- cninc; uctjil pruvtniivuanu
+cotrective maintenance [39/9. Below
+the !ummary af service actions and downrimes Ior each machine
+ensure :l satety
+Cnecis Ja
+comdiatad
+sorvicing
+Sparo Purts Uged;
+Pan Name
+Pant No
+Oty Used
+Cieilte:
+0-64YC
+Stilch A%80t04 
+-0793
+Skich
+9emtbi
+0-3828
+Unit Code
+Machine
+Survice
+Dnertor
+Durilion
+Prayious
+Commani
+Iype
+Setvice
+MCJab
+pema
+pievenwe
+2075-05-06
+Tchtenecl
+4c092c0
+HC 713
+Cughle
+PodeninA
+Catiat-
+202406 15
+Sunso
+Ronot
+Garcia
+Tecalnaled
+MC-774
+Laser Cutter
+Pievenuive
+707411774
+Sensar
+Kov"alski
+recslibtatad
+KC706
+Plismi
+Cunecu
+Caa
+7025 07-09
+Tiphtened
+Cutter
+Garc a
+100s# DOIS =
+KC-756
+CNC Milling
+Ccrreciive
+Carlos
+7074 -5.70
+Wonder
+Nachine
+Garcis
+pallet
+checked:
+MC-292
+Lathe
+combctive
+Petar
+2025-04-15
+Calibration
+Schmiot
+Cngck
+MC-207
+Lese  Cutel
+nadecuicn
+Caros
+7624-67
+Senscr
+Jarciz
+recalibrated
+MC-294
+CNC Mmlling
+Comactive
+Lan?
+2024-04-05
+Konden
+achine
+Now/uk
+paliet
+checked
+Sicned off:
+Jeniowalska
+Peroimed
+LJue R0s;
+Gunnt
+Cutier
+MEekj

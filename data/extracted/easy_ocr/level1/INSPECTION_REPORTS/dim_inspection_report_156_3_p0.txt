@@ -1,0 +1,117 @@
+Dimensional
+Inspection performed by Carlos Garcia on 2024-09-14.
+Item
+Code
+Name
+Measurement
+Nomina
+Actua
+Diff
+Status (VKXL
+NE-ZASA
+Hex Bolts
+Inner
+11.55
+11.66
++0.11
+M12
+Damneter
+FT-730X
+Steel Sheet
+Depth
+89.96
+90.03
++007
+A36
+NE-24SA
+Plastic Rivets
+Height
+97.98
+97.85
+0.3
+TX-820v
+Bearing 6202
+Thickness
+51.03
+50.98
+0.05
+MR-160H
+Hinge Set
+Hole
+77.70
+77.51
+RX-310Z
+Depth
+71.67
+NE-2454
+Wooden
+Thickness
+19.96
+19.84
+0 12
+Palill
+AL 1150
+Wwaoden
+Depth
+14.91
+15.00
++0 0Y
+Pallet
+RE-850C
+Battery Pack
+vepti
+37.22
+NF-2454
+Battery Pack
+Hole
+TR-2COB
+Plastic Rivets
+Wiath
+63.,34
+PL-601Z
+Battery Pack
+Wiath
+85.64
+40.08
+NU-440Z
+Woaden
+inner
+21.17
+21.28
+40.11
+Pallet
+Diameter
+WD-1805
+Shatt s00mm
+Length
+33,84
+33.73
+NU-4402
+Steel Sheet
+wiuth
+42.78
+42.91
++0.13
+A36
+VF-ZZOD
+Bearing 6202
+Width
+32.93
+32.95
++0.02
+TL-9ooX
+Hex Bolts
+Tnickness
+20,25
+20.07
+-0 18
+M1J
+PL-601Z
+Shaft S0Omm
+Height
+72.02
+72.20
+10.18
+Log
+Pant
+Hinge

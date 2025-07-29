@@ -1,0 +1,124 @@
+Inspection Results Summary
+Inspection performed by Laura Rossi on 2025-07-02.
+Use this results summary to trigger
+corrective actions. The following data captures key dimensions and
+any deviations identified  The inspection register below highlights any out-of-tolerance parts
+This summary
+of measurements supports metrology traceability. All measured values are timestamped for audit purposes
+Environmental Conditions: Temperature: 21.1
+C, Humidity: 51 %
+Product
+Component
+Dim:
+Nominal
+ACtua
+Delta
+Status (VIX)
+Ref
+LK-890B
+Wooden
+Height
+82.99
+82.93
+~0.05
+Pallel
+DX-7771
+Plastic
+Depth
+74.23
+74.32
++0.09
+Rivets
+TR-ZOOB
+Graphite
+Hole
+45.63
+45.76
++0.13
+Pad
+SL-430M
+Bearing
+Inner
+25.64
+25,81
++0.17
+6202 ZZ
+Diameter
+TL-9OOX
+Hex Bolts
+Depth
+79.81
+79.67
+0.14
+M12
+SB-140D
+Battery
+Width
+17.16
+17,09
+0.07
+Pack
+QN-770H
+Graphite
+Hole
+12.41
+12.30
+-0.11
+Pad
+HF-390A
+Wooden
+Thickness
+5.49
+5.52
++0.03
+Pallel
+RE-850C
+Baltery
+Length
+29.59
+29.74
++0.15
+Pack
+TL-guOX
+Battery
+Inner
+29.09
+28.93
+0.16
+Pack
+Diameter
+NE-2454
+Battery
+Length
+44.21
+44.17
+0,04
+Pack
+XK-610U
+Steel Sheet
+Depth
+7.12
+7.15
++0.03
+A36
+NU-4402
+Graphite
+Height
+58.08
+58.23
++0.15
+Pad
+PW-515Y
+Plastic
+Length
+59.59
+59.47
+-0.12
+Rivets
+QP-660F
+Graphite
+Length
+53.81
+53.92
++0.11
+Pad

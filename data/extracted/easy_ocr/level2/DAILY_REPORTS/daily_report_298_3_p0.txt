@@ -1,0 +1,84 @@
+Report No:: PR-788
+Customer: BRAZIL
+Shift: B (Eveningi
+Date:
+19-09-2024
+Machine
+Operation
+Worker
+Begin
+End Time
+Total Time
+Lomments
+Condition
+Mc-208
+Cutting
+Dawid
+08-00
+08.39
+Completed
+Oszmianczuk
+Mc-?08
+Cutting
+Nacia Sauter
+12.00
+13.54
+Delay
+prorress
+Mc-70J
+Welding
+Wiktor
+08,00
+09,02
+ntobtes5
+Kopczynski
+Mc-206
+Welding
+Dawvid
+07.00
+07,26
+Deiav
+Delayed
+Dszmanczis
+MC-201
+Assemblv
+Magdalena
+06.15
+07.44
+Completed
+Wikowvska
+Item ID
+planneg
+Achleved Qty
+Relecaen
+Qty
+Rewvork
+Uwagl
+Cornic
+RM-8eOV
+389
+HF-JSOA
+107
+14,027
+Rewnrk
+VR-940T
+266
+254
+517
+Rework
+needed
+GL-9805
+209
+201
+8356
+DX-777T
+144
+8,8675
+Scrap
+confirmed
+MR-1604
+1504
+Approved by:
+Prepared by:
+Scrmp
+necded

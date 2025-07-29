@@ -1,0 +1,70 @@
+Component Overview
+Report
+PR-229
+Product ID
+NE-2454
+Date: 2024-04-14
+Configuration Type
+Cooling Circulation
+Operating Pressure
+250 bar
+Svstem
+Fluid Flow
+48 Limin
+Supply Voltage
+230v / 50 Hz
+Working Temp.Range
+-10"C
+50"C
+Battery Capacity
+Noise Leve
+68 dB
+Total Weight
+230k3
+Frame Material
+Stainless Steee
+Charging Time
+Filtration
+10 pm retum
+25 pm
+suction
+Component Materials Overvieve:
+Part
+6JSC
+Specification
+Cable Tie Pack (100]
+Nitrile Rubber INBR)
+DINEN 10025
+Capacitor
+45u
+Auminum
+6061-T6
+IP6Z rated
+Hex Bolts
+Linc-Plated Stee
+Heat-resistant
+Shee
+A36
+Carban
+436
+IPGZ rated
+Ring NBR 6 Umtuin
+Nitule Rubber INBRA
+Heat-resistant
+Graphite Pad
+Graphite Pad
+UL listed
+LED Light Strp
+Filled Nxlon
+Electrical
+prade
+Fuse 54
+Ceramic Oxide
+Class
+tolernce
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt
+No:;
+Frame
+stce
+Glas >

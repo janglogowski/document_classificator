@@ -1,0 +1,86 @@
+keuan No :
+PR 946
+Customer
+BRAZIL
+Supervisor:
+Ljura Koss
+Department:
+Packaging
+Date:
+07-03
+7024
+shift:
+MEvening
+Machine
+pracess
+Worker
+Start Time
+Totai
+Nates
+dratan
+MC 204
+Polishing
+Banosz
+06.30
+08.12
+102
+Wawrzyniak
+MC-207
+Welding
+Piotr
+13-30
+15.15
+Lewanda sk
+MC 201
+Cutting
+Magda
+09.30
+10.23
+N/A
+Witkowska
+MC-20A
+Cutting
+Maleus
+13-30
+14.28
+Recalbraleg
+Jarzyna
+MC-209
+Polishing
+Dawid
+09-00
+10.11
+NYA
+Oszmianczuk
+MC-20A
+Drillirg
+Piatr
+09.30
+10.27
+N{A
+Lewandowski
+Pant ID
+Planned Qty
+Actua
+Qty
+Scrap Qty
+Rejection
+Remarks
+58-1400
+193
+50"
+116
+105
+48%0
+450L
+3300
+Rewont needed
+R7-hau
+contirmen
+-36"6
+Rewol needed
+Prepared b%:
+Carlos Garcia
+Approved by:
+Carlos Garcia
+Scrap

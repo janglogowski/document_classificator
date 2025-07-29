@@ -1,0 +1,110 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-SIU
+Cusiamer-
+CANADA
+Supervisor:
+Laura Rossi
+Department:
+Machining
+Date
+18-04
+2025
+Shift:
+(Evening)
+Equipment
+Task
+Worker
+Start Time
+Time
+Remarks
+MC 204
+Welding
+Piotr
+13.15
+14.34
+N/A
+Lewvandawski
+MC-208
+Assembly
+Przemyslav
+09-15
+10.24
+Recalbrateg
+Wasik
+MC 202
+Dring
+Jan Kowalski
+14-J0
+15.45
+NA
+MC 202
+Polishing
+Agnieszka
+08-15
+09.58
+Zielinska
+MC-2O1
+Polishing
+Magdalena
+14-00
+15.56
+Witkowska
+MC 208
+Assembly
+Przemysiav
+10.00
+10.32
+Recalibrated
+Wasik
+MC-202
+Assembly
+Nadia Sauler
+11-15
+12.58
+Recallbrated
+MC 203
+Assembly
+wiktor
+12-15
+13.55
+100
+Kopczynski
+MC-205
+Polishing
+Mateusz
+10.00
+11.10
+Delay
+Jaravna
+MC-204
+Welding
+Przemysiaw
+13-30
+14.45
+Wasik
+Product
+Planned Output
+Actua_
+Rejected Qty
+Rejection
+Motes
+KP 320E
+36240
+Kcwonenecoed
+T-730X
+6490
+Rewonkneeded
+OIN-TOH
+contirmem
+Scrap confirmed
+NF-/454
+6-444
+BZ- 660F
+40%
+Prepared B%:
+Anna Nowak
+pproved
+Jura Ross
+Spent
+Scrap

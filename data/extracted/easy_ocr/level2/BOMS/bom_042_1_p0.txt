@@ -1,0 +1,107 @@
+COMPONENT BREAKDOWN
+CustomerID:GREECE
+Coordinator;_Jan Kowalski
+Date:2025-03-19
+Product ID; ZR-ZOSR
+Internal
+6842080
+Order Qty: 79
+Use this schedule of
+to align with sourcing and stock levels . Below is the component
+and associated costs for the upcoming production batch
+The parts manifest hore
+designed t0
+support procurernent workflows:
+This summary Ilists every item required, with per-unit pricing
+details
+No
+Item
+Consumption
+Extra
+Qty
+UoM
+Rate
+Amount
+Romarks
+Description
+Spring
+0%
+pcs
+0.05
+1.15
+Eco
+Washer
+compliant
+M1o
+Rubber
+3,47
+10"0
+pC5
+0.55
+0.55
+SKF
+Stopper
+prand
+Plaslic
+2.51
+10%
+pcS
+1.10
+14,30
+Li-Ion
+Cover
+battery
+150x150
+inslalled
+Insulalion
+2.13
+0%0
+PCS
+3.20
+99.20
+Foam Pad
+Insulation
+3.28
+296
+PCS
+3.20
+92.80
+For
+Foam Pad
+expont
+Plastic
+3.15
+10%
+pcs
+1.10
+2.20
+Certilied
+Cover
+batch
+150x150
+Control
+2.91
+590
+pcs
+12.00
+408.00
+Eco
+Panel
+compliant
+Mount
+Wooden
+1,32
+pC;
+15.00
+195.00
+Certlfied
+Pallet
+palch
+Totals include estimated over-consumption allowances and current unit rates. The cost subtotal
+supports financial forecasting for the next cycle
+Total Amount:
+813.20
+Approved By:
+Sourcing Department:
+pans
+listing

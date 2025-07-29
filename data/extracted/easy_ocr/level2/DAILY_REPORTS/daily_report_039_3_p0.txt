@@ -1,0 +1,133 @@
+Production Log
+Repon No:: PR-676
+Customer: FINLAND
+Shift: € (Night)
+Date: 21-08-2024
+Hachine
+Operation
+Operator
+From
+End Time
+Time
+Uwagi
+Condition
+Spent
+MC-207
+Assembiy
+Magdalena
+12.00
+12.53
+Recalibrated
+Completed
+Witkowska
+HC-206
+Assembly
+Bantosz
+08.00
+09.56
+116
+Delay
+Completed
+Wawizyniak
+MC-201
+Assembly
+Dawd
+05.15
+07:10
+Recalibrated
+In progtess
+@szmianczu
+MC-203
+Polishing
+Mateusz
+11.30
+13.13
+103
+Delayed
+Jaryna
+MC-207
+Assembly
+Wiktor
+03.15
+10.48
+NIA
+Delayed
+Kopczynski
+MC-201
+Polishing
+Magdalena
+09.30
+09.55
+Recalibrated
+progress
+Wtkowska
+MC-206
+Polishing
+Nadia Sauter
+13.30
+15.30
+Delayed
+MC-202
+Drilling
+Jan Kowalski
+08-00
+08.35
+NIA
+dtofress
+MC-204
+Drilling
+Mateusz
+14.15
+76.04
+109
+Recalibrated
+Completed
+Jamna
+MC-208
+Welding
+Nadia Sauter
+06.30
+07:51
+Completed
+MC-201
+Polishing
+Agnieszka
+14.30
+15-01
+Delayed
+Zielinska
+Refer t0 remarks for any rework or quality concems
+Ensure routine maintenance benreen shifts t0 maintain
+consistent output_ Archivethis output summany for end-of-dayreporting; The perfommancerecap supponts the
+Momninp
+briefing agenda Overall production performance metexpectations forthe day:
+Part ID
+Planned
+Actual Qty
+Rejected
+Scrap %
+Reworked
+Comments
+Output
+Qty
+Units
+AL-T15Q
+225
+202
+10.2298
+GH-770J
+118
+100
+15.2580
+XK-61OU
+234
+202
+13.6890
+Rework
+necccd
+HF-390A
+105
+13.9388
+Approved bY:
+Prepared by:
+Delel

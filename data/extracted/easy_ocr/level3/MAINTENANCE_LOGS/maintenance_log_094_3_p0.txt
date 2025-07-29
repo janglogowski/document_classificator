@@ -1,0 +1,82 @@
+Equipment Record Report
+Perormed On: 2024-07-06
+Signed 0#:
+Emn
+Nowak
+Pettormed bv;
+Peter Schmidt
+Fnts (0R
+records all maintenance activities performed on the equipment; The equipment log below Includes faplt codes and
+corrective notes: (Use thls aummany
+lorecast parts (eplacementand (esource needs
+This aection captutes equlpment
+status $nd Any Maintendnco odseivalions.
+Check that all downtime cvents are properly categorized and logged .
+Sectlen A:
+Hachine
+MC-279
+MC-290
+MC-288
+MC-259
+Equipment
+Assembly
+Robol
+Packaging
+Rackaging Line
+Assemoi
+Fobot
+TYPe
+Inspectio
+nspecuon
+Prerenine
+Unspecton
+Tachnictnni
+Carlos Garcia
+AAnna Nawak
+ankoalak
+Jan KowralskI
+Duration
+Ccommanta
+Tghlened loosu
+Mehtenedicosc
+Tightened loose
+antunmmlnossa
+Dole
+DO[
+polla
+Saction B:
+Machine
+MC-279
+MC-259
+Mc-290_
+MC-288
+~quiDMcni
+Agsembly Robot
+Agsumbly Robot
+Packaging Linc
+Packaping Line
+Iypu
+Prevuntlve
+Carructiva
+nspcclion
+Correctivg
+ecnnictan
+Schmidt
+Carlos Garcia
+3anos Garcia
+Carlos
+Galta
+Duratlon
+camments
+No issue
+Tomno
+No issues found:
+Changed
+oikand
+tiltots:
+Uptme (sel
+Error Count
+Notes
+9--8240
+Rupluced tltet
+Peler

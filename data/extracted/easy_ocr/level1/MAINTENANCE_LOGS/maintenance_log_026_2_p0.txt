@@ -1,0 +1,73 @@
+Machine Log Summary
+2023-11-08
+Checkthal all dovantime
+vent; BrB propetiy
+Itegorized and logged
+Entries include work orders
+technicia
+Assignments
+Daf changes
+This section captures equlpment status and any maintenance obseivaticns
+Relou
+I e summan
+service actions and downtimes foreach machine. This service summary supports the reliability engineerng review.
+Spunu Pus Useu;
+Part Namo
+Part No
+Qty Used
+Fuse 50
+0-5045
+Unit Code
+Machine
+Opertor
+Dawvntime
+Previous
+Arei
+Commenis
+Servlce
+MC 246
+Lashr Cuner
+Pinvenime
+Carlos
+2024-08.27
+CharGed cil
+Gercla
+ano Wters
+MC-2dB
+plasma
+preventive
+Larios
+2025-06-21
+Tightened
+Cutter
+Garcia
+40ose
+MC270
+CNC Mling
+preventive
+Ana
+2023-10-03
+Sivitcn
+Kachine
+Nowzek
+contacte
+cleane?
+MC-273
+Lang
+Unsrecton
+2024-02-02
+Peflled oil
+Kowalski
+MC 290
+PackaRing
+Piuventit
+Carlos
+2023 12.19
+Gercla
+Ian Kowilski
+Perormeopy:
+Jankow"blski
+Type
+Dolts
+MKLA
+Sl3n29

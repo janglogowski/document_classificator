@@ -1,0 +1,120 @@
+BOM Report
+Customer ID; NORWAY
+Product ID: TY-350G
+Coordinator: Peter Schridt
+Date: 2023-02-03
+Interna
+No;; 2088387
+Order Qty: 363
+The parts manifest here fs designed to
+parts (0 align wilh sourcing and stock
+YappoPteprocurement workflows , Use this schedule of
+specifications before procurement,
+levels
+review (he itemized Iist of parts and
+material
+No
+Item
+Description
+Consumption
+Qty
+UoM
+Rato
+Romarks
+Plastlc
+1,59
+290
+pCS
+1.10
+33,00
+For
+150x150
+export
+Insulation
+0,73
+Foam Pad
+pCS
+3,20
+16,00
+Switch
+tested
+Ceramic
+2,66
+OK
+Disc 8mm
+pCS
+2.10
+60,90
+Certified
+Copper
+batch
+Jmm
+0,60
+12,00
+High
+Bearing
+2.17
+0%
+grade
+620222
+pcS
+1,50
+High
+Control
+Panel
+10%6
+pcs
+12,00
+grade
+180,00
+For
+Mount
+export
+Ceramic
+3,23
+80mM
+596
+pcs
+2.10
+65.10
+High
+Spacor
+1.74
+grade
+2mm
+pCS
+0.15
+0.75
+ISO
+1,26
+0%
+verfied
+Tube 250ml
+pCS
+1.90
+13.30
+Wooden
+alignment
+10%
+adjusted
+Pallet
+pcs
+15.00
+75.00
+All listed components have been verified for
+availability and compliance_
+Tota
+Amount;
+457.55
+Approved By:
+Sourcing Departrent:
+Plcase
+Extra
+Amount
+Cover
+10%0
+Wire
+0,94
+Disc
+Groasa
+Hingo

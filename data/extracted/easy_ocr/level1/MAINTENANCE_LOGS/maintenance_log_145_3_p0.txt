@@ -1,0 +1,132 @@
+AppiCvCD 0Y
+Carlc'
+Garcii
+Senvced DYS
+Canos
+Larcib
+The equipment
+belciv includc % {nult codus and ecrrectivunotc?
+Refer 
+the maintenance r CEister for dutailed srvice
+hstones
+Contlamths
+service Intervals tollova the preventlve
+checme
+parenenmer
+Ehls log tor recent servlce dates _
+lype9
+ano reman 5
+Tne follow ingentri8s detex
+preventivB an corrective mintenance tasks
+U58 this suMmar
+forecast parts
+repiacemeni and reg0urce nee03
+Section A:
+Machine ID
+MC-229
+AC2/6
+MC-201
+MC-272
+MC2JE
+Ac-27
+Equinmcnt
+Lujer Cutur
+Milling
+Conveyor Belt
+Plasrna Cutter
+Luhil
+Packagirg
+Flacnine
+Senvice ype
+pievenive
+Corrective
+ngdeclion
+Coiecmve
+cofrecuive
+Cortective
+Technician
+Puter Schmidi
+Enna Novik
+Pctur Schmidt
+4nnu Noivak
+Pute[ Schmnidi
+Jan Koivalak
+Downtime
+Cornmenis
+5 -Mtch
+Wooden pallet
+Changed
+Worn gasket
+Changed 0il
+contacts
+checked
+Jnd Tiltete
+rgplacec
+and filters
+ceaned
+Section
+Machine
+MCZ
+MCZ0L
+MC ?229
+MC?38
+MCZ1S
+MC276
+Equipment
+Pack#Ring
+Canve?
+Belt
+Laser Cutter
+Lathe
+Conveyni Belt
+CNC Mmling
+Machine
+Service Type
+Inspuc(ion
+Caricclive
+Unsuechun
+Jsdecndn
+Tnspuctan
+Cariccliv
+Tecnnician
+Laurz
+Rossi
+EnnaNowbk
+Peter Schmidt
+Peter Schmidt
+Laura Rossi
+Peter Scnmiot
+Downtime
+Comments
+Calibration
+Li-Ion bamten
+Aeplaced fuse
+Keolaced muse
+Worn gasket
+Replaced fuse
+check OK
+senicbm
+radiacam
+Uhis l0dsurrmilny $Upports Ihuussut-ni na K umunt dushuouro
+Kmaintenucu duruliong
+[ucuruuo (on pcnonmancu
+metric9
+Overa
+equipment condition
+3atisfactcr'p03t-maintenance
+No critical faults vrere found
+the [arest
+insection
+gcutnng Issu85
+root-cause investigation
+Allmaintenancc tasks havebeencomdleted
+scnedue
+Uptime (%)
+Count
+Comments
+95-149
+Bolt tightened
+Hor
+CNc
+"duting
+Flg

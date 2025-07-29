@@ -1,0 +1,122 @@
+DAILY PRODUCTION REPORT
+Report No:
+PR-615
+Customer
+CANADA
+Supervisor;
+Jan Kowalski
+Depantment:
+Packaging
+Shift:
+(Night)
+01-08-2024
+This report summarizes the daily operations
+output for the production line. Entries include all start/stop
+Mmes And
+operator assignments
+Below is an overview of machine performance and output figures for today $
+shitt. This extract shovs daily yield, scraprates
+andtewoik occuttences
+Equipment
+Task
+Operator
+Start
+Finish
+Total
+Notes
+Temp
+Energy
+Time
+Time
+(kWh)
+HC-203
+Drilling _
+Jan Kowalski
+T00
+14.00
+120
+Recalibrated
+76.6
+MC-208
+Cutting
+Anne
+Nowak
+09.15
+11;11
+116
+Delay
+2.82
+HC-209
+Polishing
+Jan Kowalski
+Ts
+12.58
+Recalibrated
+2.18
+HC-206
+Cutting
+Wiklor
+12.30
+14.10
+100
+Recalibrated
+59.5
+1-28
+Kopczynski
+MC-208
+Polishing
+Agnieszka
+09.15
+09.58
+Recalibrated
+60.6
+264
+Zielinska
+MC-205
+Welding
+Bartosz
+1415
+14.58
+66.3
+1.65
+Wawmniak
+MC-204
+Assembly
+Piotr
+06.00
+07.49
+109
+67.5
+1.12
+Lewandouski
+MC-208
+Drilling
+Magdalena
+13.30
+14.36
+NYA
+64.5
+2.84
+Witkowska
+HC-204
+Welding
+Pnemistal
+11.30
+12.48
+Delay
+63.1
+2.56
+Wasik
+MC-201
+Cutting
+Piotr
+08.15
+09.24
+Delay
+57.3
+1.56
+Lewandowski
+Prepared DV:
+Peter Schmidt
+Approved DX:
+Jan Kowalski

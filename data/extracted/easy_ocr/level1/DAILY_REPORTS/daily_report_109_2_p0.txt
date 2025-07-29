@@ -1,0 +1,81 @@
+Production Log
+Redar ND;:
+PR-/0z
+Cusiamer-
+TURKEY
+Supervisor:
+Carlos Garcia
+Department:
+Machining
+Snift;
+(Evening)
+09-05-2025
+Machine
+Process
+Worker
+Start
+Finish
+Duration
+Notes
+Temperature
+Energy
+Time
+(min]
+(kwh)
+MC 208
+Cutting
+Nadia Sauter
+14-@
+15.07
+RecJloratco
+429
+2.74
+MC-205
+Drilling
+Magdal
+08.15
+09.36
+Deljy
+66.5
+1.31
+Witkowska
+MC-208
+Assembly
+Agnieszka
+10.15
+c08
+70,9
+2,03
+Zicliriska
+MC-20}
+Cutting
+Bartosz
+08.15
+09.39
+71.1
+Wawryniak
+MC-203
+Cutting
+Nadia Sauter
+10.30
+11.27
+68,0
+1,30
+MC-206
+Welding
+Dawid
+11330
+12.02
+1,55
+Oszmiaiczuk
+MC-203
+Drilling
+Nadia Sauter
+13 00
+14.22
+78 _
+2.13
+Prepared bY:
+Anna Nowak
+Appraved by:
+Kawalski

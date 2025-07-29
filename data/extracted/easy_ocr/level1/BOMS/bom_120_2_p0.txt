@@ -1,0 +1,23 @@
+Customer ID: FRANCE
+Prepared bv: Carlos Garcia
+Product ID: QN-770H
+Interna
+No:: 5208898
+Item Description
+Aluminum Bracket
+Fuse 5A
+Spring Washer M1O
+Qty
+401
+392
+UOM
+Unit Price
+0.05
+Amouni
+921.50
+120,30
+Remarks
+export
+Certified batch
+SKA prand
+TOTAL: 2,061,40

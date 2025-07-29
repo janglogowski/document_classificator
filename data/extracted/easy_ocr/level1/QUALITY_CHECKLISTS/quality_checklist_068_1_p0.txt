@@ -1,0 +1,68 @@
+QC Checklist
+#2915723
+Date: 17.07.2025
+Product ID
+PL 6012
+Customer ID
+GREECE
+Item Description
+Spacer Zmm
+Use Inis extract
+coordinate sign-off with the QA manager: Refer
+the quality register for sampling-plan
+reterences. Below are the items
+be verified durng the final product review. Contirm that sampling levels
+comply with customer agreements
+Ensure all non-conforming marks are clearly documented
+Use this Iist to
+adherence
+AQL and safely standards. Please review each checklist point and mark the sampling
+results_
+All checklist ontries are timestamped for traceability. The following table outlines inspection criteria
+and classification levels. This closure summary indicates compliance with Inspection criteria
+Inspection Checklist Points
+Inspection
+Category
+Remarks
+Depth
+Item Specs
+Not assembled as per drawing
+Critical impact
+Missing distributor information
+Leve
+Critical impact
+Packaging does not match
+Level
+signed sample
+Instruction manual
+Level IlI
+Needs review
+damaged
+Rubber Switch not working
+Level
+Needs review
+Dustidebris inside packaging
+Level
+Minor issue obsered
+Incorrec
+orientation in box
+Leve
+Rubber texture
+glossiness
+Level /
+mismatc
+AQL Level
+Critica
+inor
+Default
+Customer specific
+any open issues in the CAPA
+tracking system_
+Ensure that all remarks have corresponding evidence
+altachments, Archive Ihis summary
+the audit-readiness folder. Overall quality stalus indicates compliance
+with defined AQL levels. This final note confirms the checklist is complete and approved. All critical and
+major inspection points have been addressed
+canmn
+mssing
+Flag

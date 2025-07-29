@@ -1,0 +1,85 @@
+Maintenance Checklist Report
+2025-02-26
+Entries Include work orders ,
+technician a3signments
+changes. Confirm that service Intervals follow the
+preventive schedule; This maintenance extracti
+prepared for complance audit trails  All technician comments are
+rucurdad fur Maintenance brend analysis. Check Inal =
+downume
+evenLS
+are popurly calugorized
+Icgged.
+Spare Parts Used:
+Part Name
+Part
+Qty Used
+Fuse 54
+P-69J
+Gensonnadmle
+P-8545
+machine
+Mlacnine
+Type
+Technician
+Downtime
+Last
+Cneck
+Area
+comments
+MC-259
+piasmna
+Tnspeclion
+Carct
+2024-08-25
+Changed oil
+Cuitct
+GGaica
+filets .
+MC-274
+Paint
+Preventive
+Rossi
+2024-03-22
+Replaced
+(SA)
+MC-275
+CNC Mlling
+Proventive
+Caros
+2023-12-02
+Tightencd
+Machue
+bulcia
+Juosu bels
+MC-293
+Lathe
+Carrective
+Laura Rossi
+2024-01-20
+Changed oill
+ano filtets
+MC-22O
+Lalne
+Inspeclion
+2024-10-30
+Wom
+Kowalski
+gasket
+ren aceo
+MC-282
+Conveyor
+Preverie
+Lnna
+2025-01-07
+Replaced
+Bell
+Navak
+ccalani
+Approved bya
+Luna Nowak
+Senviced bYE
+Laura Ros?
+Dart
+Booth
+Laufa

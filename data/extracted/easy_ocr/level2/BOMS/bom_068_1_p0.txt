@@ -1,0 +1,89 @@
+BOM Report
+Customer ID: FINLAND
+Coordinator: Jan Kowalski
+Date: 2022-10-29
+Product ID: PL-601Z
+Internal No.
+5182761
+Order Qty; 340
+This extract shows the bill of components and total projected spend. The parts manifest here is designed
+to support procurement workflows This summary lists every item required, with per-unit pricing details:
+All ine-item costs are current as per vendor quotes;
+tem
+Consumption
+Extra %
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+1,52
+pcs
+166,50
+For
+Bracket
+export
+Heat
+3.22
+10%
+2.70
+137.70
+Hinge
+Resistant
+alignment
+Sleeve
+adjusted
+Sensor Clip
+2.32
+10%
+pcS
+0.95
+41.80
+Urgent
+Epoxy
+2.54
+7.30
+299.30
+Certified
+Resin Kit
+batch
+Gfcaso
+1.65
+1.90
+30.40
+Certitied
+Tube
+batch
+250ml
+Packaging
+0.33
+pcS
+1.00
+9.00
+For
+Box
+export
+Bearing
+0.33
+10%
+pCS
+13.50
+6202Z2
+export
+Set
+2.24
+pCS
+67.50
+Imported
+Verify that all remark items meet the sourcing department' $ standards. Totals include estimated over-
+consumption allowances and current unit rates
+Amounts reflect current pricing; adjust as necessary for
+bulk orders:
+Total
+Amount
+765.70
+Approved By:
+Sourcing Department:
+aty
+Hinge

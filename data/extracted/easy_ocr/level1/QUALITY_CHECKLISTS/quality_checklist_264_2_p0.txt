@@ -1,0 +1,67 @@
+Inspection Checklist
+Check that inspection steps follow the approved procedure
+AlI checklist entries are timestamped for
+traceability. Use this list t0 confim adhorence t0 AQL and safety standards_
+Use this extract t0 coordinate
+sign-off with the QA manager: Archive this Iist in the quality-management system: Below are the itemis
+verified during the final product review.
+Product ID
+ON T70H
+Customer ID
+TURKEY
+Item Description
+Beanng 6202 ZZ
+Roview Points
+Check
+Severity
+Comments
+Intensity
+Item Specs
+Critical
+Major
+OnHold
+Carton
+damaged or
+Lovel Il
+markings incorrect
+Exposed nail with sharp
+Minor issue
+Level |
+point
+Observed
+Not assembled as per
+Minor issue
+Level /
+drawing
+observed
+Rubber Switch not
+issue
+Level Il
+working
+observed
+Wrong product size
+Level
+Rubber texture
+Minor issue
+glossiness msmalch
+Ooservec
+Minor issue
+Battery not included
+opserved
+Package
+not sealed
+Level
+Needs review
+completely
+Connectot
+not working
+Needs review
+Product doesn =
+power
+Minor issue
+Level Il
+observed
+Supervised by:
+Date:
+Minor
+Mmnor

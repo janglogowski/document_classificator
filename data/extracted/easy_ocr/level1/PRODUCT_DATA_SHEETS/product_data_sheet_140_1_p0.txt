@@ -1,0 +1,104 @@
+Component Overview
+Praiect:
+GL-9805
+Report
+PR-411
+Prepared Bv:
+Carlos Garcia
+Approved By:
+LaMa Ross
+Location; Plant 1C
+Date; 2025-01-19
+Unit Type
+Preumatic
+Contral Unit
+Design Pressure
+180 bar
+Flow Rate
+75 Limin
+Supply Voltage
+480
+60 Hz
+Protectan
+Class
+Weight
+250kg
+Pump Iype
+Vane Pump
+Working Temp
+Range
+5 C to 458C
+Service Interval
+1000
+Motor Power
+Cooling
+Kir-cooiec
+Taciutom
+Oil Type
+HLP 68
+Dimensions (LxWxH)
+1000
+650
+1000
+Battery Capacity
+Material
+Powder-coated Steel
+Filtration
+10 um return
+Control Valve
+Directional
+Level
+70 dBIAI
+Material choices and process data have been verified for compliance
+Overall contiguration
+within detined design
+and safety margins
+This summary reflects the latest revision ot the product data: Check that all section
+neadens
+follow the product
+late. Use this summary
+CroSs
+check with BOM and inspection reports_
+Flag
+missing
+parameters for urgent specification updates; Ensure glossary terms match the engineering nomenc
+Material of Construction:
+Part
+Composition
+Capacito
+450v
+Kiuminun
+oUbfib
+Kubberuas
+Summ
+Mitcile
+Kubbe
+UNBR
+Gasket Sheet 44
+Rubber INBRL
+LED Light Strip
+Glass-Filled Nylon
+Support Foot Stee
+Stainles: Stee 304
+Pressur
+Valve
+Brass CZ1ZI
+NBR 6Omm
+Nitrile Rubber INBR)
+Zinc-
+ated Steel
+Battery Pack
+Lthium-Ion Leipack
+Cooling Gel Pack
+Silicone Rubber
+Stainless Steel 304
+Graphite Pad
+Graphlte Pad
+Fram€
+inling
+Nolse
+Temp
+'jturc,
+Rlng
+Hut
+Hingel

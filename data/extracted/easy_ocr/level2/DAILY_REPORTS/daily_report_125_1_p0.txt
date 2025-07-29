@@ -1,0 +1,112 @@
+DAILY PRODUCTION REPORT
+Report Na::
+PR-339
+Custoic =
+FINLAND
+Supervisor;
+Peter Schmidt
+Department;
+Kssemni
+Datg
+09-06-2025
+Shift:
+LEvening)
+Equipment
+Task
+Worker
+Begin
+Total Mme
+Cammente
+MC-?01
+Welding
+Agnieszka
+06;15
+07.06
+Delay
+Zielinska
+MC-?08
+Welding
+Wiktor
+11;30
+12.16
+Kopczyriski
+MC-209
+Assemoiy
+penieszka
+11.30
+12.21
+Recalibrated
+Zieliriska
+MC-207
+Cutting
+Matcusz
+12.15
+14.05
+110
+Jaiune
+MC-205
+Welding
+Plati
+09.15
+10.56
+101
+Recelibrated
+Lewandowski
+NC-205
+Polishing
+Piotr
+07.15
+08.01
+Recalibrated
+Lewandowsti
+MC-201
+Welding
+Jan Kowalski
+10.30
+T1.5
+paceibrated
+MC-205
+Assembly
+Magdalena
+13.00
+14-19
+MMitkowska
+MC 205
+Polishing
+Annieszka
+08.30
+09.23
+Zielinska
+MC 201
+Driming
+Nadia Sauter
+0.30
+09.40
+Recalibrated
+Item ID
+Target Qty
+Actual Qty
+Rejected Qty
+Rejection
+Comments
+MS-GOJP
+252
+10,0uc
+Pcwgr
+needed
+WD-1B0S
+294
+00nq
+Rework needed
+ON-Z70H
+7842
+Zr-2053
+3.7490
+Rework nocded
+Prepared by:
+Peter Schmidt
+roved
+Kowalski
+Dele/
+App
+by

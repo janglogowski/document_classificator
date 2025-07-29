@@ -1,0 +1,126 @@
+Machine Log Summary
+2024-05-20
+Belon
+the summan
+service actions and downtimes for each machine
+Entries include work orders
+tecnnictan
+assignments
+and par changes
+This section
+cadtures
+equipment status
+any Maintenance observalions
+The
+Cuomieni
+log bolow Includes faull codes and correclve notes
+The following entries delal
+Dicrcnincang
+Coriccvc
+maintenance tas*5
+Spare Parts Used:
+Pant Name
+Part No
+Qtx Used
+P5438
+Sunsarnndule
+P-6i4
+Wni Cadr
+Egulpacnt
+Iype
+Operator
+Duration
+Last Check
+Area
+Catnmcnig
+MC-235
+Packaging
+Preventive
+2024-02-01
+Switch
+Kowalski
+Conacs
+cleaned
+MC-207
+Hydraulic
+Inspecticn
+2024-09-28
+Replaced
+Press
+Kowalski
+54
+MC-283
+Hydraulic
+Inspe ctiom
+Laura Rossi
+2024-07-13
+Naoden
+Press
+pallBl
+checked
+MC 282
+Plasm;
+Inspection
+Anna
+2023-08-20
+Senso
+Cutter
+Nowak
+recaliorated
+MC-272
+Packaging
+Prevantive
+Pelem
+2025-04-02
+Llon
+Line
+Scnmidt
+battety
+Dack
+Eenced
+MC-293
+Packaging
+Inspe ction
+2025-011
+Wooden
+Kowalski
+chuckud
+MC-297
+Hydraulic
+Correctlve
+Peter
+2023-09-27
+Sensor
+Press
+Schmidt
+recalioraled
+MC-2J0
+CNC Millling
+Inspeclicm
+2025-02-15
+Mahluncu
+Machine
+Kowalski
+Ieosu bolls
+MC-204
+Convevor
+Preventive
+2024-11-07
+No issues
+Beli
+Kowalski
+founo
+MC-241
+CNC Milling
+Prutunlive
+Pelet
+2024-10-09
+Calibralar
+Machine
+Scnmidt
+check OK.
+Authorized bx;
+Peter Schmidt
+Oparator:
+Peler Schmidt
+Hoga

@@ -1,0 +1,30 @@
+Component Overview
+Internal No : 6820987
+Product ID: FT-730X
+Date: 2025-05-03
+Unit Type
+Pueumatic Contol Unt
+Operating Pressure
+250 bar
+Fluid Flow
+48 Lmin
+perating Voltage
+480
+60Hz
+Protection Class
+IP54
+Pump Type
+Piston Pump
+Reservoir Capacity
+160
+Oil Type
+HLP 68
+Frame Matenal
+Stainless Steel Frame
+Mounting
+Wall-mounted
+Dimensions (LxWxH)
+1200
+Z00 * 4100 mm
+Prepared by: Peter Schmidt
+Approved by: Laura Rossi

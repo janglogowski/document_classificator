@@ -1,0 +1,101 @@
+Inspection performed by Peter Schmidt on 2024-03-30.
+Please review the inspection results for each component Iisted belov. Review recorded tolerances against
+engineering specifications
+Entries include both
+passifail markers and deviation magnitudes Refer to the
+dimensional
+log for 
+component size readings:
+Environmental Conditions: Temperature: 25.0
+C, Humidity: 46 %
+Item Code
+Component
+Dim:
+Nomina
+Actual
+Delta
+Status (VIX)
+QN-T70H
+Bearing
+Hole
+56.76
+56.60
+~0.16
+6202
+SL-430M
+Shaft
+Inner
+28.58
+28.74
++0.16
+so0mm
+Diameter
+PL-601Z
+Plastic
+Thickness
+7.96
+0.16
+Rivets
+AZ-300T
+Wooden
+Thickness
+78.36
+78.35
+0.01
+Pallet
+PL-6012
+Steel Sheet
+Width
+81.26
+81.35
++0.09
+A36
+MS-600P
+Steel Sheet
+Thickness
+27.94
+27.98
++0.04
+A36
+LP-SS5V
+Power
+Inner
+64.28
+64.40
++0.12
+Switch
+Diameter
+IY-350G
+Hinge Set
+Hole
+72.55
+72.51
++0.02
+MR-160H
+Plastic
+Thickness
+38.76
+38.58
+0.18
+Rivets
+BZ-660F
+Plastic
+Depth
+76.55
+76.54
+0,01
+Rivets
+Kv-390k
+0-Ring NBR
+Length
+68.99
+68.92
+0.07
+60mm
+IR-2Q0B
+Set
+Length
+83.97
+84.08
++01,
+Hinge

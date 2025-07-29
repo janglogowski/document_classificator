@@ -1,0 +1,72 @@
+Equipment Record Report
+2023-09-20
+Pei
+Une nlaintenancen eetertondetailed scrvic# nsOnie:-
+that all downtine events are properly categocized and
+~DeeCo_
+Conmrm tnat cenvice intenval
+fcllow the preventive schedule
+Use thls record
+plan upcoming Vp*eep and (eoairs
+mMainterancr
+extract is prepared for compliance audit trails:
+Spare Parts Used:
+pan Name
+Dan No
+Msed
+QiEter
+P-9076
+sensor Module
+0IlFillter
+J-1,020
+5An01 Module
+2-6047
+Unil Code
+Machine
+Service Type
+Tecnnician
+Downtime
+Previous
+Notes
+Senvice
+MC-233
+Lathe
+nspection
+Jan Kowils<
+2024-01-26
+Tightened
+loose holts
+MC-785
+Hyaraulie
+Mseeclon
+Carloc GAicia
+2013-0R-24
+Remed
+press
+JhLP 46]
+Mc-276
+Paint Booth
+Preventive
+Laura Rossi
+2025-04-07
+sensom
+recamnrated
+MC 742
+P;%m;
+Insnection
+Enn; Nowak
+2023 .09-07
+Cutter
+Mc-777
+Lathe
+Prevemive
+nma Nowak
+2073-17-17
+Chaneed ail
+and fitere
+4nna Nniaa
+Pertormed Du:
+Carlos Garcia
+Check!
+05
+Gened

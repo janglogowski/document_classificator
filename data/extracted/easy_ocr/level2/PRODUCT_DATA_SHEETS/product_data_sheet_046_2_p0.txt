@@ -1,0 +1,51 @@
+Product Overview
+Entries includehoth mechanica
+electrical specificaticns. This technical overview supports
+product-release
+checklist All data entries
+traceable
+cesign revision history: Below are the technical parameters
+constructian materials for the Unit: The parameter register
+delolirciudes
+operating limits and ratings_ Refer to this
+contiguration summary for unit-designation mapping: Ensure all referenced standards are up
+date:
+ptocuckid:
+Ty-350G
+Report No;
+9080690
+Predared
+Laura Rossl
+Approved by: Anna Nowak
+Date: 2024-10 13
+Model Type
+Hydraulic Powe
+Unit
+Operating Pressure
+180 bar
+Flow Rate
+30 Lan
+Voltage
+230
+50 Hz
+Moin
+Por
+S-5kW
+Batter Capaclty
+10 Ah
+Reservolr Capacity
+Dimenslons ILxWxhI
+1200
+1104 mm
+Coolirg
+Wate
+cogim
+Zianeli
+Material choires and process data nave been verified for compliance. Archive this summary for future design-change
+Inaniagerient Check that all sectlon headers follov" thc
+product temiplate. Ensure that the Iisted materials are
+approved for the application. Use this summary
+cross-check wich BOM and inspection reports
+and
+bt:
+FC]

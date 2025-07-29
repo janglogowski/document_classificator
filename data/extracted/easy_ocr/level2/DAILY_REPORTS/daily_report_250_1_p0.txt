@@ -1,0 +1,88 @@
+Production
+Repon
+Customer;
+PR-140
+Supatvsar;
+POLAND
+Department;
+4nnu
+Nowak
+Quality Control
+Shift;
+10-02.2024
+Evening)
+Machine (D
+Operation
+Operator
+Start Time
+MC-207
+Total
+Mates
+Pouishing
+Piotr
+06.15
+duration
+dowsk
+07.48
+MC-2og
+Cutting
+Dawid
+17,30
+12.30
+MC-204
+Oszmlariczuk
+Rartosz
+14.15
+16.09
+MC-207
+Wawrzyniak
+NYA
+Sauter
+MC 203
+07.00
+07.30
+Herualena
+06.30
+Dala
+Witkowska
+07.45
+Recalibrated
+Product ID
+Target Qty
+Achieved
+AL-1150
+Qty
+Dafect Qty
+RM-8s0M
+Remarks
+182
+4310
+4.9506
+TX-820V
+226
+193
+conflimgd
+14.6096
+KP-AZOE
+canfirined
+652"0
+Scrjo
+confirmed
+Prepargd by:
+Apgraved Jy:
+7oSCi
+Log
+No;
+Dolu
+Lu 5cn
+Polshlng
+Wclding
+Nuoia
+Dthling
+"149
+Serap
+Scap
+Sgino
+Lauth
+Cuno 
+Gaicia

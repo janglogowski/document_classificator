@@ -1,0 +1,62 @@
+Measurement Summary Sheet
+ecnnician
+An Nowak
+Inspection Date
+2024-12-17
+Article No.
+ZR-Z05R
+CE-905L
+GL-9BOS
+AL-1150
+RE-850C
+Part Name
+0-Ring NBR
+0-Ring NBR
+Rubher Casket
+Rubber Gasket
+Steel Sheet
+GOmm
+GOm
+SOmm
+80mm
+4A36
+Qim;
+Hole
+Lenoith
+Wctn
+Denin
+Depth
+Nominal
+49.85
+38.46
+Observed
+49.83
+38.41
+40.90
+61.32
+Pass /Fail
+Ensure status
+are updated
+the quality management system. Archive this inspection summary for
+regulatory documentation. This assessment reflects the latest metrology results.
+Please address any NOK
+items before proceeding
+the next production stage.
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last
+Calibration Date
+Laser Scanner
+70103
+2024-09-14
+Caliper
+57673
+2025-04-12
+Laser_Scanner
+94838
+2024-08-14
+Caliper
+53783
+2025-02-08
+flags :

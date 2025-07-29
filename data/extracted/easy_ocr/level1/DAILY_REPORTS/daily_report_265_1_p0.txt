@@ -1,0 +1,129 @@
+keuan No :
+PR-326
+Customer
+TURKEY
+Supervisor:
+Anna Nowak
+Department:
+Painting
+Date:
+07-2023
+shift:
+IMoming)
+Machine
+Operation
+Technician
+Start Time
+Totai
+Remarks
+duraton
+MC 208
+Asscinbiv
+przemvstav
+07.00
+08.56
+116
+Recalibrated
+Wasik
+MC-20A
+Assembly
+Magdalena
+11-30
+11.52
+Recalibrated
+Witkowska
+MC 204
+Welding
+Wiktor
+07.30
+08.40
+Delay
+Kopczyrski
+MC-20}
+Polishing
+Agnleszka
+12-30
+Ja:7
+Zielinska
+MC-202
+Cutting
+Magdalena
+13-00
+13.56
+Delay
+Witkowska
+MC-209
+Cutting
+Przemyslaw
+08-30
+10.23
+113
+N{A
+Wasik
+MC-2O1
+Cutting
+Bartosz
+10.30
+11.29
+N/A
+aumzvniak
+MC-208
+Welding
+Magda
+09.30
+10.45
+Witkowska
+MC-203
+Drilling
+Anna Nowvak
+08330
+10.10
+400
+NA
+MC-205
+Assembly
+Mateust
+14-15
+14.40
+Jarzyna
+MC-209
+Cutting
+Agnieszka
+11-00
+12,54
+114
+Zielinska
+MC-202
+Assembly
+Piatr
+11-30
+12.47
+Lewvandowski
+Item
+Planned Qty
+Actua
+Qty
+Rejected Qty
+Failure
+Motes
+WD-180S
+270
+7.53%
+Rewon needed
+WD-1805
+130
+10.77%9
+RE 850C
+11.2190
+Rcworanecoed
+RE-850C
+266
+73290
+Scrap confirmed
+Prepared by:
+Carlos Garcia
+Appraved by:
+Carlos
+Delay
+Delay
+Garcia

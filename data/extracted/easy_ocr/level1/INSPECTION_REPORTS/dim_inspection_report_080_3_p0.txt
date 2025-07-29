@@ -1,0 +1,126 @@
+Inspection Results Summary
+Inspection performed by Carlos Garcia on 2024-04-03.
+The inspection register below highlights any out-of-tolerance parts. The following data capturos key
+dimensions and any deviations identified
+Refer to the dimensional log for all component size readings; This
+report presents Ihe dimensional measurements and
+Inspection results
+This summary of measurements
+supports metrology traceabillty. Please review the inspection results for each component Iisted below.
+Environmental Conditions: Temperature:
+22,8
+C, Humidity: 58 %
+Artlcle No.
+Component
+Dlm.
+Target
+Actuai
+Dift
+Status (VIX)
+JD-70OW
+Graphite
+Length
+64.40
+64,22
+0.18
+Pad
+FT-730X
+Graphite
+Inner
+56.68
+56,62
+-0.06
+Pad
+Diameter
+SL-430M
+Shait
+Width
+38.98
+39.17
+1+0.19
+500mm
+VF-2200
+Rubber
+Thickness
+82.08
+82.24
++0.16
+Gasket
+BOmm
+LK-890B
+Rubber
+Height
+17.98
+17.79
+0.19
+Gaskel
+BOmm
+CE-905L
+NBR
+Width
+92.26
+92.30
++0.04
+60mm)
+F-730X
+Hinge Set
+Thickness
+3524
+3521
+TY-350G
+Graphite
+Widlh
+58,91
+59,01
++0.10
+Pad
+HF-390A
+Wooden
+Depth
+59,49
+59.58
++0,09
+Pallet
+LP-SS5v
+Bearing
+Lengih
+62.,07
+62.06
+0,01
+6202 Z2
+LP-5s5v
+Wooden
+Thickness
+93,84
+93.70
+0.14
+Pallet
+JD-700w
+Battery
+Length
+88,06
+88.15
++0.0g
+Pack
+XD-7IOR
+Shalt
+Hole
+94,69
+94.61
+0,08
+s00mm
+PL-6012
+Power
+width
+37.74
+37.74
++0.00
+Switch
+ZR-205R
+Graphite
+Thickness
+35,18
+35,22
++0,04
+Pad
+Ring

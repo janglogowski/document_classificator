@@ -1,0 +1,78 @@
+Production Log
+Redar ND;:
+PR-371
+Cusiamer-
+GREECE
+supenvison
+Ljura
+Rossi
+Department:
+Packaging
+Snift;
+(Evening)
+16-09-2024
+Entrles include all start/stop times and operator assignments
+klov
+An veMie
+machine performance and
+output figures fo
+today'$ shift; All throughput figures are recorded for capacity
+anninz
+Machine
+Task
+Technician
+Begin
+End Time
+comments
+Temp
+cneley
+Spent
+(kWh)
+MC-202
+Cutting
+Lnna
+09,00
+10,04
+Recalibrated
+72.3
+1.28
+Nowak
+MC-209
+Drilling
+Agnieszka
+14.15
+15.46
+62.2
+1.92
+Zlellriska
+MC 209
+Cutting
+3arosE
+07.00
+08.27
+Recalbrate
+68.7
+2.47
+Wawrzyniak
+MC-205
+Welding
+Agnieszka
+07.15
+08.04
+65.4
+251
+Ziellriska
+MC 204
+Drilling
+Nadia
+13.15
+14.54
+Delay
+62.6
+1.63
+Sauter
+Prepared b%:
+Kawaiski
+pproved by:
+VowJk
+Tmc

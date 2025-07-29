@@ -1,0 +1,52 @@
+Product Data Sheet
+This report extract
+prepared for design-verification audits. Ensure all referenced standards are up to date:
+Entries include both mechanical and electrical specifications. The following information outlines performance
+characteristics and design data. Check that all materia
+specs align with suppllier certifications. All data
+entries are traceable
+design revision history.
+Product
+SB-140D
+Document No; ;
+7015115
+Prepared by: Peter Schmidt
+Approved by: Peter Schmidt
+Date: 2023-08-20
+Model Type
+Pneumatic Control Unit
+Design Pressure
+180 bar
+Fluid Flow
+60 Lmin
+Supply
+230
+50 Hz
+Mounting
+Wall-mounted
+Cooling
+Air-cooled oil radiator
+Battery Capacity
+Archive this summary for future design-change management: Ensure glossary terms match the engineering
+nomenclature
+AII summary comments have been recorded
+the revision log
+This closure note indicates
+the data sheet
+ready for release. Material choices and process data have been verified for compliance.
+Check that all section headers follow the product template. Refer
+parameter table for operating ranges
+and tolerances_
+Material
+Construction:
+Base
+Wiring Loom
+PVC (Rigid)
+Fuse 5A
+Ceramic Oxide
+Thermal
+Ceramic Oxide
+Voltage
+Mem)
+10
+Fuse

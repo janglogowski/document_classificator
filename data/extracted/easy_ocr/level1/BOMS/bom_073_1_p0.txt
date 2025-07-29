@@ -1,0 +1,75 @@
+BOM Report
+Customer ID: SWEDEN
+Coordinator: Jan Kowalski
+Date:
+2024-06-01
+Product ID: GL-980S
+Interna
+No: : 1711511
+Order Qly: 372
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Wooden
+1.03
+10"
+pCS
+15.00
+120.00
+Eco
+Pallet
+compliant
+Ventilation
+2.73
+5%
+pCS
+5.60
+218.40
+Grid
+Hex Bolts
+0.76
+0%
+pCS
+0.25
+2.00
+For
+M12
+export
+Rubber
+0.99
+2%
+pCS
+0.55
+15.40
+For
+Stopper
+expont
+Insulation
+0.57
+5%/
+pCS
+3.20
+44.80
+Certilied
+Foam Pad
+batch
+Epoxy
+2.57
+5%/
+pCS
+365.00
+For
+Resin Kit
+export
+Total
+Amount:
+765.60
+Approved By;
+Sourcing Department:

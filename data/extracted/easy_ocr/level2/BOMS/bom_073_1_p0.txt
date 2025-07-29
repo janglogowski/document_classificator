@@ -1,0 +1,70 @@
+BOM Report
+Customer ID: SWEDEN
+Coordinator: Jan Kowalski
+Date: 2024-06-01
+Product ID: GL-9805
+Internal No.
+1711513
+Order
+372
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Wooden
+1.03
+1090
+pCS
+15.00
+120.00
+Eco
+Pallet
+compliant
+Ventilation
+2.73
+5,60
+218.40
+Grid
+Hex Bolts
+0.76
+pcs
+0.25
+2.00
+For
+M12
+export
+Rubber
+0.99
+pcs
+0.55
+15.40
+For
+Stopper
+export
+Insulation
+0.57
+pCS
+3.20
+44.80
+Certified
+Foam Pad
+batch
+Epoxy
+2.,57
+pCS
+365.00
+For
+Resin Kit
+export
+Tota
+Amount;
+465.60
+Approved By:
+Sourcing Department:
+Qty:

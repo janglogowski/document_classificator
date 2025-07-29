@@ -1,0 +1,95 @@
+Equipment Record Report
+Performed On: 2024-02-25
+Authorized bx;
+Jan Kowalski
+OcGralor
+Anna Navak
+Check lhat all duwnlime evenls
+propetly calegerize
+logged.
+Ulc idllowimo
+UMInIcs dulall pruvenlive JMC
+COMUclivu
+maintenance lasks. Conlirm [nat survice Intervals lollow lhe prevenlve schudule.
+This seclion caplures cquipmnent slalu:
+and any maintenance observations,
+The equipment log belon
+inciuces
+rauii coceS
+cotrecive noles
+Refer to the
+Maintenance
+egister for detailed service histories-
+Section A:
+Machine
+Mc76_
+KC 219
+MC 289
+MC 225
+Machine
+Lase
+Cuter
+plasma Cutter
+Hydraulic
+Lathe
+vpC
+preveniive
+Inspeclom
+nsp ecion
+Loreciive
+Operato
+Jan kowalsk
+Peter Schmidt
+Peter Schmict
+Anna Nowak
+Dumtion
+Comments
+Switch contacis
+Li-Ion battery
+Alignment
+hinges
+Alignment
+'hinges
+cleaned
+enviced
+adiusiec
+aqjusted
+Sectlon B:
+Machine
+MC 225
+MC 289
+MC 264
+MC 219
+Machine
+Hyoraulic Press
+aser Culiar
+Plasma Cuttet
+Type
+Inspection
+Cocctve
+Cancclvc
+Inspecllon
+Operator
+Lam
+Possi
+Jan Kowalski
+Laura
+Rossi
+Duratlon
+Comments
+Renlaced fuse (S4}
+Changed ciland
+Wnnden pallet
+Worn gasket
+lters
+cnecked
+replaceo
+Uptime (%)
+Error Count
+comments
+97.7626
+Reqiacen Titer
+Press
+pagk
+Ross
+Laum

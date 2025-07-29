@@ -1,0 +1,62 @@
+echnician
+Larios
+Garcia
+Inspection Date
+2073-10-16
+Product Ref
+NE-2454
+42-300T
+Jd-700w
+TY-350G
+GH-7708
+TX-820v
+part Name
+Rudder
+Dasket
+Shatt 5oomm
+Wooden
+Powje
+Swirch
+Shaft SOOmm
+Rubhem
+Oas et
+somm
+Pallet
+B0mm
+Measurement
+Thickness
+Width
+Length
+Lengtn
+Lenetn
+Width
+Tarzet
+86.84
+6440
+32.08
+58 05
+86.67
+Observed
+86 68
+Deltz
++002
+'Fail
+Enure
+measuring tools were
+properly calibrated. Please address
+any NOK Items Before proceeding
+the next
+production stage. This assessment
+the latest metrology results_
+Instrument Callbration Log:
+Instrumcnt
+Serial No.
+Last Calibration Date
+Micrometer
+30470
+2025-06-08
+Caline
+30840
+2025-05-30
+Pass
+reflects

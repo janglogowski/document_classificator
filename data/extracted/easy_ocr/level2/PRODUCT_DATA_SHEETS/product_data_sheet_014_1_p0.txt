@@ -1,0 +1,102 @@
+Component Overview
+Project;
+CE-YUSL
+Report No
+PR-292
+Prepared B%:
+Ldurd ROSS
+Approved
+Kowalski
+Location: Plant 1C
+Date
+2024-09-19
+Use this sheet
+confirm engineering requirements and tolerances
+data entries are traceable
+design revision
+nistont
+Please reviev' the specificatians and materia
+composition listed helow. This technica
+ovenview
+supports the
+product-release checklist_ Below
+are the technical
+Jarameters Jno
+constructian malerials for the unil: Refer to thls
+configuration
+summan
+for unit-designation mapping: Confirm that performance
+ranges comply with project
+fequlremenis
+Model Type
+Cooling Circulation
+Rated Pressure
+210 bar
+System
+Fluid Flow
+48 Limin
+Voltage
+230
+50 Hz
+Oil Type
+HLP 46
+Noise Leve
+dBLA)
+Cooling
+Air-capled 0ll radiator
+service
+Intervd
+1000
+Type
+Pistor
+Motor Power
+7.kW
+Mounting
+Skid base with vibration
+Battery Capacity
+2 Ah
+Protection Class
+0P67
+Charging Time
+Working _
+10"€ t0 55"€
+Total Weight
+230
+Contro
+Valve
+Proportiona
+Ensure glossary terms match the engineering nomenclature
+Tnis closure note indicatesthe data sheeti5 ready far
+ease; Check that all section headers follow the product template. Use this summary
+cross
+check with BOM and
+inspectian
+This summary reflects the latest revision of the product data
+Material
+Construction:
+Labe
+Base
+Wiring _
+Loom im
+PVC (Rigic)
+Pressure
+Vaive
+Brass CZ12I
+LED Light Strip
+Glass-Filled Nylon
+Heat Sink ALU
+Aluminum 6061
+Wooder
+Pjlet
+reated
+Pine Wood
+Ring NBR 60mm
+Nitrile Rubber (NBR)
+Support Foot Stee
+Stainless Steel 304
+Pume
+Pump
+Pads
+Temp:
+Range
+reports

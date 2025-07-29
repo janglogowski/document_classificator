@@ -1,0 +1,127 @@
+Production Log
+Report No:
+PR-156
+Cusiomer-
+POLAND
+Supervisor
+Anna Nowak
+Department:
+Packaging
+Date;
+31-01-2025
+Snit
+C(Nignt
+Machine
+Proces
+Technician
+Begin
+Finish
+Duration
+Notes
+MC-202
+Cuttinb
+Jan Kowllski
+IL-00
+11.42
+NA
+MC-207
+Assembly
+Jan Kowalski
+08-10
+09-5,8
+MC-204
+Drilling
+Mateusz
+10.30
+11.42
+Janyna
+MC 209
+Assembly
+Piotr
+07-15
+08.59
+104
+Kandoisk
+MC-208
+Drilling
+Magdalena
+10.15
+12.02
+Witkowska
+MC 205
+Polishing
+Magdalena
+06-00
+07.10
+Delay
+Witkouska
+MC-208
+Drilling
+Wiktor
+13.30
+15.25
+Kopczynski
+Mc-209
+Assembly
+Mateusz
+13-00
+14.49
+Recalibrated
+Jarzyna
+MC-204
+Culine
+Nadla Sauter
+12.15
+12.49
+Recalibrated
+Mc- 206
+Assembly
+Maleusz
+14-15
+15.44
+Recalibrated
+Jarzyna
+MC-ZOI
+Cutting
+Dawid
+08.15
+10.10
+115
+Osmianczuk
+Product ID
+panneo
+Output
+Qt
+Rejected Qty
+Failce
+Remarks
+NE- 2454
+226
+3.428
+Scrap confirmed
+HF.3904
+206
+202
+1.9490
+KV-390k
+255
+12.9736
+Rework needed
+RM-B60N
+4.1398
+Rewonk needed
+AL-II5Q
+258
+IoI0i
+Scrap confirmed
+LK-8903
+230
+203
+11.7436
+Rewon neeced
+Prepared by:
+Jan Kowalski
+Approved PI:
+Peter Schmiot
+(min
+Acua

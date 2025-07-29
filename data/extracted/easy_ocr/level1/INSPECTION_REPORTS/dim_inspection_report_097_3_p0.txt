@@ -1,0 +1,112 @@
+Measurement Summary Sheet
+Inspection performed by Anna Nowak on 2025-06-01.
+Please review the inspection results far each corrponent listed below This
+data extract
+prepared far quality-control
+sign-off: Ensure measurement methods align with calibration standards, Below are the recorded
+Measurements
+compared aRainst nominal talerances
+Entries include both pass /fall markers
+and deviation E
+dimensions
+magnitudes Checkthat all
+comply with ISO and
+company
+standards;
+Environmenta
+Conditions: Temperature; 25.0
+Humidity: 46 %
+Product Ref
+Name
+LP-5551
+Shaft S00mm
+Depth
+Observed
+Diff
+Status (VIx)
+23,08
+22.93
+-ulic
+MX-ASOL
+Shaft 50Qmm
+Depth
+86.90
++0O)
+5L-430M
+0-Ring NBR
+Thlckness
+46;Od
+16,08
++0.0R
+6Qmm
+TR-ZOOB
+Rivets
+Height
+75.63
+LO06
+Lk-8508
+Hex Bolts
+Width
+73.72
+73.82
++0.10
+M12
+DX-7771
+Graphite Pad
+Hole-
+72.12
+72.09
+VF-220D
+Hinge Set
+Tnickness
+44.21
+4445
+HF-39DA
+Rubber
+rdch
+42,08
+42.13
++0.05
+Gasket 8Dmm
+PW-S15Y
+Bearing 6202
+Widin
+81.34
+81.34
+LOOn
+PL-601Z
+Wooden
+Depth
+29,87
+30.04
++.17
+Pallet
+TL-9OOX
+Shalt SQOmm
+Width_
+84 77
+34 08
+TR-ZOOB
+Rubber
+Hole
++0.C0
+Gasket 8Omm
+4Z-300[
+Plastic Rivets
+Hole 
+51.84
+ZR-ZOSR
+Hinge Set
+WNicth
+0.07
+LP-5S5V
+Graphite Pad
+Cneth
+76,15
+Lk-8908
+Hole
+Part
+Dim.
+Targct
+Plastic
+Hin?e

@@ -1,0 +1,76 @@
+Inspection Summary
+This closure summary indicates compliance with inspectian criteria: Use this extract t0 coordinate
+sign-off with the
+QA manager
+This summary supports the production-release quality gate. Archive this Iist in the quality-management
+system: This checklist captures quality inspectian paints and sampling levels_
+Product ID
+MR-1EOH
+Customer
+NORINAYC
+Item
+description
+~Ring NBR 6Omm
+Quality Check Items
+Check
+Classification
+Camments
+Intensity
+Design Specs
+paini
+earing Or scrdlches
+aT
+Color mismalch
+Leve
+Crulical umpact
+Wncorrec
+quantity or assortment
+Lev
+Minor
+Iscu@ OWSCNcg
+defect on housing
+LevCi
+Shipping
+mark i>
+illegible=
+Leve
+missing
+Wood splinter
+sharp point on
+Level
+Needs review
+dr oquc
+Missing safety labels_
+level
+Critical impact
+Instruction manuji
+missing or
+Level
+dumjpc
+Exposed nail wiith
+Levem
+Package
+not sejiec
+compietely
+Critical impact
+Product doesnt power
+e#
+Nnno
+issue dnsenem
+Missing
+waming_Jabel
+Leve
+Critical impact
+Wrong product size
+Leve
+Needs review
+Rudbe
+Switch not working
+Lev
+Minor
+Itue Oosenved
+Supervised bv:
+Date:
+Visua
+sharp
+pcint

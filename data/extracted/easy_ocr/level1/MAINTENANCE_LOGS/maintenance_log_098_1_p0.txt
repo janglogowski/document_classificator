@@ -1,0 +1,90 @@
+Maintenance Checklist Report #8486910
+Date: 2024-02-26
+Unit Codr
+Equipmont
+Iyne
+Opcrato
+Duration
+Commcnt?
+MC-ZJU
+Conveyor Belt
+Preventive
+Carlos Carcia
+Flant 2B
+Calidraticn
+check CK
+MC-253
+Assembiy
+Corrective
+Jan Kow"Biaki
+Fant IC
+Senaor
+Ronal
+Kecalibraled
+NC-ZJU
+Fidraulic
+corroctive
+Pater Schmidt
+Plant 1C
+NoSSUBS
+Picss
+almc
+MC-214
+Packaging
+Insp BCticn
+Laure
+RO5si
+Plant 34
+Calioration
+check Ok
+MC 231
+Aisurmuly
+curtuctive
+Jan Kuwulski
+Plant 2E
+Sensor
+Rodat
+recalibrated
+MC27
+Packaging
+Corrective
+Anna Noutek
+Li-ion bauten
+pack 3eNic8d
+MC- 240
+Hydraulic
+Preventive
+Laa FCeei
+Plant IC
+Callbration
+Pre3s
+check Ok:
+MC-284
+Assembly
+Inspeclion
+Jen Kowvalski
+Plant ZP
+Nossues
+Robot
+touno
+Check remaining litfe-cycles
+components from this report_No critical
+faults wvere found during
+latest inspection:
+Archive this gummary
+the CMMS for future reference
+Fnguc
+Ventn e senice
+achedmled
+according
+maintenance durations are rucorded (or purormance Mutrics
+Ensure that euch survicu entry has tne rcquirad Jpprovals
+Lubiication Checked
+Calibfalion Vunicu
+Emergenc
+4e5en
+Futn orieo
+Operator:
+ani-
+0iley
+Btop

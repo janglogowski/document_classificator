@@ -1,0 +1,54 @@
+Customer ID: FRANCE
+Prepared by: Peter Schmidt
+Product ID:
+200B
+Internal No:: 7828615
+All line-item costs are current as per vendor quotes. Use this
+estimates. This
+breakdown to verify sourcing and cost
+extract shows the bill of components and total projected spend. This -
+every item required, with per-unit
+summary lists
+pricing details_
+parts manifest here
+designed to support
+procurement workflows_
+Item
+Digital
+Power Switch
+Spring
+Bearing 6202
+Battery
+Description
+Display Unit
+Washer M1O
+Pack
+Qty
+885
+66/
+UOM
+262
+488
+pCS
+pCS
+Unit Price
+15.00
+Amount
+25.00
+13.275.00
+800.40
+5.55
+393.00
+Remarks
+Switch tested
+12,200.00
+High grade
+Switch tested
+ROHS
+alignment
+compliant
+adjusted
+TOTAL: 26,673.95
+Tr-=
+The [
+Hinge

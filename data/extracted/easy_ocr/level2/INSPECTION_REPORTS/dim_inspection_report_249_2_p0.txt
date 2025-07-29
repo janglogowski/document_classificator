@@ -1,0 +1,79 @@
+Component Dimensional Check
+Technician
+Inispectiol Date
+Scmmidt
+2023-09-20
+Below are Ine recorded measurements
+coinpared
+trigger any corective actions_
+Refer -
+against nominal tolerances. Use this results summary to
+the dimensional log for all component size readings
+Anticle No;
+RM-860N
+JD-Zow
+LP_SSSV
+Part
+Name
+Power
+KP 320E0
+KV-J9OK
+CN-IS0C
+Battery Pack
+Bearing 6202
+Rubber
+Power
+Switch
+0-Ring NBR
+Gasket
+Switch
+s0mm
+Mcasurement
+Width
+Widlh
+BOmn
+Mominal
+60.29
+Widlh
+Length
+Lendin
+Actual
+38,70
+00.24
+86.58
+89.34
+63.60
+Delta
+~0<
+LOOO
+86.40
+89.23
+6342
+~UAe
+Pass Fall
+any components requiring
+re-machining
+adjusiment; This closure memo
+checks are complete: Comporients failing inspection
+confirs that dimensional
+verty measuremtent =
+require immediate review and corrective action: Cross
+data with CAD nominal values-
+Instrument Calibration
+Instrument
+Serial No
+Last
+Callbration Date
+69323
+2024-11-17
+10177
+Laser Scanter
+2024-12-21
+32626
+2024-1207
+Petel
+Heiobi
+Flag
+Log:
+Calpel
+Calper

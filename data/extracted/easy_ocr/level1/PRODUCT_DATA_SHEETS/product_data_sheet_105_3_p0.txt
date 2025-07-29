@@ -1,0 +1,59 @@
+Unit Configuration
+Report
+PR-661
+Product ID
+KP-3ZOE
+Date: 2024-02-27
+Model Type
+Pneumatic Contro
+Rated Pressure
+300 bar
+Fluid Flow
+30 Limin
+Supply Voltage
+400 V
+50Hz
+seruice
+Interval
+1000
+Protection Class
+IPGS
+Framc
+Mlaterial
+Powder coated Steel
+contro
+Proportional 4/2
+Oil Type
+HLP
+Dimensions (LxWxH)
+1200 * 700* 1100 mm
+Pump Type
+bejr
+Component Materials Overviewe:
+Kem
+Camposition
+Specification
+Connector 2P
+Gldss
+Fled Mvidr
+Cidss
+tolerance
+Bearing
+5202 /
+Stalnless Steel
+Anicorrosite
+Cable Tie Pack (10Q)
+Nitille Rubber INBRI
+IP6Z rated
+Support Foot Stee
+Stainless Steel 304
+ISO 2768
+Digital Display Unit
+ABS Plastic
+UL-listed
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia
+No:;
+Unit
+Valve
+pump

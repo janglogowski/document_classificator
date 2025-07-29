@@ -1,0 +1,81 @@
+Machine Log Summary #2923608
+Date: 2024-08-23
+Unit Code
+Macnine
+Operator
+Duration
+Site
+Hotes
+MC-206
+CNC Miling
+Conecu @
+Anna Noxar
+Plant 1C
+Wor gasket
+Hachine
+[eplaced
+MC-257
+Lathe
+Comeciive
+Cadlos Garcia
+Plant 34
+Sensor
+TetSMotate di
+MC-217
+Packaging
+Conech @
+Peter Schmial
+Plant 28
+Sensor
+reca brated
+MC-243
+Lathe
+Inspecton
+Anna Nowat
+Plant 28
+Cranged oil
+and ntels
+MC-255
+Lathe
+Preventive
+Laura Rossi
+Plant 28
+No ksues
+found:
+MC-245
+Packaging
+Pteveninia
+Anna Noxa*
+Flan 1C
+Alignmeni of
+Lne
+hinges
+acjusted
+MC-213
+Paint Bootn
+Comeciive
+Petet
+Schmidt
+Plant 34
+Calbration
+checkOK
+HC-262
+Lalne
+Inspecton
+Janroxalsu
+PlanC
+No otical faults Kere fcund cunng Ine laleslinspecton
+maintenance lasks have been complated
+per scredule:
+Confm tnat al
+corective ctions Were propeny closed cuL Alll maintenance durations are recorced for performance
+metncs Overa
+equipmeni condibon
+saisfaciony Post-maintenance
+Lubicaton Checked
+Calibration Venfed
+Emergens
+Stop Tested
+Authorzed Dy -
+Opcralor 
+Lyea

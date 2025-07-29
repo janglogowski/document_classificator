@@ -1,0 +1,109 @@
+COMPONENT BREAKDOWN
+Customer ID: FINLAND
+Coordinator: Jan Kowalski
+Date; 2023-11-27
+Product ID: TR-ZOOB
+Internal No.
+2867886
+Order Qty: 283
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Gasket
+290
+pcs
+20.00
+Li-Ion
+Sheet A4
+battery
+installed
+Sensor Clip
+1,56
+540
+pcs
+0.95
+Switch
+tested
+OK
+Shaft
+0.65
+29J
+pcs
+8.00
+88.00
+High
+50Omm
+grade
+Rubber
+0.64
+290
+pcs
+0,50
+Switch
+Gasket
+tested
+BOmm
+OK
+Rubber
+2.18
+50
+pCS
+0.55
+1.65
+For
+Stopper
+export
+Steel Sheet
+1.64
+286
+90.00
+Urgent
+A36
+Bearing
+1.22
+296
+pcs
+67.50
+ISO-
+6202 ZZ
+veritied
+Spacer
+1,61
+pcs
+0.15
+Switch
+2mm
+tested
+Epoxy Resin
+0.84
+596
+pcs
+7.30
+131.40
+For
+export
+Rubber.
+2,47
+590
+pCs
+0.50
+22.50
+SKF
+Gasket
+brand
+BOmm
+Please confirm supplier lead times
+ensure timely delivery of all items. All sourcingnotes have
+been
+logged
+for audit purposes
+Total Amount:
+431.90
+Approved By:
+Sourcing Department:

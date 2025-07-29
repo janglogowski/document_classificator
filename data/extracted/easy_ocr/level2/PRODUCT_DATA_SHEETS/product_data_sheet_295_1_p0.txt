@@ -1,0 +1,55 @@
+Project;
+ON-Z70H
+Document Na :
+3524411
+Prepared By:
+Anna Nowak
+Approved Bya
+Anna Nowak
+Locallon; Plant J4
+Dale; 2025-03-03
+Unit Type
+Pnoumallc Control Unit
+Rated Prossuro
+180 bar
+Fluld Flow
+60 Limin
+Supply Voltage
+400
+50 Hz
+Working Temp. Range
+5*C t0 45"C
+Total Welght
+250 kg
+Battery Capacity
+10 Ah
+Charging Time
+Nolse Level
+70 dB(A)
+Cooling
+Waler-cooled
+exchanger
+Pump Type
+Piston
+Roservolr Capacity
+Motor Powor
+KWv
+Filtration
+Vm Inline, 10 /m
+rolurn
+Dimensions (LxWxH)
+1200
+700 * 1100 Mm
+Protection Class
+IPSA
+Frame Materlal
+Stainloss Steol Frame
+Servlce Interval
+months
+Mounting
+Rack Irame
+Control Valve
+Dirocilonal 43
+Oil Type
+HLP 32
+Pump

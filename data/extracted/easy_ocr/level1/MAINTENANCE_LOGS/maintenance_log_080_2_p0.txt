@@ -1,0 +1,111 @@
+Machine Log Summary
+2025-05-12
+Use this record
+Dcoming
+upkeep and repairs
+Contirm that servic
+intervals follovathe Dreventive schedule
+Ailtechnican
+RmnnmalnHn
+ecorded fct mainter Ince trera analysis
+equipment log beloa Iraludes (aul
+Hmdcdccen Nal
+Reler
+intenance register for detailed service histories. This Iog records
+maintenance activities penormed
+che equllpment
+Spare Karts Used:
+Part Name
+Pant
+aty Used
+LI-Ion Battery Pack
+p-494J
+Leltat
+5197
+Seaiing Gasket
+0-8762
+Machlne
+Machine
+Servlce Type
+Iia chnician
+Docuntme
+PrewloMs
+momaments
+Service
+MC-238
+Paint Rooth
+Cotrernve
+Voxvak
+2024-12-06
+Knues
+Tound
+Mc2R7
+CNC
+Inspection
+Peter
+2024-11-27
+Tightened
+Mlachinc
+Scomidt
+lcose polt'
+MC-221
+Paint Rcoth
+Unsoerhon
+Laura Rossi
+2024-06-30
+Switch
+coniacUS
+cleaned
+Mc7en
+Axxmbly
+Unsptction
+Pttcr
+7oJ4-Uall
+Snor
+Kobot
+scnmiot
+recalibrated
+MC-269
+CNC
+Lorrecuve
+Carlos Garcla
+7015-04-06
+Replaced
+Machine
+fuse (SAL
+MC-203
+Lathe
+Corrertive
+Carlos Garcia
+2015-07-11
+Nokasues
+tound
+MC-220
+convevor
+Inspection
+Peter
+2024-10-05
+Sensor
+scmiot
+rEclibrated
+Mc-7o4
+Plasma
+Inspection
+Carlos Garcia
+2024-0o-5
+Calinrarion
+Cuttct
+chieck Wk
+MC-218
+Paint Rooth
+Correcnve
+Lamra Rocei
+2024-0r-02
+Reclaced
+coolant
+Approved
+Ian Kowalsk
+sefviced Dv
+Kowalsk
+Miing
+Miing

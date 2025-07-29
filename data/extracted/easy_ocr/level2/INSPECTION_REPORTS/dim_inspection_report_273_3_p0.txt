@@ -1,0 +1,115 @@
+Tolerance Check
+Inspection performed by Peter Schmidt on 2025-06-18.
+The inspection register below highlights any out-of-tolerance parts. The following data captures key
+dimensions and any deviations identified. Review recorded tolerances against engineering specifications:
+This data extract
+prepared for quality-control sign-off:
+Environmental
+Conditions: Temperature: 20.6 "C , Humidity: 42 %
+Item Code
+Component
+Dim:
+Target
+Actual
+Delta
+Status (VIX)
+HF-390A
+Steel Sheet
+width
+45.26
+45.22
+0.04
+Ok
+A36
+RE-850C
+Rubber
+Height
+9.06
+9.12
++0.06
+OK
+Gasket
+80mm
+SL-430M
+Plastic
+Height
+56.33
+56.47
++0.14
+Ok
+Rivets
+TY-350G
+Hex Bolts
+Length
+49,67
+49.73
++0,06
+Ok
+M12
+TX-820V
+Battery
+nne
+99.20
+99.21
+#0.01
+OK
+Pack
+Diameter
+FT-730X
+Wooden
+Hole
+99,88
+99,90
++0,02
+Pallet
+TL-9OOX
+Shaft
+Inner
+70.64
+70.48
+-0.16
+soomm
+Diameter
+MR-160H
+Battery
+Length
+26,.21
+26,26
++0,05
+Pack
+VR-940T
+Power
+Lengtn
+76.42
+76.36
+-0.05
+Switch
+RE-850C
+Plastic
+Length
+7.22
+7.40
+40.18
+Rivets
+DX-777T
+Graphite
+Inner
+21.10
+20.95
+0.15
+Pad
+Diameter
+PL-601Z
+Bearing
+Depth
+57.52
+57.63
++0.11
+6202
+GH-770J
+0-Ring NBR
+Hole
+65.32
+65.46
++0.14
+60mm

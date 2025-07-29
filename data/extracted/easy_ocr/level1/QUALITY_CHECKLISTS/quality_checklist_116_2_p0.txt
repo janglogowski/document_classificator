@@ -1,0 +1,88 @@
+Audit Trail
+Use this Iist t0 confirm adherence
+AQL and safety standards_
+Entries include both visual and functional
+inspection items. Refer to the quality
+sampling-plan references_
+Please roview each checklist
+and mark the sampling results.
+Product ID
+JD-ZOOW
+Customer ID
+CANADA
+Item Descrption
+Cable_Tie Pack (10OL
+Quality Check Items
+Inspection
+Defect Class
+Observations
+Depth
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Battery not included
+Level
+Rubber Switch not
+Minor issue
+Level
+working
+observed
+Minor
+Ssue
+Color mismatch
+odservco
+Dustildebris inside
+Crilical impact
+packaging
+Functionamn
+test ailed
+Leve
+Needs review
+Missing logo or warning
+Needs reviow
+label
+Loose parts inside
+Level II
+Critical impact
+packaging
+Package
+not sealed
+complelely
+Screws loose
+Level Il
+Critical impact
+missing
+Packaging does not
+Level II
+Needs review
+match signed sanple
+Minor issue
+Missing safety labels
+Level /
+observed
+Sharp edges
+plastic
+Needs review
+componenis
+Minor issue
+Connector not working
+observed
+incorrecl
+orientation
+Level IlI
+ncorrect
+quantity
+Assonment
+Minor issue
+Hinges loose
+Level !
+observed
+Missing distributor
+Level E
+infomation
+Supervised by:
+Date:
+register
+point

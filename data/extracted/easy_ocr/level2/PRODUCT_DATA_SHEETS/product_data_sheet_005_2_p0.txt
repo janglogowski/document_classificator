@@ -1,0 +1,79 @@
+Product Overview
+Refer
+this configuration summary for unit-designation
+characteristics and design data: Entries indude
+mapping: Tne
+following information outlines performance
+key specifications and
+both mechanical and electrical specifications This data sheet ,
+Matera
+details. Check that all materia
+provides
+the specifications and materia
+spec;
+align with supplier certifications;
+revie v
+comijositon
+listed below;
+Product ID:
+CE-905L
+Prepared by: Laura
+5462729
+Approved by:
+Scnmidt
+Date
+2023-12-10
+Model Type
+Coollng Circulation
+System
+Design Pressure
+250 bar
+Fluid Flow
+30 Lmin
+Dimensions (LxWxH)
+1000
+Supply
+50 Hz
+650x 1000
+Service Interval
+Reservolc
+pacity
+10UO h
+Oil Lype
+HLP 32
+Ensure glossary terms
+match the engineering
+Check tnat all section
+nomenclature: Document control numbers are included for
+headers -
+product template: Archive this summary for future
+traceability.
+management AIl summan
+comments have
+been recorded
+desizn-change
+in the revision log:
+Material of Construction:
+uem
+Base
+LED Light Strip
+Battery Pack
+Filled Nxlon
+Beatng 6202 22
+Lithium-Ion Cell Pack
+Digita
+Stainless Steei 304
+Display Unit
+Hex Bolts M12
+ABS Plastic
+Heat Sink ALU
+Zinc-Plated Steel
+Aluminum 6061-T6
+Please
+Documen
+Ho .
+Rossi
+Petet
+Voltags
+follow
+Giass

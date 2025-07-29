@@ -1,0 +1,99 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-492
+GREECE
+Shitt: ,
+Date: 10-03-2025
+MC-?08
+Process
+Worker
+slein
+Agnieszka
+Finish
+me
+Zielinska
+14,30
+16.19
+109
+Comments
+Condition
+MC-203
+progress
+Magdalena
+09,00
+MC 208
+Witkowska
+10.13
+Cutting
+progress
+06.15
+06.57
+MC 206
+Kowalski
+Assembly
+Agnieszka
+In Propress
+12.30
+13,43
+MC-202
+Zielinska
+Welding
+Bartosz
+12,30
+progress
+13,55
+MC-20/
+wizynak
+Delay
+Magdalena
+09 00
+10.21
+MC 204
+Witkowska
+Delay
+Nadla
+Complered
+08.10
+08,51
+Jutet
+MC-203
+Completed
+Nadia
+14,00
+Saute
+15.50
+progress
+Product I6
+Planned @ty
+Actual
+Oty
+Scrap'
+@P-GE0F
+Reworked
+Remarks
+KP-320E
+Units
+1.8930
+TL-Joox
+9,C0%
+198
+10,4190
+TR-ZOOB
+283
+Scrao
+1.0656
+confirmed
+Rewark
+needed
+Approved by: _
+Prepared by;
+CustonET
+(morninel
+Maching
+Dailling
+NIA
+Cutalng
+Delayed
+Cutuing
+Pollining
+Weiding
+SctapE

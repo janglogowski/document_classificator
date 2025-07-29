@@ -1,0 +1,130 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-189
+Customer: BELGIUN
+Shift: =
+(Night)
+Date: 04-10-2024
+Machine
+Operation
+Tecnnician
+Start
+End"-
+Comments
+Condition
+Time
+Spent
+MC-206
+Polishing
+Kowalski
+1030
+12.16
+106
+NIA
+picpiCse
+MC-207
+Walding
+Wiktor
+13.30
+14.44
+In progress
+Kopczyiiski
+MC-209
+Assembly
+Dawvid
+10.00
+10.27
+Delay
+Completed
+Oszmianczuk
+MC-207
+Cutting
+Dawid
+14.00
+15,17
+NIA
+progress
+Oszmianiczuk
+MC 202
+Assembly
+Wiktor
+10.00
+11.37
+Recalibrated
+Delayed
+Kapczyriskl
+MC-206
+Cutting
+Wiktor
+10:15
+11.44
+Delayed
+Kopczynski
+MC-204
+Assembly
+Wiktor
+10:W0
+10.28
+Comdieten
+Kopczynski
+Note any unscheduled
+downtime
+egister. Ensure shift-handover notes include any pending issues
+The performance recap supports the maming E
+briefing
+Refer
+remaiks Ior any rewcrk
+quallly
+concerns- This closure summary signals readiness forthe next production run No critical delays were
+observed; please address
+minor issucs noted
+Item ID
+Target Qty
+Produced
+Scrap Qty
+Scrap %
+Rework Qty
+Notes
+Qty
+QP 660F
+272
+257
+5 51016
+Scrap
+confirmed
+TY-350G
+256
+256
+0.00%a
+Rewotk
+needed
+KP-320E
+171
+154
+9.9496
+Scrap
+confirmed
+SB-I40D
+215
+214
+0.4790
+Scrap
+confirmied
+MC-54oX
+197
+178
+9.6490
+Rewark
+needfm
+SB-140D
+155
+154
+0,6590
+Rework
+needec
+Approved by:
+Prepared by:
+Timnt
+Tine
+stopa
+ogonda;
+any

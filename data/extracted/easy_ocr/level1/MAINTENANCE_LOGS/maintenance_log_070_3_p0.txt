@@ -1,0 +1,102 @@
+Machine Log Summary
+Performed On: 2024-12-21
+Authonzed EX;
+Kowaisk
+Operalur:
+Peier Schmici
+ensune
+safey checks were compleled
+duftinozenvicing
+Refer
+the malntenance register for detailed service histories.
+This section captures equipment siatus
+any maintenance observalions
+Use Ihis summary
+TOrecus
+purs
+replacemen
+ard resource neecs. This servicu surmary
+Ihe reliability enginaenng review.
+this
+Tur recuL 5erice Qales
+types
+anoremnanke
+Section A:
+Un Cade
+MC-264
+MC-?14
+MC-296
+MC-258
+Machine
+Assembly Roboi
+Paint Booth
+CNC
+Machine
+Conveyor Belt
+Service Lype
+Inspection
+preventive
+Lorecive
+Correcin
+Technician
+Carlos Garcia
+Jan Kcralski
+Kowalski
+Peter Schmidt
+ouratian
+Comments
+Replaced fuse
+5A).
+Replaced fusC
+ISA
+Wnocen pailel
+Cnecked
+Section
+Unit Code
+MC-?96
+MC-258
+MC-214
+MC-264
+Machine
+CNC Milling Machine
+Convey
+Bel
+Paint
+4saemni Rohai
+Service Type
+Inspecton
+Inspection
+PrevCMlVc
+Corractive
+Technician
+Carlos Garcie
+LaM?
+Rossi
+Lauira
+Rossi
+tna
+Nowak
+Duraltian
+Comments
+Tightened loose
+aced coolant
+colts
+Reler
+remarks for any follow-UP actions
+reoiacements
+Record any spare parts usage for inventary adjustment
+Confirm Inat
+correclive aclions were prcperly closed OUL
+Uptime
+Erro
+Covnt
+Notes
+97.08"
+Pleast
+Taviey
+ic4
+BUppOn:
+Milllng
+Booin
+Rcd
+Puns

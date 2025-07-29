@@ -1,0 +1,65 @@
+{
+  "engine": "tesseract_ocr",
+  "level": "level2",
+  "total": 1604,
+  "correct": 93,
+  "incorrect": 1511,
+  "accuracy": 0.05798004987531172,
+  "classification_report": {
+    "bill_of_materials": {
+      "precision": 1.0,
+      "recall": 0.0749063670411985,
+      "f1-score": 0.13937282229965156,
+      "support": 267.0
+    },
+    "daily_report": {
+      "precision": 1.0,
+      "recall": 0.20676691729323307,
+      "f1-score": 0.3426791277258567,
+      "support": 266.0
+    },
+    "inspection_report": {
+      "precision": 0.75,
+      "recall": 0.02214022140221402,
+      "f1-score": 0.043010752688172046,
+      "support": 271.0
+    },
+    "maintenance_log": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 254.0
+    },
+    "other": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "product_data_sheet": {
+      "precision": 1.0,
+      "recall": 0.042704626334519574,
+      "f1-score": 0.08191126279863481,
+      "support": 281.0
+    },
+    "quality_checklist": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 265.0
+    },
+    "accuracy": 0.05798004987531172,
+    "macro avg": {
+      "precision": 0.5357142857142857,
+      "recall": 0.04950259029588073,
+      "f1-score": 0.0867105665017593,
+      "support": 1604.0
+    },
+    "weighted avg": {
+      "precision": 0.6341957605985037,
+      "recall": 0.05798004987531172,
+      "f1-score": 0.10164474460972311,
+      "support": 1604.0
+    }
+  }
+}

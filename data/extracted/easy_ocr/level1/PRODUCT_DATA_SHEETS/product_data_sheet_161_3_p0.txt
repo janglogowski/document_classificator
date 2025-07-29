@@ -1,0 +1,34 @@
+Unit Configuration
+Document No: PR-665
+Product
+QP-660F
+2023-10-11
+Unit Type
+Hydraulic
+Unit
+Rated Pressure
+250 bar
+Fluid Flow
+75 Limin
+Operating Voltage
+60 Hz
+Battery _
+Working
+10'C to 50'c
+Pump Type
+Vane Pump
+Framc
+Matenal
+Kiumimum
+Filtration
+10 um retum; 25 um
+Charging Time
+suctlon
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia
+pate:
+Poxer
+nacity
+Temp
+Range
+Erame

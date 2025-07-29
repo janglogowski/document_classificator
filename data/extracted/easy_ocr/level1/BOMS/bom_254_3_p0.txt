@@ -1,0 +1,100 @@
+BOM Report
+All line-item costs are current as per vendor quotes_
+The parts manifest here
+designed t0
+support procurement workllows
+The component roster below includes unit costs and batch
+codes_
+All entries reflect the latest inventory and supplier rates. This document provides
+detailed breakdown of all components required for the assembly process;
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+pCS
+40.50
+Switch
+Bracket
+tested OK
+Hex Bolts
+pcs
+0.25
+5.75
+Li-Ion
+M12
+battery
+installed
+Grease
+pcs
+70.30
+Urgent
+Tube
+250ml
+Bearing
+pcs
+39.00
+Urgent
+6202 ZZ
+Power
+pcs
+1.20
+30.00
+Certified
+Switch_
+batch
+Wooden
+pcs
+15.00
+420.00
+For export
+Pallet
+Digita
+pCS
+15,00
+435.00
+Switch
+Display
+tested OK
+Unit
+Control
+12.00
+48.00
+SKF brand
+Panel
+Mount
+Sensor
+pcs
+0.95
+20.90
+Certified
+batch
+Grease
+pCS
+1.90
+11.40
+Tube
+alignment
+250m1
+adjusted
+Ceramic
+pCS
+2.10
+79.80
+Imported
+Disc 80mm
+This final review confirms that all items are ready for requisition_
+Customer ID: FRANCE
+Coordinator: Peter Schmidt
+Date: 2023-07-12
+Product ID: JD-7OOW
+Internal
+No:: 8930318
+Order Qly: 263
+Total
+Amount:
+200.65
+Hinge

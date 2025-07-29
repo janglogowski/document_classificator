@@ -1,0 +1,143 @@
+Inspection Results Sammary
+05-10.
+performed by Anna Nowak on
+Inspection
+recorded tolerances #gainst engineering
+quality-control
+Revicw
+Use this cxamination summary to confrner
+Thls
+extracts
+timestamped fbr audit pumposes:
+Thls summary of
+measurements
+spedifications
+measured values
+Ilog for all component size readings:
+conformity: Refer
+the dimensional
+component
+suppons metrolcgy traceability:
+21.6*E, Humidity: 36 %
+Environmental Canditions: Temperature:
+Status (VIx)
+Observed
+piff
+Measurement
+Nominal
+~0.07
+@Product Ref
+Component
+23.79
+23.72
+0-Ring NBR
+Hole
+64-7701
++0.01
+6omm
+96,70
+96.71
+Unner
+Wapden
+T0ow
+Diameter
+78.10
+0.02
+Paliet
+78.12
+Battery Pack
+Hole
+10.60
+-0.15
+HF39OA
+10.75
+CE-SO5L
+Hex Bolts
+Hoie
++0,14
+M1z
+26.81
+26.95
+Inem
+VF-2200
+Plastic Rivets
+Diameter
++0.17
+36,81
+36,64
+nner
+XK-G1OU
+Shaft S0Omm
+Dmetci
+40.19
+0.07
+6.26
+Battery Pack
+Hole
+26.31
+0.08
+Zr-ZoSR
+26.39
+0.19
+XD-Z1OR
+Hinge Set
+Heighi
+28.44
+28.25
+Bearing 6202
+Hole
+DX-7771
+40.19
+65.44
+Kale 0
+65.25
+LR-5SSV
+Hex Boits
++0,03
+M1z
+57.61
+57.64
+Hex Bolts
+Hole @
+Gh7701
+M1Z
+95.22
++0.10
+Width
+95.12
+CN-LSCC
+Wopoen
++0.12
+Pallet
+75.79
+75.91
+Hex Bolts
+Hole @
+VF-2200
+0.04
+M1Z
+94.10
+94,06
+power
+Switch
+Thickness:
+86.28
+~0.04
+aP-660E
+Thickness
+86.32
+QN-770H
+Rubber
++0.10
+Gasket BOmm
+89.74
+89.84
+Unnet
+AL-1150
+Hex Boits
+Dllameter
+M1z
+2024
+) siEr-0ff ,
+preparea (
+Gata

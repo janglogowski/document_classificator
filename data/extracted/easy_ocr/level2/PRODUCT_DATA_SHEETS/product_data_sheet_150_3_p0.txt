@@ -1,0 +1,49 @@
+Product Data Sheet
+Internal No:: PR-151
+Product ID
+BZ-660F
+Date: 2024-10-08
+Contiguration Lype
+Hydraulc Power Unit
+Design Pres sure
+300 bar
+Flow Rate
+30Lmin
+Operating Voltage
+480 -
+L60Hz
+Charging Time
+Battery Capacity
+Dimensions (LxWxHL
+1000
+650 X 1O00mm
+Pump Type
+Gear
+Service Interval
+months
+Total
+Weight
+180 kq
+Control Valve
+Manual Ovemde 32
+Noise Level
+I0 dB(A
+Component Materials Overview:
+Item
+Raw Material
+Specification
+Connector 2P
+Glass-Filled Nylon
+tolerance
+Digital Display Unit
+ABS Plastic
+IP6Z rated
+LooM
+PVC (Rigid)
+Class
+tolerance
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+Pump
+Cijss
+Wiring

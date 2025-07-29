@@ -1,0 +1,57 @@
+Tolerance Check
+Supervisor
+Jan Kowaiski
+inspectior
+Date
+2024-05-30
+Item Code
+SL 43M
+ZR-2O5R
+BZ 660F
+RX 3102
+TY-350G
+Part Name
+Hex Bolts M12
+Shaft s0Omm
+Shait S0Omm
+Wooden Pallet
+Hinge Set
+dim
+Heighl
+MmicknasS
+Hole
+Uidl
+Depth
+Nominal
+60,10
+6142
+51.82
+56.43
+08.78
+Observed
+60.09
+61.47
+51
+56.26
+L-U
++UJS
+0.11
+Pass Fail
+PASS
+PASS
+PASS
+PASS
+PaSC
+Ensure all measuring tools were properly calibrated_
+Overall inspection summary indicates acceplable
+quality levels Refer t0 deviation column for any out-of-tolerance measurements_
+Instrurent Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Laser Scanner
+15564
+2025-05-17
+Laser Scanner
+14718
+2025-03-23

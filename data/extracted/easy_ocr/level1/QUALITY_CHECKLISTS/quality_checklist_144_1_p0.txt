@@ -1,0 +1,72 @@
+QC Checklist
+#8108905
+Date: 17.07.2025
+Product ID
+ALI150
+Customer ID
+TURKEY
+Item Description
+Wooden Pallet
+Below are Ine items
+be verified during the final
+product review'
+Use this extract
+coordinate sign-off with
+the QA manager: Ensure all non-conforming marks are clearly documented. This summary supports the
+production-release quality gate: This section details quality requirements and test points for the batch: Use
+(his list
+confirmi adherence
+AQL
+safely standards
+Archive this Iist In tne quality-management
+system;
+Audit Criteria
+Sampling
+Defect Class
+comments
+Levei
+Component Criteria
+Rubber texture or glossiness
+Needs review
+Mismaicn
+Loose parts inside packaging
+Level
+Critical impact
+ncorrec
+barcode
+labcl
+Level
+Critical impact
+ncorreci
+quantity
+Level
+Minor issue bserved
+assortment
+Missing distributor_iniormation
+Leve
+Needs review
+Rubber Swlchnol working
+Needs review
+Exposed nail wilh sharp point
+Minor issue observed
+Package
+nol sealed
+completely
+Carton
+damaged or
+Level IlI
+Needs review
+makking; incorroct
+AQL Level
+Critical
+Major
+Mnor
+Default
+Gustomer
+specific
+Inspection summary
+filed for regulatory compliance- All summary comments have been validated by the
+QA leami;
+Flag any open issues in Ihe CAPA tracking system. Corrective aclions are scheduled for identified
+issues. Confirm that all sampling results are within acceptable limits
+tind

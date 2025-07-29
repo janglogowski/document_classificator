@@ -1,0 +1,85 @@
+Shift Summary
+Report No: PR-645
+Customer: BRAZIL
+shift: € (Night)
+Date: 01-12-2023
+Equipment
+Task
+Technician
+Stant Time
+Toral Time
+Uwagi
+toncnon
+MC-204
+Polishing
+Anne
+12.15
+14.13
+Delzy
+Completed
+Novak
+MC-206
+Polishing
+Banos
+14.30
+16.25
+115
+Completed
+Wawmynia?
+MC-201
+Polishing
+Anna
+09-00
+09*42
+Delayed
+Nowak
+MC-207
+Polishing
+Anna
+07-C0
+07.46
+Celay
+picje
+Nowak
+MC-202
+Drilling
+Bartosz
+14.30
+15.10
+Delaye
+Wawnyniak
+Archive this cutput summary for end-of-dayreporting-Ensure Toutine maintenancebetween shifts t0 maintatn
+consistentoutput Note any unscheduled stops
+the downtime register, Record any adjustnents t0 shift schecules
+staffing here- Confin that 
+percentages align with qualty benchmarks
+Item
+Target Qty
+Achieved Qty
+Rejected Oty
+Relor
+Remars
+Couint
+AL-I150
+202
+183
+9.4120
+Rewotk
+neejec
+L-3313
+Jc02s
+Rent
+needer
+NE-2454
+156
+9.6239
+T-3SCG
+14.6170
+contnmen
+XK-G10U
+13.6729
+Approved Dy:
+Prepared bV: _
+Scizo
+Scrap
+Suap

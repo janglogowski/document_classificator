@@ -1,0 +1,57 @@
+Measurement Summary Sheet
+inspecior
+Peter Schmid
+Inspection Date
+2024 01-11
+This surmary of measurernents supports metrology traceability. This data extract
+prepared for quality -
+contro
+sign-off. This report presents the dimensional measurements and inspection results.
+Item Code
+TX-920V
+VF-220D
+HF-390A
+NE-2454
+VF-220D
+Component
+Plastic Rivets
+Bearng 6202
+Plastic Rivets
+Hex Bolts M12
+Hex Bolts M12
+Measurement
+Width
+Hole
+Thickness
+Lenoir
+Widin
+Nomina
+92.25
+OUbserved
+91.31
+92.0
+15.43
+Delta
+L014
+Pass(Fail
+04Ss
+P4Ss
+P4Ss
+PASS
+ASS
+Overall inspection summary indicates acceptable quality levels . Ensure all measuring tools were properly
+calibrated. This assessment reflects the latest metrology results.
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last
+Calibration Date
+Micrometer
+54992
+2024-10-26
+CMM
+55112
+2025-05-02
+Micromctcr
+44274
+2025-01-29

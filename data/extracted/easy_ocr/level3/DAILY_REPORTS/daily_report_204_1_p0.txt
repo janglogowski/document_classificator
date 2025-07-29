@@ -1,0 +1,102 @@
+DAILY PRODUCTION REPORT
+PR-363
+Report No::
+NORWAY
+Customer:
+Rossi
+Supervisor:
+Logistics
+Department:
+04-10-2023
+Date:
+(Night
+Shift:
+Time Spent
+Remarks
+Task
+Worker
+Stant Time
+NOA
+Machine
+12.00
+13.15
+MC-207
+Polishing
+Matcusz
+Jarzyna
+09.45
+Delay
+MC-205
+Polishing
+Piott
+09.00
+LCwandowski
+Polishing
+Nadia Sauter
+07.07
+Delay
+MC-206
+06.30
+08,26
+Assembly
+WNiktor
+MC-207
+Kopczynski
+13.02
+107
+MC-204
+Welding
+Dawid
+11:15
+Oszmiangzuk
+NTA
+Maieusz
+10.15
+10.40
+MC-205
+Culing
+aruns
+NIA
+11-00
+12.55
+115
+MC 204
+Welding
+Kowalski
+Qty
+Scrap %
+Nores
+planned
+Qty
+Produced Qty
+Rejected
+Rewonk
+needed
+Pant ID
+077c
+Rework needed
+AM-B6ON
+4380
+DX-7Z71
+208
+13.2250
+Scrap
+BZ-SGCF
+295
+256
+confirmed
+5585
+AL-115Q
+190
+3.8800
+Rework needed
+RM-BGON
+103
+00%0
+TY-3506
+Jan Kawalski
+Prepared by:
+Laura Rossi
+Approved by:
+Laui
+06 00

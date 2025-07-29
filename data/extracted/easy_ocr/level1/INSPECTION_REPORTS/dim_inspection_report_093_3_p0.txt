@@ -1,0 +1,104 @@
+Dimensional
+Inspection performed by Laura Rossi on 2024-01-30.
+The inspection register below highlights any out-of-tolerance parts. All measured values are timestamped for
+audit purposes_
+This section details the measured values, tolerances, and status flags. Entries include both
+passIfail markers and deviation magnitudes. The following data captures key dimensions and ay deviations
+identified_
+Environmenta
+Conditions: Temperature=
+23.8 "C , Humidity: 49 %
+Product
+Component
+Measurement
+Target
+Observed
+Delta
+Status (VIX)
+MC-540X
+Shalt
+Depth
+87.46
+87.41
+-0.05
+OK
+soOmm
+KP-320E
+Wooden
+Length
+37.75
+37.60
+~0.15
+Ok
+Pallet
+MR-160H
+Shalt
+Height
+98.75
+98.88
++0.13
+OK
+s00mm
+TX-820v
+Hex Bolts
+Height
+89.32
+89.29
+0.03
+OK
+M12
+PL-601Z
+Power
+Length
+77.44
+77.42
+0.02
+Ok
+Switch
+MS-6OOP
+Rubber
+Width
+56.48
+56.51
++0,03
+Gasket
+BOmm
+DX-777T
+Graphite
+Hole
+13,30
+13.38
++0.08
+Ok
+Pad
+TR-ZOOB
+Graphite
+Length
+41.89
+41.84
+~0.05
+Ok
+Pad
+I-9OX
+Thickness
+40.69
+40.81
++0.42
+MX-A50L
+Bearing
+Height
+31,63
+31.78
++0.15
+6202 ZZ
+RE-850C
+0-Ring NBR
+Inner
+78.09
+77.92
+-0.17
+OK
+60mm
+Diameter
+Log
+Hinge

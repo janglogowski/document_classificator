@@ -1,0 +1,81 @@
+Quality Checklist
+Revicw Points
+Sampling
+Classification
+Levei
+Comments
+Design Specs
+Critical
+Major
+OnHold
+Dead
+Iive insect
+packaging
+Level Il
+Incorrect orentation in
+Level
+Carton ;
+caniaged
+markings incorrect
+Needs review
+Hnges
+Level
+Rubber texture
+Critical impact
+glossiness mismatch
+Level |
+Critical impact
+Incorrect barcode or
+abel
+Level /
+Minor
+Missing safety labels_
+Levc
+observed
+Screws
+OOS@ Or
+missing
+Critical impact
+Loose parts inside
+Level Il
+packagng
+Color mismalch
+Level |
+Minor issue
+lncorrcct
+quantty
+observed
+assonment
+Level Il
+Critical
+impact
+Connector not working
+Level
+Package
+nal sealed
+Crilical impact
+completely
+Level II
+issuC
+obsenveo
+Battery not included
+Instruction manua
+missing
+damaged
+Level /
+Needs review
+Sharp edges on plastic
+components
+Level |
+Minor issue
+Reference Standards:
+dbsened
+Standard
+Edition
+RoHs
+2011
+IEC 61010
+4th Ed
+Minor
+Issue
+Minor

@@ -1,0 +1,91 @@
+Production
+Report No_
+PR-913
+Customer: BELGIUM
+Shift:
+(Night)
+Date: 01-09-2023
+Equipment
+Operation
+Worker
+From
+Duration
+Uwagi
+Stage
+(min
+MC-202
+Assembly
+Przemystaw
+11,30
+13 00
+Recalibrated
+Wasik
+progress
+MC-202
+Assembly
+Przemyslaw
+14.15
+15.17
+Delayed
+Wasik
+MC-208
+Welding
+Matcusz
+06.00
+07.03
+OK
+Delayed
+Jarzyna
+MC-20g
+Cutting
+Jan Kowalski
+09.30
+10.34
+Delay
+progress
+MC-205
+Welding
+Dawid
+10.30
+11.49
+Delayed
+Oszmiaiczuk
+Item ID
+Planned
+Produced
+Defect Qty
+Failure %
+Rework Qty
+Uwagi
+Qutput
+Qty
+MR-160H
+240
+240
+0.00%
+Scrap
+confirmed
+HF-390A
+225
+223
+0.89%0
+Rework
+meeded
+XD-ZOR
+300
+296
+3300
+VF-220D
+MR-160H
+267
+256
+12%
+Rework
+needed
+FT-730X
+140
+138
+4380
+Approved by:
+Prepared by:
+Log

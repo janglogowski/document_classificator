@@ -1,0 +1,92 @@
+Conformance Log
+#1310681
+Date: 17.07.2025
+Product ID
+XD-71OR
+Customer ID
+BELGIUM
+Item Description
+Rubber Stopper
+Archive this listin the quality-management systern: Inis sumimiary supports tre production-release quality gate-
+Entries include both visual and functional inspection items: All checklist entries are timestamped for
+traceability: This section details quality requirements and test points for the batch: This closure summary
+indicates compliance witn Inspection criteria: Use thls extract
+coordinate sign-olf with the QA manager.
+Audit Criteria
+Sample
+Category
+Notes
+Tier
+onent Criteria
+Critical
+Major
+Minor
+OnHold
+Dead
+live insect in
+Level III
+Needs review
+packaging
+Shipping mark is illegible
+Level |
+missing
+Missing safety labels
+Level II
+Needs review
+defect on housing
+LAvA
+Needs review
+Incorrect barcode or label
+Level
+Battery not included
+Level
+Critical impact
+Exposed nail with sharp
+Level III
+Needs review
+Dusudebris inside
+Level Il
+packaging
+Colar msialcn
+Level |
+Product doesn'
+power on
+Level
+impact
+Incorrectquantin
+Level Il
+Critical impact
+assortment
+Hinges
+0058
+Level II
+Needs review
+Wrong
+nroducisize
+Cntica
+impact
+AQL Level
+Critica
+Ninor
+Default
+Customer
+specific
+Ensure thalall remarks nave corres
+ponding evidence
+#tachm enis
+This fInal note
+conlirms the checklist Is
+compi
+approved
+Overall quality status indicates compliance with defined AQL levels
+All critical and
+maio
+pection points have been addressed. Archive this summary
+audit-readiness folder. Corrective
+actions are scheduled for Identiliedissues.
+Comp
+Visua
+point
+Crtical
+Malon
+and

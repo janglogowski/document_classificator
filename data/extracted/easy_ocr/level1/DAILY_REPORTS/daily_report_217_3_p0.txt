@@ -1,0 +1,93 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-503
+Customer: POLAND
+Shift:
+(Evcning)
+Date: 16-09-2023
+Machine
+Task
+Worker
+Start
+Tme
+Remarks
+Stage
+Ime
+Spent
+MC-202
+Welding
+Anna Nowak
+13.30
+14.33
+Recalibraled
+progress
+MC-201
+Cutting
+14.00
+15.32
+NA
+Completed
+Kopczynski
+MC-204
+Welding
+Magdalena
+13.15
+13.45
+NA
+Completed
+Wilkowska
+MC-201
+Drilling
+Dawid
+13.30
+14.40
+Completed
+Oszmianczuk
+MC-206
+Assembly
+Dawid
+07:15
+07.44
+Recalibrated
+Delayed
+Oszmianczuk
+MC-208
+Welding
+Mateusz
+11.00
+12.37
+Completed
+Jalzyna
+Note any unscheduled stops
+the dovntinie register. Refer
+remarks for any rework or quality concerns
+All operator notes have been archived for review: Ensure shift-handover notes include any pending issues_
+Overall production performance met expectations for the day:
+Item ID
+Planned
+Actual Qty
+Rejected
+Scrap %
+Rework Qty
+Notes
+KP-320E
+131
+12 08%
+SL-430M
+232
+224
+3.45%0
+MR-160H
+111
+103
+7.21%
+Rework
+nceded
+DX-777T
+150
+135
+10.00%
+Rework
+needed
+Approved by:_
+Prepared by:
+Wiklc

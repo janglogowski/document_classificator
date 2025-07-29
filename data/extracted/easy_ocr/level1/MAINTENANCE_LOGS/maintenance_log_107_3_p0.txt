@@ -1,0 +1,123 @@
+Equipment Record Report
+Perfommed On: 2024-05-29
+Kuthonizcd Dy"
+nnil Nolrl
+Uperator;
+Carlos
+GbrCIS
+Entries include  Drk orqere
+techniciz
+Baaignmente
+ano Dart
+changes
+Fnsure bI
+checks vrere completed
+servicing
+Belou
+Ine summar
+Senaice actons ano
+dotvntimes
+each machine
+Usethis summary to forecast parts
+[g Dlacemant and rg5urcC ng8os
+This sectioncaptures gquipment status wno &ny maiintenance ooserations
+Seclon
+unit Code
+HC-255
+MC-261
+MC-264
+MC-256
+MC-280
+FC-zud
+Equlpment
+Conveyo
+Belt
+Packaging
+CNC Milling
+Packaging
+Conveyor Belt
+Lese
+Cutter
+Maching
+Service Type
+Corrective
+Preventive
+Lomective
+Corrective
+Correctn s
+Unspecuion
+Tecnnician
+Carlos Galcii
+Peter ychmidt
+Jan Kov alski
+Anna Ncvak
+AnnaNoak
+peter %chmidt
+Downtimc
+Notcs
+Worn gasket
+Wooden pallet
+Alignment
+No issugs-
+Replaced
+reolaced;
+Eneched
+hinges
+lnd;
+cuolania
+adiusted
+Section
+Unit Codc
+MC-261
+HC-J65
+MC-280
+MC-220
+MC-264
+HC-256
+Equipment
+Packaging
+Convveyor Belt
+Conveyor Belt
+CNC Nilling
+CNC
+Packaging
+Line
+Machine
+Machine
+Selvice [Ype
+Inspection
+Corrective
+nswetuui
+Coieciive
+Inspection
+Inspeclion
+canictAn
+Carlos Gercia
+Hone oA
+Canos
+Larcis
+4naNova
+Koueleki
+{oivalak
+Dowantimi
+Note5
+KupnMent ot
+ReplACBd tuse
+Menibneo
+Lk-on patter'
+Chanzed CI
+Calidration
+hinges
+Hcose
+bolts
+Dick sunviced,
+und filters,
+check OK:
+adiusted
+Uptime (%6)
+Count
+Comment?
+95.3106
+ialety
+dunng
+Ml"e

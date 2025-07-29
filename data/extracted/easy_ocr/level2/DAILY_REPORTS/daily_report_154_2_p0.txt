@@ -1,0 +1,98 @@
+Shift Summary
+Report E
+PR-151
+Customier;
+BRAZIL
+Supervisor:
+Kowalski
+Department:
+Packaging
+Shift:
+Kevenine
+27-04-2024
+Equipment
+Operation
+Operator
+Start
+Total
+pemarke
+Tomp
+Enargy
+Time
+Time
+(FCi
+(kWh)
+MC-202
+Assemibiy
+Dawid
+13;15
+13.50
+70,7
+1.91
+Oszmianczuk
+MC-207
+Cutting
+Przemnys Aw
+10;00
+11.25
+77.8
+2.02
+Wasik
+MC-203
+Assembiy
+Magdalena
+09:15
+11;04
+78,2
+2,27
+Wvitkowska
+MC 205
+Cutting
+Magdalena
+06.30
+08.03
+Recalibrated
+79,5
+2.05
+Witkowska
+MC-203
+Polishing
+Przemystaw
+08:15
+09.43
+Recalibrated
+56.1
+2.57
+Wasik
+MC-209
+Cutting
+Dawid
+14.30
+15.09
+Recallbrated
+60.8
+2.80
+Oszmlanczuk
+MC-204
+Driling
+Piou
+08.15
+09.28
+Delay
+Ein
+1.19
+Lewandawski
+MC-20S
+Cutung
+Nadla Sauter
+03.30
+11.22
+Recalibiala @
+65.2
+192
+Prepared by:
+Launa
+Poss
+Approved DY:
+Anna Nowak
+No;.

@@ -1,0 +1,73 @@
+Product Overview
+Documen
+9420132
+Prepared
+Caros Garcia
+Approved
+Jan Kowalski
+Location: Plant 3A
+Date
+2024-09-08
+Confirm that performance ranges comply with project requirements
+This technical overview supports the
+product-release checklist: This report extract
+prepared for design-verification audits- Entries include both
+mechanical and electrical specifications. Below are the technical parameters and construction materials for
+the unit
+Model Type
+Pneumatic Control Unit
+Rated Pressuro _
+250 bar
+Fluid Flow
+48 Lmin
+Operating Voltage
+400 V { 50 Hz
+Service Intorval
+12 months
+Working
+Range
+to 55"C
+Protection Class
+IPS7
+Cooling
+Water-cooled
+exchanger
+Noise Level
+68 @BLAL
+Qil Lype
+HLP 46
+Pump Type
+Vane
+Filtration
+10 pm return, 25 pm
+suction
+Dimensions
+LxWxH)
+1200
+700 *
+100 mm
+Total Weight
+230 kg
+Mounting
+Rack Jrame
+Reservoir Capacly
+Charging Time
+Frame Material
+owder-coated Stee
+Material of Construction:
+Part
+Raw Material
+Thermal Fuse
+Ceramic Oxide
+Battery Pack
+Lithium-Ion Cel
+Pack
+Insulated Tube 25mm
+Themoplastic Polyurcthane (TPU)
+Graphite Pad
+Graphite Pad
+Suppor Foot Stee
+Stainless Steel 304
+Pro
+Temp:
+Pump

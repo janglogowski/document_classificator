@@ -1,0 +1,68 @@
+Conformance Report
+#4685645
+Date: 17.07.2025
+Product ID
+AL:|150
+Customor ID
+TURKEY
+Itom Doscription
+Spring Washor Mio
+Below are Ihe Ilems to be verilled during Ihe Ilnall product revlow:
+Use (his extract
+coordinate sign-off wilh
+Ihe QA managor . Chock Ihat inspecllon stops follow Ihe approved procedure, This soction dotalls
+requiremients and Iest points for Ihe batch
+Confiri that sampllng lavels comiply wilh customer agreements
+This closure summary Indlicales compllance wilh Inspection criteria: Use thls Iist
+adherence t0
+AQL and safely standards
+Audit Criterla
+Sample
+Category
+Comments
+Tler
+omooneni
+Crlterla
+Hlnges Ioose
+Levell
+Connector not working
+Level
+Nol asseinbled us per drawing
+Level
+Minor issuU Obsenved
+product slze
+Lavei
+Needs review
+Wood splinter Or sharp point
+Level
+on producl
+Exposed nail wilh sharp point
+Missing dstributor infomalion
+Noeds roviow
+Insiruclion manual
+missing
+Needs ravlew
+damaged
+Color mlsmalch
+uvui
+Crilical Impact
+Visual delect onhousing
+Aval
+Mlnor Issue observed
+ncoruc
+quantily =
+Minor issue observed
+Aeeonmcni
+AQL Lovol
+Crilical
+Major
+Minor
+Default
+Customer specililc
+Correcilve acllons are scheduled for Idenlilled issues, Items marked for hold requlre addillonal review before
+relense
+Confirm Ihat all sampling results are within accoplable limits, This Iinal note confirms Ihe checklist Is
+complete and approved:
+quallly
+canmn
+Wrong

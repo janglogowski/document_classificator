@@ -1,0 +1,78 @@
+BOM Report
+The component roster below includes unit costs and batch codes; This section outlines the parts; unit
+prices and total amounts for assembly: This document provides
+detailed breakdown ofall components
+required for the assembly process: This summary lists every Item required, with per-unit pricing details
+Item
+@ty
+UoM
+Rate
+Amount
+Remarks
+Descrption
+Rubber
+pCS
+0.55
+19.25
+Urgent
+Stopper
+LED Light
+2.50
+30.00
+ROHS
+Strip
+compliant_
+Wooden
+15.00
+510.00
+Li-Ion
+Pallet
+battery
+installed
+Cable Tie
+0.95
+6.65
+Eco
+Pack (100,
+compliant_
+Piastic
+1.10
+27,50
+Li-Ion
+Cover
+battery
+15Ox150
+installed
+Sensor Ciip
+pCS
+0.95
+14,25
+Eco
+compliant
+Plastic
+pCS
+0,20
+Switch
+Rivets
+tested OK
+Wooden
+pCS
+15.00
+360.00
+ISO-verified
+Pallet
+Final amounts include
+handling and logistics costs where applicable. Ensure archival ofthis materials
+summary for compliance records This closure summary validates that all parts are approved for release.
+Verify that all remark items meet the sourcing department' s standards
+Customer ID: BELGIUM
+Coordinator: Jan Kowalski
+Date: 2025-03-24
+Product ID
+VR-940T
+Interna
+4007721
+Order Qty: 283
+Total
+Amount:
+973.05

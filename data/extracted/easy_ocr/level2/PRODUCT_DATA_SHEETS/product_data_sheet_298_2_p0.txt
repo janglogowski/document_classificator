@@ -1,0 +1,69 @@
+Product Overview
+Please
+review the
+specifications and materia
+composition listed below. The parameter reglster below includes
+operating limits and ratings The following information outlines performance characteristics and design data: Check
+that
+materiz
+specs
+align with supplier certifications: Confirm that performance ranges
+comply with project
+requirements All data entries are traceable -
+design revision history.
+Product
+GL-9805
+Document Nc
+PR-207
+Prepared by: Peter Schmiat
+Approved by: Anna
+Mowiak
+2025-04-27
+Unit Type
+Pneumatic Control Unit
+Operating Pressure
+210 bar
+Throughput
+30 L/min
+Operating Voltage
+50 Hz
+me
+Oil Type
+HLP 32
+Charging
+Dimensions (LxWxH)
+1200 _
+700 :
+I0U
+Mounting
+Rack trame
+protecion Clas_
+Reservoir Capacity
+Flag any missing parameters for urgent =
+specification
+Archive this summary for future design-change
+mtent
+Ensure
+that the listed materials are approved for the application. Check that all section headers follow
+Manace
+the product template
+Ensure glossary terms
+match the engineering
+nomnencature
+Material af Construction:
+Lamposition
+subcomponent
+Graphite Pad
+Graphite Pad
+Nitrile Rubber (NBR)
+Cable
+Pack (400L
+Brass
+0Z1)
+Pressure
+Valve
+3Mbbe
+Gaskel summ
+Nitrile Rubber INBRL
+pate
+undales

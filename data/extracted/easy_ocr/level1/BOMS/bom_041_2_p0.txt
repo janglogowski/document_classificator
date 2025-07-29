@@ -1,0 +1,29 @@
+Customer ID: FRANCE
+Prepared by: Anna Nowak
+Product ID: MC-540X
+Internal No.=
+8665213
+The parts manifest here is designed to support procurement workflows. All entries reflect the latest
+inventory and supplier rates_
+Please review the itemized list of parts and material specifications
+before procurement: This extract shows the bill of components and totalprojected spend
+Item Description
+Clamp Ring 12Omm
+Heat Resistant Sleeve
+Shaft 500mm
+Qty
+595
+912
+284
+UOM
+Unit Price
+2.70
+Amount
+1,041.25
+462.40
+272.00
+Remarks
+SKF brand
+For export
+SKF brand
+TOTAL: 5,775.65

@@ -1,0 +1,45 @@
+Customer ID: TURKEY
+Prepared by: Jan Kowalski
+Product ID: MC-540X
+Internal No:: 5441817
+All line-item costs are current as per vendor quotes_
+The component roster below includes unit
+costs and balch codes_
+All entries reflect the latest inventory and supplier rates. Review the
+materials tally for compliance with budget allowances: Use this breakdown t0 verily sourcing and
+cost estimates
+Item
+Rubber
+Bearing 6202
+Stainless Bolt
+Ceramic
+Stainless Bolt
+Description
+Stopper
+M8
+80mm
+M8
+Qty
+695
+988
+804
+569
+UOM
+Unit Price
+Amount
+382.25
+482.00
+281.40
+404.90
+201.95
+Remarks
+Switch tested
+SKF brand
+Certified
+OK
+alignment
+batch
+adjusted
+TOTAL: 3,752.50
+Disc
+Hinge

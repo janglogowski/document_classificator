@@ -1,0 +1,58 @@
+Equipment Record Report #4391440
+Dall:
+2025-01-23
+Unit Codc
+EquiPMcnt
+Hccnnician
+Downtimr
+Commcnts
+MC-234
+Hvdrzuic Press
+Lorrecoive
+Anna Nowar
+Plant 2B
+sensor
+recalinrated
+MC-237
+Fiasma Lutier
+preventive
+Laura Rossi
+Fiant ZB
+sensor
+(#Clibnid
+ML-265
+CNC Milling
+Inspecticn
+Jankowalsk
+Plant 2B
+Sritch contacts
+Michine
+cle-ne d
+MC-297
+Aydrzulc Press
+Lorrecoive
+Feter cchmidt
+Piant 3A
+Worn Fasket
+fep aced
+MC 272
+Paint eooto
+corrcctvt
+ectcr Schmidt
+Plant IC
+caliaration
+check O<.
+This Icg summa
+supports the
+asset-Manazeme
+dashbozrdi
+Check remaining life-cycle
+kev components from this report_ Use
+scicaunenot
+update thc maintenance KPI tracker , Flag any recurring issuts tor root-causc investigation_
+Lupricalicn Checked
+Clbhlicn Ventica
+eMerzency"
+Stop Tested
+Aulnoized DY;
+OpealOr:

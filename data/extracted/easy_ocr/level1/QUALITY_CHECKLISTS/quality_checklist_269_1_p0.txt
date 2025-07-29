@@ -1,0 +1,86 @@
+Quality Inspection List
+#9136280
+Date: 17.07.2025
+Product
+BZ-660F
+Customer
+POLAND
+Item Description
+Rubber Stopper
+Use this list
+contirm adnerence
+AQL and safety standards; Confirm that sampling
+levels comply with customer
+agreements This checklist captures quality inspection points and sampling levels This section details quality
+requirements
+for the batch; Check that insnection steps follow the approved procedure
+The following
+Fahle
+outlines
+inspection criteria and classification levels
+Inspection Checklist Points
+Inspection
+Defect Class
+Depth
+Design Specs
+CrItical
+Minor
+OnHold
+Wrong product size
+Necds review
+Carton
+damaged
+Level IlI
+markings incorrect
+Package
+not sealed
+Critical impact
+campletely
+se
+Leve
+Needs review
+Produc
+doesi
+powrer On
+Leve
+Impac
+screws
+DOSE
+missing
+Mlinar issue
+Jbserved
+Incorrec
+Hentatcn
+aTk
+Needs revip
+Shipping rark 
+illegible or
+missing
+Connector not working
+Visual defect on housing
+AQL Level
+Critical
+Vaior
+Minc
+Default
+Customer
+specific
+Inspection summary is tiled for regulatory compliance
+Confirm that all sampling resuits are within acceptable limits;
+Flag
+ISue
+the CAPA tracking =
+yster  Checklist results have been reported to the quallty manager.
+Carrectnve
+actions are scheduled for identified issues- Archive this summary
+the audit-readiness folder. Overalll
+quality status indicates compl
+with detined AQL levels.
+and
+polnts
+Notes
+Mijor
+Hinges
+Critica
+open
+Mance

@@ -1,0 +1,131 @@
+Inspection performed by Anna Nowak on 2024-04-23.
+The
+following data captures key dimensions and any deviatians identified. This summary of measurements supports
+metrology traceability: Entries include both pass/fail markers and deviation magnitudes
+Below are the recorded
+mcasunemcnts
+compared against nomina
+tolerances All measured
+VJlcs JIC
+timestamped for audit purposes
+This
+section details the measured values
+lerances,
+Jno Satus
+flags.
+Environmenta
+Conditions: Temperature
+24.0
+Humidity: 31 %
+Article No_
+Part Name
+Measurement
+Nomina
+Actua
+Diff
+Status (VIX)
+TR-?COB
+Steel Sheet
+Hole
+71,66
+71.79
++0.13
+A36
+ID-700w
+Rubber
+Tnickness
+13.60
+13.52
+0.08
+Gaske
+GH-7701
+Battery Pack
+Wiath
+60.38
+50-51
++03
+BZ-S60F
+Steel
+Sneet
+Width
+29.98
+30.08
+40.10
+436
+TX-820v
+Rubher
+Height
+98,89
+98.81
+0,08
+Ga5-et *umm
+ID-700w
+Bearing 6202
+Width
+46.69
+46.63
+0Os
+TX-820v
+powersivirch
+Length
+86,03
+86 01
+-
+AZ-300T
+Shaft
+Depth
+44.66
+44.48
+MR-I60H
+Battery Pack
+Inner
+54.60
+54.44
+0.16
+Diameter
+TX-820v
+0-Ring NBR
+Tnickness
+35.91
+36.01
++0.10
+60mm
+TX-320V
+Hinge Set
+Tnickness
+42.22
+42.05
+-DT
+5L-430M
+Powe
+Switch
+Wicth
+21.85
+21.99
+40 13
+KP-320E
+Bearing 6202
+Depth
+97.69
+97.62
+-0.07
+PW-S15Y
+0-Ring NBR
+wiuth
+88.00
+88.02
++0.02
+GOmm
+QP-660F
+Plastic Rivets
+Length
+89.01
+89.18
+t0.7
+GH-770
+Shaft 5Omm
+width
+5.86
++0.12
+Bomm
+codmm

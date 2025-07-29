@@ -1,0 +1,59 @@
+Product Data Sheet
+Document No: PR-587
+Product ID: AZ-300T
+2024-10-05
+Model Txpe
+Cooling Circulation
+Rated Pressure
+300 bar
+System
+Fluid Flow
+75 4imin
+Operating Voltage
+400 VISO Hz
+Battery Capacity
+Mounting
+Skid base with vibration
+pad5
+Charging Time
+Motor Power
+I14
+Reservoir
+Capacity
+160
+Working
+5 Cto45"C
+Frame
+Mlateria
+Powder-coated Stee
+Pump
+Type
+Piston Pump
+Component Materials Overvleve:
+LJbC
+Raw Material
+Specification
+Connector 2P
+Glass-Filled Nylon
+Class
+tolernce
+Rubber Gaske
+SOmm
+Nitrile Rubber (NBR)
+ISO 2768
+Support Foot Stee
+Stainless Stee
+Heat-resistant
+Graphite Pad
+Graphite Pad
+certned
+Pressurc
+Valve
+Brass C212L
+P6Z rated
+Preparec
+by: Peter Schmidt
+Approved by: Anna Nowak
+Date.
+Temp
+Range

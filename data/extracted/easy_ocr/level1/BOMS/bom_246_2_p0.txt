@@ -1,0 +1,38 @@
+Customer ID: BELGIUM
+Prepared by: Peter Schmidt
+Product ID: DX-777T
+Internal No.: 7836045
+Item
+Bearing 6202
+Gasket Sheet
+Cable Tie
+Control Panel
+Spring
+Description
+Pack (100)
+Mount
+Washer M1O
+Qty
+699
+262
+533
+828
+135
+UOM
+Unit Price
+0.05
+Amount
+6048.50
+327.50
+506.35
+9,936.00
+6.75
+Remarks
+SKF brand
+Li-Ion battery
+ROHS
+Imported
+installed
+compliant
+TOTAL: 11,825.10
+pcs

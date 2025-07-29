@@ -1,0 +1,40 @@
+Customer ID: SWEDEN
+Prepared by: Anna Nowak
+Product ID: AL-1150
+Internal No:: 9959552
+No
+Item
+Plastic Cover
+Steel Sheel A36
+Plastic Covor
+Insulaillon Foam
+Descriptlon
+150x1so
+150x150
+Pad
+Qty
+508
+631
+630
+430
+UOM
+pcs
+pCs
+pCs
+Unlt Price
+1,10
+3.20
+Amount
+558,80
+3,155.00
+693,00
+376.00
+Remarks
+aiignmeng
+Switch tosted
+SKF brand
+SKF brand
+adjustad
+OK
+TOTAL: 5,782.80
+Hinge 

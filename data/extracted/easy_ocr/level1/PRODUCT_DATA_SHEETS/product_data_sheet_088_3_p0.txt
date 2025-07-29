@@ -1,0 +1,66 @@
+Product Data Sheet
+Report
+PR-578
+Product ID: BZ-660F
+Date: 2024-05-31
+Configuration Type
+Hydraulic
+Unit
+Design Pressure
+210 bar
+Fluid Flow
+75 Limin
+Voltage
+400 V
+50Hz
+Cantrolvale
+Dinecons
+Total Weight
+250kg
+SCrvicc
+Interal
+500
+cooling
+Alr-coolcd Oil radiator
+Working
+IO"(
+50"€
+Mounting
+Wji-mounted
+Dimensions (LxWxH)
+1200
+700
+1100 mm
+Component Materials Overviewe:
+Kem
+Base
+Specification
+battery Pack
+Lithium-lon Cel Pack
+DINEN 10025
+Powe
+Wtct
+Polycarbonate
+Copper
+ISO 2768
+Cooling Gel Pack
+Silicone Rubber
+10025
+Bearing
+60
+Stainless Steel 304
+DIN EN 10025
+Gasket
+Nitrile Rubber INBRI
+DIN
+10025
+Wodden
+Treated Pine Waod
+certified
+Prepared by: Anna Nowak
+Approved by: Carlos Garcia
+No:;
+Poxer
+Tcmp
+Runge
+Sheet

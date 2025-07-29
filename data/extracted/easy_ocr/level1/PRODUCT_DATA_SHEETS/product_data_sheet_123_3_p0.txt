@@ -1,0 +1,42 @@
+Report No: 5626879
+Product ID
+SL-430M
+Dale: 2024-12-30
+Unit Type
+Hydraulic Power Unit
+Operating Pressure
+300 Dar
+Throughput
+30 Umin
+Supply Voltage
+230
+S0Hz
+Total Weight
+180
+Pump_ Type
+Vane Pump
+Mounting
+Skid base with vibration
+Oil Type
+HLP 32
+pads
+Control Valve
+Directional 4/3
+Working Temp Range
+10'Cto 552C
+Component Materials Overview:
+Padt
+Raw Materal
+Speciiication
+Heat
+Sink ALU
+Aluminum 6061-T6
+Heat-resistant
+Nut M6
+Zinc-Plated Steel
+certilled
+Pressure Valve
+Brass CZ121
+CE certiled
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia

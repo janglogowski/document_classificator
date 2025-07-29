@@ -1,0 +1,124 @@
+Machine
+Summary:
+Perfarmed On: 2024-11-26
+Athonzed
+Latra Ross|
+Operaton
+Jan Kuwalski
+The follo mnng entrias detall preventive and corrective maintenance tasks: Please revew thls log 
+eceni
+service dates,
+types,and remaris The equipmert log below includes fault codes and corrective notes: This logrecords all maintenance
+actvlie;
+perdimed on the equlpment This secton captures equipment status and any ma
+obsertations: Entriles
+Include Vokotders
+technician assignmente
+and part
+changes;
+Section .
+Unt Code
+MC-266
+HC 216
+MC 212
+MC-277
+MC-287
+MC747
+Equpmant
+CNC Mmlling
+Plasma Cutter
+CNC
+Milling
+CNC Milling
+Packaging
+Lathe
+Nachine
+Hachine
+Machine
+Uydo
+Inspecuon
+Inapuclon
+Insducton
+Preventive
+Correclive
+Inspeclion
+Opcrtor
+Carlos Garcia
+Kowalski
+Poter Schmidt
+Luura Rossi
+Peter Schmidt
+Laurd Aossl
+Duration
+Hoics
+Woodan pallet
+Alanmento
+Tightened
+Rced Ol
+Changed oil
+Changed ail
+checkem
+loose bolts-
+(HLP 46)-
+and filtets_
+andnets
+aolusted
+Sectton B:
+Uut Code
+HC 266
+KC 212
+NC 287
+HC 277
+MC-242
+MC-216
+Enminmeni
+CNC Milling
+CNC Milling
+Packaging
+CNC Milling
+Lathe
+Piaym
+Cutter
+Machine
+Machine
+Nacnine
+Type
+Ptevontivg
+cotrucuvu
+Corroclivu
+Correciu
+Preventive
+Concclvu
+Oporator
+Carios
+barcia
+Jan Aowalsd
+Caros Garcia
+Anne
+No vak
+Anna Nowar
+Anna Nowar
+putution
+Hots
+Aanmentoi
+Refilled oil
+Replaced fuse
+Switch
+WWooden pallet
+(HLP 45)4
+(SAJ"
+contocts
+checked-
+adjusted
+cleanedi
+Uptima
+Ertor Count
+Comments
+194.5198
+Bolt tgntened
+Log"
+DY"
+intenanee
+"Line
+rungon
+hinge =

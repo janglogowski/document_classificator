@@ -1,0 +1,80 @@
+Conformance Log
+Teviv
+each checkiist point and mark the
+sampling
+[Csulls
+Reler=
+the quallty register for sampling-plan
+references, This section details quality requirements and test points for the batch; All checklist entries are
+timestamped fo
+traceabillty. Check that Inspection steps follow the approved procedure- Archive this Iist in the
+quallty-management system: Use this Ilst t0 confirm adherence
+ACL and salety standards:
+Product ID
+LK-890B
+CustomerID
+TURKEY
+Item Description
+basket Sneet 44
+Inspection Checklist Points
+Sample Ticr
+Severity
+Rcmarke
+Item specs
+Critical
+Mdior
+OnHold
+Packaging does no
+match
+Level IlI
+signed sample
+Missing safety labels
+Leve
+Needs revielv
+Incorrect narcode
+labe
+Minorissue onsenec
+Visual defect _
+housing
+Criticall impact
+Package
+not sealed
+Level IlI
+Minor
+issue onseniec
+comniete"
+Shipping mark is illegible or
+Level |
+Missing
+Sharp edges
+plastic
+review
+Level |
+Needs
+comnanents
+Produc
+doesn _ power Dn
+evd
+Needs review
+Functionaly test
+failed
+Crtical impact
+Unstructon mnarua
+Mssine
+Minor issue observed
+damage
+proquct size
+Needs review
+dt
+level
+Culca
+Impact
+Incorrect orientation in box
+Levei
+Crtical impact
+Supervised by: _
+Date:_
+please
+Rin 0f
+Wiong
+Hinges

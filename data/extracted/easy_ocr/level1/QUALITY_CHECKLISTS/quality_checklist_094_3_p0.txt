@@ -1,0 +1,66 @@
+Inspection Checklist
+Quality Check [
+Check
+Classification
+Observations
+Intensity
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Paint smearing
+Level IlI
+Critical impact
+scratches
+Shipping mark is illegible
+Level III
+Critical impact
+missing
+Product docsn t powcr on
+Needs iCvicw
+Rubber texture
+Level IlI
+glossiness
+mismatcl
+dGtecion
+nousing
+LEvCi
+Minor ISSUG bseived
+Connectc
+working
+Levei
+Needs
+ECEi
+Packaging does notmatch
+Critical impact
+signed sample
+Screws
+W@SE
+Mssie
+Needs review
+Missing safety labels
+Needs
+Bviem
+Missing distributor
+Minor issue observed
+Utormnation
+Exposed nail
+Mmt
+sharp
+LevelIl
+Minor Issua obseived
+point
+Incorrectonentationin
+Level |
+Necds revicw
+box
+Refererce Standards:
+Stundard
+Edition
+CE Directive
+2020
+IEC 61010
+3rd Ed.
+Items
+Visud

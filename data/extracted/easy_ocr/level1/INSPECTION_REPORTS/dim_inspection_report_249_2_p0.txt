@@ -1,0 +1,70 @@
+Component Dimensional Check
+Technician
+Peter Schmidt
+Inspection Date
+2023 09-20
+Below are the recorded measurements compared against nominal tolerances
+Use this results summarv
+trigger any correclive actions_
+Refer to the dimensional lcg for all component size readings_
+Article No
+RM B60N
+JD-ZOOW
+LP-SSSV
+KP-320E
+KV-39K
+CN 150C
+Part Name
+Power
+Battery Pack
+Bearing 6202
+Rupder
+Power
+0-Ring NBR
+Swiich
+Gasket
+Switch
+60mm
+80mm
+Measurement
+vidin
+Wdin
+Height
+Widlh
+Lenglh
+Lengl
+Nomina
+38.83
+60.29
+4001
+86.58
+89.34
+63.60
+38.70
+60,29
+89.23
+63.42
+Delta
+Pass/Fall
+Flag any components requiring re-machining
+adjustment; This closure memo confimms that dimensional
+checks are complete_
+Components failing inspection require irmediate review and corrective action.
+verify measurement data with CAD nominal valuos
+Instrument Calibration
+Instrumont
+Serial No:
+Last Callbration Date
+Caliper
+69323
+2024-11-17
+Caliper
+10177
+2024-12-21
+Scannor
+32626
+2024-12-07
+Actua
+Cross
+Log:
+Lager

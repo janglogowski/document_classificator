@@ -1,0 +1,130 @@
+Maintenance Checklist Report
+Performed On: 2024-12-23
+Signed
+Peter Schmidt
+Ftdfr
+Cilrlos; Gurcia
+Uhis section cipturus cquipment status und any muntunincu cusurvations
+tc uquiprnunt okbulc vinc udu;iuu codu;
+andcorractive notbs
+Ihis Maintenance Extract
+OrBpbred tor compliance
+udit traiig
+Engurb
+gatet checkswver8
+camiuleted
+servicing: This service summary supports tne reliability engineering revieva
+Chec < that all do vntime events
+prode
+cateporze
+logged
+Section 4;
+Nachine
+MC?60
+MC284
+MC203
+MC-286
+Nc-74
+Equipmeng
+Packaging
+Pamt Bontl
+Plasma Cutter
+Paint Bootn
+Conveyar Belt
+Assemal
+Robot
+Senice
+Correclive
+Coneclive
+Mnspucnan
+Piuvenine
+Canicclive
+Prevunive
+Operato
+Laurb Rossi
+Carlos
+GbrCia
+Knnb ko var
+Laura Rosse
+Laura Rosse
+Peter Schmidt
+Downtime
+Notes
+Wci
+'Basket
+NG Issue3
+Sutch
+Keplaced tu? E
+Heplaced u3e
+Na(R3ue9
+Tedaced
+founo
+Ccnracte
+4541
+4541
+rouno
+cane
+Section
+Michine
+MC ?60
+NC?07
+Nc709
+H797
+MC ?59
+MC 741
+Equipment
+Paint Booth
+Paint Booth
+Assombly
+Fiasma Cutter
+Packaging
+Aasemol
+Rutal
+Rabu
+Scrvice Type
+Prcyentivu
+Cotcciivu
+Inspuctior
+Piuvuntt
+Unspeclion
+Pruvuntivc
+Operator
+Jan Row Biski
+Knna
+Dvan
+Schmidi
+Scnmidt
+4Va
+Carcs Carcin
+Dowvntime
+ChanEeo Oil
+Wooden paliet
+Worn Easket
+Changed OI
+"entengo
+Calibration
+anq mlterg
+checkec
+reolacec
+and tillems
+(003e bola
+checkur
+All maintenance ta9k3 have been completed
+per 9chequie
+Flag any recurning issue3
+root-cause imvesuigation
+Hcnive
+enis :umman
+the CHMS for future
+3iBrence
+Allmaintenance durations 808
+acoroeoor pertonmance Metncs
+Uplime (5a
+Etror Count
+Cormnents
+95,5440
+Bolt tpntoneo
+dwine
+MCJu1
+Tpe
+Noter

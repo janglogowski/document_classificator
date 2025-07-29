@@ -1,0 +1,40 @@
+Unit
+Configuration
+Repart Na;
+Pr-467
+ID: HF-JgOA
+Unit Type
+Date: 2024-10-16
+Circulaticn
+Design
+Motor
+45 Umin
+210 bar
+Wockin
+Wm @
+J0"C(0 55*€
+Matertal
+WAboHi
+(LKH
+4200
+XIDO
+1100
+By: Carlos
+Approved by: Jan Kowalski
+Product (
+Cooling [
+Ihroughput
+Shalem
+Cressune
+Pounr
+Supply
+Volare
+Temp
+Rante
+Fame
+chaqne_
+Alumitnum
+Dimenions
+Ftama
+Prepated
+Garcia

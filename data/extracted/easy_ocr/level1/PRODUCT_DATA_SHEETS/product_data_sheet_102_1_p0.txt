@@ -1,0 +1,61 @@
+Product Overview
+Project:
+NE-2454
+PR-369
+Prepared Bv:
+Peter Schmiat
+Approved By:
+Peter Schmidt
+Location; Plant IC
+Date; 2023-07-26
+Mode
+Txpe
+Pneumatic
+Contral Unit
+Design Pressure
+300 dar
+Fluid Flow
+75 Limin
+Supply Voltage
+230 =
+50 Hz
+Service
+lnienvd
+12 months
+Charging Tme
+Filtration
+10 m retum; 25 pm
+Reservoir Capacity
+80 L
+suction
+Oil Type
+HLP 46
+Contro
+Valve
+Manua
+Override3/2
+Pump Type
+Vane PUmp
+Battery Capacity
+Working
+5"Cto 45"C
+Noise Leve
+68 dB(AI
+Tota
+Weight
+230 kg
+Cooling
+Water-Coo
+ed exchanger
+Motor Power
+Flag
+missing parameters for urgent specification updates Confirm that all test conditions arc
+Jccurately
+represented: Overall configuration
+within defined design and safety margins. This summary reflects the latest
+revisian
+ofthe product data; Check that all section headers followthe product template
+Material choices and process
+data have been verified for compliance, Data sheet has been peer-reviewed by the engineering team,
+Temp:
+Ranae

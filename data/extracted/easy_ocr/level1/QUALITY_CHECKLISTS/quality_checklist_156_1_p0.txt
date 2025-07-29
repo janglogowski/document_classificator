@@ -1,0 +1,54 @@
+Inspection Record
+#8408935
+Date: 17.07.2025
+Product ID
+MR
+60H
+Customer ID
+SWEDEN
+Item Description
+Copper
+3mm
+Use this list =
+confirm adherence
+AQL and salely standards .
+Use this extract t0
+coordinate sign-off with
+the QA manager Ensure all non-conforming marks are clearly documented Check Ihat inspection steps
+follow the approved procedure
+The following table outlines inspeclion crileria and classitication levels
+This
+checklist captures quality inspection points and
+sampling levels.
+Inspection Checklist Points
+Sampling
+Severity
+Remarks
+Level
+Item Specs
+MA
+Hold
+Rubbor texture or glossiness
+Level IlI
+Critical impact
+mismatc
+Incorrect barcode or label
+Level
+Minor Issue observed
+Package
+not sealed
+completely
+Icortec
+orientation
+Minor issue observed
+Instruction manual
+missing
+Level
+damaged
+AQL Level
+Critical
+Maor
+Minor
+Default
+Customer specific
+Wire

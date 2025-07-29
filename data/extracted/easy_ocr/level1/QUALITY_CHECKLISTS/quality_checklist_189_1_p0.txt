@@ -1,0 +1,130 @@
+Verification Log
+#5321039
+Date: 17.07.2025
+Product
+JD-ZOOW
+Customer ID
+BRAZIL
+Item
+Description
+Stainless Bolt MB
+Below are the items
+be verified during the tinal product review. This checklist captures quality inspection points
+and sampling levels. Use this list
+confirmn adherence
+AQLand safety standards Check that inspection steps
+follaw the appraved pracedure
+checklist entries are timestamped for traceability, Refer ta the quality register for
+sampling-
+Ilan references
+This
+Osure
+summary indicates
+compliance with inspection criteria, Use this extract to
+coordinate sign-off with the QA manager
+Confirm that =
+sampling
+levels comply with customer agreements This
+5 ection
+details quality requirements andtest points forthe hatch;
+Inspection
+Checklist Points
+Check
+Detect Class
+Camments
+Intensity
+Design Specs
+Shipping
+mark
+illegible or
+Level |
+Needs review
+missing
+incorrect Orientation
+Leve
+Critical impact
+Screvs
+OSE
+missin
+Leve
+Packaging does
+nonmatch
+signed
+Level III
+sampie
+Woad splinter
+sharp point Dn
+Level IlI
+product
+Sharp edges
+Level |
+Critical impact
+companents
+Wrong product size
+Leve
+Package
+MO Sed
+completely
+Leve
+Minor
+Isque Dbsenved
+Catan
+damaged
+maikngs
+Needs review
+incorrect
+Incorrect quantity or assortment
+Lavp
+Needs revieu
+LOOSe
+pjis
+inside packaging
+Leve
+IssuE Obsenvec
+Nat assemblec
+drawing
+Leve
+Minor
+issue Onsenen
+Rubber texture
+Riossiness
+Minor issue observed
+mismatch
+@ustacebris inside
+packaging
+Levem
+Critical impact
+Missing distributor information
+Issue Oosenvec
+Connector noI
+working
+Levei
+Criticz
+imdact
+AQL
+Critical
+Minor
+Default
+Custamer
+specific_
+Canecie
+acllons are scheduled for Identifled Issues_
+Thls surimiary
+supports tne end-of-Iine
+certcalan
+Archive this summary in the audit-readiness folder. AIl summary comments have
+been validated by the QA4 team:
+ensure
+supervised sign-off on any non-conforming points. Overall quality status indicates compliance with
+defined AQL levels.
+aMv apen Issues
+the CAPA tracking systern. Confirm that all sampling results are within
+acceptable limits.
+Puastic
+Minor
+Minor
+ALevcl
+Vaior
+quallty .
+please
+Fla -

@@ -1,0 +1,79 @@
+inspection Record
+Entries Include both visual and functional Inspecior Items: Thls section detalls quality requirements anu test points
+forthe batch; This summary supports the production-release quality gate; Ensure all non-conforming marks are
+clearly documcnted:
+Product ID
+TX-B20V
+Customer I0
+FRANCE
+Icem
+Description
+LED Light
+Strip
+Inspection Checklist Points
+Sample Tier
+SEverity
+Notet
+Camponen
+Critetia
+Critical
+Major
+OnHold
+Latton
+camaged Or
+Level II
+Minor
+a5 iF
+Dbserved
+Mareings
+Incorrec
+ncorrec
+Darcccr
+anei
+Leve
+Needs revev:
+Rubber Switch not working
+Minor ISSuF
+cpsered
+Insicucidn tanud
+Messing
+Crillcal impact
+damnaged
+Incortect Orientalioninbox
+Mmor assue Dbseived
+Rubber
+teruie
+glossiness
+Level III
+Minior Issue Observed
+Msmatch
+Deau
+Ilve Insect in
+Laue |
+Critical impact
+packaBing
+product
+Luc
+Needs
+defect omhousing
+LCYE
+Minor issue
+OOSCNCC
+Conneco
+working
+Levet
+Catical impact
+Functicna
+reviek
+Shipping mark is illegible r
+Level /
+Minor
+issue ooservec
+missing
+Supervised bv: 
+Date;
+Mlngt
+WNrone
+Jcve"
+asua
+Necds

@@ -1,0 +1,89 @@
+Quality Review
+#7951555
+Date: 17.07.2025
+Product
+CN-IS0C
+Customer ID
+POLAND
+Item Description
+Woadem
+Pallet
+This wectian detais
+quality requirements and test points tor the batch This closure summary indicates compliance
+with Inspection criteria_
+Below are the Items
+be verified during the final product review. This surmary supports the
+praductian-
+quality Rate; Check that inspection steps fallow the appraved pracedure_
+Refer to the quality
+for sampling-plan references: Entries include both
+and functiona
+inspection
+This checklist
+caplures
+quality Inspection points and sampling levels_
+Inspection
+Checklist Points
+Check
+Category
+Comments
+Intensity
+produci
+Requirements
+Functionality test falled
+LevC
+Critical Impact
+Nat Jssembled
+per drawing
+Critica
+mpJcl
+Rubber
+Switch not working
+Leve
+Critical impact
+Lonnecor no
+working
+Leve
+Needs reviev'
+Shipping mark is illegible
+Level II
+Minor issue observed
+Missine
+Visua
+detect om
+housing
+Levei
+Critical impact
+Package
+not spaleg
+completely
+Missing Logo
+waming label
+Leve
+Ancorreckharcode
+abei
+Len
+Minoressue Obsereg
+Hinges
+Leve
+Paint smearing or scratches
+Leve
+Minorissuc Oosened
+AQL Level
+Critical
+Ninor
+Default
+Customer specific
+This final note
+confirms the checklist is comnlete and approved
+Fnsure
+that all remarks have corresponding evidence
+attachments: Archive this summary
+the audit-readiness folder. AIl summary
+comments
+have been validated by the
+QA team:
+repiste
+visua
+jlems
+Mair

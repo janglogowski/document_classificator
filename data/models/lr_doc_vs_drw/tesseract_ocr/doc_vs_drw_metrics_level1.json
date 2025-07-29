@@ -1,0 +1,43 @@
+{
+  "engine": "tesseract_ocr",
+  "level": "level1",
+  "n_docs": 258,
+  "n_drawings": 258,
+  "train_size": 372,
+  "test_size": 94,
+  "accuracy": 0.9468085106382979,
+  "classification_report": {
+    "document": {
+      "precision": 0.9433962264150944,
+      "recall": 0.9615384615384616,
+      "f1-score": 0.9523809523809523,
+      "support": 52.0
+    },
+    "tech_drw": {
+      "precision": 0.9512195121951219,
+      "recall": 0.9285714285714286,
+      "f1-score": 0.9397590361445783,
+      "support": 42.0
+    },
+    "accuracy": 0.9468085106382979,
+    "macro avg": {
+      "precision": 0.9473078693051081,
+      "recall": 0.945054945054945,
+      "f1-score": 0.9460699942627653,
+      "support": 94.0
+    },
+    "weighted avg": {
+      "precision": 0.9468917370827663,
+      "recall": 0.9468085106382979,
+      "f1-score": 0.9467413727859767,
+      "support": 94.0
+    }
+  },
+  "tfidf_max_features": 5000,
+  "logistic_regression_params": {
+    "max_iter": 500,
+    "solver": "lbfgs",
+    "class_weight": "balanced",
+    "random_state": 41
+  }
+}

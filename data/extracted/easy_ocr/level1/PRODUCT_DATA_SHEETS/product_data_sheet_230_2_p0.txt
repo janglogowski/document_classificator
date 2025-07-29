@@ -1,0 +1,84 @@
+Component Overview
+AlI data entries are traceable
+design revision history. Entries include both mechanical and electrical
+specifications;
+The following information outlines perfomance characteristics and design data_
+This
+technical overview supports the product-release checklist: Check that =
+material specs align with supplier
+certiiications_
+Product
+XD-Z1OR
+unern?
+7768226
+Prepared by: Anna Nowak
+Approved by: Anna Nowak
+Date: 2025-01-26
+Unit Type
+Hydraulic Power Unit
+Design Pressure
+210 bar
+Fluid Flow
+75 Umin
+Operating Voltage
+480
+60 Hz
+Motor Power
+5.5 kW
+Mounting
+Skid base with vibration
+pads
+Filtration
+pmi inline
+10 pm
+Reservoir Capacity
+120 L
+rolurn
+Oil Type
+HLP 32
+Dimonsions (LxWxH)
+1200
+700 *
+100 Mm
+Overall configuration is within defined design and safety margins. All summary comments have been
+recorded in the revision log: Check that all section headers follow the product template. Material choices and
+process dala have been verilied for comipliance. Archive Ihis summary for future design-change
+management_ Ensure glossary tems match the engineering nomenclature
+Material 0f Construction:
+Subcomponent
+Base
+Wiring
+Gom
+PVC (Rigid)
+Support
+Ste
+Stainless Steel
+Rubbe
+Gasket B0mm
+Nitrle Rubber
+NBp
+Bearing
+Stainless
+Klmmnum
+6061-
+Nooden Palle
+Hreated
+Wood
+Nut M6
+Zinc
+lated Steel
+Connecto
+Glass-Filled Nylon
+Baltery Pack
+Lithium-loz
+Cell Pack
+Graphite Pad
+Graphite Pad
+Capacitor 450V
+Aluminum 6061-T6
+LFD
+Lighl Sup
+Glass-Filled Nylon
+Foo
+Slee
+Sima

@@ -1,0 +1,97 @@
+Equipment Record Report
+Performed On: 2024-06-05
+Signed off
+Jan Kowalski
+perc medb"
+JanKowalskl
+This service summary supporls Ine relliabilily ungineering
+Cvigw
+Thus seclion caplures uquipreni slalus andany
+mainicnance Cusenvaluns
+Below Is Ihe summary
+sunvIcd aclions und dawnumes I0F
+Cucm mjcmc
+The equiprent log
+Celov
+includes fault codes and corrective notes
+Use this record
+plan upcoming upkeep and repairs Please review
+for recent service dates, types
+remarks
+Section A:
+Machine
+MC 218
+KC ?43
+MC 259
+MC 233
+Equipment
+Convexor Bell
+plasma Cuter
+CNC Milling Machine
+Plasma
+Cutter
+Scrvicc Typc
+Lorecive
+Preventive
+Preventive
+oreciive
+Operato
+Peter Schmii
+Carios Garcia
+Peter Schmict
+Carlos Garcia
+Dumlon
+Notes
+Sensor recalibraled:
+Switch contacts
+Na issues
+'ound
+Sansor recalibtatad
+cieaned
+Sectlon B:
+Machine
+MC 218
+MC 243
+MC-259
+MC 233
+Equipment
+Conveyor Bel:
+Plasma Culler
+CNC Milling Machina
+Flasma Cuttet
+service
+Txpe
+Picrcnivc
+Inspoclon
+PrcvcrC
+COnecc
+Operato
+Schmidi
+Schmidt
+Carlos
+Rossi
+Duratlon
+Notes
+Tightened laose
+Klianment
+hinges
+Sensor recalibrated;
+bolts
+adiustec
+Ensure Ihat
+each service entry has Ine required
+approvals
+Check remaining life-cycles
+key components
+Uptime
+Error Count
+Notor
+92 0522
+Reniacen Titer
+tni
+Petete
+Peiet
+Garcia
+Laum
+from
+(eport

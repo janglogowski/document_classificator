@@ -1,0 +1,84 @@
+Product Data Sheet
+Project;
+TX-8201
+interna
+1715595
+Prepared
+Larios Garcia
+Approved Byi
+Schmidt
+Location; Plant 34
+pate
+2025-06-01
+Model Type
+Cooling Circulation
+Rated Pressure
+210 bar
+System
+Throughput
+75 Lmin
+Voltage
+480 V I 60 Hi
+Oil Type
+HLP
+Control Valve
+Manua
+Override 3/2
+Pump Type
+Gear
+Charging Time
+Frame Material
+Aluminum
+Frame
+Working Temp. Range
+-10"Cto 50"C
+Mounting
+Skid base with vibration
+Dimensions (LxWxH)
+1200 * 700 x 1100 mm
+pads
+Noise Levcl
+70 dB(A)
+Cooling
+Water-cooled exchanger
+Protection Class
+Filtratlon
+10 um retum
+Service Interval
+1000
+Total
+Welght
+180
+Motor Powe
+7.5kW
+Battery Capacity
+Reservoir Capacity
+Material of Construction:
+Subcampanent
+Raw Materia
+Support Foot Steel
+Stainless Steel 304
+Fuse 54
+Ceramic
+Oxine
+Rubber
+Gasket 8mm
+Nitrile Rubber INBR)
+Steel Sheet 436
+Carbon Steel 436
+LED Lignt Strp
+Glass-Filled Nylon
+Heat Sink ALU
+Aluminum 6061-T6
+Hex Bolts M1?
+Zinc-Plated Stee
+Connector 2P
+Glass-Filled Nylon
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPUI
+Hinge Set
+Stainless Steel 304
+No:;
+Pele
+Pump
+inline

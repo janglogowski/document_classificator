@@ -1,0 +1,79 @@
+Component Overview
+Use this
+enpineerine
+requirements and tolerances
+Belov' are
+technical
+parameter 
+and
+construction materials for the unit Check that all material specs align with supplier certifications This section details
+the configuration and parameter set for the praduct The following information outlines perfarmance characteristics
+design data
+Fnsure
+referenced standards are Up to date: All data entries are traceable-
+desin revision
+history:
+Product ID
+Xk-610U
+Inierna
+PR 930
+Prepared by: Laura
+Rossi
+Approved by: Laura Rossi
+Date: 2023-11-15
+Unit Type
+Pneumatic Control Unit
+Rated Pressure
+180 bar
+Fluid Flow
+75 L{min
+Voltage
+50 Hz
+Cooling
+Water-coolen
+exchanger
+Charging Time
+Frame Materia
+Stainless Stee
+Confirm that all-
+conditions are accurately represented
+Ensure that -
+listed materials are approved for the
+application: Refer
+paramictci
+table for operating ranges ano
+tcicrances
+AIl specifications meet the design
+requirements and industry standards Data sheet has been peer-reviewed by the engineering team Use this surmary
+cross-check with BOM and inspectian reports,
+Material 
+Lonstruction;
+Part
+Lomposition
+Stainiess Stec
+Zinc-E
+Steel
+Connecto
+Glas5-Filleo
+Nuon
+Sheec
+Nitrile Rubber INBRL
+Sheet 436
+Carbon Steel 436
+Unsulated
+Lbc 25uun
+Thermo
+polurethanc
+LTPU)
+LoomIm
+PVC (Rigid)
+shect-
+conlinn
+Frame
+t25t
+Tne
+Hinze
+Plated
+Gaske
+Pasti E
+Wuing

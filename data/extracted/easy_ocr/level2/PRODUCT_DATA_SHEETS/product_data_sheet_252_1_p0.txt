@@ -1,0 +1,97 @@
+Product Overview
+Project:
+MR-160H
+Report
+2098033
+Prepared By:
+Jun Kowalski
+Appraved Bx:
+Carlos Garcia
+Location: Plant 34
+Date: 2023-08-11
+Unit Type
+Cooling Circulation
+Operating Pressure
+210 bar
+System
+Flow Rate
+30 Lmin
+Supply Voltage
+400 V /50 Hz
+Charging Tme
+Ictal Welght
+230
+Framue Material
+Powder-coated Sleel
+Protection Class
+IP65
+Battery Capacity
+Mounting
+Skid base with vibratlon
+paos
+Noise Level
+72 dBLA)
+Cooling
+Air cooled 0ll radialor
+Motor Power
+11 kN
+Working Temp
+Range
+5"C to 45'C
+Oil Type
+HLP 46
+Control Valve
+Manual Override 3/2
+Dimensions (LxWxH)
+1000
+650x 1000 mm
+Pump Type
+Gear Pump
+Service Interval
+12 months
+Filtration
+10 um return, 25 Hm
+suction
+Reservolr Cepacity
+160
+Refer l0 pararneter lable for operating ranges and tolerances
+Overall configuration
+within dlefined design
+safoty margins
+This closure note indicates tha data sheet
+ready for release. Archive this :ummary for
+(ulure design-charge managernent Use this summary
+cross-check wilh BOM and Inspeclion reports All
+summary corments have been recorded in the revision log
+Materal of Construction:
+Label
+Composilion
+Digital Display Unit
+ABS Plaslic
+Pressure Valve
+Brass C212
+Bearing 620272
+Stainless Steel 304
+Baltery Pack
+Lithium-Ion Cell Pack
+Power Switch
+Polycarbonate
+Copper
+Cooling Gel Pack
+Silicone Rubber
+Set
+Stajaless Steel 304
+Tellon Tape Roll
+Tellon
+Roll
+LED Light
+Glass-Filled Nylon
+Heat Sink ALU
+Aluminum 6061-T6
+Rubper
+Casket B0mm
+Nitrle Rubber
+INBR)
+Hingo
+Tapa
+Sup

@@ -1,0 +1,53 @@
+Component Overview
+Internal No:: PR-176
+Product ID: AL-1150
+Date: 2024-12-04
+Configuration Type
+Cooling Circulation
+Design Pressure
+180 bar
+System
+Flow Rate
+48 Umin
+Operating Voltage
+400 V / 50 Hz
+Protection Class
+IP6 
+Noise Leve
+72 dB(A)
+Pump Type
+Gear Pump
+Charging Time
+Service Interval
+500
+Control Valve
+Proportional 4/2
+Total Weight
+180 kg
+Dimensions (LxWxH)
+1200
+700 -
+1100 Mm
+Component Materials Overview: 
+Pant
+Raw Material
+Specification
+Teflon Tape Roll
+Teflon
+Roll
+Anticorrosive
+Hex Bolts M12
+Zinc-=
+lated Stec
+Class
+tolerance
+Therma
+Ceramic Oxide
+10025
+LED Light Strip
+Jass-Filled Nylon
+IP67 rated
+Prepared by: Laura Rossi
+Approved by: Anna Nowak
+Tape
+Fuse

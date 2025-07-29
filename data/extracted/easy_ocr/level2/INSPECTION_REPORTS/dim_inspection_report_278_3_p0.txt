@@ -1,0 +1,119 @@
+Measurement Summary Sheet
+Inspection performed by Peter Schmidt on 2024-03-05.
+Tngs data extract
+prepared for quality-control sign-off. The following data captures key dimensions and any
+deviations identified Below are the recorded measurements compared against nominal tolerances Please review the
+inspection results for each component listed below:
+Environmental Conditions: Temperature: 23.7
+Humidity: 48 55
+Article No;
+Component
+Measunement
+Nominal
+Obsenved
+Delta
+Status (VKI
+0P-660F
+Steel Sneet
+Inner
+65.03
+65.05
+0.03
+136
+Diameter
+XD-7103
+Plastic Rivets
+Inner
+46.62
+746.52
+0.10
+Diameter
+TLPOOX
+shait SOmm
+Hole
+59.53
+5944
+0.12
+IX-820V
+Plastic Rivets
+Length
+7136
+71.48
+T0ei
+RM-860N
+0-Ring NBR
+nnei
+30.12
+30.08
+0.04
+6Omm
+Diameter
+Ty-3506
+Hex Bolts
+Inner
+53.63
+53.57
+00o
+M1Z
+Dameter
+MC-540X
+shaft S0Omm
+Leneti
+66-28
+66-16
+041
+SL-430M1
+Switch
+Height
+17.43
+17.54
+MC-54OX
+Steel Sheet
+Height
+55.26
+55.27
++0.01
+NU-440Z
+Plastic Rivets
+Wdth
+85-32
+25 13
+0.19
+TL 900X
+Shatt SQmm
+Hole
+53.339
+5334
+0.05
+KP-3202
+Bearing 6202
+Inner
+62.64
+62.61
+0.03
+Diameter
+KV-390K
+Graphite Pad
+Thickness
+93.15
+92.98
+0.17
+TL-SOOX
+Wooden
+Wicth
+43.82
+43.74
+~0.08
+Pallet
+CN-150C
+Shaft s00mm
+Heieht
+13.18
+13-11
+Oo7
+70ow
+Power Switcn
+Height
+68.75
++0.09
+Pox€

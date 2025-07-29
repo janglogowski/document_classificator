@@ -1,0 +1,87 @@
+Project
+Component Overview
+Intemal
+4301
+Prepared By
+9938114
+Approved
+Carlos Garia
+Location: Plant 1C
+Date: 2023-
+Carlos Garcia
+12-23
+The parameter register below includes
+requirements and tOlerances. Check
+apairating limits and ratings. Use this sheet to =
+provides key specifications and
+that all material specs align with =
+confirm engineering
+specifications Refer to :
+material detaiis. Entries include both mecpaer certfications
+aata sheet
+traceable
+this configuration summary for
+mechanical and electrical
+cesign revision
+'uni-designation mapping: All data entries
+Configuration Type
+Circulation
+Sxstem
+Pressure
+180 bar
+48 Lmin
+Water-cooled
+Peorating Voltage
+480V/60 4z
+Vype
+exchanger
+Capacity
+10 Ah
+Vane Pump
+Mounting
+Wallmounted
+Working Temp
+IQC to
+Noise Level
+Total
+552C
+OI Type
+70dB
+230k9
+Power
+HLP 46
+Dimensions (LWxH)
+1000
+55kW
+Charging
+looomm
+Protection Class
+P67
+Material
+Construction:
+Subcomponen
+Connector ZP
+Raw Malena
+Themal Fuse
+Gihss-FMled Nylon
+Cooling GelPack
+Cerami Oxide
+Steel Sheet 436
+Rubber
+Tellon Tape Rol
+Carbon Steel 436
+Tape Rol
+Ths
+history -
+Cocling
+Design
+Throughput
+Coolling
+Battery
+Pump
+Range
+Weight
+Moton
+650k
+Suicene
+Teflon

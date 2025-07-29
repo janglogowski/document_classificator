@@ -1,0 +1,142 @@
+Maintenance Checklist Report
+Performed On: 2025-07-07
+Approved bX;
+Carlos Garcia
+scnvicedby
+Anna Navak
+nis seclion Cuplurgs cuuipinen Slalus
+mummlenamce
+Obsurvalions
+The equipmiunt log below ucludes
+Tuull cudcs
+and corruclvu nolus
+Coniirm Ihal survice intervals Iollom the prevenlive
+schydulc
+This scrvice summary supports Ihc
+reliability engineering review. Entries include work orders
+Iecnnician a3signmenis
+and part changes, Please review this
+eceni serjice dates
+Tydes
+remarks
+Ensure
+safety checks
+BCp
+completed
+senicing
+Section A:
+Machine ID
+Mc/3
+MC ?23
+KC ?09
+MC 273
+MC251
+MC ?99
+Equipment
+CNC Miling
+Lathe
+Conveyo
+Belt
+Plasma Cuter
+Plasma
+Cutter
+Packaging
+Machine
+Service Type
+Correciive
+Inspecticm
+Corrective
+Preventive
+Insdection
+Preventive
+Operato_
+Laura
+Ross
+AnnaNowax
+JanKowalski
+Jan Kowalski
+Anna Nowak
+Jan Koaiski
+Duration
+Notes
+Sensor
+Changed
+Charged
+Alignment
+Switch
+Wocden
+Jibrated:
+and filers
+and fillers 
+hinges
+ccntacts
+pallet
+adjusled
+clcancd
+chccked
+Seclion B;
+Machine
+MC-25
+MC-209
+MC-299
+MC-23
+MC-223
+MC-273
+Equipment
+PlusMla
+Cullec
+Cenveyor Bell
+Packaging
+CNC Milling
+Lalhe
+Plasia
+cullar
+Machlng
+Senice
+Type
+Inspection
+Preventive
+Prevenve
+Cameciive
+Comecine
+Preventive
+Operato
+Peler Schuidl
+Jan Kovalski
+Carlos Garcia
+Puler Schmicl
+Anna
+Vovak
+Jan Koalski
+Duration
+Notes
+Li-Ion ballery
+Relilled Oil
+Svalch
+Refilled oil
+Wooden
+Changed Dil
+pack
+(HLP 46).
+conlacis
+(HLP 46}-
+pallci
+ano Iuluts
+5eNicec
+ceaned
+chec- e0
+Archive this summary
+the CMMS far future
+relererce
+Yainienaince
+nclas
+are amcniced
+compliance audils
+Ensuna
+that each service enliry nas the requlred approvals
+Uptlmc (%)
+Etor Count
+98.4378
+Replaced fller
+dur"g
+Notes

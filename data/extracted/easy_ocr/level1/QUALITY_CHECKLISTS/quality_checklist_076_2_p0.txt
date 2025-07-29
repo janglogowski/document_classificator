@@ -1,0 +1,88 @@
+Inspection Register
+Below arethe items
+be verified during the final product review: Confirm that sampling levels comply with
+customer apreerents
+The following table outlines inspection criteria and classification levels_
+This checklist
+cadtures
+quality inspection points and sampling levels . Please revieweach checklist point and mark the
+sampling results. Use this list to confirm adherence to AQL and safety standards. Use this extract to coordinate
+sign-off with the QA manager- Archive this list In the quality-ranagement system:
+Product ID
+CN-150C
+Customer ID
+NORWAY
+Item Description
+Rubber Gasket 8Omm
+Inspection Checklist
+Check
+Defect Class
+Comnments
+Points
+Intensity
+Item Specs
+Critical
+Major
+Minor
+OnHold
+Dead
+live insect in
+Levell
+Needs review
+packaging
+Missing logo
+warning
+LevclIII
+Nceds revicw
+adel
+Incorrect barcode or label
+Leveli
+Nccos [Cuicu
+Hinges
+COSE
+ISsue odsenvec
+Package
+not sealed
+Level I
+completely
+Packaging does not match
+Level!
+Minor issue observed
+signed sample
+Visualdetecion
+housing
+Levei
+Instruction manual is
+Level II
+Missine
+damaged
+Incorrect orentation
+Level III
+Minor issue observed
+Rubber Switch not working
+Level!
+ISsue oosenved
+Connectornot
+working
+Levei
+Functionality test failed
+LAvel
+Product doesn t power r
+Lavel
+CrItica
+mmpacl
+Not assembled as per
+Leveli
+Needs review
+drawing
+Dust/debris inside
+issue observed
+packaging
+Color mnismatch
+LevelIII
+Minar Issue observed
+Supervised by:
+Date:
+Minoi
+Minoi
+Minoi

@@ -1,0 +1,116 @@
+keuan No :
+PR-259
+Customer
+TURKEY
+Supervisor:
+Laura Rossi
+Department:
+Assembly
+Snife:
+JEvening)
+21-04-2024
+Use this shift summary
+drive continuous improvement actions All throughput figures are recorded fo
+canacity
+planning: This extract shows daily %ield, scrap rates, and
+work occurrences
+The line-output register captures all
+production
+events
+for the day;
+Machine
+Task
+Technician
+Begin
+Finish
+Total
+Uwagi
+Temp
+Energy
+Time
+(C)
+Used
+MC-204
+Welding
+wiktor
+07.15
+09,08
+72.,4
+2.49
+Kopczyiiski
+MC 201
+Assembly
+Anna Nowak
+13.15
+14.30
+60.9
+1.23
+MC-206
+Assembly
+wiktor
+12.15
+13.28
+N{A
+73.3
+1.86
+Kopczyiski
+MC-202
+Drilling
+Dawid
+09.15
+10.52
+N/A
+79,0
+2.,09
+Oszmiariczuk
+MC-204
+Assembly
+Mateusz
+09*Wu
+09.28
+Delay
+76.1
+2.66
+Jarzyna
+MC-208
+Drilling
+Dawid
+10,00
+11.29
+71,0
+Oszmiariczuk
+MC 208
+Welding_
+Lnnj NowJk
+06 Wu
+0702
+Kecalcrated
+76.5
+1.98
+MC-209
+4s5emoiv
+Bartosz
+11,30
+12.36
+Recalibrated
+68.9
+1.85
+WaltEyIak
+MC 203
+Cutting
+Nadia Sauter
+12830
+12.56
+2.80
+MC-206
+Polishing
+Nadia
+11.30
+4315
+NA
+Prepared by:
+Carlos Garcia
+Appraved by:
+Jan Kawalski
+Ck
+Sauter

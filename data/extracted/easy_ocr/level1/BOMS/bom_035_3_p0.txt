@@ -1,0 +1,101 @@
+BOM Report
+This summary lists every item required
+with per-unit pricing details:
+Use this schedule of parts t0
+align with sourcing
+stock levels. Please review the itemized Iist of parts and material
+specifications before procurement; Review the materials tally for compliance with budget
+allowances;
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Power
+pCS
+1.20
+27.60
+Certified
+Switch
+batch
+Fuse 5A
+pcs
+0.30
+13.20
+Eco
+compliant
+Bearing
+pCs
+1.50
+70.50
+6202 ZZ
+Cable Tie
+pcs
+0.95
+23.75
+Imported
+Pack
+Stainless
+0.35
+12.25
+SKF brand
+Bolt M8
+Copper
+0.60
+27.00
+Wire 3mm
+Epoxy
+pCS
+7.30
+233.60
+Urgent
+Resin Kit
+Spring
+pcs
+0.05
+0.85
+SKF brand
+Washer
+M1O
+Wooden
+pCS
+15,00
+225.00
+Imported
+Pallet
+Shaft
+pcs
+8.00
+128.00
+High grade
+s00mm
+Shaft
+pcs
+8.00
+384.00
+Urgent
+500mm
+Plastic
+pCs
+0.20
+2.20
+Imported
+Rivets
+The cost subtotal supports financial
+forecasting for the next cycle. Cross-verify totals with the
+ERP system for consistency-
+Customer ID: GREECE
+Coordinator: Carlos Garcia
+Date:
+2023-08-29
+Product ID: FT-730X
+Internal No : 4627509
+Order Qty: 435
+Total
+Amount:
+1,147.95
+and.
+(100)
+pCS

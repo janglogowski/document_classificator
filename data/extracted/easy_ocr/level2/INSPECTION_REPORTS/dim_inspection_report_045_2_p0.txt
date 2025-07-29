@@ -1,0 +1,67 @@
+Inspoctor
+Polar Schmidl
+Inspaclion Dale
+2025-02-25
+Use Ihls examinallon summary l0 confirm component conformity. All measured values are llmestamped for
+audlt purposes, Rovlew recorded tolorancos against englneerng specificallons
+Item Codo
+CN-150C
+CN-150C
+Pw-516Y
+Pw-515Y
+AL-11sQ
+Componont
+PlnsiIc Rivals
+Graphile Pad
+Woodan Pallol
+Slool Sheol
+Baltory Pack
+A3G
+Aneuratnant
+Wdlh
+Hoight
+lnnondinmclar
+Longth
+Widin
+Nominal
+41,78
+11,92
+29.48
+54,25
+56.76
+Actual
+41,81
+11,75
+29.38
+54.1
+56,59
+Dift
++0,03
+FuT
+FlI
+Fu 4
+-0,17
+Pass/Fall
+PASS
+PASS
+PASS
+PASS
+PASS
+Archive Ihls
+inspection summary for regulatory documentatlon. Confirm that pass rates meet Ihe delined
+acceptance criteria: Cross-verily measurement data wilh CAD nominal values. Roviow falled Itemis against
+Ihe corraciivo-aclion registor:
+Instrument Callbrallon
+Unstr umont
+Serlal Nos
+Last Calibratlon Date
+Micromeler
+77389
+2025-03-28
+Microeler
+73994
+2025-06-09
+CmM
+25335
+2024-11-16
+Log"

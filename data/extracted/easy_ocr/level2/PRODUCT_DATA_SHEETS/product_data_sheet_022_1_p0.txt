@@ -1,0 +1,91 @@
+Product Overview
+Project:
+WD-1805
+Interng
+PR-281
+Prepared By:
+Carlos Garcia
+Appraved Byi
+Anna
+Nowk
+Locatian:
+Plant 1C
+Date
+2024-09-01
+Refer
+this configuration summary for unit-designation mapping: Use this spec sheet =
+validate assembly
+Ifsuuctions
+The following information outlines perfarmance characteristics and design data. The parameter register
+pelowinciudes
+operating limits and ratings
+Configuration Type
+Hydraulic Power Unit
+Pressure
+180 bai
+Flow Rate
+30 Lmin
+Operating
+Voltage
+400
+50 Hz
+Charging Time
+Battery Capacity
+10 Ah
+Mounting
+Wall-mounted
+Total Weight
+180
+Controivaive
+Manual
+Uverride ? /
+Cooling
+Water-conled
+exchanger
+Dimensions (LxWxHI
+1000
+650
+1000 Mm
+Working Temp. Range
+10 Cto 50"C
+Reservoir
+Capacity
+120
+Protection Class
+IP65
+Filtration
+HML
+10um return
+Oil Type
+HLP 32
+Material
+Construction:
+Label
+Raw Materia
+Fuse 54
+Ceramic Oxide
+Gasket
+Nitrile Rubber INBR)
+Bearig 620272
+Stainless Steel 304
+Cable Tie Pack (100]
+Nitrile Rubber INBR)
+Stainless Steel 304
+Cooling Gel Pack
+Shconi
+Rubocr
+Insulated /ube 25mm
+Thermoplastic Polyurethane (TPU]
+Steel Sheet 436
+Carbon Steel 436
+Therma
+FUS@
+Ceramic Oxide
+Nut M6
+Zinc-Platen
+Steri
+No .
+Destgn
+inling;
+Sheet
+Hingel

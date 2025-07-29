@@ -1,0 +1,115 @@
+Shift Summary
+Redar ND;:
+PR-375
+Custamier-
+TURKEY
+Supervisor
+Peter Schmict
+pepartment:
+Assembly
+Date;
+18-10-2023
+Shift:
+(Evening)
+Equipment
+Process
+Worker
+Begin
+End Time
+Time
+Uwagi
+MC 205
+Cutting
+Agnieszka
+13.00
+13.58
+Recallbrated
+Zielinska
+MC-2OA
+Assembly
+Przemyslav
+11-00
+12.55
+115
+Wasik
+MC 209
+Cutting
+Agnieszka
+14-00
+16.00
+N/A
+Zielinska
+MC-20A
+Assembly
+Jan Kowalski
+09-15
+10.31
+MC-209
+Asseiblv
+wiktor
+12.15
+13.21
+Delay
+Kopczynski
+MC 203
+Cutting_
+KnnaNotar
+06.30
+07.15
+MC-205
+Welding
+Knnz
+Nowdx
+10.00
+11.52
+MC-205
+Assembly
+Mateusz
+08 00
+09.49
+Iarvna
+MC 207
+Cutting
+Nadia Sauter
+07-00
+08.45
+105
+Recalibrated
+MC-204
+Drilling
+Nadia Sauter
+14-0l
+14.58
+Product
+Planned Qty
+Actuz
+Qty
+Scrap Qty
+scrap
+Remarks
+LP-SSSV
+56%
+Revork needed
+MX-450L
+204
+8 930,
+MR-160H
+280
+240
+2970
+Revor needed
+contirmeo
+XK-61OU
+262
+6856
+Rework needed
+XK-61QU
+36yn
+Kcran contirmem
+Prepared by:
+Laura
+Rossi
+Approved b%:
+Carlos Garcia
+Spent
+Scrap

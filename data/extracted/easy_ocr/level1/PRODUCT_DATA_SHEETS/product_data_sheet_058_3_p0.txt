@@ -1,0 +1,50 @@
+Unit Configuration
+Report No: 9145118
+Product ID: MC-540X
+Date: 2025-07-07
+Model Type
+Cooling Circulation
+Rated Pressure
+210 bar
+System
+Throughput
+60 Umin
+Supply Voltare
+400 V / 50 Hz
+Cooling
+Water-coaled
+excnanzem
+Type
+Vane
+Frame Material
+Powder-coated Steel
+Charging Time
+Oil Type
+HIP 32
+Component Materials Ovemview:
+Ter
+Compositlon
+Specification
+LED Light Strip
+Glass
+Filled Nylon
+ISQ 2768
+Wooden Pallet
+eaic
+Wood
+Anticorosie
+Support Foot Steel
+Stainiess Stce
+RoHS compliant
+Stainless Steel304
+rated
+Loom Im
+PVC (Rigid_
+DIN EN 10025
+Prepared by: Anna Nowak
+Approved by: Peter Schmidt
+Pump
+Pmp
+J04
+Hinge
+Wlrink

@@ -1,0 +1,56 @@
+Report No: PR-344
+Product ID: NU-4402
+Date: 2024-09-04
+Unit Txpe
+Pneumalic Control Unit
+Design Pressure
+180 bar
+Fluid Flow
+30 Lmin
+Voltage
+480 V / 60Hz
+Motor Power
+Z5kW
+Protection Class
+Noise Level
+68 dB(A)
+Battery Capacity
+10 Ah
+Working Temp
+Range
+10'C to 55"C
+Qil Type
+HLP 32
+Reservoir Capacity
+Control Valve
+Directional 4/3
+Component Materials Overviow:
+Label
+Composition
+Specitication
+Digital Display Unit
+ABS Plastic
+IP67 rated
+Steel Sheet 436
+Carbon Steel
+Electrical grade
+Hex Bolts M12
+Zinc-Plated Stecl
+Heat-rosistant
+Therma
+Fuse
+Ceramic Oxide
+IP67 rated
+Insulated Tube 25mm
+Thermoplastic Polyurethane
+SO 2768
+(TPU
+Capacitor 450V
+Aluminum 6061-T6
+IP6Z rated
+Wooden Pallet
+Treated Pine Wood
+CE certiied
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia
+4p65

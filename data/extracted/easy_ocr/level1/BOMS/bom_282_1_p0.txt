@@ -1,0 +1,105 @@
+BOM Report
+Customer
+D; TURKEY
+Coordinator; Carlos Garcia
+2025-05-23
+Product ID: CN-150C
+Intema
+3614888
+Order Qty: 241
+All entries reflect the latest inventory and supplier rates: Review the materials tally for compliance with
+budget allowances_
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Protective
+1.19
+66.60
+Switch
+Sleeve
+tested OK
+50mm
+Grease
+2.12
+pcs
+1.90
+41.80
+Urgent
+Tube
+250ml
+Battery
+0.55
+pcs
+25,00
+950.00
+Li-Ion
+Pack
+battery
+installed
+Heat
+1.83
+10%
+2.70
+59.40
+Hinge
+Resistant
+alignment
+Sleeve
+adjusted
+Power
+0.46
+10%
+pcs
+1.20
+24,00
+Li-Ion
+Switch
+battery
+installed
+Plastic
+3.04
+1.10
+24.20
+Cover
+150x150
+Battery
+2.76
+25.00
+75.00
+ISO-
+Pack
+verified
+LED Light
+2.55
+10%6
+2.50
+102.50
+Strip
+export
+Gasket
+0,54
+pC5
+1,25
+41.25
+Switch
+Sheet A4
+tested OK
+Insulation
+1.38
+pcs
+3.20
+48.00
+Foam Pad
+Amounts reflect current pricing; adjust as necessary for bulk orders. Final amounts include handling and
+logistics costs where applicable. The cost subtotal supports financial forecasting for the next cycle;
+Total Amount:
+432.75
+Approved By:
+Sourcing Department:
+Date

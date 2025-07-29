@@ -1,0 +1,67 @@
+Inspection Results Summary
+ecmiCIan
+Anna
+Na var
+unspeclion
+Dale
+2025-01-19
+Ensure measurement methods align with calibration standards.
+The inspection register below highlights any
+out-of-tolerance parts. Refer t0 the dimensional log for all component size readings_
+This data extract
+prepared for quality-control sign-off. Below are the recorded measurements compared against nominal
+tolerances;
+Product Ref
+XK-G1QU
+AZ-30QT
+XD-ZIOR
+MS-6QQP
+LP-SSSV
+Part Name
+Bearing 6202
+Bearing 6202
+Rubber
+Gasket
+Graphite Pad
+8Qmm
+Measurement
+Hole
+Hale
+Heighi
+Anncm
+Diameler
+Wclh
+Nominae
+29.22
+28.26
+45-90
+27.96
+98./6
+Actua
+29,24
+43.89
+98.72
+DIff
+PassiFail
+Ensure all measuring tools were properly calibrated_
+Review failed items against the corrective-action
+register. Confim that pass rates meet the defined acceptance criteria_
+Record any measurement anomalies
+for follow-Up analysis:
+Instrument Calibration Log:
+Instrument
+Serial No 
+Last Calibration Date
+Caliper
+37975
+2024-09-09
+Laser Scanner
+43750
+2025-01-23
+Micrometer
+65918
+2025-02-02
+CMM
+40239
+2025-04-21
+Hinge

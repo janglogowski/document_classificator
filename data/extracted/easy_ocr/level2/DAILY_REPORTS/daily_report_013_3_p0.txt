@@ -1,0 +1,129 @@
+DAILY PRODUCTION REPORT
+Report No.
+PR-516
+Customor; SWEDEN
+Shlf: B (Evenlng)
+Date: 12-01-2025
+Machlno
+Operatlon
+Technlclan
+From
+Finlsh
+Total
+Comments
+Condltlon
+Tlnie
+MC-202
+Polishing
+Magdalena
+08,00
+08,58
+Recallbraled
+Complatod
+Wikowska
+MC-206
+Weldlng
+Anna Nowak
+41215
+12,24
+NKA
+Delayed
+MC-209
+Cuiling
+Dawid
+08.15
+08,63
+OK
+Dalayed
+Oszmlanczuk
+MC-208
+Assembly
+Anna Nawak
+09,31
+Recallbrated
+progross
+MC-205
+Cuullng
+Przemyslaw
+13,00
+13,46
+Delay
+Wqskk
+progross
+MC-205
+Cuiting
+Agnlaszka
+0G.00
+07.,53
+113
+Recallbratod
+Complaled
+Zielinska
+MC-209
+Polishing
+Bartosz
+10.30
+11.36
+Wawizyoiak
+prourass
+MC-208
+Anna Nowak
+11.J0
+12.13
+NKA
+pronross
+MC-208
+Polishing
+Agniaszka
+08 00
+09.10
+NA
+Compleled
+Ziellmska
+MC-208
+Culling
+Wiktor
+08,0O
+08.49
+Recallbralod
+Kopezyrski
+progluss
+MC-204
+Welding
+Dowld
+10;16
+10.42
+OK
+Comnpleled
+Oszmlanczuk
+Usa Ins sumrtiary
+update Itie overall producllon dashboard; Conflrni Uhal scrap purcenlages allgn with
+quallty benchmarks; Nole any unscheduled stops In Ina downiime rogister, Verify (he (Inal counts ngainst
+Invontory recordls, Refor l0 remarks for any ruwork or quallity concars, Ensure shilt-handover notos Include
+any ponding issuos;
+Product ID
+Plannad
+Actual Qty
+Scrap Qty
+Scrap %
+Roworkad
+Uwagi
+Output
+Units
+RX-3ioz
+173
+165
+4,6290
+Rowork
+noeded
+RM BGON
+143
+100
+11,50%
+ZR-ZOSR
+125
+2,40%0
+Appraved by:
+Prepared by: 
+08.30
+Cutum]

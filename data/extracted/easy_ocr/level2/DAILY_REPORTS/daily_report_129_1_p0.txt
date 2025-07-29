@@ -1,0 +1,94 @@
+Production
+Report No;
+PR-710
+Customer:
+BELGIUM
+Supervisor:
+Peter Schmnidt
+Department:
+Qualty Contiol
+Dale:
+15-02-2025
+Shift:
+(Evening
+Machine
+Operation
+Worker
+Begin
+End Time
+Total
+Notes
+duration
+MC-204
+Welding
+Piotr
+09.00
+09.37
+Lowandowski
+MC-204
+Assembly
+Bartosz
+14.00
+15.17
+Wawzyniak
+MC-206
+Welding
+Bartosz
+12.00
+13.56
+116
+Wawrzyniak
+MC-208
+Polishing
+Mateusz
+13.30
+14-29
+Jarzma
+MC-208
+Cutting
+Mateusz
+08.30
+09.40
+Jarzya
+MC-207
+Cutting
+Wiktor
+10.30
+11.06
+Kopczynski
+Item ID
+Target Qty
+Actual Qty
+Rejected Qty
+Scrap %
+Remarks
+TL-90OX
+244
+207
+15.16%0
+Rework
+needed
+SB-140D
+276
+261
+5.43%
+Rework
+RE-850C
+216
+201
+6.949
+Scrap
+conilmed
+SL-430M
+185
+158
+14.59%0
+Scrap
+confirmed
+Prepared by:
+Laura Rossi
+Approved DY:
+Carlos
+Garcia
+Log
+needed

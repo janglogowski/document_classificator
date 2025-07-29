@@ -1,0 +1,82 @@
+DAILY PRODUCTION REPORT
+Redar No; :
+PR-262
+Cusomer:
+FRANCE
+Supervisor
+Peter Schmidt
+penartment
+Assemoiv
+Date;
+21-09-2024
+shift;
+C (NiRht)
+Equipment
+procus
+Operator
+End Tlme
+Toti
+Comments
+duration
+MC-202
+Welding
+Mateusz
+08.15
+09.40
+Recallbrated
+iarvnz
+MC-203
+Welding
+Kowalski
+11330
+13.19
+109
+MC-206
+Assembly
+Midlcus
+09.15
+10.15
+N/A
+Jarzyna
+MC-205
+Pollshing
+Banos
+08.00
+08,33
+Recallbrated
+Wawrzyniak
+MC-203
+Assembly
+Przemyslaw
+08.30
+10,25
+Wasik
+puanned
+Qty
+Actua
+Qty
+Defect QtY
+Failuce
+Uwari
+MX 450L
+122
+347S
+scrp contrmed
+MS G00I
+285
+CN-1S0C
+8,8796
+FT-730X
+194
+7854
+Revorkneeded
+ZR-Z05R
+236
+770
+Reworeneeded
+Preparedby:
+Carlos Garcia
+Appraved by:
+Carlos Garcla
+Begin
+em

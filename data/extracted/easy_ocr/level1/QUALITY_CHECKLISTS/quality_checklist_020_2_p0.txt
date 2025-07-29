@@ -1,0 +1,85 @@
+Quality Checklist
+Please review
+each checklist point and mark the sampling results. Refer to the quality
+sampling
+plan references
+Confirm that sampling levels comply with customer agreements
+This checklist captures
+quality inspection points ad sampling levels. Check that inspection steps follow the approved procedure:
+Ensure all non-conforming marks are clearly documented_
+Entries include both visual and functional
+inspection items. This section details quality requirements and test points for the batch:
+Product ID
+ZR-2O5R
+Customer ID
+GREECE
+Iten Descrption
+LED Light Strip
+Quality Check Items
+Check
+Severity
+Notes
+Intensity
+Product Requirements
+CR
+MA
+Hold
+Packaging
+does not match
+Level |
+Minor issue observed
+signod sample
+Exposed nail with sharp point
+Level
+Needs review
+Rubber Switch not working
+Level
+Functionality test failed
+Critical impact
+Battery not included
+Leve
+Color mismatch
+Levei
+Minor issue Obsenved
+Missing
+warning labe
+Lave
+Critical impact
+Carton
+damaged Or
+Level
+markings inconect
+incorrect
+orientation in box
+Level |
+Needs review
+Dustdebns inside packaging
+Needs review
+Wrong product size
+Level
+Critical impact
+Sharp edges on plastic
+Level =
+componens
+Incorrect quantity
+Level III
+Minor issue observed
+assomment
+Wood splinter or sharp point
+Level /
+Minor issue observed
+on product
+Screws loose or missing
+Level
+Critical impact
+Package
+not sealed
+Level
+Needs review
+complelely
+Paint_smearing
+scralches
+Level
+Supervised by:
+Date:
+reqister

@@ -1,0 +1,111 @@
+Machine Log Summary
+Performed On: 2023-08-10
+Jauna kossi
+Performed bY:
+Feter Schmidt
+This maintenance extract
+prepared
+comcliance amdittrails
+Use this summany
+forecast Darts renlacementand recoutCE
+needs
+ease revlew thls log for recent service dates, types, ad remarks
+Refer
+[ne maintenance (ecister
+deralled serice
+histories
+ensure
+saiety chec 5 "ere comp eted qurimz sercinp
+Section
+Machine
+MC-203
+MC-291
+MC-228
+MC-221
+MC-275
+MC-255
+Machine
+Hydraullic Press
+Wasancuner
+palnt Booth
+Laser
+Cantfer
+Assembly
+Conveyo
+Rocoi
+Senvice ype
+preventive
+nspection
+Inspection
+Lomective
+Preventive
+creventive
+Operator
+caric; Garcia
+Jankowakke
+Anna Nowaa
+Laua Rassi
+Caric; Garcia
+Canos Gancia
+Downtime
+Notes
+Sensor
+Tightened
+Refilled oil (HLP
+Wnoden
+Reniace
+[Ccond
+-D0sd boll}
+checked
+and filters_
+Section
+Mechine ID
+MC-294
+MC-721
+MC-755
+MC275
+MC-201
+MC-737
+Maching
+Laser Cutter
+Laser Cutter
+Conveyor Belt
+Assemci
+Aydraulic Pres;
+Convevor Belt
+Hobot
+Service Lype
+Irk oclon
+Inspection
+lnspection
+Lonecve
+Prevenlive
+nise clion
+Operator
+Peter Schmidi
+Schmict
+Carlos Garcia
+amtat0551
+Peter Schmidi
+Peter Schmict
+Downtime
+Notes
+523506
+Changed oll
+Refilled
+MHLP
+Changed oll
+LI-Icn battery
+sshen
+recalibrated
+and filters
+and fitets
+pac< serviced
+tound
+uptime
+anroncomai
+Notes
+97,.3406
+Bolt Lightened
+Sencd
+red

@@ -1,0 +1,130 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-516
+Customer: SWEDEN
+Shift:
+(Evening)
+Date: 12-01-2025
+Machine
+Operation
+Technician
+From
+Finish
+Total
+Comments
+Condition
+Ime
+MC-202
+Polishing
+Mlagdalena
+08 00
+08.58
+Recalibraled
+Completed
+Witkowska
+MC-206
+Welding
+Anna
+Nowak
+11.15
+Delayed
+MC-209
+Cutting
+Dawid
+08.15
+08.53
+Delayed
+Oszmianczuk
+MC-208
+Assembly
+Anna Nowak
+08.30
+09.31
+Recalibrated
+progress
+MC-205
+Cutting
+Przemyslaw
+13.00
+13.46
+Delay
+Wasik
+progress
+MC-205
+Cutting
+Agnieszka
+06.00
+07-53
+113
+Recalibrated
+Completed
+Zieliiska
+MC-209
+Polishing
+Bartosz
+10.30
+11.36
+Wawzyniak
+progress
+MC-208
+Cutting
+Anna Nowak
+11.30
+12.13
+NA
+progress
+MC-208
+Polishing
+Agnieszka
+08-00
+09.10
+NIA
+Completed
+Zielliska
+MC-208
+Cutting
+Wiktor
+08.00
+08.49
+Recalibrated
+Kopczynski
+progress
+MC-204
+Welding
+Dawid
+10.15
+10.42
+Completed
+Oszmiariczuk
+Use tnis summary
+update the overall production dashboard
+Confirm that scrap percentages align with
+quality benchmarks, Note any unscheduled stops in the downtime register. Verily the final counts against
+inventory records. Refer
+remarks for any rework
+quality concerns
+Ensure shift-handover notes include
+pending issues:
+Product ID
+Planned
+Actual Qty
+Scrap Qty
+Scrap %
+Reworked
+Uwagi
+Output
+Units
+RX-310Z
+173
+165
+62%6
+Rework
+needed
+RM-86ON
+113
+11.5080
+ZR-ZO5R
+125
+122
+2.40%0
+Approved by:
+Prepared by:

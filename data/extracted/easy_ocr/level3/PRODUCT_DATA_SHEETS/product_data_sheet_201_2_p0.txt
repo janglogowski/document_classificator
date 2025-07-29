@@ -1,0 +1,79 @@
+Product Overvizw
+product-release checklist: Use this sheet =
+confirm engineering requirements
+This technical overview supports the-
+the technical parameters and construction
+Ensure all referenced standards &re UP
+date; Below are -
+and tolerances
+validate assembly instructions;
+materials for the unit: Use this spec
+I400
+Product ID:
+PR 720
+Internal No:
+Can0s
+Date: 2024-07-17
+bv: Laura Rossi
+Approved by:
+Prepared
+Preaure
+180 bar
+Coaling Circulation
+Unit Type
+Svstem
+230v [50 Hz
+60 Lmin
+Supply Voltage
+70 dBIA)
+Throughput
+Noise Leve
+Working Temp: Range
+10cto 55"C
+160 L
+Aluminum Frame
+Reservoir
+Frame Materia
+tha} the listed materials are approved for the
+Cnsure
+Blossavry terms match the engineering nomenclature
+Ensure
+This clbsure note indicates the
+Epplrtarion Alspeciications meetthe desgn tequtecertevied nduythe tadaperir
+LIsuminany
+comments
+Data sheet nas been peer-revifewed by the engineering team;
+data sheet [
+ready for release
+Wuthin
+detined design ana safety margins
+have
+necm
+recorded in the revision log; Overall configur?tion
+Material of Construction:
+Composition
+Label
+Ceramic Oxide
+Fyse SA
+Palycarhanate
+Copper
+Power Switch
+Glass-Filled Nvlon
+LFD Ught Strp
+Aluminumi 6061-T6
+Capacitor 4S0V
+Zicc-
+Scel
+Bolts M1Z
+Teflon Tape Roll
+Teflon Tape Roll
+Siliconc Rubber
+Ccoling Gel Pack
+Srainless Steel 304
+Hinge Set
+thecito
+Garcla
+Design
+@apacity
+piated
+het

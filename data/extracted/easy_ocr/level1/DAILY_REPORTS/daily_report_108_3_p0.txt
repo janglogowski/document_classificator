@@ -1,0 +1,150 @@
+Shift Summary
+Report No:; PR-885
+Customer: TURKEY
+Shift:
+(Evening)
+Date: 13-07-2024
+Machine
+Operation
+Technician
+From
+Duration
+Notes
+Stage
+(min]
+MC 205
+Cutting
+Amn Nowar
+06.00
+07.19
+Delay
+In progress
+MC-201
+Welding
+Nacia Sauter
+10.15
+Jl0 4
+Recalibrated
+Delayed
+Mc-203
+Cutting
+Nadia Sauter
+06.00
+Completed
+MC
+Polishing
+Jan Kowalski
+40.30
+Delay
+Inprogress
+MC-20Z
+Cutting
+Anna Noval
+08-14
+leteo
+MC-205
+Asseinbly
+Plotr
+09.00
+09.21
+Delay
+In progress
+Lewvandowski
+MC-207
+Polishing
+Jan Kowalski
+06.00
+07-56
+116
+in progress
+MC-205
+Cutting
+Mateusz
+11.00
+12.50
+110
+NYA
+In progress
+Jarzvra
+MC 205
+Welding
+Bartosz
+14.30
+15.57
+NJA
+pioaess
+Wawryniak
+MC-208
+Cutting
+Nadia Sauler
+06.30
+07-05
+Recallbraleo
+Cumpleleo
+MC-207
+Polishing
+parost
+06.15
+08-09
+Delayed
+Wawrzynlak
+MC 209
+Cutting
+Nvacia Sjutci
+11.15
+progress
+No critical delays were
+Jdserved-
+please
+address any minor issues noted
+Confirm that scrap percentages align with
+quality benchmarks
+Ensure routine maintenance between shifts
+maintain consistent output; Ensure shift-handover
+notes include any pending issues. Use this summary
+update the overall production dashboard. Refer
+remarks for
+any rework Or
+quality concerns
+Product ID
+Planned
+Achieved Qty
+Rejection %
+Rework
+Notes
+Output
+Count
+VF-220D
+214
+196
+8.41%
+Rewon
+needed
+BZ-660F
+269
+259
+7296
+Scrap
+contirmed
+5B-140D
+228
+4.82712
+VF-220D
+185
+2484
+MX-4S0L
+133
+6.02%0
+Rework
+needeo
+Ce-9oSL
+170
+170
+D.D0
+Rewor
+needeo
+Approved by:
+Prepared by: _
+Coinp
+1149
+Scrap

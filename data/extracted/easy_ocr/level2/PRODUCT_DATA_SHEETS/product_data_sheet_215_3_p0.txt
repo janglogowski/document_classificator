@@ -1,0 +1,42 @@
+Report No 8422943
+Product ID: TR-200B
+Date: 2023-11-04
+Configuration Iype
+Hpraulic Poker Unt
+Rated Pressure
+250 bar
+Throughput
+75 Lmin
+Operating Voltage
+480 VAsOHz
+Noise Level
+72 dB(AL
+Mounting
+Wall-mounted
+Pump
+Vane Rump
+Working Temp Range _
+5Cto 450
+Total Weight
+230kq
+Component Materals Ovenview:
+Subcomponent
+Raw Matenal
+Speciication
+LED
+Stp
+Glass Filled Nlon
+UL Iisted
+Hex Bolts M12
+Zinc Plated Steel
+Heatresistant
+Wlirng Loom
+PVC (Rigid]
+Heat-esistant
+Capacitor 450V
+Aluminum 6061-76
+RoHS compliant
+Prepared by: Jan Kowalski
+Approved by: Carlos Garcia
+Lype
+Lan

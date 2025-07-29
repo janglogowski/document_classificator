@@ -1,0 +1,140 @@
+Production
+Repont No
+PR-696
+Customer;
+BELGIUM
+Supervisor:
+Carlos Garcia
+Department;
+Asscmc
+Date
+27-12-2023
+Shlt:
+Evening)
+Machine ID
+Jask
+Worker
+Begin
+Finish
+Tota
+Timo
+Uwagi
+MC-202
+Drlling
+Jan Kowalski
+10.00
+11.2
+MC-204
+Drlling
+Agnieszka
+12.15
+12.40
+Recalibrated
+Zielinska
+MC-203
+Polishing
+Mateusz
+07.30
+08.49
+NIA
+Jarzya
+MC-203
+Cutting
+Piolr
+06.00
+07.57
+NA
+ewandowski
+MC-208
+Assembly
+Mateusz
+08.15
+08.57
+Jarzyna
+MC-202
+Assembly
+Anna Nowak
+06.30
+07-26
+Recalibrated
+MC-206
+Culting
+Mateusz
+14.00
+15.42
+102
+Jaizyna
+MC-201
+Drilling
+Anna Nowak
+09.30
+107
+MC-205
+Drilling
+Wiktor
+06.15
+06.59
+Recalibrated
+Kopczynski
+MC-209
+Drilling
+Przemyslaw
+13.30
+14.41
+Delay
+Wasik
+MC-203
+Welding
+Dawid
+06.30
+07.03
+Recalibrated
+Oszmiariczuk
+MC-207
+Drilling
+Agnieszka
+12.15
+14.04
+109
+Recalilbrated
+Zieliiska
+Part ID
+Targot Qty
+Actual Qty
+Scrap Qty
+Rejection %
+Comments_
+QP-G60F
+211
+182
+13.7490
+GL-9805
+266
+248
+6.77%
+Scrap
+confirmed
+XD-710R
+181
+166
+8.299
+Scrap
+confimed
+ZR-2O5R
+230
+71%
+Kv-390K
+222
+219
+3590
+Rework
+needed
+~900X
+205
+839
+Prepared by:
+Peter Schmidt
+Approved by:
+Schmidt
+Log
+Petet

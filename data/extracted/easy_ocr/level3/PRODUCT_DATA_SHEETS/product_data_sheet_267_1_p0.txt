@@ -1,0 +1,103 @@
+Unit Configuration
+Project:
+CE-CO5L
+Interal No;
+5860439
+Prepared B%:
+Anna Nowak
+Approved By:
+Jan Kowalski
+Location: Plant 3A
+Date
+2024-01-30
+This dala sheet provides key specificalions and material details
+This report extract is prepared for design-
+verification audits. Please review the specifications and material composition listed below. Use this spec
+to validate assembly instruclions
+The parameter register below includes operating limits and ratings
+Ensure all referenced standards are up t0 date.
+Unit Type
+Cooling Circulation
+Design Pressure
+210 bar
+System
+Fluid Flow
+60 Lmin
+Voltage
+400 VAs0Hz
+Battery Capacity
+2 Ah
+Frame Material
+Aluminum Frame
+Service Interval
+1000
+Filtration
+10 Um return; 25 uM
+suclion
+Mouiiting
+Rack frame
+Reservoir Capacity
+Total Weight
+230 kg:
+Noise Level
+572 dB(AL
+Working Temp
+Range
+59C t0 45'C
+Control Valve
+Manual Override 3/2
+Dimensions (LxWxH
+1200
+z00x u100Mm
+Charging Time
+2h
+Cooling
+Water-cooled
+Pump Type
+Gear
+Pump
+exchanger
+Protection Class
+IP67
+Oil Type
+Mofor Power
+KW
+Ensure thal the listed materials are approved ior the application
+closure note indicates Ihe data sheet
+ready for release: Confimm thal all test conditions are
+ccurately represented
+Document control numbers
+are included for traceability.
+Material of Construction:
+Label
+Composilion
+ED Light Sup
+Slass
+illed Nilon
+Suppon Fcot Steel
+Stainless_Steel 304
+He^ Balts M12
+Zirc-Plated Steel
+Digual Display Unit
+ABS Plastic
+Pressure Valve
+Brass CZ121
+Graphite Pad
+Graphite Pad
+Capacitor 450V
+Aluminum 6061-T6
+Heat Sink ALU
+Aluminum 6061-T6
+Set
+Stainless Steel 304
+Power Swilch
+Polycarbonate
+Copper
+Connector 2P
+Glass-Filled Nylon
+Thermal Fuse
+Ceramic Oxide
+sheel
+HLP
+Tnis
+Hinge

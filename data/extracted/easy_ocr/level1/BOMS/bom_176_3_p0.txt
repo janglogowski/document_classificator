@@ -1,0 +1,67 @@
+BOM Report
+The component roster below includes unit costs and batch codes This document provides
+detailed breakdown of all components required for the assembly process. All line-item costs are
+current as per vendor quotes: This extract shows the bill of components and total projected spend_
+Below is the component listing and associated costs for the upcoming production batch: Use this
+schedule of parts t0 align with sourcing and stock levels.
+Item
+Qty
+UOM
+Rate
+Amouni
+Remarks
+Description
+Copper
+0.60
+9,00
+SKF brand
+Wire 3mm
+Digital
+pcS
+15.00
+285,00
+ISO-verified
+Display
+Unit
+Epoxy
+pCS
+167.90
+Resin Kit
+pcS
+0.30
+15,30
+Certified
+batch
+Packaging
+pCs
+15,00
+Box
+Fuse 5A
+pCS
+0.30
+11,70
+ROHS
+compliant
+Battery
+pCS
+25.00
+75,00
+Switch
+Pack
+tested OK
+Epoxy
+pCS
+430
+284.70
+ISO-verified
+Resin Kit
+Customer ID: POLAND
+Coordinator: Carlos Garcia
+Date: 2025-03-25
+Product ID; TX-820v
+Internal No_
+4560809
+Order Qty: 372
+Total Amount:
+863.60
+Fuso"

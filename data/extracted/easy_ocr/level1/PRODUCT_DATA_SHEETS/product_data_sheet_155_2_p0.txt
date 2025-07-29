@@ -1,0 +1,89 @@
+Component Overview
+Check that all materia
+sdecs
+align with supplier certifications
+Entries include both mechanica
+and electrical
+specifications
+Refer
+this configuration summary for unit
+designation mapping: Below are the technica
+parameters
+and construction materials for the unit. The parameter
+egister belov
+includes
+aperating limits and ratings This
+report extract
+nrenaren
+for design-verification
+Judlts
+praductId
+LP-5S5V
+Report
+PR-21
+Preparec
+bv; Laura Rossi
+Approved bY: Jan Kowalski
+Date
+2025-06-17
+Mladei
+Type
+Hudraulic Powe
+Unit
+Design Pressure
+210 par
+Flow Rate
+60 L{min
+Voltage
+50 Hz
+Protection Class
+IPSA
+Controi
+Valve
+Direclona
+Service Interval
+12 months
+Noise Level
+70 UBIAJ
+Charging Time
+Document contro
+numbers are Included for traccability. Check that all section headers follow the product template.
+This closure note indicates the data sheet
+reay
+lease. Data sheet has Eeen
+Deer-reviewed
+Dvthe
+engineering
+Fezm
+Overji
+configuration
+within defined design and safety margins
+Confirm that all test conditions are accurately
+represenicc
+Material of Construction:
+Subcompanent
+Raw Material
+Insulated Tube 2Smm
+Thermoplastic Polyurethane (TPU)
+Gasket Sheet
+Nitrile Rubber INBRL
+Support Foot Stee
+Staunless See
+Wcdun
+Pallet
+Treated Ping Wood
+Nut M6
+Zinc-Plated Stee
+Bearing 6202 77
+Stainless Steel 304
+Battery Pack
+Lithium-Ion Cell Pack
+Rubber Gasket cOmnm
+Nitrile Rubber INBRI
+Ring NBR GOrum
+Nitrile Rubber INBRL
+Capacitor 4S0V
+Auiminum 6061ct6
+Grapnic Pod
+Gldumc
+No :

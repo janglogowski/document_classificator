@@ -1,0 +1,90 @@
+BOM Report
+This document provides
+detailed breakdown of all components required for the assembly
+process.
+The parts manifest here is designed t0 support procurement workflows. Use this
+schedule of parts t0 align wilh sourcing and stock levels
+All entries reflect the latest inventory and
+supplier rates.
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+pCS
+128.00
+Urgent
+s0Omm
+Shaft
+pcs
+8.00
+296.00
+ROHS
+50Omm
+compliant
+Plastic
+pCs
+0.20
+5.60
+ISO-
+Rivets_
+verfed
+Heat
+2.70
+51.30
+Li-Ion
+Resistant
+battery
+Sleeve
+installed
+Cable Tie
+pCS
+42.75
+ROHS
+Pack (100)
+compliant
+Shaft
+pcs
+8.00
+184.00
+Certified
+s0Omm
+batch
+Insulation
+pCS
+3.20
+35.20
+Foam Pad
+Sensor
+pcs
+0.95
+Imported
+Clip
+Cable Tie
+pCS
+0.95
+3.80
+Li-Ion
+Pack (100)
+baltery
+installed
+Ventilation
+pCS
+5.60
+112.00
+Eco
+Grid
+compliant
+Customer ID: GREECE
+Coordinator: Jan Kowalski
+Date:
+2022-10-28
+Product ID: NE-2454
+Internal No : 2339554
+Order Qty: 362
+Total
+Amount:
+860.55

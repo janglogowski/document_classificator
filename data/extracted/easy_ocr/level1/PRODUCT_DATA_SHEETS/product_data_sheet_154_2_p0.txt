@@ -1,0 +1,65 @@
+Unit Configuration
+Below are the technica
+parameters Jnc
+construction materials for the unit Confirm that performance
+anges comol
+with project requirements
+The parameter register below includes operating limits and ratings Check that all material
+specs align with
+supplier certifications. This report extract
+prepared far
+design-verification audits. This data sheet
+provides ke specifications and
+Materiz
+details,
+Product ID
+HF-3904
+Document No:
+192
+Preparec
+bv: Jan Kowalski
+Approved bY: Jan Kowalski
+Date; 2024-06-10
+Unit Type
+Pneumatic
+Contral Unit
+Design Pressure
+300 bar
+Fluid
+30 L{min
+Operating Voltage
+50 Hz
+Filtration
+Lmn iniine,10 km relurn
+Cooling
+Water-cooleu exchange
+Charging Time
+Battery Capaclty
+Dimensions (LxWxH)
+1000
+650
+1000 mm
+Use this summary
+cross check with BOM and inspection reports:
+Document control numbers are included for
+traceability- All specifications meet the design requirements and industry standards
+This summary reflects the latest
+revision ofthe product data: Archive this summary for future design-change management Ensure that the listed
+materials are approved for the application.
+Material of Construction:
+tem
+Base
+Nut M6
+Zinc-Plated Stee
+Winne_
+DOM LM
+PVC (Rigidl
+Gaskel
+Shee44
+Nitrile Rubber INBRI
+Cable Tie Pack (10Q)
+Nitrile Rubber INBR)
+Support
+coot Stee
+Stainless Steel 304
+Flow

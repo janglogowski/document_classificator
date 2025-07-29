@@ -1,0 +1,99 @@
+Product Overview
+Project:
+XD-T1OR
+Document No.
+PR-7O0
+Prepared
+Peter Schmidt
+Approved By:
+Peter Schmidt
+Location: Plant 2B
+Date
+2023-08-27
+The following information outlines performance characteristics and design data_
+Belov are the technical
+parameters and construction materials for the unit: This section details the configuration and parameter set
+for Ihe product: Use this spec sheel
+validate assembly instructions. Check that all materal specs align
+with supplier cortifications_
+Confirm that performance ranges comply with project requirements:
+Model Type
+Pneumatic Control Unit
+Operating Pressure
+180 bar
+Throughput
+60 Lmin
+perating Voltage
+480
+60 Hz
+Dimensions
+LxWxH)
+1200
+700 * 1100 Mm
+Reservoir Capacity
+Working Lemp
+Range
+10*0
+Service Interva
+12 months
+Control Valve
+Directional 4/3
+OIl Type
+HLP 68
+Battery Capacitx
+Pump Type
+Gear Pump
+Charging Time
+Protection Class
+4P6
+Noise Level
+70 dB(A)
+Cooling
+Water-cooled
+exchanger
+Total
+Weight
+180
+Mounting
+Rack frame
+Motor Power
+7.5kW
+Filtration
+10 um return; 25 Vm
+sucton
+Document control numbers are included for traceabillty. Check that all section headers follow the product
+template. Confirm that all test conditions are accurately represented
+Refer
+parameter table for operating
+ranges and tolerances:
+Material of Construction:
+Subcomponent
+Raw Material
+Battery Pack
+Lithium-Ion Cell Pack
+Steel Sheet 436
+Carbon Steel 436
+Capacitor 450V
+Aluminum 6061-76
+Cooling Gel Pack
+Silicone Rubber
+Hex Bolts M12
+Zinc
+lated Steol
+Support Foot Stee
+Stainless Steel 304
+Nut M6
+Zinc-Plated Steo
+Hinge Set
+Stainless Steel 304
+Insulated
+Tube 25mm
+Thermoplastic
+Polyurethane (TPU)
+LED Light
+Glass-Filled Nylon
+Connector 2P
+Glass-Filled Nylon
+Wooden Pallet
+Treated Pine Wood
+Stp

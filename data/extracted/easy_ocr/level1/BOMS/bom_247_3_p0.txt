@@ -1,0 +1,91 @@
+BOM Report
+The following table summarizes the materials and quantities needed for the current project. This
+document provides
+detailed breakdown of all components required forthe assembly process. The
+componentroster below includes unit costs and batch codes. All entries reflect the latest inventory
+and supplier rates_
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Battery
+25.00
+75.00
+Eco
+Pack
+compliant
+Ceramic
+2.10
+65.10
+Certified
+Disc 8Omm
+batch
+Spring
+0.05
+2.40
+Switch
+Washer
+tested
+M1O
+Control
+12.00
+144.00
+Certified
+Panel
+batch
+Mount
+Spacer
+0.15
+For export
+2mm
+Grease
+11.40
+For export
+Tube 250ml
+Hex Bolts
+0.25
+8,25
+High grade
+M12
+Battery
+pCS
+25.00
+150.00
+ISO-verified
+Pack
+Cable Tie
+pCS
+0.95
+20.90
+Eco
+Pack (1001
+compliant
+Fuse 5A
+pCS
+Eco
+compliant
+Stainless
+0.35
+14.70
+Imported
+Bolt MB
+Hinge Set
+2.50
+107.50
+Urgent
+Review this summary against the master budgeting sheet This final review contirms that allitems
+are ready
+for requisition
+Customer ID: CANADA
+Coordinator: Anna Nowak
+Date: 2023-12
+Product ID; PL-6012
+Internal No_
+6679990
+Order Qty: 303
+Total Amount:
+613.65
+pCS

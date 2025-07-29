@@ -1,0 +1,95 @@
+Quality Checklist
+Refer to the quality register for sampling-plan references: The following table outlines inspection criteria and
+classification levels
+Use this list t0 confirm adherence t0 AQL and
+safety standards. Entries include both
+visua
+and functional inspection items;
+Confirm that sampling Ievels comply with customer agreements_
+This
+section delails quality requirements and test points for Ihe balch
+Check thal inspeclion sleps follov the
+approved procedure; Please review each checklist point and mark the sampling results.
+Product ID
+ON-770H
+Customer ID
+FRANCE
+Item Description
+Copper Wire 3mm
+Audit Criteria
+Inspection
+Severity
+Observations
+Depth
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Wood splinter
+snarp
+Minor issue
+Level /
+point 
+product
+observed
+Carton
+damaged or
+Level III
+markings incorect
+Rubber
+exture
+Minor issue
+Level /
+glossiness mismatch
+Doseniem
+Wrong product size
+Level
+Critical impact
+Incorrec
+barcode or
+Level II
+Needs review
+label
+Package
+not scaled
+Level II
+Critical impact
+completely
+Minor issue
+Connector not working
+Level /
+Dosanvem
+Paint smearing or
+Level III
+Needs review
+scratches
+DusUldebris inside
+Level /
+Critical impact
+packaging
+Minor issue
+Functionality test failed
+Level III
+observed
+Dead or live insect in
+Level
+packaging
+incorreci
+orientation
+Minor issue
+Level III
+observed
+Not assembled as per
+Level II
+Minor issue
+drawing
+observed
+Missing logo
+warning
+Level /
+Needs review
+label
+Supervised by:
+Date:
+b0x

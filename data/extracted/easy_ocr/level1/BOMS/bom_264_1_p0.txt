@@ -1,0 +1,102 @@
+BOM Report
+Customer ID: GREECE
+Coordinator: Laura Rossi
+Date:
+2023-10-12
+Product ID: MC-540X
+Intema
+No : 320411
+Order Qly: 477
+This extract shows the bill of components and total
+projected spend_
+The following table
+summarizes the materials ad quantities needed for the current project:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+1.47
+10%
+pCS
+1.10
+27.50
+Hinge
+Cover
+alignment
+150x150
+adjusted
+Shaft
+590
+pCS
+8.00
+56.00
+Li-Ion
+s0Omm
+battery
+installed
+Gasket
+3.32
+0%
+pCS
+1,.25
+8.75
+Imported
+Sheet A4
+Copper
+1.06
+29/
+0.60
+12.60
+Wire 3mm
+alignment
+adjusted
+LED Light
+2.28
+0%
+2.50
+65.00
+Imported
+Strip
+Ceramic
+1,47
+10%
+pCS
+2.10
+14.70
+Hinge
+Disc 8Omm
+alignment
+adjusted
+Bearing
+3.24
+0%
+pCS
+1.50
+27.00
+For
+6202 ZZ
+export
+Terminab
+0.99
+290
+pCS
+3.40
+37.40
+Urgent
+Block 4P
+Ensure archival of this materials summary for compliance records_
+All sourcing notes have been
+logged for audit purposes
+Total
+Amount:
+248.95
+Approved By:
+Sourcing Department:
+Hinge

@@ -1,0 +1,85 @@
+Product Data Sheet
+Praiect:
+TX-820v
+1715595
+Prepared
+Carios Garcia
+Approved By:
+Peter Schmiat
+Location; Plant 34
+Date; 2025-06-01
+Made
+Type
+Cooling Circulation
+Rated Pressure
+210 bar
+Svstem
+Throughput
+75 Lmin
+Voltage
+480 V,60Hz
+Oil Type
+HLP 46
+Control Valve
+Manua
+Override 3/2
+Pump Type
+Gear PuMp
+Charging Time
+Frame
+Materia
+Working
+Range
+10"Cto5o c
+Mounting
+Skid base with vibratlon
+Dimensions
+(LxWxH)
+1200 * 700 x 1100 mm
+puds
+Nolse Level
+70 dBIA)
+Cooling_
+Water cooled exchange
+Protection Class
+Filtration
+um inline, 10 um return
+Service Interval
+1000 h
+Total Weight
+180 kg
+Motor
+Battery Capacity
+Reservoir
+Capacity
+Material of Construction:
+Subcompanent
+Raw Material
+Support Foot Stee
+Stainless
+Fuse
+Ceramic Oxide
+Rubbl
+Gaskel Somm
+NitrIle Rubber INBR)
+Sneet 436
+carbon stecl 436
+Light
+Filled Nylon
+Heat Sink ALU
+Muminum
+6061-T6
+Hex Bolts M12
+Zinc-Plated Steel
+Cannector 2P
+Gi455-Flle d
+Nylon
+Insulated lube Zsmi
+Thermioplastic Polyurethane (TPU)
+Stainless Stee
+Frame
+Temp
+Power
+Stee
+StTp
+Hinge

@@ -1,0 +1,88 @@
+Production Log
+Report E
+PR-140
+Custamen:
+POLAND
+Supervisor:
+LnnaNowak
+Department:
+Quality Control
+ate
+02-202
+Shift;
+(Evening)
+Machine ID
+Operation
+Operator
+Start Time
+Total
+Notes
+duration
+MC-207
+Polishing
+piotr
+06;15
+07.48
+Lewandowski
+MC-209
+Cutting
+Dawid
+11.30
+12.30
+Oszmianczuk
+MC-204
+Polishing
+Bartosz
+14;15
+16.09
+114
+NA
+Wawizyniak
+MC-207
+Welding
+Nadia Sauter
+07,O
+07.30
+Delav
+MC-203
+Drilling
+Magdalena
+06;30
+07.45
+Recalibrated
+Witkowska
+Product ID
+Target Qty
+Achieved Qty
+Defect Qty
+Scrap %
+Remarks
+115Q0
+249
+228
+8,4356
+RM-BGON
+182
+173
+4.9550
+Scrap
+contirmed
+TX-820v
+226
+193
+14.6090
+Scrap
+confirmed
+KP-320E
+181
+171
+5,5206
+Scran
+contirmed
+Prepared by;
+Laura
+Rossi
+Approved bv:
+Cands
+Galcia
+No; -

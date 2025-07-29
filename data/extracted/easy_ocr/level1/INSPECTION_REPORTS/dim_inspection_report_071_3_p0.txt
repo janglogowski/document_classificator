@@ -1,0 +1,99 @@
+Component Dimensional Check
+Inspection performed by Laura Rossi on 2024-03-30.
+Refer
+the dimensional
+og for all component size readings. This summary of measurements supports
+metrology traceability. Check that all dimensions comply with ISO and company standards, The following
+data captures key dimensions and any deviations identified. Use this results summary t0 trigger any
+corrective actions;
+Environmenta
+Conditions: Temperaturez
+24.0 "C, Humidity: 57 %
+Article No.
+Part Name
+Dim.
+Nomina
+Observed
+Delta
+Status (VIX)
+TL-9oOX
+Plastic
+Width
+16.65
+16.52
+-0.13
+Rlvets
+LP-5S5V
+Shalt
+Height
+85.17
+85.34
++0.17
+so0mm
+VR-940T
+Rubber
+Length
+83.99
+83.83
+0.16
+Gaskel
+80mm
+RX-3102
+Rubber
+Height
+47.27
+47.46
++0.19
+Gasket
+BUm
+CN-150C
+Steel Sheet
+Height
+16.,07
+15.89
+-0.18
+A36
+RM-86ON
+Rubber
+Inner
+84.44
+84.32
+0.12
+Gasket
+Diameter
+B0mm
+CE-905L
+Hex Bolts
+Length
+22.89
+22.90
++0.01
+M12
+DX-777T
+Steel Sheet
+Thickness
+37.04
+37.06
++0.02
+A36
+MX-450L
+Battery
+Height
+57.98
+57.83
+0.15
+Pack
+FT-730X
+Plastic
+Width
+42.14
+41.99
+0.15
+Rivets
+GH-770J
+Power
+Thickness
+57.57
+57.57
++0.00
+Switch

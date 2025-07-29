@@ -1,0 +1,81 @@
+Inspection Register
+Please review each checklist point and mark the sampling results. Confirm that sampling levels comply with
+customer agreements
+Archive this list in the quality-management system. This closure summary indicates
+compliance with inspection crteria
+This checklist captures quality inspection points
+sampling levels _
+Product ID
+NU-4402
+Customer ID
+FRANCE
+Item Descrption
+Packaging Box
+Inspection Checklist
+Sample
+Defect Class
+Remarks
+Points
+Tier
+Component Criteria
+Critical
+Major
+Minor
+OnHold
+Rubber Switch not
+Level /
+Critical impact
+working
+Not assembled as per
+Critical impact
+drawing
+DoSe Or
+missing
+Level
+Needs review
+Incorrect
+quantity
+Level
+Critical impact
+assonment
+Carton
+damaged or
+Level IlI
+Needs revicv
+markings incorect
+Missing safely labels
+Critical Impact
+Paint smearing or
+Level /
+Critical impact
+scratches
+Minor issue
+Incorrect barcode or label
+Level /
+Obsenem
+Colar Mismalch
+Level
+Wood splinter or sharp
+point on product
+Level II
+Needs review
+Missing logo
+warning
+Level IlI
+Needs review
+label
+Dead
+live insect in
+Level Il
+Needs reviow
+packaging
+Hinges
+Dose
+Level
+Dustldebris inside
+Critical impact
+packaging
+Supervised by:
+Date:
+and
+scrovis

@@ -1,0 +1,26 @@
+Document No : 5840261
+Product ID: TX-B20V
+Dale:
+2023-07-20
+Model Type
+Pneumalic Control Untt
+Design Pressure
+180 bar
+Flow Rate_
+48 Umin
+Supply
+Reservoir Capacity
+230
+50 Hz
+Cooling
+Frame Material
+Stainless Steel Frame
+Water-cooled
+Battery Capacity
+exchanger
+Total Weight
+230 kg
+Motor Power
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski
+Voltage

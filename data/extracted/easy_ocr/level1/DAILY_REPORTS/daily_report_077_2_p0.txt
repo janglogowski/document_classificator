@@ -1,0 +1,81 @@
+Production Log
+ReponNo;:
+PR-943
+Customer'
+FRANCE
+Supervisor:
+Carlos Garcia
+Department;
+Quality Contral
+Shift:
+(Night)
+-05-2024
+This dashboard section highlights any production bottlenecks. Use this overview to assess throughput and
+efliciency levels
+Pleashrevinin
+today'$ operation log and output surmary (or each workstatian:
+Equipment
+Task
+Worker
+Start
+Total
+Notes
+Thermal
+Energy
+Time
+duratior
+Reading
+(kWh)
+MC-206
+Assembly
+Piotr
+07:30
+08:06
+78.7
+Lewandowski
+MC-206
+Welding
+Przemystaw
+10;15
+11;30
+Recalibrated
+74.5
+2.64
+Wasik
+MC-208
+Cutting
+Magda
+Jena
+13;15
+1411
+71.8
+174
+Witkowska
+MC-204
+Drilling
+Piotr
+06;15
+07;40
+Recalibrated
+59.8
+2,29
+Lewandowski
+MC-204
+Polishing
+Mateusz
+13;00
+1411
+74.8
+2.19
+Jarzyna
+MC-204
+Polishing
+Piotr
+07;00
+08;11
+58.2
+ewandowski
+Prepared by:
+Pater Schmidt
+ApDroveo
+Jan Kowalski

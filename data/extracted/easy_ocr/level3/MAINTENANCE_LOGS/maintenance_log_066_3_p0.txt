@@ -1,0 +1,111 @@
+Maintenance Checklist Report
+Performed On; 2024-08-30
+Signed off: _
+Jan Kawakst
+penormed Dvc
+Kowalski
+All technician comments are recorded for maintenance trend analysis_ Confirm that service intervals follow the preventive schedule:
+Tre equipment log below includes fault codes and correctiv
+notes
+Use this record tQ plan upcoming upkeep and repairs. This
+aectioncptures
+equipment status ad any maintenance cbservations
+ease reviey
+this log for recent service dates, types;and
+remarks
+Use thls $ urnmacy
+forecast parts replacement and resJufce needs
+section A:
+Unit Code
+MC 210.
+MC-277
+MC21
+MC ZJb
+MC-284
+MC726
+Maching
+CNC Milling
+Packag ng Line
+Lathe
+PackaginR Line
+Paint Booth
+Lonvevc
+Belt
+Hachina
+JPE
+Locrective
+prerenime
+Inspection
+Inspection
+Inspection
+Inspection
+Techniciam
+Larios Oarciz
+Jan Kowalski
+Laura Rossi
+Carc Carcia
+Anna Nowar
+powntime
+Commend
+L-lon
+battery
+Renlarer
+Alignmeni
+Isues
+No isues
+Reciaece
+004{enviced
+ccolant
+hunges
+loune
+fcund;
+coclanl,
+adlusted
+Sectlon [
+Unlt Code
+MC771
+MC-277
+MC-206
+MC 28"
+MC 265
+MC226
+Machlne
+Packaeing_ine
+Packaging Line
+Raint Bpoth
+PackaBIQELne
+Convyot Bcll
+Type
+Inspertion
+insheciiom
+Inspection
+Inspechon
+Unsdection
+-Conrective
+Tccnnichn
+Jan Kowalski
+Launzaci
+Lau
+Fnne
+Nowir
+Peter Schmidt
+Flos Gafcia
+Dowanume
+Comments
+Tightened
+Canbration
+Li-Ion @ati
+Rediaced
+Wcin Raikci
+locs,
+Dots
+checi
+se viced
+cooiant
+Upume
+Erfor count
+Notet
+923346
+Replaced Wuicr
+RoKDut
+Igplacsd

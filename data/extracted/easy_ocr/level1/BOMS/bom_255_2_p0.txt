@@ -1,0 +1,50 @@
+Customer ID: BELGIUM
+Prepared by: Anna Nowak
+Product ID: GL-980S
+Internal No:: 7179676
+All entries reflect the latest inventory and supplier rates
+Review the materials tally for compliance
+with budget allowances.
+Please review the itemized Iist of parts and material specifications before
+procurement: This document provides
+detailed breakdown of all components required for the
+assembly process.
+The
+manifest here
+designed t0 support procurement workflaws;
+Refer
+to this parts register t0 plan raw-material
+purchasing:
+No
+Item
+Set
+Aluminum
+Bearing 6202
+Shaft 500mm
+Cable Tie
+Description
+Bracket
+Pack (100
+Qty
+310
+609
+562
+UOM
+DCS
+Unit Price
+Amount
+775,.00
+555.00
+913.50
+296
+857.85
+Remarks
+Switch
+esled
+Imported
+For export
+SKF brand
+OK
+TOTAL: 11,397.35
+parts
+Hinge

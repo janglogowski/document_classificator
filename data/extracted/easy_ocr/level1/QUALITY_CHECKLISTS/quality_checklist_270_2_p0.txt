@@ -1,0 +1,51 @@
+Verification
+The following table outlines inspection criteria and classification levels. Use this extract
+coordinate
+sign-off
+with the QA manager: Refer to the quality register for sampling-plan references
+Entries include both visual
+and functional inspection itemns. This summary supports the production-release quality gate
+Product ID
+BZ-660F
+Customer ID
+POLAND
+Item Descrption
+Shalt 500mm
+Inspection Checklist Points
+Check
+Severity
+Notes
+Intensity
+Component Criteria
+Instruction manual
+missing
+Level
+damaged
+Connec
+not working
+Minor_issue observed
+Jncortec
+orientation
+LEvE
+mismatoh
+Needs review
+Sharp edges on plaslic
+Needs reviow
+comgonents
+Missing saiety labels
+Leve
+Needs review
+Not assembled as
+drawing
+Critical impact
+Incorrect quantity =
+assonient
+Product doesn pover on
+Leve
+Needs revew
+Visual defect on housing
+Needs review
+Supervised by:
+Date:
+Log
+Coior

@@ -1,0 +1,74 @@
+COMPONENT BREAKDOWN
+Below is the component listing and associated costs forthe upcoming production batch: Use this
+breakdown to verify sourcing and cost estimates_
+The parts manifest here is designed to support
+procurement workflows
+The component roster below includes unit costs and batch codes_
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Fuse S4
+3.90
+For export
+Spring
+pcs
+0.05
+1.15
+Certified
+Washer
+batch
+M1o
+Insulation
+pcs
+3.20
+41.60
+ROHS
+Foam Pad
+compliant
+Stainless
+pcs
+0.35
+15.75
+For export
+Bolt M8
+Rubber
+pcs
+For export
+Gasket
+80mm
+Digital
+15.00
+330.00
+Imported
+Display
+Unit
+Cable Tie
+pcs
+0.95
+4.75
+Switch
+(100)
+tested OK
+Digital
+pcs
+15.00
+450.00
+Display
+Unit
+Customer ID: NORWAY
+Coordinator: Peter Schmidt
+Date
+2024-07-12
+Product ID=
+BZ-660F
+Internal No_
+3894589
+Order Qty: 286
+Total Amount:
+851.65
+pCS
+Packy

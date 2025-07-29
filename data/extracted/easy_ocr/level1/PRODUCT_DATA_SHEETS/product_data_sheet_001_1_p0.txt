@@ -1,0 +1,89 @@
+Unit Configuration
+Proieci
+LP-555
+Report No
+PR-988
+Prepared By:
+Jan Kowalski
+Approved
+Laura
+Location; Plant 2B
+Date: 2025-02-17
+This section details the configuration and parameter set for the product: Use this sheet t0 confirm
+engineering requlrements and tolerances.
+dala entries are traccable
+design revision history. Reler to
+this configuralion summary for unit-designation mapping: Confirm that performance ranges comply with
+project requirements_
+Entries include bolh mechanical and electrical specificalions
+Unit Type
+Hydraulic Power Unit
+Rated Pressure
+180 bar
+Flow Rate
+60 Lmin
+Supply Voltage
+50 Hz
+Battery Capacity
+Filtration
+10 pm return, 25 pm
+sucion
+Cooling
+Water-cooled
+Total Wcight
+230 kg
+exchanger
+Reservoir Capacity
+160
+Frame Material
+Stainless Steel Frame
+Working Temp
+Range
+45"C
+Charging Time
+Pump_Lype
+Gear Pump
+Dimensions (LxWxH)
+1000
+650 _
+Q00 mm
+Mounting
+Skid base with vibration
+Noise Level
+72 dB(A)
+pads
+Motor Power
+Service Interval
+500
+Material of Construction:
+Pant
+Composilon
+Battery Pack
+Litnilm-
+Thema
+Ceramic Oxide
+LED Light Strip
+Glass
+illed
+Stecl Sheet A36
+Carbon Steel 436
+Insulated Tube 25mm
+Themoplastic Polyurethane
+Pressure Valve
+Brass CZ121
+Fuse 54
+Ceramic Oxide
+Capactor 450V
+Aluminum 6061-T6
+Hinge Se=
+Stainless Steel 30
+Tetlon Tape Roll
+Tellon
+Roll
+Gasket Sheel
+Nile Rubber (NBRI
+Support Foot Steel
+Stainless Steel 304
+Rossi
+Fuse
+Tapo

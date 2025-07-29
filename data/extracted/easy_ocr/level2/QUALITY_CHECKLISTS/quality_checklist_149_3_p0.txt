@@ -1,0 +1,71 @@
+Inspection Summary
+Audit Criteria
+Sample
+Severity
+Obserations
+Tier
+Product Requirements
+Critical
+Major
+OnHold
+Packaging
+duas na malem
+Level |
+Critical impact
+signed sample
+Color mismatch
+Level II
+Functionality test failed
+LevAI
+Rubber
+Swucnnol
+working
+LoveI
+Needs
+Euei
+Missing logo
+waming
+Level /
+Needs revicwv
+Label
+Package
+not sealed
+Level III
+Minor issue observed
+comdlelely
+Sharp edgas on plastic
+Minar Issu4 obsurved
+components
+Paint smearing
+Critical impact
+scratche
+Wrong product size
+Critical impact
+Not asscmbled as pCI
+Level Il
+Minor Issue observed
+drawing
+Missing salety labels
+Minor Issue observed
+Shipping mark E
+illegible
+Needs review
+missing
+Dead
+Uive insect in
+Level /
+Critical impact
+packapng
+Uncorecldncntalion
+Critical impact
+Screws loos@ Or missing
+LCVCEI
+Minor issue observed
+Reference Standaids:
+Standard
+Edition
+CE Directive
+2020
+UL 61010
+3rd Fd;
+Hinor

@@ -1,0 +1,101 @@
+BOM Report
+The following table summarizes
+section outlines the parts, unit
+rantetials and quantities needed for the current
+inventory and supplier
+and total amounts for assembly. All ,
+project This
+line-item
+rates
+Use this schedule of parts to
+entries reflect the latest
+costs are current as per vendor quotes,
+align with sourcing and
+levels
+Na
+Item
+Qty
+UOM
+Description_
+Rate
+Amount
+Remarks
+Hex Bolts
+M12
+pcs
+0.25
+6.25
+Plastic
+SKF brand
+Rivets
+pcs
+0.20
+1.40
+Control
+For export
+Panel
+pcs
+A12.00
+24.00
+Mount
+High grade
+Control
+pCS
+12.00
+180.00
+Mount
+Control
+Panel
+pCS
+12.00
+420.00
+Mount
+High grade
+LED Light
+2.50
+72.50
+Hinge
+Ventilation
+alighment
+Grid
+pCs
+5.60
+67.20
+adjusted
+Gasket
+High grade
+pcs
+Sheet A4
+48.75
+Ventilation
+ROHS
+Grid
+pCS
+5.60
+compliant
+140.00
+ISO
+verfied
+Please confirm supplier lead times to
+ensure timely delivery of all iteme:
+ID: TURKEY
+Product
+600p
+Coordinator:
+Garcia
+Date: 2023*05-19
+Internal No : 2425203
+Oty: 382
+Total Amount:
+980.10
+the
+pnces
+stock
+Fanel
+Eco
+compllant
+Strip
+Customer
+Carlos
+ID  MS
+Order

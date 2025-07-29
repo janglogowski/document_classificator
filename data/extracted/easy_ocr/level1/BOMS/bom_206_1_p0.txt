@@ -1,0 +1,91 @@
+BILL OF MATERIAL
+Customer ID: POLAND
+Coordinator: Anna Nowak
+Date: 2022-12-04
+Product ID: VR-940T
+Internal No;; 3128169
+Order Qty; 333
+This section outlines the parts; unit prices and total amounts for assembly: The component roster below
+includes unit costs and batch codes. Ensure each component meets the specified quality standards
+Item
+Consumption
+Extra %
+UOM
+Rate
+Amount
+Remarks
+Description
+Cable Tie
+2.03
+0.95
+24.70
+Urgent
+Pack (1001
+Gasket
+105
+1.25
+57,50
+Sheet A4
+Ventilation
+5,60
+156.80
+Certified
+Grid
+batch
+Packaging
+2.45
+1.00
+24.00
+Eco
+Box
+compliant_
+Gasket
+1.25
+16.25
+High
+Sheet A4
+sensom
+Clip
+16.15
+Imported
+Copper
+2.82
+0,60
+15,00
+ISO-
+Wire 3mmn)
+verified
+Spring
+2.04
+0.05
+1.60
+ROHS
+Washer
+compliant
+M1O
+Digital
+0.82
+10%
+15.00
+675.00
+SKF brand
+Display
+Unit
+Battery
+2.93
+25.00
+950.00
+ROHS
+Pack
+compliant
+Amountc
+reflect
+curcent
+pricing; adjust as necessary for bulk orders;
+Total
+Amount
+937.00
+Approved By:_
+Sourcing Department:
+Qty
+Erade

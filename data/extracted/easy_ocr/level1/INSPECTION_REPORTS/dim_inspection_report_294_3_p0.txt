@@ -1,0 +1,89 @@
+Tolerance Check
+Inspection performed by Carlos Garcia on 2024-09-19.
+Ensure measurement methods align with calibration standards Use this examination summary to confirm component
+conformity: This datd extract B
+prepared for quality-control sign-off. All measured values are timestamped for audit
+purposes. This summary
+Measurements
+supports metrology traceability: This section details the measured values;
+toierances
+status flags
+Environmenta
+Conditions: Temperature: 21.2
+Humidity: 44 %
+Item Code
+Componcnt
+Target
+Actuji
+Delta
+Status (V(X)
+SL-430M
+0-Ring NBR
+Height
+74.48
+74.51
++00s
+60mm
+AL-1150
+Rubber
+Thickness
+51,91
+51,94
++0,03
+GJskel
+80mm
+XD- 710R
+Hex Bolts
+Hole
+9.65
+9.79
++0.14
+M1z
+JD-70w
+Plastic Rivets
+Leneth
+75,.96
+75,92
+Kv-390k
+Waonen
+Depth
+30,47
+30,34
+0.13
+palct
+TY-RJov
+Graphite Pad
+Height
+44,47
+MX-450L
+Power Switch
+Wiath
+70.29
+70.31
+Sl-430MM
+Steel Sheet
+inner
+31,88
+31,87
+0.01
+436
+Diameter
+ZR-ZO5R
+Hinge Set
+Wiath
+17.99
+-0_S
+KP-320E
+Woaden
+Hole
+79.34
+79.19
+0.15
+NU-4402
+Steel Sheet
+Depth
+49,39
+49,32
+0.07
+436
+Pallet

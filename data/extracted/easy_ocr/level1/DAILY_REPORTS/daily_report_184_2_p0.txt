@@ -1,0 +1,84 @@
+Production
+Report No;
+PR-965
+Customer:
+NORWAY
+Supervisor:
+Peter
+Schnidt
+Department:
+Painting
+Shift:
+Morning
+14-04-2025
+Use Inis overview
+assess throughput and efficiency levels, The summary below Iists each station'$ actual
+versus planned output  This dashboard section highlights any production bottlenecks- All throughput figures
+recorded for capacity planning:
+Machine
+Process
+Worker
+Start
+Total
+Remarks
+Time
+Wme
+(C_
+(kWb
+MC-201
+Drilling
+Jan
+09.15
+10.42
+Recalibrated
+66.0
+2.96
+Kowalski
+MC-20g
+Assembly
+Wiktor
+10.30
+11.21
+67.6
+2.24
+Kopczytski
+MC-208
+Polishing
+Bartosz
+08.00
+09.22
+NA
+64,5
+2.82
+Wawzyniak
+MC-206
+Cutting
+06.30
+07:18
+67.8
+1.68
+Kowalski
+MC-203
+Cutting
+07.00
+08.54
+114
+Recalibrated
+73,2
+1.04
+Kowalski
+MC-201
+Drilling
+Agnieszka
+06.15
+07.27
+79.7
+1.83
+Zielinska
+Prepared by:
+Laura Rossi
+Approved D%:
+Carlos Garcia
+Log
+Temp
+Energy

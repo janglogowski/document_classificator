@@ -1,0 +1,94 @@
+Report No;;
+PR-757
+Customet
+BRAZIL
+Supervisor;
+Carlas Garcia
+DeparMML:
+Asseinbly
+Dalg
+10-2024
+Shift:
+(Night)
+Nachine
+Task
+Worker
+From
+Duration
+pemarks
+Imini
+MC-207
+Welding
+Agnieszka
+14.00
+14.33
+NYA
+Zielinska
+MC-207
+Cutting
+Wiktor
+13.00
+14.22
+Recalibrated
+Kopczynski
+MC-207
+Cutting
+Pmemvstaw
+13.00
+14.17
+Wasik
+MC-207
+4ssem0u
+06.00
+07.22
+Recalibrated
+Lewandowski
+MC-204
+Welding
+Wiktor
+13.30
+15.12
+102
+Recalibrated
+Kopczyriski
+MC-201
+Welding
+Jan Kowalski
+09.15
+10.26
+Part ID
+planncd
+Qty
+Actual
+Scrap Qty
+Scrap
+Nolcs
+KP 320E
+249
+10.1190
+Rework needed
+AZ 300T
+13.3890
+Pework needec
+ZR-205R
+236
+200
+15.2580
+Rework needed
+PWV-5ISY
+10.7890
+Rewvork needec
+WD-180S
+226
+225
+0.4456
+Scrap
+comirmngd
+Prepared by:
+Lauta
+Rossi
+Approved
+Ljura
+Rossi
+Pioti
+Qty

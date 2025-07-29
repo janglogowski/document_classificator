@@ -1,0 +1,57 @@
+Component Overview
+Praiect:
+GH-7701
+Daci
+9379479
+Prepared Bv:
+carios Garcia
+Approved By:
+Lama Ross
+Location: Plant 2B
+Date; 2024-09-03
+Below are the technical parameters and
+construction materials for the unit
+Reler t0 this configuration summary for
+unit-designation mapping- This data sheet provides key specificatians and material detalls. Confirm that perforrance
+ranges comply with
+project requirements Please review the specifications and material composition listed
+Model ype
+Pneumatic
+Lontro Unic
+Rated Pressure
+250 bjr
+Flow Rate
+75 L/min
+Supply Voltage
+400
+50 Hz
+Control Valve
+Manua
+Override 3/2
+Oil Type
+HLP 68
+Total Weight
+180
+Working Temp. Range
+JO'cto 50*C
+Mounting
+Rack frame
+Reservoir
+Capacity
+Power
+11kW
+Pump Type
+Gear Pump
+Filtration
+pm inline
+ld Mm return
+Dimensions (LxWxH)
+1200
+Z00x 1100 mm
+Protection Class
+IP65
+Cooling
+Kir-cooied
+oil radiator
+helove
+Motot

@@ -1,0 +1,136 @@
+DAILY PRODUCTION REPORT
+Report
+PR-507
+Custcmer:
+BELGIUM
+Supervisor;
+Laura Rossi
+Department:
+Qualty Contiol
+Shift:
+(Night)
+18-11-2023
+The line-output register captures all production events for the day. Entries include all startstop times and
+operator assignments. Please review today $ operation log and output summary for each workstation:
+@nsure
+any downtime incidents are noted for follow-up
+Machine
+Task
+Operator
+Begin
+Finish
+duration
+Remarks
+Tnermai
+(mini
+Reading
+Used
+MC-207
+Welding
+Agnieszka
+08:15
+09.33
+Delay
+56.8
+1.04
+Zielinska
+MC-208
+Polishing
+Piotr
+14.15
+14.50
+Delay
+75.6
+2.15
+Levandowski
+MC-203
+Assembl
+Jan Kowalski
+07.30
+08.45
+Recalibrated
+MC-205
+Drilling
+Dawid
+08;15
+09.29
+Recalibrated
+65,6
+Oszmianczuk
+MC-208
+Assembly
+Bartosz
+07.15
+08.56
+101
+Recalibrated
+60.6
+1.08
+Wawvrzyniak
+MC-201
+Cutting
+Piotr
+06.15
+06*44
+Delay
+65,4
+2.15
+Lewandowski
+MC-208
+Polishing
+Przemystaw
+14.30
+15.49
+Ok
+2.93
+Wasik
+MC-207
+Cutting
+Nowak
+4.15
+16 0
+Recalibrated
+273
+MC-208
+Polishing
+Wiktor
+07.00
+07.39
+NIA
+62.5
+1.94
+Kopczyriski
+MC-206
+Welding
+Bartosz
+11;15
+12.29
+Ok
+66,4
+2,64
+Wawrzyniak
+MC-205
+Drilling
+Przemystaw
+09.00
+09.58
+Delay
+61.0
+1.20
+Wasik
+MC-203
+Welding
+Wiktor
+08;15
+09.56
+101
+NIA
+73,0
+2,55
+Kopczynski
+Prepared by:
+Jan Kowalski
+Approved Dy:
+Jan Kowalski
+Energy
+Anna

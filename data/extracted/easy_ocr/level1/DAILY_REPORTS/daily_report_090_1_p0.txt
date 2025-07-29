@@ -1,0 +1,103 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-441
+Custcmer:
+FRANCE
+Supervisor:
+Peter Schmidt
+Department:
+Painting
+Date:
+19-02-2025
+Shift:
+(Morning
+Equipment
+Task
+Operator
+Begin
+Total Iime
+Notes
+MC-209
+Drilling
+Dawid
+08.15
+09.00
+NIA
+Oszmianczuk
+MC-204
+Drilling
+Mateusz
+08.15
+09.26
+NA
+Jarzma
+MC-201
+Assemoly
+Bartosz
+10.00
+11.11
+Recalibrated
+Wawizyniak
+MC-201
+Welding
+Anna Nowak
+09.30
+09-55
+Recalibrated
+MC-205
+Welding
+Agnieszka
+06.15
+07.36
+Delay
+Zielinska
+MC-206
+Drilling
+Bartosz
+10.00
+10.51
+Wawrzyniak
+MC-205
+Culuing
+Jan Kowalski
+09.15
+10.30
+Recalbraled
+Product ID
+Planned QtY
+Actual Qtx
+Scrap Qty
+Scrap
+Comments
+HF-390A
+161
+143
+11,.18%0
+RE-850C
+254
+238
+30%
+Rework
+needed
+RE-850C
+264
+236
+10.61%
+Rework
+needed
+QP-660F
+269
+243
+9.67c
+Scrap
+confirmed
+NU-4402
+288
+266
+7.64%
+Rework
+needed
+Prepared by:
+Peter Schmidt
+Approved X
+Anna Nowak

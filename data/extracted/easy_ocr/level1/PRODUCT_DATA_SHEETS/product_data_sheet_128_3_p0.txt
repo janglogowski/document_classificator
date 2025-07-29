@@ -1,0 +1,33 @@
+Unit Data Specification
+Interno
+No:: 4321762
+Product ID: TY-350G
+2024-11-30
+Unit Type
+Cooling Circulation
+Rated Pressure
+180 bar
+Svstei
+Flow Rate
+30 Limin
+Supply Voltage
+60 Hz
+Noise Leve
+dBLA)
+Protection
+Batten
+Capacity
+Frame
+Material
+Aluminum
+Frame
+Charging Time
+Motor Power
+11kW
+Reservoir
+capacity
+Preparec
+by: Carlos Garcia
+Approved by: Jan Kowalski
+Date.
+clas:

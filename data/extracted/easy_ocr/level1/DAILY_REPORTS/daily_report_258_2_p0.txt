@@ -1,0 +1,119 @@
+DAILY PRODUCTION REPORT
+Report No::
+PR-217
+Customer
+GREECE
+Launa
+Rossi
+Supervisor:
+hachining
+Department:
+Shift:
+(Morning)
+02-03-2024
+The following data captures production targets, actual output
+deviations. Refer to this log
+monitor
+shift productivity and cycle counts
+ca5eraview
+today's operation log and output summary for each
+workstalion: Ensure any downtime incidents are noted for follow-up
+Machin
+Process
+Worker
+Begi
+Finis
+Duratio
+Remarks
+Temperatur
+Energ
+(min)
+X Used
+MC-203
+Assembl
+Agnieszka
+09.00
+09,20
+Delay
+55.4
+1.35
+Zielinska
+MC-207
+Welding
+Agnieszka
+10.30
+10.56
+Recalibrate
+68.6
+2.32
+Zielinska
+MC-201
+Culling
+Dawid
+10:15
+11,30
+Delay
+1.00
+Oszmianczu
+MC-203
+Assembi
+Anna Nowak
+09.30
+11-00
+NIA
+76,9
+2.33
+MC-207
+Drilling
+Wiktor
+07,00
+07.44
+2.83
+Kopczynski
+MC-206
+Drilling
+Przemyslaw
+09.00
+10.21
+62,6
+2.87
+Wasik
+MC-203
+Polishing
+Mateusz
+11,00
+12.24
+Ok
+66.3
+1,95
+Jarzyna
+MC-209
+Polishing
+Agnieszka
+14.00
+14.46
+Recallbrate
+79.1
+2.55
+Zielinska
+MC-202
+Drilling
+Przemysraw
+13.15
+14.47
+Delay
+57.6
+2.37
+Wasik
+MC-204
+Assembl
+Anna Nowak
+07.15
+08.46
+Delay
+61.3
+Jan Kowalski
+Prepared DY:
+Approved DY:
+Carlos Garcia
+and

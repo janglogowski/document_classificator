@@ -1,0 +1,79 @@
+Unit Configuration
+WD-1805
+Repa
+PR-471
+Prepared
+Carlos Garcia
+Approved By:
+Carlos Garcia
+Location; Plant IC
+Date; 2024-06-04
+Mode
+Type
+Cooling Circulation
+Rated Pressure
+300 dar
+System
+Throughput
+30 Limin
+Operating Voltage
+480 V / 60Hz
+Oil Type
+HLP 68
+Battery Capacity
+10 Ah
+Protection Class
+Reservoir Capacity
+120_
+Contro_
+Vale
+Directiona
+Frame
+Materia
+Siainless Siep
+Framne
+Dimensions ILXWxHL
+1000
+650
+100Q mm
+Service Interval
+500
+Mounting
+Rack frame
+Filtration
+10 um return;
+25Mm
+suction
+Noise Leve
+<72 dB(A)
+Pump Type
+geji
+Pump
+Working
+-10"Cto 50"€
+Material choices and process data have been verified for compliance
+Aisumman
+comments have been recorded in
+the revisian Iog Archive this summary far future
+change management
+Ensure that the listed materials are
+approved for the application . All specifications meet the design requirements and industry standards
+Material of Construction:
+Raw Material
+Cable Tie Pack (10Q)
+Rubber INBR)
+Nut 6
+Xinc
+lated Stee
+Rubber
+ROmm
+Nitrile Rubber INBR)
+paver
+Svitcn
+Palvcarbonate
+Copper
+Temp
+Runge
+design
+Nittie
+Gaske

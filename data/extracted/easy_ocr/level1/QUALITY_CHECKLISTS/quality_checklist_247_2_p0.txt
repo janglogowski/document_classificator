@@ -1,0 +1,48 @@
+Quality Verification
+Archive this Iist in the quality-management system
+Reter t0 the quality register tor sampling-plan reterences:
+Confirm that sampling levels comply with customer agreements.
+This summary supports the production-
+release quality
+The following table outlines inspection criteria and classification levels_
+Check that
+inspection steps follow the approved procedure:
+Product ID
+MR-160H
+Customer ID
+TURKEY
+Item Description
+Digital Display Unit
+Audit Criteria
+Inspection
+Classification
+Observations
+Depth
+Product Requirements
+Missing logo
+waring labe
+Level
+Crlical Impact
+Connector not working
+Level
+Crlical impact
+Packaging does not match
+Level III
+signed sample
+Not assembled as per drawing
+Level
+Need5 review
+Visual defect
+housing
+Needs review
+Loose parts inside packaging
+Lcvci
+Functionality test failed
+MEE
+Minor issue observed
+Rubber Switch not working
+Level
+Minor issue observed
+Supervised by:
+Date:
+gate;

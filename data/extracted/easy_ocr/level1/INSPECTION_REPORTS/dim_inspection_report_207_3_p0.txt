@@ -1,0 +1,118 @@
+Inspection Results Summary
+Inspection performed by Peter Schmidt on 2023-11-12.
+This section details the measured values
+tolernces
+and status flags_
+Reter
+the dimensional log for all component
+readings. Entries include both passf fail markers and deviation
+magnitudes. Use this results summa
+trigger
+corrective Jctions
+Please review the inspection results far each component listed below: The follawing data
+captures
+key dimensions
+any deviations identified,
+Environmenta
+Conditions: Temperature: 21.4
+Humidity: 45 %
+Articie No_
+Part Name
+Micasurcmcnc
+Nominal
+Actuai
+Status
+(viX)
+MC-540X
+Shaft S0Omm
+Depth
+62.79
+62.81
++0.02
+QN-7Z0H
+Plastic Rivets
+Hole
+24.16
+24.16
+SB-14OD
+Shatt S0Omm
+Wioth
+09.49
+LZ
+GL-9805
+Steel Sheet
+Tnickness
+64.85
+64.99
++0.14
+A36
+CE-9oSL
+Bearing 6202
+Length
+94,.31
+94.45
+40.14
+Xk-610U
+shaft S0Omm
+width
+69.81
++001
+RM-8GON
+Bearing 6202
+Length
+55.51
+55.43
+0.08
+5L-430M
+Plastic Rivets
+Hole
+96.67
+IX-820v
+Power Switch
+Height
+49.88
+58-140D
+0-Ring NBR
+Length
+46.49
+46.31
+0.18
+GOtm
+VF-22OD
+vaouem
+Hole
+40.03
+40.22
++0.19
+Pallet
+MC-SA0X
+Hex Bolls
+Length
+21.18
+21-25
++0 07
+M1?
+MC-540X
+Waaden
+Height
+59.30
+59.24
+0.06
+Pallet
+PW-S1SY
+0-Ring NBR
+Hole
+68.76
+68.57
+0.19
+6omm
+VF-ZZOD
+Stee
+Sheet
+Hole
+82.61
+82.71
++0.10
+436
+ny to
+Jno

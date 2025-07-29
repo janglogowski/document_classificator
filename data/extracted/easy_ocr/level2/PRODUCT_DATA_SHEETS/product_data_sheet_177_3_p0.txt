@@ -1,0 +1,60 @@
+Product Overview
+Internal No;
+3303033
+Produci ID
+HF-J90A
+Dale: 2024-02-01
+Conflgurallon Type
+Paouniatic Control Unli
+Rated Pressura
+180 bar
+Fluld Flow
+G0 Lmin
+Oporatlng Voltaga
+2J0 V / 50Hz
+Nolso Lave
+68 dB(A)
+OIl Type
+HLP 08
+Told
+Wolght
+250 Kg
+Working Tomp: Range
+FI0"C
+50"C
+Servica Interval
+1QuO
+Cooling
+Walor-cooled
+axchangor
+Control Valvo
+Dlreclional 4/3
+Componont Matorlals Overview:
+Labol
+Raw Materai
+Specilicalion
+Prossurg Valva
+Btase
+Czizi
+DIN EN 10025
+Wiring
+PVC (Rigld)
+Hoal-rosistani
+Cablu Tie Pack (TOQ)
+Nitne Rubber (NBRI
+Heat-rosisiani
+Rubbor Gaskol BQte)
+Nitoe Rubber (NBR)
+DINEN 10025
+Support Fool Sloe
+Stalnless Steel 304
+IP6T rated
+Woodon Pallol
+Trealed
+Wood
+Class
+tolarance
+Proparad by: Laura Rossi
+Approved by: Carlos Garcla
+Looi
+Pino

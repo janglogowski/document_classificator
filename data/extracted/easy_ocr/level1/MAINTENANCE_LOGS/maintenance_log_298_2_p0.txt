@@ -1,0 +1,68 @@
+Machine
+Summary
+2023-08-18
+AIl technician
+comments
+recorded for maintenance trend analysis. Refer -
+the maintenance register for detailed
+senjice hisiones
+Entres include
+Wor: Orders
+techrican
+assignments
+changes. Check that all downtime
+Eibnis
+properly calegorlzed an
+logged:
+Spare Parts Used;
+Pant Name
+Pant No
+Oty Used
+Swilch Assemolyy
+P-64
+Machine
+Equlpment
+Typc
+echnician
+Dawntmc
+Previous
+Nats
+Senvice
+MC-266
+Lalhe
+Inspecbon
+Peter
+2023-10-01
+Replaced
+Schidl
+ccalan
+MC-240
+Assembly
+Preventive
+Carlos
+2024-01-08
+Robot
+Garcia
+MC-208
+Packaging
+Preventive
+Canos
+2024-07-18
+Mgmiynco
+Line
+Galo
+Jpose bulls
+MC-233
+Convevor
+Inspectnn
+2024-08-27
+Sensor
+Bell
+KCvalsk
+re caibrate D
+ApprovedbX;
+Caros Garcia
+Serviced by:
+Jan Kowalski
+Log
+Pun

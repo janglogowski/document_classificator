@@ -1,0 +1,84 @@
+BOM Report
+Use this breakdown to verify sourcing and
+cost
+estimates. Referto this parts registerto plan raw
+material purchasing: This document provides
+detailed breakdown of all components required for
+the assembly process. All entries reflect the latest inventory and supplier rates. Review the materials
+tally tor compliance with budget allowances_
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+pcs
+9.60
+Certified
+Rivets
+balar
+Ventilation
+100.80
+Imported
+Grid
+Control
+pcs
+12.00
+36.00
+For export
+Panel
+Mount
+Digital_
+pcs
+15.00
+585.00
+Display
+alignment
+Unit
+adjusted
+Hinge Set
+pcs
+2.50
+92.50
+ROHS
+compliant
+Sensor Clip
+PCS
+23.75
+Imported
+Packaging
+pcs
+1.00
+27.00
+Urgent
+Box
+Protective
+,80
+41.40
+Urgent
+Sleeve
+50mm
+Sensor_
+34.20
+Protective
+,80
+59.40
+Sleove
+alignment
+s0mm
+adjusted
+Amounts reflect current pricing; adjust as necessary for bulk orders;
+Customer ID: POLAND
+Coordinator: Carlos Garcia
+Date; 2023-02-
+Product ID: LK-890B
+Internal No:: 4773988
+Order Qty: 356
+Tota
+Amount:
+009.65
+Hinge
+Clip
+Hinge

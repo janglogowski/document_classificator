@@ -1,0 +1,39 @@
+Unit Data Specification
+Document No.
+PR-598
+Product ID
+RM-860N
+Date: 2024-10-22
+Unit Type
+Cooling Circulalion
+Design Pressure
+180 bar
+System
+Fluid Flow
+30 Umin
+Voltage
+480 V / 60 Hz
+Service Interval
+12 months
+Motor Power
+kW
+Charging Time
+Protection Class
+IP54
+Reservoir Capacity
+160
+Component Materials Overview:
+pan
+Raw Material
+Specification
+Digital Display Unit
+ABS Plastic
+UL-listed
+Bearing 6202
+Stainless Steel 304
+RoHS compliant
+Cooling Gel Pack
+Silicone Rubber
+CE certified
+Prepared by: Carlos Garcia
+Approved by: Anna Nowak

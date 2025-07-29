@@ -1,0 +1,72 @@
+COMPONENT BREAKDOWN
+Below is the component
+listing and associated costs for the upcoming production batch: Reviewthe
+materials tally for compliance with budget allowances_
+The component rosterbelow includes unit
+costs andbatch codes_
+Please review the itemized list of parts and material specifications before
+procurerent: The parts manifest here
+designed to support procurement workflows;
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Spring
+0.05
+0,80
+High grade
+Washer
+M1O
+Protective
+.80
+72.00
+SKF brand
+Sleeve
+50mm
+Ventilation
+pcs
+5.60
+263.20
+grade
+Grid
+Copper
+0.60
+22.80
+Wire 3mm
+Clamp Ring
+1.75
+33.25
+Urgent
+120mm
+Spacer
+.80
+Certified
+Zmn
+batch
+Copper
+6,60
+SKF brand
+Wire 3mm
+Hex Bolts
+pCs
+0.25
+9.50
+M12
+alignment
+adjusted
+Review this summary against the master budgeting sheet:
+Customer ID: FINLAND
+Coordinator: Carlos Garcia
+Date: 2025-02-28
+Product ID: ZR-205R
+Internal No_
+5909958
+Order Qty: 391
+Total Amount:
+409.95
+High
+Pc5
+Hinge

@@ -1,0 +1,78 @@
+Unit Configuration
+Projec;
+Document
+3283478
+Prepared BM:
+Jan Kowalski
+Approved ByE
+an Kowalski
+Loculian
+Plant 28
+Date; 2024-01-15
+Confikuration Tvpe
+Coollng Circulation
+Deslgn Pressure
+250 bar
+Svstem
+Flow Rate
+Voltare
+400
+50 Hz
+Service Intemal
+manin'
+Pump Type
+Gear pumn
+Battery Capacity
+Materin
+Powder-coated
+Control Valve
+Proportiona
+Mounting
+Racktrame
+chareing Tlme
+Motor Power
+14kw
+Nolse Level
+$72 dB(AL
+Total Welrht
+180 KR
+Worklng
+Range
+10"C
+55"C
+Reservoir
+Capaclty
+160
+Protection Class
+IP67
+Use thls summnary
+cross-check with BOM and Inspection
+Ensure that the Iisted miaterials are approved for
+the appllcatlon: This closure note Indlcates the data sheet
+ready for release: Ensure Elossary terms matchthe
+engineering nomenclature
+Data sheet has
+peer-revlewed by the engineering`
+Material of Construction:
+Lbu
+LED Urht Strip
+Glass-Filled Nxlon
+Ceramic Oxlde
+Coolng Gel Pack
+Slllcone Rubber
+Insulate
+Ilbeasmnr
+Thermoplastlc Polyurethane (TpuI
+Hex Bolts
+Zinc-Plated Steel
+Dleital Dlsplay Unit
+ADS Plastic
+Framo
+Stce)
+Temp
+repoi
+been
+tuam
+Has
+Euse
+Mn

@@ -1,0 +1,82 @@
+Verification Log
+#2122538
+Date: 17.07.2025
+Product ID
+LK-890B
+Customer ID
+CANADA
+Item
+Description
+Connector 2P
+All checklist entries
+timestamped for traceability. This section details quality requirements and test points for the
+batch: Refer
+the quality register for sampling-plan references. The following table outlines inspection criteria and
+classification
+pv2ls
+Check that inspection steps follow the approved procedure
+Confirm that samnling levels comply
+with custome
+apreements
+This checklist captures quality inspection points and sampling levels; This closure
+suiman"
+Indicates compliance with Inspection criteria
+Entries Include both wisual and functional inspection Items:
+Reviewv Points
+Sample ier
+Severity
+Comments
+Design Specs
+Critical
+Minor
+OnHold
+Visual
+detect on housing
+Battery not included
+Level
+Needs review
+Wrong product size
+Lev?
+Critical impact
+Camtan
+damagec
+Needs
+Fevat
+markings incorrect
+Incorrect parcoqe
+Leve]
+screws
+DOse
+Missing
+Leve
+Dusugebris nside
+packaging
+Lete
+Necus revip
+Shipping mark is illegible
+Needs reviev
+missing
+Anstnucon mnanA
+mssing
+Level Il
+Needs reviev
+damaged
+AQL Level
+Critical
+Maior
+Mdr
+Default
+Customer specific
+Please ensure supervised
+sign-off on any non- conforming points_
+any open issuCs
+the CAPA tracking system
+This final note confirms the checklist =
+complete and approved
+Confirm that all sampling results are within
+acceptable limits, Reter -
+nates tor any ohserved detects
+deviations Checklist results have been reported to the
+quality manager.
+Mijer
+Flag =

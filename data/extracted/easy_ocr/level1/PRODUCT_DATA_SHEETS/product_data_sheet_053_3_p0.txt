@@ -1,0 +1,55 @@
+Product Data Sheet
+Report No: PR-978
+Product ID: TX-B20V
+Date: 2023-12-21
+Contiguration Lype
+Hydraulc Power Unit
+Rated Pressure
+180 bar
+Throughput
+30 Lmin
+Operating Voltage
+230
+L50HZ
+Filtration
+10 pm return, 25 Vm
+Charging
+Tme
+suction
+Cooling
+Water-cooled
+Mounting
+Wall-mounted
+exchanger
+Working Lemp_Range
+50'C
+Reservoir Capacity
+160
+Protection Class
+Component Materials Overview;
+Labe
+Raw Maleria
+Specilicalion
+Mng
+Loom
+PVC
+Rigid
+Heat-resistant
+Bearing 6202
+Stainless Steel 302
+Case
+tolernce
+Ring NBR 6Omm
+Nitrle Rubber (NBR
+2768
+oolng GelPack
+Silicone Rubbe_
+10025
+Fuse SA
+Ceramic Oxide
+10025
+Cable Tie Pack (100}
+Nilrle Rubber (NBR)
+Kncorrosive
+Prepared by: Peter Schmidt
+Approved by: Laura Rossi

@@ -1,0 +1,70 @@
+Component Overview
+This data sheet provides key specifications and material details. The parameter register below includes
+operating Iimits and ratings; Please review the specifications and material composition listed below. Check
+that all material specs align with supplier certifications
+Iine
+following information outlines performance
+characteristics and design data
+Confirm that performance ranges comply with project requirements;
+Product
+RE-850C
+Interal No:
+9048456
+Prepared by: Laura Rossi
+Approved by: Carlos Garcia
+Date: 2023-12-03
+Model Type
+Hydraulic Power Unit
+Rated Pressure
+210 bar
+Throughput
+30 Umin
+Supply_ Voltage
+230 V / S0Hz
+Pump Type
+Gear Pump
+Protection Class
+P65
+Total Weight
+230 k9
+Cooling
+Air-cooled oil radiator
+Charging Time
+iltration
+10 um return, 25 Hm
+suchon
+Check that all section headers follov Ihe product (emiplale.
+Use (his summary
+coss-check wilh BOM and
+inspection reports
+Confirm that
+conditions are accurately represented. Archive this summary for
+future design-change management: AlI summary comments have been recorded
+the revision log:
+Material
+Construction:
+Label
+Cominosilon
+Capacitor 450V
+Klmminum
+6061-T6
+Alon
+ape Roll
+Tellon Tape
+Insullated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Pressune
+Valve
+Krass
+CZ12L
+Coollng Gel Pack
+Silicone Rubber
+Ballery Pack
+maimti
+Pack
+Fuse 54
+Ceramic Oxide
+Gasket Sheet A4
+Nitrile Rubber (NBR)
+Hex Bolts M12
+Zinc-Plated Steel

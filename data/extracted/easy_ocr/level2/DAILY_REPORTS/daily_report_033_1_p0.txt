@@ -1,0 +1,70 @@
+Shift Summary
+Repon No ;
+PR-391
+Customer
+FRANCE
+Supenison
+Laura Rossi
+Depanment;
+Packaging
+Date;
+23-03-2024
+shift
+MNihl)
+Machine
+Process_
+Operator
+Begin
+Total Time
+MC-2041
+Drilling
+Kowalski
+07330
+08 00
+NA
+MC-207
+Dawnd
+10.15
+10.59
+Osmianczur
+MC- 203
+Drilling
+Mateusz
+13.15
+13.59
+Jara
+MC-207
+Cutting
+Anna Nowak
+@a-mo
+07.20
+MC-202
+Cutting
+nma Noal
+08.15
+10.09
+Recalibrated
+Item ID
+Planned Qty
+Aqtual Q4
+Rejected QtY
+Scrap 5
+comment
+3001
+247
+45.1299
+Scrap conflmmed
+CN-IS0C
+9.,0238
+conmnmed
+PWSISY
+11.2480
+DXTMT
+5.9072
+Preparcdbl:
+Jan Kowrkki
+Approved Di
+caros Garcia
+Hotes
+Cutung
+Scap

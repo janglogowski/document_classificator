@@ -1,0 +1,104 @@
+Inspection Summary
+include both visual and (unctional
+documented, Use this extract
+inspection items
+Ensure all non-conforming marks
+compliance with
+cocrdinate sign-off with the QA manager: This
+are clearly
+inspection criteria Refer to
+quality =
+closure summary indicates
+quality-management system; Use this list IQ
+register for =
+"Samoling-plan references Archive this list
+contirm adhererice
+AQL and safety standards.
+Product ID
+ZR-ZO5R
+Item Description
+Heflon Tape Roll
+Customer ID
+CANADA
+Audit
+Sample
+Defect Class
+Product
+Tier
+Remarks
+Requirements
+Visual defect
+housing
+Level
+Major
+Minor
+OnHold
+Dustfdebris inside
+Critical impact
+packaging
+Incorrect barcode Or abel
+distributor
+Critical
+infomiation_
+Level Ill
+impact
+Wood splinter
+sharp
+point on product
+Level IlI
+safely labels
+Lovai
+reviewy
+Functionalily test falled
+Battery not included
+Needs review
+Exposed nail with
+point
+Level III
+product size
+Critical impact
+Levol
+Connecto
+wOrking
+Leve
+Critical mpact
+Paint srnearing
+Cilical
+scratches
+mpaci
+ncarrect
+quantily Or
+Needs review
+assonmeni
+Level II
+Carton
+damaged
+Critical impact
+markings incorrect
+Level II
+docs not match
+siqned sample
+Level Il
+Missing logo
+warning
+Critical impact
+Jabel
+Level |
+Sharp edges on plastic
+Needs review
+compajents
+Level |
+Critical impact
+Supervised by:
+Date:
+Entries
+ne
+Critorla
+Critical
+Messing
+Needs
+Miseing
+Leve]
+sharp
+Wrong
+Packaging

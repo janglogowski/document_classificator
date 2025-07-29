@@ -1,0 +1,72 @@
+Inspection Record
+Review Points
+Check
+Defect Class
+Comments
+Intensitv
+Design Specs
+Critical
+Major
+OnHold
+Woad splinter Or sharp
+Level |
+Critical impact
+point on product
+Instruction
+nual is
+Level II
+Critical impact
+Missinp
+damaged
+Missing logo
+warning
+Level III
+issue observed
+lade
+detect e
+nousing
+Minor
+isque Dhserved
+Incorrect onentation in
+Level III
+Minor
+isque Dhserved
+box
+Dead or live insect in
+Level IlI
+packaging
+Not assembledas per
+Level II
+Needs review
+drawing
+Packaging does not match
+Level III
+Critical impact
+signed sample
+Missing distributor
+Level III
+Critical impact
+Intormation
+Package
+not sealed
+completely
+Dustldebris inside
+Level III
+packaging
+Wrong product size
+Needs review
+ncorrec
+barcade or Iabel
+Lavel
+Needs [eview
+Reference Standards;
+Standard
+Edition
+CE Directive
+2020
+UL 61010
+3ioEc
+Minor
+Minor
+Viua
+Level

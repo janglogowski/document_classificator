@@ -1,0 +1,92 @@
+Equipment Record Report
+2024-07-25
+log recorda all maintenance activities pertormec
+und pan chunfes 
+on Ihle equ"pmerit. Entries includa wolk orders
+eenni
+Ths service summary supports the relicbility
+Ton Jse Enments
+ard dovnlimes
+Fch
+engineering
+Te
+BE
+he summafy 0
+erce
+machina- Thls section captures equipnont
+actiuns
+doxntima events are pronGrlv
+statusandany
+Mainienance
+observation
+Check that Jll
+categorized and lopged
+spare Parts
+Name
+Part No.
+Sa
+nd
+Qt} Used
+9966
+Beblin
+takat
+07Jja
+Unit Code
+Maching
+Sercn
+Oparator
+Downtime
+Previous
+Slte
+Type
+Comments
+MC 279
+Plasma
+Correctivu
+Semice
+Cuttot
+Peter
+2023-T1.16
+Schrnidt
+MC-247
+Piasma
+correctivu
+Lauf Rosel
+Cutter
+2024-04-05
+Calibration
+MC-271
+Packaging
+Lontene
+pete
+check OK.
+2024-01-17
+Replaceo
+Schnudt
+MC-216
+CNC Milling
+inipectior
+Laura Rogsi
+cocianl
+Machine
+2023-11-29
+Sensor
+HC-251
+Plastna
+Preventive
+tecalibraled
+Leur?-
+2023-09-21
+wooden
+chacked
+Sirned om;
+Pertormed
+Schmity
+HTe
+Uted:
+Roesl
+Cuttet
+polle
+Fotol
+Curlos
+Catc U

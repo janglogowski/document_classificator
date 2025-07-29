@@ -1,0 +1,115 @@
+Report No::
+PR 259
+@ustomer
+TURKEY
+Supervisor:
+Laura RoSS
+DeLArtment
+ssempie
+Shuft:
+(Eveningl
+21-04-2024
+Use this shitt summany
+drive continuous imprcvement acticns All throughput figures Jre recorded fcr capacity
+planning: This extract shows daily vield, scrap
+and rewark accuttences. The line-Jutput
+captures alll
+prodluction events for the ay:
+Machine
+Task
+echnician
+Begin
+Finish
+Uwagi
+Temp
+Enerzy
+Timc
+Uscd
+MC-204
+Welding
+wwiktor
+07.15
+09,08
+113
+72.4
+2.49
+Kopczyriski
+MC 201
+Assembly
+Knno
+Nowak
+13.15
+60.9
+123
+MC 206
+Assembly
+Wiktor
+12.15
+13.28
+NA
+73.3
+1.86
+Kopczyrski
+MC-202
+Drilling
+Dawid
+09.15
+10.52
+NYA
+79,0
+2,09
+Oszmiariczuk
+MC 204
+Assembly
+Mateusz
+09.00
+09.28
+Delay
+76.1
+2.66
+Jarzyna
+MC-208
+Orilling
+Dawid
+L0.00
+11.29
+71.0
+1,02
+Oszmilariczuk
+MC 208
+Welding
+Anna Nowak
+06.00
+07.02
+Rccalibrated
+76.5
+MC-209
+ssemoiv
+Bartosz
+11.30
+12.36
+Recalibrated
+68.9
+1.85
+WaliZynlak
+MC 203
+Cutting
+Nadia Sauter
+I20
+156
+2.80
+MC-206
+Polishing
+Nadia
+11.,30
+134E
+2,59
+Prepared by:
+Carlos Garcia
+Approved DV;
+K Valeki
+Tales;
+repeter
+Total
+14,30
+S4uten

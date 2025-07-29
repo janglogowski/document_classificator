@@ -1,0 +1,28 @@
+Unit Configuration
+Report No:: PR-467
+Producc ID: HF-390A
+Date: 2024-10-16
+Unit Type
+Cooling Circulation
+Design Pressure
+210 bar
+System
+Throughput
+75 Lmin
+Supply Voltage
+480VA60Hz
+Motor Power
+2.5 kW
+Frame Materia
+Aluminum Frame
+Working Temp: Range
+10"Cto55*C
+Dimensions (LxWxH]
+1200
+700
+Mm
+Charging
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski
+41100
+Timc

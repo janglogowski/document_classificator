@@ -1,0 +1,78 @@
+Maintenance Checklist Report
+2024-02-01
+This log records all maintenance activities performed
+on tne
+equipmeni
+Please review this log for recent service dates ,
+types
+And remarks
+Chec k Ihat all downtime
+evenis
+properly categorized and logged. This section captures
+equlpment slalus and any mamntcnance observalions
+Spare Parts Used:
+Part Name
+Pamt No
+Oty Used
+SunsorModule
+P-38ZZ
+Battery Pack
+P-2653
+Unit Code
+Equipment
+Type
+Operator
+Duration
+Last
+Comments
+MC-206
+Plasma
+Correctlve
+Laura
+2024-07-29
+Callbratlon
+check OK
+MC-222
+PlasMa
+Preventive
+Peter
+2023-11-21
+Changed oil
+Culler
+Schmidl
+and fillers.
+MC-?03
+Lathe
+pteventive
+Anna
+2023-09-04
+Wooden
+Yovar
+checked
+MC-298
+Lasei
+Inspcction
+Laura Rossl
+2024-06-09
+Allgnment
+Culler
+hinges
+adlsien
+MC-231
+Paint Bocih
+Inspection
+ard
+Rossi
+2023-10-29
+Sensor
+Teczlibrated
+Kporovgo DY
+Carlot
+Garcia
+Senicec
+Knna Nowak
+Hc
+Chcck
+Rossi
+Cutler
+nallot

@@ -1,0 +1,77 @@
+Equipment Record Report
+2024-11-17
+All technicia
+Cnmmeny AFB
+Bcorded for maintanance treng analusie
+This log records all maintenance
+activitie s
+performed
+ecupmeni
+Tnls $ection captures
+equipment status and any malntenance observations_ Use this
+ecnad
+upcoming upKeBp an
+BPBIrs
+SpuruPums
+Part Namo
+Part No
+Qty Used
+Fuse
+0-5028
+Machine
+Machine
+SErvice
+Technician
+Dawvntime
+Last Check
+Comments
+ype
+MC?40
+Lashr Culhr
+Pinvenime
+LhuM
+Rossi
+702401.76
+Aligrmnent
+~of hinges
+udhusluo
+MC-246
+Fidramlic
+Inspection
+nn?
+2025-07-10
+No iaqmes
+Frujs
+Nowuk
+olnd
+MC-2S8
+Latha
+Correctn s
+2025-03-17
+Swuitch
+Konalek
+comacts
+cleaneo
+MC 259
+CNC Mlling
+Corrective
+Lulna
+Rossi
+2025 03.26
+Tgntener
+Hachine
+[0os8 polts
+MC-218
+Packaging
+Correcte
+Cerlos
+2025-02-5
+Wacem
+Garcia
+coolani
+Autnorized Dy
+Laua N099
+Onemltor;
+Pclur Schmidt
+Used;
+Ren

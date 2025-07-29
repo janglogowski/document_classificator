@@ -1,0 +1,110 @@
+Repont No:: PR-677
+Customer: FRANCE
+Shift:
+(Evening)
+Date: 07-02-2025
+Hachine
+Operation
+Technician
+Start
+Duration
+Remarks
+Stage
+Time
+(min)
+MC-205
+Polishing
+Dawd
+07.15
+08.15
+Recalibraled
+Delayed
+Oszmianczuk
+MC-201
+Polishing
+Mateusz
+12.00
+13.35
+Delayed
+Jamyma
+MC-205
+Assembly
+Nadia Sautet
+06.00
+07.19
+Progress
+MC-201
+Welding
+Przemystaw
+10.00
+11.14
+Recalibrated
+Completed
+Wasik
+MC-207
+Welding
+Hateusz
+1200
+13.01
+Delay
+Delayed
+Jamyna
+MC-209
+Welding
+Piotr
+14.00
+14.37
+progress
+Lewandouski
+MC-201
+Welding
+Mateusz
+07.30
+09.01
+progress
+Jarzyna
+MC-205
+Welding
+Dawd
+11.30
+13.04
+Completed
+Oszmianczuk
+MC-205
+Cutling
+Anna Nowak
+43.30
+14.59
+Delay
+Delayed
+Item ID
+Planned
+Produced
+Defect Qty
+Scrap %
+Rework
+Notes
+Output
+Qty
+Count
+PW-515Y
+190
+184
+3-1610
+Rewoik
+needed
+NE-2454
+220
+189
+14.0988
+Rework
+needed
+RM-BEON
+146
+1.3710
+Rework
+needed
+WD-180S
+0-645
+Approved by:
+Prepared D;: _

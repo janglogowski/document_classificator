@@ -1,0 +1,100 @@
+COMPONENT BREAKDOWN
+Customer ID: BELGIUM
+Coordinator: Peter Schmidt
+Date: 2023-11-04
+Product ID: DX-777T
+Intemal No.
+5970787
+Order Qly: 272
+Use this breakdown to verify sourcing and cost estimates
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+1.81
+0%
+pCS
+0.50
+23.50
+Urgent
+Gasket
+80mm
+Spacer
+2.08
+pCS
+0.15
+6.00
+Urgent
+Zmm
+Packaging
+pCS
+1,00
+42.00
+High
+Box
+grade
+Gasket
+3.26
+29
+pCS
+1.25
+33.75
+Certified
+Sheet A4
+batch
+Insulation
+0.31
+29
+pCS
+3.20
+124.80
+Urgent
+Foam Pad
+Set
+0.93
+10%
+pCS
+2.50
+37.50
+SKF
+brand
+Plastic
+2.29
+pCS
+1.10
+49.50
+SKF
+Cover
+brand
+150x150
+Ceramic
+2.74
+10%
+pCS
+2,10
+75.60
+ISO-
+Disc 80mm
+verified
+Grease
+1.92
+10%
+pCS
+1.90
+104.50
+Urgent
+250ml
+Tota
+Amount:
+497.15
+Appraved By:
+Sourcing Department:
+0.57
+Hinge
+Tube

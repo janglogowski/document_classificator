@@ -1,0 +1,135 @@
+Approved DY'
+Garcia
+Sorvicedby:
+4owalski
+Ensure all safety chack$ were
+comnieied durng sertcing
+Use this record
+dian vocominq
+upkeep
+repairs
+lechnician commenis are recorded
+[aintenance trena
+analysis. The following
+enires detail prevenlive
+correcine
+maintenance tasks. This service summary supports the rellability engineering revie"
+BeJ
+the summary
+service
+actions and downtimes for
+zach Machine
+Section A:
+Machine
+MC-226
+MC-294
+MC-281
+MC.275
+MC-230
+MC-234
+Equipment
+Rycraulic
+Assembly
+Paini Booin
+Conveyor Belt
+Paint Booth
+ConvevorReit
+Press
+Robol
+Service Type
+Pruvenlive
+Carre clive
+Prevene
+Correcine
+Cqteclive
+Corteclive
+Operator
+Lauta
+Rossi
+Carlos Garcia
+Anna Nowak
+Kowalski
+Laura Rossi
+Kowalski
+Duration
+Camments
+Tightened
+No issues
+No issues
+Replaced
+No issues
+Sensor
+Inose holts .
+iounc
+tcund
+ccniant
+ound
+recalnrated
+Section
+Machine
+MC-230
+KC-234
+MC-275
+MC-294
+MC-24
+KC-281
+Equlpment
+Paint Booth
+Conveyor Belt
+Conveyor Beit
+Assembly
+Paint Booth
+Paint
+Roboi
+Service Uype
+LOMCcIvC
+Inspecton
+Inpeclon
+Prevenive
+COMCciC
+Proventive
+Operator
+AAnna
+Yowar
+Petef Scnmidt
+Laura Rossi
+Anna Nowak
+AnnaNowar
+AnnaNcva:
+Duration
+Comments
+Refilled cl
+Tlightened
+Replaced
+Calloravon
+3SUC5
+Kgnment
+(HLP 46}.
+lnose homs
+cociani
+cnecr
+Tond
+ninges
+adiusted
+Maintenance notes are acchived ior comdiance aucits
+Ensure that each service entry has the required approvals
+Confirm thai all corrective actions were
+proneny closed out
+Overal
+equinment concition
+satisfactory post-maintenance
+Service summanes
+nave
+baen fonvarded t0 the engineering [eam
+No cnlical faulis were found dunng the latest
+inspcction
+Use thls closurc
+updatc Inc
+malntenance KP
+tacrC
+Uptime (%
+Eqor Count
+Commnants
+92.4896
+Canos
+Booth

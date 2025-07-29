@@ -1,0 +1,46 @@
+Product Overview
+Document No.
+PR-565
+Producl
+D: VF-ZZUD
+Date: 2025-05-30
+Configuratlon Lype
+Pueumalc Contol Unit
+Design Pressure
+210 bar
+Flow Rate
+SU Lmin
+Operatlng Voltage
+4Q0V /S0Hz
+Reservoir Capacity
+160
+Charging Time
+Filtration
+relutn;
+Pump Type
+Cear
+Pump
+suction
+HLP 32
+Sorvice Interval
+500
+Component Materials Overview:
+Pant
+Composition
+Specification
+Valve
+Brass CZ121
+50 2768
+herz
+Fuse
+Ceramic Oxide
+Class
+tolerance
+Rubbor Gasket 80mm
+Nitrle Rubber (NBR)
+IP67 rated
+Prepared by: Anna Nowak
+Approved by: Carlos Garcia
+25 uM
+Typo
+Prossuro

@@ -1,0 +1,73 @@
+Unit Data Specification
+Project:
+SL-430M
+Report No
+1547667
+Prepared
+Anna Nowak
+Approved By:
+Anna Nowak
+Location: Plant 34
+Date; 2024-03-10
+Confirm that performance
+comply with project requirements
+The parameter register below includes
+operating limits and
+The following information oullines performance characteristics and design data
+Entries include both mechanical and electncal specifications. This data sheet provides key specifications
+and material details_
+This report extract
+prepared for dosign-verification audits.
+Configuration Type
+Cooling Circulation
+Operating Pressure
+250 bar
+Syslem
+Fluid Flow
+48 Lmin
+Voltage
+480 V I60Hz
+Mounting
+Skid base wilh vibralion
+Reservoir Capacity
+160
+pads
+Motor Power
+Cooling
+Air-cooled oil radiator
+Oil Type
+HLP 32
+Protection Class
+IP54
+Battery Capacity
+10 Ah
+Noiso Lovel
+68 dB(A)
+Working Temp
+Rango
+10"C to 50"C
+Control Valve
+Manual Override 3/2
+Total Weight
+250 kg
+Filtration
+Hm inline, 10 um
+relurn
+Service Interva
+500
+Use this summary t0 cross-check with BOM and
+inspection reports. This closure note indicates the data
+sheel Is ready for release. Ensure that lhe Iisted materials are approved for the applicalion: This summary
+reflects the latest revision of the product data.
+Material 0f Construction:
+Pant
+Raw Material
+Insulated Tube 25mm
+Themmoplastic Polyxurethane (TPUL
+Pressure Valve
+Brass CZ121
+Fuse 5A
+Ceramic
+Oxide
+rnges
+ratings;

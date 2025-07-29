@@ -1,0 +1,61 @@
+inspector
+Annz
+Mowak
+Inspection Date
+2074-05-74
+Reter
+the dimensiona
+log for all component size readings. Entries include bath pass/fail markers and deviation
+magnitudes .
+recorded measurements compared against nominal tolerances
+product Ret
+Eo
+XD-Z10R
+TR-zuut
+M= @N
+Ue-yad
+Component
+Wooden
+paler
+Power Switch
+Fvem
+bearinc
+6202
+Dim
+Kiath
+Leneth
+Widch
+nnem
+Diameter
+Nomina
+19 34
+10,32
+bsenved
+70.39
+05,65
+I0 Z8
+Delta
+L
+H
+Pass/ Fail
+Archive this inspection summary for regulatory documentation_
+Overall inspectian summary indicates arceptable
+quallty levels. Confirm that pass rates
+MCCL
+the defined acceptance criteria:
+Instrument
+Calinration L05;
+Instrument
+Serial No
+Last Calibration Date
+Civil
+49211
+2024-12-15
+Nicromnetet
+77148
+2024-09-15
+Belo
+plasuC
+Snai
+sodmm
+Heignt

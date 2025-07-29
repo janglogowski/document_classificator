@@ -1,0 +1,84 @@
+Component Dimensional Check
+ecnnician
+Laura
+Rossi
+Inspection Date
+2024-03-17
+Use Ihis results summary t0
+any corrective aclions. Please review lhe Inspeclion results for each
+component listed below: The inspection register below highlights ay out-of-tolerance parts. Review
+recordem
+tolerances against engineering specifications
+Check that all dimensions comply with ISO and
+comdany
+standards 
+Item Code
+TX-820v
+BZ-660F
+VR-940T
+RM-B6ON
+CN-150C
+VR-940T
+TL-9OOX
+Part Name
+0-Ring
+Runber
+Hex Bolts
+Set
+Shatt
+O-Ring
+Shaft
+NBR
+Gaskel
+M12
+smm
+NBR
+5homim
+60mm
+BOmm
+60mm
+Dim.
+Length
+Depth
+ei
+Thickness
+Height
+Width
+Thickness
+Diameter
+Nomina
+7777
+82.75
+39 9
+48.16
+79.93
+Actual
+77.78
+39.82
+48.30
+79.75
+Delta
++0 0
+008
++0,09
++0 14
+0,18
+passiFai
+Refer
+deviation column for any out-of-tolerance measurements
+Archive this inspection summary for
+regulatory documentation: This closure mero confinns that dimensional checks are complete.
+Instrument Calibration
+Instrument
+Serial No:
+Last
+Calibration Date
+Micrometer
+88315
+2025-01-22
+Caliper
+24313
+2025-06-04
+trlgger
+Hinga
+Log:

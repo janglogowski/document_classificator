@@ -1,0 +1,63 @@
+Uspecioi
+Lhum Rort
+Uspection Dle
+2024-06-23
+This report presents the dimensional measurements and Inspection
+Use' this examlnatlon summary t0 conflrm
+component
+conformlty: Thls data extract
+prepared far quallty-control siBn-ofl:
+Ilem codt
+AL-1450
+Vk-440
+5B-1400
+TX-A20v
+Componen
+Hex Bolts MIZ
+Hinge Set
+Steel sheet 4uG
+Mnacurmani
+Thlckness
+Wldth
+pepth
+Nomlnal
+45,98
+77 @
+Oneenund
+15,98
+54,85
+Ed
+Dela
+lo
+40 04
+Hu
+L01S
+Pass/Fall
+pacs
+pass
+Dass
+Pass
+Inspection
+logred for traceability: Flag any components requlring re-machining or adjustment,
+Overall Inspection summary Indlcates acceptable quallty levels:
+Instrument Callbration LOg:
+Instrument
+Serlal No
+Last Calibratian Date
+CMM
+74932
+2024-09-26
+Lasr Scannt
+13678
+Hodde Tledd
+Luser
+Scanner
+41874
+2024-11-18
+resukts
+Plasc
+Aet
+Hols
+notes
+have
+been

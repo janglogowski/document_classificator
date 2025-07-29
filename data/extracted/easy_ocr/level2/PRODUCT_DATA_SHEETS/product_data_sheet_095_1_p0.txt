@@ -1,0 +1,97 @@
+Unit Data Specification
+Prolec;
+CE-9051
+Unlerns
+o :
+Pr-380
+Prepared
+Anna Nowak
+Approved BYE
+Denerechmio
+Location: Plant 34
+Date: 2024-02-14
+This section details the configuration and parameter set for the product Use this sheet to confirm engineering
+requirements and tolerances The following information outlines performance characteristics ad design data. This
+technical overview supports the product-release checklist Below are the technical parameters and construction
+materials for the unit_Ensure all referenced standards are up
+date: The parameter register below indudes
+operating lmits and ratings
+Model Type
+Pneumatic Control Unit
+Design Pressure
+300 bai
+Throughput
+75 Lfmin
+Operating Voltage
+480 '
+60 Hz
+Cooling
+Water-cooled exchanger
+HPe
+Mane [
+Contro
+Valve
+Directional 4
+Dimensions (LxWkH]
+4000
+650X 1000
+Working Temp
+Range
+-10 CtoS0"C
+Total Weight
+230
+Battery Capacity
+I0Ah
+Mounting
+Rackframe
+Frame Materia
+Powder-cpated Steel
+Noise Level
+68dBiA
+Motor Power
+554u
+Protection Class
+Charging lime
+Oil Type_
+HIP 46
+Resenoim
+Capacity
+120
+Material 
+Construction:
+Pant
+Base
+Power Swtch
+Polycamonate
+Hinge Set
+Stainless Steel304
+Rubber Gasket 8Omm
+Nitrile Rubbe
+INBRI
+Capacitor AS0V
+Aluminum 6061-16
+LED Lieht Strip
+Glass-Filled Nylon
+Hex Bolts M12
+Zinc-Plated Stee 
+Battery Pack
+Lithlum-Ion Cell Pack
+Support Foot Steel
+Stainless Steel304
+Bearing 62027
+Stainless Steel 304
+Wooden Pal
+Inejteo
+Pine
+LoomiM
+PVC (Rigid]
+NBR 60mm
+Nitle Rubber
+(NbRI
+B
+Pump
+Pump
+Coppes
+Wooc
+Wrng
+0-Ring

@@ -1,0 +1,83 @@
+Shift Summary
+Roport No
+PR-300
+Customor: NORWAY
+Dntu;
+20-09-2023
+Shitt: =
+(Morning)
+Operatlon
+Workar
+Sturt Tlmu
+End Tlmo
+Duration
+Uwogi
+Status
+Maching
+(mln)
+Przomysinw
+13,00
+13.38
+Delayud
+MC-208
+Cutting
+Weslk
+Matousz
+14.00
+14,28
+Delnyed
+MC-202
+Welding
+Julyna
+Asaambly
+Jon
+14.30
+16;14
+104
+Dolay
+Dalnyed
+MC-209"
+Kowalski
+plcmytinv
+07,30
+08.54
+Dalny
+Delayad
+MC-208
+Cutting
+Woslk
+13,30
+13,58
+NIA
+Delnyod
+MC-208
+DrnR
+Kownlski
+Qty
+Achlaved
+Rejected
+Fallure %
+Reworkad
+Uwogi
+Product ID
+Target
+Qty
+Qty
+Units
+NU-AA0Z
+167
+151
+9,58"0
+15.1190
+Rowork
+TX-B20v
+278
+236
+ncndnd
+13.2200
+Rowork
+KP-320E
+105
+necddd
+Approved by:
+Pronarad Dy:

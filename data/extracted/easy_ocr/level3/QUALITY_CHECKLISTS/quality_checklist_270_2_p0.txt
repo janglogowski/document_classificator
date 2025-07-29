@@ -1,0 +1,52 @@
+Verification Log
+table outlines inspeciion criteria and classification levels
+Use this extract (0 coordinate sign-aff
+The following
+sampling-plan references
+Entries include both visual
+with the QA manager. Refer to the qualily register for
+and functional inspection items. This summary supports the production-release quality gate:
+BZ-6G0F
+Customer ID
+POLAND
+Product ID
+Item Description
+Shall 500mm
+Inspection Checklist Points
+Check
+Severity
+Notes
+Intensity
+Component Crtena
+Insiruction manuai
+missing
+Level IlI
+damaged
+Minor
+obsened
+Connector not working
+Incorrect orentation
+DOX
+Leve]
+Needs revel"
+Color mismatch
+Level
+Sharp edges on plastic
+Needs review
+components
+Needs revie "
+Missing_safely labels
+Level
+Crillcal impact
+Not assembled as per drawing
+Incorrect quantity =
+assonment
+Needs review
+Praduct doesntt power
+Level
+Needs review
+Visual defect
+housing
+Supervised by:
+Date:
+ISSu

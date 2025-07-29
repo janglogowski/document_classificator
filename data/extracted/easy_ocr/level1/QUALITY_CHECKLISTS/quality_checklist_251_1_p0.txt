@@ -1,0 +1,88 @@
+Audit Trail
+#3850100
+Date: 17.07.2025
+Product ID
+DX-7771
+Customer ID
+BELGIUM
+Item Description
+Epoxy Resin Kit
+Reler 
+tre qualily register far samplng-plan reterences
+This section detalls quallty requlremients andtest
+points for the batch. Entries include both visual and functional inspection items
+Beloware the items
+ucufed
+during tne final productreview All checklist entries are timestamped for traceability.
+Inspection Checklist
+Check
+Category
+Dbscnations
+points
+Intensity
+Component Criteria
+Critical
+Major
+OnHold
+Missing distributor
+Level IlI
+Needs review
+Untormaton
+Visual defect o housing
+Neads [eview
+Paint smearing or
+Level III
+scratchcs
+Rubber Switch not
+Levell
+Critical impact
+working
+Scraws
+Dose
+Mssine
+Levam
+Critical Impact
+Missing logo
+waming
+Level III
+Label
+ncorrechbarcode onabe
+Criticalimpact
+Not assembled as per
+Criticalimpact
+drawing
+Connectornot
+working
+Nceds revicwv
+Exposed nail with sharp
+Level III
+Needs reviewv
+point
+Aunbertexure
+Level Il
+Critical impact
+glossiness mismatch
+Shipping mark
+illegible
+Level/
+Critical impact
+mSSIng
+Carton is damaged or
+Level Il
+Critical impact
+markings
+MDOREC
+Sharp edges on plastic
+Levelll
+Critical impact
+compomEnIS
+Battery not included
+Lcuch
+Needs revicw
+AQL Level
+Critical
+Default
+Customer specific
+Ninor
+Mojor
+Minot

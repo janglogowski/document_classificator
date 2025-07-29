@@ -1,0 +1,86 @@
+BILL OF MATERIAL
+Refer to this parts register to plan raw-material purchasing: All line-item costs are current as per vendor
+quotes: The following table summarizes the materia
+and quantities needed for the current project: This
+summary lists every item required, with per-unit pricing details. Review the materials tally for compliance
+with budget allowances:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption
+Ventilation
+61.60
+Certified
+Grid
+batch
+Spring
+0.05
+1.30
+Urgent
+Washer
+M1O
+Rubber
+0.55
+21,45
+Urgent
+Stopper
+Insulation
+3.20
+73,60
+Li-Ion
+Pad
+battery
+installed
+Cable Tie
+0.95
+26.60
+Li-Ion
+Pack (1001
+battery
+installed
+Sensor Clip
+41,80
+Hex Bolts
+0.25
+8.75
+SKF brand
+M12
+Grease
+66.50
+Li-Ion
+Tube 250ml
+battery
+installed
+Fuse 5A
+pcS
+0.30
+5.10
+Switch
+tested OK
+Ceramic
+pcS
+2.10
+63.00
+ROHS
+Disc 8Omm
+compliant
+Sensor Clip
+0.95
+21,85
+Verify that all remark items meet the sourcing department' s standards_
+Amounts reflect current pricing;
+adjust
+necessary for bulk orders.
+Customer ID: BELGIUM
+Coordinator: Jan Kowalski
+Date: 2025-07-10
+Product ID; QN-770H
+Unierna
+4830730
+Order Qty; 447
+Total Amount:
+391.55
+Foam

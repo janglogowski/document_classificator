@@ -1,0 +1,75 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-145
+Custcmer:
+CANADA
+Supervisor;
+Anna Nowak
+Department:
+Painting
+Shift:
+Moring
+28-01-2025
+Below is an overview of machine performance and output figures for today's shift: Please review tcday $
+operation log and output summary for each workstation: Refer to this log
+monitor shift productivity and
+cycle counts
+Machine
+Operation
+Technician
+Begin
+End
+Duration
+Remarks
+Mme
+(min)
+Used
+MC-20g
+Welding
+Nadia Sauter
+O7.15
+08-28
+NA
+56.9
+102
+MC-202
+Drilling
+Dawid
+11.30
+12.46
+Recalibrated
+61.5
+1.67
+Oszmianczuk
+MC-201
+Drilling
+Piotr
+06-15
+07.27
+59.4
+1.51
+Lewandowski
+MC-206
+Drilling
+Mateusz
+14.00
+14.52
+Delay
+57,2
+1.10
+Jarzyna
+MC-20g
+Assembly
+06.30
+07.43
+OK
+61.1
+2.14
+ewandowski
+Prepared bX:
+Peter Schmidt
+ApprovedDX
+Carlos Garcia
+Temp
+Energy
+Piotr

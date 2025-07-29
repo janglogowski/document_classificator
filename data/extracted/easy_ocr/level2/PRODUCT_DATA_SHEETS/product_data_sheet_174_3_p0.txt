@@ -1,0 +1,61 @@
+Product Data Sheet
+Internal No:: PR-940
+Procuct ID: Kv-390K
+Date: 2023-08-02
+Contiguration Uype
+hydraulc Power Unil
+Operating Pressure
+300 bar
+Throughput
+75 Lmnn
+Operatlng Voltage
+4C0VASOHZ
+Cooling
+Water-cooled
+Filtration
+10 prn relurn; 25 Vm
+oxchangor
+cucOn
+Motor Power
+7.5 kW
+Pumip Type
+Vane Pump
+Mounting
+wall-mounted
+Total Waight
+250 kg
+Control Valve
+Directional 4/3
+Noise Levcl
+70 dB(A)
+Component Matarials Overview:
+Pant
+Raw Material
+Specification
+Baitery Pack
+Lithium-Ion Cell Pack
+Hoat-resistant
+Support Foos
+Steel
+Stainless Stoel 304
+ISO 2768
+Graphite Pad
+Graphite Pad
+CE certifed
+Rubber Gasket B0mm
+Nitrle Rubber (NBR)
+IP67
+Steel Sheet 436
+Carbon Steel 436
+50.2768
+Thermal Fuse
+Ceramic Oxide
+Anticorrosive
+Wcodcn
+Pallet
+Treated Pinc
+Anoog
+Anticorrosive
+Prepared by: Anna Nowak
+Approved by: Peter Schmidt
+rated

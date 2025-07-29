@@ -1,0 +1,29 @@
+Unit Data Specification
+2025
+Dalo:
+Produict ID; MC-54OX
+Intornal No: PR-520
+1080 bar
+Rated Pressure
+Cgallng Circulation
+Unlt Typa
+Svsuin
+40d V/ 50 Hz
+Supply Voltane
+10 pm roturn, 25 pum
+Flmid Flow
+75 Uinin
+Fllrallon
+IPOS
+Proteclion Clase
+HLP 40
+Battory Capuclly_
+290 kg
+OIl Typa
+Fotal Walght
+Rogarvolr Capacity
+120
+Approved by: Anna Nowak
+Propared by: Carlos Garcia
+05-11
+auc ton

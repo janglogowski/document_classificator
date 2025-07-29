@@ -1,0 +1,57 @@
+Equipment Record Report #3292235
+Date: 2024-09-15
+Lomment
+Machine
+Scrvlce Lype
+Technician
+Duration
+Unlt Code
+PIAmT 3n
+U-Ion Datien
+Prenmvt
+Bona Nowak
+MC234
+'gsemib y
+Dadk serceu
+Robot
+Plani IC
+Li-on Dattety
+Correcive
+Carins Garcia
+MC-271
+Cuttef
+pack serviced
+2lant 26
+Replared
+Preventive
+Peter Sc hmidt
+Mc734
+Assembly
+codlant
+Kodot
+plant 20
+Swvitch cont IcIS
+Carics balcl
+MC-14b
+Hvdraulic Press
+Urevcniive
+cleaned
+~cycles of key components fromn this report
+Overai
+issues for root-cause
+Investigation
+Cneck [en3
+Flag .
+anyrecurnng
+tasks havebeen
+completed
+Dcrechedule
+eqminment
+condition
+satisfactory post-maintenance; All maintenance
+Lubricatlon Checked
+Callbratinn Verificd
+Emergency Stop Tested
+Performed by; 
+Signed off;
+nice

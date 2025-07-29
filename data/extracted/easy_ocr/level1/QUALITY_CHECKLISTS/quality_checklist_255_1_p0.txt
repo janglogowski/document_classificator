@@ -1,0 +1,76 @@
+Inspection Register
+#7151315
+Date: 17.07.2025
+Product ID
+RE 850C
+Customer ID
+BRAZIL
+Item Description
+Ceramic Disc 8Omm
+Ensure all non-conforming marks are clearly documented_
+This closure summary indicates compliance with
+inspection criteria_
+Use this list to confirm adherence to AQL and safety standards. This section details
+quality requirements and test points for the batch: Please review each checklist point and mark the
+sampling
+results_
+Inspection Checklist
+Sampling
+Category
+Remarks
+Points
+Lovoi
+Design Specs
+Critical
+Major
+OnHold
+Paint smearing
+Level Ill
+Critical impact
+scralches
+Missing distributor
+Minor issue
+Level III
+infomation
+obsened
+Loose parts inside
+Critical impact
+packaging
+Issue
+Functionality test failed
+Level Il
+obsered
+Not assembled as per
+Level IIl
+Critical impact
+crawing
+Screws
+OOSC
+Or Missino
+LGvCI
+Critical impact
+Shipping
+MnanIS
+illegible
+Minor issue
+Level
+Or missing
+Obsened
+Visual defect on housing
+Level
+Critical impact
+AQL Level
+Crilica
+Mlnior
+Default
+Customer
+pecific
+Refer
+notes for any observed defects
+deviations; This final note confims the checklist
+complete and
+approved_
+All summary comments have been validated by the QA team: Corrective actions are scheduled
+for identified issues. Checklist results have been reported to the quality manager.
+Minor
+Minor

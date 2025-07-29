@@ -1,0 +1,74 @@
+Inspection Results Summary
+Inspector
+Petet Schmid
+Imspectiun Dalc
+2uzs UU IL
+Ensure
+measurement methods align
+calibration standards
+Check that all dimensions comply with ISO and
+comipamy
+standards. The inspection register below highlights any out-of tolerance parts This data extract
+prepared
+for quality-control
+sign-aff,
+Product Ref
+VF-2ZUL
+TR-ZUUE
+VR-940T
+WD-1805
+CN-ISOC
+AL-1150
+Part Name
+Bearing 6202
+Shaft SOOmm
+Bearng 6202
+Fower Svitch
+Shaft SOOmm
+Rubber Gasket
+Romm
+Dim
+Lenuth
+ckness
+Depth
+Depth
+Hale
+Mareet
+63,2
+59,84
+Observed
+59,68
+Z0 2
+96,65
+PassiFail
+PASS
+PLSS
+Jacs
+PASS
+PpSS
+PASS
+This closure memo confirms
+dimensional checks are complete_
+Overall inspection summary indicates acceptable
+quality levels. Cross- verify measurement data with CAD nominal
+vaiucs
+instrument
+Calibration Log=
+Instrument
+Seria
+Calibration
+Muicrometer
+29248
+2024-12-26
+Nicromctem
+51525
+2025-04-05
+Caliper
+99763
+2024-11-21
+Caliner
+27159
+2024-07-24
+Fith
+10 10
+Dale

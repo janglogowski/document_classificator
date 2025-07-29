@@ -1,0 +1,84 @@
+Machine Log Summary
+2024-08-08
+The equipment log below includes fault codes and corrective notes
+Use this record
+plan upcoming upkeep
+This seclion caplures equipmeni stalus and any mainlenance observalions
+Belou
+Ine summaty
+survice aclions and
+downmimes
+each machine;
+Spare Parts Used:
+Pant Name
+Pant No
+Qtx Used
+Hinge Set
+Pa496
+Sensor Module
+P-8143
+Hydraullc Hose
+P.1958
+Oil Filter
+P-3558
+Unit Code
+Equipment
+Service
+Operator
+Downtme
+Last
+Check
+Arg z
+comments
+Iype
+MC-265
+Convevor
+Corrective
+Annz
+2025-03-18
+Ren aced
+Belt
+Nowak
+ccoiani;
+MC-287
+Lalhe
+Inspucbon
+Pelur
+2024-12-28
+Replaced
+Scnmidi
+fuse (54)
+MC-201
+Packaging
+Inspection
+Laura Rossi
+2024-01-31
+Tightened
+1dose
+bolts
+MC-224
+Plasma
+Inspection
+Peter
+2023-09-19
+Sensor
+Culter
+Schmidt
+[Cca lbrated:
+MC-204
+Laser
+Inspection
+Laura Rossi
+2024-08-28
+Rianment
+Culler
+hinges
+udiusted
+Approvod bY:
+Canios
+baicia
+Serviced by:
+Anna
+Nowak
+repairg
+Unt

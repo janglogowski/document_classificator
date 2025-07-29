@@ -1,0 +1,72 @@
+Dimensional
+In_pector
+Peter Schmid
+Inspection Datc
+2024 0729
+Anticle No
+PL 6012
+4Z J001
+NU 4402
+BZ GG0F
+MX 450L
+I3506
+GH 770]
+Part Name
+Hinge Set
+0-Ring NBR
+0-Ring NBR
+batten
+Hinge Set
+Rubber
+Rupber
+somm
+somm
+Gasket
+Gaske
+Xomm
+Komm
+Dim;
+Lenein
+Depth
+Depth
+Wictn
+Wundtn
+Nomina
+5 42
+96.33
+40 60
+9.30
+2732
+36.66
+31.9
+Ob envud
+77 74
+Deltz
++018
++0I0
++0.10
+0.08
++007
++0, 07
+Fail
+Record any measurement anomalies for follow up analysis: All dimensions within tolerance have been marked-
+Ok_
+Components
+Inspection require immediate revlew and corrective action:
+Instrument Calibration Log
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+29807
+2025-01-29
+Laser Scanner
+39380
+2024-12-05
+Laser Scanne
+20435
+2025-06-11
+Log
+Hcgnt
+Past
+falllng

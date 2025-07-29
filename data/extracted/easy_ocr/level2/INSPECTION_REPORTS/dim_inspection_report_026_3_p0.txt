@@ -1,0 +1,140 @@
+performed by Jan Kowalski on 2024-04-09
+Inspection
+Revlew recorded tolerances against enginaering
+results summary t0 (rigger any correctivkeac iors deviaieon 
+magniludes: Use (his examinationa
+Use Inis
+Include both pass/tall markers and 
+with calibralion standards.
+speclficalions. Entrles
+Ensure measurement methods align -
+summaty
+confirm componont conformily
+slandards:
+dimensions comply with ISO and company
+Check that all
+20.4 "C, Humidlty: 36 %
+Environmental Conditlons: Temperature;
+(ViX)
+Obsorved
+Dit
+Status
+No.
+Part Namo
+Dim:
+Targot
+49,76
+-0,14
+PASS
+Artlcle
+Depih
+49,90
+JD-Toow
+Bearing
+PASS
+6202 Z2
+69.26
+69,45
++0,19
+SL-430M
+0-Ring
+Widih
+PASS
+Gumm
+57.19
++0.16
+0-Ring NBR
+Depth
+57,03
+VF-2200
++0,07
+PASS
+6 Omm
+83.19
+83,26
+Graphite
+Thicknoss
+SL-4JOM
+0,06
+PASS
+Pad
+22,56
+22,50
+CN-150C
+Graphile
+Lenglh
+PASS
+Pad
+64.38
+64,34
+~0,04
+GL-980S
+Hingo Sol
+Inner
+PaSS
+Diametor
+14,88
++0,08
+14,80
+Bearing
+Heighi
+TR-ZOOB
+6202 ZZ
+59.57
+-0,15
+PASS
+Sleol Sheet
+ingcs
+59,72
+MS-6OOP
+A36
+Dlametor
+11,84
++0,06
+PASS
+Hole
+11.78
+DX-777T
+Ballery
+PASS
+Pack
+20,69
+~0,12
+0-Ring NBR
+Height
+20,81
+RX-3102
+G0mun
+43,54
+~0,03
+PASS
+QN-TTOH
+Shalt
+Length
+43,57
+~0,12
+PASS
+s00mm
+13.11
+12,99
+NE-2454
+Wooden
+Height
+PASS
+Pallel
+64.89
+64.71
+~0.18
+MC-540X
+Hex Bolts
+Hoighi
+M12
+PASS
+Hex Bolls
+Depih
+39,62
+TR-2C0B
+M12
+NBR
+0,15
+39,47

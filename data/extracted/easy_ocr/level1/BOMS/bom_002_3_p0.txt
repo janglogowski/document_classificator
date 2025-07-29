@@ -1,0 +1,80 @@
+BILL OF MATERIAL
+AIl line-itemn costs are current as per vendor quotes. Please review the itemized list of parts and
+material specifications before procurement; This summary lists
+item required, with per-unit
+pricing details _
+The following table summarizes the materials and quantities needed for the current
+project: This section outlines the parts, unit prices and total amounts for assembly. This extract
+shows the bill of components and total projected spend
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pCS
+5.00
+ISO-verified
+Gasket
+80mm
+Sensor Clip
+28.50
+SKF brand
+Shaft
+pcs
+368.00
+Imported
+50Omm
+Rubber
+pcs
+18.50
+Gasket
+alignment
+80mm
+adjusted
+LED Light
+Switch
+Strip
+tested OK
+Stainless
+SKF brand
+Bolt M8
+Hinge Set
+pcs
+2.50
+110.00
+Urgent
+Control
+pCS
+12.00
+288.00
+Imported
+Panel_
+Mount
+Spacer
+pCs
+0.15
+3.90
+Imported
+2mm
+confirm supplier lead
+to ensure timely delivery of all items: This closure summary
+validates that all parts
+approved for release
+Customer ID: FRANCE
+Coordinator: Laura
+Date; 2023-03-01
+Product ID: MX-450L
+Internal No.
+175090
+Order Qty: 409
+Total Amount:
+830.45
+overy
+Hinge
+Please
+times
+are .
+Rossi

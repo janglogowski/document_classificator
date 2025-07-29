@@ -1,0 +1,79 @@
+BOM Report
+Customer ID: TURKEY
+Coordinator: Anna Nowak
+Date: 2025-04-08
+Product ID: JD-Z00W
+Mnterna
+No.
+4700954
+Order Qty: 122
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ceramic
+0.51
+296
+pcs
+2.10
+25.20
+ISO-
+Disc 80mm
+verified
+Protective
+2.23
+1090
+1.80
+72.00
+For expont
+Sleeve
+5Omm
+Ceramic
+3.04
+1090
+pcs
+2.10
+107.10
+Eco
+Disc 80mm
+compliant
+Steel Sheet
+290
+5.00
+15.00
+High
+A36
+grade
+Hinge Set
+2.62
+pCs
+2.50
+82.50
+Gasket
+1.64
+590
+pCS
+1.25
+26.25
+Sheet A4
+Packaging
+2,51
+pcs
+1.00
+31.00
+Imported
+Box
+Cross-verify totals with the ERP system for consistency. Ensure this materials summary
+reconciled
+with the purchase order. Verify that allremark items meet the sourcing department'=
+standards
+Review this summary against the master budgeting sheet:
+Total Amount:
+359.05
+Approved By:
+Sourcing Department:

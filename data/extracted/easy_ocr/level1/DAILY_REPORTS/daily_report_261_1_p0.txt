@@ -1,0 +1,118 @@
+Report No;:
+PR-620
+Custamer:
+BRAZIL
+Supervisor:
+Jan Kowalski
+Department:
+Packaging
+@ate
+08-08-2023
+Shift:
+A (Morning)
+Nlachine ID
+Operation
+Technician
+Start Time
+Finish
+Totalime
+Comments
+MC-207
+Drilling
+Nadia Sauter
+13.15
+14.15
+MC-204
+Assembly
+Bultosz
+13:15
+13.55
+Recalibrated
+Wawrzyniak
+MC-201
+Assembly
+Nadia Sauter
+06.00
+06.59
+N/A
+MC-203
+Drilling
+Przemystaw
+14:15
+16.04
+Wasik
+MC-207
+Welding
+Agnieszka
+06.15
+07:53
+Zielinska
+MC-202
+Cutting
+Wiktor
+09.30
+1:4
+Recalibrated
+Kopczynski
+MC-?03
+Drilling
+Bartosz
+09:15
+0;36
+Wawrzyniak
+MC-207
+Welding
+Dawid
+09.00
+09.32
+Delay
+Oszmianczuk
+MC-203
+Cutting
+Kowalski
+12.15
+14.32
+N/A
+MC-205
+Welding
+Jan Kawalski
+06.30
+07.46
+MC-209
+Drilling
+Przemysav
+12.00
+13.43
+Wasik
+Item ID
+Target Qty
+Produced Qty_
+Detect Qty
+Failure
+Notes
+CE 905L
+111
+12.6190
+Rewonneeded
+SL-430M
+235
+210
+10,6490
+Scrap
+confirmed
+MC 5A0X
+244
+219
+10.2590
+Rework needed
+SB-140D
+280
+279
+0.3696
+Scrap
+confirmed
+Prepared
+LamraRossi
+Approved DY;
+Nowak
+Anna

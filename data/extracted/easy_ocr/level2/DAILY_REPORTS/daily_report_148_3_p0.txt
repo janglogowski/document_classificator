@@ -1,0 +1,98 @@
+Production
+Repont No: PR-465
+Customer: CANADA
+Shift:
+(Morning)
+Date: 08-07-2025
+Equipment
+Operation
+Technician
+Start
+Notes
+Condition
+Time
+Spent
+HC-205
+Polishing
+Agnieszka
+11.30
+13.30
+120
+Delayed
+Zielinska
+HC-207
+Welding
+Dawid
+06.00
+06.56
+Recalibrated
+Completed
+Oszmianczuk
+MC-207
+Polishing
+Agnieszka
+11;00
+12.36
+Delay
+Delayed
+Zielinska
+HC-205
+Cutting
+Lnna cort
+710.30
+12.19
+7109
+Delayed
+MC-207
+Assembly
+Mateusz
+11315
+12.19
+Delay
+Completed
+Jamina
+HC-202
+Drilling
+Wktor
+13.15
+13.54
+Delayed
+Kopczynski
+MC-203
+Welding
+Piotr
+07.00
+07.25
+Completed
+Lewandowski
+Product ID
+Planned
+Produced
+Scrap Qty
+Rejection %
+Rework Qty
+Remarks
+Output
+Qty
+XK-610U
+243
+222
+8.6493
+Scrap
+confirmed
+BZ-660F
+282
+269
+4.6199
+Rework
+needeo
+TY-350G
+166
+142
+14.4610
+Scrap
+confimmed
+Approved by: ,
+Prepared by:
+Log
+Time

@@ -1,0 +1,86 @@
+Inspection Sheet
+#5766989
+Date: 17.07.2025
+Product
+TX-820v
+Customer ID
+POLAND
+Item
+Description
+Insulated Tube 25mm
+AIl checklist entries are timestamped tor traceability: Use this extract-
+coordinate
+sign-off with the QA manager;
+Entries Include both visual and functional Inspection items. Please review @ach checklist point and mark the sampling
+results Below
+the items
+be verified during the final product review: This section details quality requirements
+and test points for the batch:
+Audit Criteria
+Sample Ilier
+Classification
+Observations
+Component Critera
+Connector not working
+Level
+Needs review
+Dean
+Insect
+packaging
+Level
+Crtical impact
+Exposed
+with:
+Leve
+Sharp edges
+plastic
+Level III
+Needs revlewv
+camponents
+Not assembled
+per drawing
+leve
+Incorrect quantity
+assprmemg
+LCVC
+Woodi
+splinter
+Critical Impact
+product
+Color mismatch
+Miinor issue
+Obsenved
+Hinges
+evei
+Mlnoriseu
+obsened
+incorrect onentation
+Critical impact
+Wrong product size
+Level
+Minorissue
+observed
+AQL Level
+Critical
+Nnor
+delauit
+Gustomc
+specific
+Corrective actions are scheduled for Identified Issues
+Ensure that all remarks have conresponding evidence
+Amachments
+summan
+comments
+have
+validated by the QA team; Overall quality status indicates
+compliance with defined AQL levels. Archive this summary in the audit-readiness folder. This final note confirms the
+checklist
+complete and approved
+Items marked for hold requlre additional
+revicw
+before release:
+shar
+point
+sharpF
+point 
+been

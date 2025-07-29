@@ -1,0 +1,107 @@
+BILL OF
+MATERIAL
+this schedule of parts to align
+Use
+every item required, with
+pricing
+material purchasing The parts
+This summary lists
+this parts register =
+plan raw-
+with sourcing and stock levels. Refer `
+warkflows:
+here
+designed t0
+procurement
+manifest
+Amount
+Remarks
+UOM
+Rate
+Item
+@ty
+Description
+0.25
+5.25
+Hex
+M12
+42.90
+Eco
+1.10
+compliant
+Plastic
+Cover
+ROHS
+150x150
+171.00
+compliant
+cuminun
+Bracket
+38.00
+Hinge
+alignment
+Cable Tie
+adjusted
+Pack (100}
+SO-verified
+127.50
+2,50
+Hinge Set
+0.95
+30.40
+Cable Tie
+SKF brand
+Pack (100
+0.55
+11.55
+Rubper
+SKF brand
+43.00
+Stopper
+1.00
+Packaging
+Box 5
+0.20
+8.60
+Plastic
+1.80
+Eco
+Rivets
+0.60
+compllant
+Copper
+For export
+Wire 3mm
+229.50
+Aluminum
+Switch
+Bracket
+5.60
+156.80
+pcs
+Ventilation
+Grid
+with the purchase order
+this materials summary
+reconciled
+Ensure
+Jan
+Kowalski
+Date: 2023 01-09
+POLAND
+Coardinator: .
+Urder
+Oty: 136
+Customer
+Interna
+3813952
+Praduct ID: GL-980S
+866,30_
+Total Amount:
+details
+per-unit
+support
+Bolts
+PCS
+tested
+INo

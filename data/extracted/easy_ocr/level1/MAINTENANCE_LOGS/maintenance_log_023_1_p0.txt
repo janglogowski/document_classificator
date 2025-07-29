@@ -1,0 +1,93 @@
+Unit Codr
+Equipmcnt
+Scrvico Typc
+Technician
+Duration
+Notos
+MC-26/
+Latha
+Inspecricn
+Carlos Carcia
+Plant 2B
+Li-Ion bArter
+ack Seivic fd
+MC-271
+idraulic
+corroctive
+Peter Schmidt
+Flant 3-
+Replaced fuse
+Piess
+45412
+MC 241
+PackaRing
+Inspeclion
+Jun kuwillski
+Plant 1C
+Swich
+contacla
+Cabnam
+MC-249
+paini Bcoih
+Lorrective
+Jeter Schmidt
+Plant 28
+Stuch
+Cdntac
+cleanec
+MC-268
+Paini Bonth
+Preventive
+Peter Schmidt
+Plant 1C
+Refilled oil
+IHLP 46
+MC 225
+Packaging
+Pruvuntive
+Ian Kowillski
+Plant 20
+Changed oil
+MC 229
+Packaging
+Cartuctiv
+Annai Navk
+Plant 1C
+Switch
+Line
+coniacs
+cledngc
+MC-276
+athe
+Nte
+KbnkoYA.aki
+Plant J4
+Replaced
+coolant
+MC-269
+Laser Cutter
+InedBcron
+Jar Kowvalski
+Plant 2P3
+WoodBn
+chcckeu
+Archive this =
+in tne CHMS for luturerelererice
+Check rermainirg lite
+ofkey ccmponerts Irom this report Use
+this closure note
+the maintenance KPI tracker Service summaries have been fonvarded
+the engineering tBam.
+This log summary
+8uppons Ineassel-managemeni dashhaaic
+Lubrication Checked
+Calbration Veritled
+Fmnerdcnc-
+Sin Teaed
+Approved DY
+Sericeo P:
+Ln
+tilicue"
+pellet
+CyciUs
+updato

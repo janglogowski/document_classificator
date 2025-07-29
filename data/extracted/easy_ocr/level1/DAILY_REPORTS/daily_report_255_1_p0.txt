@@ -1,0 +1,117 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-849
+Customer;
+CANADA
+Supervisor:
+Peter Schmidt
+Department:
+Macnining
+Date:
+-08-2023
+Shift:
+(Night)
+Equipment
+Task
+Worker
+Begin
+Finish
+Duration
+Comments
+(min
+MC-205
+Welding
+Anna Nowak
+438
+Delay
+MC-206
+Cutting
+Anna Nowak
+06.30
+04.-08
+NA
+MC-208
+Drilling
+Nadia Sauter
+Delay
+MC-205
+Welding
+Nadia Sauter
+12.15
+13-55
+100
+MC-206
+Assembly
+Jan Kowalski
+13.30
+14-55
+MC-208
+Drilling
+Bartosz
+06.15
+07.18
+Wawizyniak
+MC-209
+Polishing
+Piotr
+11.30
+12.13
+Lewandowski
+MC-206
+Polishing
+Jan Kowalski
+06.30
+07-40
+Recalibrated
+MC-204
+Welding
+Przemyslaw
+09.15
+09.52
+NA
+Wasik
+MC-207
+Przemyslaw
+07.15
+08.20
+NIA
+Wasik
+MC-203
+Polishing
+Jan Kowalski
+12.30
+13.15
+Part ID
+Planned Qty
+Produced Qty
+Defect Qty
+Failure
+Uwagi
+PL-601Z
+107
+14022
+PL-601Z
+101
+98%0
+NU-4402
+8.04%0
+NE-2454
+223
+11.66%
+Scrap
+confirmed
+NE-2454
+179
+170
+5.039
+Rework
+needed
+KV-390K
+209
+178
+14.83%0
+Prepared DX
+Peter Schmidt
+Approved by:
+Kowalski
+Cutting

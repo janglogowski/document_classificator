@@ -1,0 +1,102 @@
+DAILY PRODUCTION REPORT
+Repart-No;
+PR-963
+BRAZIL
+Customer
+Peter Schmidt
+Superisor:
+Maintenance
+Department:
+[Eveningi
+shift:
+18-06-2024
+the gperational data to track compliance with daily goals. This dashboard section highlights any production
+Review
+bottlenecks The summary below lists each station' $ actual versus planned outaut:
+Operator
+From
+Finish
+Duration _
+Remarks
+Temperature
+Energy
+Equlpment
+Operation
+(KWhi
+(min
+Cutting
+Nadia Sauter
+13-00
+13.37
+Recalibrated
+73.6
+MC202
+09,00
+10.34
+NIA
+66.9
+1.54
+MC-202
+Assembly
+Dawid
+Oszmianczuk
+MC-207
+Pollshing
+Jan Kowalski
+1415
+16.03
+108
+Recalibrated
+65.1
+Noiak
+11.00
+12.02
+Delay
+2.00
+MC-208
+Welding_
+Anna
+73.6
+1.68
+MC-203
+Cutting
+Przemyslaw
+13.15
+14.57
+Wasik
+Assembly
+Nadia Sauter
+08.00
+08.23
+70.6
+121
+MC-206
+13.30
+14.19
+78.0
+1.05
+MC-209
+Polishing
+Baltosz
+Pawzyniat
+13.30
+14,58
+Delay
+57-1
+2.18
+MC-208
+Welding
+Lewandowski
+MC 209
+Cutting
+Agnieszka
+09-00
+10.14
+70.5
+2.95
+Zielirska
+Jan Kowalski
+Prepared bV:
+Anne
+Nowak
+Aperoved DY:

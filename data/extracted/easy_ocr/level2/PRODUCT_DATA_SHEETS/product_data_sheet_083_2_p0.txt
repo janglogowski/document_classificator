@@ -1,0 +1,70 @@
+Component Overview
+Confirm that performance ranges comply with project requirements;
+Check that all material specs align with
+suppller certifications
+Use this sheet t0 confirm engineering requirements and tolerances. This report extract
+prepared for design-verification audits
+This data sheet provides key specifications and material details.
+This section details the configuration and parameter set for the product Refer to this configuration summary
+for unit-designation mapping_
+Product ID:
+NE-2454
+Report No:
+264087
+Prepared by: Laura Rossi
+Approved by: Jan Kowalski
+Date; 2024-07-26.
+Model Type
+Hydraulic Power Unit
+Rated Pressure
+210 bar
+Fluid Flow
+48 Lmin
+Voltage
+230 V / 50 Hz
+Protection Class
+IP85
+Motor Power
+55kW
+Cooling
+Water-cooled
+Working Temp. Range
+-10*C to 50"C
+exchanger
+Dimensions (LxWxHL
+1200
+700
+1100 mm
+Battery Capacity 
+1QAh
+Check that all section headers follow the product template.
+This summary refilects the latest revision of the
+product data_
+Confirm that all test conditions are accurately represented
+Data sheet has been peer-
+reviewed by the engineering team: This closure note indicates the data sheet
+ready for release: Overall
+configuration is within defined design and safety margins; Ensure glossary terms match the engineering
+nomenclature.
+Materia
+Construction:
+Padt
+Composion
+NBR 60mm
+Rubber (NBR
+Wooden Pallet
+Treated Pine Wood
+Switch
+Polycarbonate
+Copper
+Bearing 6202 ZZ
+Slainless Steel 304
+Wiring Loom Im
+PVC
+Hinge Set
+Stainless Steel 304
+Digital Display Unit
+ABS Plastic
+Riq
+Frie
+Powee

@@ -1,0 +1,65 @@
+BOM Report
+Custome
+ID: CANADA
+Coordinator: Peter Schmidt
+Date: 2023-11-30
+Product ID: VR-940T
+Internal No_
+7765051
+Order Qty: 359
+The component rosterbelow includes unit costs and batch codes
+Use this breakdown to verify
+sourcing and cost estimates. Belowis the component listing and associated costs for the upcoming
+production batch: This section outlines the parts, unit prices and total amounts for assembly.
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ring
+1.16
+0%0
+pcs
+1.75
+15.75
+High
+120mm
+grade
+Spring
+2.43
+200
+pcs
+0.05
+1.20
+Eco
+Washer
+compliant
+M1o
+Gasket
+3.48
+590
+pcs
+1.25
+2.50
+ROHS
+Sheet A4
+compliant
+Battery
+2.92
+290
+pcs
+25.00
+75.00
+For export
+Pack
+All sourcing notes have been logged for audit purposes
+Totai
+Amount:
+94.45
+Approved By:
+Sourcing Department:
+Clamp

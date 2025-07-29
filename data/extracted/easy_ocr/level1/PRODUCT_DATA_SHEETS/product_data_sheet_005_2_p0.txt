@@ -1,0 +1,72 @@
+Product Overview
+Refer
+this configuration summary for unit-designation mapping The
+following Infarmation outlines performance
+characteristics and Cesign data
+Entries include bath mechanical and electrical specifications This data sheet provides
+key specifications and materia
+details. Check that
+material specs align with supplier certifications
+Picise
+reviev
+the specifications and material composition listed below:
+Product ID:
+Ce-Yosi
+Dacument Na -
+5462729
+Prepared
+Ljura Rossi
+Approvcd by: Peter Schmiat
+Date: 2023-12-10
+Model Type
+Cooling Circulation
+Design Pressure
+250 bar
+System
+Fluid Flow
+30 Umin
+Supply
+S0Hz
+Dimensions
+LxWxH)
+1000 x 650
+1000 mm
+Service Interval
+1000 [
+Reservoir
+pacity
+Oil Lype
+ALP 32
+Ensure glossary terms match the engineering nomenclature: Document control numbers are
+inciuded tor traceability.
+Check that all section headers follow the product template
+Archive this summany for =
+design-change
+management
+AIl summary corments have
+recorded in the revision
+Material
+Construction;
+Item
+LED Light Strip
+Glass
+Fied Nylan
+Battety Pack
+Lithiuan
+Pack
+Bearing 6202 Z2
+Stainless
+Steei
+304
+Digital Display Unit
+ABS Plastic
+Hex Bolts MI2
+Linc-Plared
+Heat Sink ALU
+Eluminum
+6061-T6
+Voltoge
+future
+Leen
+Basc
+Stce)

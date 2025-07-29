@@ -1,0 +1,106 @@
+Report No ;
+PR-408
+Cusiomer
+FRANCE
+Anna Nawak
+Supervisor;
+Maintenance
+Department:
+Shitt:
+B (Evening
+03-11-2024
+below lists each station $ actua
+versus planned output_ Use this overview
+ASSCSS
+The summary
+throughpui and efficiency levels. This dashboard section highlights any production boltlenecks
+Process
+Operator
+Start
+Total
+Remarks
+Temperature
+Energy
+Machine
+Used
+Time
+Time
+Cutting
+Piotr
+08.15
+09.19
+Recalibrated
+2.54
+MC-208
+Lewandowski
+Magdalena
+09.00
+09.37
+Recallbrated
+72.1
+1.24
+MC-205
+Assembly
+Witkowska
+08-15
+09.07
+Ok
+74,6
+2.55
+MC-205
+Assembly
+Agnieszka
+Zielinska
+Dawid
+08.30
+09.28
+NIA
+2.60
+MC-201
+Welding
+Oszmiaiczuk
+MC-201
+Cutting
+Maleusz
+08.00
+09.21
+NA
+59.7
+Jarzyna
+Piotr
+08.15
+09.58
+103
+73.9
+1,.79
+MC-205
+Cutting
+Lewandowski
+MC- 206
+Cutting
+Dawid
+11.15
+11.48
+1,64
+Oszmianczuk
+09.00
+10,23
+Recalibrated
+75.0
+MC-205
+Polishing
+Dawid
+Oszmianczuk
+MC-206
+Culting
+Mateusz
+12.15
+12.36
+Delay
+68.3
+1.25
+Jalyna
+Anna Nowak
+Prepared bx:
+aura Rossi
+Approved by:

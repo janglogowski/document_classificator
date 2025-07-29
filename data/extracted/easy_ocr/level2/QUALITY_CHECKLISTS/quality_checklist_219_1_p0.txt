@@ -1,0 +1,76 @@
+#1822460
+Inspection Checklist
+Date: 17.07.2025
+TY-350G
+Customor ID
+BRAZI
+Product ID
+Itoi Doscrption
+LED
+Strip
+for traceabllity: Please reviow each checkllst point and mark the,
+All chacklist entries are (lmnostamped
+Entries Include both visual and
+sampling results. Refor
+Ihe quality register for sampllng-plan reforences_
+(terns, Archive Ihis Iist In the quality-management syster; This summary supporls
+(uncllonal inspeciion
+summary Indicates complilance with
+inspection criteria, Use this
+produciion-release quallly
+Thls closura
+requlreronts and test points
+extract (0 coordinate sign-off wilh Ihe QA manager Thls section detalls quality
+for Ihe balch;
+Inspection
+Category
+Comments
+Audit Critoria
+Dopth
+CR
+MA
+Hold
+Design Spocs
+Dead or Ilve insect in
+Lavel |
+Minor Issue obsurved
+packaging
+Noeds rovlev
+Dusidabris Inside packaging
+Levol
+Sharp edges on plastic
+Mlnor Issue observed
+components
+Needs rviow
+Lolat
+mismalch
+Lavel
+Minor Issue observod
+Connector not working
+Level
+LevGI
+Mlssing_safely labels
+Minor issue observeo
+Uncorreci
+orientalon
+box
+Lavai
+Minor
+AQL Lovel
+Culical
+Major
+Default
+Custamer
+specilic
+HavC
+addressod. Ploase ensure supervised
+sign-olf on any non-
+All criiical and major
+inspection points
+beon
+This surmary supports (he
+conformlng points . Checklist results have been reported to Ihe quality manager:
+end-0f-Iine qually certification This Inal nole confirms (he chacklist
+complete and approved;
+Lighl
+Qato,

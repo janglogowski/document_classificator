@@ -1,0 +1,86 @@
+Inspection Record
+Refer
+the quality register for sampling-plan references Use thls Iist t confirm adherence
+AQL and safety
+standards, Check that inspection steps follow the approved procedure. All checklist entries are timestamped for
+traceability. Use this extract
+coardinalc
+sign off with the QA manager. Confirm that sampling levels comply with
+customer agreements.
+Product ID
+RM-R6ON
+CustomerID
+SWNFDEN
+Item
+description
+enmina
+BlaCk4P
+Audit Criteria
+Sample
+Severity
+Ooscnatians
+Lompamemi
+Criteria
+Critical
+Maior
+Mlinor
+OnHold
+Connector not
+working
+Level
+Neede
+Mdce
+Missing distributor
+Critical impact
+information
+Exposec
+with sharp [
+Level
+Minor issue observed
+Loose parts inside packaging
+Leve
+Minor issue observed
+Rubber Switch not workin;
+Wrong product
+aVP
+Dust debris inside Packaging
+Leve
+Minor Issue Obsened
+Not assembied Js oer
+Needs revlew
+drawing
+Sharp edges
+on plastic
+Level IlI
+Minor issue observed
+camponents
+Woog
+splinter
+point
+Needs review
+screws
+DOSE
+ssing
+Neede
+review
+Missing_
+Warning
+pbci
+Level
+Nnor IScue OOSCNCG
+Battery not inc luded
+LCvC
+Missing safety_
+Jbels
+Leve
+Ninor ssme
+Obseneo
+incorrect
+barcode
+apel
+Critical impact
+Supervised by: _
+Point
+tharp
+produ
+Date: _

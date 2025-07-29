@@ -1,0 +1,95 @@
+BOM Report
+The component roster below includes unit costs and balch codes.
+This section oullines the
+unit prices and total amounts for assembly. This extract shows the bill of components and total
+projected spend, This document provides
+detailed breakdown of all components required for
+the assembly process:
+Item
+Oly
+UOM
+Rate
+Amount
+Remarks
+Description
+Stainless
+pCS
+ROHS
+Bolt M8
+compliant
+Heat
+2.70
+27.00
+Resistant
+verified
+leeve
+Terminal
+pcs
+3.40
+119.00
+SKF brand
+Block 4P
+Battery
+pCS
+25,00
+675.00
+Pack
+Rubber
+pCS
+0.50
+16.00
+Gasket
+80mm
+Copper
+0.60
+3.60
+Imported
+Wire 3mm
+Shaft
+pCS
+8,00
+128.00
+s0Omm
+pacer
+pcs
+0.15
+0.75
+Li-Ion
+Zmm
+battery
+installed
+Power
+pcs
+1.20
+21.60
+Certified
+Switch
+batch
+Insulation
+pCS
+3.20
+38.40
+Urgent
+Foam Pad
+Wooden
+pcs
+15.00
+555.00
+Pallet
+Fina
+amounts include handling and logistics costs where applicable. Verily that all remark items
+meet the sourcing department s standards
+Customer
+D: NORWAY
+Coordinator: Laura Rossi
+2023-02-25
+Product ID: JD-7OOW
+Interal
+No:: 4714807
+Order Qty: 488
+Total
+Amount:
+588.90
+parts
+ISO-
+Dale:

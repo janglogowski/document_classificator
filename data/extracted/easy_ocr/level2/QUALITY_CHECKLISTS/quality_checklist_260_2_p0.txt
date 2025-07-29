@@ -1,0 +1,80 @@
+Quality Revievi
+This checklist captures quality inspection points and samplinglevels. This summary supports the production-
+Face
+quality gate. This closure summary indicates complance with inspection criteria. Confrm tnaf
+sampling levels compty With customer
+greements_Cneck thatinspection steps follow tha approved
+procedure_The fclloing table outlinas Inspection criteria
+classitcatociRuels
+ProductID
+FT-730X
+Customer D
+CANADA
+Ttem
+Descripton
+Rupber Stopper
+Inspection Chccklist Foints
+Sample Tle
+Clasaicuon
+Aotes
+Item?02c3
+Balternot inciuced
+Lee
+Minor [ssue obseted
+Inccrrect barcode
+Labei
+Hinci issue Obselec
+Leval
+Isspe obsened
+Dusticebhs ingice Pac*23l
+Funcnonalm
+testfailed
+LcA
+Crtcalimpacl
+Missinzlog0
+Lenne
+Iabel
+Deed
+teinsect
+Fac_2#ne
+Levelil
+Crtical unpact
+Instructon manuali
+Misin? 0r
+Level M
+Criticelimpact
+damaged
+Screrz
+1603 2
+Mussin
+Level M
+Ninct
+Ree Oceenec
+Shipping matk is illepible
+LevelMI
+Meinc
+Sharp 20823
+Plastic
+Critical Impact
+comporents
+Wrong picouctsize
+Levell
+Carfoni3 damapeo
+markings
+Level III
+Needs revie 
+incomect
+Incomect quanut Ot ass2rtment
+Level |
+Hinor
+Ssveo2scne0
+Rubeet
+Swnch nctwotking
+Levell
+Mnoc
+RSe
+Onsered
+Supervisedby:
+Date:
+end
+Hino

@@ -1,0 +1,136 @@
+Production
+Report No :
+PR-696
+Customer:
+BELGIUM
+Supervisor:
+Lanos
+Garcia
+Department:
+Assembl
+Date:
+27-12-2023
+Shift
+(Evening)
+Machine ID
+Task
+Worker
+Begin
+Finish
+Total Iime
+Uwagi
+MC-202
+Drilling
+Jan Kowalski
+10 00
+1121
+MC-204
+Drilling
+Agnieszka
+12.15
+12.40
+Recalibrated
+Zielinska
+MC-203
+Polishing
+MateUsz
+07.30
+08.49
+NA
+Jarzna
+MC-203
+Cutting
+Piotr
+06.00
+07.57
+Lewandowski
+MC-208
+Assembly
+Mateusz
+08.15
+08.57
+Jarzya
+MC-202
+Assembly
+Anna Nowak
+06.30
+07-26
+Recalibrated
+MC-206
+Cutting
+Mateusz
+14.00
+15.42
+Jarzua
+MC-201
+Drilling
+Anna Nowak
+09.30
+MC-205
+Drilling
+Wiktor
+06.15
+06.59
+Recalibraled
+Kopczynski
+MC-209
+Drilling
+Przemyslaw
+13.30
+14.41
+Delay
+Wasik
+MC-203
+Welding
+Dawid
+06.30
+07.03
+Recalibrated
+Oszmianczuk
+MC-207
+Drilling
+Agnieszka
+12.15
+14-04
+Recalibrated
+Zielinska
+Part ID
+Target Qty
+Actual Qty
+Scrap Qty
+Rejection %
+Comments
+QP-660F
+211
+182
+13.74%0
+980S
+266
+248
+6.7796
+Scrap
+conimed
+XD-T1OR
+181
+166
+8.299
+Scrap
+confirmed
+ZR-ZO5R
+234
+230
+1.71%
+Kv-390k
+222
+219
+1.359
+Rework
+eeded
+900X
+205
+8396
+Preparedby:
+Peter Schnidt
+Approved PX'
+Peter Schmidt
+Log

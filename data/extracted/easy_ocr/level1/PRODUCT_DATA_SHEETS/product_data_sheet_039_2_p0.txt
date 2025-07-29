@@ -1,0 +1,69 @@
+Unit Configuration
+The following information outlines performance characteristics and design data_
+Use this spec sheet to
+validate assembly instructions
+All data entries are traceable
+design revision history. Refer to this
+configuration summary tor unit-designation mapping:
+Entries include both mechanical and electrical
+specifications. Please review the specifications and material composition listed below;
+Product ID:
+FT-730X
+Interal No
+PR-629
+Prepared by: Jan Kowalski
+Approved by: Anna Nowak
+Date: 2024-03-18
+Configuration Type
+Pncumanc
+Control Unit
+Design Pressure
+210 bar
+Throughput
+75 Umin
+Voltage
+400 `
+S0Hz
+Protection Class
+P65
+Motor Power
+KWN
+Working Temp
+Range
+10'C
+559C
+Dimensions (LxWxH)
+1200
+700 *
+100 mm
+Oil Type
+HLP 68
+Total Welght
+AlI summary comments have been recorded in the revision lcg
+Document control numbers are included for
+traceability.
+Flag any missing parameters for urgent specification updates
+Overall configuration
+within
+defined design and satety margins
+Check that all section headers follow the product template. This closure
+note indicates the data sheet
+ready for release.
+Material of Construction;
+Item
+Raw Material
+pressune
+Valve
+Brass C212t
+Baltery Pack
+Lithiun-lon Cell Pack
+nsuaed
+Mb E
+Zomm
+Jemoplaslic
+polvuremane
+(TPU)
+Capacior_450V
+Alumum 6061-46
+Steel Sheet A36
+Carbon Steel A36

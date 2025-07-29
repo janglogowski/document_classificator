@@ -1,0 +1,98 @@
+Project;
+WD-1805
+Wocument No ;
+5107605
+Prepared By:
+Jan Kowa
+Approved B%:
+Jan Kowalski
+Lacation: Plant 34
+Date
+2023-09-30
+Use this spec sheet
+validate assembly instructions
+This section details the configuration and parameter set for the
+product. The parameter register below includes operating limits and ratings. Refer -
+this configuration summary for
+unit-designation mapping: The fallowing infarmation outlines performance characteristics and design data. This
+technical overview supports the product-
+lease checklist
+Configuration Type
+Pneumalic
+Control Unit
+Operatine
+Pressure
+250 Dal
+Fluid Flow
+30 Limin
+Supply Voltage
+60 Hz
+Protection Class
+P67
+Filtration
+um inline
+1Qum return
+Mounting
+Rack trame
+Oil Type
+HLP 46
+Frame Material
+Aluminum
+Working
+Range
+5"Cto 45 C
+Dimensions (LxWxHL
+LWWW
+650
+1000 mm
+Charging Time
+Contro
+Valve
+Manua
+Override
+Battery Capacity
+Cooling
+Water-cooled exchanger
+Total Weight
+230 kB
+Contirm that alltest conditions are accurately represented
+All summary comments have been recorded in tne
+[evision
+og: This summary reflects the latest rewision of the product data: Archive this summary for future design
+change management Use this summary
+cnost
+~heck with BOM and Inspection reports:
+Ensure that the Ilsted
+materials are appraved for the application;
+Material
+Constructian:
+Iem
+Raw Materia
+Support Foot Steel
+Stainless Stee
+304
+Battery Pack
+Lithium-Ion
+Celpac
+Thermal
+FUS@
+Ceramic Oxide
+Graphite Pad
+Graphite Pad
+Rubher
+Jaske
+R0mm
+Nitrile Rubbe_
+(NBRL
+Ring NBR 60mm
+Nitrile Rubber (NBRI
+Cooling Gel
+pack
+Rubner
+Connecar
+Glass
+Nylan
+Frane
+Temp
+Silicone
+led

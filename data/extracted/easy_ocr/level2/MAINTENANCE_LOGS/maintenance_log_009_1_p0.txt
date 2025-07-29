@@ -1,0 +1,90 @@
+Maintenance Checklist Report #6088935
+Date: 2024-09-28
+Unit Code
+Machine
+Semice
+Type
+rechnician
+Duration
+Area
+Notes
+MC-228
+Latne
+Preveni E
+Lemna
+Rossi
+Plant 1C
+Woocen
+checked
+MC-220
+Convcyoi
+Bclt
+COMcclive
+Peter Schmidt
+Plant 3A
+Worn gasket
+replace d
+MC-266
+Laser Cutter
+Comective
+Carlos Garcia
+Plant 34
+No issues
+ouno
+MC-265
+Painl Booln
+Prevenne
+Anni
+Nawak
+Plant 34
+MC-239
+Latne
+Corrective
+Carlos Garcia
+Plant 28
+Li-Ion battery
+Dack
+3eniced
+MC-275
+Hycrauiic
+Inspuclion
+Kowalski
+Plant 1C
+Worn gasket
+Press
+repiaceo
+MC-238
+Packaging
+Preventive
+Pelet
+Schmidl
+Plant 28
+Replaced
+GA
+Mainicnancc
+duratilons are recorded for performance metrics
+No critical faults
+Ware
+ound
+the latest inspectcn:
+Malntenance
+note =
+archived for compliance audils . All maintenance tasks have becn completed a:
+schedule:
+Record
+spare
+usade
+inventary adjustment: Chock remalning Ilfe-cycles ofkey
+companents from this repor
+Lubrication Checked
+Calibation Venfled
+cMerqency
+Tested
+Signed off:
+pertormen
+Pillut
+fue0
+during
+per
+paLs;
+Etop

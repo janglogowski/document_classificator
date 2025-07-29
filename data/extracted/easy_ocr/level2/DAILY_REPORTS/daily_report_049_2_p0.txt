@@ -1,0 +1,79 @@
+Production
+Repant No;;
+PR-371
+Custom
+GREECE
+Supervisor
+Laura Rossl
+Department;
+PackorIng
+Shlfe;
+Evening
+16-09-2024
+Entries Include all start/stop
+and operator assiEnments Below [
+Overvicy
+of machlne performance
+and
+output figures for todav' s shift: AIl throughput figures are recorded for capacity
+pvanning
+Machine
+Task
+Technlclan
+Becin
+End Time
+Time
+Comments
+Energv
+Spent
+(KWh)
+MC-202
+Cutting
+Anna
+09,00
+10,04
+Recalbrated
+72,3
+128
+Nowak
+MC- 209
+Drilling
+Agnleszka
+14.15
+15,46
+62,2
+1,92
+Zielsko
+Mc-209
+Cutting
+Bartosz
+07, 00
+08.27
+Recallbrated
+68,7
+2.47
+Wawizynlak
+MC-205
+Welding
+Agnieszka
+07.45
+08,04
+65,4
+2,51
+Ziclinska
+MC-204
+Driline
+Nadla
+13,15
+44 54
+Delay
+62.6
+1,6]
+Sauter
+Preparedby;
+Kowalski
+Approved DK:
+Anm Nota
+Log
+{me:
+Tcmnp

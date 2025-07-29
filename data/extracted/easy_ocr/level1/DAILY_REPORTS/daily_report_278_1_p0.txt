@@ -1,0 +1,89 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-775
+Customer:
+BRAZIL
+Supervisor:
+Peter Schnidt
+Department:
+Qualty Contiol
+Date:
+28-09-2024
+Shift
+(Evening
+Equipment
+Process
+Technician
+Stan
+Time Spent
+Uwagi
+MC-208
+Drilling
+Wiktor
+08.00
+09.01
+NA
+Kopczynski
+MC-201
+Assembly
+Wiktor
+09.30
+10.46
+Kopczynski
+MC-201
+Welding
+Wiktor
+13.30
+15.18
+108
+Kopczynski
+MC-201
+Drilling
+Jan
+08.00
+09.13
+Kowalski
+MC-207
+Welding
+Nadia
+08.15
+09.08
+Sauter
+Part ID
+Target Qty
+Produced Qty
+Rejected Qty
+Rejection %
+Uwagi
+RX-310Z
+169
+149
+11.8320
+PL-6012
+280
+276
+1,43%6
+Rework
+needed
+TL-9OOX
+170
+13.71%
+Rework
+needed
+BZ-660F
+228
+216
+5.265
+Scrap
+confirmed
+XD-T1OR
+163
+143
+12.27%0
+Rework
+needed
+Prepared by:
+Jan Kowalski
+Approved D
+Carlos Garcia
+Iune

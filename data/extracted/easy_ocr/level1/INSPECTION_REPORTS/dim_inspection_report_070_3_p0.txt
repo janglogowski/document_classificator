@@ -1,0 +1,149 @@
+Inspection performed by Jan Kowalski on 2023-08-17 .
+This report presents the dimensional measurements and inspection results;
+Ensure measurement methods
+align with calibration standards. The following data captures key dimensions and any deviations identified,
+Review recorded tolerances against engineering specifications . All measured values are timestamped for
+audit purposes
+This seclion delails the measured values
+tolerances and stalus Ilags:
+Environmental Conditions: Temperature: 22.5
+C, Humidity: 38 %
+Item Code
+Part Name
+Dim.
+Nomina
+Observed
+Delta
+Status (VIX)
+ZR-205R
+Wooden
+Inner
+26.72
+26.90
++0.18
+PASS
+pallet
+Diameter
+PW-S15Y
+Hex Bolts
+Inner
+18.54
+18.62
++0.08
+PASS
+M12
+Diameter
+FT-730X
+Rubber
+Hole
+78.84
+78.67
+0.17
+PASS
+Gasket
+80mm
+TX-820v
+Bearing
+Thickness
+71.30
+71.32
++0.02
+PASS
+6202
+TY-350G
+Wooden
+Hole
+76.54
+76.60
++0.06
+PASS
+Pallet
+LP-5S5v
+Steel Sheet
+Length
+82.32
+82.39
++0.07
+PASS
+A36
+NU-440Z
+Bearing
+52.81
+52.65
+0.16
+PASS
+6202
+Diameter
+AL-1150
+Baltery
+Hole
+73.74
+73.74
++0.00
+PASS
+Pack
+RX-3102
+Steel Sheet
+Hole
+63.74
+63.78
++0.04
+PASS
+A36
+AZ-30OT
+Power
+Deplh
+9.83
+9.86
++0.03
+PASS
+Switch
+BZ- 660F
+Battery
+Depth
+49.11
+49.30
++0.19
+PASS
+Pack
+SL-430M
+Bearing
+Hole 0
+84.63
+84.46
+0.17
+PASS
+6202
+WD-180S
+Hex Bolts
+Hole
+95.66
+95.64
+0.02
+PASS
+M12
+PW 51SY
+Hinge Set
+Depth
+89.28
+89.28
+40.00
+PASS
+HF-390A
+Rubber
+Depth
+30.94
+31.07
++0.13
+PASS
+Gasket
+B0mm
+TL- 9OOX
+Bearing
+Length
+37.02
+37.07
++0.05
+PASS
+6202
+Anner

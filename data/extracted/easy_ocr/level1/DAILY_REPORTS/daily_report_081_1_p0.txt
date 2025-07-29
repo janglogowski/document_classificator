@@ -1,0 +1,86 @@
+Shift Summary
+Repart No::
+PR-211
+Custamier-
+FRANCE
+Supervisor:
+Kowalski
+Department:
+Maintenance
+Date
+12-08-2024
+Shift:
+C(Nignt)
+Machine
+Process
+Technician
+Begin
+Time
+Remare'
+MC 202
+Polishing
+Anna Nowvak
+09.30
+09.52
+NYA
+MC 208
+Assembly
+Przemysiaw
+13.30
+14.58
+Wasik
+MC-208
+Cutting
+Przemyslaw
+13.15
+13.35
+Delay
+Wasik
+MC 201
+Assembly
+Przemysiav
+13.-00
+14.35
+Delay
+Wasik
+MC-204
+Culting
+Jan Kowalski
+LL-UC
+12:41
+101
+Delay
+MC 204
+Assembly
+Harosz
+08-00
+09.30
+Wawrzyniak
+MC-204
+Welding
+Bunosz
+12.00
+13.03
+Delay
+Wawreynlak
+Utem
+Target Qty
+Produced
+Nates
+PL-6012
+153
+7.2786
+Rework needed
+ZR-205R
+2.6706
+Rewon neened
+QP-660F
+203
+6953
+Prepared b%:
+Peter Schmiot
+Approved by:
+Carlos Garcia
+Spent
+Scap
+Scrp

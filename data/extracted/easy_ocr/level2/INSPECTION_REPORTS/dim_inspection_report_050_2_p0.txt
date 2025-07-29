@@ -1,0 +1,77 @@
+Inspection Results Summary
+Supervisor _
+Jan Kowalski
+Inspection Date
+2025-06-29
+This section delails the measured values, tolerances, and status (lags. Use Ihis results sumimrary t0 trigger
+any corrective actions. This summary of measurements supports metrology traceability: This report presents
+the dimensional measurements and inspection results
+Use this examination summary
+confim component
+conformity.
+Article
+PW-S15Y
+OP-660F
+TR-2OOB
+TL-9OOX
+LK-890B
+GH-770J
+Part Name
+Shaft 500mm
+Wvooden
+Graphite Pad
+Hex Bolts
+Graphite Pad
+Hex Bolts
+palle
+M12
+M12
+Mleasurement
+Height
+Nic-ness
+Width
+Height
+Widin
+Thickness
+Target
+34.46
+38.94
+40.59
+75,78
+72.32
+Acmua
+34.58
+5.83
+72.20
+Dift
++0.20
++0.12
++0.00
++0.05
+~0.12
+Pass Fail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Confirm that pass rates meet the defined acceptance criteria. Inspection notes have been logged for
+traceabilily , Components failing inspeclion require immediate review and corrective action;
+Instrument Calibration Log
+Instrument
+Serial No:
+Last Calibration Date
+Micrometer
+73903
+2025-03-19
+Caliper
+87815
+2025-06-07
+Caliper
+55101
+2024-12-08
+Micrometer
+24319
+2024-10-31
+INo:

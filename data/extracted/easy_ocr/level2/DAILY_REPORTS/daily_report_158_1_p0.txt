@@ -1,0 +1,112 @@
+Report No;:
+PR-789
+Customer
+POLAND
+Supervisor
+4nna
+Nowak
+Department:
+Packaging
+Date
+2-0-202
+Shift;
+(Momingl
+Equipment
+Process
+Operator
+From
+End Time
+Time Spent
+MC204
+Drilling
+Mateusz
+14.15
+15.12
+Jamyna
+MC-203
+Assembly
+Mateusz
+07:15
+08.56
+Recalibrated
+aryna
+MC-204
+Bartosz
+06.00
+07.54
+Recalibrated
+Wawreynlak'
+MC 207
+Welding
+Agnieszka
+12.30
+12.59
+NYA
+Zielinska
+MC 204
+Drilling
+Nadia
+Sauter
+1045
+1415
+MC 209
+Welding
+nnz No vak
+07.30
+08.59
+MC-206
+Drilling
+Anna Nowak
+11.30
+MC-209
+Welding
+Nadia Sauter
+11,30
+12-05
+MC-201
+Drilling
+Mateusz
+13,15
+14.13
+Delay
+Jaryna
+MC-206
+Magdalena
+Juu
+13.22
+Recalibrated
+WitkowskJ
+MC-208
+Cutting
+nna
+Nowak
+06.30
+07.32
+Item ID
+Planned Qty
+Produced Qty 
+Scrap QtY _
+Remarks
+SL-430M
+437
+confirmed
+AL-115Q
+8596
+Reworkneeded
+RX-3102
+8870
+Rewark needeq
+GL 9805
+'1856
+Rework needed
+Prepared Dy:
+Anna
+Nowa
+Anproved by:
+Anna
+Nowak
+Notes
+Drillling
+Welding
+Scrap
+Scp

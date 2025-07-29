@@ -1,0 +1,66 @@
+Unit
+Configuration
+Confirm that performance ranges comply with project requirements
+Refer=
+this configuration 5ummaryior unit
+designation mapping
+pease
+reviev' the specifications and
+composition Ilsted below This section details the
+configuration and parameter set torthe product The
+following information outlines performance characteristics and
+design data. Use this spec sheet
+validate assembly instructions All data entries are traceable
+design revision
+history:
+Product
+XD-Z10K
+Dacument No
+PR- 290
+Prepared by: Pete
+Schmidt
+Approved by: Jan Kowalski
+Date: 2024-09-01
+Configuration Type
+Hvurauuc
+Power
+Unit
+Rated Pressure
+210 bar
+Fluid Flow
+30 Llmin
+Voltage
+730 "
+Oil Type
+HLP 46
+Noise
+Leue
+I0 @BIA
+Gervice
+Anterd
+montns
+All specifications meet the design
+requirements and industry standards
+This closure
+indicates the data sheel
+ready tor release
+Use this surmary to cross-check wlth BOM and inspection
+enons
+Ensure tnat the listed materals
+are approved far tne application
+Data sheet has been peer-reviewed
+the engineering
+eaiT
+Reler
+canzmeter
+table for operating rarges and tolerances. This summary reflects the latest revision of the praduct data.
+Material .
+Construction:
+Battery Pack
+Lithium-Ion Cell Pack
+Heat Sink ALU
+Aluminum 6061-T6
+Stainless Steel 304
+matetial
+Base
+Hinge

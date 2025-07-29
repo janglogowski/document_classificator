@@ -1,0 +1,84 @@
+Report No:: PR-788
+Customer: BRAZIL
+Shift: B (Evening)
+Date: 19-09-2024
+Machine
+Operation
+Worker
+Begin
+End Time
+Total
+Mime
+Comments
+Condition
+MC-208
+Cutting
+Dawid
+08.00
+08.39
+Completed
+Oszmianczuk
+MC-208
+Cutting
+Nadia Sauter
+12 00
+13.54
+Delay
+progress
+MC-209
+Welding
+Wiktor
+08.D0
+09.02
+progress
+Kopczynski
+MC-206
+Welding
+Dawid
+07.00
+07:26
+Delay
+Delayed
+Oszmianczuk
+MC-201
+Assembly
+Magdalena
+06.15
+07:44
+Completed
+Witkowska
+Item
+Planned Qty
+Achieved Qty
+Rejected Qty
+Scrap
+Rework
+Uwagi
+Count
+RM-860N
+126
+387
+HF-390A
+107
+14.02%6
+Rewona
+needeo
+VR-940T
+266
+254
+4.5190
+Rewons
+GL-9805
+209
+3.8384
+DX-Z77T
+158
+8.8670
+confirmed
+MR-160H
+296
+11.1588
+Appraved bv:
+Prepared by:
+needed
+Scrap

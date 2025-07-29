@@ -1,0 +1,77 @@
+COMPONENT BREAKDOWN
+The
+manifest here is designed t0 support procurement workllows. All entries rellect the
+latest inventory and supplier rates
+The component roster below includes unit costs and batch
+codes: This summary lists every item required_
+with per-unit pricing details
+This document
+provides
+detailed breakdown of all components required for the assembly process
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pCS
+0.55
+ISO-
+Stopper
+verfied
+Wooden
+pcs
+15.00
+75.00
+SKF brand
+Pallet
+Insulation
+pCs
+3.20
+99.20
+SO
+Foam Pad
+verfed
+Plastic
+pCS
+0.20
+4.80
+ISO-
+Rivets_
+verified
+LED Light
+2.50
+97.50
+Strip
+Epoxy
+pCS
+7.30
+255.50
+Switch
+Resin Kit
+tested OK
+Fuse 5A
+pCS
+0.30
+7.80
+Baltery
+pcs
+25.00
+425.00
+Li-Ion
+Pack
+battery
+installed
+Customer ID: BELGIUM
+Coordinator: Anna Nowak
+Dale: 2023-06-03
+Product ID: RX-310Z
+Interal
+487467
+Order Qty:
+Total
+Amount:
+965.35
+pants

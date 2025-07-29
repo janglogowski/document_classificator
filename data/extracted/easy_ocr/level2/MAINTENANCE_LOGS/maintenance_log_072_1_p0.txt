@@ -1,0 +1,85 @@
+Machine Log Summary #6472063
+Date
+2024-07-09
+Machine
+Mlachine
+Service
+Operator
+Duration
+Site
+Comments
+MC-283
+Assembly
+lnsoccmon
+Carlos Garcia
+Plant 2B
+LIon battery
+obo
+senicc
+MC-270
+Conveyo
+Belt
+Comecive
+Anna
+Voval
+Plant 2B
+Worn
+replacad
+MC-282
+Conveyor Beit
+Insdection
+Jan Kowalski
+Plant 1C
+Refilled oil
+(HLP 46)
+MC-273
+Packaging
+ptevenva
+Laura Rossi
+Plant 1C
+MC 271
+Plasma Cutter
+Comecie
+Anna Nowak
+Plant 34
+Repaced
+coniant
+MC-254
+Paint Booln
+lusocchon
+Jan Kowalski
+Plant 1C
+Swllch
+contack
+cleanec
+MC-240
+Plasma Cutler
+Comective
+Lauma
+Rossi
+Plant 34
+Dion battery
+pack
+senaced
+MC-219
+Conveyor Belt
+Preventive
+Carlos Garcia
+Plant 28
+Alignment of
+hinges
+adjusted,
+AIl maintenance
+quramions
+are recorded for performance metrics , Service summaries
+have been fomwarded t0 the
+engingering team: This lg summary supports tha asset-management dashboard. Record any spare pars usage for
+inventory adjustment
+LMoncaton Checked
+Calibration Verifed
+Emergency Slop Tesled
+Approved by: _
+Serviced by;
+Type
+pach
+Qasket

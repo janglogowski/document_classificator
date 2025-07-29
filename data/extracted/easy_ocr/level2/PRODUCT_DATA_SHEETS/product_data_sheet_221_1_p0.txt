@@ -1,0 +1,94 @@
+Unit Configuration
+BZ-GEQF
+Project;
+7041553
+Unterna
+launross
+Prepared ByL
+Cadlos Garaa
+Approved
+lcaron_
+Plant 34
+Date: 2025-06-22
+summany for unit-
+parameter set forthe product  Refer to this configuration
+This secuon
+the configuration
+construction materials for the unit Check that all
+mapping; Below are the technical parameters
+checklist_
+designation E
+certifications This technical overview supports the product-release
+material specs
+lign with supplier
+Confirm that performance ranges comply with project requirements:
+PreSSUIL
+300 Daf
+Hydpulic Power Untt
+Operating
+Configuration Type
+Voltage
+480
+E0 Hz
+Fluid Flow
+48 Lmin
+Suppl
+oAn
+uminline:10 umretum
+Battely Capacity
+Filtration
+Service Intena
+12 months
+Control Valve
+Manual Overide 3/2
+250K
+72 dBl
+Total Weight
+Noise
+Vane
+(LWxhL
+1000
+650 X
+Iype
+Dimensions
+Reservoir Capacity
+160L
+Protection Class
+P6S
+HLP 46
+Water
+piconger
+Oil WwPe
+Cooling
+Charging Jime
+Mounting
+Walk-mounted
+-10 Cto5O C
+Stainless Steel
+Frame
+Working Temp_Range
+Frame Materia
+Material ol Consiruction:
+Subcomponent
+Glass-Filed Kuon
+Connector 2P
+Brass (7121
+Pressure Valve
+Carbon Steel 436
+Stee]
+Sheet 436
+Graphite Pad
+Graphite Pzd
+Glass-Fillled Aion
+LED Light Strp
+Nitrile Rubber (NBRI
+Cable Tie Pack (1001
+Uithium-Ion Cell Pack
+Battery Pack
+ABS Plastic
+Diital Display Untt
+Oetalks
+Pump
+Rump
+4000
+cccled

@@ -1,0 +1,89 @@
+Inspection performed by Carlos Garcia on 2024-03-02.
+Article No
+Part Name
+Mcacurement
+Target
+Observed
+Diff
+Status (VIXL
+NE-2454
+Wooden
+width
+21.49
+21.59
++0.10
+Pallet
+AL-1150
+Steel Sheet
+Length
+7.13
+7.15
++0.02
+436
+NE 2454
+Bearing 6202
+net
+60.23
+60.26
++0.03
+Diameter
+MC 540X
+Steel Sheet
+Length
+36.85
+36.94
++0.09
+436
+XD- 710R
+Steel Sheet
+Deptn
+51.76
+51.67
+0.09
+436
+XK-G10U
+Stee
+Sheel
+Wnk
+40.57
+40.63
++0.06
+A36
+Diameter
+PL-6012
+Power Switch
+Hole
+53.58
+53.62
+To.
+NE-2454
+Rubber
+Wnnki
+81.69
+81.69
++0.00
+Gaskelsdmir
+Diamele
+CN-I50C
+Wvoudem
+Length
+65.85
+05.85
++0.00
+Pallet
+GH-7701
+Power Switch
+Hole
+15.42
+15.35
+0.07
+CN-150C
+Battely Pack
+Length
+T0J
+AL 1150
+Graphite Pad
+Thickness
+17.58
+1454
+WW5

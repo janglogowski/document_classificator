@@ -1,0 +1,93 @@
+Tolerance Check
+Inspection performed by Carlos Garcia on 2025-03-26.
+Ensure
+measuremeni metoos
+align with calibration standards The following data captures key dimensions and any
+devations
+dentified. Refer
+the dimensional log far all component size readings This data extract
+prepared far
+quality-control
+sign-off. Review recarded tolerances against engineering specifications This report presents the
+cumensiona
+mcasurements and
+inspection results.
+Environment?
+Conditions: Temperature
+23.5
+Humidity: 32 -
+Article No_
+Component
+Measurement
+Target
+Observed
+Delta
+Status (VKXL
+HF-3904
+Power Swilch
+Tnickness
+86.52
+86.59
++0.07
+PASS
+XD-71OR
+Bearing 6202
+Thickness
+34.21
+34.27
++0.,06
+PASS
+MS 6OOP
+kuuuci
+Hole
+68.54
+68.35
+0.19
+PASS
+Gasket 80mm
+DX-7771
+Bearing 6202
+Length
+86.84
+86.95
++0.11
+PASS
+MR-160H
+Steel Sheet
+depl
+12.26
+12.22
+0.04
+PASS
+A36
+CE-9OSL
+Rubber
+Tnickness
+24.74
+24.57
+0.17
+PASS
+Gasket 80mm
+MC-540X
+Hinge Set
+Tnickness
+11.03
+14.47
+40.14
+PASS
+NE 2454
+Power Switch
+Length
+87.41
+PASS
+CE 905L
+Hinge Set
+Height
+76.55
+PASS
+MX-450L
+Shaft S0Omm
+Width
+48 15
+008
+PASS

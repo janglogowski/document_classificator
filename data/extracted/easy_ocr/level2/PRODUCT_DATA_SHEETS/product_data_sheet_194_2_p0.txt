@@ -1,0 +1,65 @@
+Product Overview
+Please review the speciications and material composition listed below. This technical overview supports tne
+product-release checklist Use this sheet t0 confimm engineering requirements and tolerances: This data
+sheet provides key specifications and material details
+This report extract is prepared for design-verification
+audits_ Ensure all referenced standards are up t0 date
+Product
+FL-730X
+ReponNNo "
+PR-872
+Prepared by: Jan Kowalski
+Approved by: Laura Rossi
+Dale: 2024-12-02
+Mode
+Cooling Circulation
+Design Pressure
+250 bar
+Sysiem
+Flow Rate
+48Lmin
+Voltage
+400VLSOHZ
+Frame Materal
+Poudel-coaled Sleel
+Total Weight
+250kg
+Reservoir Capacitx
+160
+Ensure that tne Iisted matenals are
+approved for the application. Use this summary t0 cross-check with BOM
+and inspection reports Ensure glossary terms match the engineering nomenclature. Flag any missing
+parameters for urgent specification updates- Data sheet has been peer-reviewed by the engineering team
+Material choices and process dala have been verified for compliance
+Check that
+section headers follow
+the product template:
+Matenal 0f Constnuction:
+Pant
+Raw Matera
+Pressure Valve
+Brass CZ12
+Gasket SheetAA
+Nitle Rubber (NBR)
+Fuse 5A
+Ceramic Oxide
+Connector ZP
+Glass
+ed Nlyon
+Hinge Set
+Stainless Steel304
+0-RingNBR 6Omm
+Nitnle Rubber (NBRL
+Batte Pack
+Lithium-Ion Cel
+Pack
+Cooling Gel Pack
+Silicone Rubber
+Heat Sink ALU
+Alminuim
+6061-16
+Rubber Gasket 80mm
+Nitrle Rubber (NBR)
+Cable Tie Pack (1001
+Nitrile Rubber (NBRI
+Type

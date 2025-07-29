@@ -1,0 +1,67 @@
+Inspection Results Summary
+ecnnician
+Peter Schmid
+Inspection Date
+2023-10-27
+Use Inis results summary
+trigger
+any corrective aclions. This summary ol measurements supports
+metrology traceability- Review recorded tolerances against engineering specifications_
+Entries include both
+pass fail markers and deviation
+magnitudes. The following data captures
+dimensions and any deviations
+identified_
+Use this examination summary
+confirm component confomity.
+Product Ref
+Kv-390K
+XK-61OU
+GL-980S
+VR-940T
+AZ-3OOT
+AL-1150
+Component
+piastim
+Wooden
+Battery Pack
+Hex Bolts
+Steel Sheet
+Hex Bolts
+Pwvals
+Pallel
+M12
+A36
+M12
+Qim;
+Hole
+Length
+Hole
+Depth
+Depth
+Hole
+Target
+46.66
+55.11
+26.20
+52.84
+Onscrvcd
+55.22
+Delta
+~"
++0.11
+Pass/Fail
+All dimensions within tolerance have been marked as OK_ Archive this inspection summary for regulatory
+documentalion; Components failing inspeciion require immediale reviev' and corrective aclion;
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+75273
+2024-07-30
+CMM
+54875
+2025-01-26
+key =
+0,07

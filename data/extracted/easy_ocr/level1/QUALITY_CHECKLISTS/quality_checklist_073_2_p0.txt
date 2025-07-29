@@ -1,0 +1,78 @@
+Quality Review
+Refer :
+the quality register for sampling-plan references_
+Entries include both visual and functional
+inspection items:
+This checklist captures quality inspection points and sampling levels. Use this extract to
+coordinate sign-off with the QA manager. This summary supports the production-release quallty gate.
+Ensure all non-conforming marks are clearly documented_
+All checklist entries are timestamped for
+traceability.
+Product ID
+MC-5AOX
+Customer ID
+BRAZIL
+Item Descrption
+Graphite Pad
+Quality Check Items
+Sampling
+Classification
+Comments
+Level
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Sharp edges on plastic
+Level |
+Needs review
+comdonents
+Not assembled as per
+Level III
+drawing
+Minor issue
+Wrong product size
+ODScNco
+Exposed nail with sharp
+Level III
+Needs review
+point
+Incorreci orientation
+Level /
+Needs reviow
+box
+Hinges loose
+Levei
+Crtical
+Imdact
+Packaging does not
+Minor issue
+Level
+match signed sample
+abserved
+Loue
+parts inside
+Needs reviow
+packaging
+Missing logo
+warning
+Needs review
+label
+Missing distributor
+Minor issue
+Level Ill
+Informalion
+observed
+Minor issue
+Functionality test failed
+Level Il
+observed
+Carton
+damaged
+Level =
+Critical impact
+maikings icorrecl
+Color mismatch
+Supervised by:
+Date:

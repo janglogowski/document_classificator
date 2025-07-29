@@ -1,0 +1,149 @@
+Component Dimensional Check
+Inspection performed by Laura Rossi on 2023-11-13.
+All measured values are timestamped for audit purposes
+Ensure measurement methods align with calibration
+standards. The Inspection register below highlights any out-of-talerance parts_ Use this results surmary
+trigger any
+corrective actions- This data extract
+prepared for quality-control sign-off:
+Environmenta
+Conditions: Temperature
+Humidity: 31 %
+Item Code
+Part Name
+Measurement
+Target
+Actua
+Delta
+Status (VIX)
+CE-9OSL
+Hinge Set
+Inner
+51.58
+51-66
+40.08
+PASS
+Wiameter
+XK-61OU
+Steel Sheet
+Hole
+58,38
+58.42
++0,04
+PASS
+436
+LK-8908
+Graphite Pad
+nickness
+76.95
+76.91
+Ll
+PASS
+Kv-390k
+Battety Pack
+Height
+52.05
+51.95
+PASS
+PW-S15Y
+0-Ring NBR
+Hole
+87.94
+87.78
+0.16
+PASS
+eomm
+AL-1150
+Waaden
+inner
+64.40
+64.24
+0.16
+PASS
+Diameter
+MX-AS0L
+Plastic Rivets
+Inner
+82.83
+83.01
++0.18
+PASS
+Wiameter
+58-140D
+Powe
+Switch
+Hole
+PASS
+CE-9oSL'
+Battery Pack
+Depth
+40L
+PASS
+RX-3IOZ
+Waaden
+mer
+40.78
+40.83
++0.05
+PASS
+Pallel
+Dlamete
+ZR ZOSR
+Plastic Rlvets
+Hole
+29.22
+29.35
++U-1J
+PASS
+LK 8908
+Poweswinch
+Thickness
+76.33
+PASS
+XD-710R
+Hex Bolts
+Leneth
+33.01
+33.16
++0.15
+PASS
+M12
+BZ 660F
+Rubber
+Thickness
+55.55
+55.43
+0.12
+PASS
+Gasket SOmm
+TY-3SOG
+0-Ring NBR
+Height
+44.57
+44.66
++0.09
+PASS
+GOmm
+XD-T10R
+Hex Bolts
+Helght
+59.43
+59.57
++0.14
+PASS
+M1z
+DX-777T
+Hex Bolts
+Thickness
+9.61
+0.08
+PASS
+M1Z
+NE-2454
+Waoden
+Length
+83.32
+83.17
+0.15
+PASS
+Pallet

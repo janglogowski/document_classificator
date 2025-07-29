@@ -1,0 +1,124 @@
+DAILY PRODUCTION REPORT
+Report No:; PR-794
+Customer: FRANCE
+Shift:
+(Night)
+Date: 10-11-2024
+Machine
+process
+Operator
+Begin
+duration
+Remarks
+Condition
+(min)
+MC 207
+Cutting
+przemysiav
+08.15
+09.59
+104
+N/A
+Completed
+Wasik
+MC-202
+Polishing
+Jan Kowalski
+L1-W
+12.48
+108
+Delayed
+MC-208
+Welding
+Mateusz
+12,00
+13,50
+progress
+Jarzyno
+MC-205
+Cutting
+Dawid
+06.30
+08.10
+100
+Delayed
+Oszmlanczuk
+MC-202
+Drilling
+Wiktor
+12,00
+12.35
+Recalibrated
+In progress
+Kopczyriski
+MC-204
+Drilling
+Przemysiav:
+13.30
+14.52
+progress
+Wasik
+MC 206
+Cutting
+Anna Nowak
+07.00
+08.38
+Recallbrated
+progress
+MC 202
+Drilling_
+Nadia Sauter
+10.30
+11.56
+Rccalbraicd
+progress
+Mc-201
+Cutting
+Jan Kowalski
+06,00
+06,57
+Completed
+Ensure
+routine mjintcnance
+Detweem
+shifts
+maintain consistent output: The performance
+recap sudpons
+morning briefing agenda. Note any unscheduled stops
+the downtime register- All operator notes have been
+archiveo
+Tor [eviev
+Tnis
+osure
+summare
+signals readiness for the next production run,
+Item
+Planned
+Actual Qty
+Rejected Qty
+Rejection %
+Rewor 
+Remarks
+Output
+Couint
+VF-2ZOD
+113
+107
+31%6
+Scrap
+confirmed
+JD-700w
+183
+170
+7.107
+Rewon
+needed
+FT-730X
+122
+0.8296
+Rework
+needed
+SB-1400
+1522751
+Appraved by:
+Prepared by:

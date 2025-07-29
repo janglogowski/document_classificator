@@ -1,0 +1,46 @@
+QC Checklist
+#9388702
+Date: 17.07.2025
+Product ID
+SB-140D
+Customer ID
+FRANCE
+Item Description
+Nut M6
+Refer
+the quality
+sampling-plan references_
+Ensure
+non-conforing marks are clearly
+documented_
+This summary supports the production-release quality gate. Entries include both visual and
+functional inspection items
+Check that inspection steps follow the approved procedure;
+Quality Check Items
+Check
+Category
+Notes
+Intensity
+Product Requirements
+Balterz not included
+Level
+Connector not working
+Levei
+Carton
+damaged or markings
+Level
+Needs review
+Incorrect
+mismatch
+Level 
+Needs review
+Visual defect on housing
+Level
+Needs review
+AQL Level
+Critica_
+nom
+Default
+Customer Speciic
+register
+Coior

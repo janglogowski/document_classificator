@@ -1,0 +1,88 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-123
+Customer
+GREECE
+Supervisor:
+Jan Kowalski
+Depantment:
+Maintenance
+Shift:
+NNight)
+21-05-2025
+Review the operational data to track compliancewith daily
+Entries include all startstop times and
+operator assignments. This section detalls the key metrics andactivities recorded duringthe shift_
+Equipment
+Process
+Worker
+Time
+Uwagi
+Energy
+Spent
+(C)
+Used
+MC-202
+Cutting
+Wiktor
+10:15
+11.29
+58.8
+1.23
+Kopczynski
+MC-209
+Polishing
+Mateusz
+10.30
+10.58
+74.5
+2.83
+Jamna
+MC-205
+Cutting
+Agnieszka
+07.15
+09.12
+Recalibrated
+73.2
+2.15
+Zielinska
+MC-201
+Welding
+Magdalena
+06.00
+06.37
+60.9
+Witkowska
+MC-203
+Welding
+Bartosz
+12.30
+13.55
+Recalibrated
+69.8
+Ea
+Wawmyniak
+MC-208
+Assembly
+Nadia Sauter
+1200
+1306
+79.8
+L07
+MC-208
+Drilling
+Dawid
+11:15
+12.15
+75.5
+2.08
+Wszmianczuz
+Prepared by:
+Laura Rossi
+Approved DY
+Kowalski
+Eoals
+From
+Temp
+Delay

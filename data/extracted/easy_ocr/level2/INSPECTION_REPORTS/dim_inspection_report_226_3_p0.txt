@@ -1,0 +1,159 @@
+Inspection performed by Laura Rossi on 2025-04-29.
+Bolow are Ine recorded measurements compared
+nominal tolerances, Please review Ihe Inspection
+rasults for each component Iisted below: Thls data extract
+prepared tor qualily-contro
+sign-olf, Use this
+results summary
+trigger any correclive aclions_
+Ensure measurerent melhods allgn wlih calibrallon
+standards. This roport prosents Iha dimensional moasuroments and inspeclion rosulls_
+Enviroumontal Conditions: Temparature: 20.4 "C, Huridity; 58 %
+Itom Codo
+Part Namo
+Moasuromont
+Targot
+Obsorvad
+Dift
+Status (VIX)
+VR-940T
+Rubbor
+Depth
+67.61
+67,49
+-0.12
+OK
+Gasket
+bOmi
+RM-BGONI
+Rubbor
+Wldlh
+37.83
+38,02
++0.19
+Ok
+Gasket
+BOmm
+GL-980s
+Wooden
+Thickness
+26,50
+26.49
+-0,01
+Ok
+Pallet
+TX-820v
+Hex Bolts
+Ince
+27.11
+27,27
+40.16
+M12
+Dlameter
+HF-390A
+Wooden
+Lenglh
+46.31
+46,28
+0.,03
+Pallot
+DX-7771,
+Power
+Hole 0
+60,84
+60,83
+0,01
+Ok
+Swltch
+SL-430M
+Plasllc
+Thickness
+15.77
+15,60
+0.17
+Rlvots
+PL-6012
+Shalt
+Hole
+44.,50
+44,34
+~0.16
+s00mm
+JD-700W
+0-Ring NBR
+Wldlh
+93.34
+93.43
++0,09
+G0mm
+DX-7771
+Graphite
+Lenglh
+34,89
+34,85
+-0,04
+Pad
+VR-940T
+Steel Sheet
+Height
+71,.42
+71,27
+~0.15
+A36
+QN-770H
+Wooden
+Height
+43.33
+43,25
+-0,0B
+Pallet
+ZR-205R
+Hex Bolts
+Innec
+65,07
+64,91
+~0.16
+M12
+Dlameter
+JD-70OW
+Plasllc
+Depih
+99.04
+99.22
++0.18
+Rivots
+SL-430M
+Sel
+Length
+L18
+7.26
+40,08
+Ok
+KV-3g0K
+Shalt
+63,07
+63,01
+-0.06
+Ok
+s0Qim
+Diameter
+TX-820v
+Bearing
+Wldlh
+91.78
+91.78
++0,00
+Ok
+6202 ZZ
+CE-9O5L
+Baltory
+Innor
+47.61
+47,.79
+40.18
+Ok
+Pack
+Dlamietor
+ogainst
+Hinge
+Unoec

@@ -1,0 +1,80 @@
+Tolerance
+Ina pector
+Inspection Date
+Carlos Gurcia
+2024-12-22
+Refer
+the dimensional log for all component
+tolerance parts.
+Si2e
+The inspection register
+Use this examination surmary
+highlights any out-of-
+dlmensions and ay devations
+continm
+comgonent
+conformity The following
+Identified. All measured
+timestamped
+captures key
+dredaren
+far quality-control
+far audit purposes. This data extract
+sign-off:
+Item
+LK-890B
+Component
+Graphite Pad
+Ty-JSOG
+Measurement
+Bearing 6202 /7
+nicknfss
+inner Dijmete
+Grphite Pad
+25,05
+Inner Dlometer
+Lengch
+61.02
+Observed
+75.72
+25 01
+uelta
+75 7u
+74,97
+Pass/Fail
+0.16
++016
+Inspection notes
+have been
+loggea for traceability
+Ensure ?
+measuring
+Uhspecticn
+summary for regulatary
+tools were properly calibrated  Archive this
+documentation;
+nstrument
+Calibration Log:
+Instrument
+Serial No
+Micrometer
+07087
+Calibration Date
+Laser Scanner
+2024-12-09
+54461
+caliper
+2025-03-09
+04419
+2024-08-31
+Check
+Teading'
+below
+dalz
+VJiuy
+Code
+P S55V
+PV-SISV
+Hinge
+Tanget
+7481

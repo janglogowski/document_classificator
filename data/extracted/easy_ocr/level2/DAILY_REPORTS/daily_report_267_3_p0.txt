@@ -1,0 +1,133 @@
+Production
+Report No : PR-693
+Customer: TURKEY
+Shift:
+(Morning)
+Date: 18-06-2024
+Machine -
+Operation
+Worker
+Stan
+Finish
+Time
+Comments
+Status
+Time
+Spent
+MC-207
+Dnlling
+Magdalena
+12.30
+13.49
+Delay
+Delayed
+Wikouska
+MC-204
+Cutting
+Mateusz
+09-00
+10.51
+Delay
+Completed
+Jarma
+MC-204
+Assembly
+Mateusz
+12.15
+13.25
+Completed
+Jamma
+MC-204
+Cutting
+Mateusz
+08.30
+09.30
+Recalibrated
+Jamma
+progress
+MC-204
+Welding
+Jan
+1215
+14-00
+105
+NIA
+Kovelski
+progress
+MC-202
+Welding
+Wktor
+10.00
+11.14
+OK
+Delayed
+Kopczynski
+MC-203
+Assembly
+Wktor
+10.15
+10.43
+Delayed
+Kopczynski
+MC-203
+Polishing
+Agnieszka
+09-30
+11.12
+102
+NIA
+Delayed
+Zielinska
+MC-204
+Welding
+Mateusz
+07-00
+07.59
+NA
+Completed
+Jara
+MC-207
+Welding
+Barosz
+12.15
+13.19
+Delay
+Wawniak
+progress
+MC-201
+Cutting
+Wiktor
+12.30
+13.30
+Completed
+Kopczynski
+Ensure shift-handover notes include any pending issues
+Use this summary t0 update the overall production
+dashboard. Verily the final counts against inventory records. Confin that scrap percentages align with
+quality benchmarks
+Part ID
+Planned
+Produced
+Scrap Qty
+Failure %
+Reworked
+Comments
+Qt
+Units
+LK-890B
+162
+161
+0.6286
+ZR-205R
+267
+232
+13.1190
+LP-SS5V
+263
+255
+3.0490
+Scrap
+coniimed
+Approved by:
+Prepared by:
+Log

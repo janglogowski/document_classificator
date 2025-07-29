@@ -1,0 +1,115 @@
+Tolerance Check
+Inspection performed by Peter Schmidt on 2024-08-12.
+Measured Vaies are
+timestamped for audit purposes
+This summary
+Measuremenic
+supports metrology
+traceabilily. Use this examination surmary
+confirm component conformity- Refer
+the dimensional log for all
+component size
+eadings.
+Below are the recarded measurements
+compared against nominal tolerances This section
+details the measured
+tolerances; and status flags:
+Environmenta
+Conditions: Temperature: 21.6
+Humidity: 50 %
+Article No_
+Part Name
+Target
+Actuji
+Delta
+Status (V(X)
+JD-700w
+Plastic Rivets
+Height
+35.26
+35.25
+BZ-S60F
+Shaft
+Length
+12.05
+11,95
+0.10
+XD-ZIOR
+Depth
+TL-goOX
+Hinge Set
+width
+010
+SB-140D
+Sleei
+Sheet
+Length
+49.38
+49.92
++0.1"
+A36
+MC-S40X
+Battety Pack
+Width
+65.83
++0.08
+XK-610U
+Plastic Rivets
+Length
++0.12
+MC-540X
+Steel Sheet
+Depth
+44.58
+A36
+WD 1805
+Graphite Pad
+uepth
+WD-1805
+Bearing 6202
+Width
+27.00
+27.11
++0.11
+MC-540X
+Wooden
+Hole
+45.37
+45,38
++0,01
+Pallet
+RX-310Z
+Bearing 6202
+Thickness
+81.03
+81.02
+0.01
+JD /0QW
+Shaft S0Omm
+Height
+25.15
+MX 450L
+Depth
+56.66
+56 67
+Kv-390k
+Plastic Rivets
+Depth
+55,00
+AL-1150
+Battery Pack
+Width
+46332
+26.43
+40.11
+JD-700w
+Rubber
+Tnickness
+5.09
+5.28
++0.19
+Gasket
+soomm
+Hingel
+Hinge
+B0mm

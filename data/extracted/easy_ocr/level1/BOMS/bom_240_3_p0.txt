@@ -1,0 +1,94 @@
+COMPONENT BREAKDOWN
+Review the materials tally for compliance with budget allowances_
+This section oullines the
+unil
+prices and total amounts for assembly. Use this schedule of parts t0 align with sourcing
+stock levels: This extract shows the bill of components and total projected
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ventilation
+pCS
+5.60
+268.80
+High grade
+Grd
+Cable Tie
+pCs
+21.85
+Certified
+Pack
+100)
+batch
+Rubber
+pCS
+10.50
+Gasket
+80mm
+Clamp
+pCs
+1.75
+73.50
+Ring
+120mm
+Plastic
+pCS
+0.20
+3.20
+Certified
+Rivets
+batch
+Digitab
+pcs
+15.00
+450.00
+Eco
+Display
+compliant
+Unit
+Spring
+pCS
+0.05
+2.45
+Washer
+M1O
+Rubber
+pCS
+0.55
+10.45
+ROHS
+Stopper
+complant
+Ventilation
+pcs
+5.60
+112.00
+For export
+Grid
+Bearing
+pCS
+4.50
+ROHS
+6202 ZZ
+compliant
+Check that component quantities align with production run requirements_
+All sourcing notes have
+been logged for audit purposes
+Customer ID: FRANCE
+Coordinator: Carlos Garcia
+Date:
+2022-11-27
+Product ID: MC-540X
+Interna
+No:: 1590938
+Order Qly: 253
+Total
+Amount:
+957.25
+parts
+and
+spend

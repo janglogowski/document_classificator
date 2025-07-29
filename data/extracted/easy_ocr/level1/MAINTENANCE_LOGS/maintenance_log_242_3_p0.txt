@@ -1,0 +1,133 @@
+Maintenance Checklist Report
+Performeo
+2024-02-15
+AppiCvCd 0Y
+Ian Kuwvilski
+Senviced DY
+Anna Nowak
+Ensume pII safet
+Cnecksue
+completed during
+Entries include work orders
+technician assignments
+and dan
+change3
+The equipment log "
+elo -lncludes tut codes ang
+cortecivenotes
+The following entries deta
+Oreventive 9no
+correctiv
+maintenance tagk;
+ni; IOE rBC Ord=
+maintenance activitie ; perormed onthe gquipment
+Inis ;ervico ;umman
+suddona thereliabilty engineeninerevie
+Contirm that servlce intervals follow the preventive schedule
+Section _
+Unit Code
+MC ?44
+H?26
+MC ?23
+MC?52
+HC706
+HC265
+Machine
+Lusem
+LGsumiuy
+CNC
+Packaping
+Plasmia Cutter
+Paint Booth
+Hobot
+Machine
+Wype
+Piuvcnvl
+Inspeclion
+nsucchun
+Tnsocclion
+Picvcntivt
+nspeclicn
+Technician
+Peter Schmidi
+Schmiot
+Lama
+Rossi
+Peter Schmidt
+Ian Kowaleki
+Schmiot
+Duration
+Comments
+Mlignment
+No Issues
+Li-Ion battery
+Tightened
+hinpes
+tound
+pack semced;
+loosa bolts
+adiusied.
+Section
+Unit Code
+MC253
+MC24
+MC-226
+MC-265
+MC244
+MC-223
+Machinc
+Packaging
+Plasma Cutter
+Assembla
+Paint Booth
+Lasur Cutter
+CNC
+Milling
+Aobot
+Machlne
+Lype
+Codteclive
+Pieventive
+Prevaniive
+Pieveniva
+nsofcoM
+Careclive
+Vecnnician
+Peter Sc hmidt
+Carios Garc u
+Anna Nowak
+Ann Noivak
+Jankowalski
+Peter Scnmict
+Duration
+Comment
+Changed 0 
+Aeplaced
+Sensoi
+Senshi
+Camuatian
+L-lan hanem
+filters_
+cnolant
+recalibrated
+recalibrated
+senic BQ
+NC criticaltaults WVBrB touna qurinathe latest inspecton
+MaintBnance notb'
+Jrchiec
+comoliance Judits
+Senic B
+summaneshave heentonrarded
+the engineering (eam
+Conflim that all corfective actions were properly closed out Chec*
+remaining life-cycles
+ccmponarte
+from this report. All maintenance durationg are recorded for performance metrics
+Uptime (%)
+Errorcount
+Note
+94.9056
+On:
+Tvicing
+Cuttet
+Miling

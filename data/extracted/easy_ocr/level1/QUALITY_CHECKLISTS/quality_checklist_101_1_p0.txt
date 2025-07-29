@@ -1,0 +1,103 @@
+Quality Review
+#6286678
+Date: 17.07.2025
+Product ID
+CN-I5OC
+Customer ID
+BRAZIL
+Item Description
+Use this list to confinm adherence
+AQL ard safety standards
+Ts summarY supports tHe produclion-release
+quality gate, Please review each checklist point and mark the sampling results, This section details quality
+requirements ano
+points
+ior the batch. Check that inspection
+follow' the approved procedure. Archive
+this list Inthe quallty-managerent system. The following table outlines inspection criteria and classification
+levels ,
+Audit Criteria
+Sample
+Category
+Comments
+Tier
+Component Criteria
+Critical
+Maio
+Minor
+OnHold
+Connector not working
+Level II
+Mino
+issue Observed
+Shipping mark
+illegible
+Level |
+issue observed
+missing
+Missing logo
+warning
+Needs review
+laDCl
+Dust/debris inside
+Level |
+packaging
+Rubber Switch not working
+Leveli
+IssUe ooserved
+Rubber texture
+Needs review
+glossiness mismatch
+Wood splinter
+sharp
+Level II
+Needs review
+point on
+proquct
+ncorrec
+quantity Or
+Critical impact
+Jesortment
+Package
+not sealed
+Level /
+Critical impact
+camipigiei
+Hinges
+loose
+Levem
+Critical impact
+ncorrec
+barcod
+label
+Screws
+aose
+missing
+Lavai
+Functionality
+test failed
+Level
+nstructiam Mamual
+Level|
+Needs review
+missingor damaged
+uncorrect onentation
+box
+LevelII
+Needs review
+Packaging does notmatch
+LevelIl
+Minor Issue obseived
+SiKned sample
+Proquctdousn oowem
+Needs[uviei
+AQL Level
+Critical
+Minor
+Default
+Customer specific
+Hinge
+steps
+Minor
+Kinoe
+Major

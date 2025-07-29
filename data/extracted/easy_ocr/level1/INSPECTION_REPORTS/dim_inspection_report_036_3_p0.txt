@@ -1,0 +1,84 @@
+Component Dimensional Check
+Inspection performed by Carlos Garcia on 2025-01-14.
+This summary of measurements supports metrology traceability. Please
+review the inspection results tor each
+component Ilsted below- Review recorded tolerances agalnst engineering specifications.
+Ensure measunemeni
+methods align with calibration standards. Below are the recarded measurements compared against nominal
+toierances
+Environmenta
+Conditions: Temperature: 22.4
+Humidity: 50 %
+Product
+Ref
+Componcnt
+Mominal
+Obsenvcd
+DIff
+Status (V(X)
+QN-770H
+0-Ring NBR
+Hole
+71.55
+71.39
+0.16
+60mm
+9805
+NBR
+Length
+23,78
+23,90
++0.12
+60mm
+NE-2454
+Power Switch
+Tnickness
+45.43
+45.61
+Lu18
+GH-770J
+NBR
+Length
+60,02
+60.07
++0.05
+60mm
+VR-940T
+Battery Pack
+Hole
+57.80
+57,76
+NU-4407
+Battery Pack
+Length
+73.71
+QN-770H
+Steel Sheet
+Depth
+98.98
+98.80
+0.18
+436
+AZ-300T
+Battery Pack
+Hole
+12.45
+12.64
++0.19
+ZR-ZOSR
+0-Ring NBR
+Length
+72,37
+72,36
+0.01
+eomm
+MC-S40X
+Rubber
+Hole @0
+47.58
+47.57
+0.01
+Gasket
+0 Ring
+0 Ring"
+B0mm

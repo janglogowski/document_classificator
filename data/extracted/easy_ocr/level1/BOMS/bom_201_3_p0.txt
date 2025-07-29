@@ -1,0 +1,88 @@
+BILL OF MATERIAL
+Refer tothis parts
+egister to plan raw-material purchasing: Use this breakdown to verify sourcing
+and cost estimates_
+The component roster below includes unit costs and batch codes. Review the
+materials tally for compliance with budget allowances
+Use this schedule of parts t0 align with
+sourcing and stock levels
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Sensor Clip
+0.95
+27,55
+Li-Ion
+battery
+installed
+Grease
+pcS
+28.50
+ISO-verified
+Tube 250ml
+Hex Bolts
+0.25
+Li-Ion
+M12
+battery
+installed
+Plastic
+1.10
+46.20
+Cover
+150x150
+Bearing
+pcs
+6.00
+6202 ZZ
+Clamp Ring
+1.75
+40.25
+Liclon
+120mm
+battery
+installed
+Plastic
+0.20
+.60
+Imported
+Rivets
+Copper
+19.20
+Certified
+Wire 3mm
+batch
+Sensor Clip
+40.85
+Set
+5.00
+For export
+Digital
+pCS
+15.00
+750.00
+Display
+alignment
+Unit
+adjusted
+Final
+amounts include handling and logistics costs where applicable.
+Customer ID: TURKEY
+Coordinator: Laura Rossi
+Date: 2024-07-10
+Product ID: KP-320E
+Internal No_
+7949005
+Order Qty: 303
+Total Amount:
+976.65
+pCs
+pcs
+Pc5
+pcs
+Hinge
+Hinge

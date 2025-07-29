@@ -1,0 +1,77 @@
+Inspection Results Summary
+Inspector
+4nna Nowak
+Insnection Date
+2UZ4
+07-21
+Check that all dimensions comply with
+SO and company standards Below are the recorded measurements compared
+agalnst nominal tolerances
+The following data captures key dlmenslons and
+any deviations identified, Please reviev:
+the inspection results for @ach companent listed pelow'.
+Article No.
+RL-350C
+FT-730X
+CN-1S0C
+BZ-660F
+A-3001
+MX-450L
+Component
+Gfaunite Pjd
+Graphite Pad
+Power Switch
+pastic Rivets
+Graphlte Pad
+Wooden
+vallet
+Dim
+Height
+De dcn
+Unner
+Length
+Width
+Length
+Diameter
+Jarget
+21,87
+75 02
+10.60
+57 45
+Dbsenved
+21.70
+14.00
+Delta
+0.17
++UCC
+#O.u8
+PassAFail
+PASS
+PLLD
+pass
+PASS
+Reter to deviation column for any out-of-tolerance
+measurements
+Inspection notes have been lagged for traceability:
+Archive this inspection summary
+regulatory documentation:
+Instrument Calibration Log:
+Instrument
+Serial No
+Last Calibration Date
+Micrometer
+89449
+2025-04-01
+Lase
+Scanner
+62233
+2024-10-28
+CMM
+85943
+2024 08- 19
+Micrometer
+90977
+2025 06 15
+49,30
+Pass
+Aor

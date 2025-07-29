@@ -1,0 +1,45 @@
+Customer ID: NORWAY
+Prepared by: Anna Nowak
+Product ID: VF-220D
+Internal No:: 4059696
+All entries rellect Ihe Iatest inventory and supplier rates;
+This summary Iists every item required,
+wilh per-unit pricing detalls. This section oullines (he
+unit prices and total amounts for
+assembly. This document provides
+detailed breakdown of all components required for Ihe
+assembly process;
+Item
+Baltery Pack
+Baltery Pack
+LED
+Strip
+Sensor Clip
+Description
+Qty
+287
+683
+487
+500
+UOM
+pcs
+pCS
+pCs
+Unit Price
+25.00
+25,00
+2,50
+0.95
+Amount
+7,175.00
+17,075.00
+1,217.50
+475,00
+Remarks
+Hinge alignment
+Imported
+Imported
+adjusted
+TOTAL: 25,942.50
+parts,
+Light

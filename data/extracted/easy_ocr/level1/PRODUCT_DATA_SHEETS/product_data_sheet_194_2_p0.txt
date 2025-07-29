@@ -1,0 +1,79 @@
+Product Overview
+Please review the specifications and materal composition listed below: This technical overviow supports the
+product-release checklist; Use this sheet t0 confim engineering requirements and tolerances, This data
+sheet
+provides key specifications and materal details .
+Inis report extract
+prepared tor
+design-verification
+audits. Ensure all referenced standards are up
+aatie.
+Product ID:
+FT-730X
+Report No :
+PR-872
+Prepared by: Jan Kowalski
+Approved by: Laura Ross
+Date: 2024-12-02
+Model
+Type
+Cooling Circulation
+Design Pressure
+250 bar
+Systen
+Flow Rate
+48 Umin
+Voltage
+400 V I SOHz
+Frame Material
+Powder-coated
+Steel
+Total Weight
+250kg
+Reservoir Capacity
+160
+Ensure that the listed materials are approved for the application_
+Use this summary
+cross-check with BOM
+and inspection reports
+Ensure glossary terms match the engineering nomenclature: Flag any missing
+parameters for urgent
+specification updates. Data sheet has been peer-reviewed by the engineering team:
+Material choices and process data have
+verified for compliance, Creck thal all section headers follow
+tne product template:
+Material
+Construction;
+Pant
+Raw
+Pressure Valve
+Brass CZ12
+Gacko
+Shcc
+Mncilo
+Rubber (NBR)
+cuse
+Ceramic
+Connector 2P
+4SS-
+Hinge Se
+Stainless Steel 304
+Ring NBR 6mm
+Nitrile Rubber
+Battery Pack
+Lithium
+Pack
+Cooling
+Sillicone Rubber
+Heal Sink ALU
+Aluminum 6061-T6
+Rubber Gaskel BOmm
+Niurile Rubber
+Cable_ Tie Pack (100L
+Nitrile Rubber (NBR
+been
+Maleriat
+Filed
+Nvion
+Gei
+Pacn

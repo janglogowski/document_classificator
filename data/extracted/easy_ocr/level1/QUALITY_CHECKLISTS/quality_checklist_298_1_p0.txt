@@ -1,0 +1,64 @@
+Audit Trail
+#6282956
+Date: 17.07.2025
+Product ID
+GH-770
+Customer
+CANADA
+Item
+Description
+Ceramic Disc 80mm
+Archive this list in the quality-management system; This dlosure summary indicates compliance with inspection
+criteria. Please review @ach checklist point and mark the sampling results: Entries include both visual and functional
+inspection items
+The following table outlines inspection criteria
+classification levels
+Audit Criteria
+Check
+Classification
+Remarks
+Intensity
+Component Cnteria
+Hold
+Missing distributor information
+Leve
+issue obsenvec
+Sharp edges
+plastic
+Level
+Needs review
+components
+Incomectdargode
+oei
+Level
+Minor issue obsenved
+Wood splinter
+sharp point On
+Critical impact
+produo
+Packaging dces
+match signed
+Gamoi
+Rubber Swatch not working
+Leve
+Carton 
+damaged or markings
+Level
+Minor issue observed
+incortem
+Visual defect on housing
+Crtical Impact
+Incorechonenianon
+Lere
+Minot Issue obsenved
+Coior mismduch
+LCIC
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer
+specific
+land
+Mingle

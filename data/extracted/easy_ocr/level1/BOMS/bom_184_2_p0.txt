@@ -1,0 +1,35 @@
+Customer ID: BELGIUM
+Prepared by: Carlos Garcia
+Product ID: HF-390A
+Internal No:: 7296780
+This section outlines the parts, unit prices and tota
+amounts for assembly. The component roster
+below includes unit costs and batch codes. The following table summarizes the materials and
+quantities needed for the current project. Below is the component listing and associated costs for
+the upcoming production batch: The
+manifest here is designed t0 support procurement
+workflows_
+All entries reflect the latest inventory and supplier rates.
+No
+Item Description
+Gasket Sheet AA
+Ceramic Disc 8Omm
+Rubber Stopper
+Qty
+914
+908
+792
+UOM
+pCS
+pCs
+Unit Price
+Amount
+142.50
+906.80
+435.60
+Remarks
+SKF brand
+SKF brand
+Imported
+TOTAL: 3,484.90
+pants

@@ -1,0 +1,89 @@
+Shift Summary
+Report No:: PR-451
+Customer: NORWAY
+Shift:
+(Night)
+Date: 02
+2023
+Machine
+Task
+Operator
+Begin
+Finish
+Duration
+Motes
+Condition
+(min
+MC-208
+Drilling
+Maleusz
+08.30
+09.03
+Recalibraled
+Jarzyna
+progress
+MC-208
+Cutting
+Przemyslav
+12.00
+13.39
+Completed
+Wasik
+MC-206
+Welding
+Jan
+07:15
+08.39
+Recalibrated
+Kowalski
+progress
+MC-20g
+Welding
+Wiktor
+07.30
+07:52
+Recalibrated
+Kopczyuski
+progress
+MC-201
+Assembly
+Magdalena
+06.30
+08.12
+102
+Delayed
+Witkowska
+MC-205
+Welding
+Nadia
+14,15
+15,01
+Recalibrated
+Completed
+Sauler
+Item ID
+Target Qty
+Produced
+Rejected
+Scrap
+Reworked
+Comments
+Qty
+Qty
+Units
+WD-1805
+268
+240
+10.459
+Rework
+needed
+JD-ZOOW
+300
+15 00%
+TL-90OX
+232
+14.22%
+Rework
+needed
+Approvedby:
+Prepared by:

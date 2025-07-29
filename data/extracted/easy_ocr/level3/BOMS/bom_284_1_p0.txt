@@ -1,0 +1,97 @@
+BILL OF MATERIAL
+Customer ID:POLAND
+Coordinalor: Laura Rossi
+Dale
+2025-04-30
+ProcuchD; GL-9808
+Internal Not
+8961392
+Order QbL 1765
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+LED Light
+1.75
+10%
+2.50
+10.00
+For
+export
+Cable Tie
+1.48
+590
+pCS
+0.95
+15.20
+High
+Pack (100)
+grade
+Shaft
+2.43
+59
+pcS
+8.00
+208.001
+ROHS
+500mm
+compliant
+Shaft
+2.12
+10%
+pcs
+8.00
+240.00
+Urgent
+500mm
+Proteclive
+69/0
+63.00
+Sleeve
+alignment
+sOmm
+adjusted
+Aluminum
+0.69
+20/0
+pCS
+4.50
+175,50
+Bracket
+Spacer
+1.04
+10%
+pCS
+0.15
+1,65
+SKF
+2mm
+brand
+Steel Sheet
+1.24
+1090
+5,00
+135.00
+ISO-
+A36
+verilied
+LED Light
+0.69
+59/
+2.50
+47.50
+ISO
+verified
+Total Amount:
+895.85
+Approved By:
+Sourcing Department:
+Sinp
+Hinge
+Stnp

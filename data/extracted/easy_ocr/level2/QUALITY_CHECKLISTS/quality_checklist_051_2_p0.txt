@@ -1,0 +1,72 @@
+Quality Inspection List
+Confinm that sampling Icvels comply with customer agreoments. This closure summary indicatos compliance
+inspection criieria;
+checklist entries are limesiamped for lraceabilily; Archive Ihis Iist in the quality-
+management system: This section details quality requirements and test points for the batch: 'This checklist
+captures quality inspoction points and sampling levels
+ProductID
+MC-540X
+Customer_ ID
+GREECE
+Item Description
+Insulated Tube 25mm
+Audit Criteria
+Sample
+Defect Class
+Observations
+Tler
+Item Specs
+Hold
+Mssing salely labels
+Leve
+Minor issue observed
+Battery not ncluded
+Needs [evlew
+Wood splinter or sharp point
+Needs review
+on product
+IncoroCm
+quantity
+Minor issue observed
+asspuent
+Insiruction manual
+missing
+Level II
+damagod
+Connector not worxing
+Critical impact
+Package
+niot ccalcd
+Needs revicw
+comiplelel
+Exposed nail with sharp
+Level Il
+Needs review
+point
+Product coesntpoweron
+LATA
+Crtical lmpact
+Icorrec
+Daiccna
+Jabel
+Reeds revien
+Carton
+daniaged 0r
+Level I
+Needs review
+markings incorrect
+Functionalitytest failed
+Levei
+Critical impact
+Color mismatch
+Levei
+Critical impact
+Paint smearino
+scralches
+LAVE
+Critical impact
+Rubber texture 0r glossiness
+Level |
+misinalch
+Supervlsed by:
+Date:

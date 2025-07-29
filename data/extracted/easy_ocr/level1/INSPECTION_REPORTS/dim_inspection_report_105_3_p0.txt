@@ -1,0 +1,96 @@
+Inspection performed by Peter Schmidt on 2025-02-24.
+Use this examination summary t0 confirm component confomity. AIl measured values are timestamped for
+audit purposes_
+This section details the measured values, tolerances, and status flags. Check that all
+dimensions comply with ISO and company standards. Entries include both passifail markers and deviation
+magnitudes
+Environmental Conditions: Temperature:
+23.5
+C, Humidity: 40 %
+Item Code
+Pant Name
+Dim.
+Nomina
+Observed
+Delta
+Status (VIX)
+GH-770J
+Hex Bolts
+Depth
+63.73
+63.61
+-0.12
+M12
+NE-2454
+Wooden
+Inner
+25.38
+25.48
++0.10
+Pallet
+Diameter
+NE-2454
+Shaft
+Inner
+26.13
+25.95
+0.18
+500mm
+Diameter
+TX-820v
+Hex Bolts
+Thickness
+86.11
+86.24
++0.13
+M12
+FT-730X
+Graphite
+Width
+43.64
+43.74
++0.10
+Pad
+RM-B6ON
+Hex Bolts
+Length
+92.31
+92.16
+-0.15
+M12
+PW-55Y
+Shatt
+Length
+57.31
+57.41
++0.10
+s00mm
+WD-1805
+Bearing
+Thickness
+14.30
+14.26
+0.04
+6202
+FT-730X
+Steel Sheet
+Thickness
+53.13
+53.11
+0.02
+A36
+MX-450L
+Rubber
+Height
+87.93
+88.12
++0.19
+Gasket
+80mm
+DX-7771
+Wooden
+Hole
+63.29
+63.18
+0.11
+Pallet

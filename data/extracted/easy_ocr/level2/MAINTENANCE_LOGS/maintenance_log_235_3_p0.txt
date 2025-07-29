@@ -1,0 +1,138 @@
+Equipment Record Report
+Performed On: 2025-01-28
+AppiCvcd 0Y
+Lnnal Navl
+Senviced DYz
+Carlos Carcia
+The following
+entries detail preventive
+Jno Correc
+Maintanancatasks
+Refer t0 the maintenanceregiste
+for detailed
+senice hlstones
+Checkthat
+doutime
+vent3 are propen
+categorized and logged
+equipment log below includes fault
+codus an corectnenotos
+nis ; ectio
+capturos Bquipment statuz
+Jnd Any mjintenance observutions
+Use this record
+plan uncoming upkeep and repalfs
+Ensure all sately checks vrere completed during servicing:
+Section A:
+MachineID
+MC 264
+HC?39
+MC ?22
+MC22
+NC77I
+NC772
+Machine
+4Ssurmau
+LGsumuy
+Paint Booth
+Paint Booth
+Hydraulic
+CNC
+Robot
+Hobot
+Pre33
+Nacnine
+Scnvict ypc
+Unspucliom
+Pruvuntivg
+PruvunivG
+nsducliur
+Prevcntive
+nsneclion
+Operator
+Carids
+Garcia
+Schmiot
+Pater Schmidt
+Jan Kovrnlski
+Carlos Garcia
+Garcin
+Downtime
+Note9
+Replaced
+Hefliled oll
+Changed
+Li-Ion battery
+Tightened
+LI-Ion battery
+codlant
+IHLP 4614
+ang Tiltets
+DacK seniced
+loose bolts
+pack geniced
+Section
+Machine
+MC-271
+HC-222
+MC-26C
+MC-2TE
+MC-239
+HC-281
+Machine
+Fidraulic
+Paint Bootn
+Aasemdl
+CNC llin _
+KsseMbi
+Paint Booth
+Rbot
+Malchiru
+Ronat
+Semice /ype
+Inapection
+Corrective
+nspectiote
+Lotrbciive
+Inapection
+Correctiv
+Operator
+Garcia
+Peter Schmiat
+Anna Nowak
+Anna Rowak
+AnnaNoxax
+Dovantime
+Notcs
+Li-lonbutteni
+Worn eJskgt
+Wocden pallet
+Klpnment ci
+Sensor
+pack sAnviced
+6eplaced;
+cnecked
+6ecalibraled.
+adaustam
+Flaz Bm
+acurnngissu5 iOr roct-cause invostipation
+Service summaries nav8 Dg8n forw arded totne eneinegrineiBaM
+3Bter
+Temats toranytollow-Lp actians
+parts replacements
+Conflam thatall corfective actions vere properly clased cuE. Tnls
+Lop 9uMMar
+supports theasget-management dashboard
+Use this closure note
+update the maintenance KPI tracker.
+Uptime ()
+ErrorCount
+comment?
+97 2704
+Renaced iller
+MWinr
+Cerlon
+Caros
+caron
+04ic
+hnges

@@ -1,0 +1,57 @@
+Inspection Record
+This checklist caplures quality inspection points and
+functional inspection items
+sampling levels. Entries include both visual and
+checklist entries are
+~Sforioncfetails quality requirements and test points for the batch: Ali
+~tinestamped for traceability. This summary supports the productionrrel
+gate. Ensure all
+non-conforming marks are clearly documented,
+lease quality
+Mark the
+sampling results. Check that
+Please review each checklist point and
+inspection steps follow the approved procedure.
+Product ID
+CN-IS0C
+Item Description
+Fuse 5A
+Customer
+GREECE
+Quality Check Items
+Sampling
+Level
+Severity
+Comments
+Product Requrrements_
+Dead
+Iive insect In
+packaging
+Level II
+Critical impact
+Color mismatch
+Level
+Rubber Switch not working
+Level
+ISs4e Observed
+Wood splinter .
+sharp point on
+Minor issue observed
+producl
+Level
+Screws loose
+or missing
+Leve
+Package
+not sealed
+Needs review
+completely
+Nceds review
+Packaging does nol match
+signed sample
+Level II
+Critical impact
+Supervised by:
+Date:
+This
+Minor

@@ -1,0 +1,71 @@
+BILL OF MATERIAL
+The following table summarizes the materials and quantities needed for the current project: All line-item
+costs are current as per verdor quotes: All entries reflect the Iatest inventory and supplier rates. This
+document
+provides
+detailed breakdown of all components required for the assembly process. This
+summary lists every item required, with per-unit pricing details.
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descnption
+Digital
+15.00
+255.00
+Display Unit_
+compliant
+Hex Bolts
+0.25
+M1z
+compliant
+Copper
+0,60
+4.20
+SKF brand
+Wire 3mm
+Bearing
+57.00
+6202 ZZ
+alignment
+adjusted
+Rubber
+'0.50
+7.00
+Urgent
+Gasket
+80mm
+Hinge Set
+2.50
+127.50
+122.50
+Copper
+0,60
+27,00
+ISO-verified
+Wire 3mm
+Power
+1.20
+43.20
+Hinge
+Switch
+alignment
+adjusted
+Epoxy Resin
+7.30
+14.60
+For export
+Customer ID: GREECE
+Coordinator: Jan Kowalski
+Date; 2023-06-29
+Product ID: RX-3102
+nterne
+NO;-
+7294328
+Order Qty: 498
+Total Amount:
+659.50
+Hinge
+Hinge

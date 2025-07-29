@@ -1,0 +1,88 @@
+BOM Report
+Customer ID:POLAND
+Coordinator; Anna Nowak
+Date: 2025-06
+Product ID: KP_320E
+Intemal No:
+2063941
+Order Qly: 94
+No
+item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amcunt
+Remarks
+Description
+Spacer
+3.03
+10%
+pCS
+0.15
+1.80
+Switch
+2mm
+tested
+OK
+Hex Bolts
+3.38
+00
+pCS
+0.25
+6.50
+M12
+Battery
+0.37
+pCS
+25.00
+1,075.00
+Pack
+Cable Tie
+2.16
+pCS
+0.95
+10.45
+Certified
+Pack (10Q}
+batch
+Plastic
+0%
+pCS
+0.20
+4.40
+Rivets
+Wooden
+3.34
+0%
+PCS
+15.0Q
+345.00
+Pallet
+Epoxy
+0.9
+FCS
+7,30
+175.20
+Eco
+Resin Kit
+compliant
+Clamp Ring
+3.21
+pcS
+1.75
+66.50
+120mm
+Amounts reflect current prcing
+adjust as necessary for bulk orders. Totals include estimated
+over-consumption allowances and current unit rates_
+All listed components have
+verilied for
+availability and compliance:
+Tola
+Amount:
+684.85
+Approved By:
+Sourcing Departmient:
+been

@@ -1,0 +1,69 @@
+Unit Data Specification
+Refer
+this configuration summary for unit-designation mapping: Use this sheet:
+confirm engineering
+requirements and tolerances: Entrics include both mechanical and electrical specifications This technica
+venici
+supparts the product-release checklist_ All data entries are traceable
+design revision history- Tnis repart extract is
+prepared for design-verification audits,
+Please review the specifications and materia
+composition listed belov'.
+praduct Id
+KP-320E
+Document No:
+7812137
+Preparec
+bv: Jan Kowalski
+Approved by: Anna Nowak
+Date; 2023-10-04
+Model Type
+Cooling Circulation
+Design Pressure
+210 bar
+System
+Fluid Flow
+48 L{min
+Operating Voltage
+480V
+60Hz
+Frame
+Mlateria
+Auminum
+Frame
+service Interval
+months
+Oil Type
+HLP
+This summary reflects the latest revision ofthe product data This dosure
+nate indicates the data sheet
+ready far
+release: Ensure glossary terms match the engineerng nomenclature
+Confirm that all test conditions are accurately
+represenicc
+Check that all section headers follov
+product tcinplatc
+Flag any missing parameters
+for urgent
+specfication undates
+Material choices and process data have been verifiec
+far compliance
+Material of Construction:
+LJbe
+composition
+Cooling Ge
+Pack
+Smicone Rupber
+Hinge
+Stainless Steel 304
+LED Light Strip
+Glass-Filled
+Mhon
+Connector 2P
+Filled Nylon
+Wiring Loom Im
+Steel Sheet 436
+Carbon Steel 436
+Tne
+Glas5
+PVC (Rigid)

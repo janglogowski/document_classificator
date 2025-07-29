@@ -1,0 +1,92 @@
+Shift Summary
+Report No :
+PR-776
+Customer:
+SWEDEN
+Supervisor:
+Knna
+Nowak
+Department:
+Machining
+Date:
+06-01-202
+Shift:
+(Evening
+Machine ID
+Process
+Operator
+From
+End
+Duration
+Notes
+(min
+MC-201
+Drilling
+Wiktor
+10.00
+10.49
+Recalibrated
+Kopczynski
+MC-208
+Polishing
+Anna
+14.15
+14.52
+NA
+Nowak
+MC-208
+Drilling
+Jan
+09.30
+10.07
+NA
+Kowalski
+MC-20g
+Assembly
+Agnieszka
+12.15
+14.15
+120
+Delay
+Zieliiska
+MC-208
+Cutting
+Przemystaw
+12.30
+14.07
+Delay
+Wasik
+Item ID
+Target Qty
+Produced Qty
+Scrap Qty
+Rejection
+Comments
+QN-770H
+206
+202
+1.94%
+Scrap
+confirmed
+CN-150C
+140
+130
+7,1496
+Scrap
+confirmed
+QP-660F
+203
+8.97%
+BZ-660F
+292
+14.04%
+Rework
+needed
+300T
+106
+1.89%
+Prepared by:
+Laura Rossi
+Approved D%
+Laura Rossi
+Time

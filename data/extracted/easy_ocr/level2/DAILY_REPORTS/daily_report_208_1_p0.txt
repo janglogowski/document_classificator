@@ -1,0 +1,104 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-487
+Cuslaier;
+NORWAY
+Supervisor:
+Anma Nowak
+Departmant:
+Logisuce
+Dale:
+25-02-2024
+Shilt:
+(Evening)
+Machlne ID
+Taak
+Workor
+Begin
+End
+Durallon
+Uwagl
+Kmin)
+MC-201
+Welding
+Mcleus 2
+0B,15
+09, 46
+Uazyma
+MC-201
+Drilling
+Anna Nowak
+10,0Q
+11346
+MC-207
+Cullngi
+Jan Kowalsk/
+08.16
+09.33
+MC-205
+Polishing
+Uan Kowalski
+08'Q0
+09.50
+Delay
+MC-207
+Drllling
+Plolr
+13,J0
+14,07
+Lewandowskl
+MG-205
+Cuttng
+Piotr
+07;0g
+08;08
+NIA
+Lowandowski
+MC-206
+Culung
+wuiktor
+08,00
+09,29
+Dalay
+Kopezynski
+MC-207
+Culling
+Barlosz
+13 00
+13.26
+Recalibrated
+Wuwczyniak
+MC-202
+Polishirg
+Przamyslaw
+12.,16
+13.10
+Waeik
+Itom ID
+Planned
+Achleved Qty
+Defact Qty
+Fallure %
+Uwagi
+output
+WD-1803
+289
+269
+6.9296
+Rowork
+nucdad
+XD-7 IUR
+207
+109
+9,18%
+NU-4402
+150
+120
+14,67%0
+Rowork
+hueded
+Prepared by"
+Carlog Gercia
+Approvad by:
+Curlos Garcia
+Tinto

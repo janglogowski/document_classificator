@@ -1,0 +1,85 @@
+Component Overview
+Prolect;
+RM-BGON
+Report No
+1726537
+Prepared
+Carlos
+Gancia
+Approved BY:
+Carlos Garcia
+Location: Plant 34
+Date; 2025-06-11
+Please review the specifications and material composition listed below: Entries include both mechanical and
+electrical specifications Refer t0 this configuration summary for unit-designation mapping: The parameter
+below includes operating Imits and ratings_
+This dala sheet provides key specilicalions and malerial
+details
+Below are the technical parameters and construction materials for the unit:
+Model Type
+Pneumatic Control Unit
+Rated Pressure
+180 bar
+Throughput
+75 Lmin
+Operating Voltage
+230
+50 Hz
+Motor Power
+11kWN
+Control Valve
+Manual Ovende 3/2
+Protection
+P6S
+Cooling
+Air-cooled oil radiator
+Mounting
+Rack frame
+Pump Type
+Vane Pump
+Noise Level
+70 dB(A
+Frame Material
+Stainless Steel
+Ftamc
+Dimensions
+LxWxH)
+1000
+650 * 1000 Mm
+Working Temp
+Range
+10"C t0 55*C
+Battery Capacity
+Oil Type
+HLP 68
+Filtration
+10um
+Reservoir Capacity
+160 L
+remirn
+Total Weight
+250 kq
+Charging Time
+Service Interval
+months
+Matenal
+Construction:
+Item
+Base
+Baltery Pack
+Lithiun-Ion Cell Pack
+Hex Bolls M12
+Zinc-Plaled Steel
+Nut M6
+Zinc-Plaled Steel
+Hinge Set
+Stainless Steel 304
+Digital Display Unit
+ABS Plastic
+Insulated Tube 25mm
+Thermoplaslic Polyurethane (TPU)
+Cooling Gel Pack
+Silicone Rubber
+register
+Class
+Inline

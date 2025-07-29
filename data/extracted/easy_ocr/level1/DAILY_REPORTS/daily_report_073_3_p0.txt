@@ -1,0 +1,146 @@
+Report No:: PR-784
+Customer: BRAZIL
+Shift:
+(Evening)
+Date _
+22-03-2025
+Equipment
+Process
+Operator
+Begin
+Total
+Remarks
+Condition
+duration
+MC-204
+Welding
+Wiktor
+11;15
+12.41
+Delayed
+Kopczynski
+MC-208
+Assembly
+Przemystaw
+14.15
+15.26
+Delayed
+Wasik
+MC-206
+Welding _
+Nadia Sauter
+1200
+1304
+Recalibraled
+Completed
+MC-207
+Polishing
+Piotr
+12.30
+13.09
+Delay
+Completed
+Lewandowski
+MC-201
+Polishing
+Bartosz
+08.30
+10.30
+120
+NA
+Completed
+Wawrzyniak
+MC-206
+Drilling
+Dawid
+07.30
+09.28
+118
+Osznianczuk
+progress
+MC-203
+Polishing
+Piotr
+10.30
+11.56
+Lewandowski
+progress
+MC-204
+Polishing
+Agnieszka
+13.00
+14.25
+Completed
+Zielinska
+MC-202
+Welding
+Magdalena
+07,30
+08.43
+Recalibrated
+Witkowska
+progress
+MC-202
+Assembly
+Bartosz
+12.00
+13.14
+Delayed
+Wawrzyniak
+MC-202
+Drilling
+Kowalski
+06.00
+07.13
+Delay
+Delayed
+MC-207
+Cutting
+Mateusz
+07:15
+08.44
+Delayed
+Jarzyna
+Refer
+remarks for any rework Or
+quality concerns: Record any adjustments
+shift schedules
+staffing
+here: The performance recap suppons lhe morning brieling
+Ensure shift-handover notes include
+pending issues. Archive this output summary for end-of-day reporting:
+Part ID
+Target Qty
+Produced
+Scrap Qty
+Scrap
+Rework
+Comments
+Lount
+CE-905L
+151
+145
+3,97%6
+Rework
+needed
+RM-86ON
+222
+219
+3590
+Scrap
+confirmed
+ZR-Z05R
+213
+193
+39%6
+Scrap
+confirmed
+FT-730X
+227
+219
+52%6
+Rework
+needed
+Approved by:
+Prepared by:
+agenda

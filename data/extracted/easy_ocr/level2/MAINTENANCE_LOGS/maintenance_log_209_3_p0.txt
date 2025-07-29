@@ -1,0 +1,82 @@
+Equipment Record Report
+Perfomed On: 2024-06-05
+Sgnedot;
+JanKoekki
+cenormadDi
+Wan Rotal
+This senvice summary supports the reliabilty engineenng revew_
+This secton Captures equipment status and any
+maittenance observatons_ Belwe
+the summan E
+senvice actons andcownbmes for each machire  The equipment log
+Belo  includes laul coces and Cotrecie noles Use Inis record
+plan upcoming Upkeep and repairs_ Please revie " [his
+logior recent seNce cates. lpes; and remars
+Sec lon A:
+Machlne 
+MC218
+NC2-3
+HC259
+MC 233
+Equipment
+Coweyo Bel
+Rlasma Cuier
+CNC
+Machine
+Plasma Cutel
+Senice
+Lxpe
+COmectna
+Pteveninte
+Pueventne
+Coe Cinte
+Operator
+Peler Schmbi
+01622
+Peter Schmil
+Caios Garca
+Duraton
+Notes
+Sensor recalbraled
+Swiich conlacts
+Ko issues lound
+Saneot [acahbated
+Cleanad
+Section B:
+Machine
+HC-218
+MC-243
+MC-259
+MC-233
+Equipment
+Coneor Bel
+Rlasma Cutter
+CLC
+IaHlachine
+Plasma Cuier
+Senvice Uype
+Preventive
+nsdeccom
+Rreventve
+Comeciive
+Operator
+Pele_Schmel
+Peler Schmdl
+CareiGara
+Laun Rozd
+Duradon
+Notes
+Tghiened
+LoDs =
+Alignment ofhinges
+Gensortetalonaed
+doe
+adusted
+Ensure that each senvice enty has the required approvals Check remaining lfe cycles of key components from this
+Tepot
+Uptime(
+Enorcount
+Netes
+9205 ,
+Replced ftter
+Mding

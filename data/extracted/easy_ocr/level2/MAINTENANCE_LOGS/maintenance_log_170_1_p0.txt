@@ -1,0 +1,92 @@
+Machine Log Summary #1724505
+Date: 2025-05-22
+Hachine
+Equipment
+Senvice Type
+Operator
+Douintime
+Site
+Notes
+MC-233
+Conveyor Bcll
+Inspecton
+Anna Noxak
+Plant 1C
+Alignment of
+hinges
+adjusted
+MC-291
+Lathe
+Inspecton
+Anna Nowak
+Plant 1C
+Replaced
+fuse (S4
+MC-285
+Paint Booth
+MeDecton
+Jan Kowalskd
+Plant 28
+Fionment
+Funges
+adjusted
+MC-235
+Plasma Culler
+Conective
+Peler Schmidl
+Plant 28
+Replaced
+cooant
+MC-224
+Laser Cutter
+Preventive
+Anna Noxak
+Plant 34
+Changed 0l
+and fhens
+KC-288
+Laser Cutted
+Comectie
+Laur Rossi
+Plant 28
+MC-271
+L32e
+Cimte
+Preventie
+Peer Cchmid
+Plant 1C
+Rehlled oil
+MLP 462
+MC-225
+Plsma Culler
+Preventie
+Annakqel
+Plant 28
+MC-251
+Paint Booth
+Inspecton
+Anna Noxak
+Plant 34
+Swnch
+contacs
+C2amed
+MC- 278
+Paint Booth
+Corective
+Caros Garcia
+Plant 28
+Calbration
+check Ok
+Thts log summary supports Ihe assct-managoment dashboard_ Archive thts summary in the CMMS for future reference
+All mainenance tasks have been completed
+per schedule Ensure that each senvice enty has the required approvals
+Senvice summanes have
+heem
+Iodoted
+the engineering
+team
+Lubraton Checked
+Cambrato Venfed
+Emamens- 8t2 Mested
+Signed of
+Performed Dy:

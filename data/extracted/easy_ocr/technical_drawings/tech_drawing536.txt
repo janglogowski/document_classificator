@@ -1,0 +1,31 @@
+8 8
+1
+PITCH
+RIGHT HAND HELIX
+1
+Pisso 10 ciC DESTRA
+1
+V
+1
+0
+7
+80 5 NoH
+1
+J
+E
+t
+
+U
+5
+1
+V
+Hw
+0
+E
+8
+1
+8
+1
+8
+1
+1

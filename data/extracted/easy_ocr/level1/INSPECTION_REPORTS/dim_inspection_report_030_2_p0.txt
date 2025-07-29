@@ -1,0 +1,58 @@
+Inspection Results Summary
+Inspector
+An Nowak
+Inspection Date
+2024-04-02
+Item Code
+GL-980S
+LK-390B8
+XK-GI0U
+PW-51SY
+XK-SIQU
+Part Name
+Hex Bolts M12
+Hex Bolts M12
+Plastic Rivets
+Hex Bolts M12
+Wooden Pallel
+Mcasurement
+Depth
+Thickness
+Depth
+Width
+Depth
+Target
+58.17
+36.67
+26.19
+44.19
+Actual
+5,09
+58.24
+36,84
+26.11
+448
+Dclta
+UUI
+0.04
+PassiFail
+PASS
+PASS
+P4Ss
+ASS
+This closure
+MeMio
+confirms thal dimensional checks are comiplete. Confirm thal pass rales mieel Ine
+defined acceptance criteria
+All dimensions within tolerance have been marked as OK.
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+60114
+2025-05-10
+CMM
+55133
+2024-12-05
+Log:

@@ -1,0 +1,71 @@
+Product Data Sheet
+Document No:: PR-576
+Product ID: PW-51SY
+Date: 2024-01-04
+Model Type
+Pneumatic Control
+Operating Pressure
+180 bar
+Fluid Flow
+60 Lamin
+Operating Voltage
+50 Hz
+Type
+Vane
+Working
+10'C t0 55'c
+Dlmensions
+LXWxh
+1000
+650
+1000 mm
+Battery Capacity
+2 An
+Cooling
+Watencooleo
+exchanger
+Noise Leve
+70 dB(AI
+Total Weight
+180 kg
+Component Materials Overvieve:
+Kem
+Camposition
+Specification
+Pressure
+Udive
+Brass CIZ_
+Anticorrosive
+Healsn: AL
+Aluminum Gog1-TG
+Anicorrosi
+Giapnite Pad
+Grapnite Pad
+Class
+colerancc
+Connector 2P
+Glass Filled Nylon
+Anticorrosi C
+Teflon Tape Rol
+Teflon Tape
+CE certified
+Gasket
+Sheer /4
+Nitrile Rubber INBR)
+Class
+tolerance
+Switon
+Palycarbonate
+Copper
+DIN EN 10025
+Cable Tie Pack (100)
+Nitule Rubber INBRA
+UL-Iisted
+Preparec
+by: Laura Rossi
+Approved by: Anna Nowak
+Unit
+Pump
+Puip
+Temp
+Range

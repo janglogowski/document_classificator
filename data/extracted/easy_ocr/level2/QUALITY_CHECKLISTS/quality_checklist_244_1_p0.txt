@@ -1,0 +1,76 @@
+#7995848
+Quality Inspection List
+Date: 17.07.2025
+Customer
+TURKEY
+Product ID
+HF 390A
+Item Description
+Digital Display Unit
+{functional inspection items This closure summary indicates compliance with
+Entries include both visual
+and test points for Ihe batch; This summary
+inspection crileria
+This section details
+requirements
+the final product
+production-release quality gate. Below are the items to be verified during
+supports the
+points and sampling levels;
+Confirm that sampling levels
+review: This checklist captures quality inspection
+AIl checklist entries
+comply with customer agreements: Archive this list in the quality-management systecla
+for traceability. The following table outlines
+inspection crileria and classification levels:
+timeslamped
+Sample
+Defect Class
+Notes
+Audit Criteria
+Tier
+CR
+Hold
+Item Specs
+Packaging does not match
+Minor issue observed
+Level
+signed sample
+Shipping
+Mar
+illegible or
+Level Il
+Critical impact
+missing
+Missing
+or waming
+abcu
+Minorissue observed
+Hinges loose
+Level
+Rubber texture
+glossiness
+Level IlI
+Critical impact
+nsmaich
+Minor isSue observed
+Exposed nail wilh sharp point
+Mnor issue observed
+Connecioi
+not WOlking
+Leve
+Minor iSSuG observed
+Leva
+Color mismaich
+Sharp edges on plastic
+Level Il
+components
+Critica
+Minor
+AQL Level
+Default
+Customcr
+and
+qualty -
+aje
+specific

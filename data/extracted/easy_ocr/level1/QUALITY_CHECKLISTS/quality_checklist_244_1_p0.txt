@@ -1,0 +1,69 @@
+Quality Inspection List
+#7995848
+Date: 17.07.2025
+Product ID
+HF-3904
+Customer ID
+TURKEY
+Item Description
+Digital Display Unit
+Entries include both visual and functional inspection items:
+This closure summary indicates compllance with
+inspection criteria_
+This section details quality requirements and test points for the batch: This summary
+supports the production-release quality gate. Below are the items t0 be verified during the final product
+review.
+This checklist captures quality Inspection points
+sampling levels
+Confirm that sampling levels
+comply with customer agreements
+Archive this Iist in the quality-management system. All checklist entries
+are timestamped for
+traceability- The following table outlines inspection criteria and classification levels.
+Audit Criteria
+Sample
+Defect Class
+Notes
+Tier
+Item Specs
+MA
+Hold
+Packaging does not match
+Level
+Minor issue observed
+signed sample
+Shipping mark
+illegible 0r
+Level Il
+Critical impact
+missing
+Missing logo or warning label
+Hinges loose
+Level
+Minor issue observed
+Rubber texture or glossiness
+Level IlI
+Critical impact
+mismatch
+Exposed
+shap point
+Minor
+ISSuC ODSCNCO
+Connector_not working 
+Level
+Morussue opserved
+Cqlr mismalc
+MnO6
+ssue opserved
+Sharp edges on plastic
+Level
+components
+AQL Level
+Critical
+Mai
+ulinor
+Default
+25
+Customer
+pecific
+and

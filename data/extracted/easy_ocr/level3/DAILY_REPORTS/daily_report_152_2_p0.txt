@@ -1,0 +1,83 @@
+Production Log
+Report No:
+PR-848
+Customer
+CANADA
+Tsan;
+Peter Schmidt
+Department:
+Quality Control
+Shif
+(Nicht)
+05-12-2024
+All throughput figures are recorded for capacity planning: Review the operational data t0 track compliance with
+dally
+Use this overview t0 assess
+throughput and etficlency levels. Ensure any downtime incidents are
+noted for follow-Up
+Machine
+Operation
+Worker
+Stant
+Finish
+Duration
+Notes
+Temp
+Eneny 
+Time
+(min)
+Used
+MC-202
+Welding
+Jan Kawalski
+10:15
+11.07
+NIA
+MC-203
+Cuttng
+Nadia Sauter
+13.15
+15.02
+Kecalibrated
+260
+MC-203
+Drilling
+Magdalena
+11315
+1240
+72.9
+1.47
+Witkowska
+MC-206
+Polishing
+Dawid
+14.15
+46.12
+Delay
+66 7
+Gszmianczuk
+MC-206}
+Assembly
+Magdalena
+12.30
+13.32
+Recalibrated
+79.4
+2.22
+Wltknwska
+MC-205
+Welding
+Wiktor
+10.00
+11.27
+75.1
+2.56
+Kopczynski
+Prepared bY:
+Lamm
+Rossi
+EpDicue0 DY:
+Peter Schmidt
+Supt
+Boals
+23.00

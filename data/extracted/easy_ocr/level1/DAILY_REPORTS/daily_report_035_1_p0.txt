@@ -1,0 +1,97 @@
+Production Log
+Redar ND;:
+PR-265
+Cusiamer-
+BELGIUM
+sudenvison
+Anna Nowak
+Department:
+Assemd y
+11-08-2023
+Shift:
+KNignt)
+Machine
+Operation
+Worker
+From
+Enmtime
+Duration
+Notes
+(min)
+MC-202
+Welding
+pmemystav
+09.30
+10.14
+Recalibrated
+Wasik
+MC-20A
+Polishing
+Agnieszka
+12-00
+13.27
+Delay
+Zielinska
+MC-209
+Welding
+Agnieszka
+07-30
+08.02
+Recalibratec
+Zielinska
+MC-205
+Assembly
+Rartosz
+13.00
+13,53
+Wawrzyniak
+MC-203
+Assemblv
+Magdalena
+10.30
+12.04
+N/A
+Witkowska
+MC-206
+Welding
+Wiktor
+10.30
+12.12
+Kopczynski
+MC-202
+Assembl
+Kaniz
+Gauter
+12.30
+13.43
+Recalinrareo
+MC-201
+Polishing
+Wiktor
+12.30
+13,18
+Kopczyiski
+Pant ID
+Target Qty
+Achieved Qty
+Rejected Qty
+Failure
+Remarks
+XD-T10R
+4386
+Scrap confirmed
+430M
+0.00%
+Scrap confirmed
+133ux
+Pi-515
+scrjp contitieo
+XD-710R
+TL-9OoX
+Scrap contirmed
+Prepared by:
+Jan Kawalski
+Appraved
+Carlos Garcia
+Date:
+Jby:

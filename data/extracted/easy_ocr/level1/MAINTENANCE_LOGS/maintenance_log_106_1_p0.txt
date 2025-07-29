@@ -1,0 +1,105 @@
+Machine
+Equipment
+Service Type
+Tecnnician
+Duration
+Area
+Ccomments
+Mc-213
+Paint Bonth
+Preventive
+Jan Kowalski
+Plant 34
+Changed oil
+and filters
+MC-285
+Laset Culler
+Curreclive
+Jan Kowalski
+Plant 34
+LLlon
+ballery
+senrud
+MC-242
+Lathe
+nspecton
+Laura
+Rossi
+Plant 34
+No issues
+tound
+MC-209
+AssuonbIY
+Preventive
+JamrawaSkI
+Plant 3A
+N Issue5
+Rcuol
+tound:
+MC-294
+Avcramc
+Preventive
+Laura Roasi
+Plant 1C
+Reclaced
+Press
+coniant
+MC-229
+CNC Milling
+Correctiva
+Laur?
+Rossi
+Plant 34
+Sensor
+Maching
+recabraled
+MC-296
+Packaging
+Preventve
+cns
+Nowak
+Plant 1C
+Alignment of
+hinges
+admshed
+MC-246
+Hycraullc
+Preventive
+Jan Kowalskl
+Plant 1C
+Sensor
+Pruss
+recallibraled:
+MC-254
+Plasma Cutter
+Preventive
+Carlos Carcia
+Plant 34
+Warn
+gasket
+replaced
+Confirm tnat
+COIeclive acuons WCiC
+properly closed out:
+All Maintenance
+Iasks nave been completed
+per schedule_
+Archive this summar;
+the CMMS for
+future
+reference
+Ensure that each
+senvice
+entry has the required approvals
+This
+log summary supports [ha asset-managemant Cashboard: Use this closure nole
+updale (he
+mainlenance KPE
+tackar
+Lubricalion Checked
+Calinrarion Vermmed
+Emergency Slop Tested
+Approved by:
+Serviced Dy:
+pick
+Line

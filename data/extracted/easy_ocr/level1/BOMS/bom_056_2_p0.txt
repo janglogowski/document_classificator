@@ -1,0 +1,31 @@
+Customer ID: BRAZIL
+Prepared by: Anna Nowak
+Product ID: KP-320E
+Internal No:: 8021341
+This summary lists every item required
+wiln
+per-unit pricing details.
+Refer to this parts register t0
+plan raw-material purchasing: This document provides
+detailed breakdown of all components
+required for the assembly process: Use this schedule of parts t0 align with sourcing and stock
+levels
+Item Description
+Battery Pack
+Qty
+UOM
+pcS
+pCS
+pCS
+Unit Price
+25.00
+Amount
+225.60
+73.20
+19,150.00
+Remarks
+~verfied
+TOTAL:
+19,448.80
+Fuse
+Fuse

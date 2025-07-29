@@ -1,0 +1,64 @@
+Equipment Record Report #9364907
+Date: 2025-02-24
+Machint
+Maching
+Scrvice Typc
+Opcrato
+Downtime
+Notu
+MC-214
+Paint Booth
+Preventive
+Anna Nowak
+Flant 2E
+Calidration
+check OK
+MC-255
+PbinI Bootn
+Corrective
+Carlos Carcia
+Fant ZE
+Auienment
+aqjuste D
+MC 747
+Paint Bcoth
+Insueclon
+Lala Possi
+Plant IC
+War
+gasket
+replBC BO
+MC-220
+Lathe
+Inspeclioi
+ian Kovaiski
+Plant IC
+Noissues
+omno
+MC245
+79 R embi
+Lorrective
+an Ko aiski
+piant 4
+Changed oll
+Robat
+and FiltenS
+Flakuny rucuttind ISSus lOr root-Cuuscinvustration
+Ensure nuxt prevuntivc sCrvicc
+schcduled uccordinkto plur
+Rctur
+rematks i0r any followv-up actiong
+parts replacements
+Check remalning Ilfe-cycles 0f key components from this repon.
+This
+3unininy
+supports the asset-mana Gernent dashboard
+Conlirr that all corrective actions were properly closed out;
+LubcatioI
+heckem
+Calibratian Verned
+Emerecnc Siop Tcstoo
+Authorizedby: _
+Operalon:
+nnaas
+lor

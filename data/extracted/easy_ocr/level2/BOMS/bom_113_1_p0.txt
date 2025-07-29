@@ -1,0 +1,92 @@
+BILL OF MATERIAL
+Custorer ID; TURKEY
+Coordinator; Peter Schmidt
+Date; 2024-08-05
+Product ID
+MX A50L
+Unternz
+9473639
+Crccr
+Qty: 247
+All entries reflect the latest inventory and supplier rates: The following table summarizes the materials
+quantities needed for the current project:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Hmouni
+Remarks
+Description
+Bearing
+1.73
+1.50
+48.00
+Imported
+6202 ZZ
+Heat
+2.42
+2.70
+37.80
+Resistant
+Sieeve
+Hinge Set
+0.76
+2.50
+52.50
+Umpoited
+Plastic
+3.37
+1.10
+17.60
+Certified
+Cover
+batch
+150x150
+Shaft
+1.53
+8.00
+216.00
+Switch
+suUmm
+tested
+Heat
+1.97
+10%6
+2.70
+5.40
+Switch
+Resistant
+tested
+Sleeve
+Protective
+2.23
+1.80
+36.00
+Sleeve
+export
+50mm
+Shaft
+3.18
+8.00
+24.00
+500mm
+Gasket
+2.08
+1026
+1,25
+35,00
+Sheet A4
+Digital
+2.31
+15,00
+780,00
+Display
+Unit
+Verify that all remark items meet the sourcing department' s standards
+Total
+Kmounc;
+1,252.30
+Approved By:
+Sourcing Departrent;

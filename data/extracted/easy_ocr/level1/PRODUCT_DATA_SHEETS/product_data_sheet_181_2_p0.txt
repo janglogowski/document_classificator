@@ -1,0 +1,69 @@
+Component Overview
+This data sheet provides key specitications and material details. This technical overview supports the
+product-release checklist; Use this spec sheet t0 validate assembly instructions; The following information
+outlines penormance charactenstics and design data_
+Confim that perfomance ranges comply with project
+requirements
+Product ID:
+GH-770J
+Report No :
+958882
+Prepared by: Peter Schmidt | Approved by: Peter Schmidt
+Date: 2023-08-24
+Configuration Type
+Pneumatic Control Unit
+Design Pressure
+300 bar
+Flow Rate
+30 Umin
+Voltage
+400
+S0Hz
+Total Weight
+250 k9 
+Protection Class
+Working Temp
+Range
+5FC
+45'C
+Frame Material
+Stainless Steel Frane
+AlI specifications meet the design requirements and industry standards. Check that all section headers
+the product template. Refer
+parameter table for operating ranges and tolerances
+Ensure glossary
+terms match the engineering nomenclature. Flag any missing parameters for urgent specification updates.
+Archive this summary for future design-change management:
+Material of Construction;
+mem
+Lomnosinon
+Digital Display Unit
+ABS
+astic
+Hinge Set
+Stalnless Steel 304
+Fuse
+Ceramic Oxide
+nneciom
+lled
+Capacitor 450
+Alumum 6061-46
+Light Strip
+Glass-Filled Nylon
+Power Switch
+Polycaronate
+Copper
+herma
+Fuse
+Ceramic Oxide
+Battery Pack
+Lithiun-lon Cell Pack
+Steel Sheet 436
+Carbon Steel 436
+Heat
+ALU
+Aluminum 6061-T6
+Gasket Sheet A4
+Nitrile Rubber (NBRI
+follom
+Sink

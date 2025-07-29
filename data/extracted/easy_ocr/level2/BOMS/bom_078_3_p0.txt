@@ -1,0 +1,76 @@
+BOM Report
+This summary lists every item required, with per-unit pricing details This extract shows the bill of
+components and total projected spend: The component roster below includes unit costs and batch codes:
+Use this schedule of parts t0 align with sourcing and stock levels Below
+the component listing and
+associated costs for the upcoming production batch:
+Utem
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descnption
+Control
+12.00
+432.00
+Urgent
+Panel
+Mount
+Fuse 5A
+030
+14-40
+Cenined
+batch
+Control
+1200
+516.00
+ROHS
+Panel
+compliant
+Mount
+Grease
+1.90
+19.00
+Hinge
+Tube 250ml
+alignment
+aujusted
+Copper
+0.60
+24.60
+ISO-verified
+Wire 3mm
+LED Light
+80.00
+Strip
+Sensor Clip
+0.95
+25.65
+ROHS
+compliant
+Rubber
+pcs
+0.50
+23.00
+For export
+Gasket
+80mm
+Spacer Zmm
+0.15
+3.75
+Sensor Clip
+0.95
+3.80
+For export
+Check that component quantities align with production run requirements_ Please confirm supplier lead
+times t0 ensure timely delivery of all items
+Customer ID: FINLAND
+Coordinator: Jan Kowalski
+Date: 2024-10-31
+Product ID: TY-3506
+ntema
+1740404
+Order Qty: 270
+Total Amount:
+1,142.20

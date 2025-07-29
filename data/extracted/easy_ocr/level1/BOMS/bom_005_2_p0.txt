@@ -1,0 +1,40 @@
+Customer ID: CANADA
+Prepared by: Carlos Garcia
+Product ID: QN-770H
+Internal No.=
+2273859
+This summary lists every item required , with per-unit pricing details. Review the materials tally for
+compliance with budget allowances
+Use this schedule
+parts
+align with sourcing and stock
+levels_
+The following table summarizes the materials and quantities needed for the current project:
+Item
+Clamp Ring
+Ceramic Disc
+Control Panel
+Bearing 6202 _
+Description
+120mm
+B0mm
+Mount
+Qty
+384
+560
+387
+UOM
+pcs
+Unit Price
+12.00
+Amount
+672.00
+1,176.00
+5,988.00
+580.50
+Remarks
+Imported
+Hinge alignment
+For export
+adjusted
+TOTAL: 8,416.50

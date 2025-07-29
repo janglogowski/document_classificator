@@ -1,0 +1,106 @@
+Shift Summary
+Report No :
+Customer;
+PR-BT0
+Supervisor;
+BELCIUM
+Lalre
+Rossi
+Doparlmont;
+Dale
+Quallly Control
+Shill;
+15-04-2024
+(Night)
+Machine ID
+Task
+Operator
+MC-202
+Culling
+Begln
+End Tlme
+Spent
+12.00
+13,05
+Nowak
+MC-206
+Culling
+Magdalena
+09,00
+Wilkowska
+10.53
+113
+Recallbratad
+MC-206
+Culting
+Agnieszka
+09.30
+Ziolinska
+Delay
+MC-201
+Wolding
+Agnieszka
+11 00
+12.24
+MC-209
+Walding
+Zielinska
+Przemyslaw
+13*15
+15.04
+109
+Wasik
+Ok
+MC-206
+Przemysiaw
+12,30
+14.21
+111
+Waskk
+MC-207
+Agnieszka
+12.15
+13.29
+Ziollnska
+OK
+MC-207
+Walding
+Jan
+09,30
+11,01
+Kawalski
+Delay
+Part ID
+Planned
+Output
+Achloved Qty
+Scrap Qty
+Rejectlon %
+Notos
+TY-350G
+119
+6.7206
+TR-ZOOB
+243
+naeded
+JOOT
+279
+246
+0.8290
+11,83%6
+Rework
+necded
+Preparodby:
+Approved by:
+Luum
+Rossl
+Poter Schmidt
+Tlmo
+Uwjgu
+Annd
+10.56
+Delay
+Welding
+Delay
+Welding
+Rowork

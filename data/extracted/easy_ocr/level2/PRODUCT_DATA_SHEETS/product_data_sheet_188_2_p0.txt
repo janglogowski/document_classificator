@@ -1,0 +1,73 @@
+Unit Data Specification
+Below are the technical parameters and construction _
+outlines
+matenals for the unit
+The following information
+performance charactenstics and design data. The parameter
+and ratings Ensure
+referenced standards are
+register below includes operating limits
+up t0 date: Refer to this configuration
+designation mapping:
+summary for unit-
+ProducID:
+IntemalNo
+ONI7OH
+Prepared by: Laura Rossi
+Approved by: Carios Garc d Roas
+2023-11-28
+Model Lype
+Hydrulic Power Unit
+Rated Pressure
+Fluid Flow
+30 Umin
+300 par
+Pump Lype 
+Piston Pump
+Operating Voltage
+JOVLOG
+Noise Level
+172
+Working Tcmp Range_
+5 C to45*C
+Control Valve
+@B(A)
+Frame Matena
+Aluminum Frame
+Manual Ovemde 312
+Filtration
+10 pm retumn, 25 VM
+suction
+Data sheel has been peer-reviewed by the engineering team; Ensure that
+for the application Archive this
+the listed materials are approved
+the data sheet is
+50nUsar{hfor future design-change management This closure nate indicates
+ready for release Use this summary
+coss-check with BOM and
+summary reflects the latest revision of the produd
+inspection reports_ This
+data
+Material of Construction:
+Label
+Base
+Power Swtch
+Battery Pack
+Polycarbonate 
+Copper
+Digital Display Untt
+Lithrum-lon Cell Pack
+ABS Plastic
+0-Ring NBR GOmin
+Fuse 5A
+Nitrile Rubber (NBR)
+Ceramic Oxide
+Suppom Foot Sleel
+Stainless Steel 304
+Wooden Pallet
+Stainless Steel 304
+Rubber Gasket 8Omm
+Ueated
+Pine Wood
+Nitnle Rubber (NBR
+Hnga

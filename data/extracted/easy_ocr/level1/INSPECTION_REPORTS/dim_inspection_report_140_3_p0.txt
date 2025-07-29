@@ -1,0 +1,109 @@
+Measurement Summary Sheet
+Inspection performed by Laura Rossi on 2025-04-25.
+This section details tne measured values, tolerances
+and status
+flags_
+This data extract
+prepared for
+quality-control sign-off; The inspection register below highlights any out-of-tolerance parts; Belov are the
+recorded measurements compared against nominal tolerances
+Entries include both pass"fail markers and
+deviation magnitudes
+Environmental Conditions: Temperature-
+24.5 *C, Humidity: 57 %
+Product
+Component
+Measurement
+Nominal
+Observed
+Diff
+Status (VIX)
+Ref
+DX-777T
+0-Ring NBR
+Hole
+52.38
+52.53
++0.15
+OK
+60mm
+CE-905L
+Rubber
+Hole
+45.60
+45.47
+~0.13
+Ok
+Gasket
+BOmm
+FT-730X
+Graphite
+Hole
+35.19
+35.10
+0.09
+Pad
+VR-940T
+Graphite
+Innei
+99.40
+99.56
++0.16
+OK
+Pad
+Diameler
+TR-2OOB
+Graphite
+Thickness
+62.47
+62.65
++0.18
+OK
+Pad
+FT-730X
+Graphite
+Thickness
+95.32
+95.48
++0.16
+OK
+Pad
+NU-4402
+0-Ring NBR
+Height
+25,08
+25,08
++0,00
+OK
+60mm
+TR-ZOOB
+Hex Bolts
+Length
+38.60
+38.60
++0.00
+Ok
+M12
+NE-2454
+Bearing
+Depth
+39,99
+39,80
+-0,19
+OK
+6202
+IL-90OX
+Hinge Set
+Hole
+96.43
+96.31
+-0.12
+Ok
+MR-160H
+Bearing
+Inner
+37.26
+37.27
++0.01
+6202
+Diameter

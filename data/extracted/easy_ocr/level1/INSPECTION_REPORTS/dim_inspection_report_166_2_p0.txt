@@ -1,0 +1,62 @@
+Component Dimensional Check
+Inspector
+WankoAiak
+Inspection Date
+2024-02-13
+Article No
+TR-ZUCE
+AF4Y0A
+FL-Z30X
+CE-SOSL
+RM-8SON
+Part Name
+Jex Bolts
+Graphite
+Balen
+Shatt
+50Omm
+Batten Pjck
+Dim.
+Wiath
+Inner Diamel
+Unrier Dumeter
+Height
+Nomina
+B0.30
+88.18
+S002
+Actua
+80.28
+6/ 76
+88.14
+Delta
+-0.4
+Pass/Fail
+PAss
+PASS
+PASS
+PASS
+Ensure
+statig
+flags are updated in the quality management system: Flag any components requiring
+-machining
+aujustient Companents
+failing 
+nspection Fenuire Mnmcdiato
+rcuicwand corrective
+Instrument Calibration Log:
+Instrument
+Serial No.
+Last Calibration Date
+Micrometer
+62735
+2024-11-05
+Laser Scanner
+83583
+2025 01-15
+CMM
+53032
+2024-0S-10
+Rack
+Depth
+acion

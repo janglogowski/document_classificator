@@ -1,0 +1,72 @@
+Product Overview
+Prgject
+XD-ZOR
+Document No;
+9420132
+Prepared Bya
+Carlos Garcia
+Approved By;
+Jan Kowalski
+Location: Plant 3A
+Date: 2024-09-08
+Confirm that performance ranges comply with project requirements. This technical overview supports the
+product-release checklist  This report extract
+prepared for design-verification audits:
+Enlries include bolh
+mechanical and elecirical specifications
+Below are the technical paramelers and construction materials for
+Ine unil
+Modeb
+Pneumatic Control Unit
+Rated Pressure
+250 bar
+Fluid Flow
+48 Umin
+Operating Voltage
+400
+50 Hz
+Service Interval_
+months
+Working Temp. Range
+10'C
+552C
+Protection Class
+IP67
+Cooling
+Water-cooled
+exchanger
+Naise Level
+68 aB(A)
+Oil Type
+HLP 46
+Pump Type
+Vane Pump
+Filtration
+10 pm return; 25 pm
+suction
+Dimensions (LxWxH)
+1200
+700X1100 Mm
+Total Weight
+230 kg_
+Mounting_
+Rack (rame
+Reservoir Capacity
+Charging Time
+Frame Materia
+Powder-coated Stee
+Material of Construction:
+Part
+Raw Malerial
+Inemmal Fuse
+Ceramic Oxide
+Battery Pack
+Lithium-Ion Cell Pack
+Insulaled Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Graphite Pad
+Graphile Pad
+Support
+Foot Steel
+Stainless Steel 304
+Type

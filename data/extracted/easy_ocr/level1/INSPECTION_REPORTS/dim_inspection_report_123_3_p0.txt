@@ -1,0 +1,122 @@
+Inspection Results Summary
+Inspection performed by Jan Kowalski on 2025-05-18.
+Fntries include both pass/fail markers and deviation magnitudes
+Ensure
+easm
+rrement methods align wlth calibration
+sandards
+Use this exarination summary
+conflim component
+confarmity:
+This repont
+presents the dimensional
+measurements
+and inedecion
+rESuits
+Environmenta
+conditions
+Temperature: 20.5
+Humidity: 35 %
+Product Ref
+Component
+Mleasuremcnt
+MC-SAOX
+Varget
+Observed
+Diff
+(vix)
+12.70
+12.58
+CN-I50C
+Graphite Pad
+Length
+61.13
+61.22
+NE 2454
+Graphite Pad
+Depth
+52.82
+52.69
+0.13
+MX-450L
+0-Ring NBR
+inner
+83.07
+83.12
+60mm
+Diareter
++0.05
+PL 6012
+Bearing 6202
+Thickness
+14.67
+14.63
+0.04
+LK-8901
+Plastic Rivets
+Length
+16.67
+16.51
+AZ-3001
+Plastic Rivets
+width
+38.58
+38,39
+CN-150C
+Rubber
+Wiath
+45.84
+45.88
+40.04
+Gasket 8mm
+Kv-390k
+Rubber
+Length
+85-50
+83,42
+0,08
+Gasket SOmm
+MS- 6OOP
+Steel Sheet
+Thickness
+29.53
+29.35
+018
+A36
+Ty-350g
+Hex Bolts
+Depth
+72.47
+72.3}
+-0.14
+M1Z
+CF-Yosi
+Rubber
+Length
+79.35
+79.16
+0.19
+Gasket B0mm
+LP-SSSV
+Shaft S0Jmm
+Length
+47.85
+47.94
+tU 0S
+QN-770H
+NBR
+Width
+14.54
+somo
+14.61
++0.07
+LP-SSSV
+Bearing 6202
+Tnickress
+39.75
+39.69
+-0,06
+Status
+Hinge
+Thickness
+0-Ring

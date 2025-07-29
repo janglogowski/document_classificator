@@ -1,0 +1,57 @@
+Customer ID: NORWAY
+Prepared by: Carlos Garcia
+Product ID: SL-430M
+Internal No:: 1433016
+Review the materials tally for compliance with budget allowances_
+This document provides
+detailed breakdown of all components required for the assembly process.
+Use this schedule of
+parts t0 align wilh sourcing and stock levels: Ensure each component meets the specified quality
+standards
+Refer t0 this
+register t0 plan raw-material purchasing
+This summary lists every
+item required, with per-unit pricing details
+No
+Item
+Spacer
+Spring
+Power
+Rubber
+Ceramic
+Shaft
+Description
+2mm
+Washer
+Switch
+Stopper
+Disc 8Omm
+50Omm
+M1o
+Qty
+518
+906
+694
+665
+538
+365
+UOM
+PCs
+Unit Price
+Amount
+77,70
+45.30
+832.80
+365.75
+1,129,.80
+2.920.00
+Remarks
+ISO-
+High grade
+SKF brand
+ISO-
+Urgent
+verified
+verified
+TOTAL: 5,371.35
+pans

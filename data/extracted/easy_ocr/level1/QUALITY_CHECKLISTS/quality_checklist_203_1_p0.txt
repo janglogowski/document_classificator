@@ -1,0 +1,56 @@
+Inspection Record
+#4694236
+Date: 17.07.2025
+Product ID
+VR-9401
+Customer
+UPKET
+Item Description
+Plastic Rivets
+This checklist captures qualily Inspection points and sampling levels_
+Ensurg ullmOn
+~conlorming marks are
+clearly documented; Use this list to confirm adherence
+AQL and safety standards. Refer to the quality register
+for sampling-plan references- All checklist entries are timestamped for traceability. The following table outlinos
+inspection criteriaandclassificatian lavels.
+Audit Criteria
+pection
+Defect
+Remarks
+Depth
+Item
+Dust{debris inside
+packaging
+Level II
+Needs review
+Missing safety labels
+LGvCl
+Missing distributo
+Hntormation
+LcvcI
+MincrssuC ODSCNcd
+Screws
+0OS8
+missine
+Hinges
+I0ose
+Minorissue obsened
+Product doesn'
+power Cn
+Level
+ISSUB odsehved
+Wood splinter
+sharp point on
+Level III
+product
+AQL Level
+Critical
+Ninor
+Default
+Customer
+specitic
+Clas?
+SpeCy
+Hinor
+Malon

@@ -1,0 +1,74 @@
+Quality Inspection List
+Review Points
+Inspection
+Defect Class
+Comments
+Depth
+Product
+Requirements
+Critical
+Major
+Minor
+OnHold
+Lcose
+parts inside
+Minor IssuE
+Level
+packaging
+obsened
+Minor issue
+Hinges loose
+Level *
+observed
+Packaging does not
+Critical impact
+match signed sample
+Screws
+oose or missing
+Level
+Critical impact
+Wood splinter
+sharp
+Level
+point on proquct
+Incorrect barcode Or
+Critical impact
+label
+Missing distributor
+Level Il
+infomation
+Missing safety labels
+Level
+Critical impact
+Exposed nail with sharp
+Critical impact
+point
+Connector not working
+Level
+Rubber texture
+Needs reviev'
+glossiness mismatch
+Package
+not sealed
+Level
+completel
+Mcua
+dofe
+housing
+Needs reviev'
+Nol assembled as per
+Needs reviev'
+drawing
+Sharp edges on plastic
+Level IlI
+componenis
+Product doesntt power
+Level II
+Needs review'
+Reference Standards:
+Slandard
+Edition
+ISO 90_
+2015
+UL 61010
+3rd Ed,

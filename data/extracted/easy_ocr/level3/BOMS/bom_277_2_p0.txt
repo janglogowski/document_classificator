@@ -1,0 +1,41 @@
+Customer ID: BRAZIL
+Prepared by: Anna Nowak
+Product ID: HF-390A
+Internal No:: 4859873
+The
+manifest here
+designed to support procurement workflows: The component roster below
+includes unit costs and batch codes. This summary lists every item required, with per-unit pricing details:
+Use this schedule of parts to align with sourcing and stock levels:
+Item Description
+Ceramic Disc
+LED Light Strip
+Steel Sheet A36
+Terminal Block 4P
+80mm
+Qty
+290
+481
+931
+250
+UOM
+pcs
+pCS
+Unit Price
+2.10
+2.50
+5.00
+3.40
+Amount
+609.00
+1,202.50
+4,655.00
+850.00
+Remarks
+Hinge alignment
+High grade
+Certified batch
+Switch tested OK
+adjusted
+TOTAL: 7,316.50
+parts

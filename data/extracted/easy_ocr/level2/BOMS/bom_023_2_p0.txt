@@ -1,0 +1,29 @@
+Customer ID: SWEDEN
+Prepared by: Anna Nowak
+Product ID: HF-390A
+Internal No : 9039407
+Item Descriptlon
+Shaft s00mm
+Terminal
+Block 4P
+Heat Resistant
+Sleeve
+aty
+481
+191
+384
+UOM
+pCs
+pcs
+Unit Price
+2.70
+Amount
+848.00
+649.40
+036.80
+Remarks
+Hinge alignment
+For export
+For export
+adjusted
+TOTAL: 5,534.20

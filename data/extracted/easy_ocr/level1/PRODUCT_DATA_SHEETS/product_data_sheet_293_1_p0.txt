@@ -1,0 +1,82 @@
+Component Overview
+Project:
+XK-61OU
+Report No:
+9530959
+Prepared By:
+Lanos
+Gancia
+Approved By:
+Laura Rossi
+Location: Plant 34
+Date; 2024-10-07
+Use this sheet to confimm engineering requirements and tolerances: Please review the specifications and
+material composition listed below: The following information outlines performance characteristics ad design
+data_
+This repont extract
+prepared for design-verification audits _
+This dala sheet provides key
+specifications and material details.
+Configuration Type
+Pneumatic Control Unit
+Rated Pressure
+250 ba
+Fluid Flow
+30 Lmin
+Voltage
+400
+S0Hz
+Charging Time
+Mounting
+Wall-mounted
+Battery Capacity
+Pump Type
+Piston
+Cooling
+Water-cooled
+Working Temp
+Range
+5*C t0 45'C
+exchanger
+Qil Type
+HLP 32
+Service Interval
+500 h
+Protection Class
+Dimensions
+(LWxH)
+4200
+700 x 1100
+Control Valve
+Manual Ovejde 3/2
+Total Weight
+180 [
+Frame Materal
+Aiuminum
+Frame
+Motor Power
+SkWv
+Material
+Construction:
+Subcomponent
+Base
+Insulated Tube 25mm
+Jermoplastic Polyurethane (TPU)
+Capacitor 450V
+Aluminum 6061-
+Battery Pack
+Lithium-Ion Cell Pack
+Ceramic Oxide
+Bearing 6202
+Stainless Steel 304
+Cooling GelPack
+Silicone Rubber
+Pressure Valve
+Brass CZ121
+NBR 6Omm
+Nitle Rubber (NBR
+Hex Bolts M12
+Zinc
+lated Steel
+Punp
+Ring

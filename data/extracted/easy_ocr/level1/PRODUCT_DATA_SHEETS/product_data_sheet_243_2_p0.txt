@@ -1,0 +1,43 @@
+Unit Configuration
+Below are the technica
+purameten
+and construction materials for the unit This report extractE
+prepared for design-
+verification audits. Use this spec sheet to validate assembly instructions_ The parameter register below includes
+operating limits and ratings Use this sheet to confirm engineering requirements and tolerances Please review the
+specifications and material composition listed below: Check that
+matenal specs align with
+supplier certifications:
+Product ID:
+TX-820v
+Interna
+No;:
+7616721
+Prepared DV: Anna Nowrak
+Approved DV: Peter Schmiat
+Date: 2024-04-01
+Unit Type
+Hdraulic Power Unit
+Design Pressure
+o0dar
+Throughput
+Supply Voltage
+230V
+S0HZ
+Cooling
+Aur-cooled Oll radlator
+Working Temp Range
+10 C to S5c
+Reservoir Capacity
+120 L
+Dimensions (LWxH)
+1000
+650* 1000
+Ensure glossary terms match the engineering nomenclature
+Ensure that the listed materials are approved for the
+application Archive this summary for future design-change management This summary reflects the latest revision of
+the product data. All specifications meet the design requirements and industry standards_
+any Missing
+parameters for urgent specification updates Overall configuration
+within defined design ad safety margins
+Flag =

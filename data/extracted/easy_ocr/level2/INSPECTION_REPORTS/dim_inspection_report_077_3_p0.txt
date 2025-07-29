@@ -1,0 +1,89 @@
+Inspection performed by Laura Rossi on 2023-10-29.
+This section detalls the measured values; tolerances, and status flags: This report presents the dlmensional
+medsurements and Inspectlon results Thls data extract
+prepared for quallty-control slen-off, Use thls examination
+Kumman
+confrmi component conformity: The
+following data captures key dlmensions and any deviations
+Identlfled;
+Envlronmental Conditions: Temperature: 23,7
+Humldty; 45 %
+tem
+Code
+Part
+Dim .
+Nominal
+Observed
+Delta
+(vixi
+ON-/70H
+Hinre Set
+Thlckness
+63.69
+63,73
+40,04
+GH-7701
+Graphite Pad
+26,03
+25,93
+6012
+Power Swltch
+Hole
+83.68
+83,69
+#0,01
+TR-200B
+Bearing 6202
+Helght
+71.0
+71,01
+20,09
+TL-gouX
+Steel Sheet
+Hole
+61.47
+61,55
+Tuiue
+436
+KV-390k
+Hinge Set
+Width
+d
+31,26
+0,08
+MX-4S0L
+Hex Bolts
+Width
+8.,21
+8.34
++0.13
+MIz
+PL G01Z
+Graphite Pnd
+Width
+3u
+Ho65
+SB-I40D
+Hlnge Set
+Thlckness
+NE 2454
+Shall SQQmum
+Thickness
+Fy 4
+40 0i
+SB-I40D
+Bearing 6202
+Innci
+23,54
+23,60
+40,06
+plameter
+AL-445Q
+Graphte Pad
+width
+9194
+48
+0.12
+Name
+Status
+47450

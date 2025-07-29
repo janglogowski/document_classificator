@@ -1,0 +1,81 @@
+BOM Report
+standards _
+This document provides=
+detailed
+Ensure each corponent meets the
+quality
+Refer to this parts register to plan
+of all components required for the assembly process
+procurement workilows.
+breakdown
+manifest here is designed to support ,
+raw-material purchasing: The parts
+align with sourcing and stock levels.
+Use this schedule of parts
+Amount
+Remarks
+UOM
+Rate
+Item
+Qty
+Description
+0.15
+3.00
+ROHS
+compliant
+Spacer
+Zmm
+2.50
+75.00
+Hinge Set
+45.00
+Aluminum
+pCS
+Bracket
+176.00
+Eco
+compliant
+Shatt
+500mm
+201.60
+Imported
+Ventilation
+pcs
+Grid
+44.80
+Ventilation
+Grid
+0.60
+17.40
+Urgent
+Copper
+Wire 3mm
+10.80
+Imported
+pcs
+Powet
+Switch
+25.00
+350.00
+pcs
+Battery
+Pack
+1.90
+91.20
+Urgent
+Grease
+Tube 250m)l
+Date:
+02-25
+Coordinator: Jan Kowalski
+Customer ID: POLAND
+5843518
+Order
+Qty: 310
+Unternz
+Product ID: DX-717T
+1,014.80
+Total Amount;
+speciflod
+pcs
+2025-(

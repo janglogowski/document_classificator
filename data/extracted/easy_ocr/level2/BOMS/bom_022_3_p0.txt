@@ -1,0 +1,87 @@
+COMPONENT BREAKDOWN
+Please reviewthe itemized list of patts and material specifications befare procurement; The
+following tabla summarizes tha materials and quantities needed for the current project. This
+docurnerit
+provides
+detailed breakdown of all components requlred for the assembly process. This
+summary lists every itern required, with per-unit pricing details. This section outlines the parts, unit
+prices and totalamounts for
+assembly- Below
+the component listing and associated costs forthe
+upcoming production batch:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Grease
+pcs
+13.30
+Imported
+Tube 250ml
+Hex Bolts
+10.75
+Urgent
+M1z
+Hex Bolts
+pcs
+0,25
+0.75
+Urgent
+N12
+Plastic
+pCS
+1.10
+57.20
+Eco
+Cover
+compliant
+150x150
+Bearing
+450
+76.50
+SKF brand
+6202 -
+Shaft
+pCS
+32,00
+Certified
+500mm
+batch
+Ceramic
+pCS
+2.10
+100.80
+Imported
+Disc 8Omm
+Spring
+pC?
+0.05
+0.35
+ISO-verified
+Washer
+M1O
+Terminal
+pcs
+3.40
+187.00
+Eco
+Block 4P
+compliant
+Battery
+pcs
+25.00
+825.00
+Pack
+Customer ID; SWEDEN
+Coordinator: Laura Rossi
+Date: 2023-06-
+Product ID: AL-115Q
+nterna
+No.
+4522061
+Order Qty: 491
+Total Amount:
+1,303.65

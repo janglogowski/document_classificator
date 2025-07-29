@@ -1,0 +1,66 @@
+Audit Trail
+This closure
+qumman
+irdicates comnliance with inspecticn criteria,
+Pllease reviel
+each checklist
+mark the
+samplinig results. This section Getalls quality requirements and test paints for the batch. The fallowlng table oulliries
+inspection criteria and classification level5
+This summary supports the production-release quality gate; Ensure all
+nm-
+~conforming marks &re dlearly dacurented
+Use this extract
+codrdinal
+sign-off with the QA marager-
+Product ID
+ZR-2O5R
+Customer ID
+FINLAND
+Uem
+Description
+Copper Wirc
+Bmnm
+Audll Criteria
+Check
+Defect Class
+Obsenvations
+Intensity
+Prodluct Requirements
+Rubbertexture
+Blossiness
+mismatch
+LOoSe parts inside packaging
+LCVC
+VsalacecOr
+housing
+Levc
+Lonnecoi nOl
+WOrKIng
+LCYC
+Crilicalimpact
+MissIng loge
+warning labjel
+Crilca
+unddct
+Paint smeannk
+Ol scralges
+LeveI
+Needs (evielv
+Rubber
+Sitcr
+Womine
+Kepds
+TEe
+coriell onentaliai
+Neeus (eview
+Scne
+Tnist
+LeUE
+Crilical Impact
+Miss Ingealety labe $
+Miror issue onserved
+Supervised by:
+Date:
+poini
+and

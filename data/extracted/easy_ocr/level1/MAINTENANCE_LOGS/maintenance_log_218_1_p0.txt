@@ -1,0 +1,71 @@
+Equipment Record Report #8437696
+Date: 2024-10-13
+Machine
+Equipment
+Service Type
+Operator
+Downtime
+Area
+Notes
+MC-234
+CNC Miling
+Eccct
+Jan Kowalski
+pan44
+Changed oil
+Machine
+anomers
+MC-291
+Conveyor Belit
+Ccrrective
+Kowalski
+Plant 28
+Refilled 
+(HLP 461.
+MC-275
+Hvdraulic
+Inspeclicm
+Anna Nowak
+Piant
+No ISSUOS
+Pre3s
+Jouno
+MC-214
+Lathe
+Preventive
+Jan Kowalski
+Plant IC
+Changed oil
+and mulers
+MC- 293
+Lasei Cter
+Lcrective
+Peter Schmidt
+Plant IC
+Calibration
+check OK
+MC-283
+Plasma Culter
+Cotrective
+Jan Kowalski
+Plant 2B
+Changed oil
+and Mers-
+Flag any rucurring issues lor rool-cause irvesligalion
+Confirm lhal =
+correclive aclions were propurly closed Bul_ Record
+any spare parls Usage lor Irventory adjustrunt Use lhs closure nole
+updale lhe mainlenarce KPI tracker. All
+Maintenanc
+task5 have
+completed as per schedule Ensure that
+each service entry has the required approvals,
+Lunncanon
+Cneckec
+Calibralion Vuriled
+Emergency
+Tested
+Signed olt: .
+Performed
+becn
+Sicp

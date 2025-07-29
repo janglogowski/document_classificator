@@ -1,0 +1,50 @@
+Unit Data Specification
+Document No: PR-683
+Product ID: VF-ZZOD
+Date: 2024-12-18
+Model Type
+Peuniatic Conkrol Unit
+Design Pressura
+180 bar
+Fluid Flow
+mn
+@peraling Voltane
+480
+G0Hz
+Motor Power
+7.5kW
+Noise Level
+B8 dBLA)
+Battery Capacity
+Frame Materia
+Aluminum Frame
+Protection Class
+IPos
+Dimensions (LXWxH)
+1200 _
+700 * 11005
+Filtration
+Kni iniine
+10 pmi
+Charging Time
+rolurn
+Component Materialg Overview:
+Raw Material
+Specification
+Connector 2P
+Glass-Filled Nylon
+UL-listed
+NBR eDmm
+Nitrla Rubbor (NBR)
+Electicalgrade
+Graphite Pad
+Graphite Pad
+Class
+tolefance
+Ceramic Oxide
+DIN EN 10025
+Prepared by: Jan Kowalski
+Approved by: Laura Rossi
+Labe
+0-Ring [
+Fuge

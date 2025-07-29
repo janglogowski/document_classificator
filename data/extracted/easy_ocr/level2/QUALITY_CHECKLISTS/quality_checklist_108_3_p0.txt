@@ -1,0 +1,48 @@
+Inspection Record
+Quality Check Items
+Sample
+Defect Class
+Remarks
+Tier
+Product Requirements
+Critical
+Major
+OnHold
+Incorac
+barcade Dr Iabel
+Lavel
+Critical Impact
+Battery not Included
+Lovei
+Needs reucu
+Incongc
+pricntation
+LCvCI
+Critical impact
+Connectornot
+working
+Level IIl
+Neede
+ueu
+Carton
+damaged
+Minor
+Issue
+Level /
+maikings incorect
+Obseived
+Screw oose
+missing
+Level
+Needs remey
+ncorrect
+quantity =
+Level IIl
+assortment
+Reference Standards:
+Standard
+Edition
+RoHs
+2015
+UL 61010
+Ainot

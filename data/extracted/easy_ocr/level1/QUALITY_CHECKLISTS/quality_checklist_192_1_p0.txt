@@ -1,0 +1,63 @@
+Inspection Checklist
+#1175880
+Date: 17.07.2025
+Product ID
+MC-540X
+Customer ID
+GREECE
+Item Description
+Insulation Foain Pad
+Use this extract
+coordinate sign-ofl wlth the QA mnanager. Below are the Items
+be verified during tre tinal
+product review. This summary supports the production-release quality gate, This checklist captures quality
+inspection points and sampling levels. Use this list -
+confirm adherence to AQL and safety standards- This
+section details qualily requirernents and test points for tne batch:
+Audit Criteria
+Sample Tier
+Defect Class
+Notes
+Specs
+Hold
+Exposed nail with
+Levul
+Sharp adges on plastic
+Criticalimpact
+camipanemts
+Wrong product sizc
+LcvcI
+Mnoi
+SSlC DOSCEm
+Screws
+OOSC
+Missing
+Critical impact
+Missing distributor infomation
+Levei
+Package
+not seaiec
+Level!
+Critical impact
+completely
+AQL Level
+Critica
+Maic
+Minc
+Default
+Customer specific
+Checklist results have been reparted
+the qualt
+manager
+All summary comments have been validatedby
+the QA team. Flag any open
+ssues in the CAPA tracking system
+Please Gnsune
+cucensed
+sign-off on any non
+conforming points. Archive this summary in the audit-readincss folder: Overall quality status indicates
+compliance with defined AQL levels. Refer to notes for any observed defects
+deviations
+Desipn
+ahaip
+point

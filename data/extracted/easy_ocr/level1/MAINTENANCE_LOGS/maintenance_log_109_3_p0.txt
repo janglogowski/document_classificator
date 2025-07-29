@@ -1,0 +1,131 @@
+Maintenance Checklist Report
+Perforied On: 2024-02-27
+Signed olt
+Anna Nawnk
+purocmdd"
+Anna Nowak
+This ma nlonancu extract
+prupured
+compllancu audit tralls. This sucilon cupluros equipmont slatus
+und ny
+malntcnance Gosorvallons
+Emuius Includu Wol
+Orduns
+(cchin cian uS sicmicnis
+and parl changos Roler I0 Ine
+malntenance reqlster for delalled service
+histories
+followlng ontries dotail preventive and correciive maintenance
+(ses
+Helau
+the summary
+senvice Aclione
+and dowvntimes lar each machine
+This survicu
+qumman
+supports the
+rollabllily unginccring
+Tovicur
+Sectlon A:
+Machina
+MC-246
+MC-220
+MC-272
+MC-286
+MC-232
+MC-226
+Equipmont
+Lalho
+CNC Mng
+Lasur Cullur
+Plasma Culler
+Lalho
+Lalho
+Machint
+Service Typo
+Inapection
+Corrective
+Correclive
+Correclive
+Inapeclion
+Praventive
+Opurutor
+Anna
+Nowak
+Laumu Roei
+Jan Kowalski
+Schmidl
+Anna
+Nowak
+Carlos Garcia
+Duration
+Notos
+Changed oll
+No IssuuS
+WNooden
+Charged 0ll
+Callbrallon
+Tightened
+and (ilters
+Iound
+and Illtors ,
+chock Ok
+Kaose bolls,
+cnecken
+Soction B:
+Machino ID
+MC-220
+MC-214
+MC-272
+MC-204
+MC-226
+MC-286
+Equlpment
+CNC Milling
+Convoyor Bolt
+Losor Cultor
+Plasma Culler
+Plasma Cullor
+Machine
+Sarvice Typo
+ptuvunive
+Lotrective
+Pruveniu
+Lamuciive
+Lorruciu
+Pruvantive
+Oderatai
+Lalm
+R0ssi
+Polet Schmiat
+Anna Nawnk
+Pclar Scnmidi
+Lalm Korri
+Han Koaiski
+Durntion
+Notos
+Acplucud
+Wocxlon
+Svalch
+Rolillad oll
+NignmCn
+RuOldcyo
+ccoian
+pallet
+conincia
+(HLP 461
+hinges
+cooiani
+chcckou
+cloaned
+nojusted;
+Uptime (%)
+Frror
+Nolns
+91.47%6
+Ruplaccu lci
+Tno
+Pule
+pniat
+Halnu
+Couni

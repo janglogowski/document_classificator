@@ -1,0 +1,116 @@
+Production
+Report No;: PR-419
+Customer; TURKEY
+shilt:
+anisht)
+Dnte; 11-02-2025
+eqptent
+Task
+Technielan
+From
+Finlsh
+Tatal
+Uwnri
+Stoge
+duratlon
+MC 204
+Assembly
+MaRdalena
+09J,15
+10,49
+Recolbcaced
+Delayed
+Witkowsko
+MC 206
+Cuttune
+Plotr
+13,30
+J4e
+Recallbrated
+pDelayed
+Lewandowski
+MC 202
+Pallshur
+Ploti
+12,00
+12,52
+Delayed
+Lewandowskl
+MC 206
+Owhln
+Przems(aw
+09;30
+10.21
+prorres
+Wasuk
+MC-202
+Asserbly
+Mateusz
+06;30
+07,11
+Reealbrated
+Delayed
+JatYuJ
+MC 204
+weldung
+Davalu
+11.00
+Vat
+Completed
+Oszrnluncauk
+Mc 205
+Welellogs
+13.15
+15,06
+NaA
+Delayed
+Kopczynski
+MC-?0A
+Asscmbly
+Plotr
+06  15
+06;36
+Hecambrated
+Delayed
+"wanclawski
+Mc ?01
+Cugcung
+Arnieszka
+07.15
+08,00
+Completed
+Z8eska
+MC20G
+Welcne
+Mateus[
+06,15
+0715
+ploeney
+Ianvna
+Purt
+Tarket Qty
+Achleved Qly
+Rejected Qly
+JCaD
+Rewvork Quy
+Comiments
+WD1805
+129
+149
+7.757
+~cd
+conrned
+XK-G1OU
+220
+207
+9198
+7J0*
+199
+170
+14.57*
+Reevork
+needud
+Apprower Dya
+Pcepared Dy;
+Log
+Witoi

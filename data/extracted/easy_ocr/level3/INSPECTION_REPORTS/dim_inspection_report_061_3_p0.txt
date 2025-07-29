@@ -1,0 +1,111 @@
+This data extract (
+Inspection performed by Peter Schmidt =
+following
+prepared for ,
+'quality-control _
+on 2024-07-06.
+data captures key =
+Sign-off. Use this results
+tolerances;
+status flags;
+and any devations identified.
+trigger any corrective actians;
+Environmental Conditions:
+This section details the measured
+Temperature: 24.1
+values;
+Item Code
+58 %
+GL-9805
+Component
+Rubber
+Nominal
+Gasket 80mn
+Thickness
+11.06
+Observed
+IY-3506
+10,93
+Status (VIX)
+Hinge
+0.13
+MX-4S0L
+Hole
+Rubber
+40.77
+Qdsker
+Height
+40.96
++0.19
+Ms-G0Op
+BOmm
+71.03
+Hinge
++0.04
+LP-5SSV
+Depth
+83,97
+Width
+83,97
+Palle
+88,21
++0,00
+WD-1BOS
+88.02
+Hex Bolts
+0.19
+Heighc
+M12
+89.9]
+SL-430M
+89.96
+CE-9OSL
+Plastic Rivets
+Length
++0.05
+56.12
+F1-730x
+Keight
+56.14
++0.02
+6202
+12.09
+87.23
+0.16
+ID-Z0ow
+87,.39
+Rubber
+70.16
+Inner
+80mm
+95.99
+KV-390k
+Diameter
+95.90
+RX-3102
+Plastic Rivets
+Depth
+0,09
+Power Switch
+Width
+10,73
+10,35
++0.12
+0.07
+dlniensiont -
+summany
+Humidily:
+Measu
+ement
+Deltz
+Set
+70,99
+Sel
+Woaden
+Hinge
+17.25
+Beaning
+Depth
+Gasket s
+4J07
+400

@@ -1,0 +1,81 @@
+Quality Verification
+#4068015
+Date: 17.07.2025
+Product
+VF-2200
+Customer
+TURKEY
+Item
+description
+Digital Display Unit
+Use this list
+contirm adnerence
+AQL and satety standaros
+Use this extract
+coomdinate
+sign-off with the QA
+manager. Tnis summary supports the production- release
+uamty
+gate: Delow are the Items
+be verified during the
+final product review
+please
+reviev
+each checklist noint and mark the sampling results
+Fnsure
+non-
+-ronforming
+marks
+clearly documented;
+Review Points
+Sampling
+Severity
+Remanks
+Level
+Utam
+Specs
+Critical
+Major
+Minor
+OnHold
+Inscruction manuj
+missing
+Level |
+Needs reviev'
+damiapec
+Functionality test failed
+Leve
+Shipping
+illegible or
+Level
+Needs reviev'
+Missing
+Wrong product size
+Minor issue observed
+Sharp edges on plastic
+Leve
+components
+Hinges
+40SP
+Leve
+Incorrect barcode
+Leve
+Neeos reveu
+Dustldebris inside Packaging
+Leve
+Connector not working
+Needsrevev
+Color msmalch
+Leve
+Critical Impact
+Lncorrect prientancn
+Lcve
+Necoscuicu
+AQL Level
+Critical
+Default
+Customer
+specific
+Mark
+yaion
+ioor

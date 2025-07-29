@@ -1,0 +1,107 @@
+DAILY PRODUCTION REPORT
+Kepon No:
+PR-339
+Customer
+FINLAND
+Supervisor:
+Peter Schmidt
+Departmenl;
+Assembly
+Dale
+09-06-2025
+Shift:
+(Evening)
+Equipment
+Task
+Wvorkem
+Total Time
+Comments
+MC-201
+Welding
+Agnieszka
+06;15
+07.06
+Delay
+Zieliska
+MC 208
+Welding
+Wiktor
+11.30
+12.16
+pczynski
+MC-209
+Assemoi
+Kenieszk8
+12.21
+Recalibrated
+Zieliska
+MC 207
+Cutting
+Mateusz
+12.15
+14.05
+110
+Jarzyna
+MC-205
+Welding
+Piotr
+09.15
+10.56
+101
+Recalibrated
+Lewandowski
+MC 205
+Polishing
+Piotf
+07.15
+08.01
+Recalibrated
+Lewandowst
+MC-201
+Welding
+Jan Kowalski
+TO:S0
+T45
+Recalibratcd
+MC 205
+Assembly
+Magdalena
+13.00
+14.19
+Witkawska
+MC-205
+Polishing
+Agnieszka
+08.30
+09.23
+Zieliriska
+MC-201
+Drilling
+Nadia Sauter
+08.30
+09.40
+Recambrated
+Item
+Target Qty
+Actua
+Rejected Qty
+Rejection
+Comments
+MS-6001
+280
+10,00%6
+Rewanneeded
+WD-1805
+0056
+Rework needed
+7856
+ZR-2O5R
+3.7456
+Ruwarkneeded
+Prepared by:
+Peter Schmidt
+Approved by:
+Jan Kowvalski
+Begin
+Deluy
+11,30

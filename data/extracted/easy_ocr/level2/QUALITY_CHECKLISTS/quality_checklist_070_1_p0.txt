@@ -1,0 +1,104 @@
+Audit Trail
+#5797393
+Date: 17.07.2025
+Preduct
+passs
+em
+Customer ID
+Noruit
+Description
+Beanng 62027Z
+Check that inspection steps follow the approved procedure
+7ee
+The following table outlines
+review Cach Checklist point and mark the sampling
+inspection criteria and classification levels_ Use this
+with the QA manager_ Ensure:
+~conforming mark are
+coordinate sign-off
+Manaeement
+dearly documented. Archive this list in the quality-
+system This checklist captures quality inspection points and
+sampling levels Entries
+functional inspection items,
+induce both visual
+Audit Criteria
+Sample
+Category
+Observations
+Component Critena
+Critical
+Major
+pams Ingoe
+OnHold
+packaging_
+Leve
+carton
+damagec
+Minor ISSUe observed_
+malkings incorredt
+Level (
+Minor issue observed
+Batternot included
+Leve
+product size
+Crticalimpac
+Dead
+@ve insectin
+15 5ue
+Dosened
+packaring _
+Level MlI
+Critical impact
+nconer
+quantin} e
+assortment
+Level |
+Packaging does not match
+siRned sample
+Level M
+Critical impact
+Screws loose Or missing
+Leve
+Dusudebris inside Packaging
+Hue
+Needsrevev
+Product doesn Power On
+Levli
+Minor
+[ssue Odsenved
+Package
+norsealed
+issue Obsened
+completely
+Level II
+Exposed
+with shamp point
+Leve
+USue Ooseneed
+coges
+pastic
+components
+Minor
+observed
+Connector not working
+LeVe
+Iae
+Ooseneo
+AQL Level
+Critical
+Major
+Default
+Customer Spedific
+Plcate
+enrac
+Ninot
+Loose
+Wrong"
+Minot
+Nnoi
+Mmot
+Sharp
+Essue 
+Minor
+Ninol

@@ -1,0 +1,88 @@
+Verification
+The following table outlines
+inspection criteria and classification levels . All checklist entries are timestamped
+for traceability- Please review each checklist
+and mark the sampling 
+Below are the items
+verified during the final praduct review:
+Product ID
+VF-220D
+Customer ID
+POLAND
+Mem
+Description
+Heat Sink ALU
+Audit Criteria
+Sample Tier
+Severity
+Observations
+Design Specs
+loosu
+Minoi
+Issue Obsenvco
+Incorrect
+quantity
+assommeni
+Minor issue observed
+detect on housing
+Level
+Minor Issue observed
+Daan
+nsec
+packaging
+Levei
+Paint smearing or scratches
+Level
+Ngcu? review
+salely labels
+LeY8
+Critical Impact
+Functionality test failed
+Leve
+Umpact
+Missing distributor Information
+Level
+Needs reviev"
+product size
+LEvA
+Ming
+ISBuE abscNAd
+Not assembled 38 pAr drawing
+Lavel
+Minor issue observed
+Sharp edges on plastic
+camponenis
+Level !
+Critical impact
+Shipping _
+mark
+Illegible
+Level II
+missing
+Rubber texture
+glossiness
+mismatch
+ISSUC abserved
+Missing (ogo_
+Yumminelabel
+LCVAIM
+Miror issue observed
+Incorrect barcode or labol
+Package
+nol 588l26
+Level I
+completely
+Critical impact
+Batternonincluded
+Needs review
+Supervised by:
+Date: .
+Log
+point
+esults
+Hinges
+Visubi
+Mixsing
+Crtical
+Wrong_
+Minor 5

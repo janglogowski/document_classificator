@@ -1,0 +1,75 @@
+Unit Configuration
+Praiect:
+SB-JUD
+Dacu
+3283478
+Prepared Bv:
+Kowjiski
+Approved By:
+Kowalski
+Location; Plant 28
+Date; 2024-01-15
+Configuration Type
+Cooling Circulation
+Design Pressure
+250 bar
+System
+Flow Rate
+30 Lmin
+Voltage
+DuY
+50 Hz
+Service Intenva
+Type
+Gear
+Pump
+Battery Capacity
+Frame Maternial
+Powder-cpated Steel
+Control Valve
+Propontional 42
+Mounting
+Rackamne
+Charging _
+Mme
+Motor Power
+Noise Leve
+<72 dB(AL
+Tota
+Weicht
+180
+Working Temp
+Range
+10"Cto 55"C
+Reservoir Capacity
+Protection Class
+IP67
+Use this summary to
+dss
+check with BOM and inspection reports: Ensure that the listed materials are approved for
+the application. This closure note indicates the data shect E
+ready for release: Ensure glossary terans match the
+ergineering nomenclature
+Data sheet has been peer-reviewed by the engineering team;
+Material -
+Construction:
+Labei
+37se
+LED Light Strip
+0i3s5
+Filled Nulon
+FMse
+Ceramic Oxide
+Cooling Gel Pack
+Rubber
+insulaled
+Tube Z5mi
+Thermoplastic Polyurethane (TPU)
+Hex Bolts M1Z
+atcn Scc
+Digital Display Unit
+ABS
+lastic
+months
+Pump
+Silicone

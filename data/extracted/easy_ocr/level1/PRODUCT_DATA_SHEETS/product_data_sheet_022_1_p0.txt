@@ -1,0 +1,100 @@
+Product Overview
+proicck
+WD-1805
+uncecn?
+PR 281
+Prepared By:
+Carlos Garcia
+Approven
+Anna
+Nowvak
+Localon
+Plant 1C
+Date: 2024-09-01
+Refer
+this configuration summary for unit-designation mapping: Use this spec sheet _
+instructions
+following information outlines performance characteristics
+validate assembly
+below
+design data: The parameter register
+Includes operating limits and
+Configuration Type
+Hyoraulic
+Design
+pressure
+180
+Rate
+30 L{min
+Operating
+Charging Time
+Voltage
+400
+50 Hz
+Mounting
+Battery Capacity
+10 An
+Wall mounted
+Total Weight
+contro
+Valve
+Manuj
+Overide 3/2
+Cooling
+Dimensions
+(LxWxH)
+Water-cooled
+exchanger
+1000
+650
+10C0 mm
+Working Temp:
+-10cto 50"C
+Reseruoin
+pacity
+Protection Class
+Filtration
+uMniinc
+10 um
+retutn
+IP6S
+Oil Type
+HlP 32
+Materia'
+Construction;
+Lade
+Raw Materia
+Cetamic
+Gasket Sheet 44
+Nitrile
+RubberNAR
+Beating 62027Z
+Stainless
+Cable Tle Pack (100)
+Nitrile Rubber (NBRI
+Stalnless Stce
+Cooling Gel Pack
+Rubber
+Insulated Tube
+Lanm
+Thermoplastic Polyurethane (TPU)
+Sheet 436
+Cardon
+436
+merma
+Ceramic Oxide
+Nut M6
+Plated
+Steei
+ratings_
+Powel
+Flot
+Ranae
+Fuse
+Oxdc
+Stec
+Hinge
+Micone
+Ste€
+Sec
+Zinc

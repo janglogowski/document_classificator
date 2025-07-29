@@ -1,0 +1,105 @@
+Maintenance Checklist Report
+Perfcrined On: 2024-01-25
+Kpptovctgy
+Kan Kow
+Senviced DY:
+~oax
+This service summary supports the
+eliabllity eng neering review
+This section captures
+equipment status andany maintenance
+observations; Cieckthat
+dornilae
+2vents ere Proper: caterotiled anl
+Please revlewythls E
+Fecen Rertce
+types, and remarks
+Ine (olio in? entnes
+cetai Creventive jno cctrectie
+Maintciance tosks
+eection
+Unit Code
+MC-276
+MC 245
+LC-255
+MC-294
+MC-208
+Mechine
+Ass@mz
+Roeu
+Plasma
+Mnem
+Laae
+packagirgLine
+Lznr
+Type
+Ptevenive
+Cortective
+Mevemive
+Correclive
+Insceclion
+@pcratom
+Lauta *0351
+Peier *chmidt
+LLaura Ross
+AnticovJ<
+Jjnkowaiske
+Dountime
+Comimenis
+Repl ctd (use
+Switor comlack
+Mehtened lcose
+Aligrmeat
+Li-ion batery DJcr
+cieanoc
+3 diustted
+senicet
+cection
+Unit Codo
+MC Zu8
+NC 245
+MC 294
+MC 255
+MC276
+Machine
+Cutte
+Packaging Line
+Lathe
+Assemblv Robo
+Prevenivt
+Cuneetive
+Conectve
+pfcremtive
+UnsalluDn
+Cpeiutor
+Dlusgaici
+Canus Gacla
+LM) Ro
+Laura Ror
+afi Garcia
+Downtimi
+Comments
+Ventenedloose
+Calipration cneck
+Ahfnment
+Issues touno
+nc
+3 diusted
+Overali equioment condition
+Wesnclcry Fos-minenatiCF
+Recurd4Ny thle pamlaa
+unventoy aujustMGrL Senvice
+summanes nave Deen c7w3[d2d
+the engineering team: Usetnis closure
+upcate tne maintenance Kr tracker.No critica
+Faults %ert Fund during tha latest irispection
+Uptlme
+Uont
+Notes
+97.770n
+Replacrd Mitet
+Kree
+dac
+CIco
+Plasmn
+FcC?

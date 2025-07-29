@@ -1,0 +1,31 @@
+Customer ID: GREECE
+Prepared by: Peter Schmidt
+Product ID: PL-6012
+Interna
+No:: 2854728
+Item Description
+Protective
+eeve
+Spacer Zmm
+LED Light Strip
+Shaft SOmm
+50rtim
+Qty
+651
+380
+UOM
+Unit Price
+0.15
+8.00
+Amount
+950.40
+97.65
+950.00
+2,216.00
+Remarks
+Li-Ion battery
+Switch tested OK
+Li-lon battery
+installed
+installed
+TOTAL: 4,214.05

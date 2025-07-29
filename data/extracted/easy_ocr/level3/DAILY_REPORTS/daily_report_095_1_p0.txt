@@ -1,0 +1,114 @@
+Report No ;
+Department
+Shift:
+Kowalski
+Assembly
+28-08-2023
+(Neht)
+MC 202
+Operator
+MC-209
+Begin
+Nawak
+Finish
+12,00
+12,25
+Spent
+Kopczynski
+08.00
+Assembly
+09.03
+Assembly_
+11.00
+Delay
+12:15
+12.24
+MC 207
+14,00
+13.33
+MC-zo8
+15.18
+13.30
+Bartosz
+14.58
+MC-203
+06.00
+07-06
+Bartosz
+Kowakki
+07,30
+Recalibrated
+03,01
+wrzyqiak
+07.50
+Wiktor
+Mc-J08
+11.30
+Kopczynski
+12.38
+Wasik
+14 00
+N/A
+14.25
+utem
+Actual Oty
+-850c
+Failure
+Remarks
+8270
+nfimed
+neeced
+Approved Dv:
+Scrap conivmed
+Kowalski
+DAILY 
+'PRODUCTION
+REPORT
+Custon?
+Supensor
+PR-16]
+GREECE
+Datt
+Maching
+Brocoss
+Polshina
+Ann
+Welding
+Wiktot
+Tme
+Mc-201
+Aemarks
+MC 702
+Nadia
+Sjutet
+MC-202
+Anqa
+Novi
+Welding
+Daxid
+Oxamlangruk
+Astembly
+Nadia '
+Welding
+Sauter
+Waxynial
+Wekjinb
+MC-209
+Cutung
+MC-209
+06.15
+Polishitig
+Recalbrated
+Polshing
+Przemilat
+Tagget
+1-900X
+450
+Defec Qty
+Scnp
+1 1095
+Rewonk
+Rrseared 
+5095
+Petee
+Schmnidt

@@ -1,0 +1,49 @@
+BILL OF MATERIAL
+Customer ID: BELGIUM
+Coordinator: Annz
+Mowar
+Date; 2023
+03-14
+Product ID: DX-777T
+Interz
+7176836
+Order
+Qty: 496
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Gasket
+3.14
+1.25
+37.50
+Sheet 44
+Aluminum
+0.63
+10%
+229.50
+ROHS
+Bracket
+comipliant
+Gasket
+1.04
+1.25
+30.00
+Sheet A4
+Rubber
+1.44
+0.50
+16.00
+High
+Gasket
+cumm
+grade
+Total Amount:
+313.00
+Approved By: _
+Sourcing Department:

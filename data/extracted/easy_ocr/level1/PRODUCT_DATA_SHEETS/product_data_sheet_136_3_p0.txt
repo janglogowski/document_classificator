@@ -1,0 +1,45 @@
+Unit Data Specification
+Report No:: PR-363
+Product ID
+660F
+Date: 2024-02-08
+Unit Type
+Pneumatic Control
+Operating Pressure
+210 bar
+Throughput
+Limin
+Voltage
+230 V
+50Hz
+Charging Time
+Battery Capacity
+Total Wclght
+230 kg
+Type
+ocar Pump
+Working
+5Cto 45(
+Component Materia
+Overviere:
+Subcompanent
+Ral materia
+Specitication
+WNodde
+Treated Pine Waod
+Anticorrosive
+Fuse
+Ceramic Oxide
+Anticorrosive
+Heat Slnk ALU
+G0G1-TC
+Mncorrox
+baltery Pack
+Lithium-Ion Cell Pack
+Heat-resistant
+Prepared by: Peter Schmidt
+Approved by: Peter Schmidt
+Unit
+Pump
+Temp
+Runge

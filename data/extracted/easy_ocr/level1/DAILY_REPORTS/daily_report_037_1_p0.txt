@@ -1,0 +1,103 @@
+Shift Summary
+Report No::
+PR-689
+Customer'
+FINLAND
+Supervisor:
+Carlos Garcia
+Department:
+Mhintenance
+Dale
+05-02-202
+Shift:
+Night)
+Machine
+Operation
+Technician
+Begin
+Finish
+Time Spent
+Comments_
+MC-208
+Welding
+Nadia Sauter
+10;00
+10.57
+MC-204
+Cutting
+Rartosz
+07;00
+07.38
+Delay
+Wawcvniak
+MC-204
+Cutting
+Piotr
+1400
+14.25
+Delay
+Lewandowski
+MC-204
+Cutting
+07:15
+08.05
+Kopczynski
+MC-203
+Assemoly
+Wiktor
+13.00
+14.41
+101
+Kopczyrski
+MC-205
+Assembly
+Mateusz
+08;30
+09.53
+NA
+Jarzyna
+MC-203
+Polishing
+Wiktor
+09:15
+10.09
+Recalibrated
+Kopczyriski
+MC-202
+Asscmbly
+Dawid
+08.30
+08.57
+Recambrated
+Osamthanczuk
+MC-203
+Assemoly
+Piotr
+12.30
+13.05
+Delay
+Lewandowski
+partio
+Planned
+Qty
+Achieved Qty
+Rejected Qty
+Rejection %
+Remarks
+ZR-205R
+9696
+KP-320E
+228
+226
+0,8896
+Scrap
+contirmed
+RM-B6ON
+197
+12.1890
+Prepared by:
+Jamkowalski
+Approved by:
+Lamra
+Rossi
+Wktor

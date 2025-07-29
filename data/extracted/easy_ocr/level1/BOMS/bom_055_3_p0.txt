@@ -1,0 +1,82 @@
+BILL OF MATERIAL
+No
+Item
+Qty
+UOM
+Rale
+Amount
+Remarks
+Description
+Packaging
+pcs
+1,00
+19,00
+ISO-
+Box
+verfied
+Bearing
+pcs
+28.50
+ROHS
+5202
+compliant
+Grease
+pCS
+89.30
+Li-Ion
+Tube
+battery
+250m
+installed
+Shaft
+pcs
+376.00
+For export
+50Qmm
+Stainless
+0.35
+6.65
+ROHS
+Bolt W8
+compliant
+Aluminum
+PCS
+130.50
+For export
+Bracket
+Cable Tie
+pcs
+0.95
+46.55
+Switch
+Pack (100)
+tested OK
+Power
+pCS
+26.40
+Switch
+Grease
+pCS
+1.90
+74.10
+Imported
+Tube
+250ml
+Gasket
+pcs
+1.25
+2,50
+SKF brand
+Sheel A4
+Customer
+D: NORWAY
+Coordinator_Anna Nowak
+Date; 2023-10-15
+Product ID: MS-6OOP
+Internal No_
+6742016
+Order Qty: 247
+Tota
+Amount:
+799.50
+pCS

@@ -1,0 +1,79 @@
+Component Overview
+Thls data sheet provides key specifications ad material delals
+The
+paraneter register belov' includes
+operating iimits and ratings
+Please review tne
+specifications and material compositicn listed
+that all material specs align with supplier certifications. The
+below- Check
+following inforiation outlines performance
+characteristics &nd design data
+Confirin that performance ranges comply with
+project requirements:
+Produci D
+RE-850C
+Jnternal No;
+9048456
+Prepared by: Laura Rossi
+Approvod by: Carlos Garcia
+Date:
+2023-12-03
+Model Type_
+Hydraulic
+Unit
+Rated Fressure
+210 bar
+Throughpul
+30Lmin
+Supply Voltage
+230 V {50 Hz
+Pump Type
+Gear Puinp
+Protection Class
+Ip85
+Total Weight
+230k9
+Cooling
+Charging Time
+Air-cooled oil radiator
+FIltration
+10 pm return; 25 pmn
+suction
+Check that all section headers follow Ihe product template. Use this
+inspeciion report:_
+Confirm tnal _
+summiary
+cross-check with BOM and
+all test conditions are accurately represented . Archive tnis suminary for
+design-change management All summary cominents have
+recoraed in the revision
+Material of Construction:
+Label
+Composition
+Capacitor 450Vv
+Aluminum 6081-16
+Tollon Tape_Roll
+Teflcn
+Tape Roll
+insuilaled
+25mn
+Prossure
+Thenoplastic Polyurethane (TPUL
+Cooling Gel Pack
+Brass CZ12-
+Sillcone Rubber
+Balleryy Pack
+Lithiyat-Ion Cej
+Fack
+Ceramic Oxide
+Gaskel Sheel /4
+Hex_Bolts M42
+Nitrile Rubber (NBR)
+Zlrc-Plated Stoel
+Pover
+future
+bett
+Tupa
+Valye
+Fuse

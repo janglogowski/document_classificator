@@ -1,0 +1,71 @@
+Product Overview
+Project:
+BZ-660F
+Repont No :
+PR-208
+Prepared BlG
+Peter Schmiot
+Approved
+Anna
+Nowek
+Location; Plant 1C
+Date; 2025-04-04
+Unit ype
+Herulic Power Unit
+Rated Pressure
+300 dar
+Flow Rate
+48 Lmin
+Supply Voltage
+JQQV [S0Hz
+Mounting
+Rackirame
+Type
+Gear Pump
+Charging Time
+Working Temp: Range
+J0Cto50C
+Frame Materia
+Stainless SteelFrme
+Battery Capacity
+2An
+Oil Type
+HLP 46
+Reservoir Capacity
+160L
+Noise Level
+468 @Biai
+Senice Intenn
+1000 E
+Protection Class
+IP65
+Motor Power
+75Mv
+Material of Construction:
+Wlemt
+Ral Matena
+Heat Sink ALU
+Aluminum 6061-T6
+Suppont Fool Steel
+Stainless Steel30'
+Therma
+Ceramic Oxide
+Gasket Sneel A4
+Nitrile Rubber INBR)
+MED Lieht Strip
+Glass
+Illed Nilon
+Cable Tle Pack (100]
+Nitrile Rubber INBRI
+Graphite Pad
+Graphite Pad
+Steelshcet 436
+Carbon Stecl436
+Cooling Gel Pack
+Silicone Rubber
+BattenPack
+uthum-lon Cel
+Pack
+Nul M6
+Zinc-Plated Steel
+Pump

@@ -1,0 +1,161 @@
+Shift Summary
+Report
+PR-885
+Customer: TURKEY
+Shift;
+(Evening)
+Date: 13-07-2024
+Machine ID
+Operation
+Technician
+From
+Duration
+Stage
+MC-205
+Cutting
+Anna
+Nowak
+(min) =
+05.00
+07.19
+MC-201
+Nadia
+Sauter
+10.15
+Delay
+MC-203
+Cutting
+Nadia Saute
+10.40
+Recalnrated
+Delayed
+06.00
+07.59
+MC 209
+Polishing_
+ian Kowalski
+10.30
+leled
+172
+MC?02
+Cucong
+Anna Nowak
+07.15
+08.34
+Delay
+drogress
+MC-205.
+Assemblv
+Pintr
+Comnleted
+09,00
+09.21
+Delay
+ndo VEkE
+progress
+MC-207
+Palishing
+Jan Kowalski
+05.00
+07.56
+MC-205
+Mateusz
+1I;OO
+116
+In progress
+12.50
+110
+NA
+Jarzyna
+profrers
+MC-205
+Welding
+Bartosz
+14.30
+15.57
+NJA
+Wawrzyniak
+progres5
+MC-208
+Cutung
+Nadia
+06.30
+07.05
+MC-207
+Bartosz
+Recalibrated
+Completed
+0G.15
+08,09
+114
+Wawrzyniak
+Delayed
+MC- 209
+Madin Sauter
+11.15
+114e
+critical delavs_
+L4pTe
+ooserved; please address =
+any Minot
+noleo
+Confirm that scrap percentages
+quality benchmarks Ensure routine maintenance between shifts
+align with
+notes include any pending Issues Use
+maintain consistent output, Ensure shift-handover
+this summary to update the overall production dashbgard. Refer to
+any rework t
+quality concerns;
+remarks for
+Praduct ID
+Planned
+Achieved Qty
+Qty
+Output
+Rejection %
+Rework
+Notes
+VF-2Z00
+214
+196
+Couat
+8.419
+Rework
+BZ-S60E
+269
+259
+needer
+3.7290
+SB-I40D
+conmrmted
+48704
+Vr-1200
+185
+3-4047
+MX-450L
+6,0z%u
+Rework
+CE-905L
+170
+170
+needed
+0.0098
+Rewom
+nceded
+Approved by:
+Prepared by:
+No >
+Notes
+Melding
+Un-ptoeress
+Comp
+Le Ya
+Cutting
+Sauiet
+Poushing
+Cucting
+progres
+sques
+Scrap
+ScTAp:

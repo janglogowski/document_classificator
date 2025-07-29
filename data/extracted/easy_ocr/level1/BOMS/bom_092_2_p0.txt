@@ -1,0 +1,38 @@
+Customer ID: GREECE
+Prepared by: Jan Kowalski
+Product ID: TX-820V
+Interna
+No:: 5875301
+Refer to this parts
+egister to plan raw-material purchasing: All entries reflect the latest inventory and
+supplier rates
+All line-item costs are current as per vendor quotes
+This extract shows the bill of
+components and
+projected spend. Use this schedule of parts to align with sourcing and stock levels.
+Item Description
+Control Panel
+Rubber Gasket
+Ventilation Grid
+Set
+Mount
+80mm
+Qty
+216
+UOM
+Unit Price
+Amount
+3,240.00
+73.50
+780.00
+540.00
+Remarks
+Li-Ion battery
+Eco compliant
+Hinge alignment
+Imported
+installed
+adjusted
+TOTAL: 7,633.50
+total
+Hinge

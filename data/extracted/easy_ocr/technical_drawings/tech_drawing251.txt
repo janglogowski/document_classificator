@@ -1,0 +1,38 @@
+65 DRILL
+DEPTH
+2 . 25
+500
+1.12
+50  DEEP
+HOL E
+0 3
+TyP
+00
+0 3
+TYP
+2 49
+2 48
+TYP
+06 coating
+0 0
+0 0 0
+THTCKNESS
+002
+A - B
+TYP
+25
+TYP
+38
+TYP
+TYP
+TyP_
+002|4-B
+00 2
+A -B
+37 |
+.36 9
+SECT |ON
+E - E
+OPTion
+C05/5840 |
+3 .125

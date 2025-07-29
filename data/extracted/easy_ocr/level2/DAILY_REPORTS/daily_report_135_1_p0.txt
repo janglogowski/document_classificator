@@ -1,0 +1,85 @@
+PR-763
+Repor No=
+TURKEY
+Customer:
+Carlos Gjrca
+Sudenuk
+Department:
+104-2074
+Date;
+JEverinzi
+shift:
+Total Tlme
+Remarke
+Equipment
+Task
+Technician
+Begi
+41+52
+Mldteuse
+10,30
+MC-202
+Drlling
+Jafyinz
+Laleust
+10.J0
+11.50
+MC-20Z
+Welding
+Jarzyna
+Delay
+Assembly
+Dawild
+11.30
+13,18
+MC-203
+Oszmianczuk
+Kowalski
+12.30
+13.26
+MC-202
+Drilling
+10.15
+MC-2c8
+Polisning
+Oszmianczuk_
+NJA
+Jufmysay
+14,00
+MC-208
+Polishing
+Wasik
+Kecalpfale
+Nadla Sauter
+MC 203
+Drilling
+Fallure
+Uwagi
+Planned Qy
+ActualQt
+Defect Qy
+Scrar
+conflrmed
+Icein
+6,7948
+connnMcc
+KV-3S0K
+Scrap
+210
+confirmned
+WD-1805
+085 ,
+ON) /VH
+4896
+Scrap
+conflrmed
+VK 940r
+Anna Noivak
+Prepared bY:
+Laviz
+Koss
+Approved by:
+-DBut
+Dalaid
+1l15
+Sutap

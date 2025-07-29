@@ -1,0 +1,37 @@
+Customer ID: POLAND
+Prepared by: Peter Schmidt
+Product ID: TX-820V
+Internal No:: 6487371
+This extract shows the bill of components and total projected spend_
+Please review the itemized
+Iist of parts and material
+specifications before procurement: Use this breakdown to verify sourcing
+and cost estimales. All line-item costs are current as per vendor quotes_
+Item
+Grease Tube
+Rubber Stopper
+Packaging Box
+Aluminum
+Description
+250m
+Bracket
+Qty
+120
+366
+642
+UOM
+pCS
+Unit Price
+Amount
+228.00
+201.30
+115,00
+2.88900
+Remarks
+Li-Ion battery
+Switch tested
+SKF brand
+For export
+installed
+Ok
+TOTAL: 3,433.30

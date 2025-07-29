@@ -1,0 +1,49 @@
+Verification
+AlI checklist entries are imestamped for traceability. Entries include both visual and functional inspection
+items
+This section details quality requirements and test points for the batch: Confirm that sampling levels
+comply with customer agreements
+Below are the items
+be verified during the final product review.
+Product ID
+RX-3102
+Customer ID
+POLAND
+Item Descrption
+Pressure Valve
+Audit Criteria
+Check
+Category
+Notes
+Intensity
+Product Requiremonts
+MA
+Hold
+Incorrect orientation
+LCVC
+Critical impact
+Loose parts inside packaging
+Level
+Critical impact
+Dustidebris inside packaging
+LBvC
+ISSUC Observed
+Shipping mark is illegible
+Level
+Needs review
+missing
+Hinges
+OoS8
+Visua
+Deler
+housing
+Leve
+Needs review
+Missing logo
+waming label
+Leve
+Minor Issue observed
+Supervised by:
+Date:
+Log
+Minor

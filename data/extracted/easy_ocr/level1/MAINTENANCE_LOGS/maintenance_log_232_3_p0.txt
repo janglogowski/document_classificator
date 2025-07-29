@@ -1,0 +1,134 @@
+Equipment Record Report
+Performed On: 2023-09-16
+Authorized bx;
+Carlos Garcia
+OcGralor
+Jccr Scnmldt
+Relur=
+Ihe maintenancu regesler Ior detailled survice
+nisionius
+Enbries
+mclude WOlk Ordens
+iechnician ussiammicni;
+anu
+charges. All lectnician cornmenis are recorded (or
+maintenance trend aralysis. Tne equlprent log
+below includes
+fault codes and corrective notes , Use
+record
+Dian pcoMing
+upkeep and repair3;
+Maintenance
+extract
+Frepared for complance
+audit trails-
+Section A:
+Unit Code
+Mc/4
+MC ?34
+KC ?19
+MC 259
+MC 206
+MC 262
+Machine
+Lase
+Cuter
+Lase
+Cutter
+Laine
+Packaging
+Assembly
+Paint Baoth
+Robal
+ype
+Preventive
+Corrective
+Corrective
+Corective
+Insdection
+Ccrrective
+Technician
+Laura
+Rossi
+Laura
+Rossi
+JanRowalski
+Cands
+garcia
+Anne
+4owak
+Carios
+Darcia
+Dawntime
+Comments
+Changed
+Tightened
+Alignment=
+Alignment
+Sensor
+J35<81
+and filters
+Lose bolls
+hinges
+hinges
+recalibrated
+adjusled
+adused
+Seclon B;
+Unit
+Code
+MC-280
+MC-259
+MC-219
+MC-213
+MC-234
+MC-226
+Machine
+Laser Culller
+Packaging
+Laine
+Packaging
+Lasel
+cuter
+Hycraulic
+Press
+Type
+Inspection
+Lctrective
+apecium
+Comeciive
+Comecive
+Ccrective
+Technician
+Peler Schuidl
+Jan Kovalski
+Laura Rust
+Lama Ross
+Laur Rossi
+Carla'
+Gaicia
+Downtime
+Comments
+Rep acud
+Relilled oil
+Lk-ion
+batlery
+Calibralion
+Tightened
+Issu@s
+5A)
+(HLP 46).
+pucr
+check OK:
+Icosu bells
+Joumo
+senviced
+Uptlme (%)
+Etor Count
+Noics
+55-30 6
+RBplaced fllet
+thig
+Tnis
+Wom "
+[eplaced

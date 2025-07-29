@@ -1,0 +1,91 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+pcs
+0.25
+7.75
+High grade
+M12
+Packaging
+pCS
+30.00
+ISO-
+Box
+verfied
+Hex Bolts
+pCS
+0.25
+6.00
+Li-Ion
+M12
+battery
+installed
+Hex Bolts
+pcs
+0.25
+1.00
+Imported
+M12
+LED Light
+2.50
+70.00
+Li-Ion
+Strip
+battery
+installed
+Wooden
+pcs
+15.00
+765.00
+Imported
+Pallet
+Grease
+pcs
+30.40
+Tube
+250ml
+Stainless
+pCS
+0.35
+10.15
+For export
+Bolt M8
+Hex Bolts
+pCS
+0.25
+11.25
+For export
+M12
+Fuse SA
+pCS
+9.00
+Stainless
+pCS
+0.35
+3.50
+For export
+Bolt M8
+deviations from standard pricing have been annotated here.
+All listed components have been
+verified for availability and compliance.
+Review this summary against the master budgeting sheet
+Ensure this matenals summary
+reconciled with the purchase order;
+Customer_ID: NORWAY
+Coordinator: Anna Nowak
+Date: 2023-02-19
+Product ID: PL
+6012
+Interna
+No; : 6468116
+Order Qty: 242
+Total
+Amount:
+944.05
+Any

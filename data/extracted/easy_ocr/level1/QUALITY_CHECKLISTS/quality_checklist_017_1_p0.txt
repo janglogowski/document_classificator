@@ -1,0 +1,69 @@
+Quality Review
+#7798939
+Date: 17.07.2025
+Product
+PW-51SY
+Customer ID
+FINLAND
+Item Description
+Sneet 436
+Reter
+the quality register for sampling-plan references
+Use this list -
+contin
+adherence
+AQLand satety
+standards. Entries include both visual and functiona
+Inspection items This checklist captures quality Inspection points
+and sampling
+evels
+Please
+review each checklist m
+and mark the sampling results
+Canfirm that samnling levels
+comply with custome
+agreements This closure summary indicates compliance with inspection criteria,
+Review Points
+Sampling
+Defect Class
+Remarks
+LEve
+Component Criteria
+Paint smearing
+scratcncs
+Needs review
+Dust debris inside packaging
+Leveli
+Cntica
+Impact
+Shipping mark is illegible
+Minor issue observed
+Missing
+Scrpws
+DOSe
+missing
+Leve
+Critical
+imnact
+product
+Lpve
+Functionalitytest tailed
+Leve
+Mlino
+issue obsenvec
+Missing
+warning label
+Cutca
+Impact
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer specific
+Corrective actions are scheduled for identified issues This summary supports the end-of-line quality certification:
+Items marked far hold require additional review before release. This final note confirms the checklist 
+complete and
+approved
+point -
+Wronk

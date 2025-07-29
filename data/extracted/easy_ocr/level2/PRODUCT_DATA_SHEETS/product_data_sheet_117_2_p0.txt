@@ -1,0 +1,77 @@
+Confirm that perfomance ranges comply wilh project requircments
+Use Ihis spec sheet to validate
+assembly insiructions. Check that all material specs align with supplier certifications. This lechnical overview
+supports the product-release checklist: This data sheet provides key specifications and material details
+Use
+this sheet E
+confirm engineering requirements and tolerances. This report extract
+prepared for design-
+verificalion audits
+Product ID;
+PW-SISY
+Report No
+PR-365
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia
+Date: 2024-07-30
+Model Type
+Circulation
+Rated Pressure
+300 bar"
+System
+Fluid Flow
+48 Lmin
+Voltage
+480
+60 Hz
+Control Valve
+Manual Override 3/2
+Reservoir Capacity
+120
+Frame Material
+Aluminum Frame
+This closure note indicates the data sheet
+reauy lor release_
+Documont control numbers
+included for
+traceability. This summary reflects the latest revision of the product data. All summary comments have been
+recorded in Ihe revision log_
+Refer
+parameter table for operating ranges and tolerances
+Material of Construction:
+Subcomponent
+Base
+Pressuge
+Valve
+Bracs
+CZ121
+Connecor
+ass-Filled Nylon
+~Ring NB
+60mm
+Nitrle Rubber (NBR
+Battery Pack
+Lithimn-
+on Cel
+Pack
+Capacitor
+Aluminum 6061-16
+Hex Bolts M12
+Paned
+Fuse
+Ceramic Oxide
+Graphite Pad
+Graphite Pad
+Heat Sink
+Aluminum 6061-T6
+Wooden Pallet
+Treated Plne Wood
+Loom
+PVC (Rigid)
+Powor Switch
+Polycarbonate
+Copper
+Coollng "
+'are
+Zinc
+Wiring

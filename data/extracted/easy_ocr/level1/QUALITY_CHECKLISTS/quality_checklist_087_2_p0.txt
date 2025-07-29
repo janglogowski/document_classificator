@@ -1,0 +1,87 @@
+Inspection Checklist
+This checklist captures quality inspection points and sampling levels_
+following table outlines inspection
+criteria and classificatian levels, Check that inspection steps follow the appraved
+nfocedure
+nis closure
+summary indicates compliance with inspection criteria: This summary supports the production-release quality
+gate. Use this extract
+coardinate sign-off with the QA manager. Entries Include botn vsual and functional
+inspection items. Confirm
+sampling levels comply with custome
+anreements
+Product ID
+REB50C
+Customer ID
+NORWAY
+Item Description
+Mite Smm
+Audit Criteria
+Inspection
+Category
+Remarks
+Depth
+Productrequirements
+Hold
+Colar mismatch
+Critical impact
+Scravsloase
+missing
+Missing lapo
+wamning label
+Rubber texture or glossiness
+Level II
+Critical impact
+Mismatcn
+Packaging does not match
+LevelII
+Minor issue observed
+signed sample
+Exposed nail with sharp point
+Level [
+Mnor Issua Dbsarved
+Missing safety labels
+LeveliI
+Needs review
+Sharp edges on plastic
+Needs [avIeW
+Level|
+comnonents
+Palnt smearing
+scralches
+Level IlI
+Needs revlew
+Carton
+damnaged 0r
+Lavel IlI
+Critical Imnpact
+markings incorrec
+Waod splinter =
+point
+Level II
+Minor issue observed
+on proqucu
+Visual defect on housing
+Laveli
+Critical impact
+Missing distributor Information
+Level
+Needs
+AV
+Not assombled as per drawing
+Needs
+[CvIcw
+Insuction manmai
+missing
+LevelII
+Critical impact
+damaged
+Incorrect quantily Or
+LevelII
+arsantment
+Supervised by:
+Jate;
+thot
+pper
+Levol
+snarp

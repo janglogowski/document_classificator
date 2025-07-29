@@ -1,0 +1,81 @@
+Component Overview
+All data entries are traceable
+design revision history: Use this sheet
+confirm engineering requirements
+roicrances
+This section details the configuration and
+parameter set for the product: Please review the specifications
+and material composition listed below. Use this spec sheet -
+validate assembly instructions:
+Product ID:
+RX-3102
+interna
+7828997
+Prepared bv: Ian
+Kowalski
+Approved by: Jan Kowalski
+Date
+2024-03-08
+Configuration Type
+Coolling Circulation
+Rated
+Pressure
+300 bar
+System
+Flow Rate
+75 Lmin
+Voltage
+480
+G0 Hz
+SCrvicc
+Interval
+12 months
+Battery Capacity
+Dimensions (LxWxH)
+1200
+700
+1100 mm
+Archive this summary far future design-change management
+Confirm that all test conditions
+accurately
+represented
+This closure note indicates the data sheet
+ready far release
+Fnsure
+ossary terms maton the
+engineering nomenclature: All summany
+comments
+have been recorded
+the revision log:
+Material
+Construction:
+Base
+Heat Sink ALU
+Aluminum 6061-16
+Cooling Gel Pack
+Scong Rubbcr
+Leramic Uxice
+Digital Display Unit
+ABS Plastic
+Cable Tie Pack (100)
+Nitrile Rubber INBRL
+Gasket Sheet 44
+Nitrile Rubber INBR)
+Nut M6
+Zinc-Plated Stee
+Thermal
+FUS@
+ceramic Oxide
+STCc
+Shect 436
+Carbon Steel 436
+Wiring Loom Im
+PVC (Rigid)
+Cannectar
+Gla55-Fille 0
+Myon
+LED Light Strip
+Glass-Filled Nylon
+ind
+No .
+Fusc

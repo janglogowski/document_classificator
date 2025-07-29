@@ -1,0 +1,73 @@
+Conformance Log
+Review Points
+Sampling
+Defect Class
+Notes
+Level
+Item Specs
+Critical
+Major
+Minor
+OnHold
+Mis sing satety labels
+Leve
+Critical impact
+Screws
+DOSP
+missing
+Critical impact
+Dust
+debris inside packaging
+Leve
+Critical impact
+Missing
+Warning
+Abel
+Critical impact
+Shipping mark is illegible
+Level III
+Minor issue observed
+missing
+Dead
+Ilve Insect In
+packaging
+Missing distributor
+Level
+intormatian
+Hinges
+05&
+eve
+I5 5ue Dbserved
+Sharp edges on plastic
+Level
+Critical Impact
+camponents
+Wrong productslze_
+Leue
+Needs [eue
+Wood splinter or sharp polnt
+Level III
+Jn praquct
+incorrec
+centaton
+eV
+Needsreviev
+Functionallty test falled
+LCve
+Mmor issue Obsenved
+Loose
+parts inside packaging
+Leve
+Packaging does not match
+Level
+Minor issue observed
+SiEned sample
+Reference Standards:
+standaro
+~dition
+ISO 5001
+2011
+IEC 61010
+Ath Ed,
+Leve
+Minor

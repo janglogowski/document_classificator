@@ -1,0 +1,53 @@
+Inspection Checklist
+#4796218
+Date: 17.07.2025
+Product ID
+LKB90B
+Customer ID
+FINLAND
+Item Description
+Cable Iie Pack (100)
+Check that inspection steps follow the approved procedure. Use this Ilist to confirm adherence
+AQL and
+safety standards. Below are the items to be verified during the final product review. Confirm that sampling
+Ieveis
+comply with customer agreements. This summary supports the production-release quality gate
+Please review each checklist point and mark the sampling results. All checklist entries are limestamped for
+traccability. Ensure all non-conforming marks are clearly documented_
+This checklist captures quality
+inspection points and sampling levels. Use this extract to coordinate sign-off with the QA manager.
+Revlew Points
+Sample
+Severity
+Notes
+Tier
+Component Criteria
+Sharp edges on plastic
+Level
+Minor issue observed
+componenis
+IncoECC
+quantity
+Level E
+Critical impact
+assonment
+Color mismatch
+Level
+Crtical impact
+Missing distributor infomation
+Level
+Minor issue observed
+Missing satety labels
+Leve
+Minor issue observed
+AQL Level
+Critical
+Minor
+Default
+Customer specific
+Please ensure supervised sign-off on any non-conforming points: Inspection summary
+filed for regulatory
+compliance: This summary supports the end-of-line quality certification: All critical and major inspection
+points have been addressed_
+Refer l0 notes for any obsenved defects or deviations. Flag any open issues
+the CAPA tracking system:

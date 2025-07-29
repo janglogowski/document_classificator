@@ -1,0 +1,54 @@
+Unit Data Specification
+Ters data sheet provides key speciications 
+perfomance characteristics and design
+material detals. The following information .
+proouct This
+Cata
+This section details the
+cutlines
+repon extraci
+prepared for design-verification
+configuration and parameter Set for the
+product-release checklist
+avdits
+This technical ovenviewi
+supponts the
+Producl ID:
+Repod No
+SLJom
+Dy: Laura Rossi
+Approved
+187.180
+by: Anna Nowak
+Date: 2024-01-18
+Model Type
+Cooling Circulation
+Syatem
+Pressure
+180 bar
+Flow
+Battery_
+48 Umin
+Supply Voltage
+Motor Power
+480
+VIGOHz
+Z5kW
+HLP 681
+Confirm that all test condtions are
+management Document control
+berg terg Tepresented Archive this summary for future
+sheet
+ready for
+ihabaers are included for traceability. This closure
+design-change
+Check that
+section headers follow
+note indicales the data
+the product template
+Prepared
+Design E
+Fluld
+Cepacity
+Ou Lype
+e ejse

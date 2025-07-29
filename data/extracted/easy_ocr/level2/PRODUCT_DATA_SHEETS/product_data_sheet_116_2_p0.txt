@@ -1,0 +1,78 @@
+Product Data Sheet
+Below are the technical parameters
+and material compositlon Ilsted
+wndhiorsectiction materials for Ihe Unit ; Please
+product Use (his spOC
+VelloateThls section details the configurarion
+raviaw (he specificalions
+rol8as0
+shoet t0 validate
+assembly Instruclions,
+and paramoter set for Ihe
+checklist;
+This technlcal averview
+supports the product-
+Product ID:
+Report No
+DX-777
+Prepared by: Carlos Garcia
+Approved
+1897.302
+by" Jan
+Kowalski
+Dale; 2024-09-13
+Unit Typo
+Spoteng Clrculation
+Rated Pressure
+Flow Rato
+250 bar
+Oil Typo
+Supply
+HLP 32
+230 V / 50 Hz
+Sorvlco Intorval
+5 Um
+10 umn
+Framo
+1000 h
+Cooling_
+relurn
+Stalnlass Stoel Frame
+Battory Capacity
+oll radlator
+Satfetnary reflects the latest revision of Ihe,
+and safely margins . Archive Ihls
+proxuct data; Overall configuralion
+cross-chack wllh BOM and
+Glimmary for future design-change 
+wilhin delinad
+standards;
+inspection reports , All specifications _
+enanagement: Use Ihis summary to'
+meet Ihe deslgn requlrements
+and Industry
+Material of Construction:
+Ilom
+Powor_Swlch
+Raw Malerla_
+Tellon
+Roll
+Polycarbonale
+Copper
+NBR GOmm
+Tallon Tape Roi
+Rubber Gaskot BOmm
+Nlile
+(NbR
+Nitrila Rubber (NBR)
+Umm
+Voltage
+Flltrallon
+Tinuine.
+Materal
+Alr-cocled
+Tlus
+desion
+Topo
+Ring
+Rubbor

@@ -1,0 +1,77 @@
+COMPONENT BREAKDOWN
+are:
+2024-09-10
+Carlos Garcia
+Customer_ID: BRAZIL
+Coordinator:
+Onder
+Qty: 173
+Unternz
+5230820
+Product 
+MC-S4OX
+assembly. This summary lists every item
+the
+unit prices and total amounts
+This section outlines-
+required, with per-unit pricing
+UOM
+Rate
+Amount
+Remarks
+Consumption
+Extra
+Qty
+Item
+Description
+1.20
+9.60
+High
+Power
+2.13
+Switch
+5.60
+240.80
+Certified
+pcs
+batcn
+Ventilation
+Grid
+0.55
+2.,20
+Li-Ion
+battery
+Rubber
+Stopper
+installed
+0.20
+3.80
+SKF
+2.06
+brand
+Plastic
+Rivets
+15,00
+285.00
+SKF
+1.53
+pcs
+brand
+Digital
+Display
+Unit
+Final amounts include handling
+quantities align with production run requirements
+Check that component
+and
+costs where applicable:
+541.40
+Total Amount:
+Sourcing
+Department: _
+Approved By:
+Parts;
+details
+grade
+Pcs
+logistics _

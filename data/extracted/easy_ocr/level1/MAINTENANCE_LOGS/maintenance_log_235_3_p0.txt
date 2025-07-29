@@ -1,0 +1,139 @@
+Equipment Record Report
+Performed On: 2025-01-28
+Appicvcd 0Y
+Lnnal NNavl
+Senviced DY
+Cancs
+Garcib
+The following
+antries detail Drevenine and correcin
+Maintenancetasks
+Reterto thi
+Maintenbnce rbfISTO
+Ffor detailed
+senice hlstones
+Checkthat
+doutime
+vent3 are Prop e
+catecorized and opeec
+The equipment log below includes fault
+codus wn cOTreCNB notos
+Inis ;etion capturgs %quipment statu:
+Jnd any mjintenance observations
+Use this record
+plan uacoming upkeep and repalrs
+Ensure all satety checks vrere completed during servicing:
+Section _
+Machine
+MC264
+HC?39
+MC777
+MC?21
+NC77I
+HC?72
+Machine
+Assurmuiy
+LGsumiuy
+Paint Booth
+Paint Booth
+Hydraulic
+CNC
+Robot
+Hobot
+Press
+Hacnine
+Senicevypc
+Inspucliom
+Pruvuntivc
+Pruvunivc
+Inspcclion
+Pteventive
+nspeclicn
+Operator
+Carlo:
+Garcia
+Schmiot
+peter Schmidt
+Ian Kowralski
+Carlos Garcia
+Garcin
+Downtime
+Note9
+Replaced
+Reflilled oll
+Changed olll
+Li-Ion battery
+Tightened
+LI-Ion battery
+ccolant_
+{HLF
+and Tiltets
+pack seniced
+lOcsBDoits
+pack genicbd
+Section
+Machine
+MC-27-
+MC-222
+MC-264
+MC-278
+MC-239
+MC-281
+Machine
+Fdraulic
+Paint Booth
+Agsemdly
+CNC Milling
+Assembly
+Paint Booth
+Pross
+3obot
+Machinu
+Ronat
+Semvice
+[ype
+Inspection
+Corrective
+ngpectiot
+Lotreciive
+Inspection
+Corrective
+Operator
+Garcia
+Peter Schmiat
+Anna Nawak
+Anna nowak
+AnnaNotax
+Dowantime
+Notcs
+Li-Tonbutten
+Worneaskot
+Wocden pallet
+Klpnment
+Sensor
+nac<senvichd
+(eplaced;
+cnecked
+6ecalibraled;
+adiustbg
+Flaz amy
+acurnngissu85iOr roct-cause invosupation
+Servicg summaribs av8 peen fory arded to tng eneineerineiBbM
+Refer
+remats toranvtollow-LJp actians
+parts replacements
+Conflim thatall corfective actions wvere properly closed cul, Tnis
+lo3 gumman
+supports theasget-management dashboard: Uge this closure note
+update the maintenance KPI tracker.
+Uptime (%)
+Errorcount
+comment?
+97.2706
+Reulaced tiller
+cminp
+Cerlon
+Cades
+Caron
+Galch
+hunies

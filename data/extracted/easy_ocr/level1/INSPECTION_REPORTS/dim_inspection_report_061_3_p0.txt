@@ -1,0 +1,97 @@
+Inspection performed by Peter Schmidt on 2024-07-06.
+This dataextract
+prepared for quality-control
+sign-off. Use this results summary to trigger ay corrective actions;
+The
+following data captures key dimensions and any deviations identified. This section details the measured values,
+Folcrances
+and status flags.
+Environment?
+Conditions:
+rature: 24.1
+Humidity: 58 "
+Code
+Component
+Measurement
+Nominai
+Observed
+Delta
+Status
+(VIX)
+GL-9805
+Ruuuei
+mickness
+11.06
+10.93
+0.13
+Gasket 80mm
+IY-3SOG
+Hinge Set
+Hole
+40.77
+40.96
++010
+MX- 450L
+Rubber
+Height
+70.9s
+I1OS
++0.0A
+Oaskel
+80rnm
+MS 60OP
+Depth
+83.97
+83.9
++0D
+LP-555v
+Wvooden
+Width
+88.21
+88.02
+0.19
+Pallet
+WD-1805
+Hex Bolts
+Helght
+89.91
+89.96
++0.05
+M1z
+SL-430MM
+Plastic Rivets
+Length
+56.12
++0.02
+CE-905L
+Hinge Set
+Height
+12.25
+016
+FT-730X
+Bearing 6202
+Depth
+87.23
++0.16
+JD-700w
+Rubber
+Inner
+95.99
+95.90
+0.09
+Gaskel
+Dlameter
+Kv-390k
+Plastic Rivets
+Depth
+10.73
+10.85
++0 12
+RX-310Z
+Power Switch
+Wiath
+43407
+Tempen
+Mtem
+Hinge
+somni

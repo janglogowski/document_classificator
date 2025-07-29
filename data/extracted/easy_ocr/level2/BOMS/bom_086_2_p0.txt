@@ -1,0 +1,48 @@
+Customer ID: GREECE
+Prepared by: Peter Schmidt
+Product ID: MX-450L
+Internal No:: 1413490
+Item
+Packaging
+Control Panel
+Clamp Ring
+Control Panel
+Venlilalion
+Description
+Box
+Mount
+120mm
+Mount
+Gnd
+Obx
+315
+885
+235
+449
+VoM
+DCS
+PCS
+Unit Prce
+12.00
+475
+12.00
+5.50
+Amount
+315.00
+10.632.00
+411.25
+2.844-00
+2.514.40
+Remarks
+Swilch lested
+Li-lon battery
+ECO
+ROHS
+Ok
+inslalled
+complliant
+coMpiiani
+TOTAL: 16,716.65
+PCS
+FCS
+BCs

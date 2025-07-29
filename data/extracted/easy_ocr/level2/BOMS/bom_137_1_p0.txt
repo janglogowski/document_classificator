@@ -1,0 +1,50 @@
+COMPONENT BREAKDOWN
+Customer_ID: GREECE
+Coordinator: Anna Nowak
+Dato: 2023-04-15
+ProductID: AL-1150
+Internal No:
+6484460
+Qty: 196
+This extract shows the bill of components and total-projected spend:
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ventilation
+0.64
+109
+39.20
+Imported
+Grid
+Plastic
+1.15
+pcs
+0.20
+9.80.
+imported
+Rivets
+Epoxy Resin
+2.29
+1090
+7.30
+14.60
+High
+grade
+Packaging
+T5t
+200
+pCS
+1,00
+51.00
+Box
+Total Amount:
+114.60
+Approved By:
+Sourcing Department:
+Oide

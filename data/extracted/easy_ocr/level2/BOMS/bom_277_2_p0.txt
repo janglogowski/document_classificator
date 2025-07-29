@@ -1,0 +1,38 @@
+Customer ID: BRAZIL
+Prepared by: Anna Nowak
+Product ID: HF-3904
+Internal No:: 4859873
+The parts manifest here
+cesigned t0 support procurement workflows The componerit roster below
+includes unit costs and batch codes, This summary lists
+item required, with per-unit
+details;
+pricing
+Use this schedule of parts to align with
+and stock leveis.
+Item Description
+Ceramic Disc
+LED Light Strip
+Steel Sheet A36
+Termiinal Block 4P
+BOmm
+aty
+290
+931
+250
+Uom
+Unit Price
+Amount
+609.00
+1,202.50
+655.00
+850.00
+Remarks
+Hinge alignment
+High grade
+Certifled batch
+Switch tested OK
+adjusted
+TOTAL: 7,316.50
+eveny
+sourcing

@@ -1,0 +1,101 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-220
+Cusiamer-
+POLAND
+judenvison
+Peter Schmiat
+Department:
+Painting
+26-02-2024
+Shift:
+iorning
+Machine
+Operation
+Operator
+Start Time
+Total
+Remare:
+duration
+MC-203
+Drilling
+Dawid
+08.30
+09.00
+Recalibrated
+Oszmianczuk
+MC-20}
+Polishing
+Dawid
+13-00
+14.20
+Recalibrated
+Oszmianczuk
+MC-206
+Polishing
+Agnieszka
+12-30
+13.05
+Zielinska
+MC-203
+Drilling
+Mateusz
+07.00
+07;33
+Jarzyng
+MC-203
+Welding
+Anna Nowvak
+10330
+11.20
+Recalibratec
+MC-206
+Polishing
+Agnieszka
+12-15
+12.40
+Zielinska
+MC-203
+Polishing
+Mateusz
+11-00
+12.57
+Jarzvnz
+MC-204
+Welding
+Przemystaw
+12.30
+13,26
+Wasik
+MC-202
+Welding
+Wiktor
+11-00
+12.27
+Recalibrateo
+Kopczynski
+Product
+Planned Output
+Produced
+Qty
+detect
+Qty
+Rejection
+Uwagi
+PL-601Z
+196
+8.84%6
+JD-70w
+261
+Scrap confirmed
+VF-2Z0D
+152
+0.00%
+Scrap confirmed
+Prepared by:
+Anna Nowak
+4pprovec
+Detem
+Schmict
+Date:
+Delay

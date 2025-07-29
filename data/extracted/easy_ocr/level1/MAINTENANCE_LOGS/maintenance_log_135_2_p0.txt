@@ -1,0 +1,86 @@
+Ensure
+saiety checks Wcrc
+comp eted during servicing
+Below"
+Inc summan
+service actions and downtimes for
+each machine
+Confinm that service intervals
+follcuthe
+preventive schedule
+equipment log below includes
+codes and comeclive noles
+This
+recards
+mainlenance aclivilies
+parformed
+the equipmenl
+Spare Parts Used:
+Part Namc
+Pant No.
+Qty Uscd
+Llon
+Battety Pack
+P-1452
+8649
+Hinge Se
+5392
+sensork cdule
+3404
+Machine
+Machlnc
+Servico
+Technician
+downtma
+Previaus=
+Camnmcnis
+Type
+Senice
+MC-240
+Packaging
+Insoccticn
+2024-11-19
+Warn
+Kowalski
+gaskel
+MC-298
+Lathe
+Inspe ction
+2024-10-04
+Refilled ol
+Schmidt
+(HLP 46)
+MC-219
+Plasma
+Preventive
+Carlos
+2025-05-04
+Allgnment
+Cutter
+Garcia
+hinges
+adjusted,
+MC-255
+Plasmia
+Inspeclicm
+Laura RoSSt
+2025-05-29
+Sunsor
+Culler
+recalibrated
+MC-?05
+Plasma
+Preventive
+Peter
+2024-06-27
+Tightened
+Cutter
+Scnmidt
+Icose bolts
+Approved bX;
+Laura Rossi
+senicedD 
+JanKowakki
+Flca
+Topbcud
+Peler

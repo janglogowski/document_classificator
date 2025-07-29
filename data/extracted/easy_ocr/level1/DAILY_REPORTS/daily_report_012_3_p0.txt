@@ -1,0 +1,98 @@
+Production
+Report No:: PR-995
+Customer: BELGIUM
+Shift: C (Night)
+Date:
+30-03-2025
+Equipment
+Operation
+Worker
+Begin
+Total
+Uwagi
+Condition
+Time
+MC-208
+Assembly
+Nadia Sauter
+09-00
+10;.03
+Delay
+Delayed
+MC-?02
+Cutting
+Jan Kowalski
+14-30
+76720
+Delayed
+MC-204
+Polishing
+ankowalsk
+08-15
+08.51
+Delayed
+MC-20B
+Drilling
+Przemystaw
+09.30
+11.23
+113
+progress
+MC-203
+Drilling
+Dhid:
+08.30
+09.09
+Rechlbrated
+procrass
+Oszmianczuk
+NC204
+Polishing
+Magdalena
+11.30
+13.17
+NIA
+Completed
+Witkowska
+The performance recap supports the moming briefing agenda: All production targets have been logged;
+davianons
+highlighted above
+All operatar nates have been archived for revlew. Ensure rOuline malntenance
+between shifts
+maintain consistent output; No critical delays were observed
+piease
+address any minor
+ISSULS naled
+Item ID
+Planned Qty
+Actual Qty
+Rejected
+Rejection %
+Rework Qty
+Remarks
+Qty
+KP-320E
+167
+164
+8096
+Scrap
+confirmed
+OXe
+2 94co
+IL-90OX
+252
+5,9556
+JD-ZOOW
+15.289u
+Scrap
+cantirmem
+SB-140D
+165
+146
+11,5290
+Rework
+needeo
+Approved by:
+Prepared by:
+Log
+Wasik

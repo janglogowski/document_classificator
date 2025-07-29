@@ -1,0 +1,84 @@
+DAILY PRODUCTION REPORT
+Repoit No::
+PR-878
+Customer
+BELGIUM
+Supervisor:
+Laura
+Department:
+Machining
+Dale
+08-04-2024
+Shift:
+Night)
+Equipment
+Operation
+Technician
+Start Time
+Time Spent
+Comments
+MC-203
+Assembly
+Dawid
+08;30
+10.22
+112
+NA
+Oszmianczuk
+MC 207
+Cutting
+Magdalena
+1415
+15.22
+Witkowska
+MC-206
+Polishing
+Piotr
+07:15
+07.49
+Lewandowski
+MC 204
+Drilling
+Magdalena
+08:15
+10.11
+116
+Witkowska
+MC-203
+Drilling
+4mna
+Nowak
+06:00
+06.21
+Recalibratcd
+Item ID
+Planned
+Achieved Qty
+Defect Qty
+Scrap %
+Notes
+Output
+QN-Z70H
+456
+45.38Y0
+Rework needed
+BZ-G60F
+298
+276
+.3856
+Rewanzneeded
+VR-940T
+2956
+Rawvark needed
+SB-14OD
+219
+205
+6.3956
+Scrap
+contirmed
+Prepared by:
+Canos
+Garcia
+Approved by:
+Kowalski
+Rosui

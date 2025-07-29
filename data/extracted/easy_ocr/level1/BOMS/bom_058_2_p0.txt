@@ -1,0 +1,38 @@
+Customer ID: NORWAY
+Prepared by: Anna Nowak
+Product ID: VF-220D
+Internal No_
+4059696
+All entries reflect the latest inventory and supplier rates:
+This summary lists every item required_
+with per-unit pricing details.
+This section outlines the parts_
+unit prices and total amounts for
+assembly. This document provides
+detailed breakdown of all components required for the
+assembly process
+Item
+Battery Pack
+Battery Pack
+LED Light Strip
+Sensor Clip
+Description
+Qty
+287
+683
+487
+500
+UOM
+Unit Price
+Amount
+175.0Q
+17.075.00
+1217,.50
+475.00
+Remarks
+alignment
+Imported
+Imported
+adjusted
+TOTAL: 25,942.50
+Hinge

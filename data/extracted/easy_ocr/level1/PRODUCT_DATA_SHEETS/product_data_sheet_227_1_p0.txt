@@ -1,0 +1,103 @@
+Unit Data Specification
+Praiect:
+XD-Z10R
+Unerna
+9017947
+Prepared Bv:
+Carios Garcia
+Approved By:
+Carlos Garcia
+Location; Plant 34
+Date; 2024-07-05
+Ensure all referenced standards are Up to date. Check that
+material
+SpeCS
+align with
+certifications. Use this
+sheet
+confirm eng
+ineering
+requirements and tolerances
+The parameter register Eelow Includes operating Ilmlts
+ratings, Please reviev' the specifications and material composition listed belov'. This section details the
+configuration and parareter set for the product: This technical overvlew supports the product-release checklist:
+Unit Iype
+Hydraulic Powe
+Unit
+Rated Pressure
+Juu dar
+Hlat Ratc
+30 Llmin
+Supply Voltage
+400
+50 Hz
+Cooling
+Water-cooled
+exchanper
+Service Interval
+12 months
+Type
+Piston Pump
+Motor Power
+11k
+Oil Type
+HLP 46
+Mounting
+Skid base
+vibration
+puds
+Filtration
+10 um retum, 25um
+Noise Level
+$72 dB(A)
+suction
+Charging Time
+Material
+Powder-coated
+Total Weight
+250kG
+Battery Capacity
+10 Ah
+Protection Class
+Working
+10"Cto 50"C
+Dimensions
+LLxWxH)
+1200
+700 * 1100 mm
+Material f Construction:
+Part
+JaS0
+Kherma
+FUS@
+Imic Oridc
+Bearing 6202
+Stainless Stecl 304
+Pover
+Sitcm
+Jolvcrhonate
+Copper
+Pressure Valve
+Brass
+C7171
+Fuse
+Lermic Oxide
+Connector 2P
+Glass-Filled Nylon
+Teflon Tape Roll
+Teflon Tape Roll
+WNcocc
+palct
+Ureated
+PincWNoco
+Capacitor 450
+Aluminum 6061-T6
+Nut M6
+Zinc-
+lated S7ee
+uppller
+Pump
+Frame
+Stce
+Temp
+Range

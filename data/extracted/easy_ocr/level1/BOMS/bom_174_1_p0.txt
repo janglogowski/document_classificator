@@ -1,0 +1,102 @@
+BILL OF MATERIAL
+Customer ID: FINLAND
+Coordinator: Anna Nowak
+2024-05-06
+Product ID: VF-220
+Internal No;; 7360033
+Order Qty; 113
+Review the materials tally for compliance with budget allowances
+The parts manifest here
+aesigned
+support procurement workflows_
+Ensure each component meets the specified quality standards Belowis
+the component
+listing and associated costs for the upcoming production batch:
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+3,36
+148.50
+High
+Bracket
+grade
+Packaging
+10%
+1.00
+45.00
+Eco
+Box
+compliant
+Rubber
+0.55
+4.95
+Stopper
+alignment
+adjusted
+Packaging
+2.18
+1.00
+27.00
+Certified
+Box
+batch
+Ventilation
+0.58
+10%
+5.60
+61.60
+Imported
+Grid
+Ventilation
+2.05
+10%6
+5.60
+201,.60
+ISO
+Grid
+verified
+Digital
+2,22
+15,00
+270,00
+Eco
+Display
+compliant
+Unit
+Rubber
+2,0
+10%
+0.50
+20.00
+Gasket
+export
+8Omm
+Shaft
+1,27
+8.00
+200,00
+500mm
+Set
+0.63
+2.50
+120.00
+Hinge
+alignment
+adjusted
+Ensure this materials summary is reconciled with the purchase order. Totals include estimated over-
+consumption allowances and current unit rates;
+Tota
+Amount:
+098.65
+Approved By: _
+Sourcing Department:
+Date:
+Hinge
+Hinge

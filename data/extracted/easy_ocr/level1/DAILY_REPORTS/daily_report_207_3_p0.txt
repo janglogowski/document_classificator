@@ -1,0 +1,116 @@
+Shift Summary
+Report No:: PR-816
+Customer
+GREECE
+Shift: =
+(Night)
+Date: 14-10-2024
+Equipment
+Operation
+Technician
+Start
+Finish
+Total
+Notes
+Stage
+Time
+duration
+MC-209
+Welding
+Bartosz
+10.30
+12;02
+Recalibrated
+proptess
+Wawrzyniak
+MC-202
+Cutting
+Bartasz
+10.30
+12.19
+109
+progress
+Wawrzyniak
+MC-206
+Polishing
+Piotr
+14.15
+5,33
+NYA
+proptess
+Lewandowski
+MC-201
+Cutting
+Mateusz
+09.00
+10.22
+Completed
+Jarzvna
+MC-205
+Cutting
+Mateusz
+09.30
+11.06
+propress
+Jaizyna
+MC 203
+Welding
+Piotr
+10.15
+10.46
+Delay
+Delayed
+LcandoSki
+MC-205
+Cutting
+Nadia Sauter
+08.30
+09.16
+Recalibrated
+In progress
+FC-/04
+Cutting
+Anna Nowak
+12-00
+137
+progress
+This closure summary
+ignals
+eadiness for the next production run: Record any adjustments
+shift schedules
+or staffing herc. Check material consumption against standard usage rates. Refer to remarks for any rework or
+quality concerns
+Product ID
+Target 
+Actual Qty
+Scrap Qty
+Failure
+Rework Qty
+Notes
+LK-890B
+104
+14,4206
+Rewan
+needed
+RE-85OC
+170
+161
+5.2906
+Rewan
+needec
+Lk-8Yuf
+9,0146
+CN-150C
+234
+5.1306
+Rework
+needec
+MS-GQOP
+257
+12.8496
+Scrap
+contirmeo
+MC-54OX
+9896
+Approved by:
+Prepared by: _

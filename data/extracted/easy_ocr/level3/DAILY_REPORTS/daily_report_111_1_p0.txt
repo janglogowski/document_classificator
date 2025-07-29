@@ -1,0 +1,126 @@
+Shift Summary
+PR-470
+Repon No :
+FINLAND
+Customer
+Anna Nowak
+Supemcor;
+Packaging
+Department
+Date:
+01-10-2023
+Shil:
+M
+Machine
+Operation
+Technician
+Start Time
+Total
+Uwagi
+duration
+MC-205
+Polishing
+Agnieszka
+14,00
+"15.50
+110
+Delay
+Zelins-a
+MC-201
+Drilling
+Nadia Sauter
+08.30'
+09.09
+Recalibrated
+MC-?06
+Welding
+Przemyslaw
+03.15
+09.35
+Wasik
+MC-206
+Welding
+Magdalena
+07,50
+08.51
+Recalibrated
+Witkowska
+MC-207
+Welding
+Nadia Sauter
+14.15
+15.28
+Delay
+MC-205
+Drilling
+Dawid
+1415
+15.35
+Delay
+Oszmianczuk
+MC-202
+Palishing
+Agnieszka
+10.15
+11.41
+NA
+Zielinska
+MC-201
+Welding
+Jan Kowalski
+09.15
+09.53
+MC-201
+Assembly
+Dawio
+13.15
+13.44
+NIA
+Oszmianczuk
+MC-206
+Polishing
+Agnieszka
+06.00
+07.48
+408
+Delay
+Ziellnska
+MC-205
+Welding
+Przemyslaw
+09.00
+10.45
+105
+Delay
+Wasik
+MC-207
+Drilling
+Mateusz
+11.30
+12.27
+Jarzma
+Item ID
+Plarned Ctx
+Produced Qty
+Defect Qty
+Failure
+Remarks
+MC-540X
+218
+188
+13.7690
+Scrap
+confimed
+CE-905L
+140
+1411%
+RM-B6ON
+225
+193
+Scrap
+confimga
+Prepared bX
+Caros Garcia
+Approved DY:
+Peter Schmic
+2236

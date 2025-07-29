@@ -1,0 +1,92 @@
+Production Log
+PR-325
+POLAND
+ReportNa :
+Cusiomer;
+Peler Schmidt
+Supervisor;
+Painting
+Department;
+(Evening
+17-03-2024
+Shif;
+capacity
+efficiency levels. All throughput figuresara
+drive
+continuous
+overview
+assess throughput and
+follow-up: Use this shift summary
+Use this
+incidents are noted for
+planning: Ensure ay downtime
+improvement actions:
+Temp
+Power
+End
+Time
+Comments
+Draw
+Equipment
+Task
+Workor
+Stne
+Time
+Spent
+70.8
+2.91
+NA
+10.30
+MC-202
+Culting
+62.5
+1.70
+Nowak
+08.30
+09.55
+MC 204
+Cutting
+Magdalena
+73.5
+2.41
+Witkowska
+14.29
+119
+Jan
+12.30
+MC-201
+Assembly
+NIA
+67.1
+07:15
+08.04
+MC-208
+Welding
+Maleusz
+76.4
+2.07
+Jarzyna
+Drilling
+Magdalena
+13.30
+2.54
+MC-202
+Wltkowska
+64.1
+14.15
+14.35
+Wiktor
+MC-206
+Polishing
+Kopczyriski
+Laura Rossi
+Prepared by"
+Anna
+Approved bX:
+recorded
+10.58
+Anna
+NIA
+Kowalsk|
+13,51
+Lowax

@@ -1,0 +1,87 @@
+Product Data Sheet
+Project:
+AL-115Q
+Document No::
+4305823
+Prepared
+Kowalski
+Approved By:
+Peter Schnidt
+Location: Plant 2B
+Date; 2024-01-26
+Unit Type
+Hydraulic Power Unit
+perating Pressure
+10 ba
+Fluid Flow
+60 Lmin
+Voltage
+480 
+60Hz
+Protection Class
+Noise Level
+72 dBL
+Dimensions LLxWH
+1200
+700XI10Q mm
+Total Weight
+180
+Motor Power
+Working Temp
+Range
+5*C t0
+45'C
+Service Interval
+1000
+Reservoir Capacity
+Qil Type
+Control Valve
+Proportional 4/2
+Charging Lime
+Battery Capacity
+Frame Material
+Powder-coated Steel
+Filtration
+inline,
+10 pM
+reIrn
+Check that all section headers follow the product template. AIl specifications meet the design requirements
+and industry standards. Use this summary
+cross-check with BOM and inspection reports. Ensure that the
+Iisted materials are approved for he application
+Overall configuration
+within defined design and safety
+margins.
+Material
+Construction:
+Subcomponent
+Raw Material
+Fuse 5A
+Ceramic Oxide
+Support Foot Stee
+Stainless Steel
+Ring NBR GOmm
+Nitrile Rubber (NBR
+ncci
+A36
+Carbon Steel 436
+Sraonic
+Pad
+Graphite Pad
+Jearino
+6202
+Stainless Steel 304
+Cooling Gel Pack
+Silicone Rubber
+ressure
+Brass CZ12
+Capacitor 450
+Aluminum 6061-T6
+Lighl
+Glass-Filled Nylon
+Tellon Tape Roll
+Tellon Tape Roll
+Baltery Pack
+Lithiun-Io1 Cel
+Pack
+VaNve

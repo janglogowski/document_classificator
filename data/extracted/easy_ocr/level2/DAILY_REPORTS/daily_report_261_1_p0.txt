@@ -1,0 +1,117 @@
+ReporNa:
+PR-620
+Custome
+BRAZIL
+Supersot:
+Jan Kowalski
+Depattment:
+Packaring
+Dele:
+08-08-2023
+Shilt:
+(Morningi
+Machine ID
+Operation
+Technician
+Stam Time
+Finish
+Total Time
+Comments
+MC-z07
+Prilling_
+Nadia Sautet
+Te5
+14.15
+HC-204
+Assemou
+Bantosz
+13.15
+13-55
+Recelibrated
+Wanzynlak
+HC-201
+Assemoly
+Nadia Sauici
+06.00
+05-59
+MC-203
+Drilling
+Przemy stani
+14.15
+16-04
+109
+Was
+HC-207
+Welding
+Agnieszka
+05.15
+07.53
+Zielinsk8
+HC 202
+Cutting
+Wanktor
+09.30
+11214
+Recalibrated
+Kopczynaki
+HC-203
+Drilling
+Bartosz
+09.15
+10.36
+Wewtzyniak
+MC-207
+Welding
+Davd
+03-00
+09.32
+Delay
+Oszmianczuk
+HC203
+Cutting
+Kowalski
+13n
+de]
+HC-205
+Welding
+Kowaiski
+08.30
+07.46
+MC-209
+Drilling
+Przemy siaw
+1200
+13.43
+103
+Wasi *
+Item ID
+Target Qu
+Ptaduced
+Defect Qty
+Failure
+Notes
+Ce-9o5L
+12.6180
+Rewvonk needed
+SL-430M
+235
+210
+10.6486
+iCtam
+Conttted
+MC-N0X
+244
+219
+10.2510
+Rewvork necded
+SB-I40D
+280
+279
+0.3694
+contirmed
+Prepared DE
+Laura Ross
+udorovcc
+Lnne
+Nowak
+scap

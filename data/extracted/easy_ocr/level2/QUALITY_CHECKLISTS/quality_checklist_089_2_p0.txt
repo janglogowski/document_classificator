@@ -1,0 +1,79 @@
+Inspection Record
+Plaase ravlew gach checklist point and mgrk the
+samplingresults. This checklist captures quallty inspection
+points and sampling levels, Archive this list in the quality-management system: This section details quality
+raqulrements ard test palnts fortho batch:
+Product ID
+PW-SISY
+Eustomcr md
+POLAND
+Ttum Descnption
+Stainless Bolt ME
+Inspection Checklist Points
+Semple
+Defect Class
+Remarks
+Deslgn Specs
+Hulo
+Functionait lcshaiec
+Lava
+Minor issuo obseived
+Carton is damaged
+markings
+cvicu
+Level II
+Needs
+incerrect
+Connector
+notworking
+Nerds
+Rviaw
+L0o3e
+Dome
+ineide
+packazing
+Dead
+live insect
+packeging
+Levam
+inconeci Daicone
+adel
+LeVA
+Minar
+ssue Qbseived
+Rubber Switch not working
+LAVAI
+Minor iSsue obsenved
+Woad splinter
+Snr6p
+poirit =
+Level|
+Critical impact
+droquct
+Paint smexring Or scratchas
+Level Il
+Critical impact
+Missing distrlbuto
+Intontialon
+Level
+Cructl
+Impact
+Exposed na
+wlth sharp point
+LOVC
+Critical impact
+rUo'
+LeC
+ticalimpact
+Incorrect rientation
+LCVC
+Crrical impact
+Shipping mark is illegible =
+Lovlill
+misging
+Missing l0go
+warning label
+evel|
+Supervisedby:
+Cate:
+Hinees

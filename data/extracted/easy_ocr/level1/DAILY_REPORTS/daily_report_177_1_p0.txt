@@ -1,0 +1,86 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-192
+Cusiamer-
+FINLAND
+supenvison
+Carlos Garcia
+Department'
+Quality Control
+05-2025
+Snitt:
+(Night)
+Machine
+Task
+Worker
+From
+Enmtime
+Duration
+Notes
+(min)
+MC-209
+Welding
+Magdalena
+08.15
+09.24
+Witkowska
+MC-205
+Polishing
+Piotr
+13-00
+14.27
+Delay
+ndowski
+MC-202
+Cutting
+Piatr
+12-30
+13.27
+Recalibrated
+Lewandovski
+MC-202
+Drilling
+Wiktor
+13.00
+14,16
+Delay
+Kopczynski
+MC-2O1
+Welding
+Dawid
+08.30
+09.17
+Oszmianczuk
+MC-207
+Welding
+Nadia Sauter
+14.00
+15,01
+N/A
+Pant ID
+Target Qty
+Achieved Qty
+Scrap
+Scrar
+Comments
+RX-3IOZ
+10.15%0
+Rewor needed
+PLGUIL
+40570
+RlwOIKnecucd
+pl-6ul
+contirneo
+WD-1805
+105
+4107
+Rework needed
+TX-820v
+1 4547
+Prepared by:
+Peter
+Schmidt
+Appraved by:
+Laurd Rosse
+Date
+ScTap

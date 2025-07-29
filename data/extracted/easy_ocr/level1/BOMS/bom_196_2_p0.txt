@@ -1,0 +1,47 @@
+Customer ID: FRANCE
+Prepared by: Peter Schmidt
+Product ID: TR-ZOOB
+Internal No:: 7828615
+AIlline-item costs are current as per vendor quotes
+Use this breakdown to verify =
+sourcing and cost
+estimates. This extract shows the bill of components and total projected spend. This summary lists
+every item required
+with per-unit pricing details. The parts manifest here
+designed
+support
+procurement worktlows_
+Item
+Digital
+Power Switch
+Spring
+Bearing 6202
+Battery Pack
+Description
+Display Unit
+Washer M1O
+Qty
+885
+667
+488
+UOM
+pcs
+Unit Price
+15.00
+Amount
+13,275.00
+800.40
+5.55
+393.00
+200.00
+Remarks
+Switch tested
+Hinge
+grade
+Switch tested
+ROHS
+alignment
+compliant
+adjusted
+TOTAL: 26,673.95
+High

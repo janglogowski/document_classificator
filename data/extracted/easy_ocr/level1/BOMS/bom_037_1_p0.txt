@@ -1,0 +1,112 @@
+BILL OF MATERIAL
+Customer ID: GREECE
+Coordinator: Anna Nowak
+Date:
+2024-03-20
+Product ID: RX-3102
+Interna
+No.
+3367881
+Order Qly: 216
+Ensure each component meets the specified quality standards. This section outlines the parts_
+unit prices and tota
+amounts for assembly. Please review the itemized Iist of parts and material
+specifications before procurement: All entries reflect the latest inventory and supplier rates:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Protective
+0.71
+10%
+1.80
+68.40
+Imported
+Sleeve
+s0mm
+Power
+0.61
+0%0
+pCS
+1,20
+34.80
+Imported
+Switch
+Insulation
+1.38
+DCS
+3.20
+41.60
+Eco
+Foam Pad
+compliant
+Protective
+0.33
+29/
+1.80
+88.20
+ROHS
+Sleeve
+compliant
+50mm
+Clamp Ring
+2.07
+0%
+pCS
+1,75
+71.75
+Switch
+120mm
+tested
+OK
+Packaging
+pCS
+1,00
+16.00
+Certified
+Box
+batch
+Gasket
+3.01
+pcs
+1.25
+5.00
+Sheet 44
+Shaft
+3.07
+10%
+pCS
+72.00
+For
+s00mm
+export
+Wooden
+1.56
+0%0
+pCS
+15.00
+675.00
+Pallet
+alignment
+adjusted
+Copper
+2.94
+10%
+0.60
+7.80
+High
+Wire 3mm
+grade
+Total
+Amount:
+080.55
+Approved By:
+Sourcing Department:
+8,00
+Hinge

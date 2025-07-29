@@ -1,0 +1,71 @@
+Measurement Summary Sheet
+insductor
+Carlos Garcia
+Inspection Date
+2024-08-14
+Anticle No
+Fk-730X
+GL-9805
+IX-820V
+IRZOOB
+CH.7ZOJ
+Component
+Shaft
+Power
+Sel
+Power
+GL-980S
+KI9OK
+somm
+Swilch
+Hinge Sel
+Hinge Sel
+Rubber
+Swrilch
+Gasket
+Measurement
+Thickness
+Height
+Widin
+Hole
+Hole
+B0mm
+Inncr
+Unner
+rardet
+42.44
+32.80
+39,34
+Diameter
+Diameter
+Actual
+42.50
+32.60
+25.15
+26,.34
+Diff
+39418
+12.60
+25.26
+26.14
+34.59
+10,06
+20.16
+Pass Fail
+0.20
+Confirm thal pass rates meet Ihe defined acceptance criteria . Ensure status
+flags are updated
+the quality
+management system: Components failing inspection require Immediate review and corrective action:
+Instrument Calibralion Log:
+Instrument
+Serial No;
+Last
+Calibration Date
+Caliper
+50094
+2024-10-10
+Caliper
+56519
+2025 02-07
+Hinge

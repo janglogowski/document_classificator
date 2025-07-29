@@ -1,0 +1,131 @@
+Maintenance Checklist Report
+Performed On: 2024-05-02
+Approved bX;
+Laura Roszi
+scnviced Dy
+Pccr Schmldt
+This mainlenance extract
+prepared
+compliarcu audit tralls. Reler
+Ine maintenance feg sler Ior
+uulallyd suiiC
+hstorles
+Check lhal all downtlme events
+are properly calegorized and logged. Entries Include wcrk orders , technician
+a3sionmens
+and pan changes
+Belo
+3umman
+senvice
+actions and downtimes
+for each machine
+Section A:
+Machine
+Mc-285
+MC-214
+KC-209
+MC-287
+MC-278
+MC-284
+Machine
+Paint Booth
+Plasma
+As3em Diy
+Conveyor Belt
+Aasemoik
+Laine
+Robot
+Rohot
+Lype
+Inspcction
+Inspeclicm
+Inspuclam
+COMCClivc
+Prcventlve
+Preventive
+Operator
+Reter Schmidi
+AnnaNcva:
+Laura Rossi
+Caros Garcia
+aln
+ROss
+Lamta
+Rosi
+Duration
+Calibration
+Switch
+Svatch
+tgnteneo
+Li-Ion battery
+check Ok
+contacis
+contacis
+ionse poits
+nack
+cleaned
+Cleaned
+seniced
+Seclonb;
+Machlne
+MC 209
+MC 278
+MC 284
+MC 294
+MC 285
+MC 274
+Machine
+Aesembi
+4sfemni
+Laine
+Convevc
+Belt
+Paint Bcoth
+Kycraulic
+Robat
+RCoot
+Press
+pteveniive
+Lcrective
+Inpection
+Cameciive
+Insnection
+Preventive
+Operator
+Lamm
+Carlos
+Schmidt
+Schmict
+Garcia
+Sarcia
+puration
+Notes
+Worn
+gasket
+Wocden
+sensor
+Calibration
+Changed oill
+Wocden
+rep acad
+pallet
+recalbrated;
+check OK.
+and filters
+pallet
+checked.
+checked
+Uptime
+Error Count
+Notes
+97.5782
+Replaced Tter
+Cutler
+Noles
+IyPe
+Rossi
+Gaici
+Pcter
+Peter
+Carlor
+Carlor

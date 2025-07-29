@@ -1,0 +1,92 @@
+Report No;;
+PR-757
+Custamer:
+BRAZIL
+Supervisor:
+Carlos Garcia
+Department:
+Assembly
+@ate
+10-202
+Shift:
+Night)
+Machine
+Task
+Worker
+From
+Duration
+Remarks
+(min)
+MC-207
+Welding
+Kenieszt8
+14,00
+14.33
+NA
+Zieliiska
+MC-207
+Cutting
+Wiktor
+13.00
+1422
+Recalibrated
+Kopczynski
+MC-207
+Cutting
+Przemystaw
+13;00
+14.17
+Wasik
+MC 207
+Assembly
+Piotr
+06.00
+07.22
+Recalibrated
+Lcwandowse
+MC-204
+Welding
+Wiktor
+S;Su
+15.12
+102
+Recalibrated
+Kopczynski
+MC 201
+Welding
+Jan Kowalski
+09.15
+10 26
+Part ID
+Planned Qty
+Actual Qty
+Scrap Qty
+Scrap
+Notes
+KP-320E
+249
+10.1196
+Rewanzneaded
+AZ-3001
+13.3895
+Pawans
+needed
+ZR-2OSR
+236
+200
+15.2590
+Rewark needed
+PW-51SY
+710.7890
+Pewannecded
+WD-180S
+226
+225
+0.4490
+Scrap
+conmnmied
+Prepared
+Lamta Possi
+Approved by:
+Laura
+Rossi

@@ -1,0 +1,46 @@
+Inspection Checklist
+Archive this Iist in the quality-management system
+Confirm that sampling levels comply with customer
+agreements. This closure summary indicates compliance with inspection criteria_
+This section details quality
+requirements and tes
+points for the batch: This summary supports the production-release quality gate:
+Check that inspection steps follow the approved procedure.
+Product ID
+HF-390A
+Customer ID
+GREECE
+Item Description
+Stainless Boit MB
+Quality Check Itoms
+Inspection
+Classification
+Remarks
+Depth
+Design Specs
+Critical
+Major
+OnHold
+Exposed nail with sharp
+Needs review
+point
+Rubber Switch not
+Level
+Critical impact
+working
+Visual defect on housing
+Leve
+Critical impact
+Not assembled as per
+LevelIlI
+Needs review
+drawing
+Hinges
+oos8
+Needs review
+Loose parts inside
+Level Il
+packaging
+Supervised by:
+Date:
+Minor

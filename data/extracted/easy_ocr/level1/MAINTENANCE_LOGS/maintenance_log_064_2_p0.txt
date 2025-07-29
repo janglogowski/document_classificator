@@ -1,0 +1,80 @@
+The equipment Iog belo  includes fault codes and corrective notes
+Below =
+the gummar'
+SeMice actiong and downumos
+for cach muchinc  Cnuck tnut all downtime
+vunts arc properly categorized und
+Plcuse revicv' this IoE; fcr recent
+aenice date 9
+lype9
+anoFemer?
+The following entries
+preventive and corrective maintenancetasks
+Spare Parts Used:
+Pan Name
+pant No
+Qty Used
+4ensar Nadule
+P-4940
+Li-Ion Battery Pack
+P-2UbF
+P-41838
+-5b6u
+Code
+Equipmtent
+Type
+Operalor
+Duralion
+Lar Check
+Area
+commeni?
+MC-208
+pId " Ma
+Inenectinn
+Anna
+2024-08-23
+Replncen
+cuuer
+cualani
+MC-249
+Lathe
+Tnenecncn
+2023-09-09
+Worn gasket
+Kotvalgen
+replacec
+MC 250
+Li;sumbly
+Prevuntive
+Pulur
+2024.01441
+Nu iSsuu
+Robot
+Schmiat
+omno
+MC-279
+Hydraulic
+Canfuctiva
+Arnai
+2024-05-29
+Press
+Vowak
+MC-?03
+Lathe
+Pceveniive
+Laura Rox%i
+2025-03-02
+Li-Ian
+battery
+senvicco
+Approved DY
+Lancs
+Latcib
+Senviceddy:
+Canos Gaicia
+okzed,
+Hngo
+Hinge
+Dnt
+Konal
+'pagk

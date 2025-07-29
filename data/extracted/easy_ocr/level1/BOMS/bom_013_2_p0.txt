@@ -1,0 +1,42 @@
+Customer ID: NORWAY
+Prepared by: Peter Schmidt
+Product ID: FT-730X
+Internal No:: 1183161
+Use this schedule of parts t0 align with sourcing and stock levels_
+Use this breakdown t0 verify
+sourcing and cost estimates_
+The following table summarizes the materials and quantities needed
+for the current project: This document provides
+detailed breakdown of all components required
+for the assembly process
+Belaw
+the component listing and associated costs for the upcoming
+praduction batch:
+No
+Item
+Protective
+Power Switch
+Control
+Panel
+Wooden Pallet
+Description
+eeve summ
+Mount
+Qty
+366
+984
+808
+UOM
+pcS
+Unit Price
+Amount
+658.80
+853
+808.00
+12.120,00
+Remarks
+Urgent
+Certified batch
+Certified batch
+TOTAL: 25,440.00
+pCS

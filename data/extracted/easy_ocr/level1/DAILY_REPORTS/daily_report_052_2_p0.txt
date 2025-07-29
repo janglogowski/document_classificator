@@ -1,0 +1,78 @@
+Report
+PR-610
+Custamer:
+GREECE
+Supervisor:
+Rossi
+Department:
+Logistic:
+Shift:
+(Morning)
+10-09-2024
+Usethis Ovenview
+assess throughput and etficiency levels
+Reviev' the operational data
+track compliance
+with daily goals. Use this shift summary to drive continuous improvement actions_
+Muchine
+Task
+Operator
+Starn
+Total
+Notes
+Thermal
+powur
+Time
+Time
+Reading
+Draw
+MC-206
+Assembly
+Anna Nowak
+09.15
+10.10
+69.3
+1.75
+MC 201
+Polishing
+Dawid
+11:15
+11.36
+Recalibrated
+77.3
+2.09
+Oszmlaniczuk
+MC-203
+Drilling
+Przemystav
+14.15
+16.11
+116
+77.2
+1.45
+Wasik
+MC-206
+Welding
+Przemystav
+12.15
+13.22
+76.9
+2.45
+Wasik
+MC-202
+Polishing
+12.30
+14.29
+119
+Recalibrated
+61.0
+2.10
+Laiandovski
+Prepared
+Janowalsk
+Approvedby:
+Kowalski
+No;:
+Laura
+Piolt
+Dy:

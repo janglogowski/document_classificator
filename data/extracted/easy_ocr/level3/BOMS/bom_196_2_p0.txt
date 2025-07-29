@@ -1,0 +1,45 @@
+Customer ID: FRANCE
+Prepared by: Peter Schmidt
+Product ID: TR-2OOB
+Internal No:: 7828615
+AIl line-item costs are current as per vendor quotes: Use this breakdown to verify sourcing and cost
+estimates:This extract shows the bill of components and total projected spend. This summary lists
+every item required, with per-unit pricing details. The parts manifest here is designed to support
+procurement workilows
+No
+Item
+Digital
+Power Switch
+Spring
+Bearing 6202
+Battery Pack
+Description
+Display Unn
+Washer M10
+Qty
+885
+667
+262
+488
+UOM
+pCS
+Unit Price
+15.00
+25.00
+Amount
+13.275.00
+800.40
+5.55
+393.00
+12,200.00
+Remarks
+Switch tested
+Hinge
+High grade
+Switch tested
+ROHS
+alignment
+OK
+compliant
+adjusted
+TOTAL: 26,673.95

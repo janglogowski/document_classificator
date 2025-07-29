@@ -1,0 +1,88 @@
+Maintenance Checklist Report #7612562
+Date: 2023-09-09
+Kacnint
+Equipment
+Iync
+Opcrato
+Duration
+Commcnt 
+MC-Zu/
+FlasMe
+Cutter
+Preventive
+Carlos Carcia
+Plant 1C
+Replaced
+cdolnni
+MC-Z4B
+Assembiy
+Corrective
+Jan Kow"Biaki
+Plant 1C
+Chaneed DIl
+Ronal
+and Iltets-
+NC-251
+CNCMiluna
+corroctive
+Laura
+Rosyi
+Plant 2B
+NoSSUBS
+Nache
+alnc
+MC-246
+Fidraulic
+Preventive
+Anna Nowak
+Plant 1C
+Li-Ion batter
+Press
+pack seniced
+MC-281
+Plasria
+Cutur
+cunfucic
+Pclur
+Schmidt
+Changed dil
+and tiltems
+NC-762
+CNC Mllling
+Lortective
+Catos
+Gaicis
+Plant ?8
+Nignment
+Hachine
+ninpeg
+adjusted
+MC-21O
+Laser Cutter
+Corrective
+Laura Rogi
+Fant IC
+Wooden paller
+checked
+MC-253
+Kssembiy
+Insp Bction
+Jan Kowalaki
+Flant IC
+Mehteneo
+Ronat
+Homaedui;
+Overall equlpment condltlon
+satistactory post-malntenance. Service %ummarles have
+Deentonuanded
+2npineecing
+team
+No critical faults were found during the latest inspection. This log summary supports the asset-management
+dashboard
+Lubrication Checker
+Callbiation Verilled
+Emergenc aiop
+2RTed
+Signed off:
+Perfonmed by:
+Fan -

@@ -1,0 +1,84 @@
+Verification
+The following table outlines inspection
+criteria ano
+classification levels
+All checklist entries are timestamped
+for traceability. Please review each checklist point and mark the
+samplingresults. Below are the items
+Venitieo
+during the final product review.
+Product ID
+VF-220D
+Customerd
+POLAND
+Item
+Description
+Heat Sink ALU
+Audit Criteria
+Sample Tier
+Severity
+Observatlons
+Specs
+OO5€
+Minor issue observed
+Incorrect quantity or
+Minor issue observed
+USocu
+Visual
+delecton
+housing
+LCVCi
+Minor issue observed
+Dead
+Mive insect
+packaging
+Levei
+Paint smearing or scratches
+Levei
+Needs reviev'
+Missing satety labels
+Leva
+Critical impact
+Functionallly test lailed
+IBUA
+Critical imipact
+Missing distributor Information
+Level
+Needs revlev"
+product size
+LCUC
+Mnorssh
+Obscrco
+Not assembled a8 per drawing
+LevE
+Minor issue observed
+Sharp edges on plastic
+Level /
+Critical impact
+components
+Shipping mark is illegible
+Level II
+missing
+Rubber
+Fexture
+glossiness
+Minor issue observed
+mismatch
+Missing IOgo or warning label
+Level l
+Minor issue observed
+Incorrectharcode
+abe
+Package
+sealed
+Level III
+Critical impact
+comdietely
+Battery notincluded
+Needs reviev'
+Supervised by:
+Date: _
+Log
+Desien
+Hinges
+Wrong

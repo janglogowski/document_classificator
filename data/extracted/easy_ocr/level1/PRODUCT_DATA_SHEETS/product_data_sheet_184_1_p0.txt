@@ -1,0 +1,88 @@
+Unit Data Specification
+Project:
+MR-160H
+Interal No
+PR-414
+Prepared
+Carlos
+Gancia
+Approved By:
+Carlos Garcia
+Location: Plant 34
+Date: 2025-06-22
+Configuration Type
+Cooling Circulation
+Design Pressure
+210 bar
+System
+Throughput
+75 Umin
+Voltage
+400 V IS0Hz
+Frame Materal
+Stainless Steel Frame
+Control Valve
+Proportional 4/2
+Service Interval
+500
+Qil Type
+HLP 68
+Type
+Piston Pump
+Motor Power
+5.5kW
+Charging Time
+Dimensions
+(LxWxH)
+1000
+650 * 1000 mm
+Battery Capacity
+5 An
+Protection Class
+IP54
+Working
+Range
+to 50"C
+Mounting
+Wall-mounted
+Confirm that all test conditions are accurately represented. Refer 
+parameter table for operating ranges
+olerances_
+Use this summary
+cross-check with BOM and inspection reports. Check that all section
+headers follov the product template
+AII specifications meet the design requirements and industry standards:
+Material of Construction:
+Subcomponent
+Raw Materia_
+eflon Tape Roll
+Jellon_/ape Roll
+Capacitor 450V
+Aluminum 6061-76
+nerma
+Fuse
+Ceramic Oxide
+Support Foot Stee
+Stainless Steel 304
+Gaeke
+Sheet A4
+Nitrile
+Rucber
+Hinge Sec
+Stainless Steel 304
+Wiring
+Loom
+Rigid
+Fuse 5A
+Ceramic Oxide
+Pressure Valve
+Brass CZ12
+Nut M6
+Zinc
+lated Steel
+Insulated Tube 2Smm
+Themoplastic Polyurethane (TPU)
+Cable Tie Pack ( 100}
+Nitrile Rubber (NBR 
+Pump
+Temp:

@@ -1,0 +1,76 @@
+Component Dimensional Check
+Supervisor
+Peter Schmid
+Inspection Date
+2025 03-09
+Use Inis results summary t0
+any corrective aclions. Entries include bolh passifail markers and
+deviation magnitudes
+Check that all dimensions comply with ISO and company standards. This summary
+measurements supports metrology traceability: Below are the recorded measurements compared
+nominal tolerances:
+The following data captures key dimensions and any deviations identified.
+Article No.
+MC-540X
+MS-600P
+CE-905L
+VR-940T
+CN-150C
+HF-390A
+TX-820V
+Part Name
+power
+Battery
+Wooden
+Plastic
+Hex Bolts
+Plastic
+Wooden
+Swllch
+Pac:
+Pallel
+Rielc
+M12
+Riels
+Pallei
+Wim;
+Height
+Width
+Thickness
+Thickness
+Thickness
+Width
+Width
+Target
+18.60
+64,98
+90,70
+76,86
+30,18
+3314
+Ooscrvcd
+19778
+40.89
+Delta
++0.15
+T0U
+Pass/Fail
+Refer
+deviation column for any out-of-tolerance measurements:
+This assessment reflects the latest
+metrology results. This closure memo confirms that dimensional checks are complete_
+Instrument Calibration Log
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+64213
+2024-09-28
+Laser
+Scanner
+45090
+2024-09-16
+trlgger
+against
+0.13
+0.11

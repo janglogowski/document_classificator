@@ -1,0 +1,72 @@
+BILL OF MATERIAL
+The parts manifest here is designed to support procurement workflows. This summary lists every
+item required, with per-unit pricing details_
+Ensure each component meets the specified quality
+standards_
+Refer to this parts register t0 plan raw-material purchasing: All entries reflect the latest
+inventory and supplier rates_
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+pcs
+9.80
+Urgent
+Rivets
+Battery
+25.00
+750.00
+grade
+Pack
+Hex Bolts
+0.25
+3.75
+ROHS
+M12
+compliant
+Stainless
+pCS
+0.35
+0,70
+Urgent
+Bolt MB
+Steel Sheet
+5.00
+70.00
+Li-Ion
+A36
+battery
+installed
+Shaft
+pCS
+8.00
+288.00
+SKF brand
+500mm
+Insulation
+pCS
+3.20
+44.80
+ROHS
+Foam Pad
+compliant
+Rubber
+pCS
+0.55
+18.70
+Imported
+Stopper
+Customer ID: CREECE
+Coordinator: Peter Schmidt
+Date: 2025-03-19
+Product ID: HF-390A
+Internal No.
+7251883
+Order Qty: 328
+Total Amount:
+185.75
+High

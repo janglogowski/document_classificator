@@ -1,0 +1,78 @@
+Inspection performed by Laura Rossi on 2024-04-02.
+Item Code
+Part Name
+Mcasuremeni
+Target
+actuai
+Diff
+Status
+(ViX)
+BZ-660F
+Bearing 6202
+Width
+44.42
+44.56
++0.14
+AL 1150
+Bearing 6202
+Thickness
+44.17
+44-23
++0.06
+TX-820v
+Graphite Pad
+incr
+64.99
+65.00
++0.01
+Diameter
+XD- T10R
+Shaft 50mm
+ner
+74.39
+74.48
++0.09
+Diameter
+ON-770H
+Shaft S0Omm
+Leneth
+69.86
+69.66
+NE-2454
+Graphite Pad
+Inickness
+012
+TY-350G
+Hex Bolts
+Depth
+68,96
+0Cg
+M12
+MC-540X
+Power Switch
+wicth
+50.08
+50.06
+0.02
+ZR-2OSR
+Rubber
+Width
+28,44
+28.55
++0.11
+Gaske
+80mm
+VR-940T
+Battery Pack
+Hole
+47.55
+47.72
++0,7
+Mc-540X
+Hex
+Thickness
+25,45
+25.55
++0,10
+M12
+Bolts

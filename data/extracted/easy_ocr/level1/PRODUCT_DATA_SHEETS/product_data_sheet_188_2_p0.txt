@@ -1,0 +1,71 @@
+Unit Data Specification
+Below are the technical parameters and construction materials for the unit. The following information
+outlines performance characteristics and design data; The parameter register below includes operating limits
+and ratings_ Ensure all referenced standards are up
+date. Refer to this configuration summary for unit-
+designation mapping;
+Product
+ON-7ZOH
+niera
+PR-375
+Prepared by: Laura Rossi
+Approved by: Carlos Garcia
+Date: 2023-11-28
+Model Type
+Hydraulic Power Unit
+Rated Pressure
+300 bar
+Fluid Flow
+30 Lmin
+Operating Voltage
+400
+50Hz
+Pump Type
+Piston Pump
+Working Temp: Range
+5PC t0 45
+Noise Level
+72 dBIA)
+Frame Material
+Aluminum Frame
+Control Valve
+Manua
+Override 3/2
+Filtration
+10 uum return, 25 pm
+suction
+Dala sheet
+been peer-reviewed by Ihe engineering tean; Ensure Ihat Ihe Iisted malerials are approved
+for the application: Archive this summary for future design-change management This closure note indicates
+the data sheet is ready for release: Use this summary to
+CoS?
+~check with BOM and inspection reports
+This
+summary reflects the latest revision of the product data;
+Matena
+Construction:
+Labci
+Base
+Power Switch
+Polycarbonate
+Copper
+Battery Pack
+Lithiim
+on Cell 
+Digita
+Display Unit
+ABS Plastic
+Ring NBR 60mm
+Nitrile Rubber (NBR)
+Fuso 5A
+Ceramic Oxide
+Hinge Set
+Stainless Steel 304
+Support Foot Steel
+Stainless Steel 304
+Wooden Pallet
+Treated Pine Wood
+Rubber Gasket 80mm
+Nitrile Rubber (NBRE
+has
+Pacr

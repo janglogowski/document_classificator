@@ -1,0 +1,127 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-154
+Customer
+GREECE
+Shift:
+(Night)
+Date: 16-10-2023
+Machine
+Operation
+Operator
+From
+Mime
+Remarks
+Stage
+Spent
+MC-206
+Assembly
+Wliktor
+07;00
+07.31
+Completed
+Kopczynski
+MC-204
+Assembly
+Wiktor
+09.30
+10.37
+Recalibrated
+In pragress
+Kopczynski
+MC-207
+Cutting
+Nadia Sauter
+12.15
+13.37
+propress
+MC-204
+Welding
+Piatr
+06.00
+07.48
+108
+Recalntaten
+Completed
+Lewandowski
+MC-208
+Drilling
+Beriost
+07:30
+08.54
+Completed
+Wawrzyniak
+MC-207
+Cutting
+Dawng
+07:15
+08.03
+Delay
+Completed
+Oszmianczuk
+MC-206
+Assembly
+Agnieszka
+14,00
+15.22
+NYA
+Completed
+Zielinska
+MC-208
+Cutting
+Dawng
+03u
+11;59
+Recalncaten
+Completed
+Dszmianczuk
+Verify the linal
+counts @Kainst
+ Inventory records
+Check material consumption against standard usage rates
+This clasure summary
+ignals readiness for the next production run_
+Ensure shitchandova
+nates include any
+pendine
+Ssue5
+Confirm
+scrap percentages align with quality benchmarks
+Ensure routine maintenance
+betveen
+shifts
+maintain consistent output:
+Item ID
+Planned Qty
+Produced
+Defect Qty
+Rejection %
+Reworked
+Remarks
+Qty
+Units
+SB-I4OD
+208
+180
+13.4656
+confirmed
+RX-3102
+118
+116
+69n0
+Scran
+contirmed
+DX-7771
+261
+238
+8196
+Raware
+needed
+XK-61OU
+132
+3.7900
+Rewan
+needed
+Approved by:
+Prepared by:
+thut
+Scrap

@@ -1,0 +1,68 @@
+QC Checklist
+This checklist captures quallty Inspection paints and sampling levels
+Please revlew each checklist polnt and mark the
+sampling results, Ensure all non-conforming marks are clearly documented, Use this extract
+coardinate
+'sign-off
+with the Q4 manager. Entrics Include both visual and functional Inspection items:
+Product ID
+TL 900X
+custamcrId
+GREECE
+Item Description
+Kudder
+gjsket
+80mm
+Review Points
+Sample Mer
+Severity
+Notes
+Item
+Specs
+Critical
+Major
+Minor
+OnHold
+product dpesnt pDwer
+Levelu
+Critical impact
+Batenenakuncludeo
+Level
+Critical (mpacl
+Rubber texture
+OSSIness
+Leveli
+Critical impact
+mismatch
+Unstructon mnanua
+Mssing
+Level II
+Needs revlew
+damaged
+Carton
+daraged or
+Levell
+Critical impact
+Markinps incartect
+Dead
+live insect
+Level !
+Critical impact
+packaging
+Shipping mark Is Illegible or
+Critical impact
+missing
+edges
+Minor issue observed
+components
+Incorrect arientation
+Levemm
+Critical impact
+Missing distributor
+Level!
+Minor issue observed
+intarmatior
+Supervised bv:_
+sharp
+plastic
+Date:

@@ -1,0 +1,93 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-603
+Customer
+FINLAND
+Supervisor:
+Jan Kowalski
+Department:
+Painting
+@ale
+24-06-2025
+Shift:
+(Moming)
+Equipment
+Operation
+Operator
+From
+Finish
+Totalnme
+Nores
+HC-208
+Welding
+Dawid
+10.00
+11;59
+119
+Oszmianczuk
+HC 209
+Drilling _
+Jan Kowalski
+10:15
+1,40
+Recanotaied
+HC-201
+Drilling
+Nadia Sauter
+10.15
+1412
+Recalibrated
+MC-201
+Cutting
+Bartosz
+06:15
+08.02
+Delay
+Wauyniak
+MC-207
+Drilling
+Wiktor
+11315
+12.59
+104
+Delay
+Kopczynski
+HC-204
+Cutting_
+Nadia Sauter
+Tis
+1238
+Recamotatem
+Item ID
+Planned
+Actual Qty
+Defect Qty
+Rejection %
+Notes
+Output
+NE-2454
+271
+0.0096
+Scrap
+contirmed
+KV-390k
+105
+5.7156
+BZ-GSOF
+263
+7.9896
+TX-820V
+292
+259
+11.3038
+PL-6012
+235
+225
+4.2690
+Scrap
+contirmed
+Prepared by:
+Peter Schmidt
+Approved DY:
+Laura
+Rossi

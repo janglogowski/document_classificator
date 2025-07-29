@@ -1,0 +1,77 @@
+BOM Report
+Customer ID: SWEDEN
+Coordinator: Anna Nowak
+Date: 2025-06-21
+Product_D KP-32QE
+Unternae
+3920108
+Order Qty:251
+Below is the component listing and associated costs for the upcoming production batch_
+Ensure
+each component meets the specified quality standards
+Refer t0 this parts register t0 plan raw-
+material purchasing:
+Item
+Consumption
+Extra
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+2.45
+5%/
+0.25
+8.00
+Switch
+M12
+lested
+OK
+Spring
+1,02
+0%
+pCS
+0.05
+1.40
+ISO -
+Washer
+verified
+M1o
+Heat
+2.79
+0%0
+2.70
+89.10
+Resistant -
+alignment
+Sleove
+adjusted_
+Stainless
+3.23
+1096
+pCS
+0.35
+16.45
+High
+Bolt M8
+grade
+Set
+0.95
+10%
+pCS
+2.50
+60.00
+Li-Ion
+battory
+Inslalled
+Tota
+Amount:
+174.95
+Approved By;
+Sourcing Department:
+No_
+pCS
+Hinge
+Hinge

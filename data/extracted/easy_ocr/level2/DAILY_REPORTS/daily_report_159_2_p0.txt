@@ -1,0 +1,78 @@
+Shift Summary
+Repart No;
+PR-769
+Custoner:
+GREECE
+Supervisor:
+LavaRcssi
+Department;
+Painting
+Onitt
+AMorning)
+09-06-2025
+The followiTg data captures productian targets;
+aciuU
+aulput, Bnd any davialians. Thls dashboard section
+highlights any production bcttlenecks, Please revievi tod8ys operation lcg and output summary for each
+workstation.
+Muchine
+Operatlon
+Operator
+Sturt
+otal
+Cominenie
+Thermal
+Energy
+Time
+dureticn
+Reading
+Used
+MC-209
+Polishing
+Dawid
+09.00
+10.10
+Recalbfatad
+65.9
+T-17
+Oszmianczuk
+MC-209
+Drilling
+Przemysta 
+08.15
+08-04
+109
+74.7
+2.66
+Wasik
+MC-205
+Aagambly
+Bartosz
+07.15
+09:14
+119
+79.4
+1-67
+Wawizvniak
+MC-?09
+Polishing
+Piotr
+11;15
+19-17
+75,4
+1.31
+Le  andow ski
+MC-209
+Cutting
+Dawid
+07.30
+08.59
+60.9
+2.50
+Oszmiarczu 
+Preparedby;
+Paier
+Schmidt
+Approveo
+Jano  alyki
+Delay

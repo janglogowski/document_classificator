@@ -1,0 +1,88 @@
+Tolerance Check
+Inspector
+Inspection
+LUra Roxs
+2024-06 07
+Use this
+SUrmany
+trigger =
+corrective
+specifications This
+presents
+actions. Review recorded tolerances
+dimensional measurements
+against
+engineering
+inspection results,
+Product Ret
+Component
+PL-6Q1Z
+S8-1400
+Ruohet
+FLzz0X
+Jallet
+BZ G6QF
+Mcasurement
+Haller
+Wlcrth
+0-Ring NBR
+Width
+66 So
+Heighr
+Observed
+66.43
+Dilt
+61.12
+12.51
+Pass /Fail
+T0.2
+S01o
+~0-0z
+Confirm that pass
+Tates meer
+the defined acceptance crltena
+mejsuring tools
+uer
+any components requiring
+measurements
+properly calibrated. Refer _
+deviatlon
+column for any
+out-of-tolerance
+Instrument
+Log:
+Instrument
+Serial No_
+Micramieter
+45428
+Calibration Date
+878B8
+2025-05-25
+CMM
+2024 08 07
+98054
+2025-06-09
+2025
+Date
+rewults
+Fepon
+Guret
+MR-I60k
+'Sheet
+Bom
+Wooden
+Wooden
+Nomina
+sOnm
+12 4J
+Depln
+75 46
+50-73
+adiusment
+Elze =
+@nsutc
+re-machinina
+Calibratlon [
+Micromelet
+Calliper
+L0;02

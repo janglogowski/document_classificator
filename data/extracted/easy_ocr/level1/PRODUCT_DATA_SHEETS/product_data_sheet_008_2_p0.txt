@@ -1,0 +1,80 @@
+Product Overview
+This data sheet provides key specitications
+Materio
+details. The parameter register below includes operating
+limits and
+This technicae
+overvicw supports the product-rclease checklist: All data entries are traccable
+design revisian histary. Use this sheet
+contirm
+engineering requirements and tolerances
+Below are the technica
+parameters
+andconstriction materials torthe unit-
+Product ID
+GH-770]
+Document No:
+9418804
+Preparec
+bv; Peter Schmiat
+Approved by: Carlos Garcia
+Date; 2024-03-15
+Mladei
+Type
+Pneumatic
+Contral Unit
+Operating Pressure
+300 bar
+Flow Rate
+75 Lmin
+Supply Voltage
+60Hz
+Charging _
+Mme
+Battery Capacity
+Cantrolvane
+Directiona
+Working
+10'C to 50c
+Motor Powcr
+Cooling
+Water-cooled exchange
+Document contro
+mumocrs JIC
+included for traceability. Use this summary
+cross check with BOM and inspection
+reports
+This summary reflects the latest revision ofthe product data: This closure
+note
+indicates the data sheet is
+rejdutor
+lejse
+Data sheet has been peer-reviewed by the engineering
+Tejm
+Material of Construction:
+Label
+Base
+Support Foot Stee_
+Stainles: Stee
+~arbon
+Steel 436
+Cable Tie Pack (100j
+Mitrile
+Rubber INBR
+Powe
+Swvitcn
+ponate
+copper
+Heat Sink ALU
+Aluminum 6061-T6
+Teflon Tape Roll
+Teflon Tape Roll
+Hex Bolts M1Z
+Zinc-Plated Steel
+and
+ratings.
+Temp:
+Range
+Stec
+Snec"
+Ponc

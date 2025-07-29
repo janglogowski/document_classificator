@@ -1,0 +1,88 @@
+BILL OF MATERIAL
+Customer ID: NORWAY
+Coordinator: Laura Rossi
+Date: 2024-01-08
+Product ID; BZ-G60F
+InteraiNo
+4095271
+Order Qty: 185
+This extract shows the bill of components and total projected spend: Use this breakdown t0 verify
+sourcing and cost estimates;
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Copper
+0,60
+27.60
+Wire Jmm
+Rubber
+2,52
+10%6
+pCS
+0,55
+19.25
+Stopper
+Plastic
+pCS
+1,10
+18.70
+SKF brand
+Cover
+150x150
+Plastic
+0.51
+pcs
+0.20
+4.40
+Hinge
+Rivets
+alignment
+adjusted
+Copper
+2.72
+0%6
+0.,60
+25,20
+High
+Wire 3mm
+Frade
+Plastic
+2.81
+0,20
+6,00
+Imported
+Rivets
+Bearing
+1,18
+1,50
+37.50
+Urgent
+6202 Z2
+Copper
+0,47
+0,60
+24,00
+For
+wire 3mm
+export
+control
+1,14
+pcs
+12,00
+588,00
+Li-Ion
+Panel
+battery
+Mount
+Installed
+Total
+Amount:
+750,65
+Approved By:
+Sourcing Department;

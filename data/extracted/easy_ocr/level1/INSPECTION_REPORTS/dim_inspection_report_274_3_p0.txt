@@ -1,0 +1,108 @@
+Measurement Summary Sheet
+Inspection performed by Laura Rossi on 2024-09-01,
+Item Code
+Component
+Nomina
+Actuj
+940T
+Graphite Pad
+Delta
+Status (VX)
+Hole
+55.28
++UI6
+Ms-60OP
+Power Switch
+Height
+43.63
+SR-I4OD
+Graphite Pad
+Height
+28.17
+28.13
+VF-ZZOD
+0-Ring NBR
+Depth
+34.65
+34,80
+10,15
+Wmm
+NU-4402
+Wooden
+Thickness
+40,49
+40.47
+0.02
+Pallet
+RX-3IOZ
+Graphite
+Width
+33.43
+33.59
++U16
+ON-7Z04
+Power Switch
+Depth
+34,05
+83.83
+TL-9ooX
+Wooden
+Width
+93.70
+93.60
+0.10
+BZ-660F
+Wooden
+Wicth
+7,26
+7.45
+40 19
+Pallet
+GL 9805
+Shaft SQQmm
+Hole
+57.17
+57.20
+T0.03
+GH-770J
+0-Ring NBR
+Length
+83,61
+83,79
+Gomm
++0.18
+AZ 300T
+Hex Bolts
+Height
+37.92
+37.82
+0.10
+M12
+AZ-J0OT
+Shatt SWmm
+Depth
+63.06
+63.16
++U,10
+TX-320v
+Pack
+69,66
+TDaC
+HF-3904
+Rubber
+Hole
+87.77
+87.71
+~0.06
+Gasket 8mm
+CE-905L
+Sheet
+Depth
+15,11
+15,09
+0.02
+AJG
+Rad
+Battery
+Hcren
+Ste

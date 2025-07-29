@@ -1,0 +1,135 @@
+Equipment Record Report
+Performed On: 2024-10-30
+Authorized bx;
+Carlos Garcia
+OcGralor
+Laura Rossi
+Entries include work
+Dlaus
+lucinican asstunmunts
+Durt chunacs
+Check Ihal :
+dowme uvunts are propeny
+caluaOlzuc
+logged_ This mainlenarce extract Is prepared
+Ior comiplan CC
+audit tralls. This service summary
+SUDJONS
+reliability engineering review, Refer
+maintenance
+register for detailed service histories
+Section A:
+Machine
+MC-241
+MC-2
+MC-210
+MC-285
+MC-246
+MC-217
+Machine
+Paint Booth
+Paint Booth
+As3em Diy
+Paint Booth
+Packaging
+Laine
+Robot
+Iype
+Inspcction
+curccuivt
+Preventive
+COMCclivc
+Preventive
+CCCCUvC
+Technician
+Carlas Garca
+Carlos Garcia
+Anna Nowak
+Caros Garcia
+Reter Schmidi
+Laua
+RORE
+Downtime
+Comments
+Calibration
+palieny
+Alignment
+Calibration
+Tightened
+check Ok
+Dack
+hinges
+check Ok
+nose noms
+spniceo
+adjusted
+Sectlon B:
+Machlne
+MC210
+MC 285
+MC 246)
+MC 217
+MC 241
+MC 2Z7
+Machine
+Assembly
+Paint Boath
+Packaging
+Lathe
+Paint Bcoth
+Paint Booth
+Robat
+Line
+Lype
+pievenive
+Preventive
+Prevenve
+Comeciive
+Comecive
+Preventive
+Technician
+Caros
+Garcia
+Carlos
+4ara
+Kowalski
+Schmid]
+Nowval
+wownumic
+Commentg
+Tightened
+Rejiaced
+Cnanded Mi
+Refilled oil
+Nooden
+Icose bolts
+fuse (SAI-
+and filters
+(HLP 461-
+pallai
+chacku
+Maintenance
+note E
+archived
+for compliance
+audits  No critical faults were fcund during the latest inspection ,
+equipment condilion
+satislactory
+@os-maintenance
+maintenance lasks have
+oean comolaled
+schecule
+Confirm that
+corective actons wcre prcperly closed out:
+Uptlme (%)
+Etor Count
+Notes
+97.452
+Replaced fllter
+Unt:
+L-on
+Garciu
+Ross]
+Peter
+JAnna
+Orern

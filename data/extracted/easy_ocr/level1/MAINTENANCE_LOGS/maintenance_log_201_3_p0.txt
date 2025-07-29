@@ -1,0 +1,102 @@
+Maintenance Checklist Report
+Performed On: 2023-11-07
+Approved bX;
+Anna Nowak
+Scniccdb"
+Carlos
+Garcia
+This
+oq fecorus
+maInlenance
+JCUVILIL -
+perorcu
+UM LML
+equiprnenL Chuck lhal all downlira events
+Oropciy
+calegorized ard logged_ Confirm Ihal service
+Intervals (ollow the
+preventive schedule. Thls service summary
+SuppOrs MIC
+reliability engineering
+Teviev
+secton captures
+equipment status and any maintenance observations
+Section A:
+Unit Code
+MC-299
+KC-225
+MC-230
+MC-294
+Machine
+Packaging Line
+Laser Cutter
+CNC
+Milling Machine
+Hydraulic Press
+Iype
+Prevuniive
+cucreclive
+Prevenuvu
+Correclve
+Technician
+Peter Schmidi
+Peter Schmidt
+Anna Nowak
+Carlos Garcia
+Duration
+batiery pack
+Refilled oil (HLP 46}.
+gnteneo
+0038
+58 Viceo
+bolte
+Section B:
+Unit Code
+MC-230
+HC-294
+MC-299
+MC-225
+Machine
+CNC Miling Machine
+Hycraulic Press
+Packaging Line
+Laser Cumter
+Pretenive
+Provenlivc
+PiovenG
+Inspecllon
+Technician
+Peter Schmidti
+Larios Garcid
+Jan Kowa
+ochmidi
+Duration
+Natcs
+RedacedeusC
+(54).
+Rcolacec coalant
+Tightened
+cose
+Lion
+battery pack
+polts
+Eeniced
+log summary
+suppors tne asset-management dashboard
+All maintenance durations
+GCC Ced tor pertcfmance
+Merncs
+Checi
+remaining life-cycles
+key comporants from this report;
+Uptime
+Error Count
+Notes
+95.7888
+Ruoiaced
+Tni3
+Notes
+L-on
+Type
+Peter
+Tnl,

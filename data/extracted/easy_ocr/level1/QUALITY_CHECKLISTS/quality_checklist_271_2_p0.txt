@@ -1,0 +1,89 @@
+Quality Checklist
+Refer
+quality register far sampling-plan references; All checklist entries are timestamped for
+traceahility; The
+following table outlines inspection criteria and classification levels Belov are the items
+be verified during the final
+product review. Check that inspection steps follaw the approved procedure, This checklist captures quality inspection
+sampling levels; Use this list
+contirm adherence
+AQL and safety standards;
+Product ID
+SB-140D
+Customerd
+NORWAY
+Item Description
+Lmintn
+Bracket
+Audit Criteria
+Sampling
+Classification
+Obsenvations
+Leve
+Specs
+Rubber texture
+Blossiness
+Minor issue observed
+mismarch
+Deac
+live insect
+packaEQG
+Levp
+Needs
+revieu
+Mis Sing satety labels
+Leve
+Cartan
+damagec
+markings
+Minor issue Dbserved
+incorre
+Packaging daes
+not match signed
+Needs review
+sample
+Visual defect on housing
+Lev
+Critical impact
+Screws Ipose
+missing
+Not assembled
+per drawing
+Minor Ksue DbseNed
+Morec
+barcouC
+aoel
+Mior ISsuC ObsLNvCu
+'dds
+pule
+inside packaging
+Criticlmdact
+Dustldebris inside
+Duckupine
+Leve
+Uncorrect orientation
+Critical impact
+eoees Dn
+plastic
+Level Il
+Minor issue observed
+components
+Connector not
+working
+Minor issue observed
+Functionality test failed
+Level
+Critical impact
+Wrone
+product size
+Level
+Hinges
+cos@
+leve
+Necde
+I
+Supervised by:
+Date: 
+points
+Mtcm
+snamp

@@ -1,0 +1,90 @@
+COMPONENT BREAKDOWN
+Customer
+NORWAY
+Coordingtor
+Peter Schmidt
+Date: 2023-11-05
+Product ID; DX-7771
+8868043
+Order Qty; 258
+The following table summarizes the materials and quantities needed for the current project. Ensure each
+component meets the specified quality standards, This section outlines the parts, unit prices and total
+amounts for assembly: This summary lists every item required, with per-unit pricing details.
+Inem
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ventilation
+0.51
+10%
+5.60
+95.20
+Imported
+Grid
+Hex Bolts
+1.82
+0.25
+11.00
+High
+M12
+grade
+Copper
+3.27
+10%6
+0.60
+6.60
+ROHS
+Wire 3mm
+compliant
+Clamp
+2.14
+1.75
+75.25
+Hinge
+120mm
+alignment
+adjusted
+Ventilation
+2.,03
+5.60
+39.20
+Urgent
+Grid
+Wooden
+2.62
+10%6
+15.00
+660.00
+Pallet
+Clamp
+1.48
+1.75
+89.25
+Urgent
+120mm
+Bearing
+0.69
+10%6
+1.50
+78.00
+ROHS
+6202 ZZ
+compliant
+Final amounts include handling and logistics costs where applicable: Cross-verify totals with the ERP
+system for consistency. Please confirm supplier lead times to ensure timely
+delivery of all items This
+ciosure 5umman
+validates that all parts are approved for release:
+Total Amount:
+054.50
+Approved By:
+Sourcing Department:
+Intetna
+No;
+Ring
+Ring

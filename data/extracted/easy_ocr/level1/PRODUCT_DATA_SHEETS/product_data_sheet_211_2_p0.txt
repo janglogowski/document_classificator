@@ -1,0 +1,72 @@
+Product Data Sheet
+This data sheet provides kev specifications and material details. Refer
+this configuration summaryy for unit-
+designation mapping: Please reviewv the specifications and materia
+composition Iisted
+Entries include both
+Mechanica
+und
+lectrical specifications
+Check that ;
+material specs align with supplier certifications.
+Product ID;
+XD 710R
+Document
+No:
+PR-594
+Prepared bY: Carlos Garcla
+Approved by: Laura
+Rossi
+Date: 2024-05 26
+Unit Type
+Pneumatic Control Unit
+Pressure
+250 har
+Flow Rate
+30 Ltnin
+Operating
+Voltage
+400
+50 Hz
+Capacity
+2 An
+Charging Time
+Filtration
+[Cturn
+25 pmn
+Dimensions (LxWxH)
+1000 ,_
+650 * 1000 mm
+sucrian
+Nake eve
+70 dB(4]
+Ensure glossary terms match the engineering nomenclature
+Material choices and pracess data have been veritied
+compliance Refer
+Parameter table for
+operating ranges and
+tolerances Check that all section headers-
+follow the
+product template:
+summary comments have been recorded
+the revisian log- Confirm that all test conditions
+accurately represented_
+missing parameters for urgent specification updates
+Material of Construction:
+Label
+Base
+Heat Sink ALU
+Aluminmm
+6061-16
+Rubber
+Gaskel Somm
+Nitrile Rubber (NBRI
+Gaske
+Sheet
+Nitrile Rubber
+(NBRI
+belov.
+Rated
+Battcny
+J0 um
+Flab

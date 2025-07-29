@@ -1,0 +1,97 @@
+Product Data Sheet
+ProjecE
+CE-905L
+Document No::
+2889989
+Rrepared
+Caios Garcia
+ApprqvedBL
+Caios Garcia
+Location: Plant 1C
+Date
+2024-05-23
+Reier
+tnis coniiguration summary ior unit-designation mapping- The parameter register below includes
+operaling limits ad
+Please review the specifications and material composition Iisted below. Confin
+that performance ranges comply with project requirements 
+Unit Lype
+pdraulic Rouer Untt
+Rated Pressure 
+250 bar
+Fluid Flow
+48 Umin
+Supply Voltage
+400 VIS0ttz
+Battery Capacity_
+5Ah
+Oil Type
+HLR 68
+Working TempRange
+=0 Cto 50C
+Motor Power
+LSkW
+Resenvoir Capacity 
+160_
+Total Weight
+250kq
+Frame Materia
+Stainless Steel Frame
+Mounting
+Rackframe
+Dimensions (LxWxH)
+1000
+650-
+1000MM
+Charging Time
+Filtration
+VM inine;
+10 VM
+Service Interval
+12 months
+retum
+Protection Class 
+IP65
+Noise Level
+68 @BIA)
+Control Valve
+Directional4/
+Cooling
+Air-cooled oil radialor
+any missing parameters for urgent specification updates Ensure that the Iisted materials are approved
+for the application This summary reflects the latest revision 0f the product data. Confimm that all test
+conditions are accurately represented
+This closure note indicates the data sheet i5 ready for release_
+Material choices and process data have been verifed for compliance. AlI summary comments have been
+recorded in the revision lg
+Matenal
+Construction:
+Labe
+Composition
+Rubber Gasket 8Omm
+Nitrle Rubber (NBRI
+LED
+Stp
+Glass
+Ied Nion
+Nut M6
+Zinc-Plated Steel
+Gasket Sheet A4
+Nitrle Rubber (NBRI
+Digital Display Unit
+ABS Plastic
+Capacitor AE0V
+Auminum 6061-16
+Pressure Vale
+Brass CZ121
+Miing Loomim
+PVC
+Fuse 54
+Ceramic Oxide
+BatteM-Pack
+Lnium-ion
+Cel Pack
+ratings
+Flag
+Loht
+Rad

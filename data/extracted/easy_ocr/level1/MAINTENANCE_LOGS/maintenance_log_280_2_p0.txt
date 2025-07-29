@@ -1,0 +1,127 @@
+Equipment Record Report
+2025-05-18
+The equipment
+Deicwncinoes ami coo8sandCcecve
+Dorgs
+The following entries
+detail orevenine
+Jno conecine
+mainienance [a8k9
+Ensune
+sately checks  ere compieled during seivicing
+eler
+Ihe mamntenance(ecisier i0i
+cetalled
+senvce histones
+Uga tnia recoro
+planupcomin
+upkeBp an rBPBirs
+Inig gectioncapiures equipmeni status bn &n4
+rnilinienaince Obsemvillions,
+Spare Parta Uqed;
+Part Name
+Part No
+Uzed
+Sonsor Module
+-2958
+Unit Code
+Equipment
+Type
+Technician
+Downtime
+Previous
+Notes
+Scnvicc
+MC-275
+Fydraulic
+Preventive
+2024-1ia8
+Worn gasket
+Piess
+Kowalsk
+reuaced
+MC-263
+Plasma
+Preventne
+Launa
+Posi
+2023-10-28
+Replaced
+Cucr
+Tuscisai
+MC-208
+Lathe
+antne
+Carlos
+2023-09-20
+Worn Basket
+Garcla
+reqiacec
+MC 204
+Lasur Cutter
+Corroctn=
+Carlos
+2024-04-77
+Li-on
+bantery pac:
+sonvicoo
+MC-207
+Lasercutter
+Correctne
+eter
+2024-07-0
+acan
+Schmidt
+tuseSf
+MC-755
+Fydraulic
+Correctne
+Peter
+707z-0S-06
+Worn gasket
+Plujs
+Schridi
+fcpacec
+MC-227
+Lasercutter
+Correctn s
+2024-06-10
+Alignment
+Kowalaki
+0t hindus
+adIsIAC
+NC779
+Convavd
+Inspecton
+Peler
+Sne
+T-o
+wonden
+Belt
+Schmidi
+paller
+ChBCBO
+MC-2us
+Paint Booth
+Freventie
+Anna
+2025-03-26
+Replaceo
+Navilk
+fusu(52
+MC-ZS2
+CNC Milling
+Freventie
+Anna
+ZUz0-U8-18
+Changed
+Hachint
+Navik
+Jndufiltens
+Sianeo Omt:
+JanKow"Biaki
+pertommed
+Anna Noutek
+0
+Garck A
+Red

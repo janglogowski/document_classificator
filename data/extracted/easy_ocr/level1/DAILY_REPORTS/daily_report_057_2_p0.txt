@@ -1,0 +1,97 @@
+Shift Summary
+Report No;
+PR-820
+Customer:
+FINLAND
+Supervisor:
+Peter Schnidt
+Department:
+Logisuics
+Shift:
+(Night)
+02-03-2023
+Machine
+Task
+Worker
+Begin
+End
+Time
+Notes
+Thermal
+Power
+Time
+Spent
+Reading
+Draw
+MC-207
+Welding
+Anna Nowak
+08.15
+09.06
+77.5
+MC-209
+Polishing
+Bartosz
+13.15
+14.15
+Delay
+79.8
+2.60
+Wawzyniak
+MC-202
+Welding
+Piotr
+06.30
+08.29
+119
+76.9
+Lewandovski
+MC-202
+Welding
+Bartosz
+12.00
+12.42
+61.7
+2.98
+Wawzyniak
+MC-207
+Polishing
+Magdalena
+07.30
+09.10
+100
+Recalibrated
+55.9
+1,.26
+Witkowska
+MC-202
+Polishing
+Mateusz
+08.30
+10.27
+117
+70.2
+1.48
+Jarzyna
+MC-202
+Cutting
+Piotr
+09.00
+10.02
+OK
+62.2
+2.35
+Lewandovski
+MC-203
+Drilling
+Nadia Sauter
+11330
+13.22
+142
+Recalibrated
+57.8
+224
+Prepared DX:
+Carlos Garcia
+Approvedby:
+Jan Kowalski

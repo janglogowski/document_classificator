@@ -1,0 +1,50 @@
+Unit Configuration
+This technical overviev" supports the product-release checklist. Entries include both mechanica
+electrical
+specifications. Ensure all rcferenced standards are up
+date: This section details the configuration and
+parjinetci
+set for the product; Refer to this configuration summary far unit-designation mapping;
+Product ID
+VF-220D
+Document No:
+PR-821
+Prepared bv: Ian
+Koivalski
+Approved by: Laura Rossi
+Date: 2024-06-02
+Unit Type
+Coolling Circulation
+Operating Pressure
+300 bar
+System
+Flow Rate
+60 Lltin
+Supply Voltage
+400
+50 Hz
+FraMc
+iaterial
+Kuminui
+Frame
+Oil Lype
+HLP 68
+Protection Class
+Noise Leve
+70 dBIA
+Check that all sectian
+headers fallow the product
+Document cortro
+numbers are included for
+traceability-
+Use this summary
+cnoss -
+check with BOM and inspection reparts
+Archive this summary far future design-change
+management: This summary reflects the latest revision of the product data. All summary
+comments
+have been
+recordec
+the revision log:
+and
+temp

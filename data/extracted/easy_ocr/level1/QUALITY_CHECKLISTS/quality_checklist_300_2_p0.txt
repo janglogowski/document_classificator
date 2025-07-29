@@ -1,0 +1,83 @@
+Quality Checklist
+Below are tne items
+be verified during the final product review. Use this extract t0 coordinate sign-off with
+the QA manager: This closure summary indicates compliance with inspection criteria
+Archive this Iist in the
+quality-management system:
+Product ID
+WD-
+80S
+Customer ID
+FINLAND
+Item Descrption
+Digital Displax Unit
+Review Points
+Inspection
+Classification
+Remarks
+Depth
+Design Specs
+Critical
+Major
+Minor
+OnHold
+LOOSC
+parts inside
+Level Il
+Critical impact
+packaging
+Dead
+live insect
+Needs review
+packaging
+Missing distributor
+Crilical impact
+injormaton
+Color mismatch
+Level
+Critical impact
+Packaging does not
+Minor issue
+Level IlI
+match signed sample
+Obsenved
+Package
+not sealed
+Minor issue
+Level IlI
+completely
+observed
+Minor issue
+Wrong product size
+Level IlI
+Obsened
+Instruclion inanual IS
+Level |
+Missing
+damaged
+Incorrect quantity or
+Level IlI
+Critical impact
+assortmenl
+Paint smearing or
+Level Il
+Needs review
+scratches
+Rubber Switch not
+Needs reviev'
+working
+Shipping mark is illegible
+Level Il
+Critical impact
+or missing
+Carton
+damaged or
+Critical impact
+markings incorrect
+Connector not working
+Critical impact
+Battery not included
+Level
+Needs reviev
+Supervised by:
+Date:

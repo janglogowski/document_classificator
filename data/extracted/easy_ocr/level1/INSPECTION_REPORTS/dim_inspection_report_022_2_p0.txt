@@ -1,0 +1,78 @@
+Inspection Results Summary
+ecnnician
+Laura Ross
+Inspection Date
+2024-09-09
+AlI measured values are limeslamped for audit purposes. Below are the recorded measurements compared
+against nominal tolerances_
+Check that all dimensions comply with ISO and company standards:
+Entries
+include both pass/fail markers and deviation magnitudes; Use this results summary to trigger any corrective
+actions:
+Article No.
+Kv-39OK
+RE-850C
+BZ-660F
+RE-B50C
+CE-905L
+ZR-2OSR
+Part Name
+Power
+Graphite Pad
+Steel Sheet
+Battery Pack
+Battery Pack
+0-Ring NBR
+Scch
+A36
+6Omm
+Measurement
+Hole
+Length
+Hole
+Width
+Inner
+Inne
+Diameter
+Diamcter
+Nominal
+54.06
+69.52
+9.08
+66.42
+Actua
+69.35
+66,.38
+4743
+34.70
+Delta
+40.20
+0.17
+0.03
+004
++0 18
+4011
+Pass/Fail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+This assessment reflects the latest metrology results
+any components requiring re-machining or
+adjustment Record any measurement anomalies for follow-up analysis.
+Components failing inspection
+require immediate reviev and corrective action;
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+16278
+2024-14-1
+Laser
+Scanner
+35637
+2024-07-25
+Flag :

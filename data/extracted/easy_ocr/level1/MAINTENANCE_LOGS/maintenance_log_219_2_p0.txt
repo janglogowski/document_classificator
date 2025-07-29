@@ -1,0 +1,72 @@
+Maintenance Checklist Report
+2024-12-02
+Refer -
+the maintenance register for deta lled service histories
+Ensure all safety check$ were completed
+dunno
+servicing:
+This log reccrds
+all maintenanca activites performed
+the equipmeni
+Entries include work orders
+Technician
+ignments
+changes. Use lhis record
+upcoming upkeep and
+Altechnician cornmncnis ac
+recorded for maintenance trend analysis,
+Pads Used:
+Part Name
+Pant No
+QUy Used
+DilFier
+P7436
+Machine
+Equipment
+Type
+Operator
+Downtime
+Last Cneck
+Site
+Notes
+MC 225
+Hycraulic
+Carfcmve
+Lauma Rosa
+2025-02-03
+Remlaced
+Prcs?
+ccalant
+MC-269
+Paint Booth
+Inspection
+2024-11-02
+3cao
+Schmidi
+ccoiant
+MC-214
+Laine
+Corrective
+Laura Rossi
+2023-07-19
+Li-Ici
+battery
+pack
+sewiced
+MC-284
+CNC Milllng
+coricclivc
+canos
+2024-06-02
+Rcplaced
+Machinu
+Galcu
+Approved DX'
+Carlos Garcia
+Serviced by:
+Peler Scnmiol
+plan
+[epalns
+Sparo
+Peier
+Rep

@@ -1,0 +1,48 @@
+Unit Data Specification
+Project:
+MS-6O0P
+Report No.
+3398984
+Prepared
+Laura Ross_
+Approved By:
+Laura
+Rossi
+Location: Plant 34
+Date; 2024-06-08
+Unit Type
+Hydraulic Power Unit
+Rated Pressure
+250 ba
+Throughput
+48 Lmin
+Voltage
+230 VISOHz
+Filtration
+Umi inline
+10 pm
+Noise Level
+68 dB(A)
+remrr
+Frame Materal
+Aluminum Frame
+Dimensions (LxWxH)
+200
+Z0Ox1100 mm
+Contron
+Valve
+Directional 4/3
+Reservoir Capacity
+420
+Pump Type
+Gear
+Pump
+Total Weight
+230
+Charging Time
+Oil Type
+HLP 32
+Protoction Class
+IP65
+Cooling
+Air-cooled oil radiator

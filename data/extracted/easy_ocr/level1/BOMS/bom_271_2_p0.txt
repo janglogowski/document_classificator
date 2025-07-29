@@ -1,0 +1,42 @@
+Customer ID: FINLAND
+Prepared by: Laura Rossi
+Product ID: TR-ZOOB
+Internal
+9077560
+Item
+Fuse 54
+Plastic Rivets
+Digital
+Aluminum
+Plastic Cover
+Description
+Display Unit_
+Bracket
+150x150
+Qty
+116
+321
+233
+732
+134
+UOM
+Unit Price
+15.00
+110
+Amount
+34.80
+64.20
+3,495.00
+294.00
+147.40
+Remarks
+ROHS
+Urgent
+Urgent
+Eco
+ROHS
+compliant
+compliant
+compliant
+TOTAL: 7,035.40
+No::

@@ -1,0 +1,120 @@
+Maintenance Checklist Report
+Performed On; 2023-07-26
+Autholzed D7:
+tutt
+Nowak
+Opurator
+Luura Rosi
+This servicu summury supports thereliability cngincering reviuw. Uso this $ urnmary
+{orucist narte renlaccmcntand
+cesqurce needs
+Check that all downtime events are properly
+categorized and loEged
+Use this recorg
+DlanupcoMing
+Upkucp und (cpaing
+following entries detal
+preventive and corfective maintenance tasks
+Ensure aIl salety checks wrere
+completed during semcino
+Soction A;
+Hachine ID
+MC-277
+NCZ
+MC-235
+MC-270
+MC-228
+MC-201
+Hechine
+CNC Milling
+plasme Cunter
+Conveyor Belt
+CNC
+Millng
+palni
+plarme
+Machine
+Machine
+Type
+Coieciiva
+cotteclive
+canfeciive
+Preventive
+Corrective
+Inspecton
+Tochnicinn
+Anna Noivak
+Schmidi
+Cnrlos Garcin
+Jnn Kownlski
+Jan Kovaki
+alm
+Rossi
+Duration
+Notes
+Sensor
+Changed oil
+Alignment
+Replaced
+Worn Gasket
+Replaced
+re Calilbrated
+bnd tilterg
+ninpe 5
+cociant
+raplacad
+coolent
+adluste d
+Section
+Nachlne
+MC-235
+MC-271
+MC-228
+MC-266
+MC-270
+MC215
+Hichinu
+Conveyor Belt
+Plasmia Cutter
+Paint Dooth
+Hydraulic
+CNC Milling
+Lathe
+Machine
+Type
+Coireciive
+Prevenuive
+Preventive
+Inadection
+Cofrecive
+Corrective
+Tuc hnician
+Annu Noivuk
+Lulru Ross
+Pclur
+Schuidt
+Pulur Schmidt
+Puter Schmidi
+Curios Gafcii
+Duration
+Notes
+Changed oll
+Remlied qil
+chteneo
+Wocden dallel
+Wain easket
+Li-Ianbanten
+anduitors
+THLP 46
+lonseholts
+Cncckdo
+rcnlacod
+dackGemicCo
+Uptime (% 
+Etror Count
+Comnments
+97.8340
+Rupluced Mecm
+Boatn
+Cultel
+Pres?

@@ -1,0 +1,98 @@
+DAILY PRODUCTION REPORT
+Report No:
+PR-922
+Customer:
+TURKEY
+Supervisor:
+Jan Kowalski
+Department:
+Painting
+Shift:
+(Morning)
+27-05-2025
+Machine
+Operation
+Operator
+Stant
+End
+Total
+Comments
+Temp
+Energy
+Time
+Time
+duration
+Used
+MC-209
+Polishing
+Jan Kowalski
+12.00
+12.38
+OK
+70.8
+1.12
+MC-204
+Nadja Sauter
+14.30
+16.12
+102
+57,0
+1,31
+MC-204
+Assembly
+Magdalena
+06 00
+06.59
+67,4
+2,56
+Wilkowska
+MC-208
+Culling
+Magdalena
+12.15
+13.05
+Ok
+66.9
+Witkowska
+MC-205
+Welding
+Bartosz
+08.30
+08.50
+NVA
+61,6
+2.16
+Wawrzyniak
+MC-207
+Polishing
+Przemyslaw
+12.15
+13.06
+NIA
+72.3
+2.17
+Wasik
+MC-204
+Welding
+Magdalena
+06.30
+08.20
+110
+Recalibrated
+70,0
+1,50
+Witkowska
+MC-203
+Drilling
+Dawid
+07.00
+07.40
+77.8
+1,37
+Oszmianczuk
+Prepared by:
+Jan Kowalski
+Approved by:
+Lauid
+Rossi
+Drilling

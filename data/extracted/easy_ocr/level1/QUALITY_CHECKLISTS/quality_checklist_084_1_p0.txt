@@ -1,0 +1,88 @@
+Verification
+#4074142
+Date: 17.07.2025
+Product ID
+BZ-G60F
+Customer ID
+GREECE
+Item Description
+Set
+Ensure allnon-conforming mnarks are clearly documented
+Check that Inspection steps follow" the approved
+Cequre
+Refer to the quality register for sampling-plan references
+This checklist captures quality inspection
+points and sampling levels_
+Below are the items to be verified duringthe final product revicw:
+Revlew Points
+Sampling
+Classification
+Commcnts
+Level
+Product Regulrements
+Critical
+Major
+OnHold
+Shipping mark =
+illegible
+Minor issue
+Level B
+Mssinf
+Jbservad
+Product doesn't power on
+Luveli
+Needs revlew
+Connectornot
+working
+Level
+Missing distributor
+Level IlI
+information
+Paint smearing
+Level /
+scralcher
+Minor issuc
+Visual defect on housing
+observed
+Minor issue
+Battery not included
+Level B
+Jbseruer
+Hinges
+IODSl
+LOOsc
+inside
+Level Il
+Critical impact
+packaping
+Minor issue
+Missing safety labels
+Level IIl
+observed
+ncorrechbarcodc
+labc
+Level IlI
+Rubber Switch not
+working
+Needs review
+AQL Level
+Critical
+Maior
+MNinor
+Default
+Customer
+specific
+any open issues in the CAPA tracking system
+Cnecklist results have been reported
+the quality manager.
+Inspection summaryis filed for regulatory compliance. Corrective actions are scheduled for identified issues 
+Ensure that all remarks nave corresponding evidence attachments. All critical and major inspection points have
+been addressed. Please ensure supervised sign-off on any non-conforming points.
+marked for hald
+require additionalreviewbefore release
+Log
+Hinge
+Minor
+pans
+Flab :
+Items

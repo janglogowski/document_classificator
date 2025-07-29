@@ -1,0 +1,113 @@
+Component Dimensional Check
+Inspection performed by Peter Schmidt on 2023-09-17.
+The inspection register below highlights any out-of-tolerance parts, This summary of measurements supports
+retrology traceabillty. Below' are the recorded
+measuruinent comdarg
+against naminal tolerances. Crieck that all
+Gamiensions
+comply ivith ISQ and company standards.
+Environmental Conditions; Temperature; 24.1 "C; Humidity: 42 %
+Article No
+Component
+Dim;
+Nominal
+AcTuZ
+Delta
+Status (VIxL
+TY-3506
+Plastic Rivets
+Thickness
+48.56
+83.53
+-0,03
+PASS
+VF-Z20D
+Rubber
+Widtn
+35.17
+34.98
+-0.19
+PASS
+Gasket 8Omm
+SB-L40D
+Depin
+6.51
+6.62
++0.11
+PASS
+NU A402
+Wooden
+anom
+33.42
+33.52
++UI0
+PASS
+Pallet
+Jametur
+WD-1805
+Hex Bolts
+Innzr
+65.64
+0J2
++0.08
+PASS
+M12
+Diameter
+AZ-3Q0T
+Rearing 6202
+Length
+87,71
+87.35
+10.14
+PASS
+9oox
+Steel Sneel
+Depth
+B1.0
+8273
++U-US
+PASS
+436
+MS-SOOP
+Plastic Rivets
+Width
+6 53
+PASS
+VR-JOT
+Plastic Rivets
+Thickness
+67.80
+0.15
+PASS
+SL-4J0M
+Shaft 5Dmmt
+Length
+47#8
++0.15
+PASS
+PW-S15y
+NBR
+Length
+37.36
+37,52
++0.16
+PASS
+6uttum
+GL 9805
+Plastic Rlvets
+Thickness
+9.64
+9,69
+t00s
+PASS
+VR 940T
+Sheet
+enecI
+33.06
+33.03
+0.03
+PASS
+A3S
+Hing_
+~Rine
+Stcei

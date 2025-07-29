@@ -1,0 +1,92 @@
+Shift Summary
+Report Nos
+PR-776
+Custoiner;
+SWEDEN
+Supervisor
+Anna Nowak
+Department:
+Machining
+Dale
+06-01-2024
+Shilt
+(Eveninge
+Machinc ID
+Procoss
+Oporator
+From
+End Timc
+Duration
+Notcs
+(unn)
+MC-201
+Drilling
+Wiktor
+10,00
+10.49
+Recalibrated
+Kopczyiski
+MC -208
+Polishing
+Anng
+14.15
+14.52
+NA
+Nowak
+MC-208
+Drilling
+09.30
+10.07
+NIA
+Kowalski
+MC-20g
+Assembly
+Agnieszka
+12.15
+14-15
+120
+Delay
+Zielinska
+MC-208
+Cutting
+Przemystaw
+12.30
+14.07
+Delay
+Wasik
+Itcm ID
+Target Oty
+Producad Qty
+Scrap Qty
+Rejection %
+Comments
+ON-770H
+206
+202
+1.9490
+Scrap
+confimed
+C-I50C
+140
+130
+7.14%4
+Scrap
+confimed
+QP-GE0F
+223
+203
+8.979/
+BZ-660F
+292
+14.0480
+Rework
+needed
+4Z-300T
+106
+104
+0990
+Frepared by:
+Laura Rossi
+Approved Dy:
+aura Rossi
+Uon

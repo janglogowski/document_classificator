@@ -1,0 +1,124 @@
+Machine
+Summary
+Perfcrmed On: 2024-08-29
+Signed @
+Peter Schidl
+Padormed
+Peter Schmioi
+The following enlries delall preventive and correclive maintonance tasks , Check thal ,
+dowrflime events are praper;
+categorized and logged, Enlries include wark orders , lechnician assignments; and part changes;
+lechnican comments
+recorded for
+mainlenance trend analysis, Below
+Ire summaly
+se vice actians and downtres Iar
+eech machine:
+Refer (0 the maintanance register for detalled service histories .
+Section A:
+Machine ID
+MC-238
+MC-220
+MC-242
+MC-266
+MC-228
+Mc259
+Machine
+Laser Cullet
+Canveyor Belt
+Packaging
+Packaging
+Hydraulic
+Paini Booih
+PTLss
+Servica Type
+Prevenlia
+Conrective
+Inspeclan
+Correclive
+Corrective
+Corrective
+Cperator
+Rated=
+Schmidr
+Laura Rossi
+Pater Scnmigt
+Lauta
+Laur hossi
+Anna Mowak
+Downtime
+commcnts
+Tightened
+Swilch
+Refilied 0 |
+Relilled oil
+Replaced
+Calibralion
+loose bolls
+conlacts
+KHLP 46).
+IHLP 4814
+fuse (SAJ.
+check OK;
+eaneo
+Section
+Machine
+Mc-242
+MC-220
+MC 2J8
+MC266
+MC.228
+MC-259
+Waching
+Packaging
+Corveyor Belt
+Laser Culler
+Packagirg
+Hyaraulic
+Paini Baoth
+Press
+Sarici
+Type
+Wnsdecon
+hspeciion
+Prevenlive
+Coraclivg
+Pieventive
+Inspection
+Operator
+Anna Nowak
+Kowalski
+Anna Nowak
+Jan KowhlsK/
+Pejer Schmidl
+Jankowvalsk/
+dountime
+Comments
+Refilled pljl
+Cawbration
+Replared
+Tighlened
+L-lon
+Replaced
+(HLP 46).
+check Or;
+Fuse (54)
+lcose boits
+paca
+54).
+senvicud
+Service summaries have been forwarded
+Lhe enguneering Icam, Archive Ihis summaty
+ine CMMS fr future
+retarance
+Confirm Inal
+correciive aclons were properly clased aul, Maintenanco noles are archived lor compllanco"
+audits . All maintenance duralions are recorded for performance metrics
+Uptime (%1
+Erorcaunr
+Notes
+96,4382
+Boli lighlened
+Log
+Roxs"
+Dateny .

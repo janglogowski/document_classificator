@@ -1,0 +1,47 @@
+Product Overview
+Confirm tnat performance ranges comply wth project requirements
+Tne parameter register below includes
+operating limits and ratings: Use this spec sheet t0 validate assembly instructions Check that all material specs align
+suppliler certifications. Please review: the specilicatians and material camposition listed belov.
+Product ID
+PL-601Z
+ntann
+PR-672
+Prepared by: Peter Schmidt
+Approved Dy: Carlos Garcia
+Date: 2024-07-31
+Model Uype
+pneumatic
+Control Unit
+Rated Pressure
+250 bar
+Fluid Flow
+supply Voltage
+400
+50Hz
+Control Valve
+Manual Override 3/2
+Material
+Stainless Steei
+Oil Type
+HLP
+Flag
+missing parameters for urgent specification updates, All summary comments have been recorded in the
+revision log: Material choices and process data have been verified for compliance Archive this summary for future
+design-change management: Ensure that the listed matefials are approved for the application- Data sheet has been
+peei
+~reviewed by the engineering team
+Material of Construction:
+Item
+Composition
+Battery Pack
+Lithium-Ion Cell Pack
+Capacitor AS01
+Aluminum G061-T6
+Sink ALU
+iluminum
+6061-T6
+Ktth
+Frame
+Frame
+Heat

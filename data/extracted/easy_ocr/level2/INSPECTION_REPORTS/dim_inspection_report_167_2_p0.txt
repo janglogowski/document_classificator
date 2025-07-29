@@ -1,0 +1,78 @@
+Supervisor
+ma Nawdk
+Intucciian DIU
+2024-07.25
+Below are the recorded measurements compared agalnst nominal tolerances: Use thls results
+summan
+trBger any
+correctlve actlons: The following data captures key dlmensions and any deviations identified. Use this examination
+summary
+confirm component contarmity:
+Antlcle No.
+BZ-GG0F
+Re-8SOC
+WD-140S
+ON-//0h
+SB-L40D
+PU5ISY
+KV-390k
+Comnonent
+Hex Bolts
+Hex Dolts
+Plastlc
+Plastic
+Woocen
+Wooaen
+Dearing
+MIZ
+Rivets
+RIvets
+Pnllet
+62022
+plma
+Helght
+Wldth
+Thickness
+Wuldth
+Hole
+emeah
+Width
+Naminal
+25.70
+53.10
+SlxI
+65,34
+Actual
+6.J6
+25.86
+79,57
+51.25
+404
+A
+65.27
+~00T
+FO
+S
+FOS
+40Oo
+Pass /Full
+Components falllng Inspectlon requlre Immediate review and corrective action: Please address any NOK 
+before
+proceeding
+the next production stwge Refer
+deviation column for any aut-of-tolerance measurements
+Ensure
+status
+are updated iIn the quallty management systcm:
+Instrument Callbration Log:
+Inatrument
+seriuino
+Callbratlon Date
+CMM
+49445
+2024-07-30
+Mlcrometer
+64319
+2025-06-08
+Mems
+Hags >

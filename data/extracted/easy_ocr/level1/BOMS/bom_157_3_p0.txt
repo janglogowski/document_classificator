@@ -1,0 +1,80 @@
+BILL OF MATERIAL
+This summary lists every item required, with per-unit pricing details. This section outlines the parts; unit
+prices and total amounts for assembly. Below is the component listing ad associated costs for the
+upcoming production batch: Review the materials tally for compliance with budget allowances:
+Item
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Spring
+0.05
+1.60
+Switch
+Washer
+tested OK
+M1O
+Hinge Set
+2.50
+82.50
+Switch
+tested OK
+Protective
+68.40
+Switch
+Sleeve
+tested OK
+5Omim
+Wooden
+15.00
+15.00
+ISO-verified
+Pallet
+Almminmm
+27.00
+SO-verified
+Bracket
+Epoxy Resin
+7,30
+248.20
+Li-Ion
+battery
+installed
+Plastic
+0,20
+0.40
+Li-Ion
+Rivets
+battery
+installed
+Ceramic
+2,10
+27,30
+ROHS
+Disc 8Omm
+compliant
+Steel
+Sheet
+155.00
+A36
+alignment
+adjusted
+Gasket
+1.25
+23.75
+Imported
+Sheet A4
+Customer ID: BRAZIL
+Coordlnator: Carlos Garcia
+Date; 2024-10-12
+Product ID: TX-820V
+Internal No:: 7534123
+Order
+Qty: 373
+Total Amount:
+649.15
+Pcs
+Pcs
+Hinge

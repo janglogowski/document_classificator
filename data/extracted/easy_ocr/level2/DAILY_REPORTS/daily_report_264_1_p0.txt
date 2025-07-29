@@ -1,0 +1,91 @@
+Report No;:
+PR-955
+Customer:
+TuRKEY
+cunenor
+Anna Noway
+Department:
+Mainterance
+Daie
+12-06-2024
+Shift:
+Eveningl
+Equlnment
+Task
+Operator
+Fram
+Ducatan
+Notes
+Imine
+MC 202
+Polishing
+Nadla Sauter
+10,00
+10.30
+MC 209
+Cutting
+Piotr
+12.15
+13.48
+Recalibrated
+Lewandowski
+MC-202
+Drilling
+Wiktar
+05.30
+07,0
+Kopczvnski
+MC205
+Polishing
+Jan Kowalski
+06,00
+07.56
+NZA
+MC 208
+Cutting
+Bartosz
+14.00
+15.53
+113
+Wawrzyniak
+Mc-704
+Drilling
+Mardalena
+09,30
+11,78
+118
+Witkowska
+MC207
+Welding
+Dizemvsav
+09.15
+10.15
+Delay
+Wasik
+Part ID
+pianned
+Qt
+Produced QuX
+Rejected Qty
+Failure %
+Remarks
+RE-850C
+0.6780
+Rework needed
+AZ-30OT
+188
+5906
+XK-610U
+ccrap
+confirmed
+@ia /k
+2846
+connicincc
+XD-{10R
+6279
+Prepared by;
+Knne
+Nowak
+Apnrdvem
+Larios Garci
+Scrap

@@ -1,0 +1,116 @@
+Machine Log Summary
+Performed On: 2023-08-24
+Approved bX;
+Peter Schmidt
+scnvicedby
+Carloc Garcia
+Conlirm Ihal servicu inlervals
+Idllc Mu Drevenlive schudulc
+This suclion caplures equiprent stalus and any
+maintcnance coservalons
+Belon
+Ine summary
+service acllons and dovaniimes
+cach machne
+Thls log records all
+maintenance
+activities
+pertormed on
+equipment
+Ensure
+safety checks were completed during servicing;
+technician
+cammenis
+eccrded for maintenance trend analysis.
+Section A:
+Unit Code
+Mc/21
+4C75 
+MC 203
+MC 297
+Equipment
+Assembly
+Robot
+Paint [
+Packaging Line
+CNC Milling Machine
+vpC
+Preventive
+Lorrective
+Coreciive
+Preventive
+Technician
+Lalna
+Rossi
+Peter Schmidt
+Peter Scnmict
+Jankowalst|
+Dowrnlime
+Notes
+Replacad fuse (54}.
+Refilled oil (HLP 46}4
+Refilled oil (HLP 46).
+Refilled cil (HLP 46).
+Section B:
+Unlt Code
+MC 262
+MC 241
+MC 203
+MC 293
+Equipment
+Raint Boath
+Assemhly Robat
+Packaging Line
+CNC Milling Machine
+Type
+picventive
+Preventive
+PrevenivG
+Inspectlon
+Technician
+Garcia
+Anna Nowak
+Kowalski
+Peter Schmidt
+Downtime
+Notes
+Worn
+gasket
+Alignment
+hinges
+Tightened Icose
+Sensor recalibrated;
+ren aced
+aqilateo
+pnlts
+Archive this
+summar' intne
+CMMS far future reference
+All maintenance durations
+afe recorded Ioi
+Denormance mettics
+Ensur
+next
+preventive service
+scheduled
+according
+plan_
+Overall equipment condition
+salisfactory
+(intcnancc
+Ensurc thal cach
+RCNvice
+enby has Inc requlred
+approvals. Confirm that
+orfecvcactions  Cc
+properly
+closed out;
+Uptime (%)
+Frror
+94.96%8
+Bolt tightened
+Boutn
+Ceros
+post-
+Count
+Notos

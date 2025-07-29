@@ -1,0 +1,97 @@
+Production
+Report No :
+PR-274
+Customer;
+POLAND
+cudervisog_
+Anna Nowax
+Mincen:
+Quallty
+Conirol
+Date:
+29-09-2024
+Shift:
+(Nlghe)
+Equlpment
+Operution
+Operator
+From
+Tme Spent
+Cominents
+MC-203
+Drilling
+Przemystaw
+06.00
+07.51
+xecaltaled
+Wasik
+MC-208
+Welding
+Wiktor
+11.30
+12.47
+Kopczyngki
+MC-202
+As3empi
+Knna
+Nowak
+09;00
+10.48
+MC-206
+Assembly
+Piatr
+14.00
+15.36
+Recalibrated
+Lewandowsy
+MC-207
+4ssemol
+Mateusz
+12.30
+13.41
+Recalibrated
+Jarzyna
+MC 208
+Polishing
+Przemystaw
+07.30
+09,08
+Delay
+Wasik
+MC-20g
+Polishing
+Plotr
+09.30
+10.23
+N/A
+Kewandoak
+Product ID
+Planned
+Achieved Qty
+Scrap Qty
+Failure %
+Remarks
+Output
+RM-86ON
+229
+1500
+WD-180S
+287
+285
+0.7006
+Scrap
+confirmed
+RX- 310Z
+234
+13.2590
+emork neenem
+TX-820v
+159
+6.9290
+Rework needed
+Prepared by:
+Peter Schmidt
+Kpprovec
+Peter Schmidt
+Log
+Dcpas

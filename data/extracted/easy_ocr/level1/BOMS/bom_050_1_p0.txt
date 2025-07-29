@@ -1,0 +1,61 @@
+BILL OF MATERIAL
+Customer ID: BRAZIL
+Coordinator: Carlos Garcia
+Date: 2024-06-15
+Product ID: GL-9805
+Internal No;: 4103279
+Order Qty: 478
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Clamp Ring
+1.19
+10%
+1.75
+77.00
+12Omm
+Copper
+2.59
+0.60
+23.40
+Urgent
+Wire 3mm
+Rubber
+0.50
+4.50
+Certitied
+Gasket
+batch
+80mm
+Protective
+0.98
+52,20
+Urgent
+Sleeve
+S0mm
+Plastic
+2.26
+0.20
+6.40
+Rivets
+export
+Digital
+2.64
+15.00
+420.00
+ROHS
+Display
+compliant
+Unit
+Ensure this materials summary
+reconciled with the purchase order.
+Total Amount:
+583,50
+Approved By:
+Sourcing Department:

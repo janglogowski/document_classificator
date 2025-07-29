@@ -1,0 +1,69 @@
+Dimensional
+Inspecicr
+Jan Kowalski
+Inypcctian Dale
+20zt 02"L2
+Please review the inspection results
+tor eucn component
+listed belov . Refer -
+dimensional log for all component
+size readings. Check that all dimensions comply with ISO and company standards. This data extract
+prepared for
+quality-contro
+sign-off. The -
+llowing data captures key dimensions and any deviations identified
+Lode
+FT-730X
+FT-730X
+SB-[4OD
+NU-AUZ
+KV-390K
+Part Name
+Steel
+Sheet A36
+Hex Bolts M12
+Graphite Pad
+Batten Fack
+Graphite Pad
+Measurement
+Inner Diameter
+Deptn
+Height
+Depth
+Depth
+Nomina
+88.0 /
+98.93
+28-0X
+69.58
+14.18
+Obsenved
+88.21
+98-96
+14-29
+pelitz
+0.4
+40.03
+~O-JU
+40-11
+PassaFai
+Piss
+74SS
+Refer
+devlatiam
+calumn for any out-af-talerance measurements Review failed items against the corrective-action
+register; Ensure
+measuring tools were properly calibrated,
+insliumeng
+Calibration Log:
+unstrument
+Serial No.
+Calibration Date
+Nicrometer
+50058
+2024-11-20
+Lase
+Scanner
+97648
+2024-08-31
+Log

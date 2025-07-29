@@ -1,0 +1,53 @@
+Component Overview
+Entries inciude both mechanical Jnd electrical specifications This section details the configuration and parameter set
+for the product Check that all material specs elign with suppller certilications. Plcase review the specifications and
+Materie
+composition listed below. Ensure all referenced standerds are uP
+date. This data 5heet provides key
+specifications and materal retails This repont extract
+prepared for desigr-verification audits,
+Froduct ID:
+ZR-ZOSR
+Intetng
+2605337
+Prenareo bY: Laur Rossi
+Approved bv; Jan Kowalski
+Date; 2025-01-01
+Model Type
+Caaling Circulation
+Design Pressure
+210 bar
+Svstem
+Flow Rate
+Supply Voltare
+230V (50 Hz
+Frame
+Tateria
+Powder-qqaced Stee
+Total Weignt
+180 KE
+Mounting
+Skid base with vibration
+Orotechon Clast
+IP5A
+pads
+This closure nate indicates the data sheet
+readytor
+lease Use this summaryto cross-check ivith BOM and
+Inspection reports: Flag Jny misslng Parameters far urgent speclflcatlon UFdates Dccumert control numbers are
+Included fer traceability- All surinary cominenls have been recarced
+the revision log:
+Materizl
+Construction:
+Part
+Raw Material
+Wiring Lpom
+PVC (Rigid)
+Gasket
+Nitrile
+Rubber
+(Nbr)
+LED Light Strip
+Glass-Filled
+Mhion
+shec

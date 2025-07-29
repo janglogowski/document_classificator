@@ -1,0 +1,47 @@
+Customer ID: FRANCE
+Prepared by: Jan Kowalski
+Product ID: SL-430M
+Interna
+No:: 7750077
+Item
+Steel Sheet
+Heat
+Ceramic
+Shaft
+Epoxy Resin
+Heat
+Description
+A36
+Resistant
+Disc 8Omim
+SOOmm
+Resistant
+Sleeve
+Sleeve
+Qty
+796
+681
+340
+865
+UOM
+Unit Price
+Amount
+980.00
+1,838.70
+714.00
+920.00
+6,767.10
+324.00
+Remarks
+Certified
+For export
+Switch
+Hinge
+Li-Ion
+batch
+tested Ok
+alignment
+battery
+adjusted
+installed
+TOTAL: 20,543.80

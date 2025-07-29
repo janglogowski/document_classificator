@@ -1,0 +1,76 @@
+Shift Summary
+Report No
+PR-339
+Customer:
+NORWA
+Supervisor:
+Schmiat
+Dcdanmcni
+Maintenance
+Shift:
+(Moming
+08-08-2024
+Equipment
+Process
+Operator
+Begin
+Finish
+Duration
+Remarks
+Temp
+(min)
+(KWh)
+MC-201
+Assembly
+Bartosz
+09,30
+10-16
+78.5
+2.81
+Wawrzyiak
+MC-207
+Assembly
+Agnieszka
+14.15
+14-53
+OK
+56.1
+2,68
+Zielliska
+MC-203
+Welding
+Kowalski
+08.15
+08.47
+Delay
+75.0
+2.47
+MC 203
+Cutting
+Bartosz
+06.00
+Recalibrated
+72.8
+2.61
+Wawrzyniak
+MC-203
+Cutting
+Nadia Sauler
+1315
+14.46
+61.3
+L27
+MC-204
+Cutting
+Piotr
+11.00
+11.59
+62.4
+1.35
+Levandowski
+Prepared by:
+Carlos Garcia
+Approved bX:
+Carlos Garcia
+Peler
+Energy

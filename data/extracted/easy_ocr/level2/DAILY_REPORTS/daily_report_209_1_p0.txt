@@ -1,0 +1,127 @@
+Production
+Repont No:
+PR-515
+Customer
+POLAND
+Supennsor
+Jan Kowalski
+Depanment;
+Painting
+Date;
+29-02-2024
+Shitti
+Evening]
+Equipment
+Procest
+Technician
+Stant Time
+Tota
+Remarks
+Mc-206
+Cutting
+Daosl
+10.00
+1108
+Wawmyniak
+MC-203
+Polishing
+Nadia Sauter
+14415
+12.46
+NJA
+MC-206
+Drilling
+Bartosz
+09.15
+11-03
+108
+Recalibrated
+Wawizyniak
+MC-203
+Drilling
+Lnna
+Nowek
+11.15
+12.07
+MC-208
+Welding
+Magdal
+12.-15
+140
+Wtkowska
+MC-203
+Assemoi
+Anna
+Nowek
+09415
+4032
+MC-209
+Polishing
+Bartosz
+0630
+0339
+Recalibrated
+Wawryniak
+MC-202
+Cutting
+Anna
+Nowak
+06-00
+06.41
+MC-207
+Assembly
+mateusz
+11-15
+12-02
+Recalbrated
+Jaryna
+MC-207
+Assembl
+Anna Nowak
+12415
+4332
+NIA
+MC-207
+Cutting
+Dawid
+14.15
+16-11
+116
+Recalibrated
+Oszmianczuk
+Mc-Z01
+Assemoii
+Jan Kowakski
+1330
+14-28
+Delay
+Pant ID
+Target Qty
+Produced Qt
+Rejected Qty
+Scrap 5
+Uwagi
+XD-T10R
+278
+240
+13.6778
+LX-890B
+8612
+Scrap coniumed
+RM-860N
+5.7182
+Reworneedeo
+IY-350G
+0.0072
+ON-7707
+13.9183
+Rewornerdeo
+GL-9805
+296
+6972
+Scrap confimmed
+Prepared DVE
+Jan Kowralski
+Approved DVE:
+DeterGcnmiot
+Log

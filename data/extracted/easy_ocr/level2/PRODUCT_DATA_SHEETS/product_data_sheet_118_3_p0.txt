@@ -1,0 +1,26 @@
+Unit Configuration
+Roport No ; PR 406
+Procuct ID
+SL 4 HOm
+Dulo: 2023 08-24
+Unlt Typo
+Cooling Clreulllon
+Oporatlng Proaauro
+J00 bur ,
+Syelo
+FluldFlow
+'30|u
+Opvorntlng Voltngo
+AuO V / 00lz
+Churging Tmo
+Noldu Luvol
+70dUKA)
+Mounting
+Rrck Irnmiu
+Coollng
+Walor-coolad
+oxchungor
+Pump Typo
+Vune Pump
+Proparod by: Jan Kowalaki
+Approvod by: Jan Kowdlaki

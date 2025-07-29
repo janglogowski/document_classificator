@@ -1,0 +1,72 @@
+Quality Inspection List
+Use this Ilst
+conflrm adherence
+AQL and safety standards. Please revlew
+Lach
+checklist point and mark the
+sampling results, Confirm that sampling
+evels comply with customer agreements, Use this extract to coordinate sign -
+off with the QA manager. All checklist entries are timestamped for traceability-
+Product ID
+Kv-390k
+customcrId
+BELGIUM
+Item Description
+Ring
+Audit Criteria
+Check
+Severitv
+Remarks
+Intensity
+Design Specs
+Hold
+Larton
+damaged
+markings
+Level III
+Critical impact
+incorrect
+Screv"s loose or missing
+Level II
+Issue Odsenvec
+Incorrect barcode or Iabel
+Crtica
+Impact
+Rudbe
+textune
+piossiness
+Level III
+Minor issue observed
+mismatch
+Shipping
+mark IS
+illegible or
+Level III
+Critical impact
+missing
+proquct 5i78
+Level
+Critical impact
+NJ asseMbled
+per drawing
+Leve
+Needs r@viev
+edges on
+plastic
+Level
+Needs revlew
+comdanenis
+MissIngsalety labels
+Cutica
+Imipact
+tos
+parts Inside packaging
+Culca
+Upact
+Supervised by:_
+Date: _
+Camp
+470nm
+Minor
+Wrona
+Sharp

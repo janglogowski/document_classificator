@@ -1,0 +1,106 @@
+Shift Summary
+Redar ND;:
+PR-407
+Cusiamer-
+BELGIUM
+Supervisor:
+Peter Schmiat
+Department'
+Lssemniy
+Date;
+28-06-2025
+Snitt:
+(Evening)
+Machine
+Task
+Technician
+Finish
+Time
+Remare'
+MC 203
+Drilling
+wiktor
+11.30
+12.41
+N/A
+Kopczyrski
+MC-20Z
+Polishing
+Dawid
+13-15
+13.50
+Osmanczuk
+MC 208
+Welding
+Bartosz
+07.00
+08.39
+Delay
+Wawryniak
+MC-2O1
+Assembly
+wiktor
+13-30
+14.25
+Recalbratec
+Kopczyiski
+MC-202
+Assembly
+Nacia Sauter
+07-UL
+08.40
+MC 206
+Assembly
+Piotr
+14-00
+14.36
+Delay
+Lewandawski
+MC-209
+Welding
+Przemyslav
+07-00
+08.48
+Recallbrated
+Wasik
+MC-206
+Cutting
+Przemyslaw
+06-15
+07.35
+Wasik
+MC-208
+Polishing
+Nadla Sauter
+10.330
+10.54
+Recalibrated
+MC-208
+Polishing
+Banost
+08.30
+08.52
+Wawrzyniak
+Product
+Planned
+Oulpul
+Produced Qty
+scrap
+Rejection
+Motes
+RM-860N
+130
+aiy
+P7-3107
+109
+LLYO
+60H
+236
+Prepared by:
+Carios
+Appraved by:
+Laura Rosse
+Fcom
+Spent
+Delay
+Garcid

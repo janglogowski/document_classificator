@@ -1,0 +1,140 @@
+Maintenance Checklist Report
+Performed On: 2023-08-08
+Approved bX;
+Jan Kowalski
+ScniccdD
+JanKowalskI
+The lollowing
+Snlus
+deluil prevunive
+curiecive
+rainlenance lasks. Reler =
+lhu mainlenarcu rugisler
+dcluilcu
+SCNICC
+nIsiOnu:
+This log TECOrcs all mainienance aclivibes
+JCHOMICU
+On [MIC
+qui umicml
+Ensure
+salely cnecks Wruru
+compiete d qucing 5ericino
+Entries
+IncMde
+WoFz Order
+technician assignments,
+pan changes
+Confirm tha
+service
+intenale
+Follouathe
+preventive schedule;
+Section A:
+Unit Code
+MC 264
+MC ?31
+MC- ?32
+MC 243
+MC 207
+MC ?26
+Equipment
+Packaging
+Conveyor Belt
+CNC Milling
+Hydraulic
+Conveyor Beli
+Packaging
+Nachine
+Service Type
+Preventive
+Corrective
+Insnechon
+Preventive
+Insdection
+Preventive
+Technician
+Peter Schmid:
+Laura
+Rossi
+4nna Nowak
+PBier Scnmici
+Laure
+Rossi
+Petet Schmid
+Duration
+Notes
+Changed
+Refilled oil
+Alignmant
+Changed
+Refilled oil
+and filters
+(HLP 46).
+hinges
+Filters .
+(HLP 45}.
+adjusled
+Seclon B;
+Unit Code
+MC-25
+MC-219
+MC-264
+MC-232
+MC-226
+MC-231
+Equipment
+PusMla
+Cullec
+Cenveyor Bell
+Packaging
+CNC Milling
+Packaging
+Conveyor Bell
+Machlng
+Senice
+Type
+Inspection
+Preventive
+epecium
+Comeciive
+Lomecive
+Preventive
+Technician
+Peler Schuidl
+Callos Gaicia
+Laura Ruse
+Laura Ross
+Carlos Garca
+Carla'
+GGaicia
+Duration
+Notes
+Rep acud
+Changed oil
+Replaced
+No issues
+Relilled cil
+Wocden
+5A)
+luts
+cooiami
+Tuunu:
+(HLP 46}.
+palict
+checkeo
+No cnlical
+Faulls
+Wete {ouno
+the lates
+inspeclion_ Use this closure note
+update Ihe maintenarce KP
+tmackar
+malntenance durallons are recorded for performance mebrics .
+Uptlmc (%)
+Etor Count
+59-91 "
+boll tichiened
+Prose
+during
+Hotes

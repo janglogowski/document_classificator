@@ -1,0 +1,67 @@
+Component Dimensional Check
+Kowalski
+unspecio
+2024.11.20
+Inspection Date
+Ensure measurement methods align
+inspection results for each component Oistedabelocor
+Check that all dimensions
+Please review the
+prepared for quality-control sign-off:
+vith
+libration standards
+This data extract
+comply with ISO
+company standards.
+NU-4402
+TX-820v
+AL-1150
+0 Ring NBR Bomm
+Product Ref
+GH-770J
+Bearing 6202 ZZ
+Battery Pack
+Component
+Hinge Sel
+Depth
+Dephn
+Depih
+Depth
+9.19
+3943
+Measurement
+16 47
+39.28
+Nominal
+77,.90
+16.63
+9.04
+Observed
+77.88
+0,1S
+T0T0
+P4ss
+Delta
+PASS
+PASS
+PassIFail
+PASS
+Tnis
+assessment rellects the latest metrology =
+Inspection notes have been logged for tracpabbiey _
+levels_
+summary Indicates acceptable quality
+Overall inspection
+Instrument Calibration Log
+Last Calibration Date
+Serial No_
+20241E11
+Instrument
+Micrometer
+30814
+2025-04-17
+99015
+und
+~0.02
+results 
+Chm

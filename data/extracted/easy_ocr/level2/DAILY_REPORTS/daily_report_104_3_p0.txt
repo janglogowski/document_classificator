@@ -1,0 +1,97 @@
+Production Log
+Report No:: PR-320
+Customer: POLAND
+Shift:
+(Night)
+Date: 08-06-2024
+Machine
+Task
+Operator
+Duration
+Comments
+Stage
+(min)
+MC-209
+Welding
+07:15
+07.57
+Delay
+Drocrese
+Kowalski
+MC-209
+Cutting
+Mateusz
+12.15
+14.00
+105
+Delay
+progress
+Jarzyna
+MC-207
+Assembly
+Nadia
+08.30
+10.06
+Delayed
+Sauter
+MC-204
+Assembly
+Bantosz
+07.30
+08:19
+Recalibrated
+Drocress
+Wauyniak
+MC-202
+Welding
+Nadia
+07.30
+08.34
+Recalibrated
+Completed
+Sauter
+MC-204
+Assembly
+Wiktor
+10.15
+11.45
+In progress
+Kopczynski
+HC-201
+Polishing
+Anna
+14.00
+14.45
+Recalibrated
+Completed
+Nowak
+Use this summary t0 update the verall production dashboard. Refer
+remarks for anyrerorkor quality
+concerns-Note any unscheduled stops inthedowntime register- Archivethis output summaryforend-of-day
+reporting-
+Item ID
+Planned Qty
+Produced
+Scrap Qty
+Scrap %3
+Rework
+Uwagi
+Qty
+Count
+KV-390k
+249
+228
+8.4310
+Rework
+needed
+ZR-205R
+219
+187
+14.6198
+Rework
+needed
+VR-940T
+10.4752
+Approved by:
+Prepared bY:
+Begin

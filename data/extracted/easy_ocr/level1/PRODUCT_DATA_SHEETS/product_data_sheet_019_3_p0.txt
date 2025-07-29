@@ -1,0 +1,64 @@
+Unit Configuration
+Report No:: 6101563
+Product
+CN-1S0C
+Date: 2025-07-16
+Configuration Type
+Cooling Circulation
+Design Pressure
+180 bar
+Svstem
+Flow Rate
+48 Limin
+Operating Voltage
+60 Hz
+Service
+intena
+Control Valve
+Directiona
+Battery Capacity
+Reservoir Capacity
+Mounting
+Skid base wlln vbrallon
+Noise Level
+68 dBIAJ
+pads
+Motor Power
+Dimensions ILxWxHA
+1200 *
+700 * 1100 mM
+Component Materials Overviev:
+LJbC
+BOSC
+Specification
+LED Light Strip
+Glass-Filled Nylon
+ISO 2768
+Teflon Tape Ro
+Teflon Tape Ro
+Class A tolerance
+Ring NBR GOmm
+Nitrile Rubber INBR)
+certified
+Gase
+Sheelia
+Nitrile Rubber (NBR)
+RoHS compliant
+WVInne Looi
+PVC (RigidE
+DIN EN 10025
+Ruboc
+Gaskc
+summ
+Nitrile Rubber INBR)
+IP6? rated
+Wooden Pallet
+Treated Pine
+RoHS compliant
+Fuse 52
+Ceramic Oxice
+DINEN 10025
+Prepared by: Peter Schmidt
+Approved by: Peter Schmidt
+months
+Wcou

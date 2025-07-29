@@ -1,0 +1,43 @@
+Customer ID: BELGIUM
+Prepared by: Jan Kowalski
+Product ID: VF-2ZOD
+Interna
+No:: 1977756
+Use this schedule of parts to align with sourcing and stock levels
+The parts manifest here
+designed to
+support procurement workflows_
+Reter to this parts register to plan raw material purchasing: Review the
+material
+tally for compliance with budget allowances The component roster below includes unit costs
+and batch codes:
+Item
+Control Panel
+Copper
+Wire
+Spring Washer
+Spring Washer
+Heat Resistant
+Description
+Mount
+Smmn
+M1O
+M1O
+Qty
+575
+909
+UOM
+Unit Price
+Amount
+900.00
+461.40
+26.10
+37.05
+454.30
+Remarks
+High
+Certified batch
+SO-verified
+TOTAL: 9,878.85
+ceve
+Brade

@@ -1,0 +1,66 @@
+Product Data Sheet
+Project
+BZ-660F
+Intemal No.
+3828990
+Prepared
+Peter Schmid
+Approved BL
+Laura Rossi
+Location: Plant 34
+Date: 2024-12-22
+This repont extradt
+prepared for design-verfication audits. Below are the technical parameters and
+construcion malerials for the unit Check that all material specs align with supplier cerlifications Please
+review the specifications and material composition Iisted below: Use this sheet t0 confirm engineenng
+requirements and tolerances. Entries include both mechanical and eleciical
+speciiications:
+Model Uype
+Pneumatic Control Unit
+Rated Pressure
+210 bar
+Flow Rate
+60 Lmin
+Voltage
+480VI 60Hz
+Filtration
+pm inline, 10 VM
+Total Weight
+180 kg
+relumn
+Cooling
+Water-cooled
+Motor Power
+5.5kW
+exchanger
+Frame Materal
+Powder-coated Steel
+Oil Type
+HLP 68
+Charging Time
+Mounting
+Skid base with vibration
+pads
+Noise Level
+70 dB(AL
+Pump
+Vane Pump
+Control Valve
+Manual Qveude 32
+Dimensions (LAWH
+1000 ,
+650X 1QOOmm
+Battery Capacitz
+Material 0f Construction:
+Mem
+Composition
+Nut M6
+Zinc Plated Steel
+Gasket SheetA4
+Nitnle Rubber (NBR)
+Graphite Pad
+Graphite Pad
+Rubber Gasket B0mm
+Ninle Rubber (NBRE
+4n
+Typ?

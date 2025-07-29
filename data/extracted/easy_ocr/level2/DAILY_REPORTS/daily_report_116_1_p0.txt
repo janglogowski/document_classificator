@@ -1,0 +1,84 @@
+DAILY PRODUCTION REPORT
+Repott
+PR-262
+tomer
+TURKE}
+Supervisor:
+Carlos Garcia
+Departent
+Assembly
+05-01-2025
+Shift:
+(Morning
+Equipment
+Task
+Worker
+Duration
+Uwagi
+min_
+MC-206
+Polishing
+Piotr
+14.30
+14,53
+ewandowski
+MC-202
+Assembly
+Wiktor
+14-00
+15;13
+NA
+Kopczynski
+MC-205
+Assembly
+Bartosz
+11.30
+12.51
+NA
+Wawrzyniak
+MC-204
+Polishing
+Magdalena
+11.15
+12.25
+Delay
+Wilkowska
+MC-206
+Drilling
+Agnieszka
+10.00
+11,41
+101
+Delay
+Zielinska
+MC-207
+Drilling
+Agnieszka
+13.15
+14.37
+Delay
+Zieliiska
+Item ID
+Planned
+Achieved Qty
+Scrap Qty
+Failure %
+Uwagi
+Output
+IL-90OX
+160
+259
+CE-905L
+216
+70%
+Rework
+needed
+XK-610U_
+Prepared by:
+Laura Ross
+Approved bK:
+Peter
+Schmidt
+NNo::
+Cubl
+From

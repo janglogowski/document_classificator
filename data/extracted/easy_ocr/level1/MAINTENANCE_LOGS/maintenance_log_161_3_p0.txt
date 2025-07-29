@@ -1,0 +1,118 @@
+Equipment Record Report
+Performed On: 2025-05-25
+Carlo"
+Gurciin
+Perommeddy:
+Laura
+RC5gi
+Belloiy
+the summary
+Genicaacmons Arddointimas
+pach machine
+Fnsuire p/
+CnecksBr
+completed during
+servicing This section captures equipment status and any maintenance
+obsenations
+Checkthat
+dotvntime events are
+propBr'
+cate Onzco
+ano (0age d
+USC this recorc
+olanupcominguokecp
+Jndrepairs
+Sectlon
+Nac hine
+MC-283
+MC-265
+MC-214
+FC-258
+FC-Z20
+Machlne
+CNC
+Laser Cutter
+Packaging
+Conveyor Belt
+plaema
+Cuttel
+Muhrg
+Service Type
+ingpectior
+Corrective
+nspecuor
+unspecmon
+Preventive
+Querator
+Caio; Garcie
+Jan Koralski
+Calos
+Gaicia
+Laura Rox%5
+Canios Gaicia
+Downtimc
+Comment
+Refilled oil (HLP
+Li-lon battery
+3efilleg
+(HLP
+Woodun nalet
+Sviich conincts
+pack Senviced
+checked
+cleaned
+Section
+Machine ID
+MC-?58
+MC-?14
+MC-220
+MC-283
+NC-265
+Nachinc
+Convuyor Bult
+Puckudna Linu
+Plusine
+Cuttcr
+Cnchilinp
+Lusci Cutter
+Fachine
+Service Type
+sdecmn
+PrevAniive
+Comecive
+Carecive
+Pravaniive
+Operator
+Poier Schmidt
+Jnn Kowvnlski
+Carc'
+Garcin
+Carlo: Garcin
+JnnKo valski
+Dowantime
+Comments
+Li-lcn battery
+Alignment
+Noisques found-
+Noi9sues founo
+No issues found:
+Dack senviced;
+HInEBS adiuste d
+Ensure that bach sernce
+entry has the required approvals
+Record any spare parts usage for inventory adjustment.
+Maintenance notes are archived for compliance audits
+Conrirmthat ailcorrecti
+actions viere propery
+Cioseo
+Enaure
+nextprevcntivu jervicu
+schudulyo Jccordina
+plan All maintenance durations are rucorded for performance metrics
+Uptlme (S)
+Count
+Notes
+Replaced Tilter
+Slone8
+afety
+Mwne

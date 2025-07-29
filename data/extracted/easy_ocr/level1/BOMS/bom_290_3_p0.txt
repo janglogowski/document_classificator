@@ -1,0 +1,76 @@
+BOM Report
+All entries reflect the latest inventory and supplier rates_
+Please review the itemized list of parts and
+material specifications before procurement. The following table summarizes the materials and
+quantities needed for the current project: Review the materials tally for compliance with budget
+allowances. The componentroster below includes unit costs and batch codes,
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Wooden
+15.00
+495.00
+Switch
+Pallet
+tested OK
+Clamp Ring
+1.75
+59.50
+120mm
+Plastic
+0.20
+8.00
+Liclon
+Rivets
+battery
+installed
+Battery
+25.00
+650.00
+ISO-verified
+Pack
+Fuse 5A
+5.70
+Switch
+tested
+Plastic
+pcs
+0.20
+8.40
+Li-Ion
+Rivets
+battery
+installed
+Wooden
+pcs
+15.00
+405.00
+Switch
+Pallet
+tested OK
+Heat
+2.70
+59.40
+Resistant
+Sleeve
+Ceramic
+pCS
+2.10
+23.10
+Switch
+Disc 80mm
+tested OK
+Any deviations from standard pricing have been annotated here.
+Customer ID: TURKEY
+Coordinator: Anna Nowak
+Date; 2023-10-13
+Product ID: MS 6OOP
+Internal No_
+6443121
+Order Qty: 332
+Total Amount:
+1,714.10

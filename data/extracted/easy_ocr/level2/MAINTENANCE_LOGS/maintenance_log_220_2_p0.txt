@@ -1,0 +1,102 @@
+Use this summar
+orecast pantg replacement and re3ource neads
+BeOwv
+tne umMbr 01 gerjice actiong And
+downtimus for uach muchine: This section captures cquipment status ard any maintenance observations
+Entrius include
+Won orders
+technician assignmenta
+and paM
+changes
+Spare Parts Used:
+pant Nane
+part No
+Msed
+Hvdiaulic Hose
+P-2122
+Oil Filter
+P.3101
+Unit Code
+Equipment
+Seniice
+Technician
+Duratior
+Previous
+Atep
+Commente
+Typo
+Scnvicc
+MC-207
+Huddraulic
+Corre ctne
+Peter
+2024-04-26
+No issmes
+Piess
+Schmidt
+toun
+MC-289
+Paint Booth
+InspeCtion
+2024-09-19
+Kowalski
+NC775
+PackaRing
+Curtectnt
+Lilna
+Rossi
+2025 01.21
+MC-262
+Paint Bcoth
+Inscucton
+Lallna
+Rorsi
+2024-05-27
+Sun*0m
+Tecalibtated
+MC-?34
+Laser Cunter
+Inspection
+Canlos
+2023-12-10
+Retilled l
+(HLP 46].
+MC?73
+Laser Cutter
+Insceclon
+2025 03-12
+Realachd
+Kowalaeki
+I541
+MC-245
+hudraulic
+Corrective
+2023-14-1
+Changed cll
+Pregs
+Kowalski
+Fiters
+MC-239
+Paint Bcoth
+preventive
+Ana
+2023-12-19
+Calbration
+Navaik
+Cncc
+MC-ZuJ
+FasMa
+Inspection
+Peter
+2023-U9-
+Senson
+Cutter
+Schmidi
+fecalibrateo
+Authorized by:
+Laura RCsgi
+Qperatot:
+05
+Ln
+Cercil
+Rostt

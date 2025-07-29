@@ -1,0 +1,132 @@
+Production Log
+Report No:: PR-725
+Customer: POLAND
+Shift:
+(Morning)
+Date: 22-08-2023
+Machine
+Task
+Operator
+From
+Duration
+Notes
+Status
+(min]
+MC 202
+Drilling
+Piotr
+11.30
+12.04
+N/A
+Completed
+Lewandowski
+MC-205
+Polishing
+Magdalena
+06.15
+08.10
+NJA
+Delayed
+Witkowska
+MC 201
+Cutting
+przemysiav
+08.00
+09.34
+Recalibrated
+progress
+Wasik
+MC-207
+Cutting
+Wiktor
+06.15
+07-59
+Recalbrateg
+progress
+Kopczyriski
+MC 204
+Drilling
+Magdalena
+08.30
+10.00
+NYA
+Completed
+Witkowska
+MC-208
+Cutting
+Nadla Sauter
+08.30
+09-20
+Delay
+I proaress
+MC 205
+Welding
+Dawid
+09.00
+10.06
+NYA
+In progress
+Oszmlariczuk
+MC 206
+Welding
+Bartosz
+07.30
+08.49
+NJA
+Delayed
+Wawrivniat
+Recard any adjustments
+shift schedules
+staffing here , The performance recap supparts
+the morning
+briefing
+arenda
+Contirm that scrap percentages align with quality benchmarks
+Refer to
+for any rework or quality
+concerns
+EnsUre rauline Maintenance
+DeWLEM
+shifts
+malntaln consistent output: No critical delays were
+Observed;
+lease address any minar issues noted:
+Product ID
+Target Qty
+Actua
+Qty
+Scrap Qty
+Rejection %
+Rewor c
+Qty
+Uwagi
+MS-6OOP
+139
+8.63%
+Rewor
+needed
+NU-4402
+150
+140
+6,67%6
+Rewon
+needed
+5B-140D
+165
+149
+10,247
+Rewor
+needed
+Wo- 30s
+0,00%
+QP-660F
+269
+234
+13,01%
+Scrap
+confirmed
+Pi-515y
+10,13%
+Approved bv:
+Prepared by: _
+remarks

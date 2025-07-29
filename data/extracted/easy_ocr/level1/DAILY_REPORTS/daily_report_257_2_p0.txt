@@ -1,0 +1,83 @@
+Production Log
+Repoit No::
+PR-751
+Custamer
+FINLAND
+Supervisog
+Lanos Garcia
+Departmenl:
+Packagine
+Shift:
+(Morning_
+01-07-2025
+Machinc
+Operation
+Worker
+Start
+Tmc
+Notes
+Tempurature
+Energy
+Spent
+Used
+MC 206
+Polishing
+Knne
+14.00
+141
+Delay
+77.9
+1564
+Nowvak
+MC-207
+Assembly
+Mateusz
+14.30
+16.18
+Reca
+librated
+68,8
+2.89
+Jaryna
+MC-202
+Assembly
+Anna
+13.30
+13.55
+65.1
+11.86
+Nowak
+MC-204
+Cutting
+Bartosz
+07.30
+08-10
+Delay
+75.2
+2.41
+Wawrzyniak
+Mc-202
+Assembly
+Matemsz
+12.00
+12,28
+Recalibrated
+74.0
+1.92
+Jarzyna
+MC-207
+Polishing
+Przemyslaw
+13-00
+14,59
+119
+NYA
+56.2
+215
+Wasik
+Prepared by:
+Pete
+Schmidt
+Approved OY:
+Peter Schmidt
+Timc

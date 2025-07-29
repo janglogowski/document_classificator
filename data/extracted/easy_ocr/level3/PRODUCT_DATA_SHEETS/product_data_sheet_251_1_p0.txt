@@ -1,0 +1,86 @@
+Unit Data Specification
+Prgject
+WD-I80s
+Document
+215842
+Prepared By:
+Jan Kowalski
+Approved BY
+Anna Nowak
+Localion; Plant IC
+Date: 2024-06-05
+Confirm that performance ranges comply with project requirements
+Refer to this configuration summary for
+unit-designation mapping: The paramater register below includes operating limits and ratings:.
+This section
+details the configuration
+parameter set for Ihe product; Entries include bolh mechanical and electrical
+specilicalions,
+Unit Type
+Hydraulic Power Unit
+Operating Pressure
+180 bar
+Fluid Flow
+48 Umin
+Supply
+480
+60Hz
+Cooling
+Water-cooled
+Motor Power
+75kw
+exchanger
+Filtration
+10 um retum;
+25 Hm
+Oil Type
+HLP 32
+suChon
+Frame Material
+Stainless Steel Frame_
+Protection Class
+IP65
+Working Temp_Range
+10*C t0 55
+Battory Capacity
+10 An
+Pump Type
+Piston Pump
+Dimensions (LxWxH)
+1000
+650 X 1000 E
+Mounting
+Rack Irame
+Charging_ Time
+Noise Level
+68 dBLA)
+Service Interval
+12 months
+Hotal Weight
+230
+Control Valve
+Directional 41/3
+Material of Construction;
+lem
+Raw Materal
+Pressure
+Brass CZ12-
+Ballery Pack
+Lithium-Ion Cell Pack
+Wooden Pallet
+Trealec
+Pine Wood
+caranic Oxde
+Power Switch
+Polycarbonate
+Copper
+Cooling Ge
+Pack
+Silicone Rubbe
+Rubber Gaskel BOmm
+Nitrilc Rubber_(NBR)
+No;
+and
+Voltage
+Valve
+Euse

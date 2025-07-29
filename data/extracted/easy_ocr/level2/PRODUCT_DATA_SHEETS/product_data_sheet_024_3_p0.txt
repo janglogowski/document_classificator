@@ -1,0 +1,60 @@
+Component Overview
+Report No: 6652146
+Product ID: Ms 60OP
+Date: 2024-04-13
+Model Type
+Cooling Grculation
+Rated Pressure
+250 bar
+System
+Flow Rate
+75 Lmin
+Operating Voltage
+480VLeoHz
+Dimensions
+LWtHL
+12004 70044100mM
+Contro
+Valve
+Directional 41
+Total
+Weight
+250ke
+Working Temp Range
+scto"Sc
+Cooling_
+Ar-Gooler Oilrgion
+WPe
+Geam
+Component Materials Ovenviewa
+Item
+Composition
+Specification
+Bearing 62027
+Stainies5 Stee_
+DINEN10025
+Battem Pack
+Lithium-lon CelPack
+Cass
+[olernce
+Hinge
+Stainless Steel304
+RoHS comoliant
+Cooling Gel Pack
+Silicone Rubber
+CEcertifled
+Digital Display Unit
+astic
+@jss
+Folenng
+Gasket Sheet A4
+Nitrile Rubber (NBRI
+ISO 2768
+Connector 2P
+Glass-Filled Mon
+Class
+Toiernc
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+Pump
+Pumo

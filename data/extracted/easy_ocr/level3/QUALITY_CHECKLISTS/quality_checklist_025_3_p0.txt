@@ -1,0 +1,59 @@
+Inspection Register
+Revieu
+Sample Tier
+Defect Class
+Comments
+Tccm
+Specs
+Hold
+Missing
+labels
+Levele
+Loose parts inside
+packaging
+leve
+Packaging daes not match signed
+sample
+Critical impact
+Waod splinter Or sharp paint on
+product
+Level/
+Critical impact
+Nol assembled
+per dravang
+Leve
+Critical impact
+Mlssing logo
+warning label
+Leve
+Issue ppsene d
+Dead
+ect
+packaging
+Level
+Needs review
+Dust/debris inside packaging _
+Critical impact
+connectornot
+working
+Level
+Needs revlew
+Battery 5
+inciucec
+Leve
+Minor
+Issue Observed
+Functionality test failed
+Screws loase
+Mnissine
+Leve
+Minor issue observed
+Reterence Standards:
+Standard
+ECiON
+CE Directive
+2011
+IEC 61010
+3rd Ed_
+Points
+Minot

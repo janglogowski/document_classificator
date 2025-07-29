@@ -1,0 +1,30 @@
+Component Overview
+Intemal No.
+PR-694
+Product ID: TX-820V
+Date: 2023-09-19
+Model Type
+Pneumallc Control Unil
+Design Pressure
+250
+Flow Rate
+bar
+Protection Class
+Operating Voltage
+400 VS0HHZ
+Oil Type
+IP67
+Frame Waterial
+Stainless Steel Frame
+HLP 46
+Service Interval
+Total Weight
+180
+monins
+Reservolr Capacity_
+Motor
+ZSkW
+Prepared by: Peter Schmidt
+Approved by: Jan Kowalski
+Umin
+Power

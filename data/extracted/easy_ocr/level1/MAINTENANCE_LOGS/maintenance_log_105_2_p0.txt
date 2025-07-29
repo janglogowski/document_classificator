@@ -1,0 +1,93 @@
+Machine Log Summary
+2023-12-29
+follovaing entrles detal
+TeventveAno comecnvemannenancemarls
+Chec< thar all downtime events are properly
+tegorized and logged.
+Unig Maintenance Bxtraciig prepared iorcompiiance budic traiig
+Confirm that gervice intervals fcllowv
+the prevcntive schedule,
+Spare Parts Used:
+Pilnt Name
+Part No
+Qty Used
+Hinge Set
+P-7209
+Sensor_Module
+P-1937
+Dilfitot
+P-17a0
+Hachine ID
+Hachine
+Type
+Operator
+Duration
+Prevous
+Are &
+Notes
+Scnvico
+MC-20
+Assemoly
+nspe ctior
+Carlos
+2023-71-11
+WVoodgr
+Rabu[
+Gacie
+uaal
+checte0.
+MC-285
+CNC Milling
+Praxvuntivc
+Laumi Rossi
+2024-17-70
+Ruplilcud
+Machine
+(S41 .
+Mc-?59
+Packaging
+Comacive
+Lauia K0ssi
+7074-05-70
+No ISS4A?
+Line
+Tomno
+Mc?14
+Assemaly
+Insuecting
+Phlm
+2024.0la7
+Aligument
+Robot
+Schmidt
+ndiusico
+MC-243
+Cutter
+Orewentive
+Lavte
+Roggh
+2023-12-23
+Calibration
+chect
+MC-267
+Lathe
+Corrective
+Anna
+2024-11-15
+Changed oil
+Noivuk
+inu ens
+MC-212
+Cutter
+Orenentive
+4nna
+2024-a-02
+Li-lor
+Noival
+halten mack
+9ericed
+Lulnonzed Uy;
+Peler Schmidi
+Operator:
+Jura Rossi
+otninges

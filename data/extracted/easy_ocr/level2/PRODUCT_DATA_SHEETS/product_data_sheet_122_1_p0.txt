@@ -1,0 +1,66 @@
+Unit Configuration
+Proiec-
+ON-NOH
+Interna
+6565909
+Prepared
+JanKowalski
+Approved By:
+Laura Rass
+locatian:
+Piant 1C
+Date: 2023-12-07
+Confirm that performance ranges Comply with project requirements Below are the technical
+parameters and
+consthuction
+materials for the unit: Use this sheet to confirm engineering requirements and
+toletnces
+This report
+exlact
+nrebared
+design-verification audits: Check that all material specs align with supplier certifications;
+Configuration Type
+Pneumatlc Contro
+Unt
+Rated Pressure
+180
+Fluid Flow
+60 Llmin
+Total Weight
+Supply
+400 
+50Hz
+Charging Time
+Filtration
+10 Umn return, 25 pm
+Service Interval
+montns
+suction
+Motor
+Power
+J1kW
+Jype
+Vane
+Noise Leei
+70 dBLA)
+Reservoir Capacity
+Battery Capacity
+10 Ah
+frame
+Material
+Powder-coated
+Steel
+Range
+10"Cto 55*C
+Protection
+Class
+ip65
+Oil Type
+Control Valve
+Proportional 4/2
+BYE
+Voltage
+Pump
+Puinp
+Working
+Temp

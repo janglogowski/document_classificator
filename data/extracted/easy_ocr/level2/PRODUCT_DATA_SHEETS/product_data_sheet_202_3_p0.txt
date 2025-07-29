@@ -1,0 +1,73 @@
+Product Data Sheet
+Report No;
+8050799
+Product ID
+DX-777T
+Date: 2024-06-27
+Model Type
+Hydraulic Power Unit
+Design Pressure
+250 bar
+Fluld Flow
+48 Llmin
+Voltage
+400 
+50 Hz
+Noise
+Leve
+70 dBC
+Cooling
+Air-cooled oil radiator
+Iype
+Piston
+Dimensions (LxWxH)
+1000 x 650 
+1000 mm
+Battery Capacity
+10 Ah
+Working
+Range
+5 ( to 45 C
+Charging Timc
+Reservoir
+Capacity
+120 L
+Component Materials Overview:
+sudcomndpnerl
+Raw Materia
+specification
+NBR
+Mcie
+Rubbes
+(NBR)
+TTDSIVE
+Capacitor 450V
+Aluminum 6061-T6
+Anticarrosive
+Gasket Sheet 44
+Nitrile Rubber (NBR)
+Electrical Frade
+herma
+-use
+Ceramic Oxide
+ISO 2768
+Steel Sheet 436
+Cardan
+Steel 436
+Heat-resistant
+Heat Sink ALU
+hiuminum
+6061-T6
+Anlicarrosve
+Support Foot Stee
+Stainless Stee
+304
+CE certified
+Prepared by: Laura Rossi
+Approved by: Anna Nowak
+Pump
+Pump
+Temp:
+-Rinb
+G0mim)
+Antico

@@ -1,0 +1,74 @@
+Component Overview
+Project:
+BZ-660F
+Interal No
+5883247
+Prepared
+Carlos Garcia
+Approved By:
+Laura Rossi
+Location: Plant 34
+Date
+2023-10-03
+Ensure all reterenced standards are Up t0 date.
+This technica
+Ovenew
+supports the product-release
+checklist: Entries include both mechanical and electrical specifications: Use this spec sheet t0 validate
+assembly instructions. Check that
+material specs align with supplier certifications. Below are Ihe technical
+parameters and
+consiniction
+materials for the unit. The parameter register below includes operating limits
+ratings:
+Unit Type
+Cooling Circulation
+Design Pressure
+180 bar
+Svstem
+Throughput
+30 Lmin
+Supply Voltage
+230 V / 50 Hz
+Filtration
+10 pm return; 25 Vm
+Total Weight
+230 kg
+suction
+Charging Time
+Control
+Valve
+Proportional 4/2
+Cooling
+Air-cooled oil radiator
+Mounting
+Skid base wilh vibralion
+pads
+Motor Power
+5.5kW
+Dimensions (LxWxH)
+1000
+650 *
+000 Mm
+Noise Level
+68 dB(A)
+Service Interva
+1000
+Protection Class
+Ip54
+Frame Material
+Stainless Steel
+-rame
+Archive Ihis surmary for future design-charge
+management:
+any missing parameters for urgent
+specitication updates
+Use this summary
+cross-check with BOM and inspection reports_
+Ensure that tne
+listed materials are approved for the
+application
+Confirm that all test conditions are accurately represented,
+Ensure glossary terms match the engineering nomenclature: Data sheet has been peer-reviewed by the
+engineering team
+Flag

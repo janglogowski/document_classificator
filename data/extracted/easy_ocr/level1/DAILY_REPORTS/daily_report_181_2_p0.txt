@@ -1,0 +1,86 @@
+Shift Summary
+KepoNo;-
+PR 682
+Customer'
+FINLAND
+Supervisor:
+4nne
+Nowak
+Departmenl;
+Maintenance
+Shilft:
+(Morning_
+13-05-2025
+Use this overview to assess throughput and efficiency
+aveis
+Use this shift summary
+drive continuous
+Imiprovernert actions 
+6ase [Eviintodav <
+operation log andoutput summary for each workstation:
+Machine
+Task
+Operator
+Time
+Comments
+Therma
+Energy
+Spent
+Reading
+Used
+MC-208
+Welding
+MAteusz
+13.30
+15.12
+102
+Recalibrated
+55.9
+1.04
+Jarvna
+MC-201
+Assembly
+Wiktor
+06.30
+07.09
+76.9
+1.66
+Kopczynski
+MC-209
+Drilling
+Ptzemysav
+11.30
+12.51
+N/A
+68.9
+Wasik
+MC-204
+Assembly
+Wiktor
+06;15
+07.21
+71.4
+Kopczynski
+MC-201
+Welding
+Wiktor
+08.00
+Q8.41
+N/A
+71.8
+2.91
+Kopczynski
+MC-?07
+Polishing
+09;15
+09.47
+60.3
+2.90
+Kowalski
+Prepared
+Carlos Carcia
+Approved by:
+Pete
+Schmidt
+From
+by:

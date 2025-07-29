@@ -1,0 +1,110 @@
+BOM Report
+Customer ID: CANADA
+Coordinator: Peter Schmidt
+Date:
+2024-06-28
+Product ID: QN-770H
+Interna
+No : 8737012
+Order Qly: 279
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+2.85
+59
+pCS
+0.50
+20.00
+ISO -
+Gasket
+verified
+80mm
+Heat
+3.44
+59
+2.70
+83.70
+Switch
+Resistant
+tested
+eeve
+Copper
+29/
+0.60
+23.40
+Switch
+Wire 3mm
+tested
+OK
+Heat
+590
+2,70
+51.30
+Resistant
+alignment
+Sleeve
+adjusted
+Fuse 54
+1.01
+DCS
+0.30
+3.60
+Certified
+batch
+Baltery
+1.35
+0%
+DCS
+25.00
+400.00
+ISO
+verified
+Set
+2.3
+10%
+pCS
+20.00
+Urgent
+Coppe
+0.67
+0%
+0.60
+23.40
+Wire 3mm
+alignment
+adjusted
+Packaging
+0%
+pCS
+1,00
+6.00
+SKF
+Box
+brand
+Epoxy
+0%
+DCS
+7.30
+240.90
+Li-Ion
+Resin Kit
+battery
+installed
+Total
+Amount:
+872.30
+Approved By:
+Sourcing Department:
+Hinge
+Pack
+Hinge
+Hinge
+0.66

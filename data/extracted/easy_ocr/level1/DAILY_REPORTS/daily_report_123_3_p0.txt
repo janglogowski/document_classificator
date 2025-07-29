@@ -1,0 +1,126 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-189
+Customer
+BELGIUM
+Shift: '
+(Night)
+Date: 04-10-2024
+Machine
+Operation
+Technician
+Start
+End Time
+Mime
+Comments
+Condition
+Time
+Spent
+MC-206
+Polishing
+Jan Kowalski
+10.30
+12;16
+106
+N/A
+In progress
+MC-207
+Welding
+Wiktor
+13.30
+14.44
+progress
+Kopczynski
+MC-209
+Assembly
+Dawid
+10.00
+10.27
+Delay
+Campleted
+Oszmianczuk
+MC-?07
+Cutting
+Dawid
+14.00
+15.17
+N/A
+progress
+Uszmianczuz
+MC-202
+Assembly
+Wiktor
+10.00
+11.37
+Recalibrated
+Delayed
+Kopczynski
+MC-206
+Cutting
+Wiktor
+10.15
+11;44
+Delayed
+Kopczyski
+MC-204
+Assembly
+Wiktor
+10.00
+10.28
+Completed
+Kopczynski
+any unscheduledstops
+the downtimc register
+Ensure shift-handovcr notes include any pending issues
+The performance recap supports the moming brieting agenda: Refer -
+remarks foranyrework or quality
+concerns
+This closure summary signals readiness for the next production run
+No critical delays were
+observed; plcase address any minor IsSUCs noted:
+Item ID
+Target Qty
+produced
+Scrap Qty
+Scrap
+Rework Qty
+Notes
+Qty
+QP-GG0F
+272
+257
+5.5146
+Scrap
+contirmeg
+TY-350G
+256
+256
+00%o
+Rewan
+needec
+KP-320E
+171
+154
+9470
+Scrap
+contirmeg
+SB-140D
+215
+214
+0.4700
+Scrap
+confirmed
+MC-540X
+197
+178
+9,6406
+Rewanc
+needed
+SB-140D
+155
+154
+6590
+Rewar
+needec
+Approved by:
+Prepared by:
+Nolc

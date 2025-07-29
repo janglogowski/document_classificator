@@ -1,0 +1,92 @@
+Equipment Record Report #2032441
+Date: 2024-05-18
+acnint
+Machinc
+Scrvice Typc
+Technician
+Duration
+Atcir
+Notu 
+MC-2SJ
+Fidraulic
+corrective
+Anna Nowak
+Flant 2B
+Wooden pBlleI
+Prusis
+checked
+MC-2J;
+Assembiy
+Praventive
+Anna Nowak
+Flant JF
+Mphteneo
+Ronal
+lonsenlls
+MC-Zuz
+Plasmi
+Cutter
+corroctive
+Anna Nowak
+Plant 1C
+Replaced
+cnolani
+MC-221
+Assembly
+Insp ecticn
+Lauro
+Ro5;i
+Plant 34
+Refiad oil
+Robot
+IHLP 46
+MC 262
+Luthic
+curtuctive
+Anma Nowuk
+Plant 2E
+RupluccdiuS
+ISAL
+MC-284
+Conveyo;
+preventive
+Catce Garcis
+Plant 34
+Warneaskel
+replaced
+MC- 270
+Lasel Cnter
+Corrective
+Laa Fcee
+Plant IC
+Callbration
+check OK:
+MC-78 
+Belt
+Corrective
+Peter Schmidt
+Plant 34
+MC 235
+Lathe
+Preventive
+Jan Kowalski
+Plant 20
+Relilled ail
+IHLP 46)
+Archwe tnis summar
+tormuture reterence
+Ensure next preventie 5eMiCE
+schequlbo
+accordine
+pian
+Overai
+equiptnent candlition
+satislactory pOst-mnaintenance; Usetnis clesure note [0 upcate Ihe maintenanceKF
+Tacket
+Lubrication Checked
+Calbiation Verimied
+Emerrcncy Stop lcstcd
+Approved by:
+Serviced by:
+Conje
+ChHS

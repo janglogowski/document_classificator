@@ -1,0 +1,107 @@
+COMPONENT BREAKDOWN
+Customer ID: GREECE
+Coordinator: Jan Kowalski
+Date:
+2025-03-19
+Product ID: ZR-2O5R
+Interna
+No.
+6842080
+Order Qly: 79
+Use this schedule of parts to align with sourcing and stock levels_
+Below is the component listing
+and associated costs for the upcoming production batch. The parts manifest here
+designed to
+support procurement workflows. This summary lists every item required, with per-unit pricing
+details;
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Spring
+1.09
+0%
+pCS
+0.05
+1.15
+Eco
+Washer
+compliant
+M1O
+Rubber
+3.47
+10%
+pCS
+0,55
+SKF
+Stopper
+brand
+Plastic
+2.51
+10%
+pCS
+1.10
+14.30
+Li-Ion
+Cover
+battery
+150x150
+installed
+Insulation
+2.13
+0%
+pCS
+3.20
+99.20
+Foam Pad
+Insulation
+3.28
+2%/
+pCS
+3.20
+92.80
+For
+Foam Pad
+export
+Plastic
+3.15
+10%
+pCS
+1.10
+2.20
+Certified
+Cover
+batch
+150x150
+Control
+2.91
+5%/
+pCS
+12.00
+408.00
+Eco
+Panel
+compliant
+Mount
+Wooden
+1,32
+0%
+pCS
+15,00
+195.00
+Certified
+Pallet
+batch
+Totals include estimated over-consumption allowances and current unit rates. The cost subtotal
+supports financial forecasting for the next cycle_
+Total
+Amount:
+813.20
+Approved By:
+Sourcing Department:

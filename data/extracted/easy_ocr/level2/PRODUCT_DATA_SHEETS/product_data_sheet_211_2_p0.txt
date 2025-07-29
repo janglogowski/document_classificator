@@ -1,0 +1,64 @@
+Product Data Sheet
+This data sheet pravides key specifications and
+materia
+details. Refer
+this configuration summary far unit-
+designation mapping: Please review the specifications and material composition listed below. Entries include both
+mechanical and electrical specifications- Check that all material specs align with supplier certifications-
+Product ID:
+XD-710R
+document
+PR-594
+Prepared by: Carlos Garcia
+Approved by: Laura Rossi
+Date: 2024-05.26 ,
+Unit Type
+paeumatic Cantno
+Unit
+Rated Pressure
+250 bar
+Flow Rate
+JO Lmin
+ppcratine
+Voltage_
+400
+50Hz
+Battery Capacity
+2 Ah
+Charging Time
+Filtration
+10 um retum; 25 um
+Dimensions (LxWxH)
+1000
+650 x 1000 mm
+suclion
+Noise Level
+HddbIA
+Ensure glossary terms match the engineering nomenclature
+Material choices
+process data
+have been verified for
+compllance
+Refer to parameter table for operating ranges and tolerances Check that all section headers fallow the
+product template: All summary comments
+have
+neen recorceo
+the revision log: Contirm that all test conditions are
+accurately represented
+Flag
+missing parameters for urgent specification updates
+Material
+Construction:
+Label
+Bace
+Heat Sink ALU
+Aluminum 6061-16
+Rubber
+Gasket SOmm
+Nil
+Rubbc
+(NBRE
+Gaskel
+Sheet A4
+Nitrile Rubber (NBR
+No .

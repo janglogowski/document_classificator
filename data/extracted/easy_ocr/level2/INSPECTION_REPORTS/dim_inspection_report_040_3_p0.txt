@@ -1,0 +1,107 @@
+Inspection Results Summary
+Inepectlon perlormed by Anna Nowak on 2024-01-06.
+Thls data extruct
+proputed (or quaiy contral shn Oi, Check that all dlmensione camplv wiih IS0 And compunv
+stondurds, Entrles Irclude both pass/all murkers and devlatlon magnitudes, All mcnsurcd values ure Umestamped Ior
+Audlt put noscs
+Ensure mnensuromiont mnethod; allen wlth callbratlon stanurds
+Enelc onmwentol Condltlona; Tempocogucer 20,4
+Hutmlclv: 33 %
+Produgh Hol
+Componong
+Mnnuneni
+Nomlnal
+Obeurved
+Dill
+Status (V/XI
+T- Z0qn
+Ueurlng 6202
+Inner
+6.25
+6,42
+70,13
+PaSs
+Dlumatcr
+Cea90si
+Woadun
+Helght
+11,61
+11,73
+0,10
+PaSS
+Pallul
+CN:1S0C
+sholt souinm
+Duplh
+90.8
+HLO
+40Z
+PASS
+KVaJOOK
+Rubugt
+thlckuoae
+10, Hh
+14,05
+4017
+PaSS
+clan
+BOmm
+Lpsssv
+Qalloty Pock
+Dopuh
+42i8
+42,66
+0,12
+PaSS
+PwssY
+Dearlng 6202
+Depuh
+64,4
+64,51
+0,01
+PaSS
+HAJJQA
+sholt soumim
+pepu
+10,06
+PaSS
+AZaJoui
+Dattoty Pack
+Wicluh
+8961
+PaSS
+XK G10U
+Qolloty Pack
+Hola
+40,Oh
+PaSS
+WPSV
+Widu
+O
+Dass
+ON ZQH
+Hinge
+Wkcknci
+PASs
+RXJIOL
+SulLSQQu
+Uowkl
+H4
+AaA
+@
+Vass
+P1 601/
+Woncug 6202
+Oopth
+90,05
+9022
+10,47
+PAss
+QP'aggui
+Hattey Puck
+Hold
+
+16 J0
+0,0}
+Vass
+Hut"

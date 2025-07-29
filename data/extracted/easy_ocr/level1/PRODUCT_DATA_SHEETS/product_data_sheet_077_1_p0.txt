@@ -1,0 +1,82 @@
+Praicct:
+PL 6012
+Mmenno
+1392194
+Prepared By:
+Peter Schmict
+Appraved
+Laura Rosse
+Location; Plant 1C
+2024-04-07
+Ensure
+referenced standards are up to date: This report extract
+prepared for design-veritication audits Contirm
+that performance ranges comply with project requirements
+Refer
+this configuration summary for unit-designation
+pping;
+Unit Type
+Hydraulic Power
+Design Pressure
+210 bar
+Throughput
+30 Limin
+Supply Voltage
+60 Hz
+Service
+intena
+1000
+Dimensions (LxWNxHL
+1000 * 650 X 1000 mm
+Mlaunting
+Uvali-mountec
+Total Weight
+Battery Cap
+Cooling
+Water-coqled
+exchanger
+Filtration
+10 um retum; 25 um
+Pump Type
+Vane
+suction
+Reservoir
+Capacity
+prorection
+Cnss
+p6
+Oil Type
+HLP 68
+Noise Leve
+72 dB(A)
+Material
+Construction:
+Item
+Rawv Materia
+Bearing 6202 7Z
+Stainless Steel 304
+Cooling
+Pack
+Silicone Rubber
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Cannedar JF
+Fled
+ballery Pack
+Lichium-icm
+Cell Pack
+Tetlon Tape Roll
+etion
+Tape Roll
+LED Light Strp
+Glass-Filled Nylon
+Capacitor 450v/
+Aluminum 6061-T6
+Gasket Sheet 44
+Nitrile Rubber INBR 
+Date
+Uott
+pacity
+Pump
+Giass
+Naon

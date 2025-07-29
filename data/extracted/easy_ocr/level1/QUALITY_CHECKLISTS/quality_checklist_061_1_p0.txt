@@ -1,0 +1,68 @@
+Inspection Summary
+#9954841
+Date: 17.07.2025
+Product ID
+MS-sOOp
+Customer ID
+FINLAND
+Item Description
+Pressure
+Valve
+Ensure
+non-conforming
+manks are clearly documented
+This summary supports the production-release quality
+gate
+The following table outlines Inspection
+crileta
+and classification levels. This closure summary indicates
+compliance with inspection crteria; Use this list t0 confirm adherence
+AQLand satety standards Archive this list in
+the quality-management system; Refer
+the quality register tor sampling-plan reterences.
+Quality Check Items
+Sampling
+Classification
+Remarks
+Level
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Loose
+Dal
+nside
+packaging
+level
+Minor Iue ObseNld
+Instruction manua
+missing
+damaged
+Oose
+Needs review
+splinter
+sharp point
+Level /l
+product
+Missing safety labels
+Levcl
+Nnor SCuC OOSCNco
+Package
+Level
+Critical impact
+completer
+Uncorrect Orentation
+Levem
+Needs reviel
+AQL
+Critical
+Vaic
+Ninor
+Detault
+Customer
+specific
+Hinges
+Wood
+sealed
+Level

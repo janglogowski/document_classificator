@@ -1,0 +1,91 @@
+Tolerance Check
+Inspection performed by Peter Schinidton 2025-04-02.
+Review recorded tolerances Jgainst engineering specifications; Below are the recorded mezsurements compared
+against nomina
+tolerances: This data extract
+prepared f0
+quallty-cantrol sigr-aff. Cneck that all dimensions comply
+wath I50 and company standards- This summary
+Tipasuretenk
+sunports metrolog
+traceability This repont
+presents
+the dimensiona
+medslremente
+inspection results:
+Environmenta
+Conditions: Temperature: 21.1 *C, Humidity: S1 %
+Proupct Rel
+Part Name
+MCasuremeni
+Target
+Obscivcd
+Diff
+Status (vixi
+TR-ZCUB
+Graphite Pad
+Thickness
+10.22
+10.23
++0,01
+GH-7701
+Sneer
+Length
+23.87
+23.80
+0C7
+436
+LP-555v
+powe
+Gtcr
+Height
+99,39
+99.51
+t
+LP-S55v
+Ring NBR
+Wicth
+69,94
+69.82
+0,12
+68mm
+MR-160H
+Graphite Pad
+wicth
+89,61
+89.72
++
+RE-85OC
+Graphite Pad
+Height
+32.88
+32.69
+390k
+Batlery Pak
+innci
+75.09
+75.12
++0.03
+Diameter
+LR-8903
+Wlodden
+Depth
+6,01
+10.18
+Pallet
+NE-J45A
+Ruomer
+Winth
+81.41
+81.-54
+40.13
+6as P
+somm
+NU-440Z
+Waoden
+Depth
+95.99
+95.92
+0.07
+Pallet
+Sec

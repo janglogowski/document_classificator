@@ -1,0 +1,57 @@
+Customer ID: CANADA
+Prepared by: Anna Nowak
+Product ID:
+890B
+Internal No.=
+6685547
+Below is the component
+listing and associated costs for the upcoming production batch: Refer to
+this parts register to plan raw-material purchasing: This extract shows the bill of components and
+total projected spend. Use this schedule of parts to align with sourcing and stock levels_
+The
+Im
+ponent roster below includes unit costs and batch codes The following table summarizes the
+materials and quantities needed forthe current project:
+Item
+Terminal
+Wooden
+Battery
+Termina
+Bearing
+Heat
+Description
+Block AP
+Pallet
+Pack
+Block 4P
+6202 ZZ
+Resistant
+Sieeve
+Qty
+673
+213
+925
+202
+UOM
+Unit Price
+5.00
+25.00
+3.40
+2.70
+Amount
+288.20
+7,905.00
+6,225.00
+724.20
+1387.50
+545.40
+Remarks
+Urgent
+Certified
+ROHS
+ROHS
+batch
+compliant
+compliant
+TOTAL: 19,075.30
+LK-=

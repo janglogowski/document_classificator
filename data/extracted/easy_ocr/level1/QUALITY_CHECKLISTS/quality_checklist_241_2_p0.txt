@@ -1,0 +1,74 @@
+Conformance Log
+Use thls extractto coordlnate
+sign-off with the QA manager. Ensure all non-conforming marks are clearly
+documented; All checklist entries are timestamned for traceability. This checklist captures quality inspection points
+and sampling levels.
+Product ID
+VR-940T
+custamcrId
+SWEDEN
+Item Description
+Audit Criteria
+Sampling
+Classification
+Comments
+Levei
+Component Criteria
+Lonnector no
+working
+Levei
+Critical impact
+Paint smearing Or scratches
+15 5me
+observed
+Packaging does not match signed
+Level Il
+I5 EME
+cbserred
+sampie
+Product doesn t power On
+LATE
+Minoressue
+Dbsened
+Hinges
+LevE
+Mior issu
+Dbsenved
+Package
+nonscalcc
+completely
+LCV
+MnoriSSUC
+obcened
+Missing distributor information
+Levei
+Needs revicv
+Rubber Siitch not working
+Minorissue
+obsened
+Exposed nail with sharp point
+Leve
+Minor issue observed
+Rubber texture
+plossiness
+Level Il
+Needs review'
+mismatch
+Woad splinter or sharp point on
+Level II
+Needs review'
+pFOCUCC
+Missing loro
+waming label
+Dead
+insect
+nackaring
+Level
+Neeos revev
+Supervised bv:
+Ciamp
+Ring
+470nm
+Minor
+Mlnore
+Date:

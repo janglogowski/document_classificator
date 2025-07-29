@@ -1,0 +1,78 @@
+Inspection Summary
+#6235075
+Date: 17.07.2025
+Product ID
+XD-Z10R
+Customer ID
+CANADA
+Item
+Description
+Hex Bolts M12
+This checkist captures quality
+inspection points and sampling
+evels; This section details quality requirements and test
+points for the batch: Below are the items
+be verified during the final product review Use this extract to coordinate
+sign-aff with the QA manager. The following table outlines inspection critera and classification levels, Entries include
+both visua
+functional inspection
+All checklist entries
+timestamped for traceability; This summary
+suppOn
+the production
+lease quality gate: Archive this list in the quality-managerent syster.
+Reviewv Points
+Sample Tier
+Category
+Observations
+Progwict
+Requlrements
+Wrong product size
+Leve
+Critical impact
+Funcrionalintestiailed
+Minor issue obserued
+edees
+plastic
+Leve
+Critical impact
+components
+Paint
+smearing or scratches
+Leve
+Minor issue observed
+incorrect
+quantity
+assortment
+Leve
+Needs reviev
+Missing distributorintormation
+Levp
+Minar issue observed
+Exposed nall with sharp_
+Necd'
+Rubber Switch not working
+KccusrCvicw
+Wsuz
+detect
+housing
+Hinges
+OOSE
+Leve
+Miinor issue Oosenved
+Icose
+Danainsine
+packaging
+Neens
+revew
+AQL Level
+Critical
+Major
+Minor
+Default
+Custamer
+specific
+and-
+items=
+Sharp
+point

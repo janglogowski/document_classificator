@@ -1,0 +1,71 @@
+Unit Configuration
+Project:
+NE-2454
+Document No::
+8706050
+Prepared
+Anna Novak
+Approved By:
+Anna Novak
+Location: Plant 34
+Date: 2024-12-22
+This section delails Ihe conliguralion and parameter set for the product. Use this sheet
+confirm
+engineering requirements and tolerances. The following infommation outlines performance characteristics
+and design data; Check that all material specs align with supplier certifications. This report extract Is
+prepared for design-verification audils.
+Model _
+Pneumalic Control Unit
+Operating Pressure
+210 bar
+Throughput
+30 Lmin
+Supply
+480
+60Hz
+Service Interval
+1000
+Total Welght
+230 kg
+Protection Class
+P65
+Oil Type
+HLP 46
+Pump Type
+Vane Pump
+Battery Capacity
+Reservoir Capacity
+160
+Cooling
+Air-cooled oil radiator
+Noise
+68 dBLA)
+Working Temp
+Range
+5*C to 45"
+Motor Power
+kW
+Frame Materia
+Powder-coated Steel
+Filtration
+pm inline; 10 Um
+Control Valve
+Manual
+Override 32
+retum
+Malerial
+Construclion:
+Label
+Base
+Bearing 6202 22
+Stainless Steel 304
+Insulated Tube 25n
+Thermoplastic Polyurethane (TPU)
+Connector 2P
+Glass-Filled Nylon
+Hex Bolts M12
+Zinc
+lated Steel
+Typo
+Voltage
+Leve

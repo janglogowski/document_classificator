@@ -1,0 +1,114 @@
+Machine Log Summary
+Pamotmet
+On: 2024-06- 06
+Approved bV:
+Caflo Carcib
+Scrvicud DL
+Jan Kov biski
+Entrie? Include wvon
+foens
+Tannicin a33.rnmente
+oan chanae:
+This (cg records all maintenance actlvities performed
+on tNc euipment
+Contigm tnat sgnice Intervuls
+tha prevuntive schuoule
+Ensuro allsafety checks WUrE
+cottipleted
+duran g servicing:
+Roler t0 the malntenanceregister tor Uctalled service histories
+Fleusarevien (hs lOg ior
+#centserice
+aatew,types_
+and temarke
+Saction
+Nacnine
+MC 706
+MC?59
+MC 723
+MC 720
+MC ?85
+KC3
+Lquinment
+Plasma Cutter
+Lotnc
+Packaging
+Assemol
+Pdint Gooth
+Hxdroulic
+Lia
+Rau
+Type
+Ureventve
+Lorective
+Lomactie
+Pmeventive
+Inapection
+Preventive
+Opcrator
+ocicr Schmidl
+Kowalski
+Lufu Poss
+Loute
+RCssi
+Laur Roste
+Putcr Schmiot
+noxmniime
+Cominenu
+Hellled oM
+Alanment o1
+No lsues
+Calbtauon
+Repiaced fuSe
+NCissuer
+(HLP 46).
+Toma
+checkok
+Tono
+adiubte d
+Secton
+Fiacninc
+MC-259
+MC-229
+MC-223
+MC-272
+MC-285
+KC-206
+Equipment
+Lache
+Hyaraulic
+Packaaing
+Paint Bootn
+palt
+Booth
+plasma
+Wypt
+Prevenine
+Inspection
+Usuechom
+nsdectic;u
+Piwvemiive
+nsoccton
+Operator
+Schmidt
+Cino
+Carcis
+Laura Possi
+Kowvalgi
+Kowvalgki
+PeterSckmiot
+Downtime
+Comments
+Ketilled oi
+Mentaneo
+No igsues
+Idasu balt
+Fouuno
+Uptime (96)
+Frror Comnt
+Commonts
+94616
+solt Mjrlanen
+Knlluv
+hine:
+Guter

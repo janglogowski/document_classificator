@@ -1,0 +1,98 @@
+DAILY PRODUCTION REPORT
+Repoit No::
+PR-351
+Customer
+POLAND
+Supervisor:
+Jan Kowalski
+Department:
+Machining
+Shilft:
+Night)
+29-12-2024
+Use this shift summary
+drive continuous improvement actions
+Review the operational data
+track
+comipliance with dally goals. Reler t0 this log
+mionitar shift i
+praductivity andcycle
+4oum
+Machine
+Process
+Technician
+Duration
+Uwagi
+Temp
+Energy
+(min)
+(PC)
+Used
+MC-206
+Assembly
+Bartasz
+09-00
+10.51
+111
+N/A
+64.6
+1.79
+awtzvniak
+MC-205
+Drilling
+Piotr
+08.15
+10.04
+60,5
+1.49
+Lewandowski
+MC-203
+Assembly
+Przemystaw
+06-40
+07.14
+Recalibrated
+78,0
+2.48
+Wasik
+MC-203
+Drilling
+Bartosz
+10.00
+10.27
+Recalibrated
+70.9
+Wawrzyniak
+MC-203
+Drilling
+Agnieszka
+09.00
+10.35
+Recalibrated
+66,3
+1.03
+Ziclinska
+MC-208
+Welding
+Piotr
+06.30
+07:19
+Recalibrated
+68.9
+1,20
+Lewandowski
+MC-208
+Polishing
+Magdalena
+11.15
+13.14
+119
+70,6
+1.90
+Witkowska
+Prepared by:
+Carlos Garcia
+Anprovedhy;
+Jan kowalski
+From
+Time

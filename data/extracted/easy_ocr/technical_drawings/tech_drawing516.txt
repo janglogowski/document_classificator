@@ -1,0 +1,72 @@
+SECTION
+A-A
+SEZIONE
+A-A"
+N3FORI M5 , EQUID
+HOLES M5, EQ. SPACED
+0,01
+0,01
+8
+U
+1
+DETAIL
+PARTICOLARE "B"
+18.5
+SECTION "B-B"
+SEZIONE "B-B"
+[ors Tm 01w]
+-in
+'oem Ri}
+~eroyt 80225
+Jasantlelid
+Anatanei"
+-anbni onacht 318
+~a 463 2 Dzcre Baon
+Cmeoe
+-Encea4des
+FIRST ISSUE
+CICCICNICA
+ILIESCU
+SOMMA
+PUCCETTI
+17,.09
+comailato
+CcmtacatO
+VERIFICNTO
+APPRO ATC
+oleEuicaetescuinin
+LCHALEL
+CHECTEC
+VKI
+LFPROVED
+NOIANOTE
+CALCOLATO
+RLEVATO
+L
+CEIGHTATEQ
+1.4kg
+LEsuird
+[d3 ORETJOROC
+ad
+KODFLORATTFATA
+MCAe FiCtoR
+DiFRo
+K
+AATLKLLAATLKI
+18NiCrMo5 UNI7846
+ICNdA Kipi
+HRC 60-70
+COPERCHIO CUSCINETTO Sx
+poupi Pul? Tpe
+BEARING COVER Sx
+MESBD 150.5
+Feeme
+disechc DRarr
+RCANARCANE
+U
+Termomeccanica
+anica Pompe
+A4
+2046199008
+focLio S-EET
+La Spezia

@@ -1,0 +1,27 @@
+Unit Configuration
+Report No:: PR-467
+Product ID: HF-3904
+Date: 2024-10-16
+Unit Type
+Cooling Circulation
+Design Pressure
+210 bar
+System
+Throughput
+75 4imin
+Supply Voltage
+60 Hz
+Motor Power
+Frame
+Materi?
+Kmminum
+Working Temp: Range
+10*C
+55"C
+Dimensions ILxWxHL
+1200 >
+700 * 1100 mM
+Charging Time
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski
+Frame

@@ -1,0 +1,69 @@
+Unit Data
+Internial No :
+ID: QP-660F
+Flow Rate
+Type
+Date:
+Type
+30 Umin
+Power Unit
+300 bar
+400 V ! S0Kz
+T0 Um
+suctich
+25 pm
+5 Ah
+Steel Sheet
+436
+Pack
+LNNBRI
+Specification
+A36
+Cell Pack
+DIN EN 10025
+CE certified
+Approved by: =
+Specification
+PR-852
+Product [
+Contiguration
+Hydraulic
+2024-11-17
+Pump -
+Design
+Pressure
+Piston
+Supply `
+Pump
+Voltage
+Frama
+Material
+Filtration
+Cooling
+Aumnum
+Frane
+relu,
+Water-coaled
+Battery
+Capacity
+axchanger
+Component !
+Matenals
+Subcomponent
+Ovonview:
+Rubber
+Gaskel
+adom
+Composttian
+Nitrie
+Rubber ,
+Ballory[
+Carbon,
+Steei
+Anllcoirasive
+Lihknllon _
+Prepared E
+Carlos
+Garcia
+Laura
+Rossl

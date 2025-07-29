@@ -1,0 +1,70 @@
+Inspection Sheet
+Archive this list in the quality-management system: Entries include both visual
+functional inspection
+Confitin that
+samplirg levels comply with customer agreements. Use this list =
+confirrn adherence
+AQLand
+safety standards. Refer to the quality register for sampling-plan references
+This closure summary indicates
+compliance with inspection criteria
+Productd
+TL-90OX
+Customcrd
+FINLAND
+Item Description
+Pressure
+vaive
+Quality Check Items
+Sampling
+Category
+Observations
+Levei
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Incorrect orientation in
+LevelIII
+Jesua
+observed
+Exposed nail with sharp
+Level II
+Minor issue observed
+point
+Packaging does not
+Level /
+Needs review
+match
+sample
+Sharp edges on plastic
+Level II
+Minor issue observed
+comoonents
+Incorrect quantity or
+Level IIl
+Critical impact
+Jssormeni
+mismatch
+Level [
+Paint smearing
+Level II
+Minor issue observed
+scratche
+Shipping mark
+illegible
+or missing
+Functionality test failed
+Levei
+Minorissue odsened
+Package
+sealed
+Level /
+Needs review
+compleiel
+Supervised by:
+Date:
+items
+Minoi
+enod

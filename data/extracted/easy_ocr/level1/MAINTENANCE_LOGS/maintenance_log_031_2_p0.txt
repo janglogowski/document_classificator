@@ -1,0 +1,86 @@
+Equipment Record Report
+2024-07-25
+This log records all maintenance activitie
+penotMe
+Bmnmeni
+Entries include work
+oBre
+technicinassienments
+Dat changes
+This service summary supports the
+Mity engineering review
+ReM
+Ihe summany
+Senviceaclicns
+0o vntimestor each Machine
+This gecricncapuurB
+equipment statue
+anany Mbintenbnce odgbrations
+Chec< that aUL
+downtiru Gverts are properly categorized und lodaed
+Spare Parta Uqed;
+Part Name
+Part No
+Uzed
+Switcn Asscmbl
+9986
+Sealing Gaske
+P-7128
+Unit Code
+Macnine
+Service
+Operalor
+Downtime
+Previous
+Camnments
+Type
+Service
+MCZ/J
+Pasma
+Correctie
+Feter
+2023-11-16
+Cutter
+Schmidi
+MC-24/
+Piasma
+Corrective
+Laura Rossi
+2020-04-05
+Calibration
+Cutter
+ChBC
+MC-Z71
+PBCkapinp
+Correctie
+Peter
+2uz4-01-
+Replaceo
+Ling
+Schmidt
+cootain
+MC-216
+CNC Nilling
+Inspection
+Laura
+Rossi
+2023-11-25
+Sbnson
+Hachint
+fecnlibrated
+MC-251
+Plasma
+Provcntnt
+Luura
+Rossi
+2023-U9-21
+Woodcn
+Cutter
+allet
+Chacen
+Peihr Schmnidi
+Perormeopy:
+Carc'
+Garcig
+0
+Sl3nco

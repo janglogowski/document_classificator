@@ -1,0 +1,92 @@
+Production
+Report No:: PR-396
+Customer: POLAND
+Shift:
+(Night)
+Date: 05-03-2025
+Equipment
+Task
+Technician
+Begin
+End Time
+Time
+comments
+Stage
+pent
+MC-204
+Polishing
+Magdalena
+11.00
+11.46
+Delayed
+Witkowska
+MC-207
+Assembly
+Magdalena
+09.30
+11.23
+113
+NIA
+Completed
+Witkowska
+MC-208
+Assembly
+Dawid
+14-00
+14.45
+NA
+Delayed
+Oszmianczuk
+MC-206
+Assembix
+Jan Kowalski
+10.15
+14.25
+Delayed
+MC-205
+Polishing
+Bartosz
+13.00
+14.09
+Completed
+Wawzyniak
+MC-204
+Drilling
+Dawid
+10.30
+11.12
+Delayed
+Oszmianczuk
+This closure summary
+signals readiness for the next production run. Use this summary to update the overall
+production dashboard, Note any unscheduled stops in the downtime register , All operator notes have been
+archived for review. Record any adjustments to shift schedules
+staffing here.
+Product ID
+planned
+Achieved
+Defect Qty
+Rejection
+Rework
+Notes
+Qty
+Qty
+Count
+KP-320E
+140
+119
+15.0080
+PL-601Z
+217
+202
+91%0
+Rowork
+needed
+XK-610U
+14.37%
+IR-2OOB
+261
+6.454
+Approved by:
+Prepared by:
+Log

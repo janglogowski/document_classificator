@@ -1,0 +1,83 @@
+Conformance Log
+This summa
+sunponts
+the production-release quality
+This section details quality requirements and test
+points forthe batch. This closure surmary Indicates comrpliance with Inspection criteria. Use this extract to
+coordinate sign-off with the QA manager.
+Product ID
+CE-905L
+Customer ID
+POLAND
+Item Description
+Grease Tube 250ml
+Inspection Checklist Points
+Sampling
+Classification
+Notes
+Level
+Specs
+MA
+Hold
+Incatrectharcade Or Abe
+Needs review"
+Functionality test tailed
+Exposed nail with
+point
+Leve
+Needs review"
+Shipping mark
+illegible or
+Level I
+Minor issue observed
+missing
+pDcad
+Live insectin
+Leveli
+Critical Impact
+packaping
+Insttuction Manua
+missing
+Level II
+Minor issue observed
+0r damaged
+Package
+not sealed
+Minor issue observed
+completely
+Packaging does not match
+Level III
+signed sample
+Rubbei
+Foxltc
+glossincss
+Needs review
+mnismaicn
+Wrong product size
+LAVEL
+Critical Impact
+defectonhousing
+Naeds [veU
+Rubpe
+Switch not working
+Level
+Carton
+damaged
+Level II
+markings incorrect
+Connector not
+working
+Level
+Product doesn t power
+Level_
+Critical impact
+DusUdcbris inside packaging
+Level
+Needs revicwv
+Supervised by:
+Date:
+Bate.
+Wem
+sharp
+Viua
+Lave

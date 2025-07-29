@@ -1,0 +1,89 @@
+Tolerance Check
+ecnnician
+Carlos Garcia
+Inspection Date
+2025 06-21
+This dala extract
+prepared for quality-control sign-off. Reler to lhe dimensional log for all component size
+readings. This report presents the dimensional measurements and inspection results. The following data
+captures key dimensions and any deviations identified. Use this results summary
+trigger any corrective
+actions. Use this examination summary
+confirm component conformity -
+Article No.
+GL-9805
+HF-390A
+MR-160H
+KP-320E
+WD-1805
+T-9OOX
+FT-730X
+Part Name
+Steel
+Plastic
+Battery
+Snaft
+Rubber
+Bearing
+Shalt
+Sheel A36
+Rivels
+Pack
+500mnm
+Gaskel
+6202 ZZ
+5dumr
+80mm
+Dim.
+Thickness
+Width
+Widin
+Depih
+Hole
+Width
+Wnen
+Diamete
+Targel
+71.18
+A
+78.18
+Actual
+6.54
+71,.36
+97.28
+76.93
+66.04
+78.06
+19.7
+Diff
++0 17
++018
+#008
+~0.11
+-0,03
+4.12
+0,06
+Pass/Fail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Archive this inspection summary for regulatory documentation;
+Refer t0 deviation column for any out-of-
+tolerarce measurerents. Please address any NOK iterns before proceeding l0 the next production stage
+This assessment reflects the latest metrology results
+Instrument Calibration Log
+Instrumeni
+Serial No_
+Last
+Calibration Date
+Laser Scanner
+63059
+2024-10-16
+Lase
+Scanner
+96736
+2024-09-07

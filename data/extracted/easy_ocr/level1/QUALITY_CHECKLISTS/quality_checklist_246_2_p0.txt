@@ -1,0 +1,57 @@
+Quality Inspection List
+Below are the iterns
+be verified during the final product review All checklist entries are timestamped for
+traceability. This summary supports the production-release quality Bate;
+Please rpview each
+checklist point and mark
+the sampling results. Confifm that sampling levels comply with customer agreements
+The following table outlines
+Inspection criterla and classificatian levels. Use this extract
+coordinate sign-off with the QA manager. This closure
+summar
+indicates compliance with inspection criteria.
+Product ID
+CN-1S0C
+Customer ID
+NORWAY
+Item Description
+Bearing 6202 ZZ
+Qualitu
+Check Items
+Inspection
+Severity
+Notes
+Depth
+Component Critena
+Hold
+WcdnUC
+Drientatdn
+Level
+Mnar Ssue Jbserued
+Rubbci
+switcinO
+woixine
+LevCi
+Miimoi ISsUC Obsenved
+Scrcs
+los 
+TMIS-Mme
+MinoriSsuc Ooserved
+Wood splinter
+0r snarp point o
+Level lI
+Needs reviev
+praducl
+Dead
+Insect
+packaging
+Levei
+Critical impact
+Sharp edges
+plastic
+Level |
+components
+Missing safety labels
+Mlinorissue onsenved
+Supervised by:_
+Date: _

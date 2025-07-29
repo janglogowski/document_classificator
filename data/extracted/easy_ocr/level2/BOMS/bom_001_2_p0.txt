@@ -1,0 +1,38 @@
+Customer ID: TURKEY
+Prepared by: Jan Kowalski
+Product ID: MS-6OOP
+Internal No:: 4681527
+This cocument provices
+cetated Dreakoown ofal components requircd for the assembly
+Piocess
+entries refectthe latest inventory and suppler rates This extract showsthebil ofcomponents and
+total
+projected Spend This summary Ests every item required, with Per-unit priding detzlls Ensure each
+comporent meets the specifed qualty standards Al line-item Costs are Currentas
+Vendor
+22r
+quoes
+Item Dexcnpton
+WloocenPaller
+ProtecineSeet=
+Steel Stee: 436
+S0mm
+0ty
+872
+285
+351
+UoM
+Uni Puce
+10
+L0
+300
+Amount
+1280.00
+513.00
+103.00
+Remans
+KO-vemed
+KO-eued
+MHon
+pzexikalkd
+TOTAL: 14.948.00

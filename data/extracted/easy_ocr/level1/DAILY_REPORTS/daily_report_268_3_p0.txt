@@ -1,0 +1,115 @@
+Production
+Report No_
+PR-475
+Customer: NORWAY
+Shift:
+(Morning)
+Date: 26-06-2025
+Machine
+Operation
+Operator
+From
+Total
+Remarks
+Condition
+Ime
+MC-202
+Polishing
+Jan
+12.30
+13.58
+Completed
+Kowalski
+MC-202
+Cutting
+Magdalena
+13-00
+13.36
+Delayed
+Witkowska
+MC-208
+Assembly
+Mateusz
+13.00
+13.33
+NA
+Completed
+Jarzyna
+MC-206
+Welding
+Anna
+12.00
+13.30
+Recalibrated
+Delayed
+Nowak
+MC-20g
+Welding
+Przemyslaw
+09.15
+10.31
+Delay
+Wasik
+progress
+MC-206
+Polishing
+Jan
+10.30
+11.22
+Delayed
+Kowalski
+MC-20g
+Welding
+Anna
+08.15
+10.15
+120
+Delay
+Nowak
+progress
+MC-202
+Assembly
+Przemyslaw
+14.15
+15.55
+100
+Recalibrated
+Wasik
+progress
+The performance recap supports the morning briefing agenda_
+All production targets have been logged;
+deviations are highlighted above: Verily Ine final counts against inventory records. Record any adjustrents
+t0 shift schedules
+staffing here. All operator notes have been archived for reviow:
+Item
+planned
+Achieved
+Rejected
+Failure %
+Rework
+Remarks
+Qutput
+Qby
+Qty
+Count
+TX-820v
+119
+102
+14.299
+Scrap
+confirmed
+WD-180S
+287
+285
+0.70%6
+Rework
+needed
+XK-610U
+266
+235
+11,65%
+Scrap
+confirmed
+Approved by:
+Prepared by:
+Log

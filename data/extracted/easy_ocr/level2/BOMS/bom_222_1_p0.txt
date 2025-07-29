@@ -1,0 +1,75 @@
+MATERIAL
+Jan
+Kowalski
+Date
+2024-10-21
+Customer ID: POLAND
+Ccorainator
+Order OtL 352
+Intemal No : 4338028
+Proguct D_ON T7OHL
+uoM
+Rate
+Amount
+Rematks
+Consumption
+Extra
+Qty
+Ne
+Item
+Descrption
+PCS
+0.05
+2.20
+Li-lon
+3.25
+298
+battery
+Spnng
+installed
+Wasner
+M1O
+5.60
+740.00
+For
+Ventiiation
+2.31
+expon
+Gnd
+5.60
+280.00
+For
+10-
+Ventilation
+1.93
+Gnd
+PcS
+0.35
+12.95
+Fot
+3.24
+1090
+expot
+Stainiess
+Bol_M8
+pCs
+0-15
+2.25
+Li-lon
+2.74
+040
+battery
+Spacer
+installed
+2mm
+confirms that all items
+ready for requisition:
+This final review
+437.0
+Total Amount
+Sourcing Department:
+Approved By:
+BILL 
+PcS
+@xpoq
+dre

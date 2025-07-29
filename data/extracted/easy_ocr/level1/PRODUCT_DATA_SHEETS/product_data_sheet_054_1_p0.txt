@@ -1,0 +1,57 @@
+Product Overview
+Project:
+G0H
+9415824
+Prepared
+Jan Kowalski
+Approved Bx
+Peter Schmid
+Location: Plant 2B
+Date: 2024-08-16
+Use this sheet to confirm engineering requirements and tolerances;
+All data entries are traceable t0 design
+revision history- This technical overview supports the product-release checklist_ Check that all material
+specs align with supplier cerifications
+This data sheet provides key specifications and material details.
+Below are the technical parameters and construction materials for the unit: Entries include both mechanical
+and electrical specifications
+Configuration Type
+Hxdraulic Power Untt
+Rated Pressure
+Flow Rate
+75 Umin
+Voltage
+480
+60 Hz
+Filtration
+pm inline; 10 pm
+Motor Power
+5,5 kW
+return
+Cooling
+Water-cooled
+Control Valve
+Manual Override 3/2
+exchanger
+Dimensions (LxWxHL
+1200 _
+700 X 1100 mm
+Working Temp Range
+10Cto 50C
+Battery Capacity
+Noise Leve
+72 dBLA)
+Reservoir Capacity
+160
+Service Interval
+1000
+Qil Type
+HLP 32
+Total Weight
+230kg
+Charging Time
+Frame Material
+Aluminum Frame
+Pump Type
+Vane Pump
+Interna

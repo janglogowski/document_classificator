@@ -1,0 +1,156 @@
+Inspection Results Summary
+Item
+Componen
+Dimension
+Targe
+Toleranc
+Observe
+Diff
+Tool
+Status
+Cod
+(mm)
+(GoodiBad
+SB-
+Rubber
+Thickness
+62.76
+40.20
+62.66
+-0.10
+Measuring
+140D
+Gasket
+Tape
+B0mm
+Rubber
+Length
+6.56
+20.20
+6.64
++0.0
+Measuring
+Gasket
+Tape
+B0mm
+MX -
+0-Ring
+Hole 0
+92.43
+20.20
+92.23
+0.20
+Laser
+450L
+NBR 6Omm
+Scanner
+ZR-
+Hinge Set
+Height
+51.34
+20.20
+51.28
+0.06
+CMM
+205R
+Steel Sheet
+Unner
+8.71
+10.20
+8.77
++0,0
+Micromete
+3001
+A36
+Diameter
+Rubber
+Depth
+28.99
+=0.20
+29.13
++0.1
+Depth
+430
+Gasket
+Gauge
+BQmm
+Graphite
+Depth
+38.72
+20.20
+38.79
++0.0
+Micromete
+850C
+Pad
+Hinge Set
+Hole 0
+96.72
+20.20
+96.60
+~0.12
+Laser
+555V
+Scanner
+Bearing
+Depth
+54.15
+=0.20
+54.29
+-0.1
+Measuring
+730X
+6202 ZZ
+Tape
+Steel Sheet
+Width
+35.47
+20.20
+35.54
++0.0
+CMM
+1OR
+436
+MS-
+Steel Sheet
+Thickness
+11.87
+10.20
+11.96
++0.0
+Depth
+6OOP
+436
+Gauge
+Hinge Set
+Depth
+55.73
+20.20
+55.61
+-0.12
+Depth
+610U
+Gauge _
+Shaft
+Depth
+16.29
+20.20
+16.49
++0.2
+Caliper
+1150
+S0Qmm
+MS-
+Power
+Depth
+41,58
+10.20
+41,57
+0.01
+Measuring
+6OOP
+Switch
+Tape
+Summary
+Passed: 14, Failed:
+850C

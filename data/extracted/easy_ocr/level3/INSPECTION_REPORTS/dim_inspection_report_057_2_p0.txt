@@ -1,0 +1,71 @@
+Component Dimensional Check
+Tecnnician
+Peter Schmidt
+Inspecllon Date
+2024-01-30
+Review recorded tolerances against engineering specifications
+Ensure measurement methods align with
+callbration standards; Use this resulls summary ld trigger any correciive aclions. Please review the
+inspection results for each component listed below:
+Product Ref_
+PL-501Z
+CE-905L
+CH77Q
+MR-16QH
+ON77OH
+PL-6DiZ
+Component
+Graphite Pad
+Power
+Rubber
+0-Ring NBR
+Rubber
+Hex Bolts
+Swilch
+Gaskel
+60mm
+Gasket
+M12
+BOmm
+BOmm
+Measuement
+Height
+Hole
+Hole
+Thicaness
+Deplh
+Length
+Hamina
+14.75
+35.11
+95.67
+24.79
+53.40
+73.06
+ddserved
+14.92
+35.28
+24.94
+53.25
+72.95
+Diff
+T0iT
++0.15
+PassiFail
+Ensure all easuring tools were properly calibrated. Ensure status flags are updated in the quality
+managemznt system: Refer to deviatinn column for any out-of-tolerance measurements. Confirm that pass
+rales
+meet the defined acceptance criteria:
+Instrument Calibration Log;
+Inettrumeni
+Serial No
+Last Calibration Date
+Mirometer
+46553
+2025-04-24
+Laser Scanner
+49534
+2024-1111
+CMM
+58756
+2025-05-27

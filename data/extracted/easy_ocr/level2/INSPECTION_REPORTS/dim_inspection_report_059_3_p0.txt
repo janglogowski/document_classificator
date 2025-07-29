@@ -1,0 +1,101 @@
+Component Dimensional Check
+Inspection performed by Carlos Garcia on 2024-01-14.
+Use this axamination
+summary -
+confirm component conformity: Below are the recorded 
+compared against nominal tolerances Refer to {he dimensional
+measuremonis
+MeaSurcd
+values are timnestarped
+log for all component slze
+readings. All
+for audit purposes;
+Environmental Conditions: Temperature; 23.0
+C, Hurnidity; 51 %
+Article No.
+Part Name
+Dim-
+Target
+CE-9O5L
+Shalt
+Depth
+43.49
+Observed
+Delta
+Status (VIX)
+S0Own
+43.42
+-0.07
+PASS
+VF-ZZOD
+Steel Sheet
+Heigh:
+99.17
+436
+99,22
++0.05
+PASS
+XK-6IU
+Set
+Length
+57.34
+57.16
+RM-SCON
+Hinge Sel
+Widin
+70,38
+~0.18
+PASS
+CE-9u5L
+Wooden
+WNldth
+70.41
+40.03
+PASS
+Pallet
+22.86
+22.87
++0.01
+PASS
+DX-777T
+Battery
+Hole 0
+6.40
+6.28
+Pack
+-0.12
+PASS
+GL-98os
+Sheet
+Widin
+58,36
+58.54
+436
++0.18
+PASS
+TY-3S0G
+Graphite
+Height
+87,13
+87.19
+Pad
+70.06
+PASS
+Kv-390K
+Height
+39.57
+39,85
+Swiitch
+-0.12
+PASS
+DX-(77T
+Hex Bolls
+82.25
+M12
+82,38
++0.13
+PASS
+Hinge
+Steci
+Pover
+Helghl

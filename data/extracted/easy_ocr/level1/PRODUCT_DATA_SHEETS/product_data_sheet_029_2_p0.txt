@@ -1,0 +1,81 @@
+Refer t0 this configuration summary for unit-des
+mapping:
+The following infomation outlines
+perfonance characteristics and design data_
+Entries include bolh mechanical and electrical
+specifications
+Ensure all referenced standards are up t0 date.
+Confirm that perfommance ranges comply with project
+requirements;
+This section details the configuration and parameter set for the product,
+Produc
+K-890B
+Documen
+-866
+Prepared by; Anna Nowak
+Approved by; Carlos Garcia
+Date: 2025-07-12
+Configuration Type
+Paeumatic Control Unit
+Operating Pressure
+210 ba
+Throughput
+30 Lmin
+Operating Voltage
+400 VIS0Hz
+Noise Level
+70 dBL
+Control Valve
+Directional 4/3
+Pump Type
+Gear Pump
+Filtration
+10 pm return, 25 Hm
+suction
+Charging Time
+Working Temp
+Range
+10"C
+55 C
+Overal
+conliguration
+within defined design and safety margins. All summary corments have been
+recorded in the revision log: Ensure glossary terms match the engineering nomenclature:
+This closure note
+indicates the data sheet
+ready for release
+Archive this summan
+for future design-change management;
+AlI specitications meet the design requirements and industry standards
+Material
+Construction:
+Subcomponent
+Comdosimon
+Support Foot Stee
+Stainless Steel 304
+Therma
+Fuse
+Ceramic Oxide
+neuiated
+Zomn
+Themoplastic Polyurethane (TPU)
+Shee
+Carhon
+Stec
+6umn
+Nitrile Rubber
+NBP
+Filled
+Vvlon
+Bearing 6202
+Stainless Steel
+Gasket
+Shect
+Nitrile Rubber (NBR 
+Wooden Palle
+Heated Pine Wood
+Cooling Gel
+Pack
+Silicone Rubber
+gnation
+Light

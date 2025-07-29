@@ -1,0 +1,118 @@
+Inspection Results Summary
+Inspection performed by Carlos Garcia on 2024-11-06.
+Use this examination summary t0 confirm component confomity. Check that all dimensions comply with
+company standards, Use this results summary to trigger any corrective actions
+AIl measured values are
+umestamped for audit purposes_
+This section details the measured values, tolerances ,
+and status flags.
+Environmental Conditions: Temperature: 24.4
+C, Humidity: 57 %
+Item Code
+Component
+dim
+Nomina
+Actual
+Deta
+Status (VIX)
+HF-390A
+Graphite
+Depth
+25.97
+25.79
+0.18
+Pad
+BZ-660F
+Rubber
+Height
+62.89
+62.72
+0.17
+Gasket
+80mm
+RE-850C
+Hex Bolts
+Inner
+24.14
+23.97
+0.17
+M12
+Diameter
+LP-SSSV
+Plastic
+Width
+18.64
+18.65
++0.01
+Rivets
+GL -9808
+Wooden
+Height
+83.15
+83.30
++0.15
+Pallet
+NE-245A
+Wooden
+Length
+29.09
+29.23
++0.14
+Pallel
+AZ-30OT
+Bearing
+Thickness
+23.70
+23.59
+0.11
+6202 ZZ
+TR-2O0B
+0-Ring NBR
+Length
+48.76
+48.67
+0.09
+60m
+AL-1150
+Steel Sheet
+Inner
+47.43
+47.54
++0.11
+A36
+Diameter
+JD-z00w
+Shaft
+Hole
+30.28
+30.20
+0.08
+soOmm
+TL-90OX
+Battery
+Height
+9.74
+9,61
+-0.13
+Pack
+XD-T1OR
+Hex Bolts
+Thickness
+15.14
+15.19
++0.05
+M12
+-9805
+Bearing
+Length
+7.72
+7.76
++0.04
+6202ZZ
+TY-350G
+Power
+Thickness
+63.83
+63.99
++0.16
+Switch

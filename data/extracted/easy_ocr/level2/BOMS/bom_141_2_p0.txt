@@ -1,0 +1,70 @@
+Customer ID: GREECE
+Product ID: JD-
+Prepared by: Jan Kowaiski
+~Zo0w
+No::
+9918055
+Belowis the component listing and
+shows the bill oft
+associated costs for the upcoming
+components and total projected_
+production batch;
+extract
+procurement workflows
+spend. The parts manifest here
+each component meets the
+designed to support
+outlines the parts, unit prices and
+specified quality standards. This
+total amounts for assembly.
+secllon
+Item
+Description
+Bactery
+Termiinal
+Ceraric
+LED Light
+Disc
+LED Lignt
+873
+8C,nm"
+OM
+699
+874
+Wire
+908
+Unlt Price
+25.00
+3.40
+Amount
+21,825.00
+2,376.60
+0.60
+Remarks
+Certified
+835.40
+2.270.00
+282.
+Swsitch
+384.60
+batch
+tested OK
+alignment
+For export
+SKF brand
+battery
+adjusted
+installed
+28,974.10
+Internal
+This
+Ensure
+Block
+Copper
+Qty
+suip
+Strip
+3mm
+Hinge
+L-on
+TOTAL:

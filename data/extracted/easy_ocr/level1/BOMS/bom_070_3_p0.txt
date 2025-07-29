@@ -1,0 +1,67 @@
+COMPONENT BREAKDOWN
+All entries reflect the latest inventory and supplier rates The component roster below includes unit costs
+and batch codes. All line-item costs are current as per vendor quotes Use this breakdown to verify
+sourcing and cost estimates This document provides
+detailed breakdown of all components required
+for the assembly process; Refer to this parts register t0 plan
+W-material purchasing:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+1.10
+42.90
+Imported
+Cover
+150x150
+Shaft
+8,00
+144.00
+Hinge
+50Omm
+alignment
+adjusted
+Grease
+1.90
+81.70
+High grade
+Tube 250mil
+Digital
+15.00
+420.00
+ISO-verified
+Display Unit
+Powem
+1.20
+34.80
+Switch
+Switch
+tested
+Packaging
+1.00
+43.00
+ISO-veritied
+Box
+Epoxy Resin
+7,30
+182.50
+Eco
+compliant
+Fuse 5A
+11.10
+set
+60.00
+Customer ID: SWEDEN
+Coordinator: Anna Nowak
+Date; 2024-05-08
+Product ID: FT-730X
+Internal No.
+8607023
+Order Qty: 387
+Total Amount:
+1,020.00
+Hinge

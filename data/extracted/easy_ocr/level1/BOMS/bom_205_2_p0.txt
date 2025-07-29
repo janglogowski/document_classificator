@@ -1,0 +1,55 @@
+Customer ID: SWEDEN
+Prepared by: Peter Schmidt
+Product ID: HF-390A
+Internal No:: 3683651
+This section outlines the parts, unit prices and tota
+amounts for assembly- All entries reflect the
+latest inventory and supplier rates. This document provides
+detailed breakdown of all
+components required for the assembly process
+The component roster below includes unit costs
+and balch codes:
+Item
+Digital
+Control
+Control
+Spacer
+Terminal
+Control
+Description
+Display
+Panel
+Panel
+2mm
+Block 4P
+Panel
+Unit
+Mount
+Mount
+Mount
+Qty
+824
+785
+886
+UOM
+Unit Price
+15.00
+12.00
+Amount
+360.00
+7.344.00
+8,112.00
+117.75
+3,012.40
+9,084.00
+Remarks
+Imported
+Imported
+Certified
+Eco
+ROHS
+balch
+compliant
+compliant
+TOTAL:
+40,030.15

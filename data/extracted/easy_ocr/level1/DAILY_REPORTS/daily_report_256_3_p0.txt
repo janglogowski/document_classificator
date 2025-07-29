@@ -1,0 +1,116 @@
+Shift Summary
+Report No:; PR-135
+Customer: CANADA
+Shift:
+(Night)
+Date: 11-08-2023
+Machine
+Task
+Operator
+From
+Finish
+Time Spent
+Uwagi
+Status
+MC-208
+Drilling
+13 00
+13.28
+prorress
+Kowalski
+MC-205
+Cutting
+12.30
+13.50
+NA
+Comnleteo
+Kowakski
+MC-203
+Assembly
+Magdalena
+13.15
+14.42
+N/A
+Delayed
+Witkowska
+MC-204
+Welding
+4ns
+09.15
+09.49
+Delay
+Delayed
+Nowak
+MC-205
+Polishing
+Magdalena
+12.00
+12.40
+Completed
+Witkowska
+MC-201
+Welding
+Przemysiav:
+07.-00
+08.16
+NA
+Delayed
+Wasik
+MC 201
+Cutting
+Bartosz
+13.30
+14.47
+Compicteu
+Wawrzyniak
+MC 207
+Assembly
+Agnieszka
+09.00
+10.03
+Delayed
+Zielinska
+MC-205
+Asseinbly
+Bartosz
+12.15
+13.08
+Delayed
+Wawryniak
+Verify the final counts apainst inventory records
+Ensure shift-handover
+nates inciude any
+pending issues- Check
+material consumption against standard usage rates
+The performance recap supports the morning briefing agenda:
+Part ID
+Planned
+Achleved Qty
+Defect Qty
+Failure
+Rewore
+Qty
+Remarks
+Output
+ZR 2OSR
+148
+126
+14.866
+286
+11.19%
+GH-770J
+139
+136
+2.1676
+Scrap
+confirmed
+WD 1805
+169
+13.02%
+Scrap
+canfirmed
+AL-1150
+189
+12.7066
+Appraved by:
+Prepared by:

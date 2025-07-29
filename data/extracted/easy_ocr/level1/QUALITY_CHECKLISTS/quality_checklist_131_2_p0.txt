@@ -1,0 +1,94 @@
+Quality Checklist
+Below are the items
+be verified during the final product review
+Archive Ihis list in the
+quality-management
+Confirm that sampling levels comply with customer agreements Check that inspection steps follow
+the approved procedure. This checklist captures quality inspection points and sampling levels
+This closure
+summary indicates compliance with inspection criteria
+Refer
+the quality register tor sampling-plan
+references
+Product ID
+NE-2454
+Customer ID
+BELGIUM
+Item Descrption
+Cooling Gel Pack
+Inspection Checklist
+Check
+Classification
+Remarks
+Points
+Intensity
+Component Criteria
+Critical
+Major
+Minor
+OnHold
+Incorrect quantity
+Level II
+assonment
+Minor issue
+Paint smearing
+Obscrved
+scralches
+Minor issue
+Sharp edges on plastic
+observed
+componenis
+Packaging does not
+Level III
+Needs review
+match
+saioic
+Carton
+damagcd
+markings _ncorrect
+Minor Issue
+Dead
+insect
+Level
+obscrved
+packaging
+Ballery not inciuded
+Level
+Color mismatch
+Level
+Critical impact
+Critical impact
+Screws
+OOSC
+mssing
+LAvC
+Instruction manua
+Level
+missing or damaged
+Not asserbled as per
+Level Il
+Needs review
+drawing
+Exposed nail with sharp
+point
+Package
+not sealed
+Level
+Needs review
+completely
+Minor issue
+Missing Iogo
+warning
+Level Ill
+cpservec
+Jabe
+Visual delect on housing
+Level
+Crilical impacl
+Functionallly test failed
+evel
+Supervised by:
+Date:
+system;
+aigned
+Iw€

@@ -1,0 +1,55 @@
+Customer ID: SWEDEN
+Product ID: TY-350G
+Prepared by: Jan Kowalski
+Internal No_
+6683110
+BelowE
+the component listing =
+outlines the parts;
+and assoclated costs for the
+upcomlng ,
+prices and total amounts for
+praduction batch: Thls secticn
+per-un
+detalls. The component
+This summnary lists
+preakdown
+roster below Includes
+item required;
+verify
+cast estlmates;
+unit casts and batch codes
+Use
+procurement workflows;
+The parts
+her o
+this
+designed
+support
+Item Description
+Sensor Cllp
+Clamp RIng
+Gasket Sheet
+Qty
+12Onin
+Hinge Set
+867
+UOM
+Unit Price
+666
+Amount
+823,65
+Remarks
+232,75
+Eco compllant
+901.75
+SKE brard
+665,00
+Swltch
+TOTAL: 3,625.15
+assembly;
+prcing=
+evey
+sourcing
+manllest
+tested

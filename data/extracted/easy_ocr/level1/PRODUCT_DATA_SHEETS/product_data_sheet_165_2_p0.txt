@@ -1,0 +1,64 @@
+Please reviow the specifications and material composition listed below: Confirm that performance ranges
+comply with project requirements:
+This report extract [
+prepared Ior
+design-verfication audits. Use this
+sheet to confim engineering requirements and tolerances. Check that all material specs align with supplier
+certiiications
+This section details the configuration and parameter set fcr the product;
+Product
+MC-540X
+umlerna
+014903
+Prepared by; Anna Nowak
+Approved by; Anna Nowak
+Date; 2023-11-08
+Unit Type_
+Hydraulic Power Unit
+Operating Pressure
+Throughput
+30 Lmin
+Voltage
+480
+60Hz
+Protection Class
+P54
+Reservoir Capacity
+Oil Type
+HLP 46
+Total Weight
+230 kq
+Battery Capacity
+Charging_ Time
+Flag any missing parameters for urgent specification updates
+Check that all section headers follov the
+product template
+Ensure glossary terms match the engineering nomenclature
+This closure note indicates
+the data sheet =
+ready for release. Data sheet has been peer-reviewed by the engineering team.
+Material of Construction;
+Label
+Composition
+Heat Sink ALU
+Aluminum 6061-T6
+Bearing 6202
+Stainless Steel 304
+Gaske
+Shee
+Mlnle
+Rubbei
+Battery Pack
+Lithiun-Ion Cell Pack
+Leramic
+Oxide
+Support Foot Steel
+Stainless Steel 304
+Pressure Valve
+Brass C212t
+Nul M6
+Zinc-Plaled Steel
+NBR 6Om
+Niule Rubber (NB
+No _
+Ring

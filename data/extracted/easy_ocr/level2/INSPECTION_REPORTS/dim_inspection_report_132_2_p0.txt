@@ -1,0 +1,90 @@
+Inspection Results Summary
+cnsdecc
+Ipecuuncute
+Anna Nowa'
+2074-07-21
+Check that all dimnerisians comply with (SO and
+against nominal toleranices_ The
+following .
+'comoanv standards Belaw are the recorded measurements
+the inspection resulls
+data Caotures key dimensions &nd eny deviations
+compared
+for each component Ilsted below:
+Icentlfied;
+[2yiu
+Anticle
+AF-8SOC
+A/3ox
+Corponent
+Graphiite Rad
+Cn-150C
+82-66,06
+Graphito Pad
+Svitel
+AZ-3CoT
+MX-4504
+Dlm:
+Graphite
+Waoden
+Height
+Deoth
+Jmnet
+pait
+~cneth
+Wurze
+Dlameter
+"Nicth
+Length
+71.87
+75.02
+Obseaved
+UBn
+21.70
+57.47
+49,6
+Dua
+13-g7
+Paraeadm
+T0 17
+49.16
+(4.7
+405s
++Cc
+Pass
+0-18
+told?
+PASS
+PaSs
+PASS
+Refer
+deviation column for any
+Archive this inspection summary fur
+Oueguloleranoe measurements: Inspection notes have been ogged-
+KEFLato;
+documentation
+for traceabillty;
+Instrument Calibration Log:
+Instrument
+Micrcrreter
+Serial
+89449
+Last
+Calibration Date
+Scarner
+2025-04-01
+CMM
+62233
+84943
+2024-10-28
+crometec
+90977
+"2024.18-19
+2025-06-15
+please
+Powt
+Plastic
+RNets
+Pd
+575
+Noa

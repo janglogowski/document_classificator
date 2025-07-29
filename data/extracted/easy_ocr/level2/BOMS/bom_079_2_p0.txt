@@ -1,0 +1,55 @@
+Customer ID: NORWAY
+Prepared by: Anna Nowak
+Product ID: QN-77OH
+Internal No:: 6792012
+This section outlines the parts, unit prices and total amounts for =
+assembly. All line-itom costs are
+current as per vendor quotes. The component roster below includes unit costs
+following table
+and batch codes. The
+summarizes the materials and quantities needed for the current project: This _
+shows the bill of components and total projected
+extract
+spend. Use this schedule of parts to align with
+sourcing and stock levels:
+Item
+Protective
+Bearing
+Heat
+Hex Bolts
+Terminal
+Description
+Sleeve
+6202 ZZ
+Resistant
+M12
+Fuse 5A
+5Omm
+Block 4P
+Sleeve
+518
+725
+666
+469
+UOM
+506
+733
+Unit Prlce
+0.25
+3.40
+Amount
+932.40
+087.50
+1,798.20
+Remarks
+Urgent
+1,720.40
+219.90
+Li-Ion
+SKF brand
+High grade
+battery
+installed
+TOTAL: 5,875.65
+DCs
+117.25

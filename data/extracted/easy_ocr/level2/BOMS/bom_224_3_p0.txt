@@ -1,0 +1,78 @@
+COMPONENT BREAKDOWN
+Amount
+Remarks
+UOH
+Rate
+tem
+Qty
+Description
+0.25
+11.25
+Certified
+Hex Bolts
+pcs
+batch
+M12
+75.60
+SKF brand
+pcs
+2.10
+Ceramic
+Disc 80mm
+2.10
+52.50
+Hign
+Ceramic
+Disc BOmm
+2.70
+83.70
+Eco
+compliant
+Heat
+Resistant
+Slecve
+0.55
+3.85
+ROHS
+pCs
+compliant
+Rubber
+Stopper
+2.70
+148.50
+Imported
+Heat
+Resistant
+Sleeve
+0.95
+9.50
+ISO-verified
+pcs
+Cable Tie
+Pack (IOQ)
+Switch
+pcs
+8.00
+tested OK
+Shatt
+soomm
+1.80
+36.00
+Switch
+Protective
+Sleeve
+somm
+Coordinator_Laura Rossi
+Date: 2023-09-21
+Customer ID: BELGIUM
+9359376
+Order Qty: 491
+Intemal No
+Product ID: SL-A30M
+780.90
+Tola
+Amount:
+Brade
+Pcs
+380.00
+tested

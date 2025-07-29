@@ -1,0 +1,59 @@
+Customer ID: TURKEY
+Prepared by: Peter Schmidt
+Product ID: VF-220D
+Internal No:: 7031796
+The component roster below iricludes unit costs and batch codes. Use this
+align with sourcing and
+evels. Refer to this
+schedule of parts to
+Below is the component
+parts register to plan raw-material purchasing:
+listing and associated costs for the upcoming production
+batch:
+Item
+Battery
+Stee
+Ceramic
+Gasket
+Description
+Sheet A36_
+80mm
+Sheet A4
+Copper
+Rubber
+Qty
+613
+873
+Wire 3mm
+Stoppor
+128
+296
+UOM
+456
+pcs
+Unit Price
+25,00
+Amount
+325.00
+365.00
+268.80
+Remarks
+Certified
+370.00
+277.80
+250.80
+batch
+Imported
+Urgent
+alignment
+alignment
+adjusted
+adjusted
+TOTAL: 20,857.40
+stock
+Pack
+Disc'
+Pcs
+Pcs
+Hinge
+Hinge

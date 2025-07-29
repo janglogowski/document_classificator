@@ -1,0 +1,61 @@
+Unit Configuration
+The parameter register below includes operating limits and
+All data entries are traceable to design
+revision history. Refer t0 this configuration summary for unit-designation mapping:
+Confirm that performance
+ranges comply with project requirements_
+The following information outlines performance characteristics and
+design data
+Product ID:
+GL-980S
+Internal No::
+5852214
+Prepared by: Peter Schmidt | Approved by: Carlos Garcia
+Date: 2025-02-23
+Configuration Type
+Pneumatic Control Unit
+Design Pressure
+210 bar
+Fluid Flow
+30 Umin
+Supply Voltage
+400 V /
+Filtration
+um inline,
+10 Hm
+Pump Type
+Piston Pump
+retumn
+Working TempRange
+10C to 50C
+Frame Matera
+Powder-coated Steel
+Protection Class
+P54
+Use Ihis summary
+cross-check with BOM and inspection reports
+Flag any missing parameters for urgent
+specification updates_
+Archive Ihis summary ior future design-change management: Refer t0 parameter
+table for operating ranges and tolerances. Data sheet has been peer-reviewed by the engineering team.
+Ensure Ihat the listed materials are approved for the application;
+Material
+Construction:
+Label
+Base
+Support Foot Steel
+Stainless Steel 304
+Steel Sheet A36
+Carbon Steel 436
+Cooling Gel Pack
+Silicone Rubber
+Ring NBR 6mm
+Nitrile Rubber (NBR)
+Themal Fuse
+Ceramic Oxide
+Digital Display Unit
+ABS Plastic
+Teflon Tape Roll
+Teilon Tape Roll
+ratings.
+50Hz

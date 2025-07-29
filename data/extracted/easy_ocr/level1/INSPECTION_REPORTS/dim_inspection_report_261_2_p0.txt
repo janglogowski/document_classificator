@@ -1,0 +1,88 @@
+Supervisor
+Jan <owiski
+Inspection Dale
+2023-08-25
+Ensure measurement methods align with calibration standards. All measured values are limestamped for
+audit purposes_
+Refer to the dimensional log for all component size readings: This report presents the
+dimensiona
+measurements and inspection results
+Item Code
+MC 540X
+FT-730X
+XD-70R
+MS- 60OP
+MX 450L
+PL-6012
+CN150C
+Component
+Power
+Plaslic
+Sel
+Graphite
+Ballery
+Graphile
+0-Ring
+Switch
+Rivets
+Pad
+Pack
+Pad
+NBR
+Mcasurement
+Length
+Length
+Thickness
+Thickness
+Mme
+Thickness
+Width
+Diameter
+Nominai
+67.84
+52,62
+45,41
+96.72
+TA DC
+TOu
+70,59
+Actua
+68.02
+52.68
+96.6
+78.69
+10.83
+70 40
+Diff
++0.18
++0.06
++0.00
+DI
+0.40
+passiFam
+This assessment reflects the latest metrology results
+any components requiring re-machining or
+adjuslment: This closure memo confins that dimensional checks are complete
+Ensure all measuring tools
+were properly calibrated
+Instrument Calibration Log
+Instrument
+Serial No:
+Last
+Calibration Date
+Caliper
+28358
+2024-10-05
+Lascr
+Scanner
+63610
+2024-09-18
+Laser Scanner
+53049
+2025-01-10
+Caliper
+66162
+2025-05-26
+Hinge
+Gommi
+Flag:

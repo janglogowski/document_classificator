@@ -1,0 +1,76 @@
+BILL OF MATERIAL
+All entries reflect the latest inventory and supplier rates_
+The parts manifest here is dlesigned to
+support procurement workflows
+This extract shows the bill of components and total projected
+spend_
+Please review the iternized list of parts and material specifications before procurement: All
+line-item costs are current as per vendor quotes_
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Clamp Ring
+1.75
+45,50
+120mm
+Ventilation
+5.60
+240.80
+Grid
+Gasket
+225
+12.50
+ISO-verified
+Sheet A4
+Plastic
+pcs
+17.60
+Covcr
+150x150
+Spacer
+0.15
+ROHS
+Zmm
+compliant
+Plastic
+pcs
+8,40
+High
+Rivets
+LED Light
+2.50
+95.00
+ROHS
+Strip
+compliant
+Spring
+0.05
+Imported
+Washer
+M1o
+Hex Bolts
+pCS
+0.25
+4.75
+Imported
+M12
+Gasket
+pCS
+56.25
+SKF brand
+Sheet A4
+The cost subtotal supports financial forecasting for the next cycle_
+Customer ID: GREECE
+Coordinator: Laura Rossi
+Date: 2023-12-13
+Product ID; LK-890B
+Internal No_
+5701915
+Order Qty: 413
+Total Amount:
+484.15
+Grade

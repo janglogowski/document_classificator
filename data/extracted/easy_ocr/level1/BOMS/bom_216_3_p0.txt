@@ -1,0 +1,95 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Stee
+5.00
+175.00
+ISO-
+Sheet A36
+verlied
+Sensor
+pCS
+42.75
+Switch
+Clip
+tested OK
+Cable Tie
+pCS
+0.95
+38.95
+Imported
+Pack
+100)
+Clamp
+pcs
+1.75
+73.50
+ROHS
+compliant
+120mm
+2.70
+24.30
+Urgent
+Resistant
+Sleeve
+Insulation
+pCS
+3.20
+6.40
+SKF brand
+Foam Pad
+Copper
+0.60
+13.20
+Certified
+Wire 3mm
+batch
+Heat
+2.70
+89.10
+ISO-
+Resistant
+verified
+Sleeve
+Hinge Set
+pCS
+2.50
+102.50
+Switch
+tested OK
+Packaging
+pCs
+1.00
+5.00
+Eco
+Box
+compliant
+LED Light
+2.50
+52.50
+High grade
+Strip
+Ensure this materials summary
+reconciled with the purchase order.
+closure summary
+validates that all parts are approved for release.
+Review this summary against the master
+budgeting sheet Cross-verify totals with the ERP system for consistency.
+Customer ID: TURKEY
+Coordinator: Carlos Garcia
+Date:
+2024-04-23
+Product ID: FT-730X
+Internal No : 2911556
+Order Qty: 461
+Total
+Amount:
+623.20
+Ring
+Heal
+This

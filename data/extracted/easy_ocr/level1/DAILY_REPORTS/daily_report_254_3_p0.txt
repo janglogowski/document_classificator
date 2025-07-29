@@ -1,0 +1,106 @@
+DAILY PRODUCTION REPORT
+Report No_
+PR-339
+Customer: CANADA
+Shift:
+(Night)
+Date
+09-08-2024
+Machine
+Process
+Operator
+Begin
+Total
+Uwagi
+Status
+Ime
+MC-209
+Drilling
+Jan
+09.15
+09.49
+NA
+Completed
+Kowalski
+MC-204
+Assembly
+Magdal
+10.30
+10.52
+Delay
+Witkowska
+progress
+MC-20g
+Drilling
+Agnieszka
+10.30
+11.42
+Completed
+Zielinska
+MC-20g
+Welding
+Bartosz
+12.15
+14.14
+119
+Wawrzyniak
+progress
+MC-202
+Cutting
+Magdalena
+09.30
+10.27
+NA
+Delayed
+Witkowska
+Record any adjustments
+shift schedules
+staffing here. Archive this output summary for end-of-day
+reporing
+Refer t0 remaiks for any rework
+quality concers
+The performance recap supports the moming
+brieting agenda
+This closure summary signal
+readiness for the next production run:
+Part ID
+Planned
+Actual Qty
+Scrap Qty
+Scrap %
+Rework Qty
+Remarks
+Qutput
+MC-54OX
+294
+276
+6.12%0
+Scrap
+confirmed
+TL-9OOX
+203
+193
+93%
+Scrap
+contirmed
+TY-350G
+146
+135
+53%6
+Rework
+needed
+MS-6OOP
+149
+133
+10.74%
+Rework
+needed
+Kv-390k
+236
+215
+8.90%6
+Rework
+needed
+Approved by:
+Prepared by:
+Delay

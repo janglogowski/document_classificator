@@ -1,0 +1,90 @@
+Compliance Log
+Below are the iterns
+be verifled during the fina
+product revlew: Entries Include both visua
+functional
+inspection items; Tne -
+following table outlines inspection criteria and classification levels
+Check that inspection steps
+follow the approved procedure: This summary supports the production-release quality gate: Confirm that sampling
+levels comply with custorer agreements
+Please review each checklist point and mark the sampling results: This
+closure summary indicates compliance with inspection crteria
+Product ID
+MS-6002
+Customer ID
+NORWAY
+Item Description
+Copper Wire 3mm
+Quality Check Items
+Sample Tier
+Severity
+Obsemations
+Design Specs
+Product doesnt power
+Leve
+Missing distributor information
+issue observed
+Incorrect harcode
+labes
+Level III
+Runbe
+Texmre
+Giossiness
+Level |
+Needs review
+mismatch
+Lonnecor nor
+working
+Level III
+Minor issue observed
+Screws
+oose OrMmissing
+Leve
+Critical impact
+delect
+nausime
+Critical impact
+ncorreclquanu
+corunnem
+level
+Critical Impact
+DCJC
+Iive Insect In packaging
+Critical impact
+Functionality test failed
+LeU
+Loose
+pans
+inside packaging
+Critical impact
+Package
+not sealed completely
+evei
+Needs review
+Dust/debris inside packaging
+Leu
+Critica
+Imnact
+Paint smearing or scratches
+Leve
+Critical
+rndacl
+DO 
+Critical Impact
+Sharp edges
+plastic
+Level 
+Minor Issue observed
+cumpanenis
+Exposed nall wlth
+point
+Missing safet  labels
+LCvC
+Minor Issue observed
+Supervised by: _
+Date:_
+Minor
+Visua
+Hinzes
+shatp

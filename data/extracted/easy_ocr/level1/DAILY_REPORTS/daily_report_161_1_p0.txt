@@ -1,0 +1,114 @@
+DAILY PRODUCTION REPORT
+Report No :
+PR-/87
+Custorner:
+CENADB
+supenisor
+Carlos Garcia
+Department
+Packaging
+Date
+18-03-2025
+Shift:
+(evening
+Machine
+Operation
+Worcer
+Start Time
+Duration
+Remarks
+Imin)
+MC-203
+Assembly
+Mateusz
+12.30
+13.56
+Delav
+Janunz
+MC-20
+Welding
+Dawid
+07.15
+08.55
+100
+Recalaraled
+Oszmianczuk
+MC-205
+Drilling
+Bartasz
+13.15
+14.59
+104
+Wawvrzyniak
+MC-206
+Cutting
+Magdalena
+12,00
+12,41
+Witkowska
+MC-201
+Polishing
+Kowalski
+08.30
+10.05
+Recalinrated
+Mc-206
+Welding
+Dawid
+14.00
+15.42
+102
+NfA
+Oszmianczuk
+MC-205
+Drilling
+Ian Kowalski
+06.15
+07.30
+NA
+Mc-206
+Welding
+Magdalena
+06.15
+06.46
+Reralibrateg
+Witkowska
+MC-205
+Welding
+Magdalena
+06.00
+06.26
+Witkowska
+MC-206
+Drilling
+Dawid
+11-15
+12.38
+Oszmianczuk
+Pant ID
+Target Qty
+Produced Qty
+Scrap Qty
+Failure
+Comments
+LK-SCOP
+10.38%
+canfirmned
+160H
+230
+4417*
+S90E
+0.3696
+Kewannccccd
+9696
+Rework needed
+La-SYUP
+5296
+Rewark needed
+Prepared by:
+Jan Kowalski
+Approved by:
+Carlos Garcia
+Delay
+Scrap
+MR

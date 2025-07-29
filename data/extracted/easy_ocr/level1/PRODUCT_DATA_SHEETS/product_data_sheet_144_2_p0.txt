@@ -1,0 +1,42 @@
+Product Data Sheet
+Use this spec sheet to validate assembly instructions_
+The parameter register below includes operating limits
+ratings;
+This technical overview supports the product-release checklist; Below are the technical
+parameters and
+construction materials for the unit_ This report extract
+prepared for design-verification
+audits. Refer to this configuration summary for unit-designation mapping:
+Product ID:
+CE-905L
+Report No
+PR-750
+Prepared by: Peter Schmidt | Approved by: Anna Nowak
+Date: 2023-11-21
+Unit Type
+Hydraulic Power Unit
+Rated Pressure
+180 bar
+Throughput
+60 Umin
+Operating Voltage
+400
+S0Hz
+Filtration
+10 pm retum; 25 um
+Charging Time
+sucton
+Motor Power
+Z5kW
+Service Interva
+12 months
+Confirm that all test conditions are accurately represented. Flag any missing parameters for urgent
+specification updates
+Ensure that the listed materials are approved for the
+application. Archive this
+summary fcr future design-change management; This summary reflects the latest revision of the product
+data; Material choices
+process data have been verified for compliance; Overall configuration
+within
+defined design and satety margins:
+and

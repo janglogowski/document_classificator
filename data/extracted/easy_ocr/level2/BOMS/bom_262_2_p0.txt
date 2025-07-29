@@ -1,0 +1,32 @@
+Customer ID: BRAZIL
+Prepared by: Peter Schmidt
+Product ID: MS-6O0P
+Internal
+7159126
+No
+Item
+Spacer Zmim
+Fuse 54
+Hinge Set
+Ventilation Grid
+Description
+Qty
+943
+460
+925
+UOM
+Unit Price
+0.15
+Amount
+141.45
+138.00
+2.312.50
+4,009.60
+Remarks
+SKF brarid
+Li-Ion baltery
+Switch tested OK
+ROHS compliant
+instailed
+TOTAL: 6,601.55
+No::

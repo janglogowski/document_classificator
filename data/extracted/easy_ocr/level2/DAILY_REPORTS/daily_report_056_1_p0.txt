@@ -1,0 +1,85 @@
+Production
+Repon No::
+PR-999
+Custone
+turkey
+Supervisor;
+Jan Kowaisk|
+Department;
+Maintenance
+Date
+17-07-2025
+Shitt;
+(Evening)
+Maching
+Operation
+Operator
+Begin
+Total
+Nm +
+Nate
+MC 205
+Drilling
+Nadla Sauter
+09.00
+LU-02
+Dela"
+MC 204
+Cutting
+pnemuctam
+09.30
+J004
+NYA
+Wasik
+MC 209
+Welding
+Agnieszka
+11.15
+12.05
+Delav
+Zlelinska
+MC 201
+Welding
+Dficmiuca
+09.15
+J0s
+Recalibrated
+Wasik
+Mc 201
+Assemoi
+Nadld Sauter
+07.00
+0733
+Delay
+MC 205
+Drlling
+WIktcr
+08.15
+09.29
+Tocczvash
+Itcm
+Targct QY
+Actuz
+Qty
+Rejected Ql
+Rejeccuon
+Kemars
+@P-660F
+215
+5926
+Roworneeded
+6Z-s60F
+202
+460
+58-1400
+233
+7254
+Scrap contiried
+Xk-61OU
+Rewol Deeded
+Preparedby:
+PCici
+Schmidt
+Approved Dv:
+Peter Gcrmic
+Log

@@ -1,0 +1,88 @@
+Quality Review
+#5551977
+Date: 17.07.2025
+Product ID
+KP-320E
+Customer ID
+POLAND
+Iten Descrption
+Connector ZP
+This section details quality requirements and test points for the batch Confirm that sampling levels comply
+with customer agreements Refer to the quality register for sampling-plan references. Ensure all non-
+conforming marks are clearly documented. This summary supports the production-release quality gate The
+following table outlines inspection cnteria and classification levels. This checklist captures quality inspection
+points and sampling levels
+Audit Criteria
+Inspection
+Category
+Observations
+Depth
+Specs
+Hold
+Shipping mark is Ilegible or
+Level II
+missing
+Exposed
+wth sharp
+point
+Level II
+Screws Ipose or missing
+Level
+Keeds review
+Insinuction manua
+missing or damaged
+Level E
+Critical impad
+Dustdebris inside
+packagug
+Level II
+Needs review
+Incorrect onentation inbox
+Level
+Needs review
+Missing 1630
+waming
+abe
+Level Ill
+Needs review
+Hinges loose
+Level t
+Minor ISue obsenved
+Rubber
+Swtch nolwpiking
+Cutical
+mpac
+Missing distributor
+Level II
+infomation
+Package
+not sealed
+completel
+Needs review
+Connectornot working
+Level
+Minor issue observed
+Producdoesnt power o
+Crticalimpad
+Wood splinter
+snarp point
+onpioquct
+Level l
+Needs review
+Packaging does nol match
+signed sample
+Minor issue observed
+AQL Level
+Cutical
+Major
+Minor
+Default
+25
+Customer specific
+Archive this summary in the audit-readiness folder. Refer to notes for any observed defects or deviations
+This final nole confimms the checklist
+complete and approved  Inspection summary is filed for regulatory
+compliance
+Corrective actions are scheduled for identified issues. Checklist results have been reported to
+the qualty manager.
+Desen

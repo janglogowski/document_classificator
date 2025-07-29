@@ -1,0 +1,117 @@
+Shift Summary
+Report No_:
+PR-502
+Custo
+GREECE
+Supervisor;
+Peter Schmidt
+Wenanment
+paintinm
+11-2024
+Shitt
+A(Morning
+Machine
+Task
+Technician
+Finish
+Total
+Uwagi
+ouration
+MC-206
+Drilling
+Jan Kowalsk
+10.30
+1130
+Recalibrated
+MC-206
+Polishing
+Magdal
+09.15
+10-59
+104
+Wuko ska
+MC 206
+Pollshing
+Agnieszka
+06.30
+07.39
+Zielinska
+MC-208
+Cutting
+{owalse
+08.30
+10-05
+MC-204
+Cutuing
+Jan Kowalski
+14.00
+MC 208
+Drilling
+Matemsz
+11.30
+12.25
+Januna
+MC- 203
+Polishing
+10.30
+Delav
+Kopczyriski
+MC- 201
+Polishing
+Nadia Sauter
+13.30
+159
+MC 204
+Assembly
+Kowalski
+12.15
+MC-205
+Assembly
+Bartosz
+11.00
+12.51
+Wjwrzvniak
+MC-201
+Polishing
+Przemystaw
+13,00
+13,57
+Wasik
+MC-209
+Cutting
+Piotr
+11.00
+12.36
+Letandowski
+Product ID
+Planned Qty
+Produced Qty
+Scrap Qt
+Scrjp
+Uwagi
+QN-770H
+7996
+XK-61OU
+2,6076
+ZR-?0SR
+14,9495
+Rework needep
+hom
+connnned
+NE 2454
+12.81%
+SB-140D
+203
+7.3970
+Kework needed
+Prepared by:
+Carlos Garcia
+Approved Duj
+Anna
+Nowak
+Date,
+Begin
+Wiktor
+12.19
+3-10
+Scap

@@ -1,0 +1,100 @@
+Conformance Report
+#4105040
+Date: 17.07.2025
+Product ID
+AL-1150
+Customer ID
+SWEDEN
+Item Description
+Rubber 5
+This closure summary indicates compliance
+inspection criteria_
+Check that inspection steps
+appraved procequte
+Archive this list in the
+quality-management system. Use this extractto coordinate sign-off
+with the QA manager. Please review cach checklist point and mark the
+sampling
+resulls
+Below are the items t0
+be verified during the final product review. Ensure all non-
+conforming marks are clearly documented. The
+following table outlines inspection criteria and classification levels:
+Quality Check Items
+Sample Tler
+Defect Class
+Remarks
+Component Criteria
+Not assembled
+drawing
+Level II
+@osE
+Ninor Issue Obsened
+smearing
+scratches
+Level
+Needs review
+Package
+not sealed
+completely
+Level /
+Critical impact
+DusUdebris inside packaging
+Level II
+Minor
+[ssue observed
+Missing safety labels 
+Level
+Incorrect barcode
+labe
+evel
+Shipping mark is Illegible
+missing
+Critical impact
+Wood splinter or sharp
+dfoduct
+Level II
+Minor issue observed
+detect onhousing
+Levei
+Critical Impact
+Product doesntt power on
+Leve
+Critical impac
+Loose parts
+insidepackaging_
+Leve
+Needs
+feviem
+Functionality test failed
+levP
+ncorrece
+quantity -
+assontmeni
+Critical impact
+Instruction ranual is missing
+Level II
+Needs revicwv
+damaged
+Packaging does not match
+signed sample
+Level III
+Critical impact
+Missing_
+warning label
+Critical Impact
+AQL Level
+Crlical
+Major
+Minor
+Default
+Custome
+specitic
+Stopper
+Ffollowv
+Hinges
+Levoli
+Paint
+point
+Visua
+lopo

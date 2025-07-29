@@ -1,0 +1,52 @@
+Product Overview
+Entries include both mechanical and electrical specifications This technical overview supports the product-release
+checklise All data entries are traceable
+[evision
+history. Below are the technical parameters
+construction materials fo
+the unit The
+ramerer
+register below includes operating limits and ratings. Refer to this
+configuration summary fo
+designation mapping: Ensure all referenced standards
+oate
+Product
+TY-3S0G
+Report No.
+9060690
+Prepared by: Laura
+Approved by: Anna Nowak
+Date: 2024-10-13
+Mode
+Uype
+Hydraulic Power
+Operating Pressure
+180 bar
+Flow Rate
+30 Limin
+Voltage
+230
+50 Hz
+Moto
+Power
+Battery Capacity
+10Ah
+Reservoir Capacity
+Dimensions (LxWxH)
+1200
+700 * 1100 mm
+Cooling
+Water-copled exchanger
+Material choices ang
+process data nave
+been verified for
+compliance. Archive this summary for future design-change
+management Check that all section headers follow the product template
+Ensure that the listed materials are
+approved far the application
+Use this summary
+cross-check with BOM and
+Inspectian reponts
+desien
+Ross
+Untt

@@ -1,0 +1,96 @@
+Product Data Sheet
+Praiect:
+LP-SSSV
+Dacu
+4380938
+Prepared Bv:
+Anna Nowak
+Approved By:
+Larios
+Garcia
+Location; Plant IC
+2025-03-27
+Confirm tnat performance range
+comply with project
+requlrements
+Ensure irelcrenced standand
+are Up
+Gate
+This data sheet pravides
+specificatlons and material detalls Use this sheet t0 confirm engineering requlrements
+tolerances
+This
+epon extract
+prepared for design-verification
+Check that all material specs align with
+suppller certifications
+Unit Iype
+Hydraulic Powe
+Unit
+Rated Pressure
+Throughput
+75 Llmin
+Supply Voltage
+400
+50 Hz
+Battery Capacity
+2 Ah
+Filtration
+10 um return, 25 pm
+suclOM
+Cantrolvanc
+Proponional 4/2
+Mounting
+Wwjmamounted
+LevC
+70 dB(
+Tota
+Weight
+180 kg
+Dimensions (LxWxHL
+1200
+700 * 1100 mm
+Charging Time
+Service
+intena
+1000
+Materia
+Slainless Step
+Frame
+Reservoir
+Capacity
+Protection Class
+P65
+Type
+Vane
+MaterIal -
+Construicton-
+Lade
+3a50
+Heat Sink
+Aluminum 6061-T6
+Wcoden
+palet
+Treated Pine Wood
+Bearing 6202
+Stainless Steel 304
+Graphite Pad
+Graphite
+Battery Pack
+Lithium-Ion Cell Pack
+Teflon Tape Roll
+Teflon Tape Roll
+Capacitor A50
+Aumintm
+6061-T6
+Zinc-
+Steel
+Date
+auois
+Nolsc
+Frame
+Pump
+Puinp
+ALU
+Nut
+Plated

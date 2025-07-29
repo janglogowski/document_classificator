@@ -1,0 +1,68 @@
+COMPONENT BREAKDOWN
+Customer ID: BELGIUM
+Coordinator; Carlos Garcia
+Date: 2024-07-29
+Product ID: VR-940T
+Internal No.
+3753089
+Urder
+Qty; 374
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+1.19
+1096
+pCS
+0.25
+9,75
+Switch
+M12
+tested OK
+LED Light
+0.92
+2.50
+22.50
+Switch
+Strip
+tested OK
+Grease
+1.38
+pcs
+1,90
+28.50
+Urgent
+Tube
+250ml
+Wooden
+1.44
+15.00
+630.00
+For
+Pallet
+export
+Sensor Clip
+0.95
+14.25
+Li-Ion
+battery
+installed
+Power
+2.48
+pcs
+1.20
+56.40
+ROHS
+Switch
+compliant
+Ensure archival of this materials summary for compliance records
+Total Amount:
+761.40
+Approved By:
+Sourcing Department:

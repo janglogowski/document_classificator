@@ -1,0 +1,103 @@
+Production
+Report !
+PR-661
+Customer
+POLAND
+Supervisor:
+Anna Nowak
+Department:
+Naintenance
+Shift:
+(Nignt)
+24-01-2025
+Allthroughput figures are recorded for capacity planning: The summary below
+station'$ actual versus
+planned
+output: Below is
+an oveniewat
+machine pertormance and output figures for today s shitt
+Machine
+Proccss
+Operator
+End
+Time
+Notes
+Energy
+Time
+Spent
+('C)
+Used
+MC-203
+Assembly
+Magdalena
+14.15
+16.11
+116
+Recalibrated
+74.3
+2.31
+Witkowska
+MC-208
+Welding
+Wiktor
+10.30
+12.16
+106
+Delay
+79.1
+2.48
+Kopczytiski
+FC-202
+Cutting
+Nadia Sauter
+08.15
+09.22
+Delay
+58,4
+1.84
+MC-208
+ASScmdly
+Agnieszka
+12.30
+14.23
+113
+Recalibrated
+76.1
+1,64
+Zielinska
+MC-204
+Polishing
+Dawid
+10;15
+12.10
+115
+Delay
+77.0
+2.82
+Oszmianczuk
+MC-208
+Cutting
+Agnieszka
+10.00
+10.57
+74.8
+2.76
+Zieliriska
+MC-207
+Welding
+Agnieszka
+06.30
+08.06
+55.8
+2.16
+Zieliska
+Vankowalszi
+Prepared
+Approved by:
+Laura Rossi
+Log
+No:i
+{Usts
+each
+Temp
+Begin

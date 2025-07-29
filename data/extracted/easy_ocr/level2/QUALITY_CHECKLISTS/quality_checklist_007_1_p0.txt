@@ -1,0 +1,98 @@
+Inspection Register
+#5495466
+Date: 17.07.2025
+Praduct ID
+VR-9401
+Customor ID
+TURKEY
+Item Description
+Plastic Cover 150x150
+Use this Iistto conlirm adherance to AQL ancl safely staridards. Archive this lIst in the quality-management
+system; Entrie3 include both visual and functional inspection items The
+following table outlines inspection
+Griteria and classilfication levels. All checklist entrles are tinestamped for traceabillly.
+Audit Crlterla
+Inspection
+Severity
+Onsenatons
+Dapth
+Companent Criteria
+Hold
+Connccio
+nat working
+LuaM
+Needs rview
+IncoMectJicoue
+lubei
+LCVE
+NeCos
+revicw
+Dead =
+live insect in
+Critica
+Icaci
+pina
+Product doesn
+power On
+Needs review
+Shipping mark
+illegible
+Needs review
+missing
+Packaging does not match
+Lovel MI
+Mincr issue observed
+signcd sample
+Wrong product size
+Levei
+Critica
+Functionality
+Critica
+mnaci
+Mssing dstrihutor
+Level III
+Needs
+eview
+inionmtaron
+Hinges
+COSe
+Battery rot included
+Needs
+Avet
+Incoirec
+quantity
+Level II
+Needs reviewe
+HESOnmnen
+Missing sately labels
+Leval /
+Wnstutuon ninuai
+rissing
+LevelII
+Needs revlew
+damaged
+Sharp edges on plastic
+Level Il
+Minor issue observed
+comddnanis
+Package
+notscaicd
+Mimor isSue obyerved
+cpmpletely
+Excosad naiwitn snanz
+paint
+Leval
+Minor issle oosenypd
+Colornusmalch
+euA
+Cucalmdic
+AQL
+Criticel
+Minor
+Jerut
+Customer specific
+pecks
+Umpact
+Tded
+Lavel
+Maijor

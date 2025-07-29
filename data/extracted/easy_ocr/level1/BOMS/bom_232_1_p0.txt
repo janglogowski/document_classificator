@@ -1,0 +1,88 @@
+BILL OF MATERIAL
+Customer ID: BRAZIL
+Coordinator: Peter Schmidt
+Date:
+2024-05-23
+Product ID: RX-3102
+Intema
+No : 1473609
+Order Qly: 343
+The following table summarizes the materials and quantities needed for the current project:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+3.42
+0%
+pcs
+0.20
+7.40
+Certified
+Rivets
+batch
+Hex Bolts
+3.21
+590
+pcs
+0.25
+2,50
+Imported
+M12
+Gasket
+2.59
+10%
+pCs
+1.25
+62.50
+High
+Sheet
+grade
+Packaging
+0.31
+29/
+pcs
+1.00
+31.00
+Eco
+Box
+compliant
+Plastic
+2,.29
+290
+pcs
+1.10
+28.60
+High
+Cover
+grade
+150x150
+Aluminum
+3.22
+590
+pCs
+4.50
+135.00
+For
+Bracket
+export
+Bearing
+2.83
+59
+pcs
+72.00
+High
+6202 ZZ
+grade
+Cross-verify totals with the ERP system for consistency:
+Amount:
+339.00
+Approved By:
+Sourcing Department:
+Tolal

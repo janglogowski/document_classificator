@@ -1,0 +1,114 @@
+Machine Log Summary
+2025-01-10
+Use this record
+pian vpcomino
+upkeep and repairs;
+techncian
+ccmments
+recordeo
+tor maintenance trend
+analysis
+The following entries detail preventive and correciive maintenance
+[sks
+Please reviewv this log for recent
+service dales, types; and remarks
+Use Ihis summary
+Icccastoans (colacement and resouncenceds
+Spare Parts Used:
+Part Name
+Part No
+Oty Used
+Hdraulic Hose
+-1034
+Machinc
+Equlpment
+Typc
+ecnnician
+downima
+Last Check
+Atea
+Camments
+MC-2OB
+Plsma
+Prevantive
+2023-12-07
+Tighlened
+Cutter
+Kowalski
+cos&
+bolts
+MC-260
+Laser
+Corrective
+Anna
+2024-08-08
+Tightened
+Nowak
+Icose boits
+MC-297
+CNC Milling
+Prevanlive
+Laura Rossi
+2024-04-07
+NaodEn
+Mlacning
+pal yl
+chuckud:
+MC-211
+Laser
+Ccrrective
+Peter
+2024-08-06
+Replaced
+Cutter
+Scnmidt
+5A1.
+MC-292
+PISM?
+Conecl
+Carlos
+2025-0111
+LLlon
+Cutter
+Garcla
+battery
+Eenced
+MC-295
+Packaging
+Coecice
+Carlos
+2024-11-01
+Charged
+Line
+GGarcia
+fIltcts .
+MC-204
+Hydraulic
+Preventive
+2023-08-17
+Switch
+Prese
+Kowalski
+conacls
+cleaned
+MC-252
+Plasma
+Corrccilvc
+PClCi
+2024-07-22
+Kicmicnl
+Schmidt
+ninges
+adusieo
+MC-245
+Lalha
+Cotrectve
+2025-07-11
+Rowalsri
+Approved D%:
+Luura Russ
+Seniced py
+Peter Schmidt
+Cutler
+nack
+Cuter

@@ -1,0 +1,63 @@
+BILL OF MATERIAL
+Customer ID: BELGIUM
+Coordinator: Laura Rossi
+Date: 2023-12-02
+Product ID: JD-ZOOW
+Internal No.
+4757528
+Order Qty: 175
+The following table summarizes the materials and quantities needed for the current project. This
+document provides
+detailed breakdown of all components required for the assembly process:
+Item
+Consumption
+Extra %
+UOM
+Rate
+Amount
+Remarks
+Description
+Insulation
+2.08
+pcs
+3.20
+73.60
+Foam Pad
+alignment
+adjusted
+Ventilation
+2.84
+pcs
+5.60
+22.40
+Switch
+Grid
+tested OK
+Clamp Ring
+2.24
+pcs
+1.75
+1,75
+ISO
+120mm
+verified
+Clamp Ring
+2.51
+1.75
+68.25
+120mm
+Heat
+1.33
+109
+2.70
+137.70
+Resistant
+Sleeve
+Oa
+Amount:
+303.70
+Approved By:_
+Sourcing Department:
+aty
+Hinge
+Pcs

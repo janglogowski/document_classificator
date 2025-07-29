@@ -1,0 +1,77 @@
+BOM Report
+Below is the component listing and associated costs for the upcoming production batch: This
+section oullines the parts, unit prices
+total amounts for assembly. The following table
+summarizes the materials and quantities needed for the current project; Ensure each component
+meets the specified quality standards_
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Epoxy
+pCS
+109.50
+Eco
+Resin Kit
+compliant
+Spring
+pcs
+0.05
+1.30
+Urgent
+Washer
+M1o
+Power
+pcs
+14.40
+Eco
+Switch
+compliant
+Terminal
+pCS
+3.40
+71.40
+Li-Ion
+Block 4P
+baltery
+installed
+Plastic
+pCs
+1.10
+24.20
+Li-Ion
+Cover
+battery
+150x150
+installed
+Bearing
+pcs
+1.50
+9.00
+5202
+Temmina
+pCS
+3.40
+159.80
+Block
+Stee
+5.00
+55.00
+ROHS
+Sheet A36
+compliant
+Check that component quantities align with production run requirements
+Customer_ID: BELGIUM
+Coordinator: Anna Nowak
+Date: 2023-02-03
+Product ID: XK-61QU
+Intera
+No;: 7977446
+Order Qty: 229
+Total
+Amount:
+444.60
+and

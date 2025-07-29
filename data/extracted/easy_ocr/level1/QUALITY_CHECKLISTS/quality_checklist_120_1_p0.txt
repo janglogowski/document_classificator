@@ -1,0 +1,134 @@
+Quality Review
+#7376273
+Date: 17.07.2025
+Product
+MS-6002
+Customer ID
+GREECE
+Item Description
+Heat Sink ALU
+Below are the items
+be verified during the fina
+product review:
+ease review each checklist point and markthe
+sampling results. Archive this Iist in the quality-management system: Use this Iist to confirm adherence
+AQL and
+safety standards
+Insure
+non-conforming
+marks Are
+dlearly documented
+Use this extract
+coordinate
+sign-off
+with the Q4 manager, This summary supports the production-release quality gate. Check that inspection steps
+the approved procedure-
+This
+Osurc
+summiary
+indicates compliance with inspection criteria. All checklist entries are
+Fimestampeo
+trareability;
+Inspection
+Checklist Points
+Check
+Severity
+Comments
+Intensity
+Product Requirements
+Sharp edges
+plastic
+Level IlI
+observed
+comnonents
+Functionality test failed
+Leve
+Impact
+Missing logo
+waming label
+Leve
+Critical
+Impacl
+Visual defect on housing
+Leve
+Minoressue Obsereg
+Packaging does not match signed
+Tevei
+Needs
+sample
+Dead
+insect in packaging
+Needs reviev'
+Missing distributor nformation
+Leve
+Necus revilw
+Wncommt
+nentation
+Leve
+Neens
+MECMFU
+Package
+not seaiec
+compietel
+Leve
+Mscue
+observed
+Wrong product size
+Leve
+Critical
+impact
+Battery nat included
+Leve
+Shipping mark is illegible or
+Level IlI
+Critical impact
+Missing
+Incorrect quantity or assortment
+Minorissue cbsered
+Carton E
+damaged
+markings
+Level /
+Minor Issue observed
+incorrect
+Missing safety labels
+Leva
+LODSl
+parts InSIC@ packaging
+Leve
+Critical Impact
+AQL Level
+Critical
+Vaior
+Nlinor
+Default
+Customer
+specific
+Checklist results have been reported
+the quality manager;
+Use this closure report
+update the quality KPI
+casaboang
+All critical and
+Major Inspection points have been addressed
+Allsummancamments
+navedecn Valdated
+by the Q4team: Flag any oper
+IssueS
+the CAPA tracking system
+ensure supervised
+sign-aff
+any non-
+confomming
+Doints
+This final note confirms the checklist 
+complete and approved
+Corrective actions
+scheduled
+for identified Issues_
+Hollox
+Mlnor /
+issuc
+Crlticai
+Minor
+Please

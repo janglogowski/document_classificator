@@ -1,0 +1,125 @@
+DAILY PRODUCTION REPORT
+KepoNo-
+PR-886
+Customer'
+FRANCE
+Supervisor:
+Laura
+Departmenl;
+Logistics
+Dale
+16-12-2024
+Shift:
+(Night)
+Machine
+Task
+Technician
+From
+End Time
+Time Spent
+Comments_
+MC-205
+Drilling
+Agnieszka
+09;30
+11.25
+115
+NA
+Zieliska
+MC 203
+Assembly
+Wiktor
+07:15
+09.10
+115
+pczynski
+MC-201
+Welding
+Bartosz
+13.00
+120
+Delay
+Wawizyniak
+MC 201
+Cutting
+Magdalena
+14.00
+15.03
+Witkowska
+MC-203
+Drilling
+Nadia Sautor
+07:S0
+08.56
+MC-208
+Drilling
+Magdalena
+09;30
+11.25
+NA
+Witkowska
+MC-202
+Welding
+Piotr
+09.30
+10.29
+Lewandowski
+MC 202
+Asscmbly
+Magdalena
+08.00
+09.33
+Recalbrated
+Witkawska
+MC-202
+Polishing
+Piotr
+09.30
+10.41
+Delay
+Lewandowski
+MC-208
+Welding
+Magdalena
+10.30
+11.09
+Witkawska
+Part ID
+Target Qty
+Actual Qty
+Defect Qty
+Failure %
+Notes
+ZR-205R
+1.4296
+Scrap
+confirmed
+QN-770H
+254
+231
+9.0690
+GL-9805
+166
+12,0596
+Scrap
+confirmed
+AL-1150
+105
+104
+9596
+Scrap
+confirmed
+WD-180S
+222
+6.3396
+Rework needed
+XD Z10R
+196
+0896
+Prepared by;
+Peter Schmidt
+ApDroveo
+Carlos Garcia
+Rosai
+I1;00
+Delay

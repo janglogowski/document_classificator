@@ -1,0 +1,67 @@
+Unit Configuration
+proled
+QN-7704
+Intern
+6565909
+Prepared
+Iwalski
+Approved Bx:
+LaMr?
+KOssi
+Location: Plant 1C
+Date: 2023-12-07
+Canfirm that performance ranges comply with project requirements
+Belov: are the technica
+ojrameters
+and
+construction
+materials for the unit: Use this sheet.
+conmrn
+engineering requirements and tolerances
+This report
+extract]
+prepared for design-verification audits. Check that all materiz
+specs allgn with supplier certifications
+Contiguration Type
+Pneumaic Cantro
+Umil
+Ratcd
+Pressure
+180
+Fluid Flow
+60 Llmin
+Supply Voltage
+50Hz
+Tota
+Weight
+180ke
+Charging Time
+Filtration
+10pm return, 25 um
+Service Interva
+12 months
+suction
+Motor Power
+11kW
+Type
+Vane
+Pumd
+Noise Level
+70 dBIA)
+Reservoir Capacity
+Battent
+Capacity
+10 Ah
+Frame
+Material
+Powder-coated Steel
+Working Temp:
+10"Cto 5570
+Protection Class
+Oil Type
+Contro
+Valve
+Proportional 42
+BYE
+Pump
+Range

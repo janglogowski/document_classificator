@@ -1,0 +1,66 @@
+Equipment Record Report #7903731
+Date: 2025-04-25
+Machine
+Equipment
+Service Type
+Technician
+Downtime
+Site
+Notes
+MC-240
+Asscmbly
+Inspccton
+Jan Kowalski
+Piant IC
+Changed oil
+Roual
+anotmers
+MC-255
+Assembly
+Inspection
+Kowakki
+Plant 28
+Calibration
+Robat
+check OK
+MC-203
+Lasc
+PrCvCnUvc
+Schmidt
+Piant 34
+Replaced
+cooiani
+MC-263
+Plasma Cutter
+Inspectiom
+Peter Schmidt
+pant %A
+Switch
+contacts
+cluanuu
+No cnlical
+[aule
+Wete louno
+during the
+inspecbion
+Overall
+equipmenl condition
+~salisiactory
+PCSL-maintenance
+@nsire
+preventive service
+scheduled according
+Aimaintenance duratans 3ie
+recorded for performance
+metncs Check remaining life-cycles
+key components from this repont;
+Luoncancn
+Checked
+Calibralion V Bclad
+Emerdenc
+Stod
+Tesreo
+Signed olf: _
+Performed by:
+Cuttcr
+Pelct

@@ -1,0 +1,66 @@
+BOM Report
+Customer
+NORWAY
+Coordinator: Peter Schmidt
+Date: 2024-02-06
+Product ID: TY-3506
+Internal No.
+1880209
+Order
+Qty: 473
+The following table summarizes the materials and quantities needed for the current project. Refer to this
+parts register to plan raw-material purchasing_
+Item
+Consumption
+Extra %
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+2.09
+0.55
+23.65
+Eco
+Stopper
+compliant
+Copper
+1.52
+10%6
+0.60
+18.60
+ROHS
+Wire 3mm
+compliant
+LED Light
+1070
+2.50
+60.00
+Battery
+25.00
+475.00
+Pack
+FMSC
+1.21
+10%6
+0.30
+5.10
+ISO
+verified
+Terminal
+1.86
+10%6
+3.40
+176.80
+Li-Ion
+Block 4P
+battery
+installed
+This final review confirms that all items are ready for requisition.
+Total Amount:
+759.15
+Approved By:
+Sourcing Department:
+aty
+Strip

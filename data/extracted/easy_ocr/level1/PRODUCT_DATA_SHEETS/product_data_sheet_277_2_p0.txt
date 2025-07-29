@@ -1,0 +1,48 @@
+Unit Configuration
+This data shect provides key specifications and material details. The parameter
+register below includes
+operating Iimits and ratings; Use this spec sheet t0 validate assembly instructions;
+data entries
+traceable
+design revision history- Entries include both mechanical and electrical specifications
+Refer to
+this configuration summary for unit-designation mapping: Use this sheet to confirm engineering
+requirements and tolerances;
+Product ID;
+RX-310Z
+Document No;
+PR-802
+Prepared by: Jan Kowalski
+Approved by: Peter Schmidt
+Date: 2024-01-01
+Model Lype
+PneMmatc
+Contol Unt
+Rated Pressure
+180 bar
+Fluid Flow
+30 Lmin
+Operating Voltage
+400
+S0Hz
+Dimensions (LxWHL
+1200
+700 x 1100 mm
+Pump Lype
+Vane Pump
+Cooling_
+Air-cooled Oll aclalor
+Service Interva
+500 h
+Mounting
+Wall-mounted
+Refer
+parameter table for operating ranges and tolerances; Confirm that all test conditions are accurately
+represented_
+any missing parameters for urgent specification updates_
+Data sheet has been
+reviewed by the engineering team:
+summary comments have been recorded
+the revision log-
+Flag
+pecr-

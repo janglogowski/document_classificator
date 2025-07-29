@@ -1,0 +1,54 @@
+Product Overview
+Document No;: 2519881
+Product
+TX-820v
+Date: 2025-02-11
+Configuration Type
+Cooling Circulatlon
+Design Pressure
+210 bar
+System
+Fluid Flow
+Voltage
+400v / 50 Hz
+Nolse Leve
+70dBLAL
+Control Valve
+Manuai
+Override 3/2
+Frame Materia
+Powcen-coated
+Reservoir Capacity
+80 L
+Battery Capacity 
+10 Ah
+Charging Time
+power
+5,5 kW
+Mounting
+Rack nme
+component Materials Overviev:
+quncom
+Mem
+Base
+Specification
+Wiring
+Oom _n
+PVC (Rigid]
+RoHS compliant
+Suppart Foat Stee
+Stainiess Steel 304
+certified
+Bearing
+6 202
+Stainless Steel 304
+Class
+colerance
+LED Light Strp
+Glass-Filled
+IP6? rated
+Prepared by: Anna Nowak
+Approved by: Anna Nowak
+Stcer
+Motor
+Nvlon

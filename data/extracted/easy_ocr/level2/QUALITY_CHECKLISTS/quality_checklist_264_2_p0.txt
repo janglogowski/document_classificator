@@ -1,0 +1,67 @@
+Inspection Checklist
+Creck that inspection steps follov the appraved procedure.
+All checklist entres are tlmestamped tr
+traceability. Use mnis list
+confim adherence lo AQL and safety standards
+Use this extract t0 ccordinato
+slgn-olf with the QA manager; Archive this Ilst In Ihe quality-managenent system. Below are the Iters
+venified during thie tinal product review.
+Product ID
+ON- 7T0H
+Customer ID
+TURKEY
+Malnn
+Doscription
+Bearing 6202 Z2
+Rovicw Points
+Check
+Sevarity
+Comments
+Intensky
+Item Specs
+Crtical
+Malo
+OnHold
+Carton
+damaged o1
+Lavel II
+marking: incottect
+Exposed n3il with sharp
+MinoriESu0
+Level |
+point
+Ocserveq
+Not assembled as per
+Minor iSSu0
+Level |
+drakiing
+observed_
+Rubber Swilch not
+Minor Issue
+Level II
+working
+obsorved
+Wrong product :ize
+Level
+Rubber texture
+Minor issu0
+glossines: mismialch
+pbserved
+Minor Issue
+Battory noi inchided
+obgerved
+Package
+not seaied
+Level
+Needs review
+completely
+Connector not Working
+Needs review
+Praduict doesnt power
+Minor
+Levol II
+oujerved
+Supervised by:
+Date -
+Minor
+Issue

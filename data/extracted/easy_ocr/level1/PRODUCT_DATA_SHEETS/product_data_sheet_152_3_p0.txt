@@ -1,0 +1,54 @@
+Report No : 9709665
+Product ID: NU-4402
+Date: 2024-12-05
+Model Type
+Pneumatic Control Unit
+Operating Pressure
+300 bar
+Flow Rato
+75 Umin
+Voltage
+230 V /50 Hz
+Cooling
+Water-cooled
+Working Temp. Range
+10"C to 55*C
+exchanger
+Dimensions (LxWxH)
+12uu
+700
+1100 mm
+Charging Time
+Filtration
+10 pm retum, 25 um
+Battery Capacity
+10 Ah
+suction
+Motor Power
+55kW
+Component Materials Overview;
+Pant
+Base
+Specilicalion
+Bearing 6202
+Stainless Steel 304
+DIN EN 10025
+Support
+oot Steel
+Stainless Steel 304
+Heat-resistant
+Gasket
+Shee
+Nitrle Rubber
+RoHS compliant
+Heat Sink
+Aluminum 6061-16
+LED Light Strip
+ass-Filled Nylon
+lerance
+Battery Pack
+Lithium-Ion Cell Pack
+50 2768
+Prepared by: Carlos Garcia
+Approved by: Laura Rossi
+Ciass

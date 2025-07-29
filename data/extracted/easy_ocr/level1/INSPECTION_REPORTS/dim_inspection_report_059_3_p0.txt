@@ -1,0 +1,92 @@
+Component Dimensional Check
+Inspection performed by Carlos Garcia on 2024-01-14.
+Use this examination summary
+confirm component confomity. Below are the recorded measurements
+compared against
+tolerances. Refer to the dimensional log for all component size readings: AlI
+measured values are timestamped for audit purposes:
+Environmental Conditions: Temperature: 23.0 "C, Humidity: 51 %
+Article No.
+Part Name
+dim
+Target
+Observed
+Delta
+Status (VIXI
+CE-905L
+Shaft
+Depth
+43.49
+43.42
+0.07
+PASS
+s00mm
+VF-2Z0D
+Steel Sheet
+Height
+99.17
+99.22
++0.05
+PASS
+A36
+XK-61QU
+Set
+ength
+5734
+57.16
+PASS
+RM-86ON
+Widlh
+70.38
+70.41
+PASS
+CE-9O5L
+Wooden
+Width
+22.86
+22.87
+PASS
+Pallet
+DX-777T
+Battery
+Hole
+6.40
+6,28
+0.12
+PASS
+Pack
+GL-980S
+Steel Sheet
+Widlh
+58.36
+58.54
++0.18
+PASS
+A36
+TY-350G
+Graphite
+Height
+87.13
+87.19
++0.06
+PASS
+Pad
+Kv-390k
+Power
+Height
+39.,97
+39.85
+-0.12
+PASS
+Switch
+DX-7771
+Hex Bolts
+Height
+82.25
+82.38
++0.13
+PASS
+M12
+nominal
+Hinge
+Hinge

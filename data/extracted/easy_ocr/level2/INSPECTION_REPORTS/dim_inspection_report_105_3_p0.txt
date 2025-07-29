@@ -1,0 +1,107 @@
+performed by Peter Schmidt on 2025-02-24.
+Inspection
+conformity: All measured values are timestamped for
+Use this examination summary
+confirm component
+status Ilags. Check that all
+This section delails the measured values; tolerances
+devialion
+audit purposes
+standards: Entries include both pass fa l markers
+dimensions comply with ISO
+company
+magnitudes
+Temperature: 23.5
+Humidity: 40 %
+Environmenta
+Conditions:
+Observed
+Delta
+Status (VIX)
+Htem
+Code
+Part Name
+Dim:
+Nominal
+~0.12
+63.73
+63,61
+GH-770J
+Hex Bolts
+Depth
+M12
+25.38
+25.48
++0.10
+NE-245A
+Woccen
+Inmei
+Pallet
+Diameter
+26.13
+25.95
+0.18
+NE-2454
+Shait
+Inner
+500mm
+Diameter
+86.24
++0.13
+Thickncss
+86.11
+TX-820v
+Hex Boits
+M1z
+43,64
+43.74
++0.10
+FT-730X
+Graphite
+width
+Pad
+92.31
+92.16
+-0.15
+RM-86ON
+Hex Bolts
+Length
+M12
+57.41
++0.10
+PW-515Y
+Shafl
+Length
+57.31
+500mm
+14,30
+14.26
+~0.04
+WD-1805
+Beanng
+Thickness
+6202 ZZ
+53.11
+FT-730X
+Steel Sheet
+Thickness
+53.13
+A36
+87.93
+88.12
++0.19
+MX 450L
+Rubber
+Height
+Gasket
+B0mm
+63.29
+63.18
+-0.11
+DX-777T
+Woaden
+Hole
+Pallel
+and
+and
+0.02

@@ -1,0 +1,55 @@
+Product Overview
+Praduct ID=
+KP-3200
+Dat
+2023-08-18
+Report No:
+PR 406
+Dawerunit
+RatCO
+Prcusurc
+J00
+Mvdrauig
+Unit Type
+Voltug
+S0hz
+Fluld Flow
+G0Lamin
+au
+Manua
+Override 42
+Dimorslons (LxWxh)
+4200 x 700
+Control
+Watel
+FcnjnCG
+coate steei
+Coomnm
+Frang Material
+FOWC
+130 KR
+Wounted
+Tata
+Weieht
+Mounting
+Motot
+pnwuer
+Service
+Untervall
+1ONO
+Component Materlals Overvlow:
+Specificatlon
+Raw Matenal
+K = Mas@
+Polyearvonale
+Coppet
+Pawer Swltch
+Rols Complong
+Stec
+Hex Bolts M1?
+Wirina; Loom In
+PVC (Rleidp
+Approved by: Anna Nowak
+Prepared by: Arina Nowak
+cualcu
+csrtiucd

@@ -1,0 +1,80 @@
+Unit Configuration
+Please review the specifications and
+materia
+composition listed below. Use this spec sheet -
+validate
+assembly instructions
+Ensure all referenced standards are Up
+date.
+Confimm that perforance
+ranges
+comply with project requirements
+This report extract
+prepared for desigr-veritication audits
+The
+parameter register below includes operaling limits and
+Product ID:
+PW-5151
+Internal No.
+PR-686
+Prepared by: Anna Nowak
+Approved by: Jan Kowalski
+Date: 2024-09-12
+Configuration Type
+Pneumatic Control Unit
+Operating Pressure
+250 par
+Fluid Flow
+48 Umin
+Voltage
+400 VI5O Hz
+Reservoir Capacity
+160
+Working Temp Range
+10Cto 50"C
+Motor Power
+USkW
+Service Interva
+12 months
+Ensure glossary tems match the engineering nomenclature
+Overall configuration
+within defined design
+and safety margins
+Ensure that the listed materials are approved for the application All summary
+coinmenis
+have been recarded In the revision log: Material choices and process data have been verified for
+cornpliance. All specifications meet the design requirements and industry standards. This closure note
+indicates Ihe data sheet 
+eady for release_
+Materia
+Construction:
+Part
+Raw Materia
+Hex Bolts M12
+Zinc-Plated Stee
+Bearing
+Stainless Steel 304
+Cooling Gel Pack
+Silicone Rubber
+Gasket Sheet A4
+Nitrile Rubber
+Power
+Switch
+Polycarbonate
+Copper
+Cable
+Pack (100
+Nitrile Rubber
+Rubber Gasket 80mm
+Nitle Rubber
+Heat Sink ALU
+Aluminum 6061-
+Wooden Pallet
+Treated Pine
+Pressure Valve
+Brass CZ121
+Tape Roll
+Tetlon Tape Roll
+ratings-
+Wood
+Tefon

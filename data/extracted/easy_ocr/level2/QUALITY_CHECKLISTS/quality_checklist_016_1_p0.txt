@@ -1,0 +1,66 @@
+Quality Verification
+#5219537
+Date: 17.07.2025
+Product ID
+SB-I400
+Customor ID
+GREECE
+Itom Doscription
+Plastic Cover 150x150
+Confirm Ihat sampllng levels comply wilh customer agreements. Please revlew each checkilst polnt and
+mark Ihe sampllng results
+This checklist capturos quality Inspacllon points and sampling levels. Use (hls
+extraci to coordinale
+slgn-olf wilh Ihe QA manager. Entries Include both visual and (unctional inspeclion
+Items , This seclion detalls quallly requlrements
+test points for Ihe batch: This sUmmary supports Ihe
+produciion-reloase quality gate; Below are Ihe items
+be verified during the Iinal product revlaw: The
+following table oullines Inspectlon criteria and classification levels . Refer to Ihe quality register for sampling -
+plan relerences
+Audit Critoria
+Sample
+Classification
+Obsorvations
+Tler
+Dosign Specs
+Crltical
+Major
+Minor
+OnHold
+MIs sing salely labels
+Levell
+Shipping miark Is Illegible
+Levol II
+Noeds revlaw
+or missing
+Connector not working
+Mnor IssuU obsarved
+Visual defect
+housing
+Level
+Minor Issua observed
+Nol assembled as per
+Level IlI
+Needs revlew
+arawing
+Color mismalch
+Hinges
+0osu
+Luvel
+Crillcal Impact
+AQL Level
+Crillcal
+Major
+Default
+Customar
+specllilc
+Thls final nole conlirs Ihe checklist
+comiplale and approved: Refer t0 noles (or any observed delects Or
+deviallons:
+Mems
+marked for hold requlre additonalrevlew before release, Inspeciion summary Is Iiled for
+regulatory compllanca
+Plaase ensure suparvised sign-olf on any non-conforming points,
+and
+Mnor

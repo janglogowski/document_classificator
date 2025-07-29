@@ -1,0 +1,42 @@
+Product Overview
+Document No.
+PR-565
+Product ID: VF-2ZOD
+Date: 2025-05-30
+Contiguration Lype
+Pueumatic Contol Unt
+Design Pressure
+210 bar
+Flow Rate
+30 Lmin
+Operating Voltage
+400 VIS0Hz
+Reservoir Capacity
+160
+Charging Time
+Filtration
+pm return, 25 pm
+Pump Type
+Gear Pump
+suction
+Oil Type
+HLP 32
+Service Interva
+500 h
+Component Materials Overview:
+Pan
+Composition
+Specification
+Pressure Valve
+Brass CZ121
+SO 2768
+Wncrmz
+Fuso
+Ceramic Oxide
+Class
+tolerance
+Rubber Gasket B0mm
+Nitrle Rubber (NBRL
+IP67 rated
+Prepared by: Anna Nowak
+Approved by: Carlos Garcia

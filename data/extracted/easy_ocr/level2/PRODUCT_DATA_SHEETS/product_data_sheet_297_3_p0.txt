@@ -1,0 +1,68 @@
+Component Overview
+Dare
+2025-01-19
+ID: ON-770h
+Document No;: PR-656
+250 Dar
+Ratco
+Pressure
+Couling Circulation
+Madel Type
+6ctem
+A80 `
+[e2t2
+VoltaBe
+75 Laurn
+HLP 32
+Fluld low
+Ol Type
+Air-cooled pil radiator
+Mloro
+powet
+5.5 KWV
+Cooling
+Praportional 4/2
+Control Valve
+Charging Tme
+68 dBlAl
+Nolse Levcy
+Materials Overview:
+Specification
+Component
+IP6?
+Lih &
+uminun
+Hezt-reslstant
+Capacitor 450V
+Stalnless Steel 304
+Fiectncai
+Bearing 6202
+Stalnless stee
+Cinss
+Atolerance
+Fcot Steei
+Pine Wooo
+Trealel
+UL listed
+Wooden Palet
+Gcaphite
+Erace
+Electrical
+Graphite Pac
+Ceramic Oxiue
+Therm
+Glays-Fllled Nylon
+Anticorroslve
+connetto
+Tnafmdn
+lastic Polyurethane (TPU)
+Insulated Tube 25mm
+Approved by: Jan Kowalski
+Prepared by: Peter Schmidt
+Prodytt
+Materiai
+Faled
+oog1Tg
+Errde
+upbor
+centticd

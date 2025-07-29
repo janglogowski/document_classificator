@@ -1,0 +1,97 @@
+keuan No :
+PR 605
+Customer
+FINLAND
+Supervisor
+Peter Schmict
+Department:
+Machining
+Date
+19-11-7073
+shift:
+B Evening)
+Machine
+pracess
+Worker
+otaklime
+comments
+MC-203
+Welding
+Piotr
+06.00
+07.59
+Lewvandowski
+MC-203
+Cutting
+Kowalski
+08.15
+08.5 2
+MC-203
+Welding
+Piotr
+08.30
+09.02
+Lewvandowski
+MC-209
+Polishing
+Wiktor
+10.30
+12.29
+Kopczyrski
+MC-208
+Assembly
+Dawid
+11.30
+12.55
+Oszmlariczuk
+MC- 207
+Cutting
+Matcusz
+08-00
+09.20
+Jarzyna
+MC-208
+Polishing
+Knnz
+Nowak
+LL-UC
+12.11
+MC-201
+Polishing
+Piotr
+10. 00
+11.19
+Delay
+lewandowski
+MC-202
+Polishing
+Anna Nowak
+Delay
+MC-203
+Drilling
+an kowalski
+03-0l
+09.38
+Recaliprared
+Product ID
+Target Qty
+Produced Qty
+Scrap Qty
+Scrap
+Remarks
+HF-3904
+206
+196
+4.858
+Rewor needed
+NE-745F
+8856
+Scrap confirmed
+555V
+5990
+Rework needed
+Prepared by:
+Peter Schmiat
+4pprovec
+Ljura Rosse
+Bcgin

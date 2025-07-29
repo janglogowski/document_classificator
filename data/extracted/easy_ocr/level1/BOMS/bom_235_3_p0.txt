@@ -1,0 +1,99 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Aluminum
+pcs
+4.50
+148.50
+Imported
+Bracket
+Plastic
+pCS
+1.10
+11.00
+Cover
+alignment
+150x150
+adjusted
+Shaft
+pCS
+8.00
+80.00
+Eco
+s0umm
+compliant
+Spacer
+pcs
+0.15
+3.75
+Eco
+2mm
+compliant
+Wooden
+pCS
+15,00
+45.00
+Palle
+Gasket
+pcs
+1.25
+21.25
+SO
+Sheet A4
+verfied
+Epoxy
+pcs
+330
+343.10
+High grade
+Resin Kit
+Grease
+pcs
+53.20
+SO-
+Tube
+verified
+250ml
+Hex Bolts
+pcs
+0.25
+3.25
+M12
+Gasket
+pCs
+1,25
+8.75
+Li-Ion
+Sheet A4
+battery
+installed
+LED Light
+2.50
+22.50
+High grade
+Strip
+Battery
+pcs
+25.00
+800.00
+For export
+Pack
+Amounts rellect current pricing; adjust as necessary for bulk orders
+Cross-verily totals with the
+ERP system for consistency. All sourcing notes have been logged for audit purposes;
+Customer_ID: NORWAY
+Coordinator:_Jan Kowalski
+Date: 2024-05-07
+Product ID: QN-770H
+Intera
+No; : 7451708
+Order Qty: 360
+Total
+Amount:
+1,540.30
+Hinge

@@ -1,0 +1,96 @@
+Quality Review
+#6286678
+Date: 17.07.2025
+productid
+CN-IS0C
+Customer0
+BRAZIL
+Item Descriptlon
+Set
+Usethis listto confirm adherence
+AQL and safety standards. This summary supports the production-release
+quality Bate. Please revieweach checklist point and mark the sampling results; This section details quality
+requircments and test points for the batch: Check that inspection steps follow the approved procedure. Archive
+this list in the quality-management system: The following table outlines inspection criteria and classification
+levels_
+Audit Criteria
+Sample
+Category
+Comments
+Tier
+Component Criteria
+Critical
+Major
+Minor
+OnHold
+Cannectornot working
+LAveM
+Minar
+ssueobyarved
+Shipping
+illegible
+Level /
+Minor issue observed
+0r Missin
+Missing logo
+Katning
+Needs review
+Iabe
+Dust{debris inside
+Level /
+packaging
+Rubber Switch not working
+Level!
+Minor issue observed
+Rubbei
+Toxiuic
+Needs review
+Elossiness mismatch
+Wood splinter
+sharp
+Level II
+Needs review
+point =
+product
+incorect
+quantity =
+Critical impact
+Assormant
+Package
+sealed
+Level /
+Critical impact
+complctcl
+Hinges loose
+Level I
+Critical impact
+Incorrect barcode Or label
+Level [
+Scrcu
+loose Or missing
+Lcvci
+Functionality tost falled
+Levell
+Instruction manualis
+Level |
+Needs review
+missing
+damaged
+Incorrect orientation
+Levei
+Needs review
+Packaging does not match
+Level II
+Minor issue observed
+signea sample
+Praduct doesn { power On
+Needs revlew
+AQL Level
+Critical
+Maior
+Minar
+Default
+customer
+specific
+Hingel
+Mark

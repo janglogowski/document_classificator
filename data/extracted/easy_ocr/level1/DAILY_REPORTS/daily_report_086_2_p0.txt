@@ -1,0 +1,105 @@
+Production Log
+Report No:
+PR-690
+Customer;
+NORIAY
+Supervisor:
+KOw
+Depanments
+Qlam
+Lontro
+Shift:
+Evening
+21-12-2024
+Equipment
+Task
+Operator
+Begin
+Finish
+Time
+Notes
+Temperaturc
+Energy
+Spent
+Used
+MC-208
+Pollshing
+4eniesz-A
+06-00
+07.00
+Recalinrated
+593
+1,37
+Zielinska
+MC 203
+Drilling
+Nadla Saute
+06,30
+07.49
+Recalibrated
+67.0
+2.34
+MC 208
+Cutting
+Nadia Sauter
+09.15
+10.02
+2.64
+MC-208
+Drilling
+Przemystaw'
+08.00
+09.19
+Recalibrated
+73.4
+1,81
+Wasik
+MC-202
+Assembly
+pnemusiav
+10.00
+11.39
+73.9
+Wasik
+MC-201
+Welding
+Bartosz
+09.30
+11.04
+Delay
+2.15
+Wawrzyniak
+Mc-202
+Assembly
+Jan Kowalski
+06.15
+08.05
+Recalibrated
+004
+MC 205
+Cutting
+Ana Noiak
+12.15
+13.39
+MC 209
+Drilling
+Agnicszka
+14,00
+15.06
+Recalibrated
+58,6
+1.12
+Zieliiska
+MC-203
+Assembly
+Dawid
+14.30
+15,06
+63.9
+1,93
+Oszmianczuk
+Prepared DY:
+Carlos Garcij
+Approved by:
+Carlos
+Garcin

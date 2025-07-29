@@ -1,0 +1,84 @@
+Inspection Record
+Quality Check Items
+Sample
+Category
+Remarks
+Tler
+Component Criteria
+Critical
+Major
+OnHold
+Incarrect orientation
+LevclilI
+Needs review
+Package
+not sealed
+Minor issuC
+LevelIlI
+completely
+opsenved
+S5u8
+Battery not included
+Level Il
+observed
+Paint smearing ar
+Level |
+scratches
+Product doesnt power On
+Level |
+Critical impact
+Hinges loose
+Level II
+Instruction manualis
+Level III
+Needs review
+missing
+damaced
+Not assembledas per
+Level III
+Needs review
+drawing
+Incorrect quantity -
+Level II
+Critical impact
+assortmant
+Loose parts inside
+Level III
+packaging
+Connector notworking
+Levell
+Needs review
+Sharp edges on plastic
+Minor issue
+Level III
+cpmiponents
+Dbsened
+DusUdebris inside
+Minor issue
+LevelII
+ODsenemd
+packaging
+Rubber texture
+IS4u4
+Level Il
+observed
+glossiness mismatch
+Dead
+live insectin
+LevelII
+packag
+Carton
+damaped 0r
+rarkings incorrect
+Color mismatch
+Level
+Criticalimpact
+Reference Standards;
+Standard
+Edition
+CE Directive
+UL6101O
+Ath Ed:
+Ainor
+Ninot
+Minoi

@@ -1,0 +1,66 @@
+Inspection Checklist
+All checklist entries are timestamped for traceability: This summary supports the production-release quality
+gate. Confirm that sampling levels comply with customier agreemients_
+Tnis section detalls quality requlrements
+and test points for the batch: Archive this list in the quality-management system, Below are the items -
+Veritie 0
+during the final product review:
+Productd
+MR-I60H
+Customcrd
+TURKEY
+Item Description
+Plastic Cover
+50x150
+Audit Criteria
+Inspection
+Category
+Notes
+Depth
+Item Specs
+Package
+nat wealed
+Minor issue observed
+campletel
+Missing safety labels
+Level II
+Critical impact
+Batterynot included
+Level
+Nat assembled as per drawing
+Critical Impact
+Paint smearing or scratches
+Leveu
+Needs revlew
+Hinges
+HODSi
+Mnor issuc ObscNco
+Visua
+duieclonnousine
+LCvCi
+Issue Obsenvec
+Rubber Switch not working
+Level
+Minorissue Dnsetved
+Screws loose
+Missine
+Critical impact
+Connectar not
+working
+Leveli
+Packaging does not match
+Level III
+Minor issue observed
+signed sample
+ncorrec
+quantty Dr
+Level |
+Critical impact
+assDrtmian
+Unsinuchan mnanals
+Missing
+Critical impact
+qamaped
+Supervised by:
+Date:
+Minor

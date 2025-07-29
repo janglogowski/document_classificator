@@ -1,0 +1,34 @@
+Customer ID: BELGIUM
+Prepared by; Laura Rossi
+Product ID: JD-7OOW
+Internal-No:: 4095170
+No
+Item
+Spacor 2mm
+LED Light Strip
+Plastic Rivets
+Control Panel
+Description
+Mount
+Qly
+448
+340
+246
+858
+UOM
+DCS
+PCS
+pCS
+Unit Price
+0.15
+12.00
+Amount
+67.20
+850.00
+49.20
+10,296.00
+Remarks
+For export
+Urgent
+Urgent
+TOTAL: 11,262.40

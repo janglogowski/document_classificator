@@ -1,0 +1,46 @@
+Inspection Summary
+Refer -
+the quality register for sampling-plan references. Use this extract:
+coordinate sign-off with the QA
+manager. This section details quality requirernents and test points for the batch: This closure sumimary
+indicates compliance with inspection criteria. This summary supports the production-release quality gate_
+Product ID
+MC-54OX
+Customerid
+BRAZIL
+Item Description
+Spacer 2mm
+inspuction
+Checklist Points
+Check
+Defect Class
+Notes
+Intensity
+Praduci
+Requirements
+Connector notworking
+LevgI
+Minor issue observed
+Unshucuon manuals
+missing
+Needs revlew
+damaged
+Wrong product size
+Needs review
+Screr
+Mssine
+Needs review
+LOOS
+parts inside
+Dackapinp
+evel
+Minor issue observed
+Incortect quantin
+assomtment
+Level
+defect on housing
+Critica
+Impact
+Supervised by:
+Date:
+Vigud

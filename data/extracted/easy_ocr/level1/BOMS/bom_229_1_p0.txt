@@ -1,0 +1,69 @@
+COMPONENT BREAKDOWN
+Customer ID: FRANCE
+Coordinator: Carlos Garcia
+Date; 2024-04-21
+Product ID: QN- 770H
+Internal No.: 5778655
+Order Qty: 168
+This document provides
+detailed breakdown of all components required for the assembly process.
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Fuse S4
+3.06
+pCs
+0.30
+0.90
+SKF
+brand
+Ventilation
+2.04
+pCS
+5.60
+274.40
+High
+Grid
+grade
+Ceramic
+1.28
+pCS
+2.10
+100.80
+SKF
+Disc 8Omm
+brand
+Control
+0.45
+pCS
+12.00
+564.00
+High
+Panel
+grade
+Mount
+Hex Bolts
+105
+pcs
+0.25
+2.25
+Urgent
+M12
+Grease
+1.19
+pcs
+1.90
+11.40
+ISO-
+Tube 250ml
+verified
+Total Amount:
+953.75
+Approved By:
+Sourcing Department:

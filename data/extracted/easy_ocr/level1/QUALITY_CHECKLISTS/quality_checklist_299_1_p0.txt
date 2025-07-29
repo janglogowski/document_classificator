@@ -1,0 +1,86 @@
+Quality Review
+#3769500
+Date: 17.07.2025
+Product
+VF-2200
+Customer
+FRANCE
+Item
+description
+Tnermz
+Fuse
+AIl checklist entries
+timestamped tor traceahility, Use this extract
+coardinate sign-otf with the QA manager; Use
+this list
+confirmn adherence
+AQL and safety standards. Ensure all non conforming marks are clearly documented.
+This section details quality requirements and test
+for the batch, Check that inspection steps follow the
+approved procedure_
+checklist captures quality inspection points and sampling levels,
+Quality Check Items
+Check
+Category
+Comments
+Intensity
+Component Criteria
+Critical
+Major
+Minor
+OnHold
+Hinges
+CO5@
+ISSUC ouscnvec
+Scrpws
+DOSP
+missing
+Level II
+Missing
+etvIadels
+Leve
+Critic?
+impac
+Product doesn t powrer
+Leve
+Needs review
+Baltery not Included
+Level
+Culca
+umpact
+Missing Iogo
+warning label
+LLvC
+Miino
+ISSUL ouservcu
+Package
+not scalcd
+Level Il
+Minor Issue observed
+campletely
+Sharp edges
+plastic
+Level MI
+cumponenis
+Connector not
+working
+Level MI
+Shipping mark
+illegible or
+Leveli
+Needs review
+ITIISSine
+Packaging does not match
+signed sample
+Rubber texture
+glossiness
+Msratch
+AQL Level
+Critical
+Vjior
+Minor
+Default
+Custamer
+specific
+points
+Mino

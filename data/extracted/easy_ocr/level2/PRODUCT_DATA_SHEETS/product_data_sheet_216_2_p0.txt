@@ -1,0 +1,58 @@
+Product Data Sheet
+Entrics include both mechanical and electrical
+specifications
+The parameter rogister below includes
+operating limits and
+This section details the configuration and parameter set for the product . This
+data sheet provides key specifications and material details. Confirm that performance ranges comply with
+project requirements, Refer t0 this configuration summary for unit-designation mapping
+The following
+Infaralion ouilines performance characterislics and design dala
+Product ID:
+SB-140D
+Document No
+6167934
+Prepared by: Laura Rossi
+Approved by: Anna Nowak
+Date: 2024-08-18
+Model Type
+Hydraulic Power Unit
+Design Pressuro
+180 bar
+Flow Rate
+48 Lmin
+Supply Voltage
+400 VISOHz
+Control Valve
+Proportional 42
+Motor Power
+I1kWN
+Charging Time
+Service Interval
+12 months
+Frame Material
+Stainless Stocl Framo
+Noiso
+70 dB(A)
+Materlal choices and process dala have been verilied for corpliance. This closure note indicates the dala
+sheet is ready tor rcieaso
+This summary roilects the latest revision ofthe product data
+AlI summary
+comments have been recorded
+Ihe revision log: Data sheet has been peer-revieved by the engineering
+team:
+Material of Construction;
+Ien
+Composition
+Batter_Pack
+Lithiun-Ion Cell Pack
+Digital Display Unit
+ABS Plastic
+Pressure Valve
+Brass CZ121
+Wooden Palle
+Trealed Pine Wood
+Suppont Foot Steel
+Stainless Steel 304
+rallings
+Levc

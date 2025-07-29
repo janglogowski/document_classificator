@@ -1,0 +1,67 @@
+Project:
+RM-86ON
+Wacument No::
+8712553
+Ldund
+Rossi
+Approved BY:
+Ljrios
+garcia
+Location: Plant 28
+Date: 2024 04-04
+Confirm that perfarmance ranges comply with praject requirements- This
+epart extract
+prepared for design-
+verification audits. Entries include bath mechanica
+and electrical specificatians; All data entries are trareable to
+revision history- Check that all materia
+specs align with supplier certifications. This section details the
+configuration
+and parameter set forthe
+Model Type
+Cooling Circulation
+Operating Pressure
+300 bar
+System
+Fluid Flow
+Umin
+Voltage
+400V / 50 Hz
+Service Interval
+12 months
+Filtration
+10 um return; 25 um
+suction
+Battery Capacity
+5 Ah
+Oil Lype
+HLP 68
+Pump
+Iype
+Gejr
+Protection Class
+P6z
+Frame Material
+Aluminum
+Fname
+Noise Level
+68 dBia)
+Control Valve
+Praportiona
+Cooling
+Air-cooled oil radiator
+Dimensions (LxWxHL
+120D
+700 :
+4100 mm
+Charging Tme
+Check that all section headers follow the product template Material choices and process data have been verified for
+comipliance
+Overall configuration E
+wlthin delined design and safety margins
+Ensure glossary ters match the
+engineering nomenclature
+Prepa
+desien
+product
+pump

@@ -1,0 +1,114 @@
+DAILY PRODUCTION REPORT
+Repon No ]
+Custoner
+PR-850
+Supervisor:
+FINLAND
+Department:
+Jan KowAski
+Dale
+Logistics
+Shilu:
+05-12-2023
+(Nghi)
+Machine
+Procoss
+Worker
+Begin
+Finish
+Total
+Comments
+MC-207
+Assembly
+Bartosz
+duration
+10.30
+12.08
+MC-202
+Weldirg
+Daawzyniak
+06.30
+08.25
+115
+Oszmianczuk
+MC-201
+Cutting
+Magdalena
+12.15
+13.24
+MC 202
+Witkowska
+Welding
+WIktor
+14.00
+15*71
+MC_201
+Welding
+Kopczyriski
+Anna Nowak
+07.15
+07.36
+MC-204
+Assembly
+10.30
+Recalbrated
+12-07
+ewandowski
+Delay
+MC-20t
+Cutling
+Wktor
+07.15
+Kopczynski
+08.56
+101
+Recalibrated
+MC 208
+Polishing
+Kowalski
+11.15
+13.11
+116
+NA
+Item ID
+Planned
+Actual Qty
+output
+Defect Qty
+Failure
+Notes
+GL- 9805
+237
+233
+1.699/6
+GH-770J
+211
+conmimed
+VF-ZZOD
+181
+175
+9.9506
+3.319
+Rework
+MS-6u0P
+297
+254
+needed
+14.4856
+Rework
+HF-390A
+208
+needed
+5,2990
+~P0OX
+confirmed
+8,4990
+Approved b%:
+Nowak
+Peter_Schmict
+Deiay
+piotr
+Scrapd
+Scran
+Prepared
+Anna

@@ -1,0 +1,63 @@
+Conformance Report
+The following table outlines inspection criteria and classification levels. Please review each checklist point
+and mark the
+sampling results. This closure summary indicates compliance with inspection criteria.
+Ensure
+all non-conforming marks are clearly documented:
+Product ID
+BZ-660F
+Customer ID
+BELGIUM
+Item Descrption
+Teflon Tape Roll
+Inspection Checklist
+Sample
+Category
+Observations
+Points
+Tier
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Rubber texture
+Level III
+glossiness mismatch
+Exposed nail with sharp
+Level III
+Minor issue observed
+point
+Wood splinter
+sharp
+Level |
+Crilical impact
+point on proquct
+Rubber Switch not
+Level Il
+Needs review
+WOrking
+Connector nol working
+Level
+Needs review
+Instruction
+Manud
+Level III
+Minor issue observed
+missing
+damaged
+Color mismatch
+Levoi
+Incorrect orientation
+Level |
+Needs review
+Not assembled as per
+Level |
+Minor issue observed
+drawing
+Missing distributor
+Level II
+Needs review
+infomalion
+Supervised by:
+Date:

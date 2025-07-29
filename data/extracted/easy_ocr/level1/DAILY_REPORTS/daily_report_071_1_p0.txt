@@ -1,0 +1,106 @@
+Production Log
+keporio :
+PR 206
+Customer
+FRANCE
+Supervisor;
+Poss
+Depantmentz
+Quality Cantrol
+Dal
+17-06-2024
+Shift:
+Evening)
+Machine ID
+Task
+Worker
+Start Time
+End Time
+Total
+Uwagi
+duratior
+MC-203
+ASSCMd 
+Wiktor
+12.15
+13.53
+Delay
+Kopczyriski
+MC-207
+Drilling_
+Jan Kowalski
+07.30
+08.59
+MC-203
+Drilling
+Jan Kowalski
+14-.30
+15.32
+Delay
+MC-204
+Welding
+Przemystaw
+1300
+14,57
+Recalntaten
+Wasik
+MC-208
+Polishing
+Dawid
+11.00
+11;52
+Delay
+Oszmiarczuk
+MC-208
+Polishing
+Anna Nowar
+08.15
+09;57
+MC-203
+Welding
+Nadia Sauter
+10.30
+1144
+N/A
+MC-208
+Drilling
+Magdalena
+13.00
+13.28
+Witkowska
+MC-207
+Welding
+wiktor
+08.15
+09.21
+Kopczyriski
+Part ID
+Planned
+Actual Qty
+Rejected Qty
+Failure %
+Uwagi
+Output
+GH-770
+133
+115
+13.5380
+4690
+BZ-GG0F
+177
+165
+6.7890
+confirmed
+GL-9805
+154
+5.848n
+GL-980S
+279
+8996
+Puwvark needed
+Prepared by:
+Anna Nowak
+Approved by:
+LnnaNowak
+LAUA
+Scrap

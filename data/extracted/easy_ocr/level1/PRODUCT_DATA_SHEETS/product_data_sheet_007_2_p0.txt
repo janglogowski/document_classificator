@@ -1,0 +1,49 @@
+Unit Data Specification
+Use this spec sheet
+validate assembly instructions
+Refer -
+this contiguration summary for unit-
+designation
+mapping: This section detalls the configuration and parameter set for the product. Entries include both mechanical
+and electrical specifications. Ensure all referenced standards are UP to date;
+praduct I
+VR-940T
+Renart
+1072004
+Prepared by: Laura Rassi
+Anproved bY: Laura Rossi
+Wate.
+2024-08-07
+Unit Type
+pneumalic
+Contral Unit
+Rated
+aressure
+300 dar
+Flaty Rate
+Supply Voltage
+A0U
+50 Hz
+Service Interval
+12 months
+Mounting
+Skid base with vibration
+puds
+Frame Material
+Stainless Stcel Frame
+Ensure
+Elassary
+terms match the engineering
+ndmenciatre
+Check that all section headers follaw the product
+template;
+Document control numbers are
+included far traceability. Data sheet has heen peer-reviewed by the
+engineering team Flag any missing parameters for urgent specification updates
+Material choices and process data
+have been verified for compliance. Refer
+uaramneier
+tablc for operating
+(Jnpes
+and tolerances
+No ;

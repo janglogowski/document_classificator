@@ -1,0 +1,81 @@
+Unit Data Specification
+Olene
+supports the product-release checklist_ Below
+Ensure all referenced standards 3re Up
+date- This technical
+prepared for design-
+construction materials forthe unit This report extract
+arg the technical parameters ad
+composition listed below: Entries indlude both
+verification audits Please review the specifications and material
+Wath
+requirements.
+specifications_ Confirm that
+performance
+Tanzes comply
+project
+mechanical and electrical
+PW-5I5y
+Product ID:
+5946328
+Iniccne
+2024-09-25
+by; Peter Schmidt | Approved Dy: Anna Nowak E
+Date:
+Prepared
+PTCSuTE
+180 bar
+Cooling Orculation
+Design E
+Unit Type
+Sietem
+J0V[S042
+48 Lmin
+Supply Veltzge
+Throughput
+Recenoin
+Capacity
+1201
+Charging
+Tn7e
+Control Valve
+Proportional4
+Motor Power
+I1k
+Data sheet has been
+peer-reviewed Dy the
+All summary comments have been recorded-
+the revision log-
+lossany terms match tne
+Fumman
+reflects the latest revision of the product cata Ensure=
+summan [0
+ergineering team-This
+process data have been verified for compliance. Use this
+nomendlature  Materal choices
+engineering[
+cross-check wth BOM
+inspection feports
+Material
+Construction:
+Comoositton
+Part
+Zinc Plated Steel
+Hex BottsM12
+Ceramic Orice
+Tnenne
+Carpon Steel 436
+Steel Sheet 436
+M-lon Ce
+Pack
+Batter Pack
+Mitrile Rubber (NBRL
+0-Ring NBR GOmm
+Nitnle Rubber (NBR)
+Gasket Sheet 44
+ABS Plastic
+Digital Display Unit
+Stainless Stcel304
+Bearing 6202 7
+end;
+andi

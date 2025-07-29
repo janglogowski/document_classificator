@@ -1,0 +1,94 @@
+DAILY PRODUCTION REPORT
+Redam ND;:
+PR-739
+Cusiamer-
+NORWAY
+supenvison
+Jan Kowalski
+Department:
+Quality Control
+Snift;
+(Night)
+08-07-2025
+Revlew the operational data
+Trac
+compliance with dally
+This dashboard section highlights any production
+bottlenecks The following data cantures production targets, actual output,
+any deviations
+Refer -
+tnis Iog to
+monitor shift productivity and cyc
+counts
+Machine
+Operation
+Wvonkcr
+From
+End Time
+Tota
+comments
+Uhermai
+Energy
+duration
+Reading
+(kwh)
+MC-207
+Welding
+Maleust
+10.30
+12-07
+74.8
+1.61
+aryna
+MC-206
+Polishing
+Bantosz
+14.30
+16.29
+119
+Recalibrated
+65.5
+2.34
+Wvawtzyniak
+MC-206
+Assembly
+Premsia
+07.15
+08-14
+56.8
+1.59
+Wasik
+MC-209
+Drilling
+Wiktor
+09.30
+10.08
+Recalibrated
+78.7
+1.50
+Kopczynski
+MC-206
+Polishing
+Baros'
+12-00
+14-00
+120
+Delay
+57.9
+1.61
+Wawrzyniak
+MC-203
+Drilling
+Anna
+12.00
+12-53
+NYA
+61.7
+1.61
+Nowar
+Prepared b%;
+Kowalski
+Appraved b%:
+Anna Nawak
+eoals
+and -

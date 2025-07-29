@@ -1,0 +1,101 @@
+COMPONENT BREAKDOWN
+This section outlines the parts ,
+materials taly for compliance with budret alledalecof parts toealign with sourcing and
+Review the
+assembly
+Use this schedule
+unit prices and total amounts for
+components and total projected
+extract shows the bill of
+stock levels. This
+Amount
+Remarks
+UOM
+Rate
+Iiem
+Qty
+Description
+5.60
+268.80
+High
+Ventilation
+pcs
+Grid
+0.95
+21.85
+Certified
+Cable Tie
+pcs
+batch
+Pack (100)
+0.50
+10.50
+pCS
+Rubber
+Gasket
+80mm
+1.75
+73,50
+pCS
+Clamp
+Ring
+Certified
+120mm
+0.20
+3.20
+pcs
+batch
+Plastic
+Eco
+Rivets
+15.00
+450,00
+pcs
+compliant
+Digital
+Display
+Unit
+0.05
+2.45
+pcs
+Spring
+Washer
+10.45
+ROHS
+M10
+0.55
+compliant
+pCS
+Rubber
+112,00
+For export
+Stopper
+5.60
+Ventilation
+4,50
+ROHS
+Grid
+Bearing
+6202.22
+AIl sourcing notes have
+quantities align with production run requirements:
+Check that component
+logged for audit purposes:
+Garcia
+Date
+2022 11-27
+I;FRANCE
+Coordinator; Carlos
+Order Qt: 253
+Customer
+Interal
+1590938
+Product ID MC 540X
+957.25
+Total Amount
+spend:
+grade
+Pcs
+~compllant
+PCS
+peen

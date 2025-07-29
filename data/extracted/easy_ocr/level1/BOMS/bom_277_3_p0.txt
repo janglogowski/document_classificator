@@ -1,0 +1,64 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+pcs
+19.80
+ISO-
+Stopper
+verfied
+Stainless
+pCS
+12.95
+Bolt M8
+Fuse 5A
+pcs
+3.90
+Epoxy
+pcs
+189.80
+Imported
+Resin Kit
+Gasket
+pCS
+1.25
+11.25
+ISO-
+Sheet
+verfied
+Set
+pcs
+2.50
+10.00
+Clamp
+pCS
+1.75
+50.75
+Switch
+tested OK
+120mm
+Termina
+pCs
+3.40
+119.00
+Block 4P
+The cost subtotal supports financial forecasting for the next cycle. Ensure this materials summary
+is reconciled with the purchase order. Cross-verify totals with the ERP system for consistency. Al
+listed components have been verified for availability and compliance.
+Customer ID: BRAZIL
+Coordinator: Peter_Schmidt
+Date: 2022-11-03
+Product ID: MS-6QOP
+Intema_
+No : 1938457
+Order Qty: 413
+Total
+Amount:
+417.45
+Hinge 
+Ring

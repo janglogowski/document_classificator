@@ -1,0 +1,74 @@
+Quality Inspection List
+#2089620
+Date: 17.07.2025
+Product
+CE-9OSL
+Customer
+GREECE
+Item
+Description
+LED Light Strip
+Cneckrhat insnection
+steps follow the appraved pracedure
+Fnsure
+non-conforming marks are clearly
+dacumented
+All checklist entries are timestamped for traceability Please review each checklist point and mark the
+sampling
+TesMts
+Archive this list in the quality-manarement system;
+Canfirm that sampling leve
+comply with
+Jpreements
+This summary sunpontsthe praduction-
+iea5e
+quality Gate, This section details quality
+rcquirememls
+and test points for the batch:
+Quality Check Items
+Sampling
+Classification
+Remarks
+Leve
+Component Criterla
+Hold
+Missing logo
+warning
+Critical Impact
+Kubber textuc
+Blossiness
+Level IlI
+Critical Impact
+msmatch
+Connector MDL
+working
+Leve
+Needs review
+Product docsn t povrer on
+LCvC
+Batterynot included
+Critical impact
+Incorrect parcode
+Leve
+Screwvs
+0052
+Missing
+Leve
+Needs review
+AQL Level
+Crilica
+Mjior
+Mior
+Dcfault
+Customer specific
+Archive this summary in the audit-readiness folder: This summary supports the end-of-line quality certification:
+Ensure that
+remank
+have
+comtesponoinp
+evidence attachments;
+ensure supervised
+sign-off on any non-
+conforming points
+custome
+please

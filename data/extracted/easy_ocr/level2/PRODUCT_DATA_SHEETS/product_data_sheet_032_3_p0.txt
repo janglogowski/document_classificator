@@ -1,0 +1,48 @@
+Unit Data Specification
+Internal Nc.: 2038506
+Product ID: SB-1400
+Date: 2024-11-24
+Unit Type
+Pneumatic Control Unit
+Rated Pressure
+210 par
+Throughput
+30 kmin
+Qperating Voltare
+230V ,
+50,Hz
+Tat
+Welght
+250
+Cantrol Valve
+Proportional 4/2
+Cnareine mc
+Jlouncing
+Wall mounted
+cotor Pocr
+11 kW
+Battery Capacity
+Reservolm
+Capacity
+Noise Level
+dBIAI
+Component Materials Overviev:
+Dase
+Specification
+Bearing 6202 Z2
+Stainless Steel 304
+UL-isie@
+Wcom
+Treaie
+Wgad
+APGZ raled
+Insulaled |Ube 2sinm
+Thermoplastic Polyuretnarie nTPU)
+CE certiiled
+Pressure
+VJive
+Brass C21zi
+Electrical
+Prepared by: Anna Nowak
+Approved by: Laura Rossl
+Brde

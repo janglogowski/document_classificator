@@ -1,0 +1,101 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-961
+Customer: POLAND
+Shift: =
+(Night)
+date: 02-06
+2025
+Equipment
+Operation
+Technician
+Start Time
+Tota
+Mime
+Uwagi
+Status
+MC-205
+Welding
+Magdalena
+12.00
+12.57
+NYA
+Completed
+Witkowska
+MC-201
+Assembly
+Anna
+12:00
+12.25
+N/A
+In progress
+Nawak
+MC-206
+Assembly
+Przemystaw
+13.00
+14.41
+prapiasy
+Wasik
+MC-?02
+Polishing
+Przemvstaw
+12.15
+1411
+Comdieteo
+Wasik
+MC-203
+Assembly
+Bartosz
+14-06
+4.25
+Delayed
+Wawrzyniak
+MC-206
+Drilling
+Amna
+07:00
+08;59
+119
+Recalibrated
+In progress
+Nowak
+MC-207
+Polishing
+Anna
+14.15
+15;18
+Delayed
+Nowak
+Part ID
+Planned
+Achieved
+Scrap Qty
+Failure %
+Reworked
+Nates
+Output
+Units
+WD-1805
+135
+11,8596
+Rewans
+needed
+JD-700wv
+0546
+FT-730X
+14.4906
+Rewon
+needed
+GL-9805
+125
+123
+Le6o
+Scrap
+contirmeo
+Pw-51SY
+195
+13.8596
+Scrap
+confirmed
+Approved by:
+Prepared by:

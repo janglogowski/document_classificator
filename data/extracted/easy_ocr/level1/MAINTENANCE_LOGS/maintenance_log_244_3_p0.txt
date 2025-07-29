@@ -1,0 +1,125 @@
+Equipment Record Report
+Performed On: 2024-05-21
+Carlos
+Gilncial
+Penormed Di:
+Annb Noivak
+Refer +
+maintenance register for detailed service histories
+Confinmthat senrice interinls follovahe
+Dreventive schedule
+Beloy
+summan
+3emice actions and dounumes toreach machine
+This service summary;
+supports the rellability
+enaingerine
+gvieiv
+Ilng equipment l04 belov includes fult codes and conectiv
+notes
+ensure
+safty checks WBro
+completed during servicing
+Use Thug recard
+plan upcoming upkeen and repalrs
+Section :
+Unit Codi
+HC730
+MC?39
+MC?05
+NC7IZ
+HC 215
+MC745
+Equipment
+LGSumiuy
+CNC
+Plasrna Cutter
+Lultc
+Packaging
+Hdbot
+Machine
+Seqvice Type
+Piuvuntive
+Pruvurivc
+Coreclive
+cutcclvu
+Unspeclion
+Conuciive
+Operator
+Schmiot
+aniko aiski
+JanRowaiski
+Jan Kowaleki
+Jan civalgki
+Garcin
+Downtime
+Commentg
+Gulich
+Swaltch
+Replaced
+Changed oil
+Li-Ion battery
+contacis
+contacts
+coqiant;
+an milterg
+pack geniced
+cleaned
+cleaned
+Section
+Unit Code
+MC-239
+MC-245
+MC-29
+MC-205
+MC294
+MC-230
+Fquinmcnt
+CNC Milling
+Packaging
+CNC Milling
+Plasma Cutter
+Plalsmi Cutter
+Aisumbly
+Hache
+Machine
+Robot
+Senvice
+Lype
+Cotreclive
+Pieveniive
+Pravaniive
+Prevenmiva
+Pievenuive
+HMSEHLicM
+upcrator
+Knno Ko var
+Laura
+Rossi
+Lnna Nowak
+Carios
+Garcia
+Jankowjlski
+Curios Garcia
+Downtime
+Comment
+Wandenpamlet
+Calngation
+Worn gasker
+Tightened
+Remmed ai
+ChBC  BO
+check Ok
+eglaced
+dcebDce
+IHLP 46
+Uptime (w)
+Error Count
+Note =
+92.9642
+Bolt tientene 0
+Siened
+Milline
+Paint
+Booth
+Cerot

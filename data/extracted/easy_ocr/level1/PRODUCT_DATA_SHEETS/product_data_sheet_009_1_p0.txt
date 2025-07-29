@@ -1,0 +1,97 @@
+Product Data Sheet
+Project:
+DX-7771
+Report No
+5350792
+Prepared By:
+Jan Kowalski
+Approved Bxa
+Kowalski
+Location: Plant 34
+Date; 2024-12-30
+This technical overview supports the praduct-release
+checklist; This data sheet provides key specifications and
+Materie
+details: The fallowing Information outlines performance characteristics.
+and design data: The parameter
+repister helov
+includes operating limits and
+Model Type
+Cooling Circulation
+Rated Pressure
+250 bar
+System
+Flow Rate
+60 Lmin
+Operating Voltage
+Dimensions
+(LxWxH)
+1000 x 650 * 1000 mm
+Motor Power
+150 Hz
+Noise
+Levei
+Protection Class
+Mounting
+Skid base
+Vibrarian
+IP65
+Oll Type
+HLP 68
+Total Weight
+230 ke
+Resenvoic
+Working Temp
+10cto 55"€
+Capacity
+Cooling
+Air-cooled oil radiator
+capacity
+Frame Material
+Povde
+cojled Steei
+Charging Time
+Pump Type
+Pump
+Service Interval
+500
+Control Valve
+Dltectional 4/3
+Mater Ial
+Construction:
+LJde
+Base
+Sink ALU
+Alurinum 6061-T6
+Lmdmm
+PVC (Rigid}
+Theria
+Ceramic Oxide
+Rubber Gasket 80rnm
+Nitrile Rubber_ (NBRI
+Cable
+Tie Pack (100)
+Nitrile Rubber (NBRI
+Connecor
+Glass-Filled Nylon
+Hex
+M12
+Zinc-Plated Stee
+LED Light Strip
+Glass-Filled
+Nylon
+Power Switch
+Polycarbonate
+60mm
+Nitrile Rubber INBRE
+ratingt
+pids
+Dange
+Battenl
+Piston
+Hcat
+Wulnb 
+Fusc
+Bolts
+Coppc
+~Ring

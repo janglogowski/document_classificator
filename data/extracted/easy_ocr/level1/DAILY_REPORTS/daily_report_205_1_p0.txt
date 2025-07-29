@@ -1,0 +1,84 @@
+Production
+Kepon No:
+PR-168
+Customer
+GREECE
+Supervisor:
+Carlos Garcia
+Department:
+Assembly
+Dale
+06-08-2024
+Shift:
+Morning)
+Machine
+Operation
+Technician
+Begin
+End Time
+Total Time
+Uwagi
+MC-208
+Assembly
+Agnieszka
+12;15
+13.29
+Delay
+Zieliska
+MC 209
+Welding
+Mateusz
+09.15
+10.52
+Kecambrated
+Jarzyna
+MC-202
+ssemoi
+Bartosz
+11;07
+Wawizyniak
+MC 206
+Polishing
+Piotr
+06.30
+07.59
+N/A
+Lewandowst
+MC-208
+Asscmbly
+Nadia Sautor
+I4 UC
+14.21
+Recalibrated
+MC-201
+Welding
+Wiktor
+09;00
+10.56
+116
+Kobczvnsk
+Part ID
+Planned Qty
+Produced Qty
+Rejected Qty
+Failure
+Uwagi
+GL-9R0S
+I7Y
+VR-940T
+3.9356
+Rewark needed
+Pw-5ISY
+138
+3.6256
+Ruwonk meeded
+LP-555V
+1.5456
+TY-350G
+12.7890
+Prepared
+Carlos Garcia
+ApprovEC
+Anna Nowak
+Log
+I0;00

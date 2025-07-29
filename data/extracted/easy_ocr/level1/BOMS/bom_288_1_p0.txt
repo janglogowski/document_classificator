@@ -1,0 +1,75 @@
+BILL OF MATERIAL
+Customer ID: FRANCE
+Coordinator: Anna Nowak
+Date:
+2023-08-
+Product ID: VF-220D
+Intema
+No : 54327-
+Order Qly: 354
+The parts manifest here is designed to support procurement workflows
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+2.33
+5%/
+pCS
+0.55
+6.60
+Urgent
+Stopper
+Digital
+1.71
+pCS
+15,00
+90,00
+ROHS
+Display Unit
+compliant
+Digital
+2.11
+pCS
+15,00
+165.00
+Display Unit
+Stainless
+2.53
+2"/
+pCS
+0.35
+15.40
+High
+Bolt M8
+grade
+Gasket
+2.67
+10%
+pCS
+1,.25
+18.75
+Urgent
+Sheel A4
+Spacer
+216
+2%
+pCS
+0.15
+2.70
+Zmm
+This final review confirms that all items are ready for requisition_
+Ensure this materials summary is
+reconciled with the purchase order; Final amounts include handling and logistics costs where
+applicable
+Total
+Amount:
+298.45
+Approved By:
+Sourcing Department:

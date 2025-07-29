@@ -1,0 +1,100 @@
+COMPONENT BREAKDOWN
+Below isthe component listing and associated costs for the upcoming production batch: This
+summary lists every item required, with per-unit pricing details- Referto this parts register to plan
+raw-material purchasing: This extract shows the bill of components and total projected spend:
+Ensure each component meets the specified quality standards. The parts manifest here
+designed
+to support procurement workflows
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Descrption_
+Spacer
+0.15
+5.40
+High grade
+2mm
+Power
+pcs
+14.40
+Imponted
+Switch
+Rubber
+pcs
+0.55
+18.70
+Switch
+Stopper
+tested OK
+Copper
+0.60
+SKF brand
+Wire 3mm
+Copper
+0.60
+19.80
+Li-Ion
+Wre 3mm
+battery
+installed
+Control
+pcs
+12.00
+348.00
+For expont
+Panel
+Mount
+Spring
+pcs
+0.05
+1.10
+Eco
+Washer
+compliant
+M1o
+Copper
+0.60
+13.20
+SKF brand
+Wire 3mm
+Ventilation
+pcs
+5.60
+89.60
+Grid
+alignment
+adjusted
+Gasket
+pcs
+1.25
+22.50
+ROHS
+Sheet A4
+compliant
+Steel Sheet
+5.00
+50.00
+Imported
+A36
+Stainless
+pcs
+0.35
+10.85
+Imponted
+Bolt M8
+Ensure archival of this materials summary for compliance records
+The cost subtotal supports
+financial forecasting for the next cycle. Checkthat component quantities align with production run
+requirements_
+Customer ID: FRANCE
+Coordinator: Peter Schmidt
+Date: 2025-01-19
+ProductID: LK-890B
+InternalNo:
+8558524
+Order Qty: 157
+pcs
+Hinge

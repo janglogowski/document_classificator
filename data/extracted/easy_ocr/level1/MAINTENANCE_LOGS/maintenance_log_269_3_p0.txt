@@ -1,0 +1,126 @@
+Machine Log Summary
+Performed On: 2023-07-25
+Signed off
+Anna Nowak
+percmedb"
+Pccr Schmidt
+EMSurC
+salely chucks weru
+COMp &lcu
+during servicing
+Usu Ihis recoru
+plan Upcomima UpruUp and repuls
+Please
+roviow Ihis log fr recent survice dales , typus,
+Jnd (Cmals
+Conlrm that service Inlervals (ollow the prevenbvc
+schgdulc.
+This log records all maintenance activities performed on the
+equicmeni
+Section A:
+Unit Code
+MC-257
+MC-226
+KC-224
+MC-209
+MC-252
+MC-228
+Equlpment
+Assembly
+Assembly
+Conveyor Belt
+CNC Milling
+Conveyor Belt
+Laine
+Machine
+Iype
+COICcNC
+Preventive
+Preventive
+COMCclivc
+Inspcclion
+Inspection
+Technician
+Launa
+ROrsi
+Jan Kcvalski
+Laura Rossi
+Peter Schmict
+Jan Kowalski
+Jan Kcxaiski
+Duration
+Comments
+Worn gasket
+Swtch
+Replaced
+Replaced
+Aonmenc
+tediaced;
+contacis
+Cocani
+ccoiant
+hinges
+Cleared
+adjusted
+Sectlon B:
+Unlt Codo
+MC 209
+MC 25
+MC 228
+MC 224
+MC226
+MC 204
+Equipment
+CNC Mlling
+Assembly
+Latine
+Conveycr Belt
+Assembly
+Plasma Cutter
+Machine
+RCjot
+Robat
+Lype
+pirvenive
+Inspection
+Prevenve
+Prevenive
+lnsnection
+Inspection
+Technician
+Garcia
+Lauta
+Schmidt
+JanRcwaiski
+LauT?
+Rossi
+puration
+Commentg
+Wvorn
+gasket
+Wom
+gasker
+L-ian
+hattery
+Sensor
+Alignment
+Calibration
+rep aced
+replaced;
+pack
+recalioraied;
+hinges
+check OK
+senviced
+adjusted:
+Uptime
+Error Count
+comments
+97. 08%6
+Roboi
+Robol
+Carlos
+Rc5
+Peiet
+Canga
+Garcia

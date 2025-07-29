@@ -1,0 +1,58 @@
+Unit Data Specification
+Interng
+No:: PR-454
+Product ID: MC-540X
+2025-04-19
+Configuration Type
+Pneumatic Control
+Design Pressure
+210 bar
+Flow Rate
+30 Lmin
+Supply Voltage
+230 V
+50 Hz
+Battery _
+Motor Power
+11kW
+Control Valve
+Miamuji
+Override 3/2
+Type
+ocan
+Pump
+Protectian
+Cass
+IP67
+Component Materia
+Overvieve:
+Labe
+Campositior
+Specitication
+Ring NBR GOmm
+Nitrile Rubber (NBR)
+CE certified
+Winng
+PVC (Rigid
+Electrica
+Cable Tle Pack (100J
+Nltrile Rubber (NBR)
+RoHS compliant
+Thermal
+FUS@
+ceramic Oxide
+Aniicorrosiv@
+Stecl Sheet 436
+Carbon Steel 436
+rated
+Bearing 6202 77
+Stzinless Stee
+304
+DIN FN 10025
+Prepared by: Jan Kowalski
+Approved by: Carlos Garcia
+Date;
+Unit
+nacity
+Pump
+Rlade

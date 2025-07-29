@@ -1,0 +1,51 @@
+BILL OF MATERIAL
+Customer ID: BRAZIL
+Coordinator; Anna Nowak
+Date: 2025-02-24
+Product ID: NE-24S4
+Intema
+5999026
+Order QTY: 388
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ceramic
+0.75
+103
+pcs
+2.10
+111.30
+Disc 8Omm
+Plastic
+0.75
+1.10
+2.20
+ISO-
+verified
+Cover
+150x150
+Gasket
+0.44
+1.25
+45.00
+Certified
+Sheet A4
+batch
+Wooden
+1.68
+pCS
+15.00
+720.00
+High
+Pallet
+Erade
+Total Amount:
+878.50
+Approved By:
+Sourcing Department:

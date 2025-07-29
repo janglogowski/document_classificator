@@ -1,0 +1,59 @@
+Quality Verification
+Archive this list in the quality
+Confirm that sampling geaely-coanaigement system Refer lo the quality register for
+release
+comply with custoner agreements . This
+sampling-plan references
+qualey gate, The following table outlines inspection 
+summary supports the production-
+inspection steps follow the approved procedure 
+criteria and classification levels
+Check that
+Product ID
+MR-160H
+Item Description
+Digital
+Customer
+MUPKF
+Unit
+Audit Criteria
+Inspection
+Classification
+Product Requirements
+Depth
+Observations
+MMissing logo or warning label
+Leve
+Connector not working
+Level
+Critical Impact
+Packaging
+not match
+Citical impact
+signed sarple
+Not assembled
+Visual
+asper drawing
+Level
+celect on
+housing_
+Needs review
+Loose parts inside
+packagirig_
+Leve
+Needs review
+Functionality _
+failed
+LCve
+Rubber Swlch nol working
+observed
+Minor_isSue observed
+Supervised by:
+Date;
+Display [
+coes
+Level
+tes
+Lol 
+Level
+Issue

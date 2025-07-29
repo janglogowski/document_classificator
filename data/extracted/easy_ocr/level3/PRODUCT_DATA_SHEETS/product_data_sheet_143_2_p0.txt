@@ -1,0 +1,37 @@
+Unit Data Specification
+Entries include both mechanical and electrical specifications: This data sheet provides key specificalions
+and matenal details: Ensure all referenced slandards are up t0 date_
+Confimm Ihat performance ranges
+comply wilh project requiremenls: The parameler register below includes operaling Ilmils and
+dala entries are (raceable l0 design revision nistory:
+Producl ID
+NE-245A
+Report No_
+PR-741
+Preparad by: Anna Nowak | Approved by: Carlos Garcia
+Date: 2024-03-09
+Model
+ype
+Hydraulic Power Unit
+Rated Pressure
+210 bar
+Fluid Flow
+75 Lmin
+Voltage
+480 V/ 60 Hz
+Protection Class
+IP67
+Charging Time
+Motor Power
+5.5KW
+Reservoir Capacity
+Battery Capacity
+Trotal
+Weight
+230 kg_
+Flag any missing paramelers for urgent specificalion updales. Check that all seclion headers follow lhe
+product templale
+Ensure Ihal the Iisted malerials are approved for the applicalion. Dala sheet has been
+peer-reviewed by the engineering team: Archive this summary for future design-change management
+Confirm that all test conditions are accurately represented:
+ratlng_a

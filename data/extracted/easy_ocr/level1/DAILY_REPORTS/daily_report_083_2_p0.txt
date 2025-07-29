@@ -1,0 +1,77 @@
+Production Log
+KepoNo-
+PR-182
+Customer'
+BELGIUM
+Supervisor:
+Nowak
+Department:
+Logistics
+Shilft:
+[Morning)
+07-02-2025
+All throughput figures are recorded for capacity planning: The summary below lists each station'
+actua
+Versus
+planned outpul
+Reuere
+operationa
+data
+track campllance with daily
+Machine
+Task
+Technician
+Tota
+Remarks
+Temperature
+Energy
+Time
+(kWh)
+MC-207
+Cutting
+Jan Kowalski
+13.00
+14.26
+58.4
+MC-207
+Polishing
+Banasc
+13.30
+15.10
+100
+77.2
+1.63
+Wawrzyniak
+MC-208
+Drilling
+Magdalena
+10:15
+10.38
+57.1
+1.96
+itkowska
+MC-202
+Cutting
+Piotr
+10:15
+11.22
+60.0
+1.97
+Lewandowski
+MC-203
+Assembly
+Przemystaw
+06.30
+07:02
+57.2
+1.48
+Wasik
+Preparedby:
+Lnne
+Nowak
+Approved by:
+Jan Kowalski
+Anna
+Bong;
+From
+Deley

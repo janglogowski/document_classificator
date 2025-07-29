@@ -1,0 +1,61 @@
+COMPONENT BREAKDOWN
+Customer ID: TURKEY
+Coordinator: Jan Kowalski
+Date; 2023-08-04
+Product ID: HF-3904
+Internal No.: 7964824
+Order Qty: 61
+The parts manifest here
+designed
+support procurement workflows. This section outlines the
+parts, unit prices and total amounts for assembly: Use this schedule of parts to align with sourcing
+and stocklevels. Ensure each component meets the specified quality standards 
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Steel Sheet
+1.46
+1090
+5.00
+275.00
+SKF
+A36
+brand
+Terminal
+1.71
+090
+pcs
+3.40
+37.40
+Block 4P
+Spring
+2.48
+pcs
+0.05
+1.35
+Washer
+M1o
+Control
+1090
+pcs
+12.00
+456.00
+Urgent
+Panel
+Mount
+Stainless
+2.77
+pcs
+0.35
+15.40
+Bolt M8
+Total Amount:
+785.15
+Approved By:
+Sourcing Department:

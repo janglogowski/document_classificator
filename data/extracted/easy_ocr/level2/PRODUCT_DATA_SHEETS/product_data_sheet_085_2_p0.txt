@@ -1,0 +1,42 @@
+Component Overview
+Refer t0 Ihls configuration summary (or unit-designatlon mapping_
+This data sheet provides key
+specilicalions and material detalls . This section delalls Ihe configuralion and parameter sot for Ihe product;
+Entrios include bolh mechanical and olectrical specificalions
+The following informallon oullines performance
+characteristics and
+design data: Chack that all materlal specs align with suppllar certificatlons,
+Product ID
+SL-430M
+Internal No
+'180057
+Prepared by: Jan Kowalski | Approved by: Carlos Garcia
+Date: 2025-05-24
+Unit Type
+Coollng Clrculailon
+Rated Pressuro
+180 bar
+System
+Flow Rato
+48 Umin
+230 V /S0Hz
+Filtration
+10 pm return; 25 /m
+Battery Capacity
+sucion
+Nolse Levol
+68 JB(A)
+Motor Powor
+75KW
+Ensure glossary terms match Ihe englneering nomenclature: Archive this summary for fulure design-change
+managemont; Confir (hat all test condiiions are accurately ropresented_
+mlssing parameters for
+urgent specilicalion updales
+Documani
+control nurnbers are Included lor
+traceability: Chock (hat all section
+headors follow the product (emplate. All summary commonts have been recorded
+(he ravision log;
+Voltage
+Elag
+uny

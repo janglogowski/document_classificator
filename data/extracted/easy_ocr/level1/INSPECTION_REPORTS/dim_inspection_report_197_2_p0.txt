@@ -1,0 +1,69 @@
+Inspection Results Summary
+Supervisor
+Carlos Garcia
+Inspection Date
+2023-10-20
+Item Code
+VF-2Z0D
+HF-390A
+KP-320E
+LK-B90B
+MS-s0QP
+RX-310Z
+Part Name
+Graphite Pad
+Runber
+Pawer
+Shatt 500mm
+Hex Bolts
+Shaft 50Omm
+Gaskel
+Swilch
+M12
+80mm
+Dim;
+Deplh
+hckuese
+Hole
+Hale
+Height
+Nomina
+10-91
+38.51
+17.59
+70.32
+96.05
+20.86
+Actua
+1702
+17,79
+70.30
+95.98
+20,88
+DIf
++0 2
+Pass/Fail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+components requiring re-machining
+adjustment Confimm that pass rates meet the defined
+acceptance
+criteria, Refer to deviation column for any out-of-tolerance measurements. Please address any
+NOK items before proceeding
+the next production stage
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Micrometer
+18133
+2025-02-07
+Micrometer
+92697
+2025-01-09
+Depin
+Flag

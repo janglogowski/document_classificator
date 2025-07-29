@@ -1,0 +1,78 @@
+Product Data Sheet
+Project:
+QP-660F
+Report No_
+2147612
+Prepared By:
+Carlos Garcia
+Approved By:
+Carlos Garcia
+Localion: Plant 2B
+Date: 2023-10-27
+Use this spec sheet
+validate assembly instructions. Ensure all referenced standards are up t0 date. Use
+this sheet to confirm engineering requirements and tolerances
+Entries include both mechanical and
+electrical specifications_
+Unit Type
+Hydraulic Power Unlt
+Design Pressure
+210 bar
+Fluid Flow
+48 Umin
+Supply Voltage
+400
+50 Hz
+Dimensions (LxWxH)
+1200 x Z00 x 1100 mm
+Working Temp: Range
+10FC to 55"C
+Noise Leve_
+72 dB(E
+Battery Capacity
+Pump Type
+Gear Pump
+Filtration
+pm inline, 10 pm
+retum
+Senvice Interva
+12 months
+Total Weight
+250 kg
+Charging Time
+Frame Material
+Powder-coated Steel
+Cooling
+Water-cooled
+Mounting
+Rack (rame
+exchange
+Control Valve
+Manual
+Override 3/2
+Protection Class
+IP54
+Motor Power
+ZSkW
+Material of Construction:
+Iem
+Raw Matenal
+Pressure Valve
+CZI2
+Hex Bolts M12
+Zinc
+lated Stee
+NBR 6Omm
+Nitrle Rubber (NBR)
+Thermal Fuse
+Ceramic Oxide
+Fuse
+Ceramic
+Connector 2P
+Glass-Filled Nylon
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Hinge Set
+Stainless Steel 304
+Brass
+~Ring 

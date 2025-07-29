@@ -1,0 +1,36 @@
+Customer ID: CANADA
+Prepared by: Anna Nowak
+Product ID: RX-3102
+Interna
+No:: 6111198
+Item
+Digital Display
+Sensor Clip
+Cable Tie Pack
+Aluminum
+Hex Bolts M12
+Description
+Unit
+(100)
+Bracket
+Qty
+530
+857
+130
+UOM
+Unit Price
+15.00
+0.95
+0.95
+0.25
+Amount
+7,950.00
+814.15
+522.50
+1,777.50
+32.50
+Remarks
+Urgent
+Switch tested
+Certified batch
+TOTAL: 11,096.65

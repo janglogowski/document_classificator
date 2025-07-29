@@ -1,0 +1,89 @@
+Shift Summary
+Report No:; PR-970
+Customer: FRANCE
+Shift:
+(Night)
+Date: 13-02-2025
+Machine
+process
+Operator
+From
+Finish
+Time Spent
+Remarks
+Stage
+M-205
+Polishing
+Nadia
+10.30
+11.58
+N/A
+proeress
+Sauter
+MC-205
+Drilling
+Magdalena
+13.00
+13.55
+Delay
+Completed
+Witkowvska
+MC-203
+Drilling
+Mateusz
+0g Oc
+10.16
+Delay
+progress
+Jarzyno
+MC-201
+Welding
+4ns
+10.00
+10.48
+Completed
+Nawak
+MC-208
+Polishing
+06.15
+07.34
+N/A
+progress
+Kowalski
+MC-209
+Assembly
+Nadia
+06.15
+08.-15
+120
+Recalibrated
+progress
+saulem
+Part ID
+Planned
+Actuai
+Qty
+Defect Qty
+Rejection %
+Reworked
+Remarks
+Output
+ON-770H
+134
+115
+14.18%
+Rowon
+needeo
+IX-820v
+BZ-660F
+188
+164
+12.77%
+Scrap
+canfrmned
+770H
+209
+13.8890
+Approved by:
+Prepared by:_
+Units

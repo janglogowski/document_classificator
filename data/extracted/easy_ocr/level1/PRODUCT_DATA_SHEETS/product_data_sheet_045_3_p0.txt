@@ -1,0 +1,49 @@
+Unit Configuration
+Report No:: PR-402
+Product ID: PL-6012
+Date: 2025-01-20
+Model Type
+Cooling Circulalion
+Rated Pressure
+250 bar
+System
+Fluid Flow
+48 Umin
+Voltage
+230 V / 50 Hz
+Tota
+Weight
+180 kg
+Charging Time
+Mounting
+Wall-mounted
+Pump
+Gear Pump
+Protection Class
+IP65
+Frame Material
+Aluminum Framo
+Dimensions (LxWxH)
+1000
+650
+1000 mm
+Noise Level
+68 dB(A)
+Component Materials Overview:
+Subcomponent
+Raw Material
+Specification
+Battery Pack
+Lithiun-Ion Cell Pack
+IP6
+rotco
+Fuse 5A
+Ceramic Oxide
+ISO 2768
+Power_Switch
+Polycarbonate
+Copper
+Electical grade
+Prepared by: Anna Nowak
+Approved by: Laura Rossi
+Typo

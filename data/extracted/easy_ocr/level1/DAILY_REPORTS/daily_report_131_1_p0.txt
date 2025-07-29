@@ -1,0 +1,107 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-155
+Custcmer:
+POLAND
+Supervisor:
+Launa
+Rossi
+Department:
+Qualty Contiol
+Date:
+15-11-2023
+Shift:
+(Morning
+Equipment
+Operation
+Technician
+From
+Finish
+Total
+Comments
+duration
+MC-201
+Welding
+Jan Kowalski
+12.15
+Ta
+116
+MC-20g
+Polishing
+Piotr
+09.00
+09.46
+Lewandowski
+MC-203
+Drilling
+Przemystaw
+07.30
+08.56
+Wasik
+MC-209
+Welding
+Anna Nowak
+14.15
+12.-57
+MC-206
+Drilling
+Magdalena
+06.30
+07-58
+Witkowska
+MC-205
+Polishing
+Agnieszka
+08.00
+09.13
+Zielinska
+MC-201
+Drilling
+Barlosz
+08.15
+09.09
+Wawrzyniak
+Product ID
+Target Qty
+Produced Qty
+Scrap Qty
+Rejection %
+Comments
+WD-180S
+236
+202
+14.4190
+Rework
+needed
+ZR-2Q5R
+166
+162
+2415
+GH-770J
+232
+228
+1,729/
+Rework
+needed
+VF-2Z0D
+209
+10.53%0
+Rework
+needed
+PW-515Y
+145
+059
+conirmed
+CN-150C
+168
+150
+10.71%
+Scrap
+confirmed
+Prepared DX:
+Approved DY:
+aura Rossi
+Delay
+Scrap
+Laura
+Rossi

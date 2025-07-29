@@ -1,0 +1,56 @@
+Unit Data Specification
+Ensure allreferenced scandards
+date: Entrles Include bath mechanlca
+and electrical specificatlons: The
+parameter reglster below Includes operating Wmits and ratings, Below are the technical parameters and construction
+materlals for the unlt; Thls report extract
+prepared for deslen-verification audits;
+Praduct I0;
+LK-890B
+Report No ;
+8873078
+Prepared by: Laura Rossl
+Approved bv: Laura Rossl
+Date; 2025 02-28
+Configuration Type
+Hydraulic Power Unit
+Design Pressure
+300 bar
+Fluid Flow
+48 Lmin
+Operating
+Voltage
+480
+60 Hz
+seruice
+Inter
+J000
+Motor Power
+11kW
+Dlmenslons (LxWxHI
+J000
+G50 *I000 mm
+Cooling
+Alr-coaled oll (adator
+Reservoim
+Capacity
+160
+Battery Capacity
+2 Ah
+Data sheet has been peer-revlewed by the engineering team; Thls summary reflects the Iatest revision ofthe product
+data, Overall conflguration
+within defined deslgn and safety margins: All specifications meet the design
+requirements and Industry standards, FaG any missing parameters for urBent specification updates. All summary
+comments have been recorded In the revlslon log: Ensure Blossary terms match the enGineering nomenclature;
+Materlal of Construction:
+Part
+Composition
+0 Ring NBR GOmm
+Nitrile Rubber (NBR)
+Dleital Dlsplay Unit
+ABS
+lstlc
+Hince Set
+Stalnless
+304
+Scci

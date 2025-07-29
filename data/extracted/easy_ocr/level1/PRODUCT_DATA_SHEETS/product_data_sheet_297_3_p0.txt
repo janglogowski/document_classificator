@@ -1,0 +1,62 @@
+Component Overview
+Document No: PR-656
+Product
+QN-770H
+Date: 2025-01-19
+Model Txpe
+Cooling Circulation
+Rated Pressure
+250 bar
+System
+Fluid Flow
+75 imin
+Voltage
+480VI60 Hz
+Motor Power
+Oil Type
+HLP 32
+Charging
+Mime
+Cooling
+Aif-cdoled Jil radiatar
+Noise Level
+68 dB(A)
+Contro Valve
+Propartional 4/2
+Component Materials Overview:
+Lahe
+RalNateria
+Specification
+Capacitor
+450u
+Aluminum 6061-T6
+IP67
+rated
+Bearing
+520
+Stainless Steel 304
+Heat-resistant
+Support Foot Stee
+Stainless Steel 304
+Electrical Rrade
+Wcoucn
+Palict
+Treated Ping Wood
+Class
+colerancc
+Graphite
+Graphite Pad
+Wlstec
+Therma
+Fus €
+Ceramic Oxide
+Electrica
+prade
+Connector 2P
+Glass-Filled Nxlon
+CE certitied
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Anticorrosive
+Prepared by: Peter Schmidt
+Approved by: Jan Kowalski

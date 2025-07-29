@@ -1,0 +1,99 @@
+Shift Summary
+Report No:; PR-237
+Customer: SWEDEN
+Shift:
+(Night)
+Date: 26-08-2024
+Machine
+process
+Technician
+From
+Time Spent
+Remarks
+Status
+MC-202
+Assembly
+Wiktor
+12,00
+13.21
+Completed
+Kopczyriski
+MC-207
+Drilling
+Magdalena
+09.30
+10.06
+NJA
+Completed
+Witkowska
+MC-208
+Polishing
+Przemystaw
+08.15
+09.15
+leteo
+Wasik
+MC-206
+Assembly
+Mateusz
+10.15
+10.56
+piogness
+Jareyna
+MC-202
+Welding
+Piotr
+12,00
+13.27
+Delay
+Delayed
+Lewandowski
+MC-205
+Polishing
+Magdalena
+07.00
+07.26
+NJA
+progress
+Witkowska
+MC 201
+Polishing
+Wiktor
+14:15
+14.59
+Comnpicteo
+Kopczyriski
+MC 203
+Welding
+Nadia Sauter
+14.30
+16.09
+Recalibrated
+leted
+Part ID
+Planned Qty
+Actual Qty
+Rejected Qty
+Rcicction
+Rewora
+Qty
+Motes
+WD-1805
+261
+224
+14,187
+Scrap
+contirmed
+HF-3904
+203
+2956
+RF-850C
+7.1770
+Rewon
+needed
+860N
+6636
+Approved by:
+Prepared by:_
+Comp
+Coinp

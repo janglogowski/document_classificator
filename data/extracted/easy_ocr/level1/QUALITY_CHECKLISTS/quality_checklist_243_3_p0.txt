@@ -1,0 +1,49 @@
+Quality Inspection List
+Audit Criteria
+Inspection
+Classification
+Remarks
+Depth
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Package
+nol sealed
+Minor Issue
+completely
+opsened
+Battery
+included
+Critical impact
+Paint smearingor
+Minor
+ISsue
+scratches
+onsened
+LJose
+inside
+Critical impact
+packaging
+Connector
+not working
+Needs reviev
+cotac
+Drentanor
+LevelII
+delecton nousing
+LGvEL
+Hinges
+Uoos
+Lcvci
+Critical impact
+Reference Standards:
+Standard
+Edition
+RoHS
+201-
+UL 61010
+3rd Ed
+parta
+Vrud

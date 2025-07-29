@@ -1,0 +1,89 @@
+Report No;;
+PR-543
+Custamer:
+SWEDEN
+Supervisor:
+Carlos Garcia
+Department:
+Machining
+@ate
+23-10-202
+Shift:
+(Evening)
+Machine
+Task
+Worker
+Begin
+Finish
+Mime Spent
+Comments
+MC-202
+Welding
+Mateusz
+13.00
+13.39
+Recalibrated
+Jaryne
+MC-206
+Polishing
+Mateust
+13.15
+13.37
+NA
+Jamvn?
+MC-207
+Drilling
+Nadia Sauter
+HU;UU
+11337
+MC-201
+Welding
+Dawid
+07.30
+09.09
+Oszmianczuk
+MC-?02
+Assembly
+Agnieszka
+10:15
+11-02
+Recalibrated
+Zieliiska
+MC-203
+Cutting
+Mateust
+13330
+14.23
+Jarvna
+MC-?08
+Assembly
+Piatr
+12;15
+13.25
+Delay
+Lewandowski
+Part ID
+Target Qty
+Produced Qty
+Defect Qty
+Scrap
+Uwagi
+WD-1805
+239
+6.2856
+Rewark needed
+NE-2454
+70.319
+Rewark needed
+RM-BGON
+104
+9.6290
+Pewannecded
+AZ 300T
+10.7490
+Prepared by:
+Canos
+Garcia
+Approveo
+Anne
+Nowak

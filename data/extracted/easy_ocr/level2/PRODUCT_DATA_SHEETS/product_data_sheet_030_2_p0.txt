@@ -1,0 +1,69 @@
+Product Data Sheet
+requlrements and tolerances The (ollowing Information Jutllnes performance
+Use this sheet Fo conflcm engineeclng 
+Intericlicins
+Refer ta thls conflguration
+characteristcs and desin data, Use thls spec shoet ro validlate assembly
+mapping; This report extract IS prepared for design-verfcotion audits:
+summir lor
+unit-clesnation
+Gi-9805
+Procuct UD"
+Dacumient
+6216312
+Pcepared by: Carlos Garcin
+Approver Dy; Peter Scumheatt
+Date; 2024-12-26
+Pneumatle Cantrol |Jmal
+RAECo
+Prtur
+210 War
+Modyi pe
+Supply Voltaro
+230
+Throuchau
+60 ! Kunin
+Powder coated
+Control Valve
+Proportlana
+Material
+Maua
+710 dBLA
+KCsivou
+Capacity
+Battery Capaclty
+Teuion
+Tnis suminary rellects the Vatest revlslon of the
+All summary comments have been recorded In the
+all test conditions are arcuralely
+represented
+ensure
+Blossary terrs ratch the
+data, Conficm that =
+maragenton All speclcatlons meet the
+nomenclature
+Archive tlts summary for future deslen-charpe
+cnpineernG
+design requlrements and inclustry stardards ,
+Matertal of Corseruction:
+Raw Mateti
+Subcomponent
+Cerainie Oxidg
+ncr
+Lithum-Ion CcllPack
+ntee
+Pack
+Stalnless Stee
+Nitrle Rubber INBR
+Rlng NBR G4ma
+Treated Pine Woud
+Wooden Palen
+Nlctie Kybber (NARE
+Gasel
+sheel44
+50 Hz
+Soe
+Fraine
+Nolse
+preduci
+Mee

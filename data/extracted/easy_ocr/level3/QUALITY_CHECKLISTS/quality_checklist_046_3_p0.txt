@@ -1,0 +1,67 @@
+Audit Trail
+Reviaw Points
+Sampling
+Classification
+Notes
+Level
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Minor issue
+Colon mismatch
+Level III
+observed
+Loase parts inside
+Level IlI
+Critical impact
+packaging
+Missing distributor
+Critical impact
+ntormaton
+Missing safety labels
+Critical impact
+Missing logo
+warning
+Level /
+Critical Impact
+label
+Sharp edges on plastic
+Minor issue
+Level Il
+components
+obsenved
+Dead or live insectin
+Minor issue
+Level /
+packaging_
+observed
+Exposed nail wth sharp
+Level I
+Critical impact
+point
+Wood splinter or sharp
+Minor issue
+Level II
+point on product
+obzerved
+Instruction manual iS
+Level |
+Critical impact
+missing e
+damaged
+Minor issue
+Connactor not working-
+Level Il
+observed
+Packaging does not match
+Needs review
+signed sample
+Reference Standards:
+Standard
+Edition
+RoHS
+261
+IEC 61010
+3rd Ed=

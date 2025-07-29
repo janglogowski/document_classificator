@@ -1,0 +1,65 @@
+Unit Data Specification
+Praiect:
+MS-GOOP
+Unerna
+PR-6Oz
+Prepared Bv:
+Ljura Koss
+Approved By:
+Kowalski
+Location; Plant 34
+Date; 2025-04-30
+Please review tne
+specifications and
+Mhatena
+composition llsted below: This report extract
+prepared for design
+verification audits. Confirm that perfarrance ranges comply with project requirerents. The following information
+outlines
+rfommance characteristics and design data Check that all materia
+specs
+align with supplier certitications,
+Configuration Type
+Cooling Circulation
+Operating Pressure
+180 bar
+Syslem
+Throughput
+60 Limin
+Operating Voltage
+230v / 50 Hz
+Protection Class
+Noise Leve
+72 dB(AI
+Mounting
+Wall-mounted
+Charging Time
+Type
+piston
+Oil Type
+HLP 68
+Cantrol
+Directiona
+Battery Capacity
+Cooling
+Water-cooi
+excnanger
+Service Interva
+1000
+Dimensions ILXWxHL
+1000
+650
+100Q mm
+Motor Power
+missing parameters for urgent specification updates_
+specifications meet the design requlrements and
+industry standards, Document control numbers are included for traceability Check that all section headers follow the
+product template: This closure
+note indicates the data sheet -
+ready for release Archive this summary to
+future
+design-change management_
+Pump
+Pump
+Valve
+Flag =

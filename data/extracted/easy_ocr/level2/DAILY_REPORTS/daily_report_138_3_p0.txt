@@ -1,0 +1,134 @@
+Production
+Report No:: PR-662
+Shift:
+Customer: CANADA
+(Morning)
+~2024
+Machine
+Operation
+Technician
+From
+Total
+Wiktor
+06.00
+duration
+Kapczynski
+06.49
+MC-202
+Assembly
+Completed
+MC-202
+100
+403
+Lewandowski
+1000
+11,48
+108
+Delayed
+MC-201
+Polishing
+Barlosz
+Recalibrated
+Delayed
+10.15
+11:14
+MC-204
+Wawrzyniak
+12.15
+13.02
+progress
+MC-203
+Welding
+Wadia Sainer
+Completed
+MC-205
+Sauter
+06.30
+07.14
+Agnleszka
+07:15
+MC-208
+Zielinska
+07-55
+Delay
+Dawid
+14.15
+Completed
+MC-201
+Oszmianczuk
+15,25
+NA
+Piotr
+09:15
+Comploled
+Lewandowski
+10.33
+MC-207
+Agnieszka
+Comipleted
+10.15
+11.51
+NA
+Note
+unscheduled
+production run:
+stops
+the downtime register. This closure
+please
+Enyurenghifs-handover notes include any perding
+summary Signals readiness for the next
+any minor
+noted
+Use this
+issues: No critical delays were
+summary
+updale the overall production
+observed;
+dashboard.
+Part ID
+Target @ty
+Achieved
+Scrap Qty
+Fallure
+WD
+164
+Qty
+Rework Qty
+Comments
+143
+12,8096
+RE-850C
+Rework
+ZR-2O5R
+245
+220
+11.73%
+needed
+10.2090
+Approved by:
+Prepared by: _
+Log
+Date:
+22-09
+Uwagi
+MC-208
+Culling
+Stage
+Anna
+Nowak
+Cutting
+Plou
+Polishing
+Bartosz
+Delay
+Welding
+Delayed
+Cutting
+Polishing
+Cutting
+Zielinska
+Dolayed
+sny '
+address
+(Ssues
+1808

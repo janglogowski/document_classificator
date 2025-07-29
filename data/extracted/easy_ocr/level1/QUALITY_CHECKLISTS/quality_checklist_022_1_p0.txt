@@ -1,0 +1,125 @@
+#9325681
+Inspection Record
+Date: 17.07.2025
+Procuict ID
+-YUU
+Customer
+FRANCE
+Item
+Description
+Capacitor 450V
+are timestamped tor
+traceability: The followirg table outlines inspection criteria and classification
+AIl checklist entries
+leuels
+cooroinare
+sign-off with the QA manager: This
+closure summary Indicates compliance vaitn
+Use this extract-
+inspection criteria;
+lease review each
+checklist point and mark the sampling results
+Obsenations
+Inspection Checklist Points
+Sampling
+Classification
+Leve
+Critical
+Maior
+Minor
+OnHold
+Design
+Minar Issue observed
+Visual defect
+housing
+Criticae
+impact
+Missing safety labels
+LCVE
+edges on plastic
+Level III
+Minor issue observed
+components
+Exposed niall wth sharp
+Minor Issue obsetved
+Levei
+pcint
+Kudoer texture
+glossiness
+Minor issue
+Juseneo
+Level II
+msmatch
+Shipping mark is illegible or
+LevelI
+Minor issue observed
+Msee
+Dead
+Ilve insect in
+Critical Impact
+Level Il
+packaging
+Inconecc
+orientation
+Tssk
+Onsetveo
+Color mismalct
+Levei|
+Missing logo
+warning
+Level III
+Jane
+Packaging does not match
+Level |
+Minor issue observed
+signed sample
+Cannecor nolwonne
+Levei
+Missing distributor
+Level III
+Critical Impact
+intormnation
+Instruction manual is
+missing or damaged
+issue Obsenved
+Rubber Switch not working
+Level Il
+Wood splinter
+snarp Point
+Level [
+on praduct
+Loose parts inside packaging
+LeveI
+Neens review
+Sctews
+aJse
+Missine
+Levci
+Leve
+Critical
+Mmor
+AQL
+Default
+Customer
+specific
+actions are scheduled for identified issues
+This summary
+end-of-line quality certification-
+Corrective
+inspectcn summaiy
+filed far regulatary compliance
+This fina
+note confirms the checklist
+complete and
+quality status indicates compliance
+detined AQL levels. Items marked for hold require
+approved
+additional revlew before
+ease-
+Specs
+Sharp
+Cainoi
+Finoi
+sunports
+With
+Overa

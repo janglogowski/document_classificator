@@ -1,0 +1,124 @@
+Production
+Report No :
+Customer:
+TURKE
+Supervisor:
+4owaisti
+Department:
+Aesemoly
+Qatc
+05-05-2025
+Shift:
+(Morning
+Machine
+Operation
+Operator
+From
+Duration
+Uwagi
+(min)
+MC-205
+Cutting
+Wiktor
+12.15
+12.47
+Ok
+Kopczynski
+MC-205
+Assemoly
+Przemyslaw
+09.15
+10.58
+103
+Delay
+Wasik
+MC-203
+Assembly
+Mateusz
+12.15
+13.04
+Jarzyna
+MC-202
+Drilling
+Przemystaw
+14.15
+16.11
+116
+Recalibrated
+Wasik
+MC-201
+Assembly
+Dawid
+11,00
+11.35
+Delay
+Oszmianczuk
+MC-204
+Polishing
+Matcusz
+12.15
+14.07
+Recalibrated
+Jarzyna
+MC-205
+Assembly
+Dawid
+08,00
+08.36
+NIA
+Oszmianczuk
+MC 207
+Cutting
+Jan Kowalski
+06 0U
+UL14
+Recalibrated
+MC-205
+Welding
+Magdalena
+07:15
+08.50
+Delay
+Witkowska
+MC-207
+Dalling
+Nadia Sauter
+14.00
+14.35
+Product ID
+Planned Qty
+Produced Qty
+Defect Qty
+Scrap
+PL-6012
+282
+280
+0.7196
+Scrap
+confirmed
+RX-3102
+207
+188
+9,18%
+Rework
+needed
+MR-160H
+103
+7.779
+AL-1150
+105
+1.87%6
+Rework
+neegeg
+RX-3102
+201
+194
+3.4896
+Rework
+needec
+Prepared by:
+Peter Schmid
+Approved by:
+Caros Garcia
+Log
+Uwag"

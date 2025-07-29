@@ -1,0 +1,61 @@
+Quality Verification
+#1548818
+Date: 17.07.2025
+productin
+CN-1S0C
+Customcrd
+FRANCE
+Item
+Description
+Check that inspection steps follow the approved procedure
+Use this extract
+coordinate
+sign-off with the QA
+manager- This section details quality requirements andtest points far the batch: This summary supports the
+proquction-release
+quality gate. Entries include both visual and functional inspection items. This closure
+summary indicates compliance with inspection criteria. Use this list to confirm adherence to AQL and safety
+standards
+Ensure all non-canforming marks are clearly dacumented, AIl checklist entries are timestamped for
+traceability. Confirm
+sampling levels comply with customer agreements_
+Quality Check Items
+Sampling
+Severity
+Observations
+Luvul
+Design Specs
+Missing logo
+wamine
+abel
+Levei
+Needs reviewy
+dusudeoris
+inside packaging
+Leve
+Missing safety labels
+Critical impact
+sciews
+Oose
+Missing
+Lave
+Minor issue observed
+Connectan nol
+working
+Lavel
+Instruction manual E
+missing
+Needs review
+damaged
+product size
+Luvel
+Critical impact
+AQL Level
+Critical
+Default
+Customer specific
+Fusc
+Jhot
+Wrongl
+Aajo
+Ninol

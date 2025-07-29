@@ -1,0 +1,112 @@
+Schmidt on 2024
+by Peter
+Status (VIX)
+Diff
+Actual
+Nominal
+Ok
+Measurement
++0.10
+Part Name
+18.96
+18.86
+Ref
+Wooden
+Height
+76.74
+~011
+AZ JooT
+76.91
+70,06
+Pallet
+width
+22.89
+Hinge Set
++0.14
+Qeptn
+Bearing
+49,98
+KP-320E
+49,84
+OK
+Widtn
+0.12
+Shaft
+89.19
+09,31
+soomm
+Heignt
++0,20
+9.37
+NU 4402
+Pad
+9.17
+Length
+Rubber
+0,13
+39 51
+T0.10
+BOmm
+39,.67
+77.41
+Heiahi
+47.01
+CN 150C
+Hinge
+Inner
+Hinge Set
+Diametel
+78,58
+78,67
+Ok
+Hole
+0.08
+Graphite
+98.25
+Pad
+98.33
+0-Ring NBR
+Height
+51.39
+MR-160H
+51.49
+somm
+Antiet
+QN-770H
+Wooden
+Diameter
+Pallet
+Width
+40.11
+0-Ring NBR
+20,.98
+60mm1
+21,09
+Width
+-0.13
+Powvet
+62.02
+Switch
+62,15
+~Ring NBR
+CNT50C
+60uu
+405-08.
+Performed
+Inspection
+Product
+22 ,83
+ZR-2OSR
+6202 
+RX-J10z
+Graphile
+RE-850C
+Gaskel
+NU-40Z
+ON-770H
+~0.10
+=0.10
+5,85
+TY-350G
+CN-II50C
+Lengin

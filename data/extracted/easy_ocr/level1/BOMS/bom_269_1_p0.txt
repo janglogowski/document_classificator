@@ -1,0 +1,84 @@
+BILL OF MATERIAL
+Customer ID: FINLAND
+Coordinator: Laura Rossi
+Date: 2023-02-20
+Product ID: FT-730X
+Interna
+No:
+4967204
+Order Qbz: 376
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Protective
+3.36
+0%
+1.80
+79.20
+Li-Ion
+Sleeve
+battery
+s0mm
+installed
+Spring
+0.81
+pcs
+0.40
+Certified
+Washer
+batch
+M10
+Wooden
+3,04
+pCs
+15,00
+585.00
+Pallet
+alignment
+adusted
+Hex Bolts
+0.63
+pcs
+0.25
+7.75
+Imported
+M12
+Digital
+109
+pcs
+15,00
+705.00
+Urgent
+Displax Unit
+Plastic
+5%
+pCs
+0.20
+4.60
+ISO-
+Rivets
+verified
+Ceramic
+'29
+5%
+pcs
+2.10
+29.40
+ISO
+Disc 80mm
+verified
+Cross-verify totals with the ERP system for consistency. Check that component quantities align
+with production run requirements
+Tota
+Amount:
+1411.35
+Approved By:
+Sourcing Department:
+Hinge

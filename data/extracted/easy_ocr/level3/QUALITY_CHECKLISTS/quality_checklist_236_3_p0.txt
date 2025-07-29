@@ -1,0 +1,34 @@
+Inspection Sheet
+Audit Criteria
+Sampling
+Severity
+Notes
+Level
+Item Specs
+CR
+Hold
+Paint smearing or scratches
+Level
+Critical impact
+Functionalily test (alled
+Critical impact
+Product doesnt power on
+Level
+Minor issue observed
+Battery
+not incuded
+Level
+Needs review
+Visual defect on housing_
+Level
+Critical impact
+Hinges
+JOOS
+Level
+Reference Standards:
+Standard
+Edition_
+CE Directive
+2015
+IEC 61010
+4th Ed.

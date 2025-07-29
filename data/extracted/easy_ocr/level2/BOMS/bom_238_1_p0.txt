@@ -1,0 +1,76 @@
+BOM Report
+Customer ID
+BELGIUM
+Coordinator: Peter Schmidt
+Dale
+2023-07-13
+Product ID: FT-730X
+Interna
+No : 1296509
+Order Qly: 116
+Use (his breakdown t0 verily sourcing and cost estimates, Refer t0 (his parts register l0 plan raw-
+material purchasing
+Use (his scnedule of
+to allgn with sourcing and stock levels.
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Control
+3,34
+290
+pCS
+12,00
+36,00
+Swilch
+Panel
+tested
+Mount
+OK
+Power
+2,96
+0%
+pCS
+1,20
+56.40
+SKF
+Swilch
+brand
+Spacer
+3,42
+0%
+pCS
+0.15
+6,00
+2mm
+Clamp Ring
+0,38
+10%
+pCS
+1,75
+68.25
+Li-Ion
+120mm
+baltery
+installed
+Terminal
+0,75
+10%
+pCS
+3,40
+44.20
+Imported
+Block 4P
+This final review confirms that all items are ready for requisilion;
+Total
+Amounl:
+210.85
+Approved By:
+Sourcing Department:
+parts

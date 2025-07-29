@@ -1,0 +1,97 @@
+Verification Log
+#6383774
+Date: 17.07.2025
+Product ID
+1EOC
+Customer ID
+TURKEY
+Utem
+Description
+Bearing 6202ZZ
+This closure summary indicates compliance with inspection criteria. Check that inspection
+follow the
+approved procedure
+Archive this listin the quality
+inakement system
+Reter 
+the quality register for
+sampling plan references. This summary supports the production-release quality gate. Please review each
+checklist point and mark the sampling_
+Ysults
+Review Points
+Check
+Severity
+Remarks
+Intensity
+Specs
+Critical
+Major
+OnHold
+Minor issue
+Rubber Switch not working
+Level [
+apservan
+Visual defect on housing
+Lavel
+Critical impact
+Dusudebris Inside
+Minor issue
+Level Il
+packaging
+apserem
+Missing distributor
+Is5ue
+Level |
+Intormaticn
+observeo
+Packaging does nat match
+Level |
+signed sample
+Loose parts inside
+is5ue
+Level IlI
+packaging
+observe0
+Paint smearing =
+ecratches
+Level Il
+Critical impact
+Exposed nail with sharp
+issue
+Level IlI
+point
+abscrvcu
+plastic
+Level III
+Critical impact
+components
+Missing safety labels
+Lavel|
+Needs rgviev
+AQL Level
+Critical
+Minor
+Default
+Customer
+specific
+Checklist results have
+deen
+reported to the quality manager:
+Please ensure supervised sign-off on anynon:
+conforming points. Refer
+nates far any observed defects
+deviatians. Corrective actions are scheduled tor
+identified issues
+This summary supports the end-of-line quality certification, Inspection summary is tiled far
+regulatory compliance-
+any open issucs in the CAPA
+tracking system:
+steps
+Mtem
+Ainor
+Minor
+Ninor
+Minor
+Sharp
+edges
+Fior

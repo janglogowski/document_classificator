@@ -1,0 +1,66 @@
+Measurement Summary Sheet
+luchnicinn
+nmi
+Nowak
+Inspeciion Daly
+2024-12-17
+Articla No.
+ZR-205R
+CE-9OSL
+GL-9H0S
+AL:50
+RE BS0C
+Part Namo
+NBR
+NBR
+Rubbar Gaskol
+Rubber Gaskol
+Slool Shaot
+GOmm
+6Omm
+eumm
+Humm
+Hola
+Longih
+Dopih
+Doplh
+Nominal
+49,05
+38.46
+40,89
+22.68
+6123
+Obaorvad
+49,83
+40,90
+61432
+0,02
+C0.10
+PassIFall
+Ensure status Ilags are updated
+Ihe quallty management systom: Archive Ihis Inspecllon summary for ,
+rogulalory documentallon; This assessment rellects Ihe Iatest metrology results. Please addross any NOK
+Itoms bofore proceeding
+Iho next
+producllon stage.
+Instrumont Callbralion
+UnstrUmeng
+Serlal No;
+Last Callbratlon Date
+Laser Scannor
+70103
+2024-09-14
+Caliper
+57673
+2025-04-12
+Laser Scanner
+94838
+2024-08-14
+Caliper
+53783
+2025-02-08
+0-Ring
+0 Ring
+Dina
+widin
+Log"

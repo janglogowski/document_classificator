@@ -1,0 +1,97 @@
+DAILY PRODUCTION REPORT
+PR-739
+Report No:
+NORWAY
+Custom2n
+Jan Kowalski
+Supenson
+Quality Contro
+Depantment
+C(Nigni
+08-07-2025
+Shift:
+This dashboard section highlights
+procuction
+Review the
+operational data
+track compliance
+caily
+output; and
+deviations_ Refer to this log to
+following data captures production targets, actual
+bottlenecks The
+shitt
+productivity and cycle counts:
+Comments
+Thera
+Energy
+Worker
+From
+Time
+Total
+Reading
+(KWh)
+Machine
+Operation
+duration
+74.8
+161
+10,30
+12.07
+MC-207
+Welcinz
+Mateusz
+Janyna
+119
+Recalibrated
+65.5
+2 34
+14.30
+16.29
+Mc 206
+Polishing
+Banosz
+Wawyniak
+56,8
+159
+08.14
+MC 205
+Assembly
+Premistaw
+07.15
+Wasik
+Recalibrated
+78.7
+150
+Wiktor
+09,30
+10.08
+MC-209
+Drilling
+Kopcynski
+120
+Delay
+57.9
+1.61
+Bano
+12 00
+14-00
+Mc-206
+Polishing
+WawEyniak
+161
+Anna
+12-00
+12.53
+Mc-203
+Drilling
+Nowk
+an Kowalski
+Prepared bY:
+Annz
+Nowal
+AppiovedDI
+Boub
+th
+monitot
+End:

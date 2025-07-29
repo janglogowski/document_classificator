@@ -1,0 +1,76 @@
+{
+  "engine": "tesseract_ocr",
+  "level": "level2",
+  "accuracy": 0.7881619937694704,
+  "classification_report": {
+    "bill_of_materials": {
+      "precision": 0.9782608695652174,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.9,
+      "support": 54.0
+    },
+    "daily_report": {
+      "precision": 0.9047619047619048,
+      "recall": 0.7169811320754716,
+      "f1-score": 0.8,
+      "support": 53.0
+    },
+    "inspection_report": {
+      "precision": 0.7407407407407407,
+      "recall": 0.7407407407407407,
+      "f1-score": 0.7407407407407407,
+      "support": 54.0
+    },
+    "maintenance_log": {
+      "precision": 0.6268656716417911,
+      "recall": 0.8235294117647058,
+      "f1-score": 0.711864406779661,
+      "support": 51.0
+    },
+    "product_data_sheet": {
+      "precision": 0.9387755102040817,
+      "recall": 0.8214285714285714,
+      "f1-score": 0.8761904761904762,
+      "support": 56.0
+    },
+    "quality_checklist": {
+      "precision": 0.6666666666666666,
+      "recall": 0.7924528301886793,
+      "f1-score": 0.7241379310344828,
+      "support": 53.0
+    },
+    "accuracy": 0.7881619937694704,
+    "macro avg": {
+      "precision": 0.8093452272634004,
+      "recall": 0.788077669921917,
+      "f1-score": 0.7921555924575601,
+      "support": 321.0
+    },
+    "weighted avg": {
+      "precision": 0.812004296160112,
+      "recall": 0.7881619937694704,
+      "f1-score": 0.7936170148201152,
+      "support": 321.0
+    }
+  },
+  "train_size": 1283,
+  "test_size": 321,
+  "tfidf_max_features": 1000,
+  "tfidf_stop_words": null,
+  "logistic_regression_params": {
+    "max_iter": 1000,
+    "solver": "lbfgs",
+    "multi_class": "auto",
+    "class_weight": "balanced",
+    "random_state": 41
+  },
+  "cross_val_scores": [
+    0.7757009345794392,
+    0.7757009345794392,
+    0.7975077881619937,
+    0.7570093457943925,
+    0.778125
+  ],
+  "cross_val_mean": 0.7768088006230529,
+  "cross_val_std": 0.012842535666997017
+}

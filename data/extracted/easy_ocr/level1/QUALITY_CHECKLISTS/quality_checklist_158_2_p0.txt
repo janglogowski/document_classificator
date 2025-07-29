@@ -1,0 +1,50 @@
+Inspection Register
+Ensure all non-conforming marks are clearly documented
+Below are (he items to be verified during the final
+product reviow: Use this list t0 corfim adherence
+AQL and safety standards. Use (his extract to
+coordinate sign-off with the QA manager. Contirm that sampling levels comply with customer agreements:
+Entries include both visua
+and functional inspection iterns. This closure summary indicates corpliance with
+inspection critena;
+Product ID
+GH 7ZOJ
+Customer ID
+BELGIUM
+Item Description
+Protective Sleeve 50mm
+Inspection Checklist
+Sampling
+Category
+Observations
+Points
+Leve
+Item Specs
+Hold
+Exposed nail with sharp
+point
+Level =
+Critical impact
+Connector not working
+Level
+Needs review
+Hinges
+locse
+Level
+Not assembled as per
+Level
+drawing
+Wood splinter
+sharp point
+product
+Level
+Minor issue observed
+Missing logo
+warning
+label
+Level !I
+Minor issue observed
+Rubber Switch not working_
+Needs review
+Supervised by:
+Date: _

@@ -1,0 +1,43 @@
+#9388702
+QC Checklist
+Date: 17.07.2025
+Product ID
+S8-140D
+Custoner ID
+FRANCE
+Iet
+Description
+Nut M6
+Refer
+quality register for sampling-plan references_
+Ensure all nor-conforming marks are clearly
+documented. This summary supports the production-release quality gate: Entries include both visual and
+functional Inspection itemns: Chock that Inspection steps follow Ihe approved procedure:
+Quality Check Items
+Check
+Category
+Notes
+Intensity
+Product Requirements
+Battery_not included
+LAvR
+Coinector rOt 'orking
+avc
+Carton
+damaged or markings
+Level
+Needs reviewv
+Incorrect
+Color_msqatch
+Level
+Neods revlew'
+cvoi
+Needs review
+Visual defect
+housing
+AQL Level
+Cntical
+Major
+Minot
+Default
+Customer specific

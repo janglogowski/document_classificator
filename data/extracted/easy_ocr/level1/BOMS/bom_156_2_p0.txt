@@ -1,0 +1,44 @@
+Customer ID: NORWAY
+Prepared by: Anna Nowak
+Product ID: CN-150C
+Internal No.=
+8672650
+Review the materials tally for compliance with budget allowances. The component roster below
+Includes unitcosts and batch codes
+Please review the itemized list of parts and material
+specifications before procurement: This section outlines the parts, unit prices and total amounts for
+assembly.
+Item
+Gasket Sheet
+Power Switch
+Wooden
+Rubber
+Battery Pack
+Description
+Palet
+Gasket 8Omm
+Qty
+466
+341
+354
+432
+250
+UOM
+Unit Price
+15.00
+25.00
+Amount
+582.50
+409.20
+5,310.00
+216.00
+250.00
+Remarks
+High grade
+Certified
+High grade
+Hinge
+batch
+alignment
+adjusted
+TOTAL: 12,767.70

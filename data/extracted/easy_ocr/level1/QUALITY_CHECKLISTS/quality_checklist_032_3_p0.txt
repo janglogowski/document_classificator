@@ -1,0 +1,63 @@
+Inspection Checklist
+Quality Check Items
+Sample
+Catogory
+Ier
+Observations
+Produci Requirements
+Critical
+Major
+OnHold
+Exposed na
+with sharp
+DOI
+Minor issue observed
+Missing safoty labels
+Lavel
+Rubber Swtch not
+Neods jevew
+working
+Rubber lexture
+glossiness mismatch
+Level
+Minor issue observed
+Packaging does
+match signed sanple
+Minor issue observed
+Package
+not sealed
+completely
+Level III
+Needs review
+Missing logo
+waming
+Jabel
+Level I
+Minor issue observed
+Incorrect barcode
+label
+Level |
+Minor issue observed
+Paint smearing
+scratches
+Needs review
+Connector not working
+Lve
+Color mismatch
+LETE
+Critical
+mmdaci
+Shipping mark
+illegible
+Critical impact
+nssing
+Level
+Critical impact
+Reference Standards:
+Standard
+Edltion
+RoHs
+2011
+IEC 61010
+3rd Eq,
+Minor

@@ -1,0 +1,149 @@
+DAILY PRODUCTION REPORT
+Rcport No;: PR-589
+Customer: TURKEY
+Shift:
+(Nicht)
+Date: 06-11-2024
+Equipment
+Operation
+Technician
+Start
+End Time
+Duration
+Uwagi
+Condition
+Time
+(min)
+MC-206
+Polishing
+Piolr
+06.30
+08.20
+110
+progress
+Lewandorski
+MC-207
+Polishing
+Wiktor
+06,30
+08,07
+NYA
+Delayed
+Kepczyiski
+MC-202
+Assomci
+Dawid
+07.00
+08.29
+NIA
+progress
+Oszmianczuk
+MC-204
+Polishing
+Apnieszka
+06,30
+08.18
+108
+Completed
+Zielinsks
+MC 207
+Polishing
+Pictr
+11:00
+12.27
+Delayed
+Lewando  skl
+MC-?01
+cutting
+Magdalena
+07.30
+08.37
+Deley
+progress
+Witkowska
+MC-205
+Welding
+Nadia Sauter
+08;00
+09;40
+100
+Completed
+MC-204
+Welding
+Wktor
+08.30
+10,05
+Delayed
+Kopczynski
+MC-203
+Cutting
+Przemystaw"
+13.30
+14.39
+Recallbrated
+Delayad
+Wasik
+MC 202
+Drilling
+Nowek
+08.30
+10.13
+103
+Delayed
+MC-204
+Drilling
+Wiktor
+11;00
+12.40
+100
+Completed
+Kopczyiski
+MC-209
+Cutting
+Nadia Sautcr
+10.30
+11342
+Delay
+pIogres:
+Note any unschedulod stops in the downtime register. Chcck material consumptlon against standard usagc
+This closure summary signals readiness forthe
+production
+Reler
+remarks far enyrework Or
+quality concorns
+Product ID
+Target Qty
+Produced
+Defect Qty
+Scrap %
+Rewark
+Comiments
+Count
+VF-2Z0D
+133
+11 /
+12.039u
+Rovoik
+needed
+SL 430M
+239
+233
+2.5126
+Rework
+naedeu
+RE-BSOC
+247
+209
+15-380,0
+HF-3904
+245
+218
+11.0296
+TX-920V
+229
+0.3046
+Approved Dy:
+Prapared Dy:
+Anna
+rates
+Nuxl

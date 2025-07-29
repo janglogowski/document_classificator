@@ -1,0 +1,59 @@
+Customer ID: GREECE
+Prepared by: Jan Kowalski
+Product ID: MS-6OOP
+Interna
+No:: 9690738
+Review the materials tally for compliance with budget allowances The component roster below includes
+unit costs and batch codes- Reter to this parts register-
+plan raw-material purchasing: All line-item costs
+are current as
+vendor quotes. Ensure each component meets the specified quality standards The
+following table summarizes the materials
+quantities needed for the current project;
+Item
+Insulation
+Epoxy Resin
+Ceramic
+Digital
+Spring
+Shaft
+Description
+Foam Pad
+Disc 8Omm
+Display Unit
+Washer
+50Omm
+M1O
+Qty
+166
+493
+323
+846
+136
+UOM
+Unit Price
+3/0
+Lo
+15.00
+8-Wu
+Amount
+531.20
+6,073.60
+4,845.00
+42.30
+1,088.00
+Remarks
+Hinge
+Urgent
+Imported
+Imported
+SKF brand
+alignment
+alignment
+adiusted
+adjusted
+TOTAL: 13,615.40
+per
+and
+1,035
+Hinge

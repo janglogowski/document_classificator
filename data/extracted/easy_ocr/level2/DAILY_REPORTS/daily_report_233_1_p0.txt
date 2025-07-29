@@ -1,0 +1,79 @@
+DAILY PRODUCTION REPORT
+Repart No::
+PR-630
+Customer-
+TURKEY
+Supervisor
+Peter Schmict
+Department:
+Assemdiy
+Date
+2024
+Snitt:
+C(Nignt)
+Equipment
+Process
+Worker
+Start Time
+Time
+Uwagi
+MC 208
+Polishing
+Przemysiaw
+08.15
+09.38
+Recallbrated
+Wasik
+MC-20Z
+Assembly
+Piatr
+13-15
+14.20
+Lewandawski
+MC 207
+Polishing
+Jan Kowalski
+10-15
+11.40
+MC 202
+Drilling
+Dawid
+14.30
+15.09
+Recalibrated
+Oszmianczuk
+MC-206
+Welding
+Anna Nowvak
+06.30
+08.17
+Recallbrated
+MC- 202
+Drilling
+Magdalena
+08-00
+08.21
+N/A
+VdtkowskJ
+Product
+Planned Output
+Achieved Qty
+scrap
+scrap
+Motcs
+MC-540X
+113
+14.3970
+Kewonsneeded
+VF-220D
+0.870
+gooX
+Sd
+Rewor needed
+Prepared by:
+Lara
+Approved bv:
+Laur
+Rossi
+Tota
+Roxsi

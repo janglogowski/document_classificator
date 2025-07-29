@@ -1,0 +1,62 @@
+Alltechniciancommenis are recorged tor Maintenance
+trend analysis. This section captures equipment status andany maintenance
+obenations
+cnminment
+loz below includes fault codes and corrective notes The
+following entries detail preventive and
+conecucemnalnmenancemar
+Spare Parts Used:
+panName
+anno
+utUsed
+6713
+censor Mcdule
+P-44C
+0-1371
+Machine
+Equioment
+5ervice
+Technician
+Downtime
+Previous
+Comments
+Senice
+MC-2T7
+CNC
+Preveative
+Peter
+20zS-11-0/
+Replaced
+Machine
+Schmict
+codant
+MC-265
+Plasma
+Prevemtive
+Carios Garciz
+2025-02-17
+Li-lon
+Cutter
+hattcn
+pack
+senviced
+MC 258
+Lathe
+Insccrhon
+Voxak
+2025 06-14
+Replaced
+MC-778
+Paint Bcotn
+Irspeclion
+Carlos Garcia
+2073-09-77
+5witch
+Ccnacs
+cleaned
+Ianos Darcie
+Perkocmed
+echmidt
+Type
+Klire
+Sgne0

@@ -1,0 +1,86 @@
+Unit Configuration
+Ensure all referenced standards are up
+dute
+The parameter register below includes operating limits and ratings;
+Confirm that performance ranges comply
+project requirements
+Check that all materia
+SpCcs
+align with supplier
+certifications_ This technica
+overview' supports the product-release checklist;
+Product ID:
+GH-770]
+Renart
+PR-940
+Prepared bv: Peter Schmiot
+Approvem
+Dy: Anna
+Nowak
+Date: 2023-11-15
+Mladei
+Type
+Hudraulic Powe
+Unit
+Design Pressure
+210 par
+Flow Rate
+30 Lltnin
+Supply Voltage
+G0 HZ
+Oil Type
+HLP 32
+Control Valve
+Proportional 4/2
+Type
+hearpumd
+Battery Capacity
+10 Ah
+Working Temp. Range
+10"Cto 55"C
+Dimensions (LxWxHI
+1200 x Z0x 110mm
+Flag any missing parameters for urgent specification updates Refer
+parjmetei
+table for operating ranges and
+roiciances
+Usc this summary
+Cross
+check with BOM and inspection reports. This summary reflects the latest
+revision
+ofthe product data
+Dacument cantro
+numbers are included for traceability. Material
+chaices and process
+data have been verified for compliance
+All specifications
+meet the
+requirements
+and industry standards.
+Material of Construction:
+Subcpmpanent
+Base
+Therra
+FuSE
+Ceramic Oxide
+Pressure
+Valve
+C7171
+Wiring
+PVC (Rigid)
+Nut Mf
+Zinc-E
+Steel
+Pawer Switch
+Palvcarbonate
+Copper
+Graphite Pad
+Graphite Pad
+Teflon Tape Roll
+Teflon Tape Roll
+Kch
+No :
+Pump
+desien
+Brss
+Plated

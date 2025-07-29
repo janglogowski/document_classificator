@@ -1,0 +1,27 @@
+Customer ID: BELGIUM
+Prepared by: Jan Kowalski
+Product ID: TY-350G
+Internal No:: 2661725
+Item Description
+Cable_Jie Pack
+100)
+Stainless Bolt M8
+Gasket Sheet A4
+846
+UOM
+pCS
+Unit Price
+Amount
+803.70
+268.80
+1,017.50
+Remarks
+Li-Ion battery
+Hinge alignment
+Eco compliant
+installed
+adjusted
+TOTAL: 2,090.00
+aty
+pPCs
+pcs

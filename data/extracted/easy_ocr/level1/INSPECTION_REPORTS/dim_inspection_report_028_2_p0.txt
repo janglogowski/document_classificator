@@ -1,0 +1,83 @@
+Measurement Summary Sheet
+sudervisor
+Pelli scnmidt
+Inspcctiun Ualc
+2024 04 UZ
+The inspection register below highlights any out-of-tolerance
+pjrts
+This data extract
+prepared
+for quality-control
+sign-off: This summary
+MCusurements ;uppors
+metrology traccability: All measured values arc timestamped for
+audit purnases
+This report presents the dimensiona
+measurements and inspection results. Use this results summary
+trigger
+ny corective actiona
+Product Ref
+MS-be
+PW-5154
+MS-MOp
+MR-T6DH
+FL-740X
+VR-94Q1
+ZR-Z05R
+Companent
+Rattery
+Kubber
+Steel Sheet
+Graphie
+Battery
+Plastic
+Plastic
+Pack
+GJskul
+436
+Pack
+Rivcts
+Rivets
+somm
+Dlm
+pepin
+nner
+width
+wiath
+Lenein
+Height
+Diamieter
+Nominal
+97.44
+62,59
+47 12
+87.67
+92 49
+81,.79
+65 65
+ctu?
+97.30
+47 15
+Dift
+~Oa
+-0.09
+0.08
++0LI
+{Fail
+Fllag any components requlring
+~machining
+adjustment Confirm that pass rates
+mcet the defined acceptance
+criteria. Archive this Inspection summary for regulatory documentation:
+Instrument Calibration Log:
+Instrument
+Serial Noj
+Last Calibration Date
+Micrometer
+49520
+2025-01-08
+Laser scanner
+27257
+2025-05-07
+Depth
+Past

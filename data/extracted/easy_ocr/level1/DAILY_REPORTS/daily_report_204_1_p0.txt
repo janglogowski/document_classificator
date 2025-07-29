@@ -1,0 +1,105 @@
+DAILY PRODUCTION REPORT
+KeponNo:
+PR-363
+Customer
+NORLY
+Supervisor:
+Laura Rossi
+Department:
+Logistics
+Dale
+04-10-2023
+Shift:
+Night)
+Machine
+Task
+Wvorkem
+Start Time
+Time Spent
+Remarks
+MC-207
+Polishing
+Mateusz
+12;00
+13.15
+NA
+Jaizyna
+MC 205
+Polishing
+Protr
+09.00
+09.45
+Lewandow5<
+MC-206
+Polishing
+Nadia Sauter
+06.00
+07.07
+MC-207
+Assembly
+Wiktor
+06;30
+08.26
+116
+Deiav
+pczynski
+MC-204
+Welding
+Dawid
+11:15
+13.02
+107
+Oszmiariczuk
+MC-205
+Cutting
+Mareust
+10;15
+10.40
+NA
+Jarzyna
+MC-204
+Welding
+Kowalski
+11,00
+12.55
+115
+NA
+part ID
+Planned
+Qty
+Produced
+Qty
+Rejected Qty
+Notes
+RM-BBON
+8.0756
+Rawars
+needed
+DX-7771
+208
+207
+0.4856
+Rawonkneeded
+BZ-G60F
+295
+256
+13.2290
+confirmed
+AL-T1SQ
+193
+190
+5556
+Ph-a6on
+889
+Rework needed
+TY-350G
+00%6
+Prepared
+Jan Kowalski
+Approved
+Lamre
+Delay
+Scrp
+Scrap
+Iby:
+Rosai

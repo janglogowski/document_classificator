@@ -1,0 +1,103 @@
+the summary of service actions and
+torccast parts replacement and resource needs Belowr
+obseraticns
+ipclude
+Use {is summory
+equipment status and any maintenance
+downtimes for e
+each machine. This section captures
+technician assignmtents, and part charges
+Tok
+orders
+Spare Parts Used:
+Qty Usud
+Part No.
+Part Namo
+P-2123
+Hydraulic Hose "
+P-31ol
+Oil Filter
+Comments
+158 2
+Durgtion
+Previous
+Unil Code
+Equipment
+Service
+Technician
+Sence
+Type
+2074-04-26
+No issue 5
+Corervc
+Petcr
+tounc
+MC-207
+Hydraulic
+Schmidt
+2024-09-19
+peinl Bcin
+Inspection
+MC-289
+Kowralski
+Fosz
+2025-01+21
+Coitecive
+MC-275
+Packaging
+2024-05 27
+Sensor
+Tnspection
+Laura Ros3
+Tecalibrated
+MC-262
+Paint
+7023-12-10
+Relled oll
+Laser Culter
+Carlos
+(HLP 46].
+MC-284
+Laigia
+2025-03-12
+Replaced
+Laser Cutler
+Inspection
+0nse (FAk
+HC-273
+Konzlsh
+2023-11-11
+Cn-rged oil
+hdtauc
+Ccrrective
+ind Mers
+MC-235
+Kowalski
+Pres9
+2023-12-19
+Calibration
+Prevenve
+Lmna
+check
+KC 129
+Paint Boath
+Nowa-
+2023-09-13
+Gensor
+piasmiz
+Inspertion
+petbr
+recalibraled
+MC- 209
+schidt
+Cuiter
+Laura Aossi
+Authorized Dy:
+Lala RC6s
+Operator:
+Entros
+Pres?
+Laur
+1,9
+acoin
+Inspecton

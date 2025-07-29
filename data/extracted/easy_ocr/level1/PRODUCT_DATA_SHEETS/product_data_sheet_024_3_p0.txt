@@ -1,0 +1,58 @@
+Component Overview
+Report
+6652146
+Product ID: MS-60OP
+Date: 2024-04-13
+Model Type
+Cooling Circulation
+Rated Pressure
+250 bar
+Svstem
+Flow Rate
+75 Limin
+Operating Voltage
+60 Hz
+Dimensions (LxWH)
+1200
+700 * 1100 mm
+Control Valve
+Directional 43
+Total Weight
+Working Temp: Range
+SCto45"C
+Cooling
+Air-cooled oiladiatam
+Type
+Gedr
+Component Materials Overview:
+Item
+Composition
+Specification
+Bearing 6202 77
+Stainless Stee
+DIN EN 10025
+Batter Pack
+Lithium-lon Cel
+Pack
+Class
+tolerance
+Hinge
+Stainless Steel 304
+RoHS compliant
+Cooling Gel Pack
+Silicone Rubber
+certified
+Digital Display Unit
+Jjstc
+Folennc
+Gasket Sheet 44
+Nitrile Rubber INBR)
+Connector 2P
+Glass-Filled Nxlon
+Cass
+Tolerance
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+No:
+Pump
+Pump

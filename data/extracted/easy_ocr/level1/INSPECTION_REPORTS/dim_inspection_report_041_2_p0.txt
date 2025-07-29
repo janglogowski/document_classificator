@@ -1,0 +1,63 @@
+Dimensional
+Inspector
+Carlos Garcia
+Inspection Date
+2025 01-23
+Item
+BZ-660F
+CH-7Z0J
+SL-430M
+DXZI
+NE-245A
+Lk-89QB
+Part Name
+Steel Sheet
+Baltery Pack
+Steel Sheet
+Baltery Pack
+Wooden
+Power
+A36
+A36
+Pallel
+Swlch
+Qim;
+HeighE
+Depth
+Height
+Tnickness
+nic-ness
+Heioht
+Targct
+64.42
+73.33
+1143
+62.48
+Observed
+18.60
+64.22
+73.30
+11.26
+62.31
+87.63
+Ditf
+Pass Fail
+Components failing inspection require immediate review and corrective action. Overall inspection summary
+indicates acceptable quality levels. Ensure all measuring tools were properly calibrated
+Instrument Calibration Log
+Instrument
+Serial No:
+Last
+Calibration Dato
+Laser Scanner
+11955
+2025-03-11
+Laser
+Scanner
+78943
+2025-05-15
+Micrometer
+91656
+2024-07-26
+Log
+Code

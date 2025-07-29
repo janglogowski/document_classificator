@@ -1,0 +1,73 @@
+Inspection Checklist
+This closure summary Indicates compliance with Inspection criteria. Thls surmary supports the production-release
+quality Bate, Use this extract
+coardinate
+sign-off with the QA manager; Below are the items to be verified during
+the final product review-
+Product ID
+MS 600P
+customcrId
+BRAZIL
+Item Description
+Shaft 50Omm
+Review Points
+Sample Tier
+Severity
+Lomments
+Item Specs
+Critical
+Major
+OnHold
+Incorrect quantity or
+Level II
+Needs review
+assortment
+Missing lopo
+Warninp
+abel
+Level II
+retiew
+Rubber texture
+Blossiness
+Leveli
+Ninorissue cbserved
+mismatch
+Color mismatch
+levei
+Minori sue Dbsered
+Hinges loose
+Levci
+Mimor issue Obsenveo
+product
+Lcvcl
+Critical impact
+BOOO
+splinter
+sharp point
+Level |
+Needs revlew
+produc
+Instaucton Mnanu?
+missing
+Level III
+Minor issue observed
+damaged
+Not assembled
+Level II
+drawing
+Deao
+live Insect In
+Level |
+Critical impact
+packaging
+Incorrect orentation inbox
+Minor ussue Obsevved
+Missing distributor
+Level |
+Minor issue observed
+Infanmanor
+Supervised by:
+Date=
+Minor
+Needs
+Wrong

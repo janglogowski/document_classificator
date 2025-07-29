@@ -1,0 +1,132 @@
+Shift Summary
+KeporNo-
+PR-165
+Customer'
+NORET
+Supervisor:
+Carlos Garcia
+Department:
+Painting
+Dale
+22-01-2024
+Shift:
+Morning)
+Equipment
+Operation
+Operator
+Start Time
+End Time
+Total
+Remarks
+Guranion
+MC-204
+Cutting
+Magdalena
+13.30
+14.32
+Witkawska
+MC 203
+Drilling
+Magdalena
+08.00
+09.31
+Witkowska
+MC-203
+Drilling
+Anna Nowak
+13.30
+14.00
+MC 201
+Assembly
+Mateusz
+11.30
+13.07
+Jarzyna
+MC-202
+Cutting
+4na
+Nowak
+14.00
+Dylav
+MC-202
+Drilling
+Agnieszka
+06;15
+07.35
+NA
+Zielinska
+MC 209
+Polishing
+Anna Nowak
+12*.00
+13.38
+NA
+MC-204
+Welding
+Piotr
+11:15
+11.42
+Lewandow S4
+MC-206
+Drilling
+Mateusz
+07*00
+08.25
+Jaryna
+MC-206
+Polishing
+Agnieszka
+12.30
+12.54
+Recalbrated
+Zielinska
+MC 208
+Welding
+Przemystaw
+07.15
+08.01
+Wasik
+MC-207
+Drilling
+Pioti
+11:15
+12.34
+Lewandowse
+Item ID
+Planned Qty
+Actual Qty
+Defect Qty
+Rejection %
+Remarks
+SB-I40D
+275
+0,3696
+Rewanneeded
+WD-1805
+278
+255
+8,2756
+Scrap
+confirmed
+CN-1S0C
+278
+247
+11,1590
+Rewanneeded
+MS-GOOP
+288
+276
+4,1706
+Scrap
+confirmed
+Pw-SISY
+262
+12.6091
+Rewanzneeded
+Prepared by;
+Carlos Garcia
+Approvedby:
+4nme
+Nowak
+Delay
+Delay

@@ -1,0 +1,65 @@
+COMPONENT BREAKDOWN
+Customer ID
+BRAZIL
+Coordinator: Carlos Garcia
+Date: 2024-09-10
+Product ID: MC-S4OX
+Internal No;: 5230820
+Order Qty: 173
+This section outlines the parts; unit prices and total amounts for assembly: This summary lists every item
+required, with per-unit pricing details
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Power
+2.13
+pcs
+1.20
+9.60
+High
+Switch
+grade
+Ventilation
+pCS
+5,60
+240.80
+Certified
+Grid
+batch
+Rubber
+pcs
+0.55
+2.20
+Li-Ion
+Stopper
+battery
+installed
+Plastic
+2.06
+pcs
+0.20
+3.80
+SKF
+Rivets
+brand
+Digita
+1.53
+15.00
+285.00
+SKF
+Display
+brand
+Unit
+Check that component
+quantities align with production run requirements. Final amounts include handling
+and logistics costs where applicable.
+Total Amount:
+541.40
+Approved By: _
+Sourcing Department;

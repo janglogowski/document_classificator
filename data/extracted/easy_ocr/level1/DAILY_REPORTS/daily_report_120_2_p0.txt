@@ -1,0 +1,124 @@
+DAILY PRODUCTION REPORT
+Redar ND;:
+PR-931
+Cusiamer-
+SWVEDEN
+sudenvison
+Kowalski
+Department:
+Maintenance
+Snift;
+(Moming)
+15-05-2025
+Use thls shift summary
+dtve
+continuous Improvement actions
+Use this Dverview
+Cstest
+throughput and
+efficiency levels. This dashboard section highlights any production bottlenecks
+Machine
+Process
+uperator
+From
+End
+Tme
+Temp
+Energy
+Spent
+(c)
+Used
+MC-204
+Cutting
+Magdalena
+07,30
+09.09
+75,6
+1.27
+ntko s*d
+MC-204
+Welding
+Kowalski
+11,00
+12.02
+76.2
+2.79
+MC-209
+Drilling
+Bartosz
+13.15
+14.25
+2.90
+Waw
+MC-206
+Drlling
+Jan Kowalski
+1415
+15.02
+MC-?08
+Cutting
+Anna Nowak
+13.15
+14.56
+Recalintateo
+62.6
+2.02
+MC-206
+Assembly
+Przemyslaw
+08.30
+08-53
+E
+70.9
+2.61
+Wasik
+MC-203
+Welding
+Przemysaw
+07.15
+08.32
+63.1
+14
+Wasik
+Mc-207
+Assembly
+Piotr
+12;30
+13.48
+76.4
+1,.02
+Lewandowski
+MC-208
+Orilling
+Mateusz
+09,15
+10.29
+Recalibrated
+70,6
+1.83
+Jarzyna_
+MC-207
+Polishing
+Mateusz
+10.15
+11.55
+Delay
+62.6
+2.77
+Jarzynj
+MC-207
+Polishing
+Piotr
+08,00
+08.20
+75.1
+2.37
+Lewjncowski
+Prepared bK:
+Carlos
+Jarcia
+Appraved by:
+Anna Nowak
+Timc
+Notes
+Iyniak

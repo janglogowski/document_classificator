@@ -1,0 +1,80 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Description
+Amount
+Remarks
+Rubber
+pcs
+0.50
+17,00
+Switch
+Gasket
+B0mm
+tested OK
+Clamp
+pC5
+1.75
+38.50
+ISO-verified
+120mm
+Bearing
+pcs
+45.00
+6202 ZZ
+Bearing
+6202zZ
+Hinge Set
+PCS
+127.50
+Gasket
+pcs
+1.25
+20.00
+SKF brand
+Sheet 44
+Gasket
+pCs
+1.25
+6.25
+ROHS
+Sheet A4
+compliant
+Set
+pcs
+47.50
+Urgent
+Termina
+pCS
+3.40
+129.20
+Urgent
+LED Light _
+2.50
+97.50
+Strip
+Clamp
+pCs
+1,75
+5.25
+120mm
+grade
+Customer ID: CANADA
+Coordihator Peter Schmidt
+Date:
+Product ID: XK-6T0U
+12-04
+mntetnal
+4492212
+Order Qty: 31-
+Total Amount;
+535.20
+Ring
+Urgent
+HingO
+Block
+Ring
+Highe
+2022-

@@ -1,0 +1,100 @@
+Production
+Report No :
+PR-539
+Custcmer:
+SWEDEN
+Supervisor:
+Laura Rossi
+Department:
+Assembl
+Date:
+T-u
+2024
+Shift:
+(Ngnt)
+Machine
+Process
+Operator
+Stant
+End Iime
+Total Tlme
+Notes
+MC-207
+Drilling
+12.15
+12.37
+OK
+Kowalski
+MC-20g
+Assembly
+Jan
+14.00
+15.37
+Recalibrated
+Kowalski
+MC-205
+Polishing
+Bartosz
+08*15
+09.21
+NA
+Wawizyniak
+MC-205
+Nadia
+10.30
+11.43
+NIA
+Sauter
+MC-20g
+Drilling
+Wiktor
+06.15
+07-27
+Recalibrated
+Kopczynski
+MC-202
+Assembly
+Anna
+13.30
+13.50
+Delay
+Nowak
+Part ID
+Planned Qty
+Achieved Qty
+Detect Qty
+Failure
+Comments
+AZ-300T
+293
+272
+7.17%6
+Rework
+needed
+ZR-ZQ5R
+213
+2956
+SL-430M
+NU-440Z
+0.00%
+Scrap
+confirmed
+JD-70OW
+254
+232
+8.66%
+Rework
+needed
+QN-770H
+180
+170
+569
+conirmed
+Prepared bX:
+Carlos Garcia
+Approved DY:
+Peter Schmidt
+Log
+Iune
+Culling
+Scrap

@@ -1,0 +1,45 @@
+Quality Checklist
+AlI checklist entries are imestamped for traceability. Entries include both visual and functional inspection
+items
+Check that inspection steps follow the approved procedure
+This closure summary indicates
+compliance with inspection crteria
+Archive this Iist in the quality-management system:
+ease review each
+checklist point and mark the sampling results. Below are the items
+be verified during the final product
+review.
+Product ID
+WD-
+BOS
+Customer ID
+FINLAND
+Iten Descrption
+Power Swttch
+Review Points
+Check
+Severity
+Notes
+Intensity
+Design Specs
+Functionality test failed
+Level
+Loose
+parts inside packaging
+Level
+Critical impact
+Not assembled
+as per drawing
+Level
+Minor issue
+obscnvcd
+Color
+mismatch
+Critical impact
+loose
+Level
+Needs review
+Supervised by:
+Date:
+Lavc
+Hinges

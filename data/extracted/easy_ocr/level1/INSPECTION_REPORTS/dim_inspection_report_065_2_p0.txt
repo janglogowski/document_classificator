@@ -1,0 +1,53 @@
+Inspection Results Summary
+echnician
+yarios Garciz
+Inspecion Date
+2025-06-18
+This data extract
+prepared
+qualily-control sign-off Use lhis resulls summary t0 trigger any corrective
+actions. This section details the measured values. tolerances, and status flags
+Article No
+MC-54OX
+9DoX
+MS-6OOP
+Pw-51SY
+Part Name
+Hinge Set
+Wooden Pallet
+Power Switch
+Steel Sheet 436
+Measurement
+Length
+Wcth
+Width
+Width
+Target
+54.50
+59.51
+86.32
+Actua
+57,30
+59,68
+86,25
+Dclta
+OlO
+Pass Fail
+This closure memo confiris that dinensional checks are complete: Ensure status
+are updaled In (ne
+quality management system. Confirm that pass rates meet the defined acceptance criteria
+Instrument Calibration Log
+Instrument
+Serial No_
+Last
+Calibration Date
+CMM
+60411
+2024-11-12
+CMM
+446yt
+2024-07-25
+CMM
+32400
+2025-044-17
+Ilegs

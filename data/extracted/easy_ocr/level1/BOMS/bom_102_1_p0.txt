@@ -1,0 +1,80 @@
+BOM Report
+Customer ID: BELGIUM
+Coordinator: Anna Nowak
+2022-11-04
+Product ID: CN-150C
+Internal No;; 2613086
+Order Qty; 105
+Ensure each component meets the specified quality standards
+Please review the itemized list of parts and
+material specifications before procurement:
+Item
+Consumption
+Extra %
+UOM
+Rate
+Amount
+Remarks
+Description
+Clamp
+1.75
+28.00
+Switch
+120mm
+tested OK
+Set
+1.0
+105
+2.50
+100.00
+ROHS
+compliant
+Hinge Set
+2.39
+2.50
+25,00
+Certified
+batch
+LED Light
+2.28
+10%
+2.50
+32.50
+ISO
+verified
+Plastic
+2.41
+1.10
+30.80
+Cover
+1S0x150
+Terminal
+1.74
+3.40
+122.40
+Block 4p
+Wooden
+2.82
+15.00
+630.00
+Switch
+Pallet
+tested OK
+Heat
+2.6
+2.70
+37,80
+High
+Resistant
+grade
+Giccvo
+All sourcing notes have been logged for audit purposes
+Total Amount:
+006,50
+Approved Bv:
+Sourcing Department:
+Date:
+Qty
+Ring
+Hinge=
+StrIp

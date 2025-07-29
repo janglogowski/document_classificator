@@ -1,0 +1,149 @@
+Production
+Report No_
+PR-382
+Customer: BRAZIL
+Shift:
+(Evening)
+Date: 18-05-2025
+Equipment
+Task
+Worker
+Start
+End
+Duration
+Comments
+Stage
+Time
+Time
+(mn
+MC-208
+Assembly
+Agnieszka
+11;15
+12.11
+Completed
+Zielinska
+MC-20g
+Drilling
+Mateusz
+06.00
+07.24
+NA
+Completed
+Jarzyna
+MC-206
+Cutting
+Agnieszka
+10.15
+10.44
+Recalibrated
+Delayed
+Zielinska
+MC-205
+Assembly
+Bartosz
+11.15
+11,51
+Completed
+Wawrzyniak
+MC-202
+Cutting
+Przemystaw
+14.15
+15.11
+Recalibrated
+Wasik
+progress
+MC-206
+Polishing
+Dawid
+06.15
+06.36
+Completed
+Oszmianczuk
+MC-202
+Cutting
+Jan Kowalski
+12.15
+13.55
+100
+progress
+MC-208
+Cutting
+Mateusz
+09.00
+10.54
+Delay
+Completed
+Jarzyna
+MC-203
+Assembly
+Bartosz
+09.00
+10.40
+Recalibraled
+Comipleted
+Wawrzyniak
+MC-204
+Polishing
+14.30
+15.20
+Delayed
+Wawrzyniak
+MC-207
+Cutting
+Dawid
+11;15
+12.11
+Recalibraled
+Delayed
+Oszmianczuk
+MC-205
+Assembly
+Magdalena
+06.30
+08.24
+114
+Recalibrated
+Completed
+Witkowska
+Record any adjustments
+shift schedules
+staffing here. Note any unscheduled stops
+the downtime
+register. Refer to remarks for any rowork
+quality concems
+All production targets have been logged;
+deviations are highlighted above. Ensure shift-handover notes include any pending issues. Archive this
+output summary for end-of-day reporting
+Product ID
+Planned
+Actual Qty
+Rejected
+Rejection
+Rework
+Uwagi
+Qutput
+Qty
+Count
+TX-820V
+152
+129
+15 13%
+CE-9O5L
+202
+189
+6.,44%6
+Rework
+needed
+KP-320E
+105
+100
+boic
+MC-540X
+10.669
+Approved by:
+Prepared by:
+Log
+Delay
+Bano:z

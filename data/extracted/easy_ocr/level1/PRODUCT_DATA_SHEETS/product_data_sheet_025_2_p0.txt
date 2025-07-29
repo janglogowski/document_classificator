@@ -1,0 +1,71 @@
+Unit Configuration
+Use this sheet
+confirm
+engineering requirements and tolerances
+The parameter register below includes operating
+limits and
+Usc this spec sheet to validate assembly instructions. The following information outlincs
+performance characteristics and design data  Refer to this configuration summary for unit-designation mapping;
+Product ID
+MC-540X
+nterna
+4807925
+Prepared bv: Anna Nowak
+Approved by: Carlas Garcia
+Date: 2023-07-22
+Unit Type
+Coolling Circulation
+Design Pressure
+210 bar
+System
+Throughput
+30 Lltnin
+Operating Voltage
+230 v
+50 Hz
+Workingicmp
+Ranec
+10 C to 50"C
+Protection Class
+IP65
+Mator Powcm
+Battery Capacity
+Ensure thatthe listed materials are
+approved for the application:
+Ensure glossary terms
+match tne engineering
+namenciatune
+This dosure nate indicates the data sheet
+ready for
+Lease
+Material choices and
+process data have
+been verified for compliance. Refer
+purameter
+table for operating
+jnges jnd
+tolerances Check that all section
+headers follov:
+product template. Data sheet has been pecr-reviewcd by the engincering team
+Material of Construction:
+Labe
+Base
+Cable Tie Pack (10Q)
+Rubber INBR
+Baieny pac
+Llaigi
+Cellpack
+Glapmilc Pod
+Glaumc
+atainics
+Stec
+Display Unit
+ABS Plastic
+Cooling Gel Pack
+Sicone Rubber
+ratings.
+No;'
+Ane
+Nitn
+Hin?g
+Dleita

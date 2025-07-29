@@ -1,0 +1,59 @@
+Equipment Record Report
+2024-02-16
+Check that all downtime events are
+roperly categorized and logged.Refer =
+maintenance
+register for detailed service histories.
+This Icg records oll maintenance dctvities performed on the equipment
+Ensure alll safety checks were completed during servicing:
+Confirm that service intervals follow the preventive schedule
+Spare Parts Used:
+Pant Name
+Part No.
+Qty Used
+L-Ian saten
+PJcr
+Li-on Batten Rack
+3353
+Swvitch Assembly
+P-41361
+Unlt Code
+Machine
+Service Type
+Operator
+Duration
+Last Check
+cormenis
+MC-175
+Inspeclon
+2024.07-22
+NC-260
+Conveyor
+nspection
+Carlos Ganoia
+2025-04-18
+Belt
+NC720
+CNC Milling
+Contecve
+Caros Gangia
+2024-11]4
+Mi-on
+Machene
+paltery pac*
+sericed
+Mc-213
+Assembly
+Lorrective
+Jan<owais<
+202S-0-US
+Ahenment Ot
+Robot
+ninges
+aujuse"
+Signed ott;
+Peter Schmidt
+penarmedDv
+Au6t
+Nowik
+2.9516

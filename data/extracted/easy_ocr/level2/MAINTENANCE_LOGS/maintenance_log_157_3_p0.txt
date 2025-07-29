@@ -1,0 +1,91 @@
+Machine Log Summary
+Perforined On: 2023-10-07
+Authorized by:
+lm
+Rass
+Operalor:
+Carlos Garcia
+Belov
+the summary of senvice actions and
+downtimes for each machine, This log records all maintenance activities
+performed
+on the equipment: Use this record
+upcoming upkeep and repairs , This maintenance extract
+prepared
+Yor campliance
+dudiltraus
+Please
+reviev Ihis log for recent service dates
+types; and remarks
+Tnis senvice suMmar
+supports Ihu rellabilily ungineering
+68VIY
+Section A:
+Machlne
+MC-250
+MC -294
+MC-293
+MC-255
+Machine
+Assembly Robot
+Packaging Line
+Hydraulic Press
+Hycraulic Press
+Pravenin;
+Cctracine
+Camedive
+Cocrective
+Technician
+Anma Nawak
+Junkovaisai
+Lanos
+Gurcia
+Lauia
+RoSS
+Quration
+Camnmenas
+Allgnment
+hinges
+Swilch conlacis
+Callbralon check
+Wocden pallel
+adiuslad
+CEaNed
+Cneckam
+Sectlon B:
+Machine
+MC-293
+MC-250
+MC-294
+MC-255
+Machine
+Hydraulic Press
+Kssembik Ranot
+Packaging Line
+Hycraulic Press
+Type
+Camectiva
+Corrective
+Comective
+Prevantive
+Hcchncin
+JanKowask)
+Peter Schmidt
+Lanos
+Garcia
+Anna Nowar
+Duraton
+Commenis
+No issuus lound
+Wooden pallel
+Wdaden
+Relilled ail (HLP 46).
+cuccked
+checkd
+Uptime (%)
+Error Count
+Comnmants
+96.2630
+Keplaced
+Iypo
+pallel

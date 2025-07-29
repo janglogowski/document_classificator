@@ -1,0 +1,63 @@
+Equipment Record Report #6251633
+Dale: 2024-12-19
+Hachine_
+Machine
+Type
+Jechniclan
+Downtme
+otes
+MC-251
+Plasma Cuter
+Contecine
+Peter Schmidt
+Plant 1C
+batery
+Dacr
+SCMceo
+MC-290
+Packagig
+Inspecton
+Carlos Garcia
+Plant 34
+MC-254
+Assembl
+PreventiG
+Laura Rossi
+Plant 34
+Changed oll
+angenlem
+Robot
+MC-247
+Corveyor Bel
+Corecine
+Carlos Garcia
+Plant 1C
+Tightened
+Kelob
+MC-211
+Painl Bocin
+enecom
+Jan Koxalsk
+Plant IC
+Alignment o
+hinges
+amusieo
+Thes log summary supports the asset-management dashboard
+Ensure next preventive sence
+schedled according
+plan_ Ensure that each senvrice enty has the
+approvals_Refer-
+rematks for any fcllox-Up actions
+pants
+replacements . Overall equipment condtion
+sabisfactory post-maitenance: Senvice summaries have
+been forwarded t0
+the engineenng team
+Lubication Checked
+Yes
+Catbration Venled
+Emergency Stop Tested
+Approved Dy:
+Seniced by:
+Lhon
+tequved

@@ -1,0 +1,97 @@
+DAILY PRODUCTION REPORT
+Report No;; PR-492
+Customer: GREECE
+Shlft;
+(Morning)
+Date: 10-.03-2025
+Machine
+pracess
+Worker
+Begin
+Finish
+Total Time
+comments
+Condnon
+MC-208
+Drilling
+Agnieszka
+14.30
+16.19
+NA
+pronness
+Zielinska
+MC-203
+Cutting
+Magdalena
+09 00
+10.13
+piolies;
+Witkowska
+MC-208
+Cutting
+06 15
+06,57
+progress
+Kowalski
+MC-206
+Assembly
+Agnieszka
+12.30
+13.43
+piolils;
+Zielinska
+MC-202
+Welding
+Bartosz
+12.30
+13,55
+Delay
+Delayed
+Wawirzynlak
+MC-207
+Cutting
+Magdalena
+09 00
+10.21
+Delay
+Completed
+Witkowska
+MC-204
+Polishing
+Nadla
+08.30
+08.51
+Completed
+Sauter
+MC-20]
+Welding
+Nadla
+14 ,00
+15.50
+piolils;
+Sauter
+Product
+Planned Qty
+Actual Qty
+Scrap Qty
+Scrap %
+Reworked
+Remarks
+Unlts
+aP GG0F
+8970
+KP-320E
+9,007
+TL 90OX
+198
+10,41%
+Scrap
+cannrmned
+TR-Z0O8
+283
+280
+1,06%0
+Rework
+nedco
+Appraved bv:
+Prepared by:

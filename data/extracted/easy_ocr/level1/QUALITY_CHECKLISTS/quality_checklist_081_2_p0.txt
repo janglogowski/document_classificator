@@ -1,0 +1,45 @@
+Quality Inspection List
+Confirm that sampling levels comply with customer agreemerts_ This closure summary indicates compliante with
+inspection criteria;
+Below are the items
+be verified during the final
+product review- All checklist entries are
+timestamped for traceabillity. This summary supports the production-release quality gate  Refer to the quality register
+for sampling-plan references
+Product ID
+BZ-660F
+CustomerID
+BELGIUM
+Item Description
+Heal Resistant
+EevE
+Audit Criteria
+Sampling
+Classification
+Cammcnts
+Leve
+Component Cuteria
+Critical
+Miaior
+Mlinor
+OnHold
+Wcomm
+rcodc
+Aoci
+Leve
+Neede
+[e
+Loose
+pansinsine dackafing
+Missing IORo
+waming label
+Leve
+Minor IssuP
+Ddsened
+Carton
+damaged
+Critical impact
+Marines inconect
+Battery not included
+Supervised bv: _
+Date:

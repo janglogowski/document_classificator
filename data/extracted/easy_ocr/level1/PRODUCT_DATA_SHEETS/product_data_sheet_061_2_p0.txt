@@ -1,0 +1,52 @@
+Component Overview
+Please review the specifications and material composition listed below: This technical overview supports the
+product-release checklist The parameter register below includes operating Iimits and ratings: Use this spec
+sheet.
+Validate
+assembly instructions. All data entries are traceable to design revision history. Below are
+the technical
+parameters and construction materials for the unit;
+Product ID:
+BZ-660F
+Interal No
+PR-456
+Prepared by: Jan Kowalski
+Approved by: Laura Rossi
+Date: 2025-05-09
+Unit Type
+Hydraulic Power Unit
+Operating Pressure
+300 bar
+Throughput
+48 Lmin
+Operating Voltage_
+400
+S0Hz
+Dimensions LLxWxH)
+1000
+650
+1000 mm
+Pump Type
+Piston Pump
+Nolse Level
+<72 dB(A)
+Filtration
+inline,
+10 Um
+reirn
+Use this summary
+CI0ss
+~check with BOM and inspection reports
+Document
+control
+numbers
+are included
+for traceabillty. Overall configuration
+within defined design and safety margins. Check that all section
+headens
+follow the product template
+any missing parameters for urgent specification updates: AIl
+specifications meet Ihe design requirements
+industry standards;
+Flag
+ond

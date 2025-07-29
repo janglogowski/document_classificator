@@ -1,0 +1,23 @@
+Customer ID: FRANCE
+Prepared by: Peter Schmidt
+Product ID: NE-245A
+Internal No:: 9507552
+No
+Item Description_
+Plastic Rivets_
+Sensor_Clp
+Bearing 62022Z
+Qty
+186
+701
+656
+UOM
+pCS
+Unit Price
+Amount
+665.95
+984.00
+Remarks
+SO-verified
+TOTAL:
+687.15

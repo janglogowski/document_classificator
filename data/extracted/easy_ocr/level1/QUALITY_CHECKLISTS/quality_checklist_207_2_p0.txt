@@ -1,0 +1,61 @@
+Quality Inspection List
+This summary supports the production-release quality gate. Refer
+the quality register for sampling-plan
+references Use this extract to coordinate sigri-off with the QA manager. This section details quality
+requirements and test points for the batch: This checklist captures quality inspection points and sampling
+leveis
+Ensure allnon-conforming marks are clearly documented_
+Productd
+SLaOM
+Customer ID
+FRANCE
+Item Description
+Control
+Mount
+Inspection Checklist Points
+Sampling
+Defect Class
+Comments
+Levei
+DECS
+Producidoesnt nower
+Levei
+Criticalimnact
+Rubber
+Weenure
+flossinasy
+Mismatcn
+Instruction Manvalis Missing
+Level II
+Critical impact
+damaged
+Functionality test failed
+Levei
+Needs reviev
+Hinges
+loose
+Lavel
+Nerds raviev
+Wood splinter=
+Dointon
+praduct
+Missing distributor information
+Level I
+Packaging doos not match
+LevelIII
+Needs reviev"
+signed sample
+Shipping mark (s Illegible &r
+Needs reviev'
+MISSIng
+Missing logo
+waining label
+Needs reviev
+Sharp edges on plastic
+Leveli
+Critical impact
+components
+Supervised by:
+Date:_
+Item
+sharp

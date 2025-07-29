@@ -1,0 +1,89 @@
+Quality Inspection List
+#5689563
+Date: 17.07.2025
+Product
+TL-90OX
+Customer ID
+NORULY
+Item
+description
+Battery Pack
+The
+following table outlines inspectian criteria and classification levels
+Contirm that sampling levels comply with
+customer agreements
+Please review each checklist point and mark the sampling results. All checklist entries are
+timestampe
+trareability. Refer
+quality register fon
+sampling-plan references; Ensure all non-conforming
+marks
+clearly documented
+Use this list -
+confirm adherence
+AQL and safety standards;
+Quality Check Items
+Check
+Classification
+Observations
+Intensity
+praduct
+Requirements
+Hold
+Incarreci qujnticy
+ussonment
+Leve
+ISSuC
+Obsenvco
+Missin
+warning Iahel
+Leve
+Minor issue Obsenved
+misMatcm
+Deao
+Dr mve
+insect in packaging
+Leve
+Wrong product size
+Nued
+[te
+Dusydeunsnside packaging
+Leve
+Needs
+revicw
+Cannectonnat
+working
+LCvC
+Neede
+Ma
+Exposed nail with shatp point
+Leve
+review
+Snarp edges an plastic
+Level III
+Critical impact
+CDMEM
+Rubber Switch not working
+Needs [
+raved
+Missing distributor intormation
+Critical impact
+Battery not included
+Critical impact
+AQL Level
+Crilical
+Mjior
+Minor
+Default
+Customer specific
+Items marked for hold require additional reviev before
+lease. Checklist results have been reported
+the quality
+manager; Confirm that all sampling results are within acceptable
+limits. All critical
+and major inspection points have
+been addressed; Refer to nates for any observed defects or deviations,
+Minor
+WRO
+Colo
+Necds

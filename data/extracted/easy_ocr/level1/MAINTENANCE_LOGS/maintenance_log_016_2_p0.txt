@@ -1,0 +1,106 @@
+Equipment Record Report
+2024-04-18
+maintenance
+extaci
+prepared
+compliance audit trails
+Conhim that service intervals iollow Ihc
+Drcvenve
+This
+schedula. Ensure all
+chccks Were
+comblcteo
+servicing
+Beic
+Uhte sumMan
+Sence
+actions und
+downtmes ion
+euch machine
+Use Ihis summary
+Tomecu
+parts raplacement and resource needs_ All technician
+comments arC recarded ion mainienance
+truno Anaivsis
+Spare Parts Used:
+Pant Name
+Pan NO
+Qty Used
+OmFIlter
+P-5525
+Oilfite^
+P.2631
+Sensor Module
+P-6671
+Equipmicnt
+Service
+Operator
+Downtinc
+Last Cneck
+Lfea
+Comments
+Machine
+MC-218
+Paint Bocin
+Comrecive
+2025-06-05
+Sensm
+Kowaliki
+recalibrated
+MC-262
+Packayia
+Inspecbon
+Carlos
+2023-10-23
+Kep aced
+Garcia
+fuse (SA)L
+MC-251
+Lathe
+Preventive
+Carlos
+2024-09-07
+Klianmeni
+Garcia
+ninges
+agjusted
+MC-241
+Lathe
+Preventive
+Peter
+2024-03-06
+Tcmeneo
+Schmidi
+Icose hols
+MC-217
+plasma
+Preventive
+2024-01-13
+Klianmicn
+Cuter
+Kowalski
+ninges
+a0ps1ed
+MC- 298
+Hudraulic
+Inspecion
+2025-.01-08
+Worn
+Press
+Kowalski
+qaskel
+rep aceo
+MC-211
+Paint Booth
+Preventive
+2025-02-26
+Wooden
+Kowalski
+cneckem
+Jan Kowaski
+Authonzed Uv:
+Kowalski
+Operatog
+duting
+"salely
+Lype

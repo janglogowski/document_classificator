@@ -1,0 +1,68 @@
+Unit Configuration
+The following informalion oullines performance characleristics and design dala
+Use this spec sheet t0
+validate assembly instructions: All data entries are traceable
+design revision history. Refer to this
+configuration summary for unit-designation mapping
+Entries Include both mechanical and electrical
+specifications
+Please review Ihe
+specifications and material composition listed below:
+Product ID:
+FT-730X
+Internal No::
+PR-629
+Prepared by: Jan Kowalski
+Approved by: Anna Nowak
+Date: 2024-03-18
+Configuration Type
+Pneumatic Control Unit
+Design Pressure
+210 bar
+Throughput
+75 Umin
+Voltage
+400
+50 Hz
+Protection Class
+IP65
+Motor
+kW
+Working
+Range
+10"C
+55"C
+Dimonsions (LxWxH)
+1200 *
+700 x 1100
+Oil Type
+Total
+Weight
+250 kg
+AIl summary comments have been recorded in the revision log
+Document control nurbers are included for
+traceability- Flag any missing parameters for urgent specification updates.
+Overall configuration
+within
+delined design and safely margins
+Check that all seclion headers follow the product lemplale_
+This closure
+note indicates the data sheet
+ready for release:
+Material
+Construction:
+Item
+Raw Material
+Pressure Valve
+Brass CZ121
+Baltery Pack
+Lithiun-lon Cell Pack
+Insulated |ube 25mm
+Thermoplastic Polyurethane (TPU)
+pacitor 450
+Aluminum 6061-T6
+Steel Sheel A36
+Carbon Steel A36
+Power
+Temp:
+HLP

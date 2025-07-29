@@ -1,0 +1,168 @@
+Component Dimensional Check
+2023-10-29.
+by Anna Nowak on
+Raview recorded tolerances
+below highlighis ary
+oul-of-tolerance
+component confomay The folldying
+The
+inspection register
+examination summary (0
+both
+markers and
+specifications. Use this
+Identified:
+include
+engingering:
+dimensions and any deviations
+(Olerarices, and stalus flags
+data captures Key
+measurad values
+deviation
+This secton
+"C, Humidjty: 54 %
+Enviranmental Conditions:
+Status (ViX)
+Measurement
+Nominal
+Observed
+~0.10
+Pant Nane
+85.86
+85.76
+Anticle
+Hole 0
+AL-T150
+Wonden
+17,39
+Pallet
+17.58
+Sieci Sheet
+Thickness
+MRFTGOH
+5.51
++0.08
+A3S
+Wooder
+Height
+SB-T40D
+Pallet
+87 80
+Ok
+A1sQ
+Hinge Sel
+Height
+69.09
+769.10
+AF-390A
+Shaft
+Depth
++0,02
+OK
+suonm
+40.08
+40410
+-0.12
+Hinge Set
+Widih
+54.36
+54.24
+AL;1150
+SB-1400
+Power
++0.19
+Ok
+Swich
+Diameter
+54.19
+54,38
+Steel Sheet
+Thickness
+OKk
+NU440Z
+A36
+74,24
+NU-44u2
+Bearing
+Height
+OK
+6202 72
+89.64
+89.45
+XK-61OU
+Hinge Set
+Innet
+~0,05
+OK
+Diameler
+67767
+67.62
+Hinge Sel
+Hole
+17,95
+18.00
++0.05
+JD-ZoQW
+Lengin
+MX-450L
+Battery
++0.02
+Pach
+97,25
+Plastic
+Inner
+OK
+TX-8201
+Diameler
+31.86
+~0.18
+Rivels
+32.04
+Plastic
+Hole
+OK
+PW-515Y
+48.16
++0,01
+Rivels
+48.15
+Rubber
+Length
+SL 4J0M
+Gasket
+Bumm
+43.35
+43.38
+Ok
+Hinge Set
+Hole
+20,67
+20.67
++0,00
+VR-9401
+Widin
+TR-ZOOB
+Balteny
+Pack
+porformed 
+Inspecion [
+agalnst
+parts;
+confiomt
+passifai [
+Entries
+delails
+magniudes
+21,6
+Temperalure.
+Ditt
+~0,19
+5.43
+2003
+87.77
++0,01
+Uinner
++0,19
+74.43
+97 27
+7003

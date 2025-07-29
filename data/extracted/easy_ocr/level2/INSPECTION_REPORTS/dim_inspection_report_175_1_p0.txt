@@ -1,0 +1,147 @@
+Inspection Results Summary
+Item
+Component
+Dimensions
+Nominal
+Tolerance
+Aemma
+Daft
+Tocl
+Status
+Code
+Immi
+(Gogd /B2d
+DX-TTTT
+Bearing
+Leneth
+30.34
+10.20
+30,45
+#0.11
+Measuring
+PASS
+6202 2
+Tape
+OP-eedf
+Holz 0
+34,04
+20,.20
+3404
+-,00
+LJset
+Pass
+Scjaner
+Ti-350G
+Thicaness
+6.40
+u
+h Fl
++011
+CMM
+PASS
+51-430M1
+Hinze Set
+Hol=
+0433
+10.20
+2420
+~0413
+ChM
+PASS
+64-7704
+Batten}
+hcle
+94.,86
+30.20
+94.68
+~0.18
+Depth
+Pass
+Pack
+TY-350G
+Hinge Set
+Lenetn
+49.12
+20.20
+49.25
++0.14
+Liser
+PaSS
+Scanner
+Xk- 610U
+Cedaet
+Hnnclne
+16.15
+20.20
+10.17
+H0.02
+~coneic
+PASS
+AJG
+RE-850C
+0-Rirg NBR
+Depth
+97.78
+20.20
+97.59
+0.19
+Caliper
+PASS
+6o7m
+WD-
+Poier
+Thickness
+30
+20.Z0
+53.96
+008
+Caliper
+PASS
+1805
+Swntcn
+TY-3506
+Beanng
+Depth
+47.97
+10.20
+4114
++0.17
+Nidometei
+PASS
+6202,77
+RX-310z
+Woocen
+4cne
+57.49
+40.20
+57.58
+40,03
+Micrometer
+PASS
+Pallet
+Diameter
+CH-IOC
+0-Ring NBR
+Lengtn
+45 94
+20.20
+45.88
+-0,06
+Chat
+PASS
+Eomm
+Hcle :
+85.87
+I0.20
+85.72
+~0.15
+Gejvane
+Pass
+160h
+ace
+Final Count: 13 OK,
+NoK
+Hine
+Hinge
+GaLCC
+Nizc

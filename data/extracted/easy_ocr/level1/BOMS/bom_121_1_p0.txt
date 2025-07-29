@@ -1,0 +1,120 @@
+BOM Report
+Customer ID: NORWAY
+Coordinator: Peter Schmidt
+Date:
+2023-02-03
+Product ID: TY-350G
+Interna
+No.
+2088387
+Order Qly: 363
+The parts manifest here is designed to support procurement workflows. Use this schedule of
+parts to align with sourcing and stock levels_
+Please review the itemized list of parts and material
+specifications before procurement:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+1.59
+29
+DCS
+1.10
+33.00
+For
+Cover
+export
+150x150
+Insulation
+0.73
+10%
+DCS
+3,20
+16.00
+Switch
+Foam Pad
+tested
+OK
+Ceramic
+2.66
+59
+pCS
+2.10
+60.90
+Certified
+Disc
+batch
+Copper
+1.88
+29/
+0.60
+12.00
+High
+Wire 3mm
+grade
+Bearing
+2.17
+0%
+pCS
+1.50
+High
+6202 ZZ
+grade
+Control
+0.94
+10%
+pCS
+12.00
+180.00
+For
+Panel
+export
+Mount
+Ceramic
+3.23
+pcs
+2.10
+65.10
+High
+Disc 80mm
+grade
+Spacer
+1,.74
+2%
+DCS
+0.15
+0.75
+SO-
+2mm
+verified
+Grease
+1.26
+0%
+DCS
+1.90
+13.30
+Tube 250ml
+alignment
+adjusted
+Wooden
+2.0
+10%
+pCs
+15.00
+75.00
+Pallet
+AlI listed components have been verified for availability and compliance:
+Total
+Amount:
+457.55
+Approved By:
+Sourcing Department:
+80mm
+Hinge

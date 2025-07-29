@@ -1,0 +1,110 @@
+keuan No :
+PR/5i
+Customer
+GkEECE
+Supervison:
+Lalra
+Rossi
+Department:
+Packaging
+Date:
+13-05
+7024
+shift:
+(Evening)
+Equipment
+Operation
+Worker
+From
+Totai
+Nates
+dratan
+MC 206
+Driliing
+Kagia
+Sauter
+13-00
+13.58
+MC-204
+Welding
+Piotr
+10.15
+11.11
+Lewandavsk
+MC 207
+Cutting
+MIaicusz
+13.00
+14.35
+Recalibrated
+Janzyno
+MC-206
+Welding
+Magdalena
+10.30
+12.21
+Delay
+wilkowska
+MC 201
+Assembly
+Kauie
+Saulei
+MC 206
+Cutting_
+Jn KowJiski
+06-Ol
+06.50
+MC-20}
+Welding
+Miateusz
+13.00
+Jjrzyno
+MC-205
+Polishing
+Jan Kowalski
+10.15
+1215
+MC-203
+Drilling
+Przemystaw
+07.00
+08,09
+Recalibrated
+Wasik
+MC-207
+Assembiv
+Mateust
+10 00
+10.29
+Recalibrated
+Jarzyna
+MC-209
+Cutting
+Nadia Sauter
+14.15
+15,30
+Item
+Target Qty
+Actuz
+Qty
+scrap
+Remarks
+CN-150C
+190
+11.637
+Rewol needed
+SL 430M
+215
+597
+Nc-540x
+229
+36"
+SL-430M
+36%0
+Revorkneeded
+Prepared by:
+Carlos Garcia
+Appraved by:
+Jura Rossi
+140n
+Scrap

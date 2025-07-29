@@ -1,0 +1,64 @@
+BILL OF MATERIAL
+Carlos Garcia
+Date: 2024-06-15
+Customer ID: BRAZIL
+Coerdial Nor: 4103279
+Order Qty: 478
+Intemia
+Product ID:
+9805
+Rate
+Amount
+Remarks
+Consumption
+Extra %
+Qty
+UOM
+Item
+Description
+1,.75
+77.00
+10%6
+Clamp Ring
+1.19
+120mm
+0,60
+23.40
+Urgent
+2.59
+Copper
+4,50
+Certified
+Wire 3mm
+0.50
+batch
+Rubber
+Gasket
+80mm
+52,20
+Urgent
+Protective
+0.98
+Sieeve
+somm
+0.20
+6.40
+export
+Plastic
+2,26
+Rivets
+15,00
+420.00
+compliant
+Digita
+2.64
+Display
+Unit
+reconciled with the purchase order.
+Ensure this materials summary
+583.50
+Total
+hmouni;
+Sourcing Department:
+Approved By:
+ROHS

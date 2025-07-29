@@ -1,0 +1,81 @@
+Component Overview
+conimit
+requirements and tolerances
+Belov are the technica
+parameters and
+Use tnis sneet-
+engineering
+canstruction materials forthe unit: Checkthat all material specs align with
+certifications. This section details
+the configuration and
+parameter set for the product The following information outlines performance characteristics
+Ensure all referenced standards are UP
+wate
+All data entrles are traceable
+design revision
+and design data
+history:
+product ID;
+XK-61OU
+Internalno
+PR 930
+Preuared
+by: Laura Rossi
+Approved by: Laura Rossi
+Dale:
+2023-11-15
+Premmatic Lontroi
+Unit
+Rated Pressure
+180 bar
+Unit Type
+Fluid Flow
+75 Lmin
+Voltage
+400_
+50 Hz
+Cooling
+Wnter-coico
+ekchaneei
+Charging lime
+Material
+Stainiess Stee
+Framc
+alltest conditions are accurately represented
+Ensure that the listed materials are approved for the
+Confirm that =
+lication; Reter
+parameter table for operating ranges
+Jno tolerances
+All specifications meet the design
+appi
+requirements and industry standards_
+Watz
+sheet has been peer-reviewed by the ergineering
+teaml
+this summany
+Cross
+check with BOM and inspection reports
+Material -
+Construction:
+Composition
+Stalnless Steel 304
+Nut MG
+Zinc-Plated Stee
+Glass-Filled Nylon
+Cunnecto
+Gasket Sheet A4
+Nitrile Rubber (NBRL
+Stee
+Sheet 436
+Carbon Steel 436
+Insulated
+Tube 2Smm
+Thermoplastic Polyurethane (TPU]
+Wrine
+Laom IM
+PVC (RigidE
+supplier
+Frame
+Use "
+Hinee

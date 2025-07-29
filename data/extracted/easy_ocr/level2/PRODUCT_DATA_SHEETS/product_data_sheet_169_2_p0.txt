@@ -1,0 +1,48 @@
+Component Overview
+The parameter register below includes operating limits and
+Check that all material specs align with
+supplier certifications. Refer -
+this configuration summary for unit-designation mapping
+Use this sheet to
+confirm engineering requirements and tolerances. Use this spec sheet
+validate assembly instructions_
+Belov are the technical parameters and construction materials for the unit,
+ProductID:
+KV-390K
+Interal No:
+PR-749
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+Date: 2025-03-09
+Model Type
+Hydraulic Pover Unit
+Rated Pressure
+300
+Flow Rate
+48Dmin
+Operating Voltage
+230
+S0Hz
+Oil Type
+HLP 32
+Motor Power
+I1kW
+Mounting
+Skid base wilh vibralion
+Reservoir Capacity
+Filtration
+10 um return, 25 pm
+Dimensions (LxWxH)
+1000
+650
+1000
+suction
+any missing parameters for urgent specification updates. This closure note indicates the data sheot
+ready for release; Refer t0 parameter table for operating ranges and tolerances; Archive this summary for
+future design-change management: Data sheet has been peer-reviewed by the engineering team: This
+Summan
+reflects the latest revision of the product data, Document control numbers are included for
+traceabillty.
+ratings-
+pios
+Flag

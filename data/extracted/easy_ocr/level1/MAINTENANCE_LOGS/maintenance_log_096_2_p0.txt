@@ -1,0 +1,133 @@
+Machine Log Summary
+2025-04-02
+Check that all downtime events
+are properly categorizec
+logged, Below i
+tne summan)
+service actions
+dovniimee
+For each
+machine
+Use this summary
+forecast
+parts replacement
+and resource needs
+Entries include work
+cdcns
+tecanicana88
+ignments
+and part
+tecnnictan comments
+recorcud
+maintenance trend analys $.
+Spare Parts Used:
+Part Name
+Pamt No
+Oty Used
+Hudralic Hose
+P-1630
+Qil Filter
+Padq
+Sensor Module
+P-5276
+Hydraulic Hose
+P-6842
+Machine
+Machine
+Type
+Operator
+Duration
+Last Cneci
+Area
+Comments
+MC-270
+Plasmia
+Corecle
+Laura Rossi
+2023-11-13
+Sunsor
+Cutter
+recalnrated
+MC-283
+Hydraulic
+Coteche
+Lnna
+2024-09-11
+Replaced
+Press
+Voxval
+54)
+MC-218
+Assembly
+Preventive
+2025-01-17
+No issues
+Rohot
+Schmidt
+touno
+MC-211
+Packaging
+Preventive
+Carios
+2023-11-26
+Changed oill
+Garcia
+and Iillers
+MC 249
+Packaging
+Correciive
+Petet
+2025-06-27
+@lon
+Schmidt
+hattery} pack
+seniced
+MC-2O8
+Paint Bocih
+Inspeclion
+Launa Pots
+2024-07-12
+Worn
+gasket
+replaced
+MC-281
+Paint Booth
+Preventive
+Peter
+2024-03-30
+Sensor
+Schmidl
+recalibrated
+MC-252
+Plasma
+Inspcclion
+Peter
+2025-01-12
+Kanmeni
+Cutter
+Schmidt
+hinges
+adustec;
+MC-234
+Packaging
+Preventive
+Laura RoSSt
+2024-11-27
+No issues
+uuny
+MC-269
+Convevor
+Preventive
+Peter
+2025-01-13
+Sensor
+Bel:
+scnmidt
+recalorated
+Approved by:
+Peler Schmidt
+Seniced ni
+Carlos Garcia
+and
+changos
+Peler

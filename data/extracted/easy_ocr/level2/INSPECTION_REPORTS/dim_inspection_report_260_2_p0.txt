@@ -1,0 +1,70 @@
+Component Dimensional Check
+racnniciam
+Peter Schmial
+Inspeclion Dale
+2024-11-29
+This report presents the dimensional measurerents and Irspection results. All measured values are
+timestamped for audit purposes. Please review the Inspection results for each component listed belov , This
+ata extract
+prepared for quality-control sign-off. Below are the recorded measurements compared
+nominal tolerances: Entries include bolh passifail markers and deviation magnitudes;
+Item Code
+KP-320E
+WD-1805
+XD-ZIOR
+TL-90OX
+XD-ZIOR
+VR-940T
+Component
+Plastic
+Rubber
+Rubbci
+Shaft sq0mm
+Hex Bolls
+Battery Pack
+Rivals
+Gasket
+Gasket
+M12
+80mm
+BUrm)
+Kensurement
+Thickaesc
+Width
+Depth
+Width
+Depth
+Lenglh
+Nomina
+43.12
+76.37
+50.38
+136/
+14,03
+Observed
+33.63
+13.,87
+13.87
+Delta
+10 05
+0.05
+~OOR
+PassIFail
+Archive this inspeclion summary for regulatory documentation
+Reter t0 deviation column for any out-of-
+tolerance measurements
+Components failing inspection require immediate review and corrective action:
+Instrument Calibration Log:
+Instrument
+Serial No:
+Calibration Date
+Micromeler
+29606
+2024-0g-02
+Micromete
+85649
+2024-08-23
+Micromete
+30822
+2024-08-27
+agalnst 5

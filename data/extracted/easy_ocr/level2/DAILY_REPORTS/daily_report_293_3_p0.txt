@@ -1,0 +1,110 @@
+Report No;: PR-817
+Customer TURKEY
+Shift:
+(Night)
+Date; 11-05-2024
+Equipitient
+Operation
+Worker
+Begin
+Finish
+Time Spent
+Comments
+Condition
+MC 205
+Cultite
+funaNc"ar
+1.30
+15.57
+Daay
+Comipleled
+MC- 209
+We Ling
+Nacla Saulci
+12.15
+Reculibrated
+Un Progress
+MC 201
+Driling
+wniktor
+Js
+3:
+N/A
+Completed
+Kopc_Yrski
+MC-208
+Drilng
+Nadla
+Dallem
+10.30
+11.34
+Delay
+Compleled
+MC 202
+Drilling
+Daivid
+1J.00
+13.47
+Ocav
+pr Oeres 
+Dzmauceuk
+MC 205
+Assembl 
+Magdalena
+06.30
+06.2
+Delayed
+Witkowska
+MC 204
+Weiding
+Wiktor
+13.15
+J3.4
+NXA
+Delayed
+Kopczyrski
+All production tarfets
+nav
+been lopgen; deviations
+highlighted ahove
+Nate any unscheduled stons
+the
+downtime reg ster Archive this cutput suminary for end-of-dzy reporting Verify the Final
+Tont
+against inventory
+rccords
+Ensure shift- handovcr nctes
+Inciucc Dnv
+pendirg issues
+Part ID
+Planned Qty
+prouucud
+Derect Qty
+Failure %
+Reworked
+Uwagi
+Q5
+Units
+RX-JIOZ
+116
+114
+1,777u
+Scrap
+confirmed
+Lk-8308
+251
+242
+5970
+MS-GoOP
+268
+13.8170
+confirmed
+AL-1150
+104
+14.4236
+Rewam
+needeo
+Approved
+Prepared by:
+Scrap
+bv:

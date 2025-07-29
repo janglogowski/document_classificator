@@ -1,0 +1,63 @@
+echnician
+Jan Kowalski
+Inspection Date
+2023-08-10
+Use this examination summary
+confirm component confarmity. This section details the measured values,
+etances
+and status flags. Refer-
+the dimensiona
+log for all component size readings This report presents the
+dimensiona
+measurements and inspection results
+Entries include both pass/fail markers and deviation magnitudes
+Lodi
+apax
+Vk-y4u
+Tx3zuv
+CE-YosL
+Name
+Hinge Set
+Battery Pack
+Steel Sheet 436
+Rubber
+Ga5*Ct
+Rubber Gayket
+80mm
+Romm
+Measurement
+Thickness
+Length
+Thickness
+arge
+34 48
+33.68
+Observed
+85.54
+98.16
+Diff
+Loluc
+H1E
+AFail
+Refer
+deviation column for
+any out-of-tolerance measurements_
+verify measurement data with CAD nomina
+This assessment reflects the latest metrology results
+Archive this inspection summary for regulatory
+documentation_
+Instrument
+Calibration Log=
+instrument
+Serial No
+Calibration
+Civilv
+68567
+2024-09-12
+CMM
+62973
+2025 03 11
+Heignt
+Pis :
+Crosy-
+Dale

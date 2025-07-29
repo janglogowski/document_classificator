@@ -1,0 +1,84 @@
+BOM Report
+Customer ID: FRANCE
+Coordinator: Laura Rossi
+Date: 2023-11-01
+Product ID: VR-940T
+Internal No;; 5507851
+Order Qty: 352
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Protective
+2.93
+48.60
+Switch
+Sleeve
+tested OK
+SOmm
+Bearing
+2.52
+52.50
+Hinge
+6202 ZZ
+alignment
+adjusted
+Packaging
+1.58
+pcs
+29.00
+Box
+export
+Aluminum
+3.01
+pcS
+76.50
+Switch
+Bracket
+tested OK
+Spring
+0.74
+pcs
+0.05
+2.05
+Imported
+Washer
+M1O
+Packaging
+1.04
+pcS
+12.00
+Box
+Spring
+0.62
+pCS
+1,75
+Imported
+Washer
+M1O
+Packaging
+0.89
+pcS
+1.00
+8.00
+ISO-
+Box
+verified
+Grease
+pCS
+1.90
+93.10
+Switch
+Tube
+tested OK
+250ml
+Total Amount:
+323.50
+Approved By:
+Sourcing Department:
+DCS

@@ -1,0 +1,69 @@
+Machine Log Summary #7497630
+Dale:
+2023-11-02
+Unit Codr
+Equipmcnt
+Scrvico Typo
+uccnnic
+Dountime
+Notos
+MC-238
+piasm
+Lutter
+Inspectioo
+Feter Schmidt
+Plant 1C
+Tightened
+Innse hclts
+MC-218
+CNC E
+Lorrective
+Peier schmidt
+plant 23
+Wcin Fasket
+Mncmir
+redlaced
+MC-235
+Assembly
+teventive
+Jan kGwvals<i
+Plant 28
+Replaced tuse
+Rnboni
+MIC-25S
+Paint Bocth
+nspection
+Jan kowvals<i
+Plant ,A
+MC-217
+pudraulic Press
+Corrective
+Carlos Garciz
+Plant 34
+Densor
+rccalibcateo
+MC-273
+Packaging Ling
+Corrective
+Schmidt
+Plant 34
+MC-226
+Lathe
+Jjeventive
+Cailos Gaiciz
+Piani IC
+Wcin
+replaced
+Ensure that each 5ErVIce entry hjsthe required approvais
+cErVIcE summarie; havi
+ceen tonvarded
+the enrineericg team
+malntenance duratio s arerecorded for performance metrics Check remaining Ilfe-cycles of key components from this repont:
+Lunnration Checred
+libration Venfieo
+Emergency Stop
+25720
+Signed off:
+Performed by: _
+mling
+galel

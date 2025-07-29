@@ -1,0 +1,162 @@
+Inspection performed by Anna Nowak on 2024-05-06.
+The following data captures key dimensions and any deviations identified, Ensure
+measuremont
+methods
+align with calibration standards. This section details the measured values, tolerances
+and status ilags
+Review recorded tolerances against engineering specifications . AIl measured values are timestamped for
+audit purposes
+Check Ihat all dimensions comply with ISO and company standards
+Environmental Conditions: Temperature:
+22.3
+C, Humidity: 35 %
+Product
+Component
+Measuremeni
+Nominal
+Actual
+Delta
+Status (VIX)
+Ref
+JD-70uw
+Rubber
+Depth
+62.04
+61.98
+0.06
+PASS
+Gasket
+BOmm
+RX-310Z
+Steel Sheet
+Length
+27.69
+27.68
+0,01
+PASS
+A36
+TL-9OOX
+Plastic
+Hole
+59.99
+60.06
++007
+PASS
+Rivets
+QP-660F
+Steel Sheet
+Width
+38,44
+38.55
++0.11
+PASS
+A36
+LP-SS5v
+Rubber
+Inner
+6.02
+5.97
+0.05
+PASS
+Gaskct
+Diameter
+BOmm
+QN-770H
+Shalt
+Inner
+8.71
+8.53
+~0.18
+PASS
+so0mm
+Diameter
+VR-940T
+Rubber
+Hole
+34.87
+35.03
++0.16
+PASS
+Gasket
+BUmm
+RE-850C
+Bearing
+Depth
+60.31
+60.44
++0.13
+PASS
+6202
+ZR-2O5R
+Graphite
+Hole
+29.99
+30.19
++0.20
+PASS
+Pad
+VF-2200
+Graphite
+Hole
+66.72
+66.82
++0.10
+PASS
+Pad
+NU-4402
+Steel Sheet
+Height
+44.19
+44.13
+-0.06
+PASS
+A36
+KP-32E
+0-Ring NBR
+Hole
+11,12
+11.13
++0,01
+PASS
+60mm
+SB-140D
+Set
+inner
+99.60
+99.73
++0.13
+PASS
+Diameter
+MC 540X
+Hinge Set
+Height
+63.79
+63.69
+0.10
+PASS
+MR-160H
+Battery
+Height
+58,23
+58.41
++0,18
+PASS
+Pack
+PW-515Y
+Plastic
+Depth
+66.94
+67.03
++0.09
+PASS
+Rivets
+RE-850C
+Rubber
+Depth
+73.57
+73.59
++0.02
+PASS
+Gasket
+sumM
+Hinge

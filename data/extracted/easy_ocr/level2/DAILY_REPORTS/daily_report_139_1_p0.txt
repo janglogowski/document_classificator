@@ -1,0 +1,102 @@
+Production Log
+Report No :
+PR-385
+Supervisor;
+SWEDEN
+Department;
+Carlos Garcia
+Date;
+Shitt:
+16-05-2025
+C (Night)
+Machine
+MC-209
+Worke
+Cutting
+Nadia Sauter
+otai
+MC-201
+Welding
+1115
+11.39
+Remarks
+Aghieszka
+09,30
+Recalibrated
+Zieliniska
+10:14
+MC-2O?
+Polishing
+N/A
+wiktor
+Kopczvnski
+09.30
+09.50
+MC-?05
+N/A
+Dawid
+09.30
+Oszmianczuk
+10 10
+MC 204
+Recalibrated
+Wiktor
+11,15
+Kopczynski
+12.28
+MC-203
+Drilling
+Rec?
+librated
+Przemyslaw
+08.00
+08.51
+MC-202
+Wasik
+Assemblv
+Magdalena
+09.15
+10,38
+MC 207
+Witkowska
+Assemblv
+Tun kJialsk
+14.00
+13.48
+Recalibrated
+utem
+BZ-6S0F
+Qty
+Achleved Qty _
+216
+ected Qty
+Rejection
+Fi-7Jny
+5.0970
+FT-730X
+00R
+W-9Oo
+10.5990
+CE-9USL
+Rework needed
+8-9732
+confirmed
+14.36%
+Rework necded
+9802
+Prepared by;
+Approved by:
+Annj
+Nowak
+Carlos Garcia
+Cuttomcn:
+Machining
+From
+Finksh
+'Tine
+Cutting
+Drilling
+Target
+Notes
+50rJp
+-DoS1

@@ -1,0 +1,103 @@
+Dimensional Log
+Inspection performed by Peter Schmidt on 2023-10-12.
+parts This section Getails the measured values,
+The inspection register below highlights any out-of-tolerance
+traceability. Ensure
+measurement
+summary 0f measurements supports
+metrology
+eolerances
+Jnd status
+flags- This -
+for each component listed beiow;
+calibration standaras
+Please review tne
+inspectlon
+methods allgn with
+Environmenta
+Conditlons: Temperature
+21.2
+Humidity: =
+Delta
+Status (ViXI
+dim
+Nominal
+Actua
+urem
+Code
+Component
+L0 0
+PASS
+Power Swltch
+Hole
+59.51
+PASS
+GL9805
+48.91
+48.82
+LP-SSSV
+Steel Sheet
+Thickness
+A36
+36.46
+40,01
+PASS
+aP-S60F
+Hinpe Set
+Length
+36.45
++0.00
+PASS
+LP-555"
+Bearing 6202
+Height
+92,33
+92,33
+L0 07
+PASS
+13.83
+L5.Ju
+MS-GOOP
+Graphite Pad
+Hole
+92.56
+PASS
+NU 440Z
+Power Switch_
+Height
+92.69
+-0.18
+PASS
+Wfi
+94.48
+94.30
+HF-390A
+Switch
+Diamcter
+25.25
+25.10
+0.15
+PASS
+RE-850C
+Plastic Rlvets
+Heient
+99.10
+~0.06
+PASS
+Ruboec
+Thickness
+99.16
+SL-430M
+Gaskel
+ROrnn
+0.09
+PASS
+Thuckness
+69.41
+69.32
+Gk-770
+0-Ring NBR
+EDmm
+fesults
+0.09
+Povie

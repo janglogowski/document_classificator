@@ -1,0 +1,100 @@
+DAILY PRODUCTION REPORT
+Repait
+Customer:
+PR 433
+Supervisor:
+GREECE
+Departmont:
+Anna Nowak
+Logistics
+Shift:
+01-12-2023
+(Evening)
+Machine
+Proccss
+Dperaton
+Begin
+Finish
+Duration
+Remarks
+MC-201
+mini
+Matclsz
+07.03
+07,39
+Jarvna
+MC-205
+MC-203
+Kcwalski
+06.15
+07.10
+Driling
+Nadia Sauter
+11.30
+13-0f
+MC-205
+Polishlng
+Wiktor
+10:15
+12.08
+113
+Kopczynski
+MC 207
+Axscinbly
+nne
+Nowak
+MC-208
+13,15
+15,02
+Mateusz
+12.15
+12.48
+30zyna
+MC-203
+Assembly
+09.15
+11:03
+Witkowska
+NYA
+Part ID
+Planned
+Actual Qty
+Scrap Qty
+Failure %
+Output
+Comments
+SB-140D
+14.839
+Scrap
+GL-980S
+292
+confirmed
+HF-390A
+250
+5.8280
+Rervork nseded
+ON-770H
+15.2090
+0.6316
+Scrap
+CE-9OSL
+250
+213
+continmned
+14.8098
+ccnd
+confizred
+Prepared
+Approved
+Lauis
+Lavce
+No::
+Dute
+Welding
+Welding
+Dalay
+Welaine
+Magdalena
+py:
+Rossi
+Aousi

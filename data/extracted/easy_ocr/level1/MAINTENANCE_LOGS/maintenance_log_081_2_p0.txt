@@ -1,0 +1,79 @@
+Maintenance Checklist Report
+2024-02-01
+This log
+eccros
+all maintenance activities performed
+equipmeni
+Please review this log for recent service dates
+types
+and remarks
+Check that _
+dountime
+evpnts
+afe profariy
+categorized
+lngged. This section captures
+equipment slalus and any maintenance cbscrvallons
+Spare Parts Used;
+Part Name
+Part No
+Oty Used
+Sensor Module
+P-38 22
+Li-Ion Battery Pac*
+P-2653
+Unit Code
+Equipment
+Type
+Operator
+Duration
+Check
+Comments
+MC-206
+Plasma
+Corrcctlve
+Laura
+Rossi
+2024-07-29
+Callbratlon
+check OK
+MC-222
+Piasma
+Preventne
+Peter
+2023-11-21
+Changed oil
+Culler
+Schmui
+and (llets:
+MC-203
+Lathe
+Praventie
+Anna
+2023-09-04
+Wooden
+Nowak
+checzeo
+MC-298
+Lasc
+Inspecbon
+Laura Rossl
+2024-06-09
+Alignment
+Culler
+acilsted
+MC-231
+Paint Booth
+Inspecbion
+Laura Rossi
+2023-10-29
+Sarso
+recalibrated
+Approved DY_
+Cano
+Garcia
+Senvicec
+nnanovak
+Cuder
+nailoi
+hingus

@@ -1,0 +1,97 @@
+Maintenance Checklist Report #4913634
+Date: 2023-11-18
+acnint
+Equipment
+Scrvice Typc
+Opcrato
+Duration
+Commcnt =
+MC-2JI
+Lathe
+Preventive
+Anna Nowak
+Flant 1C
+Worn gaske:
+Tcdincud
+MC-211
+Assembiy
+Corrective
+Anna Nowak
+Fant ZE
+Cblidration
+Ronal
+cncdk
+NC-229
+Laser Cutter
+Insp ection
+Lauro
+Royyi
+Plant 2B
+Woogen palet
+checked
+MC-ZJU
+Packaging
+Preventive
+Peter Schmidt
+Flant 3-
+NoissuBS
+taund
+MC- 224
+Laser Cutter
+Inspeclion
+Cafios Gurcii
+Plant 34
+Juskul
+feplaced
+MC-288
+Larencuner
+Corrective
+Lama k0R8
+plant Fr
+No 99428
+touno
+MC- ?78
+48 9 eruiy
+Preventive
+Kannaaki
+Plant ?8
+Robot
+MC-206
+Assembly
+Corrective
+4nna Nowek
+Plant ZP
+Replaced fuse
+Robot
+MC-259
+Packaging
+Preventive
+Cadcs
+afcie
+Plant IC
+Retilled
+IHLP 46
+This
+"urinimy
+upputts the assut-munagerent dashboard
+AIlmalintenalncu duraltiants ilnttucdedud onncrtonmnancu
+MAmfice
+Overa
+equipme
+condition
+satisfactor
+0o31-maintenance
+Fnsufetha
+each senace
+required
+aporovblS
+Maintenance notos are archived for compliance audits_
+Lubilcatlon Checked
+Calbration Veritled
+Emcrgency
+Seanoa
+Auinonized Dy:
+Operator:
+Worn
+(08
+Stop

@@ -1,0 +1,48 @@
+Inspection Results Summary
+Inspector
+Peter Schmid
+Inspection Date
+2024 01-13
+Product Ref
+PU-515Y
+KP-320E
+CN-150C
+Lk-B9OB
+Component
+Wooden Pallet
+Baltery Pack
+Steel Sneet 436
+Shalt 500mm
+Mcasurement
+Inner Diameter
+Height
+Lenain
+Depth
+Target
+37.23
+32.36
+59.54
+82.05
+Observed
+37.13
+32.44
+59,64
+82.12
+Dclta
+Pass Fail
+Ensure status Ilags are updated in the quality management syster. All dimensions wilhin tolerance have
+been marked as OK.
+Components failing inspection require immediate review and corrective action. This
+Ciosure memo
+confirms that dimensional checks are complete.
+Instrument Calibration Log:
+Instrument
+Serial No_
+Last
+Calibration Date
+Micrometer
+80475
+2024-09-02
+Mcrome er
+59132
+2025-04-19

@@ -1,0 +1,43 @@
+Inspection Register
+Quality Check Items
+Inspection
+Defect Class
+Observations
+Depth
+Producl Requirements
+Dead
+Ilve insecl
+Level III
+packaging
+Screls loose or missing
+Level
+Minor issue observed
+Exposed nal
+with sharp point
+Produci doesnl power on
+Level
+Needs review
+Rubber lexlure 0r
+ossiness
+Minor issue observed
+mismatch
+product siz0
+Level
+Rubber
+Switch nol waiking
+Mnor issue observed
+Balten_nol included
+Level
+Needs review
+Package
+nol sealed
+Level II
+completely
+Reference Standards;
+Standard
+Edition
+RoHS
+2015
+IEC 61010
+Ath Ed
+Wrong

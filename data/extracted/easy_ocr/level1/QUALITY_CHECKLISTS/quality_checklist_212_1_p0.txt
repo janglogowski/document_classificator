@@ -1,0 +1,95 @@
+Quality Review
+#3865634
+Date: 17.07.2025
+Product
+CE-9O5L
+Customer ID
+TURKEY
+Item Description
+Support Foot Steel
+This sectian details
+quality requirements and test points for the batch; All checklist entries
+timestamned tor
+traceability- Ensure all non conforming marks are clearly documented. Below are tne items
+be verified during the
+final product review Please
+review each checklist
+mark the sampling results
+Confirm that sampling levels
+comply with custome
+aereements
+Check that inspection steps follow the approved procedure
+Use this list to
+confirm adherence
+AQL and safety standards This summary supports the production-release quality gate: This
+closure 5ummary indicates compliance with inspection cnteria
+Review Points
+Inspection
+Category
+Lomments
+Depth
+Component Criteria
+Hold
+Wot assem
+drawing
+Leveli
+Dust{debris inside packaging
+Critical impact
+Uncorrect prientation
+Level
+Mnor ISSue Obsenved
+Packaging does not match
+Critical impact
+slgned sample
+Wood splinter or sharp polnt on
+proquct
+Missing
+warning label
+Nnor Esue Obsenved
+Painl smncarine
+scraicnes
+LevCh
+Wo
+product size
+Leve
+Needs
+review
+Carton
+damaged or markings
+Level |
+Minor issue observed
+incorrect
+Missing distributo
+intormatior
+Levei
+Visual defect on housing
+Expased nail with sharp noint
+Level Il
+Needs
+review
+Missing safety labe
+LpvP
+Needs revieu
+Functionality test failed
+Llvci
+AQL Level
+Critical
+Vjior
+Mmor
+Default
+Customer
+specific
+Checklist results have been reported
+the quality manager. Archive this summary
+the audit-readiness folder.
+Itcms marked for hold require additiona
+reviev: before
+Icasc
+Ensure that all remarks have corresponding
+Cuicence
+attachments
+Flag any open issues
+the CAPA tracking system: All critical and major inspection points have been
+addressed_
+Confirm that all sampling results are within acceptable limits
+noint

@@ -1,0 +1,106 @@
+Equipment Record Report
+2024-04-18
+This maintenance
+exirac
+preparec
+compliance audit trails  Confirm tha
+service intervals follo the preventive
+schedule_
+Fnsure
+all safety checks were
+completed
+servicing
+Below is ine summary
+Sanice
+actions and
+Doknbmcs
+cach machine Usu Ihls $ Ummary
+orecast parls
+rcplacement and resource ncods
+Hechniciam
+commenis
+are recorded for maintenance trend analysis,
+Spare Pants Used:
+Part Name
+Part No
+Otx Used
+Oil Filter
+3-5575
+Oill Filler
+P-2671
+Sensor Module
+3671
+Machine ID
+Equipment
+Service
+Operator
+Dowintime
+las
+Check
+Area
+Comments
+Type
+MC-218
+Paini Booln
+ComucLIVC
+2025-06-05
+Sensor
+Kowalski
+recalibraico
+MC-262
+Packaging
+Inspection
+Carlos
+2023-10-23
+Replaced
+Garcia
+fuse (SAL
+MC-251
+Latne
+Prevenve
+Carlos
+2024-09-07
+Alignment
+Gatcia
+hinges
+aqmlted
+MC-241
+Lalhe
+Prevenne
+Peler
+2024-03-06
+Tighlened
+Schmidt
+ldose
+bolla
+MC-217
+Plasma
+Preventive
+2024-01-13
+Alignment
+Cuter
+Kowalski
+aqiuste @
+MC-298
+Hydraullc
+Inspeclion
+2025-01-08
+Worn
+Press
+Kowalski
+gasket
+replaced
+MC-211
+Paint Boolh
+Preventive
+2025-02-26
+Wvoocen
+Kowalski
+paliyl
+checked:
+Authorized DL
+Jankcwjiski
+Operalor;
+Jan Kowvdisk
+Curing
+hingos

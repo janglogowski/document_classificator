@@ -1,0 +1,133 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-2i8
+Customer: NORWAY
+Shift: € (Night)
+Date: 1404-2025
+Equipment
+Operation
+Operator
+From
+End
+Time
+Remarks
+Status
+Ime
+Spent
+MC-204
+Drtling
+Agnieszka
+08.30
+09.09
+Completed
+Zielinska
+MC-208
+Assembly,
+Przemysizx
+Oo.Co
+06-50
+Recalbraled
+Compteled
+Wasik
+MC-208
+Drilling
+Piott
+08-00
+09-32
+Recalibrated
+Lextencowsa
+progress
+HC-208
+Assemoi
+Anna Nowak
+09.15
+10.45
+Deal
+Compieted
+MC-205
+We drng
+Mateusz
+10.15
+11.20
+Delay
+Completed
+Jamma
+MC-208
+Assemol
+Nadia Sauter
+08-30
+10-26
+116
+Completed
+MC 201
+Drlling
+Magdalena
+08-15
+09-40
+Ok
+Delayed
+Hkouska
+MC-206
+Drilling
+Nadia Sauler
+13.00
+13.35
+NIA
+piogiess
+MC-207
+Polishing
+Agnieszka
+08.30
+10.13
+103
+Delay
+Zielinska
+ptogres?
+Coniimm tnat scrap percentagez align Knth qualty benchmarks_ Referto remanks for any rework cr qualty
+concems_ Ensure sh f-hancover note3 incluce any pending issues_ Check matenal consumption against
+standard Us2g2 rates;
+operalor notes have been archned for reviel
+Item ID
+Target Oty
+Produced
+Scrap Oty
+Rejection
+Rewotk
+Hotes
+O
+Count
+LP-SS51
+189
+176
+-889
+Scrap
+contnted
+JD-7o0
+255
+225
+11.7678
+Bcrap
+connmer
+LK-8908
+105
+10.4890
+Rework
+needed
+CE-905L
+221
+200
+9.5090
+Reror
+needed
+OP-CGOF
+286
+274
+20*
+Sctap
+confmed
+VF-220D
+156
+9,6220
+Sctap
+confmed
+Approved Dy-
+Prepared by:

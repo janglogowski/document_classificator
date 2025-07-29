@@ -1,0 +1,61 @@
+Customer ID: SWEDEN
+Prepared by: Jan Kowalski
+Product ID: MC-540X
+Internal No:: 4043209
+This section outlines the parts, unit prices and tota
+amounts ior assembly- Below is the
+component listing and associated costs for the upcoming production batch_
+Use this breakdown
+verify sourcing and cost estimates- This document provides
+detailed breakdown of all
+components required for the assembly process: This extract shows the bill of components and
+total projected spend_
+No
+Item
+Plastic
+Spring
+Protective
+Heat
+Clamp
+Grease
+Description
+Rivets
+Washer
+Sleeve
+Resistant
+Tube
+M1o
+s0mm
+Sleeve
+120mm
+250m1
+Qty
+642
+578
+936
+536
+909
+UOM
+PCS
+PCS
+PCS
+Unit Price
+0.05
+2.70
+Amount
+165.40
+32.10
+1040.40
+2527.20
+938.00
+1727.10
+Remarks
+Certified
+Imponted
+Certified
+For expont
+Imported
+patcn
+patch
+TOTAL: 6,430.20
+Ring

@@ -1,0 +1,55 @@
+Inspection Results Summary
+Inspector
+Laura Rossi
+peciion Date
+2024-01-20
+Article No
+ET-730X
+NE245A
+SB-1400
+HF-390A
+ZR-205R
+Part Name
+Ballery Pack
+Hex Bolls M1z
+Graphile Pad
+Sel
+Ballery Pack
+Measuroment
+Depth
+Hole
+Hole
+Hole
+Hole
+Targel
+7.30
+94.09
+44.85
+83.93
+80.01
+Actual
+7.44
+94.02
+44.90
+83.83
+79,98
+Diff
++0.14
+40.05
+0.10
+Paeeifai
+Refer t0 deviallon column for any out-of-tolerance measuremients: Revlew failed Ilers against the
+correclive-action register: Overall inspection summary indicales acceptable quality levels. Please address
+any NOK items before proceeding
+the next production stage ,
+Hnstrument Calibralion Log:
+Unstrument
+Serlal No.
+Last Callbration Date
+CMM
+19883
+2024-08-19
+Mcrometer
+22794
+2024-10-19
+Hnge

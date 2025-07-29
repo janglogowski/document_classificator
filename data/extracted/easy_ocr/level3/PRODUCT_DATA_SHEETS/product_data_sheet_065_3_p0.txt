@@ -1,0 +1,65 @@
+Unit Data
+Specification
+Documunt No
+PR-683
+Product ID; VF-220D
+Model Type
+Date
+2024-12-18
+Fluld Flou
+Control Unif
+Power
+30 Umin
+Capacity
+Akw
+Noise Level
+480 V! 60H4z
+Protection Class
+Ip3s
+68 dBfA)
+Filtratlon
+VM
+Dimensions (LWxH)
+Aluminum Frame
+Vm
+1200
+retum
+Time
+X7OX 110Qmm
+Lace
+Matenals]
+Correcior 2p
+Materal
+0-hing NBR
+Glass-Flled Mon
+Specilication
+Graphite Pad
+Rubber (NBR)
+Fuse JA
+Graphite
+Electical grade
+Ceramic Oxide
+Class
+Atolerance
+DINEN 10025
+Prepared by: Jan Kowalski
+Approved by: Laura Rossi
+Pncumatic _
+Design
+Pressure
+Motor 5
+180 Dar
+Operating
+Voltage
+Battecy {
+Frame
+Materal
+Inline;
+charglig
+Component
+Overvier:
+Rex
+6omm
+Nitrle
+U-ueter
+Paoa

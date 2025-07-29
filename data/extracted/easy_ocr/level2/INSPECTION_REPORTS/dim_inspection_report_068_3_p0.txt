@@ -1,0 +1,125 @@
+Inspection Results Summary
+Inspection performed by Laura Rossi on 2025-07-02.
+Use thls
+Sumunary (0
+Irlgger
+any correciive actions
+(ollowing dala captures key dlmensions and
+any deviailons Ideniillied: The Inspecllon register below highlights any out-ol-lolerance parts; This summary
+of maasurererts supports metrology traceability: All measured values are (Imoslamped for audlt purposes
+Environmental Condiilons?
+Tempuralure
+21.1 "C; Humldlty: 51 %
+Product
+Component
+Dlm;
+Nomlnal
+Actual
+Delta
+Status (Vix)
+Rol
+LK-890B
+Woodar
+Hoighl
+02,99
+02,93
+~0,06
+Pallal
+DX-777T
+Plastic
+Dopin
+74,23
+74,32
+10,09
+Rivels
+TR-2QOB
+Graphlto
+Hole
+45,63
+45,76
+40.13
+Pad
+SL-430M
+Bearing
+Innor
+25,64
+25,8 |
++017
+6202 ZZ
+Dlamoler
+TL-9OOX
+Hex Bolls
+Depth
+79,81
+79,67
+0,14
+M12
+S8- 140D
+Ballery
+widlh
+17.16
+17,09
+Pack
+QN-770H
+Graphite
+Hole
+12.41
+12.30
+0,11
+Pad
+HF-J9OA
+Wooden
+Thickness
+5,49
+Pallet
+RE-850C
+Baltery
+Lengin
+29.59
+29.74
++0,15
+Pack
+TL-9uoX
+Ballery
+unc
+29,09
+28,93
+0.16
+Pack
+Diameler
+NE-?454
+Baitery
+Length
+44,21
+44,17
+0,04
+Pack
+XK-610U
+Steel Sheel
+Doplh
+7.12
+7.16
++0,03
+A36
+NU-4402
+Graphito
+Holght
+58,08
+58,23
++0 15
+Pad
+Pw-515Y
+Plastic
+Length
+59,69
+59,47
+~-0,12
+Rivats
+OP-BG0F
+Graphila
+Length
+53,81
+53,92
+Pad
+The
+FoSUlts

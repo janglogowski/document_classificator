@@ -1,0 +1,63 @@
+BOM Repont
+Cuustomer ID: FRANCE
+Coordinator: Anna Nowak
+Date: 2023-05-24
+ProdLcb ID: PL-601Z
+Interal
+No:
+9383615
+Order Qty:371
+Refer t0 this parts register t0 plan raw-material purckasing: Ensure each component meets Ihe
+specified quality standards. This document provides
+detailed breakdown of all components
+required for Ihe assembly process:
+No
+Item
+Consumption
+Extra
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Control
+2.01
+5%
+pcs
+12.00
+420.00
+ROHS
+Panel
+compliant
+Mount
+Epoxy
+0.61
+29/
+7.30
+102.20
+Resin Kit
+Clamp Ring
+1.42
+590
+pCS
+1.75
+75.25
+ROHS
+120mm
+compliant
+Slainless
+2.32
+0%
+pcs
+0.35
+6.65
+ISO-
+Bolt MB
+verified
+Total
+Amount:
+604.10
+Approved Ry:
+Sourcing Department:
+Pcs

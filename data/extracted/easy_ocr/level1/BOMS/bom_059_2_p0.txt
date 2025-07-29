@@ -1,0 +1,35 @@
+Customer ID: FRANCE
+Prepared by: Peter Schmidt
+Product ID: TX-820V
+Internal No.=
+6516755
+This section outlines the parts, unit prices and total amounts for assembly. Review the materials
+tally for compliance with budget allowances_
+The following table summarizes the materials and
+quantities needed for the current project: Please review the itemized list of parts and material
+specifications before procurement
+Item
+Cable Tie Pack
+Aluminum
+Shaft S0Omm
+Stainless Bolt MB
+Description
+(100)
+Bracket
+Qty
+556
+357
+402
+UOM
+pcs
+Unit Price
+pmount
+432.25
+502.00
+2,856.00
+140.70
+Remarks
+High grade
+ISO-verified
+Eco compliant
+TOTAL: 5,930.95

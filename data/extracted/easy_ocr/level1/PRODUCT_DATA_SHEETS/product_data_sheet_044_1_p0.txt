@@ -1,0 +1,64 @@
+Unit Data Specification
+Praiect:
+TY-350G
+Report
+UMd `
+PR-929
+Prepared Bv:
+Peter Schmidt
+Approved By:
+Lnna kowak
+Location; Plant 34
+Date; 2023-11-14
+Use thls spec sheetto validate assembly Instructions
+This report extract
+preparec
+verification audits
+This technical overview" supports the product-release checklist
+Bela
+are the technical
+Jarameters and constmucion
+materials forthe unit The following information outlines performance characteristics and design data.
+ype
+pneumatc
+Lontro
+Unic
+Design Pressure
+180 bjr
+Throughput
+48 Llmin
+Operating Voltage
+400
+50 Hz
+Filtration
+10 um retum, 25 pm
+Frame Material
+4luminum Frame
+suction
+Working Temp
+Range
+-0"C
+50"C
+Reservoir
+Capacity
+Oil Type
+HLP 68
+Cooling_
+Air-cooled oil radiator
+Dimensions (LxWxHL
+1200
+700 * 1100 mm
+Total Weight
+180k8
+Protection Class
+Noise
+Leve
+72 dBIA)
+Mounting
+Skid base with vibratlon
+Battery Capacity
+10 Ah
+puds
+Mator Powcr
+desien
+Unit

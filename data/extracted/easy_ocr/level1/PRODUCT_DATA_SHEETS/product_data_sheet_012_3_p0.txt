@@ -1,0 +1,37 @@
+Unit Configuration
+Document No_
+1611235
+Product ID  XK 610U
+Date: 2025 06 29
+Mode
+Type
+Pneumatic Control Unit
+Rated Pressure
+180 bar
+Flow
+60 Lmin
+Voltage
+480 
+60 Hz
+Noise Level
+68 dB(A)
+Mounting
+Skid base with vbration
+pads
+Charging_
+Capacity
+2 Ah
+Mlotor power
+H1kW
+Working Temp
+Range
+5Cto45"C
+Dimensions
+LxWxH)
+1000
+650 * L0QQ mm
+Prepared by: Anna Nowak
+Approved by: Peter Schmidt
+Rate
+Time
+Battery

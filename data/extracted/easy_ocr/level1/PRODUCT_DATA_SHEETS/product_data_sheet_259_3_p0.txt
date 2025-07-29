@@ -1,0 +1,63 @@
+Product Data Sheet
+Internal No.
+PR-665
+Product ID: TR-ZOOB
+Date:
+2025-06-25
+UniType
+Hydraulic Power Unil
+Operating Pressure
+300 bar
+Throughput_
+30 Lmin
+Operating Voltage
+400 V { 50 Hz
+Total Woight
+180 kg
+Frame Material
+Aluminum Frame
+HLP 46
+Protection Class
+IPS5
+Service Interval
+1000
+Motor Power
+55kW
+Working Temp. Range
+to 45"C
+Mounting
+Skid base with vibration
+pads
+Component Materials Overview:
+Subcomponent
+Raw Matera_
+Specification
+Cooling
+Pack
+Silicone Rubber
+RoHS compliant
+Cable Tie Pack (100}
+Nitrile Rubber
+RoHS compliant
+Teton
+Tape Roll
+Tellon Tape Rol
+ISO 2768
+Steel Sheet A36
+Carbon Steel A36
+RoHS compliant
+Wiring
+LdlWd
+JC
+Rigid
+Electrical grade
+Rubber Gasket 8mm
+Nitrile Rubber (NBR
+UL-listed
+Insulated Tube 25mm
+Thermoplastic Polyurethane
+Electrical grade
+(TPU)
+Prepared by: Anna Nowak
+Approved by: Laura Rossi
+Iype

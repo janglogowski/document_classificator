@@ -1,0 +1,99 @@
+COMPONENT BREAKDOWN
+Review the materials tally for compliance with budget allowances: Ensure each component meets
+the
+specified quality standards. This document provides
+detailed breakdown of all components
+required for the assembly process. The component roster below includes unit costs and batch
+codes
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Rubber
+15.00
+Hinge
+Gasket
+alignment
+80mm
+adjusted
+Spring
+0.05
+'90
+Eco
+Washer
+compliant
+M1O
+Epoxy
+pCS
+"30
+328.50
+Urgent
+Resin Kit
+Ventilation
+5.60
+156.80
+Imported
+Grid
+Ventilation
+5.60
+207.20
+Urgent
+Grid
+Epoxy
+330
+306.60
+Certified
+Resin Kit
+batch
+Plastic
+pcs
+0.20
+Imported
+Rivets
+Insulation
+pCS
+3.20
+19.20
+Switch
+Foam Pad
+tested OK
+Insulation
+pCS
+3.20
+153.60
+Imported
+Foam Pad
+Stainless
+pCS
+11.55
+Imported
+Bolt MB
+Battery
+pCS
+25.00
+1,225.00
+Switch
+Pack
+tested OK
+Hinge Set
+2.50
+107.50
+Li-Ion
+battery
+installed
+Review this summary against the master budgeting sheet: This final review confirms that all items
+are ready for requisition. Final amounts include handling and logistics costs where applicable
+Customer ID: BELGIUM
+Coordinator: Jan Kowalski
+Date; 2023-11-21
+Product ID: NE-245A
+Internal No_
+6093785
+Order Qty: 203
+Total Amount:
+2,534.05
+DCS
+pC

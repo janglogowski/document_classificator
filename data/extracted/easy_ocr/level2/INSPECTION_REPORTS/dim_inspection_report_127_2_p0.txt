@@ -1,0 +1,68 @@
+Measurement Summary Sheet
+ngoactor
+Inspociion Date
+Annf
+Nowak
+2023-10-16
+Anticle No_
+GL-980s
+Componont
+Snali 500mm
+320E
+NE-2454
+42-300T
+Dim:
+ncknass
+Ring_NBR 60mn
+Hex Bolts M12
+Shal
+Komina
+Urmer
+Diamaler
+nner
+Diamater
+somim
+Observed
+77.67
+64,68
+48 6t
+Thckness
+77.83
+64.84
+42.78
+Diff
+70.16
+48 74
+42.69
+PassiFail
+7013
+PASS
+PASS
+PASS
+PASS
+Archiva Ihis inspeclion
+fallow-up
+surmary for regulatory documentation
+Record any measurenient
+analysis , Components failing ingpaction requlre immediate
+anciialias for
+address any NOK ilems before
+and coiective action_
+Piease
+proceeding
+rext production stage.
+Instrument Calibration
+Instrumont
+Serial No:
+Caliper
+98856
+Last
+Calibration Date
+2025-01-19
+19153
+2024-12.20
+34044
+2024-08-00
+Tevib #
+Caiper
+Cper

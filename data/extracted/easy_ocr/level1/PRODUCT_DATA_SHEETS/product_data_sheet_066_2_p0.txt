@@ -1,0 +1,52 @@
+Unit Configuration
+This technical overviev" supports the
+droduct-reieuse
+checklist This data sheet provides kev specifications and
+mjtcrg
+details Below are the technical parameters and construction material
+for the unit: All data entrics are
+traceable
+design revision history: Check that
+Materia
+specs align with supplier certifications This section details
+the configuration and parameter set forthe praduct;
+Product ID
+LP-5S5V
+Report
+PR-338
+Preparec
+bv: Jan Kowalski
+Approved by: Jan Kowalski
+Date; 2025-02-08
+Unit Type
+Fneumatic
+Contral Unit
+Design Pressure
+210 bar
+Fluid
+75 L{min
+Supply Voltage
+60 Hz
+Service Intenval
+1000 h
+MOISe
+Level
+70 DBLAI
+Total Welght
+250 kg
+Prolechon
+Cias
+PG?
+Cooling
+Water- cooled
+exchaneer
+Flag any missing parameters for urgent specification updates
+Use this summary
+Cross check with BOM and
+inspection renarts
+Confirm that alltest conditions are accurately represented
+Material chaices and process data
+have been verified for compliance
+Check that all section headers follov' the product template.
+No :
+Flov

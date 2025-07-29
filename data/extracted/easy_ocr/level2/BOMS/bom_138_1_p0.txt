@@ -1,0 +1,71 @@
+COMPONENT BREAKDOWN
+Customer ID: FINLAND
+Coordinator: Laura Rossi
+Date: 2023-01-15
+Product ID: MS-600P
+Internal No.
+394801 -
+Order Qty:174
+All line-item costs are current as per vendor quotes_
+The
+following table summarizes
+the materials
+and quantities needed for the current project. Review the materials tally for compliance with 
+budget
+allowances
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Clamp
+2.39
+1026
+pcs
+1.75
+28.00
+120mm
+Senso
+Clip
+596
+0.95
+21.85
+For=
+expont
+Control
+0.61
+1096
+pcs
+12.00
+48.00
+SKF
+Panel
+brand
+Mount
+Digital
+1,54
+296
+15.00
+135,00
+ROHS
+Display Unit
+compliant
+1.14
+10%6
+pcS
+0.30
+11.10
+ROHS
+compliant
+Cross-verify totals with the ERP system for consistency: Final amounts include handling and
+logistics costs where applicable;
+Total Amount:
+243.95
+Approved By:
+Sourcing Department:
+Ring
+Fuse

@@ -1,0 +1,107 @@
+Component Overview
+Praiect:
+MX-450L
+Unerna
+5803618
+Prepared Bv:
+cjrios
+arcia
+Approved By:
+Lnna kowak
+Location; Plant IC
+2025-01-30
+Confirm tnat performance range
+comply with project requlrements
+Please revlew the specifications and material
+positlon Ilsted below. Entries include both mechanica
+and electrical specifications. This
+Eace
+prepared
+for design-verification
+Fnsure
+referenced
+standards
+date;
+Configuration Iype
+Hydraulic Powe
+uperatine
+Pressure
+300 bar
+Fluid Flow
+60 Limin
+Supply
+230 :
+50 Hz
+Control Valve
+Directional 43
+Battery Capacity
+10 Ah
+Cooling
+Water-cooled exchanger
+Working Temp
+Range
+10*Cto50 c
+Mounting
+Skid base wlth vbrallon
+Motor Power
+7.5kw
+pads
+Pump Type
+Vane PuMp
+Reservair Capacitv
+120
+Charging Time
+Service
+interva
+S00
+Frame Matertal
+Slainiess SLCE
+Fraie
+Total Weight
+230kg
+Dimensions (LxWxHI
+1200 * 700 * 1100 mm
+Protection Class
+IP54
+Noise Leve
+70 dB(A)
+Refer
+purameter
+table for operating ranges
+and tolerances: Document contro
+numbers are included for
+traceability- Material choices and process data have been verified for compliance: Overall configuration
+within
+detined design and satety margins
+Archive this summary for future design-change management; Use this summary to
+cross
+check with BOM and inspection reports
+Material of Construction:
+Part
+Base
+Nut M6
+Zinc-Plated Stee
+Hex
+Zinc-
+Steel
+Pack
+Smicone Rubber
+Heat Sink ALU
+Kiuminum
+6061-T6
+Digital Display Unit
+ABS Plastic
+Graphite Pad
+Graphite Pad
+Ring NBR GOmm
+Nitrile Rubber INBR)
+Wooden Pallel
+Trealed
+Pine Wano
+Datc
+repont
+audite
+Voltage
+Bolts
+plated
+ling

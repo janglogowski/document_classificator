@@ -1,0 +1,75 @@
+Product Overview
+Ensure allreferenced standards
+are up t0 date;
+Use this spec sheet t0 validate assembly instructions: The parameter
+register below includes operating limits an] ratings Check that all material specs align with supplier certifications
+The following information outlines performance characteristics and design data. Entries include both mechanical and
+electrical specifications Please review the specifications and material composition listed below:
+Product ID:
+LP-SSSv
+Interna
+4732969
+Prepared by: Carlos Garcia
+Approved by: Peter Schmidt
+Date; 2025-06-01
+Unlt;
+Cooling Circulation
+Operating Pressure
+210 bar
+System
+Flow Rate
+60 Lmin
+Operating Voltage
+230 V
+50 Hz
+Working Temp: Range
+10"C t0 55"C
+Batten Capacity
+J0 Ah
+0l Type
+HLP 46
+Cantrol
+Valve
+Manual Overde 3/2
+Use this summary
+Cross
+check with BOM and inspection
+Ensure glossary terms match the engineering
+nomenclature. This summary reflects the latest ;evision of the product data , Confirm that all test conditions are
+accurately represented. Check that ,
+secrion headers follow the product template Material choices and procers
+datz have been verified for compliance- Ensure (hat the listed materials are approved for the application;
+Material of Construction:
+Subcomponent
+Base
+Heat Sink ALU
+Aluminum 6061-T6
+Grapbite Pad
+Graphite Pad
+Thermal Fuse
+Ceramic Oxide
+Digital Display Unit
+Astc
+Stoel Sheet A36
+Carbon Steel A36
+Stalnless Steel 304
+Power Switch
+Polvcarbonatc
+Copper
+Cable Tie Pack (1001
+Nitrile Rubber
+NA
+Wooden Pallet
+Treated
+Wood
+Batten  Pack
+Lithium-Ion Cell Pack
+Conne tor ZP
+Filled Nylon
+Fuse 5A
+Ceramic Oxide
+Type
+repons
+Hinge
+Pin
+Giass-

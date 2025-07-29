@@ -1,0 +1,95 @@
+Machine Log Summary #3504479
+Date: 2024-02-12
+Machine
+Machine
+Type
+Technician
+Downtime
+Site
+Comments
+MC-291
+Packaging
+Inspection
+Jan Kowalski
+pPan 44
+No IssuCs
+Houng
+MC237
+Conveyor
+Cqrrective
+Kowalski
+Flant 2B
+MC-250
+Plasma
+ccectvC
+Anna Nowak
+Piant 2B
+No Issues
+Joumo
+MC-270
+Laser Cutter
+Cctrective
+Jan Kowalski
+Plant 1C
+Wocden
+pallet
+checked
+MC 260
+Packaging
+Inspectiom
+Jan Kowalski
+Piant 2B
+MC-263
+CNC Milling
+Cotrective
+Carlos Garcia
+Pini 24
+Reolacec
+Naching
+cuolan
+MC-241
+Plasma
+Inspecticn
+Kowalski
+Piant IC
+Worn gasket
+[ediacec
+MC-279
+Conveyor Belt
+Preventive
+Laura Rossi
+Piant 34
+No Issues
+Joumo
+MC-238
+Hydraulic
+Ccrrective
+Laura Rossi
+Piant 28
+Sensor
+Ptese
+recalibated
+MC-265
+Lalhe
+Inspection
+Anna Nowak
+Piant 1C
+Worn gaskel
+(emiacec
+Ensure that
+each service enbry has Ine requ red
+aoprovals
+This lcg summary supports the asset-management dashboard.
+Use this closure note
+update the maintenance KPI tracker.
+All maintenance
+laSks nave Deen compieted
+scnedule
+Lubncation Checked
+Calibralion Verlfed
+Emergency Siop Tested
+Approved by:
+Scrviced by" 
+Beli
+Cuttor
+Cutter

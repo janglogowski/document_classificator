@@ -1,0 +1,91 @@
+Equipment Record Report
+2025-05-25
+The equipment
+pelcivincludes fault codes andccirective
+Dorgs
+Contrm tnat sannceintervals follov'tne Dreventive
+Ecnedule
+Beiaw
+The summan
+service actions and downtimes tor each machine
+Check that
+dovintime events are
+propen"
+catezonzeo
+and lozeed
+Ensure
+safety checks vrere completed during servicing:
+opuruPums
+Part Namo
+Part No
+Qty Used
+Sutcn 4ssembla
+0.53R0
+Unit Code
+Equinment
+Type
+Operator
+Dawvntime
+Last Check
+Note:
+MC-285
+Convcvor
+Corro CtIe
+peter
+2023-10-16
+Replacco
+Belt
+Schrnidu
+luse(54
+MC-28z
+Assombly
+ProventiE
+Laura
+Rossi
+2023-U9-21
+Alienment CT
+Robot
+hinges
+bdiustbo
+MC-263
+paini Bcoin
+Corrective
+Carlos
+2024-03-01
+Worn gasket
+carcia
+repiacec
+MC-ZZ1
+Assembiy
+Inspection
+Peter
+2025-01-21
+Sensor
+Robot
+Schmidi
+fecnlibrateo
+MC-215
+Packaging
+Correctie
+LaurS
+Kossi
+2024-06-05
+Wooder
+pillul
+checke@
+MC 292
+CNC
+Mlling
+Pruvuntit
+Emna
+2023 07-26
+Wuuden
+Nachine
+Nowvek
+chCck CC .
+Auinorized
+Peter Schmdt
+Oderalo
+Canos
+Gaicia
+Used;

@@ -1,0 +1,50 @@
+COMPONENT BREAKDOWN
+Customer ID: GREECE
+Coordinator: Anna Nowak
+Date; 2023-04-15
+Product ID: AL-115Q
+Internal No.: 6484460
+Order Qty: 196
+This extract shows thebill of components and total projected spend_
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ventilation
+0.64
+1090
+pCs
+5.60
+39.20
+Imported
+Grid
+Plastic
+1.15
+596
+0.20
+9.80
+Impontea
+Rivets
+Epoxy Resin
+2.29
+1096
+pCS
+7.30
+14.60
+High
+grade
+Packaging
+1,57
+296
+1.00
+51.00
+Box
+Total Amount:
+114.60
+Approved By:
+Sourcing Department:
+Item

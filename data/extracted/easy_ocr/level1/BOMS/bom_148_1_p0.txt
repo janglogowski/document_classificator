@@ -1,0 +1,94 @@
+BILL OF MATERIAL
+Customer ID: BELGIUM
+Coordinator: Laura Rossi
+Date:
+2024-10-01
+Product ID: CN-1S0C
+Interna
+No.
+6848637
+Order Qly: 86
+Use this schedule of parts to align with sourcing and stock levels_
+Below is the component listing
+and associated costs for the upcoming production batch. This document provides
+detailed
+breakdown of all components required for the assembly process_
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Grease
+2.36
+0%
+pCS
+1.90
+7.60
+Urgent
+Tube 250ml
+Copper
+1.95
+2%/
+0.60
+3,00
+Urgent
+3mm
+Packaging
+0.34
+5%/
+pCS
+1.00
+49.00
+Imported
+Box
+Digital
+2.45
+5%
+pCS
+15,00
+120.00
+ROHS
+Display Unit
+compliant
+Heat
+2.46
+0%
+2.70
+59.40
+SKF
+Resistant
+brand
+Sleeve
+Epoxy
+1.02
+5%/
+pCS
+7.30
+277.40
+High
+Resin Kit
+grade
+Plastic
+1.69
+5%
+pCS
+0.20
+2.60
+Switch
+Rivets
+tested
+AlI listed components have been verified for availability and compliance. Ensure archival of this
+materials summary for compliance records.
+Any deviations from standard pricing have been
+annotated here.
+Total
+Amount:
+519.00
+Approved By:
+Sourcing Department:
+Wire 

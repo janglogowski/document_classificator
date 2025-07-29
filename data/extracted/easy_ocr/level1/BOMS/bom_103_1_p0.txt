@@ -1,0 +1,105 @@
+BOM Report
+Customer ID: GREECE
+Coordinator: Jan Kowalski
+Date: 2022-12-03
+ProductID: KP-320E
+Untternal
+4864638
+Order Qty: 127
+This summary lists every item required
+with per-unit pricing details. This document provides a
+detailed breakdown of all components required for the assembly process_
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Sensor Clip
+2.33
+1090
+pcs
+0.95
+Battery
+2.41
+1090
+25.00
+650.00
+ISO
+Pack
+verified
+Digital
+1.65
+596
+pcs
+15.00
+435.00
+Li-Ion
+Display Unit
+battery
+installed
+Steel Sheet
+3,42
+290
+5,00
+140.00
+Imported
+A36
+Wooden
+3.23
+1090
+pcs
+15.00
+420.00
+Pallet
+Power
+1.18
+290
+pcs
+1.20
+38.40
+High
+Switch
+grade
+Sensor Clip
+3.44
+1096
+pcs
+0.95
+12.35
+Epoxy Resin
+0.44
+090
+pcs
+7.30
+73.00
+Imported
+Bearing
+0.32
+1090
+pcs
+.50
+9.00
+SKF
+6202 ZZ
+brand
+Terminal
+1.67
+096
+pcs
+3.40
+61.20
+Li-Ion
+Block 4P
+battery
+installed
+Review this summary against the master budgeting sheet; Cross-verify totals with the ERP system for
+consistency: Ensure this materials summary is recorciled with the purchase order. Checkthat
+component quantities align with production run requirements
+Total Amount:
+,844.65
+Approved By:
+Sourcing Department:

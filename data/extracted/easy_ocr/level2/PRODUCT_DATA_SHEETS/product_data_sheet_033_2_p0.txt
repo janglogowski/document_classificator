@@ -1,0 +1,83 @@
+Product Data Sheet
+Refer ta this configuration summary for unlt-designatlon mapping: This technical overvlew supports the product
+Feiface
+checklist. This data sheet provides key specifications and materia
+derails_
+Below are the technical parameters
+and constructian materials for the unit: Use this
+confirm engineering requirements
+toierances
+Use this
+SOCC
+sheet e
+validate asscmbly Instructions. Confirm that performance ranges comply iith project requlrements_
+Product ID:
+CE-9OSL
+Report No_
+3844353
+Prepared by: Laura Ross]
+Approved by: Arna Nowak
+Date: 2024-04-12
+Moded UMPE
+pncumatic
+Lontto
+Unic
+Operating Pressure
+210 bar
+Fluid Floiv
+30 L/min
+Supply
+480 '
+60 Hz
+Dimensions (LxWxH)
+1000
+650
+Iano Mm
+Iype
+Vane
+Total Wejght
+180ke
+Resenvoir Capacity
+Oil Type
+HP 32
+has heen peer-reviewed by the engineering team; Refer
+Daramete
+table for pperating
+ranges and
+ro crances
+Matenal cholces and process dala have bcen verifled ior compliance. Overall configuration
+witnin
+defined design and safety marpins Document control numbers are included for traceability; This dlosure note
+indicates the data sheet
+ready tor release Cherk that all section headers
+Wlowthe product template
+Material
+Constnuction:
+Lebci
+Raw Melena
+Sainic
+Steel 304
+Heat Sink ALU
+Aluminum 6061-T6
+Ring NBR G0mm
+Nitnle Rubber INBR)
+nsuatco
+Thermoplastic Polyuretnane (TPU)
+Digital Display Unit
+ABS Plastic
+Support Foot Steel
+Stalnless Sleel 304
+Wooden Pallet
+Treated Pine Wcod
+LED Light Strip
+Glass Filled Nylon
+sheet
+a
+Voltare
+Pump
+Pump
+Data
+sncel
+Hnee
+Tube
+25mm

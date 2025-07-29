@@ -1,0 +1,48 @@
+Customer ID: BRAZIL
+Prepared by: Carlos Garcia
+Product ID: FT-730X
+Internal No:: 3210430
+Please review the itemized list of parts and material specifications before procurement  Use this
+breakdown t0 verify sourcing and cost estimates. This summary lists every item required, with
+per-unit pricing details: The component roster below includes unit costs and batch codes:
+The
+manifest here
+designed t0 support procurement workflows:
+This section outlines the
+parts
+unit prices and tota
+amounts for assembly.
+No
+Item
+Contro
+Panel
+Steel
+Sheet 436
+Packaging Box
+Stainless Bolt
+Description
+Mount
+M8
+Qty
+724
+652
+467
+858
+UOM
+pcS
+pcS
+Unit Price
+12.00
+Amount
+688.00
+3,260.00
+467.00
+300
+Remarks
+Urgent
+Imported
+Certified batch
+Switch tested
+Ok
+TOTAL: 12,715.30
+pants

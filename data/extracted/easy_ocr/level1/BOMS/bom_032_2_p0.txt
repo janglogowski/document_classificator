@@ -1,0 +1,41 @@
+Customer ID: NORWAY
+Prepared by: Anna Nowak
+Product ID: VF-220D
+Internal
+No:: 2659931
+Refer to this parts register to plan raw-material purchasing
+Review the materials tally for
+compliance with budget allowances: Use this schedule of parts to
+with sourcing and stock
+levels
+This extract shows the bill of components and total projected spend. The component
+roster below includes unit costs and batch codes_
+Item
+LED
+Strip
+Stainless Bolt
+Heat Resistant
+Plastic Rivets
+Description
+M8
+Ceve
+Qty
+383
+800
+409
+915
+UOM
+Unit Price
+Amount
+957.50
+280.00
+1,104.30
+183.00
+Remarks
+Certified batch
+Certified batch
+ISO-verified
+Imported
+TOTAL: 2,524.80
+align
+Light

@@ -1,0 +1,44 @@
+Inspection Summary
+This summary supports the production-release quality gate
+All checklist entries are timestamped for
+traceability. Check that inspection steps follow the approved procedure.
+Use this list =
+confirm adherence to
+AQL and safety standards
+Confirm that sampling levels comply with customer agreements.
+Product ID
+Customer ID
+BELGIUM
+Item Descrption
+Spacer_ Zmm
+Review Points
+Inspection
+Classification
+Observations
+Depth
+Design Specs
+Hold
+Incorrect barcode
+or label
+Critical impact
+Product doesnt power on
+LCveI
+Minor isSue observed
+Hinges
+OOS8
+Level
+Needs review
+Color mismatch
+Level
+Needs review
+Exposed nail with sharp
+Level (
+Needs review
+point
+incorteci
+quantity
+Needs review
+assorment
+Supervised by:
+Date:
+390n

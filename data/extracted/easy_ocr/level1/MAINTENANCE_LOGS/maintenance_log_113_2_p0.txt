@@ -1,0 +1,90 @@
+Equipment Record Report
+2024-11-19
+Refer
+maintenance reeiste
+for detailed service histories. The equipme
+ouciccludes fault coces andcorrective
+ncres
+Ihi s seclion eaplures Gquiprric nt StAIuS Andany mainaGrunce
+coaerctcns
+ertnncangmaeeant Dnden
+(echnician 45ienmient; An
+changes.
+Spare Farts Used:
+Fart Name
+Fart No
+aty Used
+L-on
+P-686l
+Machine
+Equioment
+Service
+Technician
+Duration
+Previous
+Nott
+Serlc
+MC 221
+Paint Bcotn
+Prawventive
+Ian Knvrlkk
+7077-07-19
+Mi-or
+barteny palk
+scnviccd
+MC-252
+Paint Booth
+Inspection
+Laura ROsa
+2023-03-22
+Replaced
+ccolant
+MC-205
+CNC
+Preventive
+Peter
+2023-12-05
+Changed oil
+mvi-Ichini=
+Semmni
+and Tilter;
+MC-265
+Plasma
+Inspection
+IanKovrlsk
+2025-01-24
+Cnanged
+Cult
+ind tutocs
+Mc767
+CNC
+Cocrectivt
+Carlo, Garcia
+2024 07.26
+Tightened
+Mlachine
+1c3St
+Mc 746
+CNC Milling
+Prevcmtive
+IanKnvrksk
+207703414
+Wnrn
+Mlachin
+replaced
+Mc-Z7Z
+Laser Culler
+Cocreclive
+caric; Garcia
+2024-07-14
+Calibnalic
+check Ok
+AutnoVedbyi
+Anma Nuwar
+Operato ;
+Conos Gorcia
+Rauten
+Type
+Miing
+Mihine
+Raikct

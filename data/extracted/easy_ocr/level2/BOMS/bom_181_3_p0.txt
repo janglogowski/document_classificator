@@ -1,0 +1,88 @@
+COMPONENT BREAKDOWN
+Use this schedule of parts t0 align with sourcing and stock levels All entriles reflect the latest Inventory
+and suppller rates This document provides
+detalled breakdown of all components required for the
+assembly process. This summary Ilsts every item required, with per-unit pricing detalls. The following
+table summarizes the materials and quantities needed for the current project;
+Item
+@ty
+UOM
+Rate
+Amount
+Remarks
+Description
+clamp
+pcs
+1.75
+36,75
+Urgent
+120mm
+Spring
+pcs
+0,05
+2.10
+Urgent
+Washer
+M1O
+Cable Tle
+0.95
+1.90
+ISO-veritied
+Pack (100)
+Batterv
+25,00
+850,00
+Hinge
+Pack
+alienment
+adjusted
+Control
+12,00
+180,00
+Swltch
+Panel
+tested OK
+Mount
+Packaging
+45,00
+ROHS
+Box
+compllant
+Hex Bolts
+0,25
+Li-Ion
+M12
+battery
+Installed
+Plastic
+pCs
+1,10
+36.30
+Imported
+Cover
+150x150
+Digital
+pCs
+15,00
+510,00
+Switch
+Display Unit
+tested OK
+Rubber
+pcs
+13.75
+SKF brand
+stopper
+Any devlations from standard pricing have been annotated here
+Customer ID: NORWAY
+Coordinator; Peter Schmidt
+Date; 2023-02-09
+Product ID; XK-61QU
+Internal No
+8218336
+Order
+371
+Total Amount:
+682.30
+Ring
+aty:

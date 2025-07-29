@@ -1,0 +1,104 @@
+Component Overview
+Praiecl;
+CE-905L
+Report No::
+PR-797
+Prepared By:
+La7
+Rossl
+Appraved By:
+Jan Kowalski
+Locatian; Plant IC
+Date; 2024-09-19
+Use thls sheetto confirm
+encineering requlrements and tolerances
+AlI data entries are traceable
+design revision
+histary. Please
+revlew the
+speciflcatlons and
+Matern
+composition Ilsted belaw. This technlcal avervlew supports the
+product-release
+checklist, Below are the technical parameters
+construction materials for the unit; Refer
+this
+conlieuration summary for unlta
+designation mapping
+Confirm that performance ranges comply with project
+requirements:
+Model Type
+Cooling Circulation
+Kated Pressure
+210 bar
+System
+Fluid Flow
+48 Lmin
+Voltage
+230v /50 Hz
+Oil Type
+HLP 46
+NoIse
+Leve
+72 dB(AI
+Cooling
+Air-cooi
+oil radlator
+seruicenterudl
+1000
+Pump Type
+Pump
+Motor
+7.5 KW
+Mounting
+Skid base wlth vibration
+Battery Capaclty
+pads
+Protection Class
+IPG7
+charging Tme
+Working
+10 'C t0 55"C
+Total Wcicht
+230K8
+Control Valve
+Proportional 4/2
+Ensure Blossary terms match the engincering nomenclature
+Thls closure note Indicates the data sheet /s ready for
+reieas
+Check that all section headers follov the product template: Use thls summnary =
+cross
+check with BOM and
+inspection reparts;
+nus summan
+reflects the Iatest revislon
+the product data;
+Material ,
+construction:
+Label
+Base
+Winng
+loaman
+PVC (Rigid)
+Pressurt
+Valve
+CZ1Z1
+LED Lipht Strip
+Glas s-Filled Nylon
+Heat Sink ALU
+Alumintim
+6061-T6
+Wqodem
+Pallet
+Treated Pine Wood
+NBR 6Omm
+NitrIle Rubber INOR
+Support Foot Steel
+Stalnless Steel 304
+and
+Plston
+Powc
+Tcmp
+Runge
+0rss
+Rine

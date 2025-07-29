@@ -1,0 +1,89 @@
+BILL OFMATERIAL
+This extract shows the bill of components and total projected spend
+Reviewthe materials tally for
+compliance with budget allowances: All entries reflect the latest inventory and supplier rates.
+Ensure each component meets the specified quality standards. Please review the itemized list of
+parts and matenal specifications before procurement
+Item
+Qty
+UOM
+Rate
+mouni
+Remarks
+Description_
+Hex Bolts
+pcs
+0.25
+3.00
+ROHS
+M12
+compliant
+Bearing
+pcs
+1.50
+12.00
+For expont
+6202ZZ
+Plastic
+pCS
+1.10
+29.70
+High grade
+Cover
+150x150
+Protective
+1.80
+46.80
+Switch
+Sleeve
+tested Ok
+sOmm
+Bearing
+pcs
+1.50
+66.00
+For export
+6202ZZ
+Steel Sheet
+5.00
+165.00
+Swntch
+436
+tested OK
+Clamp
+1.75
+26.25
+Urgent
+120mm
+Gasket
+pcs
+1.25
+45.00
+Urgent
+Sheet A4
+Hinge Set
+2.50
+10.00
+ECO
+compliant
+Clamp Ring
+pcs
+1.75
+38.50
+120mm
+alignment
+adjusted
+Customer ID: CANADA
+Coordinator: Peter Schmiat
+Date: 2023-06-25
+Product ID: KP-320E
+intetne
+No:-
+6653546
+Order Qty: 86
+Tota
+Amount:
+442.25
+Ring
+PcS
+Hinge

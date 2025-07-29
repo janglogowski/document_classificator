@@ -1,0 +1,68 @@
+Quality Verification
+This section details quality requirements and test points for the batch: Confirm that sarpling levels comply with
+customer
+agreements, Refer to the quality register for
+sampling-plan references Ensure
+non-contorming marks are
+clearly documented. All checklist entries are timestamped for traceability:
+Product ID
+GL 9805
+customcr Id
+FINLAND
+Item Description
+Cable
+Pack (100)
+Quality Check Items
+Inspection
+Severity
+Comments
+Depth
+Component Critera
+Critical
+Major
+Minor
+OnHold
+Rubber texture
+glossiness
+Level
+Needs review
+mrsmatcn
+Connectornot working
+Leve
+Needs review
+Rubber Switch not working
+Leve
+Battery not inclyded
+Leve
+ncaneci criemalion
+DoX
+Leve
+Minor IS-uL ousenvec
+Calam
+Iistnatca
+Visuj
+defect on housing
+Leve
+Functionality test failed
+Leve-
+Minor issue observed
+Missing Icgo
+warning
+label
+Level
+Needs review
+Wrong product size
+Leve
+Cuitical
+Impact
+Missing dlstributor
+Level
+information
+screw
+adse
+missing
+Leve
+Critical
+Impact
+Supervised bv:
+Date:

@@ -1,0 +1,48 @@
+Quality Checklist
+#2081904
+Date: 17.07.2025
+Product
+VR-940T
+Customer
+NORWAY
+Item
+Description
+Ventilation Grid
+This section details quality requirements and test points for the batch; All checklist entries are timestamped for
+traceability- This checklist captures quality Inspection points and sampling levels Use this extract to coordinate sign
+off with the QA manager_
+Cnsure
+non-conforming marks are clearly documented
+Check that inspection steps
+follow the approved procedure: Below are the items
+be verified during the final product review
+Quality Check Items
+Sample Ter
+Classification
+Observations
+Component Crteria
+Functionalitytest failed
+Level
+Sharp edges on plastic
+Level II
+components
+Battery not included_
+Leve
+[ssuE
+obsenved
+Rubber Sutch not wonking
+Minor [ssue
+Joseneo
+Package_
+nolceaed
+completely 
+Minor
+KtE
+Josenueg
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer specific
+Ynot

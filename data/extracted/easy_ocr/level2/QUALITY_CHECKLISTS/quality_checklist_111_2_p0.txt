@@ -1,0 +1,87 @@
+Comtormance Report
+Use this extract
+ccoruinale
+sign-off wilh the QA manager- Ensure all nori- conformlng marks are clearly
+documented, Entries include both visual ad functional inspection items; This checklist captures quality inspection
+points and sampling levels
+Product ID
+SL 430m
+custamcr
+CANADA
+Uem
+UCschiduic
+Stainiess Bolt M8
+Audit Critera
+Sampling
+Severicy
+Comirnents
+Leve
+Product Requirements
+Ccitical
+Maloi
+Minor
+OnHold
+Not assembled
+Leve) Ii
+Critical impact
+drjwing
+Screws
+oose
+Missing
+Catical impact
+CADO:LO
+with_haippoint
+Leve
+Needs review
+Wcod spiinten
+POMML
+Needs review
+nrodujct
+Rubher Switch not working
+Lela
+Minorisse dseneo
+Mssing kogg or wa
+Ati
+Leva
+Battery not Included
+Mno_
+ISSUE Odsenvel
+Wrengploduttue
+Level
+Cnc?
+Impace
+ncotteCi
+camcode
+Critica
+mcac
+Nissing oistributor
+Critical impact
+intormjtioo
+Dead
+Insect in
+Levei
+Minor issue observed
+Packaging
+Functionality test failed
+Leue
+Needs revielv
+Shinping
+illegibl? Or
+Leve |
+Needs review
+nosi
+ineide
+packaging
+Levs
+Cntical impacr
+Hinges
+00;e
+Dust/aenris inside Dackaping
+Minor issue Observed
+Supervised DV? ,
+Date:
+chalp
+Kahel
+Mank /
+missine
+Dafrs

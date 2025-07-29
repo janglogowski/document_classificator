@@ -1,0 +1,94 @@
+Equipment Record Report #9020340
+Date; 2023-12-29
+Unit Code
+Equlpment
+service
+Technician
+Duration
+Area
+Note
+Mc-790
+Packaning Line
+Praventiv
+HuN RoE
+Plant 34
+Replaced ust
+Mc242
+Packanina Line
+Unspection
+Jankowaea
+Wodaen Dullct
+checked
+MC-2T7
+CNC
+octecuva
+Jeter Eahmidt
+plant 34
+Wom Basket
+Machine
+rep aced
+MC-Z31
+Laser Cantler
+Umase eclion
+Jeler 5 chmdt
+Plant 1C
+Worn Basket
+rep aceo
+Mc-235
+plasma Cutier
+oftecma
+Ian Kowalak
+plant ZB
+ehtene
+10052 bolts
+MC-228
+Paint Gooth
+inspection
+Novrak
+Plant 2R
+Wooden
+checked
+MC-269
+Paint Gooth
+inspection
+Lamnakoss
+Plant IC
+Sucocn conticis
+cleaned
+Mc-260
+Cuntter
+Corrertve
+Cchmidt
+Plant 32
+Alienment
+acjusted
+Mc708
+Latit
+Prc cmtivc
+Cunoy Gurcia
+Plant IC
+Repluccd tusl
+Archive this summary in the
+CMMs{or futur
+pterence
+Use this closur
+the maintenance KPI tracker_
+Refer to
+remnt;iOr jnyoilow updcticns
+parts repacemen;
+Ensurc that Cach *rvice cntry hay thcntquirt d approvuly
+FlaR ary
+recurrinz issues tcrroct-cause investizaticn
+Lubnic llicn Checked
+Laloraticn ! ertieo
+Emereenc
+Stop_
+25120
+Authorized by:
+Dperator
+Tape
+PIant
+Rite
+pollet
+Nnce
+Tpaato

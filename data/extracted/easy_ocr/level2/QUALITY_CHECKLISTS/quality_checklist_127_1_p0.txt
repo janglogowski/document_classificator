@@ -1,0 +1,96 @@
+Conformance Report
+#6431505
+Date: 17.07.2025
+Product ID
+JD-70oW
+Customer ID
+BRAZIL
+Item Description
+lastic Cover
+50x150
+This checklist captures quality Inspection points and samplinglevels. Use this extract to coordinate
+sign-off
+with the QA manager, Archive this list in the quality-management system: This closure summary indicates
+compliance with Inspection criteria. The following table outlines Inspection criteria and classification levels.
+Below arethe Iteis
+be verified during the final praductrevlew. Entries Include both visual and functional
+inspection items. This section details quality requirements and test points fort
+batch;
+Quality Check Items
+Sample Tier
+Severity
+Comments
+Product Requirements
+Dead
+insect inpackaging
+Lavel
+Needs Taview
+Wood splinter
+sharp point on
+LevelIII
+Critical impact
+produc-
+Produc
+Joesntnowe
+Connectar
+notworking
+Lavel
+Minor issue Observed
+Dust/debris Inside packaging
+Lavel
+Palnt smearing or scratches
+Critical Impact
+Rupbe
+Switch not working
+Levei
+Cntica
+impact
+Colc
+Mismatch
+Levei
+Needs review
+Wrong
+nroduct S7e
+Lavel
+Needs review
+Battery{
+noinciuded
+Crtica
+Imnaci
+Screws loose
+'missing
+Lavel
+Needs review
+Not assembled as per drawing
+LevelIlI
+Missing logo or warning label
+Package
+not sealed
+Level II
+completel
+Loose parts inside packaging
+Level III
+Needs review
+Incorrect orentation in box
+Levei
+Needs review
+AQL
+Critical
+Minor
+Derault
+Customer
+specific
+This final nate canfirms the checklist Is complete
+approved
+AIl summary comments
+Jave
+Deen valdeled
+the QA
+All critical and major inspection points have been addressed
+Corrective actions are scheduled for
+identified Issues. Overall quality status Indicates compllance with delined AQL levels. Cnecklistresults have
+been reportedto the qualily Manager-
+tne
+Level
+Malon
+team;

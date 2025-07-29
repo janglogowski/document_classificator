@@ -1,0 +1,72 @@
+BOM Report
+Customer ID: TURKEY
+Coordinator: Jan Kowalski
+Date:
+2024-12-13
+Product ID: SL 430M
+Interna
+No : 1122657
+Order Qly: 345
+All entries reflect the latest inventory and
+supplier rates. This summary lists every item required_
+with per-unit pricing details
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Stainless
+1.27
+10%
+pcs
+0.35
+0.70
+Certified
+Bolt MB
+batch
+Epoxy
+0.72
+200
+pcs
+270.10
+Imported
+Resin Kit
+Copper
+2.27
+0%
+0.60
+20.40
+Wire %mm
+Rubber
+1.66
+59
+pcs
+0.50
+13.00
+Eco
+Gasket
+compliant
+80mm
+Plastic
+590
+pcs
+0.20
+7,80
+Rivets
+Review this summary against the master budgeting sheet. Final amounts include handling and
+logistics costs where applicable_
+deviations from standard pricing have
+annotated here_
+Ensure this materials summary is reconciled with the purchase order:
+Total
+Amount:
+312.00
+Approved By;
+Sourcing Department:
+Any
+peen

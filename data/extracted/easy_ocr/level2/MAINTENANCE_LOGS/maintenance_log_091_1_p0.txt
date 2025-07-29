@@ -1,0 +1,62 @@
+Equipment Record Report #1057412
+Dale
+2024-07-24
+Unit Code
+Equipment
+Service Type
+Dperator
+Downtime
+Area
+Notes
+MC-253
+Assembly
+PicveninC
+Carlos Garcia
+Plant 34
+Cnanged 0il
+Rubg
+and IIllers
+MC-239
+Piasma Cumer
+Preventve
+Peter
+Schmidt
+Plant 34
+Switch
+Con ACs
+cleaned
+MC-240
+Laine
+Corrective
+Carlos Garcia
+Plant 28
+gnteneo
+Doits
+MC-289
+Plasma Culler
+nspaciiom
+Peter Schmidt
+Plant 1C
+Klianmeni
+Funid8s
+ddiusieu
+Archive Inis summary
+the CMMS ior future reference
+Flag any recurring
+issues for root-cause invesligation
+Malntenance notes are archived
+comtolancc audus
+Ovcraicmulomcni con duticn
+salisfaclory
+pash-maintenancc
+Usc
+Ihis closure note
+undate the maintenance KP
+tracker, This log summary supports the asset-management dashhoard
+Lubricaiion Cnecked
+Calibration Verilicu
+Emergency
+Teste m
+Signed oll: _
+Perlormed by:
+Siop

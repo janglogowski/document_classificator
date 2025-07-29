@@ -1,0 +1,75 @@
+Measurement Summary Sheet
+echnician
+Jan Kowalski
+Inspcctiun Dalc
+2023 10.24
+revet
+the inspection results for each component listed below:
+recordec
+mejsurements
+comipaicc
+against nomina
+tolerances
+The following data captures key dimensions and any deviations identified: This
+qata extract
+prenared for quality-control
+sign-off. This summary of measurements supparts metrology traceability-
+Product Ref
+FT-730X
+OP-660F
+NE-ZASA
+LK-890B8
+TR-ZOOB
+ON-770k
+Component
+Bearing 6202
+Graphite Pad
+Shaft S0Omm
+FPowe
+Swaitch
+Rubber Gasket
+Rubber Gasker
+Somm
+Romm
+Mcasurement
+Lnner
+Depih
+nnem
+Lenetn
+Lenetn
+diameter
+Diameter
+arget
+52.53
+30.78
+23 05
+1445
+Observed
+30.60
+Deltz
+Pass!Fail
+Overa
+inspection surmary indicates acceptable quality levels Archive this inspection summary for regulatory
+documentation
+~verity measurement data with CAD nominal values_
+Instrument Callbration Log=
+Instrumcnt
+Serial No.
+Last Callbratian Datc
+Micrometer
+68436
+2024-11-30
+Caliper
+77491
+2024-10-03
+Lasem
+Scanne
+85788
+2024-08-11
+CMM
+26354
+2025-06-04
+please
+Below
+Holc
+Cross

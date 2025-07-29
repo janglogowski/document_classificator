@@ -1,0 +1,42 @@
+Inspection Record
+Inspection Checklist Points
+Check
+Severity
+Remarks
+Intensity
+Design specs
+Connecornot
+working
+Level|
+Critical impact
+assembled
+Fer drawinf
+Leve
+Critical impact
+LDose
+parts inside packaging
+Package
+not sealed completely
+Critical impact
+Sharp edges on plastic
+Level /
+Minar issue observed
+comnanents
+Dustdebris Inside packaging
+Levl
+Incorrect arientation
+Miimor  SSUC Obsenved
+pdint
+smearing Or scratches
+Minorissue Ohserved
+Missing satety labels
+Ava
+Critical impact
+Reterence Standards
+Standaro
+Edition
+ISQ 9001
+2011
+UL61010
+Ath Ed;
+Not

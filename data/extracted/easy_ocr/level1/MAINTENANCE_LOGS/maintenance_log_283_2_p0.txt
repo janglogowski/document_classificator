@@ -1,0 +1,78 @@
+The equipment on
+Del0 " Includes aui codes and corecuive notes
+Below
+the summar
+service acwions and dowintimes tor eacr
+machine: Entries include work orders
+technician assignments
+andoin
+changes Use this record
+plan upcoming upkeep and
+repalrs: Use thls $ ummary
+orecast pants
+eplacement ano
+escurce needs. Thls malntenance extract
+preparedoi
+compllance
+WNil
+spare Parts Used:
+Part Namc
+Part no
+Qty Used
+Hinge Set
+P-9142
+Machine
+Machine
+Techniciam
+Durauion
+Previous
+Area
+Nole s
+Senice
+MLZZL
+Hvdraulic
+Preventive
+Jankowalski
+2024-07-17
+Wooden
+Press
+nallet
+chiecked
+MC-282
+Packaging
+Cotrernve
+Larics Darcia
+2025-05-26
+Tightened
+Llne
+HcOseooi
+MC 297
+Bxcmhly
+Cocrertivt
+Luna Roxti
+707407.79
+Switch
+onmt
+CCOAcs
+cleaned
+MC-254
+Packaging
+Inspection
+Ao ya
+2024-10-21
+Replaced
+Line
+ccolant
+MC-268
+Hydraulic
+Inspection
+Peter
+2024-12-11
+Cecgo
+Pi
+Scnmidt
+Wnruted
+Approved
+IncaK0a 
+Sefviced Dv:
+Ana Nowar

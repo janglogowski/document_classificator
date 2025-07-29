@@ -1,0 +1,87 @@
+Unit Data Specification
+Project:
+MR-1G0H
+Report No;
+PR-519
+Prepared
+Anna Nowak
+Approved By:
+Laura Rossi
+Locallon: Plant 34
+Dale
+2023-12-15
+Below are Ihe technical parameters and construction materials for the unit; This report extract
+prepared ior
+design-verification audits
+This section details Ihe conliguralion and parameter set for Ihe product; The
+following Informallon oulllnes performance characteristics
+design data: Refer lo (his configuration
+summary for unit-designation mapping
+Check that all material specs align with supplier cortifications, This
+dala sheet provides key
+specificatlons and material detalls 
+Model Type
+Cooling Circulation
+Rated Pressuro
+300 bar
+System
+Fluid Flow
+75 Umin
+Oporating Voltage
+400 V IS0Hz
+Oil Type
+HLP 68
+Mounting
+Rack frame
+Rosorvoir Capacity
+Control Valvo
+Directional 4/3
+Noiso
+70 dB(A)
+Total Woight
+180
+Protection Class
+IP65
+Dimensions (LxWxH)
+1200
+700 x 1100 mm
+Battery Capacity
+10 Ah
+Filtration
+10 pm roturn; 25 |m
+suclion
+Charging
+Cooling
+Alr-cooled oil radiator
+Motor Power
+75kW
+Working Temp
+Range
+5'C t0 45"C
+Frame Matoral
+Stainless Steel Frame
+Service Interva
+4000
+summary comments have been recorded in Ihe revision log: Archive Ihis summary for future
+design-
+management: Overall configuration
+wilhin defined design and safety margins. This closure nole
+indicates the data sheet Is ready for release. Ensure that the Ilsted materials are approved for the
+application;
+Confirm that all test condillons are accurately represented, Refer to parameter table for
+operaling ranges and (olerances:
+Material
+Construction;
+Item
+Composition
+Loom Im
+PVC (Rigid)
+Baltery Pack
+Lithium-Ion Cell Pack
+Heat Sink ALU
+Aluminum 6061-T6
+and
+Luvcl
+Tlmne
+change
+Wiring

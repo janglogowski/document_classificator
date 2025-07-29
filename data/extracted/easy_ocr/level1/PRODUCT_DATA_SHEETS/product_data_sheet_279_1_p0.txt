@@ -1,0 +1,106 @@
+Unit Configuration
+Praiect:
+ON-770H
+Unerna
+7347185
+Prepared Bv:
+Carlos Garcia
+Approved By:
+Kowalski
+Location; Plant IC
+Date; 2024-05-12
+Reii
+this configuration summary for unit-designation mapping: Check that all materia
+specs align with supplier
+certifications- This
+extract
+prepared for design-verification audits Ensure
+referenced standards areup to
+date;
+Unic Ipe
+Pneumatic Contro
+Unic
+Operating Pressure
+250 bar
+Flow Rate
+75 L{min
+Operating Voltage
+400
+50 Hz
+Control Valve
+Manual Overide3/2
+Cooling
+Air-cooled oil radiator
+Pump
+Type
+Piston Pumo
+Reservoir Capacity
+Mounting
+Skid base wlth vbrallon
+Noise Leve
+972 dB(AJ
+pads
+Total Weight
+230 kB
+service Interval
+12 months
+Dimensions
+[LxWxH)
+1000
+650 X 1000 mm
+Frame
+Materia
+Sainless Siep
+Framne
+Working Temp
+Range
+10"C to 50*C
+Protection
+IP6S
+Battery Capacity
+10 Ah
+Filtration
+um inline,
+10 um return
+Motor Power
+Oil Type
+HLP 32
+This closure note indicates the data sheetE
+TCdoy
+ICJsC
+Confirm that all test conditions
+jccuratciy
+represenicd
+Use this summary
+cross-check with BOM and Inspection reports
+Archive tnis summary for future
+design-change management; Check that
+section headers follow the product template; Data sheet has heen peer-
+reviewed by the engineering team:
+Material of Construction;
+Item
+Base
+Thermn?
+Fuse
+Ceramic Oxide
+insuiated |ube _Jmi
+Thermoplastic _
+oivuretnane
+Heat Sink ALU
+Lluminum
+6u6i-f
+Connector 2P
+Filled Nulon
+ED Light Strip
+Glass-Filled Nylon
+Gasket Sheet 44
+Nitrile Rubber INBRI
+Cable Tie Pack (100)
+Nitrile Rubber INBRI
+Paver Switdn
+Palycarbonate
+Copper
+repont
+class
+(Tpun
+Giass-

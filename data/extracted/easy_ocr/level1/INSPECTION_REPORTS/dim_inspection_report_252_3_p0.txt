@@ -1,0 +1,84 @@
+Tolerance Check
+Inspection performed by Jan Kowalski on 2023-09-28.
+Item Code
+Part Name
+Measurement
+Nominal
+Observed
+Diff
+Status (VIX)
+TX-820v
+Shaft
+Thickness
+97,68
+97.53
+0,15
+500m
+RE-850C
+Wooden
+Length
+41.67
+41.56
+-0.11
+Pallet
+PW-515Y
+Hinge Set
+Width
+68.98
+69.17
++0.19
+RX-3102
+Bearing
+Thickness
+82.23
+82.08
+0.15
+6202
+RX-310Z
+Shalt
+Height
+66,24
+66.25
++0,01
+500mm
+FT-730X
+Steel Sheet
+Width
+88.05
+87.92
+~0.13
+WD-180S
+0-Ring NBR
+Hole
+9.52
+9,61
++0,09
+60mm
+MX-450L
+Graphite
+Thickness
+10.58
+10.62
++0.04
+Pad
+MC-5AOX
+Power
+Inner
+71,54
+71,66
++0.12
+Swltch
+Dlameter
+RX-3102
+Power
+Height
+87.33
+87.39
++0.06
+Switch
+VF-220D
+Hinge Set
+Length
+89.98
+89.78
+0.20

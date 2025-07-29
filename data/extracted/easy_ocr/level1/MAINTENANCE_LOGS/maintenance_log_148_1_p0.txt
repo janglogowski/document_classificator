@@ -1,0 +1,60 @@
+Equipment Record Report #1782515
+Date: 2024-09-20
+Machine
+Equipment
+Type
+Operator
+Duration
+Site
+Notes
+MC-282
+Packaging
+Eccct
+Carlos Garcla
+Piant IC
+Replaced
+5A)
+MC-214
+Plasmz
+Cutter
+Ccrrective
+Carciz
+Plant 34
+Wom gasket
+[Ediacec
+MC-225
+Lallc
+Inspeclicm
+Laura RoSsi
+Piant 34
+Wocden
+checked,
+MC-276
+CNC Milling
+Inspecliom
+Carios Garcia
+Piant 1C
+Changed oill
+Machinu
+and Ilurs
+Record any
+spare
+pals Ujage
+invenlory adjustrent
+Servica sumimanas
+nave been larvarcled
+Lhe engineering
+team: Refer
+remarks for any follo "-up actions
+ments. Mlaintenance notes are archived for compliance
+audits . This Iog summary supports the asset-management dashboard
+Flag any recurring issues for ront-cause
+investigation
+Luboncalcn Checked
+Callbration Verifed
+Emergency Slop Tesied
+Approved by;
+Serviced by": _
+Carlos
+pana
+roploca

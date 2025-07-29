@@ -1,0 +1,26 @@
+Component Overview
+Internal No;
+8493035
+Praduct ID: WD-1805
+Date: 2025-02-27
+Configuration Type
+Cooling Circulation
+Rated Pressure
+Synteni
+210 bar
+Flow Rate
+48 Llmin
+Noise Leve
+Supply Voltage
+230V / 50Hz
+72 dBLAI
+Service Interval
+Charging Time
+S00
+Protection
+Motor Power
+Class
+4p65
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia
+Ca

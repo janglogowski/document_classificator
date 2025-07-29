@@ -1,0 +1,65 @@
+Quality Verification
+Thls secuon delails qualily requirements and test points for the batch: Confirm
+that sampling levels comply wth
+customer agreements Reterto the quality register
+for sampling-plan references Ersure
+non-contorming marks are
+clearly documented All checklist etries are limestamped for traceabilly-
+Preduct ID
+GL 9805
+Cusotne
+FINLAND
+lem
+Description
+Cable Tie Pac* (100]
+Quality Check Items
+Inspecton
+Severty
+Lommente
+Depth
+Component Crtena
+Critical
+Major
+Minor
+OnHold
+Rurberterture
+Glossiress
+Level |
+Needs revie %
+mismatch
+Connecto
+not worng
+Leve
+Needs review?
+Rubzer Suntcntot Woltne
+[2ue
+Batten.1o: induged
+Lee
+Uncomeci crentalonIntox
+Lee
+Mnoi LSSLe oosened
+Color mismatch
+Visua
+cetec Onaousing
+Lel@
+Functionality
+Enaed
+Leve
+Mcor
+Kue Odrerrc
+Aissing logo
+wming label
+Leve
+Needs revie
+Wrong product sze
+Leye
+Cntical mpac
+Mising dbtnbutor
+Level |
+Trtomston
+Sdet"S icose
+Mgsing
+LETE
+Crtical imoadt
+Supennsed DV? ,
+Date:

@@ -1,0 +1,78 @@
+Shift Summary
+Report No:; PR-236
+Customer: SWEDEN
+Shift:
+(Morning)
+Date: 16-06-2024
+Machine
+Operation
+Warker
+Time Spent
+comments
+MC-204
+Welding
+Nadia Sauter
+12,00
+12.40
+Delav
+prorres5
+MC-203
+Assembly
+Piotr
+12.15
+12.55
+Completed
+Lewandowski
+MC-206
+Polishing
+Anna Nowak
+13.30
+13.57
+Delay
+Delayed
+MC-209
+Welding
+Przemvsiav
+10.30
+L1.11
+N/A
+Delaved
+Wasik
+Mc-205
+Assembly
+Pictr
+14,30
+16.25
+nropress
+wandovski
+Ensure shift-handover notes include any
+pending issues. Check materia
+consumption
+against standard usage rates:
+Recard any adjustments to shift schedules or
+staffing here. Use this summary =
+update the Overa
+production
+dashboard, Note any unscheduled stops in the downtime register;
+Item ID
+Planned Qty
+Actual Qty
+Rejected Qty
+Rejection %
+Rework Qty
+Comments
+FT-730X
+107
+215
+CN-150C
+7.85%"
+MX-450L
+258
+245
+5.0470
+Scrap
+confirmed
+Approved bv:
+Prepared by: _
+Begin
+Stzgc

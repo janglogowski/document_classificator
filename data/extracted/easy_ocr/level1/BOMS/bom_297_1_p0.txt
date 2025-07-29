@@ -1,0 +1,78 @@
+BOM Report
+Customer ID: BELGIUM
+Coordinator: Jan Kowalski
+Date; 2023-05-10
+Product ID: TR-2O0B
+Internal No.
+8339508
+Order Qty: 96
+The component roster below includes unit costs and batch codes: Use this breakdownto verify
+sourcing and cost estimates. Refer to this parts register to plan raw-material purchasing:
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Heat
+1.43
+0%
+2.70
+124.20
+High
+Resistant
+grade
+Sleove
+Epoxy Resin
+0.66
+1090
+pCs
+7.30
+160.60
+Switch
+tested OK
+Fuse 54
+2.68
+296
+pCS
+0.30
+6.30
+Eco
+compliant
+Spring
+2.14
+096
+pcs
+0.05
+1.45
+Urgent
+Washer
+M1o
+Packaging
+3.41
+596
+pCS
+1.00
+35.00
+Li-Ion
+Box L
+battery
+installed
+Spring
+1.73
+1096
+pCS
+0.05
+2.30
+Washer
+alignment
+M1o
+adjusted
+Total Amount:
+329.85
+Approved By:
+Sourcing Department:
+Hinge

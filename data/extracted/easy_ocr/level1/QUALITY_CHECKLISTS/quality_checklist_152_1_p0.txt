@@ -1,0 +1,57 @@
+Inspection Checklist
+#4796218
+Date: 17.07.2025
+Product ID
+LK-890B
+Customer ID
+FINLAND
+Item Description
+Cable Tie Pack (100)
+Check that inspection steps follov' the approved
+procegure
+Use this Iist t0 confinm adherence
+AQL and
+satety standards. Below are the items t0 be veritied during the final product review. Contim tnat sampling
+levels comply with customer agreements, This summary supports the production-release quality gate_
+Please review each checklist point and mark Ihe sampling results. All checklist entries are limestamped for
+traceability- Ensure all non-conforming marks are clearly documented_
+This checklist captures quality
+inspection points and
+sampling levels
+Use this extract
+coordinate sign-off with the QA manager.
+Review Points
+Sample
+Severity
+Notes
+Tier
+Component Critera
+Sharp edges on plastic
+Level
+Minor issue observed
+comdonents
+Incorec
+quantity
+Level |
+Critical impact
+assortment
+Color mismnalch
+Culcal umpact
+Mssing distributor_nioralion
+LevA
+Mor issue observed
+Missing safety labels
+Minor issue observed
+AQLLevel
+Crilica)
+Default
+Customer specifc
+Please ensure supervised sign-off on any non-conforming points. Inspection summary
+filed for regulatory
+compliance. This summary supponts the end-of-line quality certification; All critical and major inspection
+points have been addressed_
+Reter t0 notes for any observed defects or deviations:
+any open issues in
+the CAPA tracking system.
+Mmnor
+Flag

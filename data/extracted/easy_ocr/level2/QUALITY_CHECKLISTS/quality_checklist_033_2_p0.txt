@@ -1,0 +1,50 @@
+Verification Log
+Use this extract
+coordinale
+sign-off with the QA manager: All checklist entries are (imestamped for
+traceability. This closure summary indicates compliance with inspection criteria
+Entries include both visual
+and functional inspection ilems_
+Below are the items
+be verified during the final product review The
+following table outlines inspection criteria and classification levels_
+Archive this list in the quality-
+management system. Check that inspection steps follow the approved procedure
+Product ID
+SB 140D
+Customer ID
+FINLAND
+Item Description
+~Ring NBR 60mm
+Audit Criteria
+Sample
+Category
+Remarks
+Tier
+Item Specs
+Hold
+Battery not included
+Needs reviow
+Carton is damaged or
+Level
+Critical impact
+markings incorrecl
+Screws loose or missing
+Level
+Not asscmbled as per
+Level
+Minor issue observed
+drawing
+Missing
+waming
+Level
+Minor issue observed
+Missing disubutor information
+Level
+Minor issue observed
+Paint smearing
+scratches
+LevCi
+Needs reviow
+Supervised by:
+Date:

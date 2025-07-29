@@ -1,0 +1,86 @@
+Maintenance Checklist Report
+Performed On: 2024-10-05
+Carlc"
+Gurciin
+Perommeddy:
+Canos
+Garcib
+This log records all maintenance activities performed
+amdmeni
+Referto the maintenance registe
+for detailed senice
+histones
+Use this summary
+o(cas
+pan3
+eplacement anc
+cescurceneede
+Check that all dowitime events are properly
+categorized and logged_
+Tnis Maintenance Cxtracti; propurgdhor compvance udit trails
+Unis sectioncapturgs equipment
+status anqany mamntenance 4jservalion;
+Section
+Machine
+HC745
+MC217
+MC?70
+NC7IE
+Equipment
+Paint Boouh
+Plasmua
+Culler
+Asscmbly Ruuol
+Lalht
+Service Txpe
+antne
+InspBCticn
+Corrective
+Cotreciivb
+Operato
+Schmidi
+Canos
+Gaicie
+Canos
+Carcie
+Anna Ncwvak
+Duraition
+Communt
+Calibration check Ok,
+WNooxen Dallet
+Replaced fuse I5A)a
+Cnecked
+Section
+Machine
+MCZI
+MC-245
+MC-ZT0
+NC-216
+Equipment
+Plasmia Cutur
+Paint Buoth
+Asscmbly Ruuol
+Lulft
+Service Type
+Cucfecmt
+Inspection
+Hnsuecudm
+Preventivu
+Operator
+Kowalsk
+Peter schmiot
+JankowBlski
+Carlos Garcia
+uunal
+Comment
+Refilled| oil IHLP 46),
+No issues fourd.
+Reulacug
+cualini
+Wuuden Dalllct
+Uptime (%6)
+Count
+Note=
+96-/94
+Bolt tipntened
+Slento

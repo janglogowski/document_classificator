@@ -1,0 +1,131 @@
+Maintenance Checklist Report
+Performed On: 2025-07-03
+Kutnorizedoy;
+Carlos Garcla
+Uperaton
+LoLra Rossi
+This suction capturcs uquipment status and anj maintenance observations_
+Reter
+Ihe maintenanc
+[EEISte
+Tor delailed
+service histories  Use this record
+plan upcoming upkeep and repuirs
+Check that all downtlme events are
+propury
+Itegorized and logged. AII tochnician comments are recorded fcr maintenanco trend analysis
+Piease
+tevicw this log tac
+recen *Bnvice dater
+Vp8s
+emanks
+Sectior
+YC-245
+MC-283
+MC-271
+MC 217
+MC?13
+MC 289
+Machine
+ConAvo
+Lathe
+Plagma Cutter
+Packaging
+Plasma
+Cutter
+CNC Milling
+Machlne
+Iype
+piuvuntive
+Comective
+Prevente
+Cotrective
+Insp eCuon
+Comecie
+Operator
+Canios Carcia
+Laura Ross
+Carlos Garin
+Lana
+Rossi
+peen Schmidt
+Duration
+Cammenng
+Wooden paller
+Tigntened
+Li-Ion ballen
+1sues
+Chaneed nil
+Worn gasket
+chected
+Tougebolts
+uJck senced
+mound
+and filems
+raplacep
+Section
+Unlt Code
+MC 712
+MC-271
+HC-2OA
+MC-215
+MC-217
+MC-?45
+Machine
+Flasma Cutter
+PlaSma Cutter
+Lascr Cuttor
+Latha
+Packaging
+Conveyor Belt
+Iype
+Preventive
+Colreclive
+Preventive
+Cartective
+Tnspcction
+injpection
+Operato
+Petar Schmidr
+Jen kowalsz
+LalUra
+3055]
+Luura Ro331
+Lawa Ross
+Jankowvalsk
+Duration
+Cornments
+Calilcation
+Replacod
+Hefilled oil
+Changed 0il
+Sanaon
+Replaced lust
+checkok
+cociani
+'HLP 40
+and Fimns
+reculbrated
+Refer to fernurks for any (ollov'-UF
+actiona
+pan; replacemients
+Sercsummarie
+have bean forwarded t0 the
+encineerinp
+leam
+Check remalning life-cycles 0tkey
+mpanenta Iromthis report, Record any spare parts USaRe Ior inventory
+adiusiment
+maintenance tasks have heen completed
+Duc"chedule
+Ensuru that each survice entry has thu required
+approvals
+Maintenance note; are archived for comaliance Judits_
+Uptime (%1
+cTtor Count
+Comments
+97-9231
+Ruplaced tiltec
+Code
+Ross
+Laut

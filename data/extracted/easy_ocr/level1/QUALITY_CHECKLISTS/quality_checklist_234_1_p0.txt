@@ -1,0 +1,90 @@
+Quality Checklist
+#1511883
+Date: 17.07.2025
+Product
+AZ-300T
+Customer
+FINLAND
+Item
+bescription
+Rubber Gasket 80mm
+The
+following table
+outlines inspectian criteria and classification levels
+Use this extract -
+coordinate
+sign-off with the
+QA manager. This closure summary Indicates compliance with Inspection criteria: Archive this list In the quality"
+management system; Confirm that sampling levels camply with customer agreements; All checklist entries are
+timestamped fo
+trareability;
+Review Points
+Sampling
+Classification
+Remarks
+Levli
+Component Crlteria
+Wrong product size
+LCvC
+Miorissue ObsCNco
+Functionality test tailed
+Leve
+Minor issue observed
+Nat
+ssembled
+per drawinp
+Leve
+Needs Teview
+Color mismatch
+Leve
+Ancorreclanenaanon
+Leve
+Connector noI
+working
+NeedsreviCw
+Exposed nail with
+LCVc
+Necd
+Tevicw
+debris inside packaging
+Leve
+Packaging does not match signed
+Level III
+Critical impact
+sample
+Rubber
+atmne
+Giossiness
+Level II
+Needs
+(eview
+Msmaich
+loos
+parts inside
+packaging
+Leve
+Incorrect harcode
+labe
+Needs revieu
+AQL Level
+Critical
+Major
+Minor
+Default
+Customer specific
+any open Issues In the CAPA tracking system: This summary supports the end-af-lline quality certification. Overall
+quality status indicates compliance with detined AQL levels
+Inspection summary is filed for regulatory compliance
+Checklist results have been reported
+the quality manager
+Items marked for hold require additiona
+revieww before
+releay
+Use this clasure report
+update the
+KPI dashboard;
+shatp
+peint
+Dust
+Flag =
+quality

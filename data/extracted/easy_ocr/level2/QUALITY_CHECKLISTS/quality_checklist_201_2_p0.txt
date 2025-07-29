@@ -1,0 +1,83 @@
+Quality Review
+Please review each checklist point and mark the sampling results.
+are the items
+be verified during
+the final product roview. This section details quality requirements and test points for the batch: Check that
+inspection steps follow the approved procedure. This closure summary indicates compliance wilh inspection
+criteria_
+Entries include both visual and functional inspection items. Refer to the quality register for sampling
+plan references
+Product ID
+TY-350G
+Customer ID
+POLAND
+Item Descnption
+Graphite Pad
+Audit Criteria
+Sample
+Category
+Comments
+Tier
+Item Specs
+Rubber Switch not working
+Level
+Needs review
+Connector not =
+working_
+Level
+Missing distributor infomation
+Lcvci
+Exposed nail wth sharp point
+Needs review
+ncorrec
+barcode or label
+Level
+Minor issue obsenved
+Sharp edges
+plastic
+Level
+Minor issue observed
+components
+Instruction manual
+missing
+Level III
+Critical impact
+damaged
+Wrong product size
+Level
+Critical impact
+Dustidebris inside packaging
+Critical impact
+Screws loose or missing
+Levei
+Needs review
+Paint smearing or scratches
+Leve
+Needs review
+Rubber texture or glossiness
+Critical impact
+mismacl
+Packaging does not match
+Level |
+Minor issue observed
+signed sample_
+Carton
+damaged Or
+Level B
+Critical impad
+markings incorrect
+Battery not included
+Level
+Not assembled
+per crawing
+LAVC
+Critical impact
+Loose parts insiae packaging
+Needs reviow
+Dead
+live insect
+packaging
+Supervised by:
+Date:
+Below =
+Leve

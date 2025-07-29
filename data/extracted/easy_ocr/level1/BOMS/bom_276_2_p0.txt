@@ -1,0 +1,23 @@
+Customer ID: FRANCE
+Prepared by: Jan Kowalski
+Product ID: GL-980S
+Internal No:: 7307005
+Item Description
+Plastic Cover 150x150
+Rubber Stopper
+Copper Wire 3mm
+Qty
+934
+UOM
+PCS
+Unit Price
+1.10
+Amount
+027.40
+177.10
+426.60
+Remarks
+exnar
+SKF brand
+TOTAL:
+,631.10

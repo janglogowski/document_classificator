@@ -1,0 +1,38 @@
+Product Data Sheet
+Use this sheet'
+confifm
+engineering requirements and tolerances The fcllowing information outlines performance
+characteristics and design data. Erisure all referenced standards Jre UP
+date- Please review the specifications and
+material composition listed helow. This report extract is prepared for design-verificaticn audits_ This section details
+the configuration and parameter set forthe praduct; All data entries are traceable to design revision history;
+prodmct
+LK-8900
+Documen
+No:
+PR-432
+Prepared b'' Jan Kowalski
+Approved by: Laura Rossi
+ate
+2025-05-28
+Unit Type
+Hydraulic Power Unit
+Operting Pressure
+eu dar
+Flo; Rate
+Voltage
+230 v
+50Hz
+Pump Iype
+Vane Pump
+Cooling
+Alf-cooled oladlalon
+Oil Iype
+HLP 46
+Archlve thils sumnmary far future deslgr-change mnanagement Materlal choices and process data have been verifled
+rompliance; Dorumen
+control numbers
+included for traceahility. This summary reflects the latest revision of
+the product data. Refer
+palramcic
+table for operating ranges and tolerances

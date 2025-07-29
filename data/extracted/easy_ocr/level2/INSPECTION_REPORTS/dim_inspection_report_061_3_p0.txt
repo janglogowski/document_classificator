@@ -1,0 +1,94 @@
+Inspection performed by Peter Schmidt on 2024-07-06.
+This data extract 
+prepared for quality-control sign-off. Use this results summary
+trigger any corrective actions:
+following data captures key dimensions and any deviations identified: This section details the measured values,
+tolerances; and status
+Environmental Conditions: Temperature: 24.1
+Humidity: 58 %
+Item Code
+Component
+Ncasurement
+Nominai
+@asened
+Delta
+Status (VXI
+GL 9805
+Rubber
+Thickness
+11.06
+10.93
+0.13
+Gasket 8mm
+TY-3506
+Hinge
+Hole
+40.77
+40.96
+40.19
+MX-450L
+Rubber
+Height
+70,99
+71.03
++0,04
+Gasket 8Omm
+MS-600p
+Hinge Se
+Depth
+83.97
++UUU
+LP-SSSV
+Wooden
+Width
+88.21
+88.02
+0.19
+Pallet
+WD-1805
+Hex Bolts
+Height
+89.91
+39-96
+40.05
+M12
+SL-430M
+Plastic E
+Length
+56,12
+56.14
++0,02
+CE-9OSL
+Height
+12.25
+0.16
+FT-730X
+Bearing 6202
+Depth
+87.23
+87.39
++0.16
+JD-ZOOW
+Rubber
+Hnner
+95.99
+95.90
+0.09
+Gasket 8Omm
+Diameter
+KV-390k
+Plastic Rivets
+Depth
+10,73
+11035
++
+RX-3102
+Power Switch
+Width
+43,07
+43,00
+007
+The [
+nlags-
+Rivet s
+Hinge

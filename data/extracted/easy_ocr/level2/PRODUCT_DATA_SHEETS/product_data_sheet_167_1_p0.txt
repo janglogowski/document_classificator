@@ -1,0 +1,96 @@
+Product Overview
+Project:
+XD-Z1OR
+Document No;:
+PR-70Q
+Prepared By:
+Schmidt
+Approved By:
+Peter Schmidt
+Location: Plant 2B
+Date: 2023-08-27
+The following information outlines perfomance characteristics and design data. Below are the technical
+parameters and construction materials for the unit: This section details the configuration and parameter set
+for the product: Use this spec sheet to validate assembly instructions:
+Check that all material specs align
+with supplier ceriications_
+Confirm that perforance ranges comply with project requirements_
+Model Uype
+Pneumatic Control Unit
+Operating Pressure
+180 bar
+Throughput
+60 Umin
+Operating Voltage
+480
+60Hz
+Dimensions LLxWxHL
+1200
+700_
+1100 mm
+Reservoir Capacity 
+Working Temp.Range
+10*C
+55*C
+Service Interva
+12 months
+Control Valve
+Directional 4/3
+Oil Type
+HLP 68
+Battery Capacity
+10 Ah
+Pump Type
+Gear Pump_
+Charging Time_
+Protection Class
+IP6Z
+Nolse Level
+Cooling
+Water-cooled
+exchanger
+Total Weight
+180 kq
+Mounting 
+Rack frame
+Motor Power
+7.5kW
+Filtration
+10 pm return; 25 Um
+suction
+Document control numbers are included for traceability. Check that all section headers follow the product
+template
+Confirm that all test conditions are accurately represented. Refer
+parameter table for operating
+ranges and tolerances:
+Material of Construction:
+Subcomponent
+Raw Materal
+Balter Pack
+Lithium-Ion Cell B
+Steel Sheet A36
+Carbon Steel A36
+Capacitor 450V
+Aluminum 6061-76
+Cooling Gel Pack
+Silicone Rubber
+Hex Bolts
+Zinc-F
+ated
+Support Foot Steel
+Stainless Steel 30
+Nut M6
+Zinc-Plated Steer
+Hinge Se
+Stainless Steel 304
+Insulated Tube Z5mm
+Thermoplastic Polyurethane (TPU)
+LED Light Strip
+Glass-Filled Nxon
+Connector 2P
+Glass-Filled Nxon
+Wooden Pallet
+Trealed Pine Wood
+Peter
+dB(A)
+Pack

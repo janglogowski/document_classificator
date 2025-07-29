@@ -1,0 +1,116 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-850
+Custcmer:
+FINLAND
+Supervisor:
+Jan Kowalski
+Department:
+Logisuics
+Date:
+U5-T2
+2023
+Shift:
+(Ngnt)
+Machine
+Process
+Worker
+Begin
+Finish
+Total
+Comments
+duration
+MC-207
+Assembly
+Bartosz
+10.30
+12.08
+Wawrzyniak
+MC-202
+Welding
+Dawid
+06.30
+08.25
+115
+Delay
+Oszmiariczuk
+MC-201
+Cutting
+Magdalena
+12.15
+13.24
+Witkowska
+MC-202
+Welding
+Wiktor
+14.00
+15.11
+Kopczynski
+MC-201
+Welding
+Anna Nowak
+07.15
+07.36
+Recalibrated
+MC-204
+Assembly
+Piotr
+10.30
+12.07
+Delay
+Lewandowski
+MC-201
+Wiktor
+07:15
+08-56
+101
+Recalibrated
+Kopczynski
+MC-208
+Polishing
+Jan Kowalski
+1115
+13.11
+116
+NIA
+Item ID
+Planned
+Actual Qty
+Defect Qty
+Failure %
+Notes
+Qutput
+GL-980S
+237
+233
+69%
+Scrap
+confirmed
+GH-770J
+211
+9542
+VF-220D
+181
+175
+3.315
+Rework
+needed
+MS-6OOP
+297
+254
+14.,48%
+Rework
+needed
+HF-390A
+208
+5.29%
+Scrap
+contrmed
+900X
+185
+4976
+Prepared bY:
+Anna Nowak
+Approved PX
+Peter Schmidt
+Cutting

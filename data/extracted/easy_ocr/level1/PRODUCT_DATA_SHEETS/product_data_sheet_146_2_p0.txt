@@ -1,0 +1,41 @@
+Unit Configuration
+Check that all material specs align with supplier certitications_
+This data sheet provides key specifications
+material details_
+All data entries are traceable
+design revision history; Use this spec sheet to validate
+assembly instructions. This section details the configuration and parameter set for the product: The following
+information outlines performance characteristics and design data_
+Product
+MR-160H
+Document No;:
+PR-90Q
+Prepared by: Peter Schmidt | Approved by: Anna Nowak
+Date: 2023-10-12
+Model Type
+Cooling Circulation
+Operating Pressure
+250 bar
+System
+Flow Rate
+Lmin
+Voltage
+230 V IS0Hz
+Qil Type
+HLP 46
+Frame Material
+Aluminum Frame
+Dimensions (LxWxHL
+200
+700 x 1100
+Battery Capacity
+Reservoir Capacity
+120
+Service Interval
+12 months
+Material choices
+process data have been verilied for compliance, Archive Ihis summary for future
+design-change managerent: Data sheet has been peer-reviewed by the engineering team_
+Document
+control numbers are included for traceability. Confirm that all test conditions are accurately represented.
+and

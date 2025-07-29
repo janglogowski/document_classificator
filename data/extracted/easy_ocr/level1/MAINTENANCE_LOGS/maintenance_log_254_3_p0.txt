@@ -1,0 +1,150 @@
+Machine Log Summary
+Performed On: 2023-08-24
+Signed off
+Laura Rosei
+perc medbv"
+aura Rosci
+Check lhat
+duxnlimu gvcmls
+propetly calegurizec
+logged. Reler
+lhe maimicnance ryaisler
+delailed
+SCIvIcU hisloriu:
+Entries irclude work orders
+lucinic
+assidnmiynis
+changus. Below
+Ine sumary
+SCNICL
+actons
+downtimes
+each machine
+This log
+recCf05 ai Mainienance
+activities performed on the equipment Ensure
+safety
+Cneczewere
+completed
+servicing
+Tne equipment log belov includes iault codes
+And comect
+nores
+Section A:
+Machine ID
+MC 213
+MC 243
+KC ?91
+MC 244
+MC 248
+MC ?270
+Equipment
+Lathe
+Lase
+Cutter
+Paint Booth
+Paint Bocth
+Packaging
+Lathe
+Lype
+Preventive
+Preventive
+Preventive
+Lomecine
+Insdection
+Ccrrective
+Technician
+Anna KOwar
+4nna Noxvdt
+4nna Nowak
+Laura Ross
+Lalie
+Rossi
+Anna
+Nxvd;
+Dawntime
+Notes
+Wooden
+Li-Ion
+battery
+Charged %il
+Alignment
+Sersor
+Alignment
+and fillers;
+hinges
+fecalibrated
+chcckec
+cunviccd
+adjused
+acjysted
+Seclon B;
+Machine
+MC-291
+MC-270
+MC-244
+MC-213
+MC-243
+MC-295
+Equipment
+Paint Booim
+Lalme
+Painl Boolh
+Lalhe
+Lasei
+cuter
+Packaging
+Type
+Comece
+Preventive
+Prevenie
+Jnsmecci
+Preveniive
+Ccrective
+Technician
+Jankovalsk
+Land
+Ross
+JanKavrlski
+Carlos Garcia
+pnna
+Vovak
+Carla'
+Gaicia
+Downtime
+Notes
+Repacad
+Sensor
+Wojden
+LhioM
+balleni
+Switch
+Calibration
+5A)
+recallbraled
+Dullcl
+pack
+conlacis
+ciicck
+cnecked
+senced
+cieanec
+Check remaining lile-CYc 8S
+comnonani
+from Inis repor
+Senvice $umnmariet
+havebuan fanvanded
+englnecring team
+Ensure next preventive service
+scheduled
+accorcing
+plan:
+Uptlmc (%)
+Etror count
+commicnts
+93.7678
+RBplaced fllet
+quiino
+nallat
+pack
+Ningns

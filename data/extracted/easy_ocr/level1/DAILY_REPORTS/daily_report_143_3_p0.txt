@@ -1,0 +1,98 @@
+Report No:: PR-587
+Customer: SWEDEN
+Shitt: B (Evening)
+Date: 09-08-2024
+Machine
+Operation
+Worker
+Begin
+End Time
+Comments
+Condition
+duration
+MC-206
+Assembly
+Wiktor
+13.30
+14.23
+plogicss
+Kopczyrski
+MC-205
+Welding
+Magdalena
+07:15
+083
+Delay
+In progress
+Witkowska
+MC-207
+Welding
+Dawid
+07-00
+08.09
+N/A
+Completed
+Os7mianczuk
+MC-206
+Cutting
+Piotr
+11.30
+11:59
+Delay
+Completed
+Lewvandovski
+MC-?05
+Welding
+Magdalena
+08.00
+09.59
+119
+Delay
+Delayed
+Witkowska
+MC-201
+Welding
+4nna NO AK
+06.15
+07:12
+Delayed
+MC-207
+Assembly
+Wiktor
+11.00
+12.45
+105
+Delayed
+pczynski
+Part ID
+Planned Qty
+Produced
+Rejected
+Failure %
+Reworked
+Notes
+Qty
+Qty
+Units
+XD-7IOR
+151
+136
+9396
+Scrap
+confirmed
+ZR-2OSR
+127
+109
+14.1740
+Scrap
+contirmeo
+VF-220D
+178
+178
+0.00nG
+Scrap
+confirmed
+Approved by:
+Prepared by: _
+Total
+Delby

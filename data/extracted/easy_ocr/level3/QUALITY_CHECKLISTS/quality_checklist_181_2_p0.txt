@@ -1,0 +1,67 @@
+Audit Trail
+Ensure all nan-conforming marks are clearly documented: Please review each checklist point and mark the sampling
+results: Use this extract to coordinate sign-off with the QA manager. All checklist entries are timestamped for
+traceability: This closure summary indicates compliance with Inspection criteria. Refer to the quality register for
+sampling-plan references- Use this Iist
+conaim
+adherence
+AQL and safety standards;
+Product ID
+Ms-6oOP
+Customer ID
+TURKEY
+Item DescrIptlon
+Shaft soOmm
+Quality Check Items
+Sampling
+Classification
+Remarks
+(cemn
+Specs
+Critical
+Major
+Minor
+OnHold
+Visua
+derec on
+hausing
+Level [
+Product doesn
+power on
+LEVC
+Needs reviely
+Shipping mark E
+illegible or
+missing
+Level V
+Critleal impact
+Dusu
+debris inside Packaging
+Keeds Fevieu
+Rubher Switch no
+Level
+Needs review'
+Rubber
+texure
+lossiness
+mismaton
+Level IX
+Critical impact
+Exposed na
+with:
+Needs reviewv
+Package
+not sealed
+camolerel
+Level II
+Critical impact
+incorect quantin 0r
+assormen
+Minor issue ahserved
+Supervised by:
+Date;
+Leve
+Leve
+working
+shatp
+point

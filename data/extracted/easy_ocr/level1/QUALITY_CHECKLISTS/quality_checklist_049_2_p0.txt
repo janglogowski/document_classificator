@@ -1,0 +1,83 @@
+Conformance Log
+This checklist captures quality inspection points and sampling levels
+Ensure all non-confoming marks are
+clearly documented. Confirm that sampling levels comply wilh customner agreements
+This section detalls
+quality requirements and test points for the batch: Use this extract
+coordinate sign-off with the QA
+manager; This summary supports the production-release quality gate
+Archive (his Iist in (ne quality-
+management system: Entries include both visual and functional inspection items-
+Product ID
+TL-gOOX
+Customer ID
+NORWAY
+Item Description
+Steel Sheet A36
+Audit Criteria
+Sampling
+Classification
+Comments
+Level
+Product Requirements
+Hold
+Wood splinter
+sharp point
+Level IlI
+Minor issue observed
+on product
+Incorrec
+barcode
+abel
+Needs review
+Screws loose Or missing
+Leve
+Needs revlel
+Package
+not sealed
+completely
+Battery not included
+Levei
+Visual defect on housing
+Minor issue observed
+Instruction manual
+missing
+Needs review
+Or damaged
+Rubber texture or glossiness
+Level Il
+Needs reviow
+mismatch
+Dustidebris inside packaging
+Levc
+Needs
+cvcy
+Carton
+damaged
+Level IlI
+markings incorrect
+Missing safely
+labels
+Mnor Issue observed
+Paint smearing
+scratches
+Leve
+Minor Issue observed
+Connector not working
+Leve
+Cntical
+Rubber Switch not working
+Leve
+Sharp edges
+plastic
+components
+Product doesntpower 0
+Leve
+Minor issue observed
+Missing distributor
+Level III
+Minor issue observed
+infomation
+Supervised by:
+Date:
+mpact

@@ -1,0 +1,98 @@
+Shift Summary
+Report No:
+PR-987
+Customer:
+BELGIUM
+Supervisor:
+Anna Nowak
+Department:
+Painting
+Date
+25-03-2024
+Shift:
+(Evening
+Equipment
+Operation
+Worker
+Stant Time
+Finish
+Total
+Comments
+duration
+MC-204
+Polishing
+Bartosz
+14.15
+15.31
+Delay
+Wawrzyniak
+MC-206
+Welding
+Agnieszka
+11.30
+13.13
+103
+Delay
+Zielirska
+MC-205
+Drilling
+Jan
+12.15
+13.33
+OK
+Kowalski
+MC-208
+Welding
+Nadia
+10.15
+11.40
+Recalibrated
+Sauter
+MC-208
+Drilling
+Jan
+11.30
+12.49
+Kowalski
+MC-205
+Assembly
+Anna
+14.30
+15.41
+Delay
+Nowak
+Part ID
+Planned
+Produced Qty
+Scrap Qty
+Scrap %
+Remarks
+Output
+Kv-390k
+160
+158
+1.25%
+Rework
+needed
+MX-450L
+266
+245
+7.8996
+Rework
+needed
+PL-601Z
+189
+4.2390
+AZ-30OT
+157
+138
+12.10%
+Scrap
+confimed
+KV-390K
+153
+14.3890
+Prepared by:
+Carlos Garcia
+Approved bY:
+Laura Rossi

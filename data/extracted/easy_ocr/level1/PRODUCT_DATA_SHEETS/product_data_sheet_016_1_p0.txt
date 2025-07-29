@@ -1,0 +1,92 @@
+Product Data Sheet
+Project:
+WD-1805
+Document No.
+1217958
+Prepared
+Peter Schmidt
+Approved By:
+Kowalski
+Location: Plant 2B
+Date
+2025-03-30
+Entries include both mechanical and electrical specifications- This technical overview supports the product-
+release checklist; Check that all material specs align with supplier certifications_
+The following inforation
+oullines performance charactenstics and design data_
+Below are the technical parameters and construction
+materials for the unil
+Confirm that performance ranges comply with project requirements. Refer to this
+configuration summary for unit-designation mapping:
+Model Type
+Cooling Circulation
+Operating Pressure
+300 bar
+System
+Flow Rato
+48 Lmin
+Operating Voltage
+480 V / 60 Hz
+Charging Time
+Filtration
+10 pm return, 25 Vm
+suction
+Pump Type
+Gear Pump
+Working Temp
+Range
+10'C
+559C
+Motor Power
+Frame Material
+Stainless Sleel Frame
+Mounting
+Rack (rame
+Qil Type
+HLP 68
+Dimensions LLxWxH
+I0mo
+650
+1000 mm
+Battery Capacity 
+Control Valve
+Direz
+Protection Class
+IP54
+Cooling
+Water-cooled
+Total Weight
+250 kg
+exchanger
+Service Interval
+IO uu
+Reservoir Capacity
+Material
+Construction:
+Label
+Lomnosinan
+Insulated Tube 25mm
+Mnermaolaslc
+Polyurethane (TPU)
+GSaske
+Shee
+Nitle Rubber (NBR)
+Coolng Gel
+Pack
+Silicone Rubber
+Wiring
+dom
+DVC
+Rigid
+Hex Bolls M12
+Zinc-Plaled Steel
+Dgula
+Display Unit
+ABS Plaslic
+Tellon Tape Roll
+Tellon Tape Roll
+LED Light Stip
+Gass-
+illed Nylon
+Support Foot Steel
+Stainless Steel 304

@@ -1,0 +1,105 @@
+Machine Log Summary #5676880
+Dall:
+2024-06-23
+Unit Codc
+EquipMcnt
+Hccnnician
+Downtimr
+Commcnt
+MC-282
+Hvdrauiic press
+preventive
+Larios Garcia
+Flant JA
+Sitch contacts
+cleaned
+MC-276
+Assembly
+Inspection
+Jeter Schmidt
+Flant 10
+Robc
+ML-JU
+Packapin? Line
+Inspection
+Jankowalski
+Plant 2B
+Li-Jon battery
+Dick sunviced
+MC-208
+Lath e
+Preventive
+Laura Koss
+Fiant Z6
+Replaced
+cuqiant
+MC 210
+Asembly
+Inspection
+Carlos Garcia
+Plant IC
+Retcc
+cil HLP
+Robcl
+Mc-747
+CNC
+dccecn
+Jeler 5chmidt
+Plad34
+Kuienmani
+Machine
+hinges
+aciusted
+Mc-269
+CNC
+Inspection
+Jeter Scnmidt
+Plant 3/
+Wouden pallet
+Machim
+checked
+MC-296
+Assembly
+Lorrectve
+Jankowalski
+Flant IL
+Li-Jon battery
+Rono
+Dark senniced
+ML-22
+Packaging Line
+Inspection
+Laura Koss
+Flant IL
+Replaced
+cuqiani
+ML-299
+Hvdraulic Press
+Inspection
+Laura Ross
+Plant 1C
+Tehteneo
+ldc e boll
+Thls lcg =
+Mmma
+upports the asset-management dashboard
+Record any spare
+parts usage for Inventory adjustment Flag any
+recurrine Is5uCs
+roct cjuse Investieaticn
+Confirm that
+correctne uctions *ere properiy Closed out
+ccriticai
+faults were
+fquno
+the Iatest inspection; Maintenance notes are afchived for compllance audits
+Lubnication Checked
+Callbration Verfled
+Emnereency
+Stop_
+Uesien
+Authorlzed by:
+Operator
+Miaug
+Mne
+duting

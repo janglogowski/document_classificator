@@ -1,0 +1,62 @@
+BOM Report
+All entries reflect the latest inventory and supplier rates Use this schedule of parts to align with sourcing
+and stock levels: The component roster below includes unit costs and batch codes Review the materials
+tally for compliance with budget allowances:
+Item
+Qty
+UoM
+Rate
+Amount
+Remarks
+Description
+Rubber
+0.55
+7.15
+Urgent
+Stopper
+Wooden
+15.00
+750.00
+Certitied
+Pallet
+batch
+Sensor Clip
+0,95
+14,25
+Switch
+tested OK
+Bearing
+1,50
+24,00
+High grade
+6202 ZZ
+Digital
+15.00
+75.00
+High grade
+Display Unit
+Gasket
+1.25
+58.75
+SKF brand
+Sheet 44
+Spacer Zmm
+0.15
+5.55
+ROHS
+compliant
+Sensor Cip
+33.25
+Urgent
+Final amounts include handling and logistics costs where applicable: All sourcing notes have been logged
+for audit pumoses
+Customer ID: FINLAND
+Coordinator: Jan Kowalski
+2025-04-29
+Product ID: RX 310Z
+Internal No.
+6189625
+Order Qty: 180
+Total Amount:
+967.95
+Dale:

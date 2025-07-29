@@ -1,0 +1,67 @@
+Component Dimensional Check
+inspector
+Anna
+Rowak
+Inspection Date
+2024-12-13
+Reter
+the dimensiona
+lag for all camponent size
+readings
+Use this examination summary
+confirm component
+confarmity Please
+the inspectian results for
+each companent listed helow- This summary
+Measurements
+supponts metroiopy
+traceability: Review recorded tolerances against engineering specifications.
+Ilem Cade
+DXZUZL
+NL-2454
+F-JBOX
+RX-310Z
+[X-820V
+CN-1S0C
+Part Name
+Beafno
+6202
+Battery Pack
+Bearing 6202
+satery Pack
+Rivets
+NBR
+Gomm
+Dim
+Lengtr
+Thicknezs
+Reight
+Hole
+Target
+89.96
+92.27
+9.87
+92.83
+83.41
+UCtua
+Diff
+PasseFail
+Please
+address any NOK items befare proceeding
+production stage. Fnsure
+status
+flags
+updated
+quality management svstem; Record any measurement anomalies far follow-Up analysis
+Instrument Calibration LOR;
+Instrument
+Serial No
+Last Calibration Date
+CMM
+82086
+2024-07-30
+CMM
+396st
+2025-04-25
+plasl€
+0 Rins

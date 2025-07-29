@@ -1,0 +1,99 @@
+Maintenance Checklist Report
+Performed On: 2024-09-15
+Approved bX;
+Anna Nowak
+scniccdDy
+Laura Rossi
+Conlirm Ihal servicu inlervals
+Idllc Mu Drevenlive schudulc
+The equipmenilog
+bulove includus Iaull cedes and coneclive
+ralcs
+Ensure all salely checks
+NCIu comipicicd dunng senvicima
+This service sumrary suppors Ihe rellabilily
+e ngineefino (evier
+Use this summary
+Crecast panz (epacemeni and
+e3OUrc e
+needs
+Check that
+downtime events
+prcperly categorized and loggad  Entries include work
+technician
+assignments
+and part
+changes
+Section A:
+Unit Code
+MC 248
+KC 257
+MC 270
+MC 273
+Equipment
+Paint Booth 
+plasma Cutter
+Latne
+Packaging
+TvpC
+Lorecive
+Lorrective
+Preventive
+Preventive
+Operato
+Launa
+Rossi
+Laura Rossi
+Peter Schmict
+Jan Kowalski
+Dumtion
+Notes
+Li-Icn
+Changed dil and
+Alignment
+'hinges
+5enicec
+aqjusted
+Sectlon B:
+Unlt Code
+MC 273
+MC-270
+MC 248
+Equipment
+PasMa
+Culter
+Packaging Line
+Laine
+Paint Bocih
+Type
+Corccint
+Cocctve
+PrcvcrC
+Correcle
+Operator
+Knna
+Nowak
+Jan Kowalski
+Jan Kowalski
+Anne
+Nowak
+Duratlon
+Notes
+Alignment
+hinges
+dntenec
+loose
+Wooden pallet
+aqjuste d
+oots
+chec*ed
+Uptime (%)
+Error Count
+comments
+96 1486
+Bolt ticniened
+orcers
+batl.an}
+pack
+Med
+MC 25

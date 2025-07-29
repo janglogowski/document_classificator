@@ -1,0 +1,98 @@
+Production
+Repoit No::
+PR-274
+Customer
+POLAND
+Supervisor:
+Anna Nowak
+Department:
+Quality Contral
+Dale
+29-09-2024
+Shift:
+Night)
+Equipment
+Operation
+Operator
+From
+Time Spent
+Comments
+MC-203
+Drilling
+Przemystav:
+06;00
+07.51
+Recalibrated
+Wasik
+MC 208
+Welding
+Wiktor
+11.30
+124/
+Kobczvnsk
+MC-202
+Assemoly
+4nna
+Nowak
+Mm
+10.46
+106
+MC-206
+Assembly
+Piatr
+14,00
+15.36
+Recalibrated
+Lewandowsk
+MC-207
+Assemoly
+Mateusz
+12.30
+13.41
+Recalibrated
+Jaizyna
+MC-208
+Polishing
+Przemystaw
+07;30
+09.08
+Delav
+Wasik
+MC-208
+Polishing
+Piotr
+09.30
+10.23
+NIA
+Lewandowski
+Product ID
+Planned
+Achieved Qty
+Scrap Qty
+Failure
+Remarks
+Output
+RM B6ON
+244
+229
+6.1590
+WD-180S
+287
+285
+0.7096
+Scrap
+contirmed
+RX-3102
+234
+203
+2590
+Rework needed
+T-320v
+92c
+Rewanneeded
+Preparedby:
+Peter Schmidt
+Approved by:
+Schmidt
+Log
+Pelet

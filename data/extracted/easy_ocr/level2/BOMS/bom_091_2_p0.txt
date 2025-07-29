@@ -1,0 +1,62 @@
+Customer ID: FINLAND
+Prepared by: Carlos Garcia
+Product ID: FT-730X
+Internal No;: 3901585
+This saction outlines the parts, Unit prices and total amounts for
+assernbly.
+tallly for compliance with
+Roview the materials
+budget allowances
+to this parts register to plan rAW-material
+purchasing: The
+manifest here (8 designed to support procurement workflows:
+Item
+Plastic
+Ventilation
+Gaskat
+Ventilation
+Description
+Covor
+Gric
+Sheat A4
+Digital
+Spring
+150*150
+Giid
+Display
+Washer
+Qty
+357
+Unit
+MiQ
+649
+249
+237
+UOM
+pCs
+pcs
+pca
+Unit Prlco
+LO
+pcs
+1.25
+15,0q
+0,05
+Amount
+3,074.40
+311,25
+4,327.20
+4430,C
+Remarks
+20,55
+SKF brund
+Certified
+Eco
+SKF brand
+patch
+compliant
+TOTAL: 16,556.10
+Relar
+pana
+3924
+Urgont

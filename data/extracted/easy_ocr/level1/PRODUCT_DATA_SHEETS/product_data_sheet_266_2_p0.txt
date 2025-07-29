@@ -1,0 +1,66 @@
+Unit Configuration
+This data sheet provides key specitications and material details_
+Below are the technical parameters and
+construction materials for the unit; Refer to this configuration summary for unit-designation mapping: All data
+entries are traceable t0 design revision
+history. Confirm that perfommance ranges comply with project
+requirements;
+This section details the configuration and parameter set for the product;
+Product
+RX-310Z
+Document No;:
+4434075
+Prepared by: Laura Rossi
+Approved by: Peter Schmidt 
+Date: 2024-06-07
+Configuration Type
+Hydraulic Power Unit
+Rated Pressure
+180 bar
+Throughput
+60 Umin
+Supply Voltage
+480
+60Hz
+Battery Capacity
+10 Ah
+Filtration
+10 pm return
+25 Hm
+sucton
+Noise Level
+70 dB(A)
+Reservoir Capacity
+Ensure that the Iisted materials are approved for the application_
+Confirm that all test conditions are
+accurately represented_
+Document control numbers are included ior
+traceabillty: Data sheet has been
+reviewed by the engineering team; Use this summary
+cross-check with BOM and
+inspection reports
+Material of Construction;
+Label
+Raw Material
+Rubbe_
+Gaske
+Bumm
+Niule
+Rubber (NBR
+ellon Tape Ro
+Tellon Tape Roll
+Shee
+Larton
+Capacitor 450V
+Aluminum 6061-
+Heat Sink ALU
+Kmmmum
+6061-T6
+Nut M6
+Zinc-Plated Steel
+Digital Display Unit
+ABS
+laslic
+Hinge Set
+Slainless Steel 304
+peer-

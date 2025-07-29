@@ -1,0 +1,117 @@
+DAILY PRODUCTION REPORT
+Report No;
+PR-621
+Custcmer:
+TURKEY
+Supervisor;
+Anna Nowak
+Department:
+Maintenance
+Shift:
+15-01-2025
+(hroughput figures are recorded ior capacity planning
+The summary below Iists each station $ actual
+versus planned output_ Ensure any downtime incidents are noted for follov'-up:
+ease review today's
+operation log and output summary for each workstation:
+Machine
+Task
+Technician
+Start
+End
+Duration
+Remarks
+Thermal
+Lime
+Hime
+(min
+Reading
+(KWb)
+MC-204
+Cutting
+Dawid
+12.15
+13.32
+NA
+59.4
+1.73
+Oszmiaiczuk
+MC-203
+Welding
+Agnioszka
+10.00
+11.32
+75.3
+Zielinska
+MC-203
+Welding
+Wiktor
+10;15
+11,53
+73,8
+Kopczynski
+MC-207
+Drilling
+Przemyslaw
+10.30
+10.51
+62.7
+Wasik
+MC-205
+Assembly
+Przemystaw
+12.15
+14.05
+110
+65.7
+2.,86
+Wasik
+MC-201
+Polishing
+Przemystaw
+11.00
+11.35
+Delay
+70.5
+1.61
+Wasik
+MC-205
+Cutting
+Mateusz
+14.00
+14.21
+Recalibrated
+60.6
+2.77
+Jarzyna
+MC-202
+Polishing
+Piotr
+10 00
+11,00
+77.0
+2.21
+Lewandowski
+MC-202
+Polishing
+Przemyslaw
+12.00
+13.55
+115
+NA
+76.6
+2.33
+Wasik
+MC-204
+Assembly
+Nadia Sauter
+08.00
+09.02
+Recalibrated
+63.5
+Prepared by:
+Carlos Garcia
+Approved PX
+Jan Kowalski
+(Nght)
+Energy

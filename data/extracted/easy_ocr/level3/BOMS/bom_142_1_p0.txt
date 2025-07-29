@@ -1,0 +1,98 @@
+Product ID
+Peter
+Untemal
+Date;
+ta this parts
+Qty; 203
+register to plan
+Item
+Qty
+1,26
+Rate
+2.52
+1.60
+Shaft
+High;
+0.55
+grade
+19.25
+8.00
+64.00
+Eco
+3.03
+0.55
+compllant
+8 00
+refect_
+RORS
+with the
+adjust
+prder;
+for bulk orders:
+that all remark
+this
+and
+logistics
+meet the
+costs where
+cta
+BOM
+Rcport
+Customer
+BELGIUM
+BZ-660F
+Coordinator;
+Schmidi
+3036273
+2023-02-02
+Rcfer e
+Orded'
+Faw-material
+purchasing:
+Consumption
+Description
+Extra
+Plastic
+UOM
+Rivet?
+Amount
+Remarks
+Rubber
+0,20
+StopEer
+0./8
+S0Omm
+Ureent
+Ruober
+stopper"
+Shait
+summ
+10.35
+Certifed
+Datch
+232.0
+Ampunts 
+cuttent
+reconciled
+prlcing;
+Cumplani
+necessane
+putchase
+standatds
+Fintal =
+Verify 
+Ensure '
+4nounts
+Include
+materials
+handling
+Mtcmt
+surnmary /
+soufcinge
+depanment' $
+apalicable;
+Amount;
+337.20
+Approved [
+Sourcing
+Depantinent?

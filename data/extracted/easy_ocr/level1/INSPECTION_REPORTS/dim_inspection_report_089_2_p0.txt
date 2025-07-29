@@ -1,0 +1,70 @@
+Tolerance Check
+inspecior
+Laura
+Rossi
+Inspection Date
+2025 05.10
+Article No.
+PW-515Y
+AL-115Q
+QP-S6QF
+NU-440Z
+Ms-GOQP
+QP-660F
+Component
+Plastic
+Hex Bolts
+Shaft 50Omm
+Shaft 500mm
+Hex Bolts
+Plastic
+Rivels
+M12
+M12
+Rivels
+Mleasurement
+Hole
+Hole
+Depth
+Inner
+Length
+Height
+Dlameler
+Taraet
+1407
+65.84
+38.97
+6.93
+76.70
+Actua
+1450
+65.88
+39 00
+DIff
+Pass/Fail
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+any components requiring re-machining
+adjustment This assessment reflects the latest metrology
+results
+Record any measurement anomalies for follow-up analysis
+AIl dimensions within tolerance have
+been marked as OK,
+Instrument Calibration Log:
+Instrument
+Seria
+Last Calibration Date
+CMM
+94287
+2025-01-20
+Caliper
+95336
+2025-01-26
+Caliper
+93265
+2024-12-16
+Flag

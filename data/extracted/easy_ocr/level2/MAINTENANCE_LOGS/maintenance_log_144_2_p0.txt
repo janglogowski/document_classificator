@@ -1,0 +1,122 @@
+Check that
+dovantime events Are properly categorized and logged. This service gummary
+supports the reliability engineering
+Far
+This sectian capturee
+equiprent status und uny maintenancu observutions
+Belowisthusummalry ofservicuacticns_
+dowuntimeg
+aach nachine
+Confirm that service Intervali follow the preventlv
+schedule.
+Spare Parts Used:
+Pant Name
+part No
+Qty Used
+Sena0
+Module
+4070
+ogauna Gusket
+6825
+Sealine
+Gasket
+P-6770
+Fuse SA
+P-S2JE
+Machine
+Machine
+Service
+Operalor
+Dolnamk
+Previous
+commena
+Type
+Senvice
+MC ?96
+49 $ Hrmuy
+Lufteclve
+Luma
+2024-02-70
+Robot
+Nowak
+baiten pAC<
+sunviced
+MC-ZEE
+Lathb
+CorrectiE
+2023-08-04
+Calbration
+Kowalski
+check OK
+MC-2YT
+Convbvor
+Inspection
+Carios
+202E-1214
+Klipnment
+Belt
+Garcia
+of hinges
+matan
+MC ?35
+Hydraulic
+Insceclion
+Lalm
+Rossi
+7074-06-16
+CharGed oil
+Press
+and Fters
+MC-275
+Convev0i
+preventive
+2024-06-|1
+Switch
+Belt
+Kowalski
+ccntacte
+clganedr
+MC-283
+Packaging
+Prevanti
+Lalna
+Rossi
+2024-04-28
+Alignment
+otninges
+adiuateo
+MC-293
+Latne
+Correctie
+Peter
+2023-12-02
+schmidt
+MC-251
+pelni Booth
+Corrective
+2024-12-02
+Refilled
+Kowalski
+(HLP 46]
+MC-270
+Paint Booth
+Inspection
+LaMnS
+Rossi
+2024-02-05
+Refilled oil
+(HLP 461.
+MC-256
+Packaging
+Inspection
+Carios
+2022-02-01
+Replaced
+Garcia
+fuseSA
+JankowbiakI
+Pertarmedb:
+Anma Nawrak
+L-on
+Lm
+Slened

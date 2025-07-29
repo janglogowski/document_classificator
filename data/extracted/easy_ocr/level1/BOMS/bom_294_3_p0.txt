@@ -1,0 +1,82 @@
+BILL OF MATERIAL
+The component roster below includes unit costs and batch codes: Below is the component listing
+and associated costs for the upcoming production batch: Review the materials tally for compliance
+with budget allowances. This section outlines the parts, unit prices and total amounts for asserbly.
+Item
+UOM
+Rate
+Amount
+Remarks
+Description
+Wooden
+15.00
+465.00
+Switch
+Pallet
+tested OK
+Packaging
+J00
+21.00
+Eco
+Box (
+compliant
+Insulation
+9.60
+Urgent
+Foam Pad
+Spring
+0.05
+Eco
+Washer
+compliant
+M1O
+Plastic
+.80
+Certified
+Cover
+batch
+150x150
+Packaging
+47.00
+Box (
+Clamp
+pcs
+1.75
+33,25
+Eco
+120mm
+compliant
+Grease
+pcs
+26,60
+Imported
+Tube 250ml
+Shaft
+pCs
+104.00
+ISO-verified
+soomm
+Ventilation
+pCS
+156.80
+Grid
+Battery
+pcS
+25.00
+450.00
+Imported
+Pack
+Customer ID: TURKEY
+Coordinator: Anna Nowak
+Date: 2024-01-26
+Product ID: DX-777T
+Internal No_
+8233371
+Order Qty: 487
+Total Arount:
+323.85
+ps
+pc5
+pc5
+pcs
+Ring

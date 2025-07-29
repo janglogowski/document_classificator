@@ -1,0 +1,47 @@
+Unit Data Specification
+Below are the technica
+parameters Jnc
+construction materials for the unit. The following information outlines
+performance characteristics and design data Confirm that performance
+anges comply with project requirements
+The parameter register belaw includes operating limits and ratings_ All data entries are traceable
+cesign revision
+histary. This data sheet provides key specifications and materia
+details:
+Product ID
+TY-350G
+Document No:
+PR-482
+Preparec
+bv: Jan Kowalski
+Approved by: Carlos Garcia
+Date
+2023-09-27
+Model Type
+Cooling Circulation
+Operating Pressure
+250 bar
+System
+Fluid Flow
+75 L{min
+Voltage
+480 _
+60Hz
+Frame
+Mlateria
+Powder-coated Steel
+Reservoir Capacitv
+Motor Power
+protection
+Ciass
+IP6T
+All summary comments have
+neen recoroer
+the revision
+Dg. Check that
+sectian headers fallow the praduct
+template: Material choices and process data have been verified for compliance: Archive this summary for future
+design changc
+manaecmenc
+Ensure
+lossary terms match the engincering nomenclature

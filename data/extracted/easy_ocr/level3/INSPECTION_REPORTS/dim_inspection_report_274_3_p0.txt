@@ -1,0 +1,113 @@
+Measurement Summary Sheet
+Inspection performed by Laura Rossi on 2024-09-01
+Code
+Component
+VR-940T
+Graphite Pad
+Hole
+Nomlnal
+Actual
+Delta
+MS-G00p
+55.12
+55.28
+Status (VX
+Power Switch
+Height
+43 42
++0.16
+SB-I400
+Graphite Pad
+Height
+43.63
++0.19
+VF-2Z0D
+0-Ring NBR
+Depth
+28.17
+28.13
+G0mm
+34.65
+34.80
++0.15
+NU-440Z
+Wooden
+Tnickness
+Pallet
+40.49
+40.47
+-0.02
+RX-J1OZ
+Graphite Pad
+Wiath
+33.43
+ON-770h
+Swltch
+Depth
+33.59
++0.16
+TL-9oOX
+Wooden
+Width
+84.03
+83.83
+0.20
+Pallet
+93.70
+93.60
+0.10
+Bz-660F
+Wooden
+Width
+7,26
+Pallet
+7.45
++0.19
+GL9805
+Shaft SOmm
+Aoe
+GH-7701
+0-Ring NBR
+57.17
+57.20
+10,03
+Length
+83.61
+83.79
+6Omm
++0.18
+300t
+Hex Bolts
+Height
+37,92
+37.82
+AZ-3DDT
+0-10
+Shaft S0omm
+03-06
+TX-BZOV
+Battery Pack
+Heieht
+63,16
++0.10
+HF-39n4
+€9.66
+69.85
+Rubber
+Hole:
+87.77
++0.19
+Gasket 8Omm
+87.71
+~0.05
+CE-9OSL
+Steel Sheet
+Depth
+436
+15.11
+15.09
+0.02
+Jtem
+0.04
+Povet
+Depth

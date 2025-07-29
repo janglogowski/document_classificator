@@ -1,0 +1,103 @@
+DAILY PRODUCTION REPORT
+Report No::
+Pr-2z0
+Supervisor;
+POLAND
+Department:
+Peter Schmidt
+Lace
+intin
+shift:
+26 09-2024
+(Morning}
+Maching ID
+Operation
+Operator
+Total
+Remarks
+MC-20]
+Dawid
+03.30
+duration
+Oszmianczuk
+09,20
+Recaibrated
+MC-203
+Dawid
+13.00
+14.20
+MC- 206
+Oszmiariczuk
+Recalibrated
+Agnieszka
+12.30
+185
+Zieliriska
+MC 203
+07.00
+07.33
+MC-203
+Jarzyna
+NCVAk
+MC 206
+Polisting
+10.30
+11,20
+Agnieszka
+12.15
+12.40
+Recalibrated
+Mc 20}
+Zielinska
+Delay
+Follshing
+Mateusz
+11,00
+12.57
+Jizyna
+MC 204
+Przemystaw"
+12.30
+13.26
+Wasik
+MC-202
+Jo
+12.27
+Kopczyrski
+Rera
+librated
+Product
+Planned
+PL-601z
+Output
+Produced
+Defect Oty
+Rejection
+Z00vc
+8,8 45u
+VE-ZZ0D
+47042
+cuntifatied
+000%
+SCrap confirmed
+Prepared by;
+Anproved byi
+Anna Nowak
+peler
+Schiniot
+Cusionct
+Staft
+Tinta
+Drlllng
+Polshing
+Pollsrung
+Druing
+Mateu]
+I8lng
+Anna
+Welding
+Melding
+Mktor
+05
+Vyze'
+Scrj2

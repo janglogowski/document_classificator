@@ -1,0 +1,76 @@
+Equipment Record Report #1552791
+Date
+2025-05-24
+Unit Code
+Hachine
+Senvice Uxpe
+Hechnician
+Duration
+Arez
+Hotes
+MC-247
+Conveyor Belt
+Preventive
+Laung
+Rossi
+Plant 28
+Rionment
+hnges
+adjusted
+MC-280
+Paint Booth
+Inspecton
+Anna Noxak
+Piant 34
+Cnanged 0l
+and iler;
+MC-294
+Plasma Cutler
+Inspecton
+Jan Koralsk
+Piant 1C
+Tightened
+oredols
+MC-229
+Hydraulc
+Coreciive
+Anna
+Noxak
+Plant 2B
+Replaced
+Press
+coan
+MC-295
+Laser Cutter
+Inspection
+Jan Koxalski
+Pilant 34
+Alignment of
+hnges
+adusled
+MC-267
+Laser Culler
+Corecin e
+Carlos Gaicia
+Piant 2B
+Worn gaskel
+replaced
+MC-250
+Hydraulc
+Inspecton
+Plant 34
+Alignment of
+Funges
+adjusted
+Maintenance noles are archived lor complance audts.Confm thal all corecte actons Kere propedy closed ouL
+Record any spare
+usage for inventory adjustment_ Archive this summary in the CMMS for future reference
+Lubncalon Checked
+Calibiaton Venfed
+Emergengy Stcp Tested
+Approved by:_
+Senviced Dy"
+Cato
+Garcia
+Press
+Puns

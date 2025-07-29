@@ -1,0 +1,68 @@
+Inspection Results Summary
+Anna
+Inspector
+2024-04.02
+nspeclion Dale
+PW-515Y
+XK-G1QU
+GL-980S
+Lk-890B
+XK-GAQU
+Hex Bolts M12
+Waoden Pallet
+Meme
+Code
+M1?
+Hex Bolts M12
+Plaslic Rivets
+Pepth
+Part Name
+Hex Bolts
+Thickness
+Depin
+Width
+Measurement
+Depth
+36.87
+26.49
+58 17
+44.15
+Target
+58.24
+36.84
+26.11
+-00
+5,09
+-0.08
+Actua
+PASS
+Delta
+~uu
+PASS
+PASS
+PASS
+Pass Fail
+PASS
+Confirm that pass rates nicet Ihe
+memo confirms thal dimensional checks arncohaetb
+marked as OK
+This closure
+within :
+toierance have been
+acceptance criteria
+AIl dimensions
+defined
+Instrument Calibration Log:
+Last Calibration Date
+Serlal No:
+2025-05-10
+Instrument
+60114
+Caliper
+2024-12-05
+55133
+CMM
+INovon
+580
+T0.17
+F0 07

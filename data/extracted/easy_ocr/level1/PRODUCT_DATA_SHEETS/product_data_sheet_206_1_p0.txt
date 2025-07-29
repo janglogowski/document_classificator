@@ -1,0 +1,103 @@
+Product Data Sheet
+Project:
+CE-905L
+Document No::
+2889989
+Prepared
+Lanios
+Gancia
+Approved By:
+Carlos Garcia
+Location: Plant 1C
+Date: 2024-05-23
+Refer
+this configuration summary for unit-designation mapping:
+The parameter register below includes
+operating limits and
+Please reviewv (he
+specifications and material composition listed below. Confirm
+performance ranges comply with project requirements:
+Unit Type
+Hydraulc Power Unit
+Rated Pressure
+250 bar
+Fluid Flow
+48 Lmin
+Supply Voltage
+400
+S0Hz
+Battery Capacity
+Oil Type
+HLP 68
+Working Temp. Range
+10'C to 50'C
+Motor Power
+75kW
+Reservoir Capacity
+160
+Total Weight
+250 kg
+Frame Materal
+Stainless Steel Frame
+Mounting
+Rack frame
+Dimensions (LxWxH)
+1000
+650
+1000 mm
+Charging Time
+Filtration
+pm inline
+10 pm
+Service Interva
+12 months
+return
+Protection Class
+IP65
+Noise Level
+68 dBLA
+Control Valve
+Directional 4/3
+Cooling
+Air_cooled Oiladalor
+missing parameters for urgent specification updates
+Ensure that the listed materials are approved
+for Ihe application; This summary reflects the latest 
+vision of the product dala;
+Confirm that all test
+conditions are accurately represented_
+This .
+osure note indicates the data sheet i5 ready for release:
+Material choices and process data have been verified for compliance; All summary comments have been
+recorded
+the revision log.
+Material
+Construction:
+Label
+Composition
+Rubber Gasket B0mm
+Nitrile Rubber (NBR)
+Glass
+illed Nylon
+Nut M6
+Zinc-Plated Steol
+Gasket Shect A4
+Nitrile Rubber (NBR)
+Digital Display Unit
+ABS Plastic
+Capacitor 450V
+Aluminum 6061-76
+Pressure Valve
+Brass CZ121
+Loom
+PVC
+Rigid
+Fuse 5A
+Ceramic Oxide
+Battery Pack
+Lithium-Ion Cell Pack
+ratings;
+Flag
+Lioht
+stp
+Wiring

@@ -1,0 +1,93 @@
+BILL OF MATERIAL
+Customer ID: TURKEY
+Coordinator: Peter Schmidt
+Date: 2024-08-05
+Product ID: MX-4S0L
+Internal No.
+9473639
+Order Qty; 247
+All entries reflect the latest inventory and supplier rates The following table summarizes the materials
+and quantities needed for the current project;
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Bearing
+1.73
+pcs
+1.50
+48.00
+Imported
+6202 ZZ
+Heat
+2.42
+2.70
+37.80
+Resistant
+Sleeve
+2.50
+52.50
+Umported
+Plastic
+3.37
+1.10
+17.60
+Certified
+Cover
+batch
+1S0x150
+Shaft
+1.53
+8.00
+216.00
+Switch
+50Ornm
+tested
+Heat
+1.97
+10%
+2.70
+5.40
+Switch
+Resistant
+tested
+Sleeve
+Protective
+2.23
+36.00
+Sleeve
+export
+50mm
+Shaft
+3.18
+8.00
+24.00
+50Ornm
+Gasket
+2.08
+10%
+pcs
+1.25
+35.00
+Sheet 44
+Digita
+2.31
+pcs
+15.00
+780.00
+Display
+Unit
+Verify that all remark items meet the sourcing department' $ standards;
+Total Amount:
+252.30
+Approved By:_
+Sourcing Department:
+Hinge
+PCS
+DCS
+PCS

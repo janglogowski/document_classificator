@@ -1,0 +1,77 @@
+Unit Configuration
+Project:
+CE-905L
+Document No.
+PR-977
+Prepared
+Lanos
+Garcia
+Approved By:
+Lanos
+Garcia
+Location: Plant 2B
+Date
+2025-07-04
+Use Inis spec sheet to validate assembly instructions_
+Entries include both mechanical and electrical
+specifications. Ensure all referenced standards are up t0 date;
+Confir that performance ranges comply with
+project requirements:
+Refer t0 this configuration summary
+unit-designation mapping
+Check Ihat all
+material
+specs align with supplier cenifications;
+Configuration Type
+Cooling Circulation
+Rated Pressure
+210 bar
+Svsiem
+Flow Rate
+75 Umin
+Supply Voltage
+230V IS0Hz
+Contro
+Valve
+Dlrectona
+Motor Power
+41kW
+Total Weight
+250
+Noise Level
+68 dB(A)
+Reservoir Capacity
+160
+Pump Type
+Gear
+Service Interval
+1000 h
+Filtration
+Um inline;
+rCiurn
+Oil Type
+HLP 68
+Mounting
+Rack frame
+Working Temp. Range
+10*C
+559C
+Protection Class
+P65
+Malerial
+Construction;
+Label
+Raw Material
+Power
+Swlch
+Polycarbonate
+Copper
+nsulaled
+25mm
+Thermoplaslic Polyurelhane (TPU)
+Therma
+Fuse
+Ceramic Oxide
+Pump
+10 pmn
+Tube

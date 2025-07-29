@@ -1,0 +1,95 @@
+Audit Trall
+This summary supports Ine production-release quallty
+Confirm (hat sampling levels comply with
+customer agreomenis
+Thls closure surmary Indicates compllance wlih Inspecilon criterla; Ensure all non
+conforming marks are clearly documented. Use (his extract to coordinate sign-olf with Ihe QA manager: This
+chocklist captures quallty Inspecllon polnts and sampllng levols . Archive this Iist in Ihe quallty-managoment
+system:
+Product ID
+HF-390A
+Customer ID
+BELGIUM
+Item Description
+Sensor Clp
+Quality Check Itoms
+Sample
+Classification
+Notos
+Tler
+Design Specs
+Critical
+Major
+Minor
+OnHold
+shlpping mark Is illogible
+Levol II
+Mlnor Issuo
+mnissing
+observed
+Missing logo
+warning
+Level II
+Issue
+Jabe
+observed
+Nol assembled as per
+Levol Il
+drawing
+Rubbor Switch not
+Neads revlow
+working
+Loose parts insidu
+Minor Issuu
+packaging
+observed
+Carton
+damaged or
+Level IlI
+Needs revlew
+markings incorect
+Visual defecl on housing
+LevellI
+Neads revlew
+Incorraci barcodu
+Jabel
+Neads review
+Connacior ni
+working
+Lavell
+Dend
+Iive Inseci
+Lavol
+Neads revlew
+packaging
+Incorrocit quantity
+Lavol IlI
+IssuO
+assonmen
+obsenved
+DusUdabris Inside
+Minor Issue
+packaging
+obsanved
+Wrong product slze
+Levell
+Exposed nall wilh sharp
+Minor Issua
+Levell
+pont
+obsenved
+Ioose
+Needs revlew
+Minor Issue
+Functionality test failed
+obsenved
+Incorreci orienlallon In
+Levol
+Neods revlow
+box
+Supervised by:
+Dato:
+qate;
+Minoi
+Minor
+Hinges

@@ -1,0 +1,95 @@
+Audit Trail
+Ensure allnon-conforming marks
+are clearly documented
+Check that inspection steps follow the approved
+pfocedure
+The following table outlines Inspection criteriaand classification levels. Entries Include both visual
+and functional inspection items_
+Product
+AL-T1SO
+Customerid
+TURKEY
+Item Description
+Sensor Clip
+Audit Criteria
+Sample Tier
+soverity
+Remarks
+Componen
+Criteria
+incorrec
+Darcode
+label
+Critical impact
+Shipping mark E
+illegible .
+Critical impact
+missing
+Missing safety labels
+Needs review
+Connectornor
+working
+Levem
+Critical impact
+Dead
+live insect inpackaging
+Crtica
+Imnact
+Missing logo
+wamning label
+Critical impact
+Coiom
+Iismatct
+Luvel
+Nuede
+Tavd
+Carton
+damaged
+markings
+Critical impact
+incorrec
+Rubber
+texture
+Dstineys
+Level II
+Minor issue observed
+FTSMAe
+Packaging does not match
+Level |
+Needs review
+signed sample
+Package
+nal senled
+Level II
+Needs review
+completely
+Instruction manual is Missingor
+Level II
+damanaem
+Produg
+doesn t powe
+Level
+Needs review
+incorreciamantaliam
+Issue Jbservad
+Vs?
+defecton housing
+LOVG
+Neede
+Tt 
+Functionality test failed
+LCVC
+Critical impact
+Screws looso
+missing
+Level E
+Critical impact
+splinter
+sharp point on
+Level IlI
+product
+Supervised by:
+Date:
+Levet
+Nmor
+Wooo

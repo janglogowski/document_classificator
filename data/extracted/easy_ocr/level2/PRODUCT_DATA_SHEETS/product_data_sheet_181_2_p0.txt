@@ -1,0 +1,69 @@
+Component Overview
+This dala shoot provides koy speclllcatlons and material detalle, This (ochrical ovarviuw supports Uhe
+product-rolease checklist Use (his spac sheet (0 valldale assembly Instruclions, The lollowing informalian
+Qutlnas potformarice characterisllcs and design data
+Conllrm Ihal perforanca rangos Ccxnply wilh project
+roquirumanes,
+Producl ID;
+GH-770.1
+Report No;
+958842
+Propared by; Potar Schmidt | Approved by" Peter Schmldl
+Dalo; 2023-08-24
+Contiguratlon Type
+Paoumntle Control Unlt
+Dosign Prossuro
+SC0 Var
+Fllow Rate
+30 Lmin
+Voltuge
+400
+50 Hz
+Tota
+Walght
+250 Kg
+Protectlon Ciass
+IpG?
+Working Temp: Range
+5"C
+45"€
+Frame Materlal
+Stanlass Steol Frame
+All specilicallons meot Ihe desigr raqulramants anc Irdustry standurds: Check thal all sucilan huadlers
+Iollow Ihu procuct Iemplate. Reler t0 paramaler (abla (or operating maniges und (olocarces
+ensure @ossary
+teris malchi Uhe englnoering nomerclature Flag any mlssing partmeters (or urgent speciicallon updates;
+Archive Ihis summary for future dlosign-change managemont;
+Materla
+Construction;
+Mer
+Composlilon
+Difilal Display Unlt
+ABS Plasilc
+Sol
+Stalnless Sluel 304
+Fu3a 54
+Ceramic Oxldu
+Conaclor 2P
+Ginss
+-FIed Nylon
+Capaclior_AS0V
+Aluninum 6061-[6
+LED Lighl Sirip
+Glass-Filled Nylon
+Power Sililch
+Polycarbonale
+Copper
+Therral
+Wya
+CoriO Oxidu
+Haitery Pack
+Lithlunt-Ion Cell Pack
+Steol Sheo A36
+Carbon Steel A30
+Hont Sink ALU
+Alumimum 6u61.16
+Guakol
+Shoot /4
+Nitgle Rubber (NBR)
+Hingo.

@@ -1,0 +1,92 @@
+Shift Summary
+Report No:: PR-333
+Customer: TURKEY
+Shift:
+(Night)
+Date: 28-12-2024
+Machine
+Task
+Operator
+From
+Total
+Remarks
+Status
+duration
+MC 207
+Welding
+Magdalena
+06.30
+07.18
+Recalibrated
+Delayed
+Witkowska
+MC-207
+Welding
+Przemusiau
+06.30
+07.43
+Delay
+progress
+Wasik
+MC 201
+Cutting
+Magdal
+08.30
+09.34
+Recalibrated
+Delayed
+Witkowska
+MC-206
+Assembly
+Wiktor
+10.00
+11.44
+Completed
+Kopczyriski
+MC: 202
+Assemoly
+Nadia
+09.30
+10.36
+Delay
+Compicteo
+Sduter
+MC-204
+Cutting
+Nadia
+13.00
+13-55
+Delayed
+Sauter
+Nate any unscheduled stops
+cowintime rezister
+Use this summary
+update the overa
+production dashhoard;
+All operator notes have been archived for review This closure summary signals readiness for the next production run:
+Overall production performance met expectations for the day.
+Part ID
+Planned Qty
+produced
+Rejected Qty
+Scrap
+Rework
+Remarks
+Qty
+Count
+51-430M
+198
+183
+7,5876
+MX-450L
+2.07%
+Scrap
+confirmed
+VF-ZZOD
+197
+181
+8.1256
+Rework
+needed
+Approved by:
+Prepared by:

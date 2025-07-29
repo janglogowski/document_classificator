@@ -1,0 +1,75 @@
+Compliance Log
+#8413837
+Date: 17.07.2025
+Product ID
+DX-777T
+customer
+SWEDEN
+Item
+Description
+Copper Wire 3mm
+Allchecklist entries are
+timestamped for traceability. This section details quality requirements and test points for the
+batch: Confirm that sampling levels comply with customer agreements Check that Inspection steps follow the
+approved procedure
+Refer
+quality register for sampling-plan references
+Fnsur
+Fan
+conforming marks are
+clearly documented
+Inspection Checklist Points
+Check
+Defect Class
+Notes
+Intensity
+Component Criteria
+Product doesn
+dowCi Cn
+Levci
+ISSUC
+OOsCNco
+Incorrer
+parcode
+Level
+Needs review
+TOlsm?
+Minorissue
+observed
+Nat assemb
+drawing
+Level
+Minor Issue
+Ddsenved
+Incorreccanentanon
+LUME
+Minors ue
+Dusenved
+Exposed nall with sharp point
+LevCi
+Package
+not sejicc
+completely
+LEi
+Wrong product size
+AQL Level
+Critical
+Waior
+Minor
+Default
+Custamer
+specific
+Ensure that
+reman s have
+corresponding evidence attachments_
+Archive tnis summary in the audit-readiness
+folder. Overall quality status indicates compliance with defined AQL levels This summary supports the end-of-line
+quality certification: All critical and major inspection points have been addressed. Refer
+notes for any observed
+defects
+devations, Use this clasure report
+quality KPI dashboard
+Minor
+Colot
+as Per
+undjut

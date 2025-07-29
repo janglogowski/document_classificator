@@ -1,0 +1,77 @@
+COMPONENT BREAKDOWN
+Customer ID: POLAND
+Coordinator: Peter Schmidt
+Date:
+2023-12-14
+Product ID: VR-940T
+Intema
+No.
+3615478
+Order Qly: 309
+The parts manifest here is designed to support procurement workflows. Ensure each component
+meets the specified quality standards
+This extract shows the bill of components and total
+projected spend
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+0.82
+0%
+pCS
+8.00
+48.00
+Li-Ion
+50Omm
+battery
+installed
+Set
+0.38
+10%
+pCS
+2.50
+110,00
+For
+expon
+Spring
+0.71
+2%/
+pCS
+0.05
+1.75
+ROHS
+Washer
+compliant
+M1O
+Battery
+2.44
+2"/
+pCS
+25.00
+650.00
+Imported
+Pack
+Clamp Ring
+3.48
+0%
+pCS
+1.75
+80.50
+Li-Ion
+120mm
+baltery
+installed
+Review this summary against the master budgeting sheet.
+Total
+Amount:
+890.25
+Approved By:
+Sourcing Department:
+Hinge

@@ -1,0 +1,68 @@
+Product Data Sheet
+The following information outlines performance characteristics and design data. This technica
+ovemew supports the
+praducterclcase
+checklist: This report extract
+prepared for design verification audits. All data entries are traceable
+design revision history: This data sheet pravides key specifications and
+materiz
+details_
+Entries include both
+mechanical and electrical specifications Ensure all referenced standards are upto date;
+Product ID
+Xk-610U
+Interna
+3016562
+Preparec
+bv: Jan Kowalski
+Approved by: Peter Schmidt
+Date: 2023-11-06
+Mladei
+Type
+Pneumatic
+Contral Unit
+Operating Pressure
+Zsu dar
+Rate
+30 L{min
+Supply Voltage
+50Hz
+Cooling
+Alr-cooled Oll Tadlalan
+Total Weight
+25043
+Charging Time
+Archlve thls summary far future
+change management
+Check that all section headers follow the product
+Material chaices and process data have
+heen verified for compliance, All specifications
+the design
+requlrements and industry standards Data sheet has been peer-reviewed by the engincering team
+Material
+Construction:
+Kem
+Raw Material
+paier Svitcn
+Palvcarbonate
+Copper
+Heal
+Sn: AL
+Aumninuir
+6061-T6
+Cable Tie Pack
+Rubber INBR
+Hex Bolts M12
+Xinc
+lated See
+Cooling
+Silicone Rubber
+Digital Display Unit
+ABS Plastic
+No '
+Flo 
+detien
+{CMpi=
+rnect
+{100
+Pac:

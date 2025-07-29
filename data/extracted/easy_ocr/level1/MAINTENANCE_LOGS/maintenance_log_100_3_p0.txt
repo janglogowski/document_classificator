@@ -1,0 +1,148 @@
+Maintenance Checklist Report
+Performed On: 2024-11-11
+Signed off
+Jan Kowalski
+perc medb"
+JanKowalskI
+EMIrIC $ Inclugu uk Craus
+lucmniciam
+a5stunmunlS
+Durt chanacs
+This mainlenance
+uxDucl
+preparud Ir
+complance audil Iralls:
+s sccliOM cajluics
+cuuipmcmi Slalus
+and any ma ntenance observalions
+Use Inis suMary
+toreca3
+parts replacement and resource needs
+This log records all maintenance activities
+pertormeo C
+the equipment
+Confirm that service intervals follo " the preventive schedule- Cneck that all dowwntime events
+properly categorized and
+logged.
+Section A:
+Machine
+MC-266
+MC-289
+MC-285
+MC-295
+MC-288
+MC-215
+Machine
+Hvdmalic
+Cenveyor Belt
+Convevo
+Bell
+Laser Culler
+Hudmalic
+Lalhe
+Pieae
+Press
+Type
+Preventive
+Corrective
+Preventvve
+insnecior
+Correcivve
+Ccrrective
+Operutor
+Petcr Schmidt
+Petet Schmdt
+Ana Nowak
+Peter Schmict
+Petcr Schmidt
+Lauj Kogsi
+Duration
+Commenis
+Swilch
+Nossuer
+WNoJden
+No issues
+Swilch
+Swrilch
+contacte
+Iound
+nallct
+touino
+contacts
+contacts
+cieaned
+Cnecked
+cieaned
+cleaned
+Section B:
+Machine
+MC-295
+MC-233
+MC-243
+MC-238
+MC-288
+MC-215
+Machlnc
+Laser
+Laser
+Hydraulic
+CNC Milling
+Hydraulic
+Lathe
+Machine
+Tvpe
+Inspection
+Inspection
+Insp ectian
+Comeciive
+CoraciNe
+Corrective
+Operato
+Anna NNowak
+AnnaNcra:
+Carlos Garcia
+Lauma Ross
+Anna
+Yowak
+Laua
+Ros
+Duration
+Comments
+Tighiened
+Wdntened
+Woocen
+gasket
+Replaced
+ooSe DOlts
+loCse ols
+ren aceo
+cooiani
+checked
+Flag
+ecurfing Issues for root-cause Investigalon
+Overai
+equipment condition
+satisiacion
+post-malntenance. Use
+this closure note
+update the maintenance
+KPI tracker All maintenance tasks have been completed
+ner schedule
+Confirm Ihal all correclive acbans were preperly closed ouL: Reler
+rariagks
+for any follow-Up aclions
+parls
+replacements
+Check remaining Ilife cycles of key components
+repon
+Uptlmc (%
+Ertor Count
+Commcnts
+95.60%
+Boll tighlened
+Cutler
+Cutler
+Prcs?
+Pocae
+Vom
+ns

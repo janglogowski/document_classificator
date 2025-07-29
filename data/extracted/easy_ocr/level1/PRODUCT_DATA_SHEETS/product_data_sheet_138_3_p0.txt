@@ -1,0 +1,23 @@
+Unit Data Specification
+Report No: 8265959
+Product ID: RE-850C
+Date: 2024-08-30
+Model Uype
+Pueumatic Contol Unt
+Design Pressure
+300 bar
+Flow Rate
+Lmin
+Supply Voltage
+400
+S0Hz
+Service Interval
+500
+Total Weight
+230 kg
+Charging Time
+Mounting
+Rack frame
+Protection Class
+Prepared by: Carlos Garcia
+Approved by: Laura Rossi

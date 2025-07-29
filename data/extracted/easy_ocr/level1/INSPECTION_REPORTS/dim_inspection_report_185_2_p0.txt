@@ -1,0 +1,58 @@
+Measurement Summary Sheet
+ecnnician
+Laura Ross
+Inspection Date
+2025 03-11
+The inspection register
+below highlights any out-of-tolerance parts. This surmary of measurerents
+supports metrology traceability- All measured values are timestamped for audit purposes. This section
+details the measured values, tolerances; and status flags. This data extract
+prepared for quality-control
+sign-off.
+Item Code
+MX-450L
+SB-140D
+TY-350G
+GL-980S
+XD-Z1OR
+Component
+Steel Sneet
+Plastic Rivets
+Shaft s00mm
+Rubber Gasket
+Hex Bolts M12
+A36
+80mmL
+Qim;
+Depth
+Depin
+Thickness
+Height
+Inner Diameter
+Nominal
+72.34
+96.94
+Onscrvcd
+72.33
+Diff
+~0.12
++0,02
++0.02
+Pass/Fail
+This closure memo confirms that dimensional checks are complete. Ensure all measuring tools were
+properly calibrated.
+Please address any NOK items before proceeding t0 Ihe next production stage, Archive
+ths
+inspection summary for regulatory documentation:
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+CMM
+78119
+2025-03-24
+LJSC
+Scanner
+94047
+2025-02-15
+Log:

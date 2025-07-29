@@ -1,0 +1,76 @@
+Inspection Record
+Entries include both visual and functiona
+Inspection Items- This section detalls quallty requirements and test points
+for the batch: This summary supparts the production-release quality Gate Ensure
+nan-contorming marks are
+clearly Cocumented:
+Product ID
+TX-820v
+customcrId
+FRANCZ
+Item Description
+LED Light
+Inspection Checklist Points
+Sample Tier
+Severity
+Notes
+Component Criteria
+Critical
+Major
+Minor
+OnHold
+Carton
+damaged
+Level IlI
+Minor
+issue onsenec
+Markings incarrect
+Incorrect parcodeor Iabe]
+evd
+Needs review
+Rudder Svitch not
+working
+Minor Issue Odsenvec
+Instructon mnarua
+Mssine
+Critical Impact
+damaged
+Incorrect orentation in box
+Minor Issue observed
+Rubber texture
+elossiness
+Level IlI
+Minor Issue observed
+MlsMaich
+Dead
+Tive insect in
+Level |
+Critical impact
+Packaging
+product
+'LC
+Needs
+ueu
+dclect annousing
+LCvC
+Mino
+ISSUC OusCivcc
+Conneco
+norworn
+Levem
+Catica
+impact
+Functionality test failed
+revielv
+Shipping mark is illegible or
+Level |
+oosenvec
+Missing
+Supervised by: _
+Date: _
+strp
+Wiong
+Visujs
+Necds
+Minor
+issue

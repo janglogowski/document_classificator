@@ -1,0 +1,24 @@
+Customer ID: FRANCE
+Prepared by: Jan Kowalski
+Product ID: MC-540X
+Internal No:: 5732187
+No
+Item _Description_
+Power Switch
+Spring Washer M1o
+Insulation Foam Pad
+Qty
+904
+539
+204
+UOM
+pCs
+Unit Price
+0.05
+Amount
+084.80
+26.95
+Remarks
+Urgent
+Eco compliant
+TOTAL: 1,764.55

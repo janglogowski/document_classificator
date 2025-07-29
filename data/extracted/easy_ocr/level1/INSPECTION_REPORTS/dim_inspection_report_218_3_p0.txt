@@ -1,0 +1,153 @@
+Tolerance Check
+Inspection performed by Laura Rossi on 2024-06-25.
+revic 
+the inspection results
+Tor @jch component
+listed belov_
+Below are the
+recordec
+mcasurements
+compared against nomina
+tolerances- Ensure measurement methads align with calibration standards
+This section
+details the measured
+lues, tolerances, and status
+Use this examination summaryto confirm component
+conformity- Entries Include both
+pass/fail markers and deviation magnitudes.
+Environmental Conditions:
+mperature; 21,7"C Humidity: 37 %
+Product Ref
+Component
+Mleasurement
+Namina
+Observed
+Diff
+Status (VIX)
+SB-I4OD
+Rubber
+Unnei
+45.86
+0.13
+PASS
+Gasket 80mn
+Diameter
+LK-890B
+NBR
+Depth
+37.57
+37.53
+0.04
+PASS
+sOmm
+LP-SSSV
+Graphite Pad
+Heignt
+53.11
+93.0J
+0.06
+PASS
+RE-8S0C
+Stee
+Sheet
+Depth
+5.60
+5.55
+0.05
+PASS
+A36
+VR 9401
+Glaumc
+Deptn
+23.03
+22.99
+0.0t
+PASS
+TX 820v/
+Wooden
+Hole
+80.44
+80.56
++0.12
+PASS
+Palle
+GH-7701
+Thickness
+63.91
+64.08
+T0.T
+PASS
+TY-350G
+Steel Sheet
+Thickness
+97.76
+97.86
++0.10
+PASS
+A36
+MS 600P
+Wooden
+Hole
+77.16
+77.17
++0.01
+PASS
+Pallet
+PW-S15Y
+0-Ring NBR
+widin
+74.43
+74.52
++0.09
+PASS
+60mm
+4AZ-300T
+Jatter Pack
+Hale
+40.19
+40.22
+40.03
+PASS
+NU 4402
+Jjsticaivets
+60A6
+P2SS
+XD-Z10R
+Lengtn
+PASS
+LP-SSSV
+0-Ring NBR
+Depth
+88.77
+88.76
+0,01
+PASS
+SOmm
+RX- 3102
+Steel Shcet
+Height
+82.62
+82.74
++0.12
+PASS
+A36
+TY-350G
+Plastic Rivets
+Depth
+75.88
+0.17
+PASS
+KV-390k
+Wooden
+Height
+76.18
+76,.28
++0.10
+PASS
+Pallet
+Please
+flzgs.
+~Rine
+Hinge
+Hinge
+T0,01

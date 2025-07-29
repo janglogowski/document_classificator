@@ -1,0 +1,126 @@
+Appiovcd OY
+Lnnal Nauk
+Senviced 0YS
+Jankowalaki
+The equipmunt
+log bolow includes fault codus and corrective note:
+This loE records all maintenance uctivitius performud on
+[ne e quipment
+Bellci
+9 umman
+Renice Actone ano
+coxntlme e
+machine
+Entries include work orders
+te chnician assienmente
+and part chanae5
+Iihis seNic E
+summar
+supports tne reuiapity enpingerina reviBw
+ensure
+sateti
+checks ivere comoleted dunna gericing
+Checkthat
+downtime Aventa are plopeny catezonized an loz2ed
+Section
+Machine
+NC272
+MC-285
+MC-225
+MC-224
+MC-Z9i
+HCZIC
+Machine
+Aisurmuiy
+Paint Buoth
+Hydraulic
+Assumnbly
+Hydruulic
+Corveyor Belt
+Ropot
+Robot
+Freag
+Lype
+Preventive
+Insp ecton
+ngheclon
+Preventive
+Preventive
+conreclive
+Operator
+JanKowalski
+Carla:
+Garcin
+Carlo'
+Gatci
+Putar Schmidt
+Carlos Garcia
+Ann:
+Nowil
+Downtime
+Commenis
+Changed
+Aeplaced
+Switch
+Wooden pallet
+hatteny
+and filters
+cociant;
+contacts
+chBceB0.
+pack senic Bd
+ceaned
+Section
+Machine
+MC224
+MC223
+MC-?243
+MC-219
+MC24Q
+NC-295
+Machine
+Lsembav
+Hydraulic
+Paing Rapth
+CNC Milling
+Lathe
+Paint Booth
+Robot
+Machine
+Uype
+Codteclvt=
+Pieventive
+Unsuecun
+Jsdecdn
+Pievenlva
+Carfeclve
+Uperator
+Kowalsk
+Carios GarCp
+Canc'
+Garcig
+Carlos
+Garcia
+Carlos Garcia
+Carios Garcia
+Downtime
+Comments
+Calibration
+Li-Ion barten
+Calibration
+Keplaced
+Sengon
+Swiich
+checkOk
+senricedi
+checkor
+comant
+recplibrated
+contacis
+clcunyc
+Uptime
+Count
+Note
+93-9042
+Bolt Tlentened
+u-ion

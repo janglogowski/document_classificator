@@ -1,0 +1,141 @@
+Machine Log Summary
+Performed On: 2023-10-02
+Authorized bx;
+Laura Roszi
+OcGralor
+aura Rossi
+Ensure
+Sulcl
+chucks Weru
+compleled during servicing
+Usu Ihis $ Ummary
+lrecasl parls ruplacumenand rusourcu
+needs. Belovi
+the summary =
+SCIVICU aclions and downlimus Ior cach machino
+Tine equlpment log below includes laull
+codes and corrective notes . The following entries deta
+preventive and corrective maintenance tasks
+Section A:
+Unit Code
+McZ6
+MC-23
+KC-270
+MC-212
+MC-27
+MC-290
+Machine
+CNC Miling
+Laine
+As3em Diy
+Hydraulic
+Lathe
+Hycraulic
+Machine
+Robot
+Iype
+LOMCCIC
+cuccuivt
+Preventve
+isucciion
+Inspcclion
+Preventive
+Technician
+Reter Schmidi
+Carios Garcia
+Jan Kowalski
+Caros Garcia
+Anna
+Yowak
+4an Koxaiski
+Duration
+gaskel
+Worn gasket
+Swatch
+Alignment
+No issues
+bration
+reniaced
+tediaced;
+contacis
+hinges
+Touno
+check Ok
+Cleaned
+adjusted
+Sectlon B:
+Unit_
+MC 247
+MC 298
+MC 273
+MC 227
+MC216
+MC 212
+Machine
+Lathe
+Paint Boath
+Laine
+Conveycr Belt
+Paint Bcoth
+Kycraulic
+Press
+Lype
+Inspection
+Inspection
+Prevene
+Inspection_
+preveniive
+Lcrective
+Technician
+Peter Schmidi
+Schmidt
+Schmidt
+Laura
+Rossi
+Anne
+Nowak
+Schmid
+puration
+Notes
+Wvorn
+gasket
+Refilled oil
+Lk-ian
+hattery
+Tightened
+No issues
+Li-Ior
+battery
+replaced-
+(HLP 46).
+Dack
+loose bolts
+Iauno
+pacic
+senviced
+sunviceu
+Ensure
+each service entry has
+Ine required
+anprovais
+Flag any recurring issues for ront-cause investigation
+Check
+reraining lile-cycles
+key components
+from this report
+Serice 'ummanps
+have beer {arvarded
+the engineering
+team
+Uptlmc (%)
+Etor Count
+52-87"
+Prse
+Press
+Nolcs
+Wiom
+Code
+Peler
+Peler
+Peiet
+Hotes

@@ -1,0 +1,140 @@
+Maintenance Checklist Report
+Performed On: 2024-01-24
+Amtnonzed
+Anna kowak
+Operalor:
+Cadas Garcia
+This service summary supports the rellabiljty engineering review_
+Confirm that service Intervals follov tne preventive
+schedule_
+ensuing
+saloty checks were
+camplete d
+during servicing
+Use this Summary
+alfeca
+parls replacement and
+resource needs
+Use this record
+upcoming upkeep and repairs. Check that all downtime events are properly
+categorized
+logged:
+Sectlon A:
+Unit Code
+YCZW:
+MC-267
+MC-219
+MC-287
+MC-209
+MC-241
+Machinc
+Convevo
+Belt
+Plasma Cutter
+Conveyor Belt
+Lathe
+Packaging
+Assemdi
+Line
+Robot
+Type
+Cctrecine
+Corrective
+Come clive
+Insdeciian
+Prevenive
+Preventive
+Operator
+La
+Rossi
+Anna Nowvak
+Laura Rossi
+Peler Schmidl
+Peter Schmidt
+Pelet Schmicl
+Duratlon
+Nates
+Refilled
+Changed oil
+Sensor
+Switch
+(HLP 46).
+and filters
+cecalnrated
+contacts
+ciraned
+Sectlon B:
+Unlt Code
+MC-267
+MC-209
+MC 241
+MC-221
+MC-208
+MC-287
+Machine
+Plasma Cutter
+Packaging
+Assembly
+Packaging
+Conveyor Belt
+Lathe
+Line
+Rcnot
+Iype
+Corective
+Inspeciion
+Preventive
+Inspection
+Preventive
+Inspeciion
+Operator
+Rowaiski
+Paler Scnmidt
+Kunna kowak
+Jan Kowalski
+Anna Nowvdr
+Jan Kowalski
+Duratian
+Notes
+Alignment =
+Alignment
+Hlionment
+Sensor
+Sensor
+LiIon battery
+hinges
+hinges
+ninges
+librated_
+librated,
+rac"
+adjusted,
+aqisieo
+adjusted
+senviced
+This log summary
+suppons the asset-management dashboard
+Use this closure note
+update the maintenance KPI
+Tracker
+Confirm Inat =
+comeciive
+Whem
+praperly closed out_
+Ensure Ihat each servica entry has Ihe required
+approvals
+AIl mainlenance lasks have been
+comipleled
+per schedule. Reler [0 remarks Ior
+any (ollow-up aclions
+replacements
+Flag any recurring
+SuLT
+for rool-causu invesligalion.
+Uptime
+Error Count
+Comments
+92.0196
+Boll lighlenud
+acicns
+pun

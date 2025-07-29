@@ -1,0 +1,96 @@
+Inspection Sheet
+#4714932
+Date: 17.07.2025
+Product
+KP-JZOE
+Customer ID
+BELGIUM
+Item Description
+Nul M6
+The tollowing table outlines inspection criteria and classification levels. Pleas8
+eview each checklist paint and
+mark the sampling rsults. Use tnis list !
+confirm adherenca to AQLand satety standards. Entries includc both
+visua
+functionel inspection items; Use this
+coordinate sign-cffwith the QA manager_Refer
+the
+quality register for sampling-plan references
+This checklist captures quality inspection points anc
+sampling
+levels
+This section datalls quallty requlrerents andtest paints for thie batch;
+Review Points
+Sampling
+Severity
+Remarks
+Leve
+Product Requirements
+Dusudebris inside packsging
+Levei
+Needs
+Rview
+Package
+not sealed
+Level iI
+Needs review
+completol}
+Levei
+Critical impact
+Functionality test failed
+LBve
+Minor
+iSsue
+Obsen ec
+Shipping mark
+illegibie
+Level |
+Criticalimpact
+missing
+Inconeci crientaition
+Love
+Connector notworking
+Lave
+Rubber Switch nct workine
+Critical impact
+Missing safety labels
+Leve
+Needs review
+Uocottec
+parcode
+lapa:
+Leve:
+Needs review
+OGrA
+(Dose
+missing
+Level
+NHed: TevaW
+Woog
+DointOn
+Level 
+Minor issue observed
+DroqUCE
+Bartery not included
+Levei
+Needs review
+AQL Level
+Critical
+Major
+Minor
+Derault
+Customei
+specific_
+All critical and major inspection points have been addressed. Overall quality status indicates compliance with
+defined AQL lavels
+Checklistrasults hAve been repotted
+the quallty maneger-Refer to notes for aTY observed
+defects or deviations.
+Confirm that all samoling resulis are within acceptable limits. Please ensure supervised
+sign-offen any non-confoiining points. This finalnote confilms the checklist E
+complate and approved:
+and
+axttact
+Hinges
+pinie
+aharp

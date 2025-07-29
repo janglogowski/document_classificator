@@ -1,0 +1,109 @@
+Confirm that service Intervals follow the preventive schedule_
+Belot
+tne summar 0-senice actions and downtimes
+fcr each
+Marhine
+Thic mainteninci
+extract is prepared for comp iance audit trails This section captures equipment status and any
+mzlctenance 0dsenanons
+Spare Parts Used:
+par Name
+panno
+utyused
+Hvdqaulic Ho
+1R29
+Hinre Set
+P-4263
+OilFlte
+0-5239
+Machine
+Maching
+Technician
+Duration
+Lat Check
+Comments
+Mc-789
+Lonvevon
+drecn
+anKulak
+7015-04-70
+Changed
+Belt
+znd tters
+Mc-762
+Lonuevon
+Pntventive
+curic , Gurcia
+2025-05-70
+Calibration
+Belt
+check OK
+MC-290
+palat Gcotn
+Lorecve
+Peter
+2025-05-23
+Changed oll
+Scnmiot
+ind titers
+MC-Z11
+Lonvevoi
+prerve
+Jankoualsk
+7074-05-73
+Camceatc^
+Belt
+check OK
+MC-201
+Conveyor
+Lotrecve
+Jan <oualsk
+2025-05-27
+Li-Icn
+battery pack
+sunviced
+Mc265
+Pla,Mla
+Prevcntivc
+cufic, Gurci
+2074-07y
+iehteneo
+Cuttef
+Icose pults
+MC 264
+Lonucvor
+Inspection
+curio, Garcia
+7074.0417
+Cnunkcd 0il
+Belt
+and flter&
+Kc-7ED
+Lacer Gmaer
+Pravemve
+Dener
+7014-17-71
+Camslalct
+Scmiot
+check Ok
+Mc-775
+Ambly
+Pneventive
+Mura Rost
+77074-17-31
+Changed
+Robct
+and tters
+MC-256
+Inspection
+Jankowalsk
+7028-08-18
+Wooden
+Lutter
+paliet
+checked
+Signed off:
+Cnios Garcia
+performed
+Lanakons
+Flasnl

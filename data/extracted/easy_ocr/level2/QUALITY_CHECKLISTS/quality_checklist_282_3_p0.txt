@@ -1,0 +1,82 @@
+Quality Checklist
+Inspection Checklist
+Check
+Severity
+Comments
+Polnts
+Intensuy
+Design Spec
+Critical
+Major
+Minor
+OnHold
+Missing distnbutor
+infomation
+Not assembled as per
+Critical impadt
+drawing
+Conneclornol Koking
+Level
+Needs revel
+0go 0r Kaming
+Level Il
+Minor issue
+label
+obsened
+Carton
+damaged r
+Level /-
+maring: incorec
+Screws kose ormissing
+Level
+Loose parts insice
+Cntical
+impac
+packaging
+Instruction manual
+Level /
+missing
+damaged
+Hinges
+Oose
+Levell
+Dead 0r Iive insec in
+Level |
+packaging
+Incorrect quantty or
+Needs review
+assonmen
+Visual defecton housing
+Level
+Crtical impad
+Exposed nail with sharp
+Level II
+Critical impadt
+point
+Wood splinter
+sharp
+Level III
+Minor issue
+point onpoduct
+obsened
+Rubber Swnch not
+Level /
+Korking
+Color mismatch
+Leve
+Needsreview
+Shipping mark is ilegible
+Minor issue
+missing
+oosened
+Functionaltty test failed
+Level
+Cutical impadt
+Reference Standards
+Slandard
+Edition
+CE Directive
+2020
+UL 61010
+A Ed.
+Missing

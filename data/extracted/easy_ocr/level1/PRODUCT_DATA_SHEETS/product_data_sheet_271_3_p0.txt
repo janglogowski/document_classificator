@@ -1,0 +1,50 @@
+Product Data Sheet
+Document No : 4134891
+Product ID; WD-18OS
+Date: 2024-06-02
+Unit Type
+Cooling Circulation
+Design Pressure
+180 bar
+System
+Flow Rate
+75 Umin
+Voltage
+230 V / 50 Hz
+Frame Material
+Powder-coated Steee
+Charging Time
+Dimensions (LxWxH)
+1200
+700
+1100 mm
+Reservoir Capacity
+160
+Oil Type
+HLP 46
+Filtration
+Im mnline
+10pm
+retum
+Service Interval
+1000
+Component Materals Overview:
+Jcm
+Raw Material
+Speciiicalion
+Power Svitcn
+polvcarbonaie
+Copper
+Heat-resistant
+Insulated Tube 25mm
+Thermoplaslic Polyurethane
+Heat-resislant
+Nut MG
+Zinc-Plated Steel
+RoHS compliant
+Support Foot Steel
+Stainless Steel 304
+RoHS compliant
+Prepared by: Laura Rossi
+Approved by: Jan Kowalski
+TPUI

@@ -1,0 +1,71 @@
+Component Overview
+All data entries are traceable
+design revision history. Use this sheet
+confirm engineering requirements and
+Coicronccs
+This secticn details the configuration and paramieter set for the prcduct Plcase revicw the specificatlons
+and material composition listed below. Use this spec sheet to validate assembly instructions;
+Product ID:
+RX-310Z
+untetn?
+7828997
+Prepared by: Jan Kowalski
+Arproved by: Jan Kowalski
+Date; 2024-03-08
+Configuration Type
+Cooling Circulation
+Rated Pressure
+300 Dar
+System
+Flow Rate
+75 Lmin
+48J
+GUHz
+SCNIcl
+Ireenal
+12 months
+Battery Capacity
+Dimenslons (LXWXHI
+1200 * 700
+1100 mim
+Archive this summary far future deslgri-change management_
+Confirm that all test conditions are accurately
+representeo
+This closure note indicates the data sheet is ready for release;
+Fnsute
+5 Ossary-
+Terms
+maton tne
+engineering nomerclature. All summary coniments have been recorded in the revision log:
+Material of Construction;
+Fart
+Hel
+Sink ALU
+Alumirum G061-T6
+Cooling Gel Pack
+Siconc kubber
+Fuse 574
+Ceramic Oxide
+Digital Display Unit
+ABS Plastic
+Cable Tie Pack (100)
+Nitrile Rubber INBRL
+Gasket Sheet 44
+Nitdile Rubber INBR
+Nulet
+Zinc-Plaled Slee
+Thermal
+FuSE
+ceramic Oxide
+Stco
+Shect 436
+Carbon Steel 436
+Winng Loonlm
+PVC (Rigid]
+Cannertor AF
+Giass Filled Nvon
+LED Lignt
+Glas;-Fillled Nylon
+Volt28@
+Anse
+Sinie

@@ -1,0 +1,86 @@
+Product Data Sheet
+Project
+SL-30M
+IntemalNo :
+PR-954
+Prepared By:
+Peter Schmit
+Approved BY
+Peter Schmidl
+Location: Plant 34
+Date: 2024-11-18
+Confimm tnat perfomance ranges comply with project requirements
+The following informalion outlines
+perfonmance characleristics and design data
+This technical overview supports the product-release checklist
+Below are the technical parameters and construction materials for the unit_ Use this spec sheet to validate
+assembly instructions_ This section details the configuration and parameter set for the product Use this
+sheet t0 confinm engineering requrrements and tolerances
+Unit Lype
+Edraulic Pover Untt
+Operating Pressure
+180 bar
+Flow Rate
+48 Lmin
+Voltage
+40u
+50+z
+Pump Lype
+Vane Pump
+Dimensions (LWxH)
+1200 x 7O0X lomm
+Charging Time
+Working Temp:_Range
+10 C
+552C
+Noise Level
+68 dB(A)
+Cooling
+Water-cooled
+exchanger
+Filtration
+10 um retumn; 25 MM
+Battery Capacity
+2 Ah
+suction
+Control Valve
+Proportional 4/2
+Total
+Weight
+180k9
+Protection Class
+P6l
+HLP 46
+Mounting
+Rack trame
+Frame Materal
+Aluminum Frame
+Motor Power
+7.5kU
+Material 0i Construction:
+Pant
+Base
+CapacttorA50V
+Aluminum 6061-16
+Grphite Pad
+Graphite Pad
+Hex Bolts M12
+Zinc-Plated Sleel
+Support Foot Steel
+Stainless Steel 304
+Fuse 54
+Ceramic Oxide
+Nut M6
+Zinc-Plated Steel
+Finge Sel
+Stainless Steel304
+Poxer Swatch
+Polcambonate
+Copper
+Rubber Gasket B0mm
+Ntrle Rubber (NBRL
+Connector 2P
+Glass-Filled Mon
+Wooden Pallet
+Treated Pine Wood
+IyPa

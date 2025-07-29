@@ -1,0 +1,132 @@
+Shift Summary
+Report No_
+PR-165
+custamer:
+NORWAY
+Supervisor:
+Carlos Garcia
+Department:
+Painting
+Dane
+22-01-2024
+Shift:
+(Morning)
+Equipment
+Operation
+Operator
+Start Time
+Erd Time
+lnta
+Pamarks
+duration
+MC-204
+Cutting
+Magdalena
+13.30
+14.32
+Wilkovska
+MC-203
+Drilling
+Magdalena
+08.00
+09.31
+Witkowska
+MC-203
+Driliing
+Anna NOwak
+13.30
+14-00
+MC-201
+Assembly
+Mateusz
+11.30
+13.07
+Jarzyna
+MC-202
+Cutting_
+Anna Nowak
+14754
+Delay
+MC-202
+Drilling
+Agnieszka
+06.15
+07.35
+NIA
+Zieliriska
+MC-209
+Pollishing
+Anna Nowak
+12.00
+13.38
+N/A
+MC-204
+Welding
+Piotr
+11:15
+11.42
+Lewvandowski
+MC-206
+Drilling
+Mateusz
+07.00
+08.25
+Wanvna
+MC206
+Polishing
+Kenieszka
+12.30
+12.54
+Recalibrated
+Zialinska
+MC-?08
+Welding
+Przemystaw
+07:15
+08.01
+Wasik
+MC-207
+Drilling
+potr
+11.15
+12.34
+Delay
+LewandoSk
+tem d
+Planned Qty
+Actual Qty
+Defect Qty
+Rejection
+Remarks
+SB-I40D
+275
+274
+3646
+Rawvan neaden
+WD-180S
+255
+8.2795
+Scrar
+contirmed
+CN-ISOC
+278
+247
+1.1580
+Rework needed
+MS G0OP
+288
+276
+4.1796
+Scrap
+conlirmed
+PW-515Y
+262
+229
+12.6090
+Rework needed
+Prepared by;
+Carlos Garcia
+Approved by:
+Anna Nowak
+Oclay
+7400

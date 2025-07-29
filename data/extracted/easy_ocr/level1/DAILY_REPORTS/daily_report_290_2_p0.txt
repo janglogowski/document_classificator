@@ -1,0 +1,124 @@
+Production Log
+KepoNo-
+PR-362
+Customer'
+NORWAY
+Supervisor:
+Laura
+Department:
+Painting
+Shift:
+[Morning)
+25-06-2024
+The following data captures production targets, actua
+output
+ano any deviations
+Use this overview t0 assess
+thraughputand
+efflciency levels
+The line-oulpul register
+ptures all production events far the day. Ensure
+downtime incidents are noted far fallow-UP_
+Equipment
+Operation
+Operator
+Begin
+End
+Comments
+Temperature
+Power
+Time
+Time
+Draw
+MC-203
+Assembly
+Mateusz
+07.30
+08.44
+71.2
+1.00
+Jarzyna
+MC-208
+Assemol
+Bartosz
+11.00
+12.43
+103
+Delay
+79.0
+1.47
+Wawrzyniak
+MC 201
+Polishing
+Mateusz
+12.15
+12.59
+Recalibrated
+59.8
+1.62
+Jarzyna
+MC-209
+Assemply
+Piotr
+14.30
+15.29
+Recalibrated
+60.8
+Lewanddwski
+MC 207
+Welding
+Dawid
+10.30
+11.09
+Recalibrated
+58.1
+1.49
+Oszmiariczuk
+MC-208
+Polishing
+Matcusz
+13.15
+14.08
+69.8
+1.93
+Janzume
+MC-2OB
+Assembly
+Piotr
+14.00
+5.52
+112
+65.6
+205
+Lewandowski
+MC-209
+Polishing
+Jan Kowalski
+13.00
+I42
+74.6
+1.89
+MC 204
+Cutting
+Agnieszka
+14.30
+15.42
+Kecalbrated
+55.8
+1.77
+Zielirska
+MC-205
+Drilling
+Anmz
+Nowak
+14.15
+14.44
+74.1
+1.04
+Prepared by:
+Peter Schmidt
+ApprovEC
+Carlos Garcia
+Rosui
+Total
+Delay

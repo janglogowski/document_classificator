@@ -1,0 +1,60 @@
+technician comments are recorded ior maintenance trend anahsis_ This settion captures equipment statl andany Maintenance
+obsenations The equipment Ioe below indudes fault codes and corrective notes The followinz entries Ceta  preventiveand
+OFfeEe ME TETan
+Taets
+Spare
+Jang Wede
+Part Name
+Damdo
+uh Used
+2-6217
+censor Mogule
+D_ac
+21371
+Machine ID
+Iquioment
+semc
+Type
+Technician
+Downtme
+Prerous
+Commente
+Genice
+KC-2T7
+CNCMaling
+Pievenine
+Peref
+2023-11-07
+Replaceo
+Machine
+Schmiot
+Cooam
+KC-265
+Jzene
+Pierenine
+Carlos Garcia
+2025-02-17
+@-on
+Cuttcr
+batteny
+EEfnd
+MC-258
+Lathe
+Uderon
+Lnna Novnt
+2025 0614
+Replaced
+MAL:
+MC-273
+Paini Booth
+Intoettion
+GloGurtit
+7023-09-27
+Santeh
+Gonzo
+deanzo
+S gned off
+Gados Gande
+Pentonme
+Ecnumed
+Dca

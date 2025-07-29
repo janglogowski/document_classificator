@@ -1,0 +1,72 @@
+Component Overview
+Confirm that performance ranges comply with project requirements_
+Check that .
+material specs align with
+supplier centifications. Use this sheet t0 confirm engineering requirements and tolerances. This report extract
+prepared for design-verification audits
+This data sheet provides key specifications and material details
+This section details the configuration and parameter set for the product. Refer t0 this configuration summary
+for unit-designation mapping:
+Product ID:
+NE-2454
+Report No:
+264087
+Prepared by: Laura Rossi
+Approved by: Jan Kowalski
+Date: 2024-07-26
+Model Lype
+Hydraulc Power Unit
+Rated Pressure
+210 bar
+Fluid Flow
+48 Umin
+Voltage
+230 V IS0Hz
+Protection Class
+IP65
+Motor Power
+5.5
+Cooling
+waler-cooled
+Working Temp. Range
+-10'C to 50"C
+exchangor
+Dimensions (LxWxH)
+1200
+700 * 1100 mm
+Battery Capacity
+10 Ah
+Check that all section headers follow the product temiplate.
+This summary reflects the latest revision of the
+product data
+Confimm that all test conditions are accurately represented
+Data sheet has been peer-
+reviewed by the engineering
+This closure note indicates Ihe data sheet is ready for release;
+Overall
+configuration
+within defined design and safety margins:
+Ensure glossary terms match the engineering
+nomenciature.
+Malerial of Construction;
+Fant
+Composition
+RingNBR 60mm
+Niuule Rubber (NBR
+Wooden Pallet
+Treated Pine Wood
+Power Switch
+Polycarbonale
+Copper
+Bearing 6202 ZZ
+Stainless Steel 304
+Loom
+PVC
+Hinge Set
+Stainless Steel 304
+Digital Display Unit
+ABS Plastic
+Kw
+team
+Winng
+Rigid

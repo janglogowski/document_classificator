@@ -1,0 +1,73 @@
+Dimensional
+sudervisor
+Catios
+Garcia
+Imspcctiun Ualc
+2024 01.29
+Product Ret
+I3505
+AZ J001
+BZ G60F
+RX 3102
+FLUUL
+VF 2200
+CN 150C
+Njmc
+Gfapnite
+Bearinp
+baliey
+Woudcn
+alteni
+Beamine
+Steel Sheet
+6202 ZZ
+Pack
+6202Z2
+A36
+plm
+Lenetn
+width
+Lengin
+width
+Depth
+Lenetm
+Lenetn
+Jarget
+50.43
+o
+Vulc5
+Ac(uz
+56.28
+70.75
+44 07
+89.89
+Deltz
+L01o
+Pass/Fall
+Fnsure status
+flags
+updated
+the quality management system Inspection notes have been logged far
+traceability. Record any measurement anomalies for follow-Up analysis Archive this inspection summary for
+regulatory documentation
+instrument
+Calibration Log=
+instrument
+Serial No
+Calibration Date
+Laser scanner
+81603
+2024-14-14
+Lasem
+Scanne
+55243
+2025-03-09
+Lasem
+scanner
+27316
+2025-03-18
+Calde
+77691
+2025-05-02
+Log
+89-76

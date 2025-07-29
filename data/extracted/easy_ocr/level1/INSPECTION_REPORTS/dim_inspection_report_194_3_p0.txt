@@ -1,0 +1,136 @@
+Inspection Results Summary
+Inspection performed by Jan Kowalski on 2025-06-30 .
+Entries include both passifail markers and deviation magnitudes_
+This report presents Ihe dimensional
+measurements and inspection results:
+Review recorded tolerances
+engineering specifications- Use
+this results summary
+trigger any corrective actions. The following data captures key dimensions and any
+deviations identified:
+Environmental
+Conditions: Temperature: 22.3
+C, Humidity: 36 %
+Article No
+Component
+casuremont
+Target
+Actual
+Diff
+Status (VIX)
+XD-71OR
+Battery
+Height
+50.12
+50.30
++0.18
+Pack
+GH-770J
+Shalt
+nnet
+61.25
+61.14
+-0.11
+s0omm
+Diameter
+NU-4402
+Wooden
+Depth
+58.26
+58.39
++0.13
+Pallet
+XD-ZIOR
+Hinge Sel
+Thickness
+15.18
+15.25
++007
+NE-245A
+Wooden
+Width
+58.56
+58.67
++0.15
+Pallet
+AL-1150
+Bearing
+Depth
+69.29
+69.31
++0.02
+6202 ZZ
+HF-390A
+Bearing
+Height
+74.84
+74,.72
+-0.12
+6202
+MX-450L
+Power
+Depth
+23.57
+23.53
+-0.04
+Switch
+VR-940T
+Steol Sheet
+Innor
+88.03
+87.90
+-0.13
+A36
+Diameler
+NU-4402
+Battery
+Thickness
+36.93
+36.82
+-0.11
+Pack
+TX-820v
+Power
+Depth
+83.96
+84.11
++0.15
+Switch
+KV-390k
+Steel Sheet
+Length
+11.62
+11.49
+0.13
+A36
+NU-440Z
+Hex Bolts
+Hole
+35.41
+35.53
++0.12
+M12
+MR-160H
+Baltery
+nner
+78.33
+78.25
+~0.,08
+Pack
+Diameter
+CN-150C
+Plastic
+Inner
+85.46
+85.55
++0.09
+Rvets
+Diameter
+FT-730X
+Power
+Width
+69.94
+69.98
++0.04
+Switch
+ogainst 

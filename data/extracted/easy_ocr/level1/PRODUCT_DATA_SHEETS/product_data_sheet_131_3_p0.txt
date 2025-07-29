@@ -1,0 +1,31 @@
+Product Overview
+Interno
+No:: PR-312
+Product ID: TX-820v
+Date: 2025-05-19
+Configuration Type
+Pneumatic Contro
+Design Pressure
+300 bar
+Flow Rate
+30 L/min
+Supply Voltage
+400
+50 Hz
+Frame Material
+Alumnum
+Ffame
+Motor Power
+11kW
+Pump Iype
+Vane Pump
+Protcction
+IP65
+Dimensions (LxWxH)
+1000
+650
+1000
+Prepared by: Laura Rossi
+Approved by: Peter Schmidt
+Unit
+Class

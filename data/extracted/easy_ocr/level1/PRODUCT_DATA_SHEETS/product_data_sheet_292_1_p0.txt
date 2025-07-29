@@ -1,0 +1,88 @@
+Product Data Sheet
+Project:
+QP-GS0F
+Report No:
+2147612
+Prepared
+Carlos Garcia
+Approved By:
+Laros
+Garcia
+Location: Plant 2B
+Date
+2023-10-27
+Use inis spec sheet
+validate assembly instructions
+Ensure all referenced standards are up
+date_
+Use
+this sheet t0 confirm engineering requirements and tolerances
+Entries include both mechanical and
+electrical specifications.
+Unit Type
+Hydraulc Power Unit
+Design Pressure
+210 bar
+Fluid Flow
+48 Lmin
+Supply Voltage
+400
+S0Hz
+Dimensions (LxWxH)
+1200 x 700 * 1100 mm
+Working Temp. Range
+10"Cto 55-C
+Noise Level
+72 dB(A)
+Battery Capacity
+10 Ah
+Pump Type
+Gear Pump
+Filtration
+um inline,
+10 pM
+Telum
+Service Interval
+12 months
+Total Weight
+250
+Charging Lime
+Frame Material
+Powder-coated Stee_
+Cooling
+Water-cooled
+Mounting
+Rack frame
+exchanger
+Controb
+Valve
+Manual Ovemde 32
+Protection Class
+IP54
+Motor Power
+7.5kW
+Material
+Construction:
+Item
+Raw Material
+Pressure Valve
+Brass CZ12
+Hex Bolts M12
+Zinc
+lated Steel
+NBR 6Omm
+Nitrile Rubber (NBR)
+Thermal Fuse
+Ceramic Oxide
+Fuse 5A
+Ceramic Oxide
+Connector 2P
+Jass
+Filled
+nsulaled
+Tube 25mm
+Thermoplastic Polyurelhane (TPU)
+Stainless Steel 304
+~Ring
+Nvon
+Hnge

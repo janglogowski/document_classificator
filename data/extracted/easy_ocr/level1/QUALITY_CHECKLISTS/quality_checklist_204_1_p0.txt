@@ -1,0 +1,93 @@
+Inspection Register
+#3214536
+Date: 17.07.2025
+Product
+TY-3506
+Customer
+TURKEY
+Item Description
+Insulated Tube 25mm
+Entries include both visual and tunctional inspection items The tollowing table outlines inspection criteria and
+classification levels. Use this list to confirm adherence to AQL and safety standardsRefer to the quality register for
+sampling-plan references
+This dosur
+summary indicates comnliance with inspection criteria_
+Ensure
+non-
+conforming
+marks are
+early documented
+Quality Check Items
+Check
+Category
+Comments
+Intensity
+Utem
+Specs
+Critical
+Minor
+OnHold
+Functionality test failed
+Critical impact
+Mlis5ng
+Kaec
+Levp
+Needs reviev'
+Incorrect orientation
+reuer
+Color mismatch
+Levei
+Critical
+impact
+Incorred
+quantity
+Levei
+Needs reviev:
+assonment
+Hinges
+OD5E
+Levei
+Minor issue observed
+Shand
+edges
+plastic
+componeni
+Dead
+Iive insectin
+Critical impact
+packaging
+Packaging daes not match
+Level |
+Critical impact
+sibned 5amnie
+Dustldebris Inside Packaging
+Levei
+Neeus reuew
+Wood splinter
+Mlnor Issue observed
+product
+Missing distributor
+Level |
+Needs reviev:
+intormatian
+Product doesn't pover an
+Not assembled
+Teuii
+Level
+Needs
+drawing
+Incorrechbarcode
+duel
+Lere
+Minorssue Obsere6
+AQL Level
+Critical
+Default
+Customer
+specific
+Major
+Neens
+sharp
+neint
+Maion
+Minor

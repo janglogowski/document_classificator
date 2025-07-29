@@ -1,0 +1,71 @@
+Quality Revlew
+#7951555
+Date: 17.07.2025
+Product ID
+CN-I50C
+Custome ID
+POLAND
+DescrIptlon
+Wooden Pallet
+Thus section detalls quallty requlrements and test polnts for the batch; Thls closure summary indlcates compllance
+with Inspection criteria; Belaw are theitems t0 be veriled during the final praduct revlew; Thls surmary supports the
+praductlon-release quality Bate; Check that Inspection steps follow the approved procedure: Refer to the quality
+reglster for samplng-plan references, Entries Include both visuall and functional Inspectlon Items, Thls checkilst
+captures quallty Inspectlon polnts and sampling levels,
+Inspection Checklist Points
+Check
+Category
+Comments
+Intenslty
+Product Requirements
+Functionalley test falled
+Levelt
+Critical impact
+Aesembleo
+drawing
+Critical Impact
+Rubber Swvitch nol
+working
+Levell
+Critical Impact
+connecro
+working
+Level
+Needsrevine
+shipping mark
+IllecIble
+Levcl
+Minar Issue obseived
+missing
+Visua| dcfect on
+housing
+Lu
+Critical Impact
+Packare
+nolscdico
+compiCLC
+MlssIng Iogo
+Warning abei
+Leuei
+Incotrect barcode or label
+LCUC
+Mlnor Issue observed
+Mcl d
+cu
+Palnt smearIng or scratches
+LevC
+Mlnor Issue observed
+AQL Level
+Crltica|
+Malor
+Minor
+Detault
+Customer
+Thls final note confirms the checklist
+cumpictc
+and approved; Ensure that all remarks have correspondlng evldence
+attachments; Archlve thls Summary In the audlt-readines$ falder, AlI summary comments have been valldated bythe
+QAteam;
+Mom
+Hinaos
+pecc

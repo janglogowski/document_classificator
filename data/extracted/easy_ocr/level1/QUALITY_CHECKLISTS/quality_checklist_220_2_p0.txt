@@ -1,0 +1,85 @@
+Conformance Log
+This summary supports the production-re
+case
+quality gate.
+This section details quality requirements and test
+points for the batch. This closure summary Indicates corpliance with Inspection criteria: Use this extract
+caordinare
+sign-off with the QA manager.
+Product ID
+CE-9O5L
+Customerd
+POLAND
+Item
+Description
+Grease
+Tube 250ml
+Inspuction
+Checklist Points
+Sampling
+Classification
+Notes
+Level
+um
+Hold
+Inconrect barcode
+Lubgl
+Needs reviet
+Functionality test failed
+Exposed nail with sharp point
+LCvCl
+Nceds revicy
+Shipping mark is illegible
+Level /
+Minor issue observed
+missing
+Dead
+Insect in
+Level!
+Critical impact
+packaging
+Jnsiction manmai
+missing
+LevelII
+Minor issue observed
+damnaged
+Package
+not se8i80
+Minor issue observed
+comnolcici
+Packaging does not match
+Level III
+signed sample
+Rubber texture
+glossinss
+Needs revlev'
+msmaicn
+Wrong product size
+Levei
+Critical impact
+Visual
+detect on housing
+Level
+Needs reviev"
+Rumbe
+Switch not
+working
+Levei
+Carton
+damaned
+Level II
+markings incorrec
+Connectornot
+working
+Level III
+Droduc
+doesnt pawe
+Level
+Critical impact
+DusUdebris Inside packagng
+Lavel
+Naedsreviat
+Supervised by:
+Date: _
+Specs
+ive !

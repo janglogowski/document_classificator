@@ -1,0 +1,96 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-717
+Customer: GREECE
+Shift:
+(Morning)
+Date; 24-09-2024
+Machine
+Operation
+Technician
+Begin
+Total
+Comments
+Condition
+MC-202
+Drilling
+Maleusz
+07,30
+duration
+08.49
+Recalibrated
+Delayed
+Jarzyna
+MC-208
+Bartosz
+15.28
+118
+Delayed
+Wawrzyniak
+MC-206
+Polishing
+Bartosz
+08.30
+09.49
+NA
+Wawizyniak
+Delayed
+MC-208
+Cutting
+Wiktor
+11.00
+12.12
+Kopczynski
+Ok
+Delayed
+MC-201
+Drilling
+Agnieszka
+09.15
+11;11
+116
+Recalibrated
+Zielinska
+Delayed
+MC-204
+Assembly
+Wiktor
+12,00
+13,07
+NA
+Kopczynski
+MC-203
+Cutting
+06,0
+progress
+Kowalski
+07.19
+Completed
+Part ID
+Planned
+Achieved
+Defect Qty
+Fallure
+Rework
+Qty
+Comments
+Count
+CE-9O5L
+102
+71,76%
+Rework
+AZ-300T
+261
+heede0
+6.79%0
+Rework
+TL-9uOX
+285
+269
+nGeded
+5.61%
+Scrap
+confirmed
+Approved by:
+Prepared by:
+Culting
+13.30

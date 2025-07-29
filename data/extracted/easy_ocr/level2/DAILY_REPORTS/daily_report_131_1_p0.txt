@@ -1,0 +1,109 @@
+DAILY PRODUCTION REPORT
+PR-155
+Report No :
+POLAND
+Cuslomor
+Laura Ross
+Supaivisor
+Quality Control
+Depanmont
+15-11-2023
+Dhtc
+(Morning)
+Shilt:
+From
+Finish
+Total
+Comments
+Equlpment
+Oporation
+Technician
+duration
+Hde
+116
+MC-201
+Welding
+Kowalski
+12.15
+Dalay
+MC-209
+Polishing
+Plotr
+09 00
+09,46
+Lewandowski
+07,30
+08. 56
+MC-203
+Drilling
+Przemysiaw
+Wqsik
+12.57
+102
+MC-209
+Wolding
+Anna Nowak
+11415
+07,58
+MC- 206
+Drilling
+Magdalena
+06.30
+Wikowska
+08.00
+09.13
+MC 205
+Polishing
+Agnieszka
+Zielinska
+OK
+MC- 201
+Drilling
+Bartosz
+08.15
+09,09
+Wawizyniak
+Produced Qty
+Scrap Qty
+Rejection %
+Comments
+Product ID
+Target Qty
+14,41%0
+Rewark
+WD-1805
+236
+202
+2.41%
+ZR-205R
+166
+162
+1,7290
+Rowork
+GH-77OJ
+232
+228
+neaded
+187
+10,5390
+Rework
+VF-2200
+209
+needed
+0596
+Scrap
+PW-515Y
+156
+145
+conlirned
+10.719
+Scrap
+CN-150C
+168
+150
+conliuad
+Laura Rossi
+Prepared by:
+Laura Rossl
+Approved Dy:
+needed

@@ -1,0 +1,124 @@
+Quality Verification
+#2967377
+Date: 17.07.2025
+Product ID
+LP-5554
+Customer ID
+SWVEDEM
+Item Description
+Digital Display Unit
+Confiri that sampling levels comply with custome
+agreemients. Please review each checklist point and mark
+the sampling results
+This closure summary indicates compliance with inspection criteria: Use this extract to
+coordinalc
+sign-off witn the QA manager_
+Ensutg ailnon
+conforming marks are clearly documented: Tne
+following table outlines Inspectian criteria and classificatian
+This checklist captures quality inspection
+points
+sampling levels
+this list to
+adherence
+AQL and safety standards_
+Audit Criteria
+Check
+Severity
+Comments
+Intensity
+Design Specs
+Hold
+Product doesn'
+poier On
+Level
+Connector not working
+Level
+Needs review"
+Missing loga
+Warninp
+Lave
+Needs rexev
+Uncartact quAntity ar
+Level III
+assomtment
+Pubber
+turuny
+Kossiness
+Level |
+Needs review
+mismatch
+Dead
+live insectin
+Level |
+packaging
+Battery not included
+Level
+Critical impact
+Visua
+detectan
+housing
+Lavel
+Needs revew
+Exposed nail witn
+boine
+LCvcI
+Criticalimpact
+Missing distributor
+Level IlI
+Nceds revic v
+Inlanmaliam
+Packaging does
+olmnatch
+Level |
+Minor Issue observed
+signed sample
+Incanacl barcada Dr abel
+Critical impact
+Not assembied
+drawing
+Level
+Needs review"
+Color mismatch
+Level |
+Minoi
+ISsuE
+odsenved
+Carton
+damaged or
+Level /
+Needs review
+markings
+UCOme
+Rubber Switch not working
+Levei
+Needs reviewv
+AQL Level
+Critical
+Faior
+Minor
+Default
+Customer specific
+Items marked tar holdrequire additional review before release
+Ensure thatall remarks have corresponding
+evidence atacnments
+Corrective actions are scheduled for identified
+issues
+All critical
+andmaior
+inspection
+points have been addressed
+Overall quality status indicates compliance with defined AQL levels _
+Insdection
+summaryis filed far reRulatory compliance
+Use this closure report
+update the quality KPI dashboard.
+please
+ensure sucenvisec
+ign-off =
+anynon-conforming points:
+lavals
+and
+Use
+connirm
+aharp

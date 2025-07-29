@@ -1,0 +1,116 @@
+Report No:: PR-2OZ
+Customer: CANADA
+Shift:
+(Night)
+Date: 26-06-2024
+Equipment
+Process
+lechnician
+Start Time
+Finish
+Time Spent
+Remarks
+Condition
+MC-20}
+Polishing
+Piotr
+06.00
+06-27
+NJA
+leted
+Lewandovski
+MC-204
+Polishing
+Dawid
+13.00
+14.20
+NJA
+Completed
+Oszmianczuk
+MC-208
+Polishing
+Wiktor
+11,30
+12.43
+Recalibrated
+Completed
+Kopczyrski
+MC-207
+Drilling
+Wiktor
+11.30
+12-14
+Delay
+Delaveo
+Kopczynski
+MC-204
+Polishing
+Dawid
+12,30
+13.22
+N/A
+Completed
+Oszmianczuk
+MC-202
+Drilling
+Magdalena
+14,30
+15.13
+Delayed
+Witkowska
+MC-206
+Cutting
+Wiktor
+08,15
+09.04
+Recalibrated
+Completed
+Kopczyrski
+MC-207
+Cutting
+Magdalena
+07.30
+09.28
+Delay
+Delayed
+Witkowska
+MC-203
+Drilling
+Anna Nowak
+12,00
+13 3
+Delay
+Completed
+MC-209
+Assembly
+Magdalena
+13.30
+14.14
+Completed
+Utkowska
+Pamt ID
+Planned Qty
+Achieved Qty
+Defect Qty
+Rejection %
+Reworked
+Uwagi
+Units
+VF-220D
+175
+4,5736
+Rewon
+needed
+SB-1400
+138
+118
+14,4936
+Rework
+needed
+RM-86ON
+0.5381
+NF-2454
+7,497"
+Approved bv:
+Prepared by:_
+Coinp

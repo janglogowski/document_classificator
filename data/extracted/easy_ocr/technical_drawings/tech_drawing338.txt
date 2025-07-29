@@ -1,0 +1,61 @@
+209
+8
+8
+Fomat
+Fomat
+Echelle
+Scole
+A4
+Tvlarances dusraje sur cotes Ineaires
+Hsjtti
+1
+1802768
+Vaarang5 iranp8r 071n5075
+puscripliun
+nevisiur
+Dess
+Kagi
+MCo:Mckoja iDernc9 Ucci ons
+Descridlion Or[7e Teyision
+Fabrcaiion
+C7eck
+Juuu
+Type Pompe
+Type:
+PRE8O-16A
+Poids
+Weight
+2=20
+<420
+400
+rsiooo
+<20C0
+Cercle femelle
+412
+Densite
+Density
+Picceede chaletdcnant Buivanl
+Waidia consncons floiinj
+150 13920 4b
+7700.0 kglm_
+pinco: Mo lc
+Ear
+Fabrication:
+CIM 1880J
+STD T
+Rmn Greno
+Lnuha
+Marque: 521-0018AA06A
+T471100205-60
+IFCnier
+Plan:
+8
+Wenf:
+Date: juT22u11
+Drawing: 1107896
+Jni:
+Check
+
+Pump
+L
+043

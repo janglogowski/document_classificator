@@ -1,0 +1,127 @@
+Production Log
+Report No : PR-378
+Customer: SWEDEN
+Shift: [
+(Evening)
+Date: 28-01-2025
+Equipment
+Task
+Worker
+Begin
+Comments
+Status
+Time
+MC-208
+ssaMoi
+Anna Nowak
+13.00
+1405
+ptobies:
+MC-201
+Welding
+Mateusz
+06.15
+08.01
+106
+Delay
+Completed
+Jarzyna
+MC-208
+Welding
+Dawid
+07:15
+09.01
+106
+NIA
+Delayed
+Oszmianczuk
+MC-207
+Assembly
+Przemystaw
+13.00
+13.22
+Delayed
+Wasik
+MC-208
+Assembly
+Bartosz
+13.30
+530
+NIA
+progress
+Wawryniak
+MC-201
+Assembly
+Magdalena
+11.00
+12.31
+Recalibrated
+progress
+Witkowska
+MC-201
+Assembly
+Agnieszka
+14.15
+15.36
+NIA
+Delayed
+Ziclinska
+MC 201
+Welding
+Anna Nowak
+10.30
+12.09
+Completed
+MC 208
+Welding
+Przemyslaw
+08:15
+08.48
+Delay
+progress
+Waslk
+MC-202
+Welding_
+Nadia Sauter
+13.30
+Completed
+All operator notes
+have bccn archived tar r@vICw. Archive this output summary for @nd-ol-day
+eporting:
+critical delays were observed; please address any minor issues noted, All production targets have been logged;
+deviations are hignlignted above Usc this summary
+update tnc overall production dashboard. Refer to
+remiarks for any rework or
+quality concerns.
+Product ID
+Planned
+Actual
+Qty
+Defect Qty
+Scrap %
+Reworked
+Comments
+Output
+DX-777T
+260
+255
+9206
+Rework
+needed
+TY-350G
+107
+5506
+NU-4407
+00yo
+RE-85OC
+122
+103
+15.5796
+Rework
+needeo
+Cf-905I
+596
+Approved by:
+Prepared by: _
+Total
+Unite

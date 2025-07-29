@@ -1,0 +1,47 @@
+Customer ID: NORWAY
+Prepared by: Jan Kowalski
+Product ID: TY-350G
+Internal No:: 4434324
+The component roster below includes unit costs and batch codes.
+The following table
+summarizes the materials and quantities needed for the current project: Please review the
+itemized Iist of parts and material specifications before procurement: This extract shows the bill of
+components and total
+projected spend. This summary lists every item required, wilh per-unit
+pricing details
+The parts manifest here is designed t0 support procurement workflows.
+No
+Item
+Plastic Cover
+Plastic Rivets
+Plastic Cover
+Protective
+Control
+Panel
+Description
+150x150
+150x150
+eeve summ
+Mount
+Qty
+637
+328
+20u
+UOM
+Unit Price
+Amount
+564.30
+127.40
+567 
+590.40
+2400.00
+Remarks
+Eco
+Eco
+SO-verified
+SKF brand
+Eco
+compliant
+compliant
+compliant
+TOTAL: 4,249.70

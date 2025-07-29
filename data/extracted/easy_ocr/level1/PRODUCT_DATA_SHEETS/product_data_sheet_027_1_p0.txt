@@ -1,0 +1,58 @@
+Component Overview
+proiccie
+Gh / /0J
+Document No::
+9379474
+Preparec
+Carlos Garcia
+Anproved
+Lauma Ross
+Location;
+Date: 2024-09-03
+Belov' are the tcchnica
+Darameters Jng
+construction materials for tne Unit: Refer t0 tnis configuration SUmmary for
+unit-designation mapping- This data sheet pravides key specifications and material details_ Confirm that performance
+canges
+comply with project requirements
+Please reviev the specifications and material composition listed below,
+Model Uype
+pncuialc
+Lontio
+Umil
+Rated Pressurg
+250 bar
+Flow Rate
+Llmin
+Supply Voltage
+400 "
+50 Hz
+Control Valve
+Manual Overde 3/2
+Oil Type
+HLP 68
+Total Weight
+Working Temp: Range
+-10 Cto50"€
+Mounting
+Rack
+Resenoir
+Capacity
+120
+Mlotor
+Power
+Pump Type
+Gearpumm
+Filtration
+Mm relurn
+Dimensions (LxWxH)
+1200 * 700
+1100 mm
+Pratection
+Class
+IPGS
+Cooling
+AIr-cooled Dil radlator
+Plant
+Trame
+inline

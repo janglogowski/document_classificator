@@ -1,0 +1,109 @@
+BOM Report
+This extract shows the bill of components and total
+projected spend_
+All line-item costs are
+current as per vendor quotes:
+This section oullines the parts, unit prices and total amounts for
+assembly. The
+manifes
+here is designed t0 support procurement workflows_
+This document
+provides
+detailed breakdown of all components required for the assembly process
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Cable Tie
+pCS
+10.45
+SKF brand
+Pack (100)
+Epoxy
+pcs
+7.30
+219.00
+Resin
+Cable Tie
+pCs
+0.95
+15.20
+High grade
+100)
+Spring
+pCS
+0.05
+For export
+Washer
+M1o
+Insulation
+pCS
+3.20
+163.20
+ISO-
+Foam Pad
+verfied
+Cable Tie
+pcs
+0.95
+39.90
+Certified
+Pack (100)
+batch
+Grease
+pCS
+91.20
+Tube
+250m1
+Protective
+1.80
+93.60
+Switch
+Sleeve
+tested OK
+s0mm
+Stee
+5.00
+185.00
+Li-Ion
+Sheet A36
+battery
+installed
+Rubber
+pCS
+0.50
+12.50
+Urgent
+Gasket
+80mm
+Ceramic
+pCS
+2.10
+6.30
+Imported
+Disc 80mm
+Rubber
+pcs
+0.55
+26.40
+For export
+Stopper
+Review this summary against the master budgeting sheet. This closure summary validates that all
+parts are approved for release. Final amounts include handling and
+logistics costs where
+applicable. Verify that all remark items meet the sourcing department s standards;
+Customer ID: FRANCE
+Coordinator: Laura Rossi
+Dale: 2023-05-1
+Product ID: LK-890B
+Intera
+No : 3827315
+Order Qty: 354
+Total
+Amount:
+864.05
+parts
+Pack

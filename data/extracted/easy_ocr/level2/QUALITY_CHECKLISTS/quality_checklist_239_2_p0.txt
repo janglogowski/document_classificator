@@ -1,0 +1,74 @@
+Inspection Checklist
+This closure summary Indlcates compliance with Inspection criteria. Thls summary supports the production-release
+quality Bate, Use this extract
+coardinate _
+sign-off with the QA manager; Below are the items to be verified during
+the final product review:
+Product ID
+MS 600P
+custamcrd
+BRAZIL
+utem
+description
+Shaft 50Omm
+Review Points
+Sample Tier
+Severity
+Comments
+Item Specs
+Critical
+Major
+OnHold
+Incorrect quantity or
+Level II
+Needs review'
+assortment
+Missing lopa
+Wvarninp
+Level I
+Teview
+Rubber texture
+glossiness
+Level |
+Minor issue observed
+mismatch
+Cold
+mismatch
+Levei
+Minorissue Dbsenes
+Hinges loose
+LCvCI
+ISsue Obsenved
+product
+Lcvci
+Critical Impact
+Nvooo
+splinter or sharp point
+Level |
+Needs revlew
+on proquct
+Instnucton Mnaru?
+mlssing
+Level III
+Minor issue observed
+damaged
+Not assembled
+Level I
+drawing
+Dead
+live Insect In
+Level |
+Critical impact
+packaging
+Incorrect orentationnbox
+Minor issue observed
+Missing distributor
+Level |
+Minor Issue observed
+Infarmanor
+Supervised by:
+Date: _
+Minor
+Needs
+Minor
+Wrong

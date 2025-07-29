@@ -1,0 +1,127 @@
+Production
+Report No:: PR-378
+Customer: SWEDEN
+Shift:
+(Evening)
+Date: 28-01-2025
+Equipment
+Task
+Worker
+Begin
+Total
+Comments
+Status
+Time
+MC 208
+Assembly
+Anna Nowak
+1300
+14.05
+Inprogress
+MC-201
+Welding
+Mateusz
+06:15
+08.01
+Completed
+Jarzvna
+MC-208
+Welding
+Dawid
+07:15
+09;01
+106
+Delayed
+Oszmianczuk
+MC 207
+Assembly
+Przemyslai
+13.00
+13.22
+Delayed
+Waslk
+MC 208
+Assembly
+Bartosz
+13.30
+15.30
+NFA
+In progress
+Wawizyniak
+MC-201
+Assembly
+Magdalena
+11.00
+12.31
+Rccambratcd
+piugyss
+Witkowska
+MC-201
+Assembly
+Agnieszka
+14:15
+15.36
+NYA
+Delayed
+Zieliniska
+MC-201
+Welding
+Anna Nowak
+110.30
+12.09
+Completed
+MC-208
+Welding
+Przemystaw"
+08:15
+08:48
+Delay
+In progress
+Wasik
+MC-202
+Welding
+Nadia Sauter
+13.30
+13.57
+Completed
+All operator notes
+been archived for review, Archive this outout summary for
+end-of-day reporting: No
+critical dclays wcrc observed; pleasc address any minor issucs noted
+All production targets have been logged;
+deviations are highlighted above  Use this summary to update the overall production dashboard. Refer to
+remarks for anyrewvork or quality concems
+Product ID
+planncd
+Actual Qty
+Defect Qty
+Scrap %
+Reworkcd
+commcnts
+Output
+Units
+DX-7771
+260
+255
+1.9z7u
+Rewvork
+MEedLD
+TY-3S0G
+5590
+NU-440Z
+148
+0.00%u
+RE-850C
+103
+15.5790
+Rewoik
+needud
+CE-9OSL
+170
+0.39yo
+Appraved by:
+Prepared by:
+Log
+Delay
+NIA
+have

@@ -1,0 +1,83 @@
+Audit Trail
+Usg this Iist to confirm adherence to AQL and safcty standards . Entries include both visual and functional
+inspection items, Rofcr
+the quality register for sampling-plan references. Plcase review each checklist
+point arid Iiark lhe sampllng resulls;
+Product ID
+JD-YOQW
+Customer ID
+CANADA
+Item_Description
+Cable_Tie Pack (10Q)
+Quallty Check Items
+Inspection
+Defect Class
+Observations
+Depth
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Baitery not included
+Lovci
+Rubber Switch not
+Minor issue
+Level
+working
+obseived
+Issue
+Color mismatch
+cbsenved
+Dustidebris inside
+Crllical impact
+packaging
+Functional
+test failed
+Levei
+Needs review'
+Missing logo
+warning
+Needs roview
+labe:
+Loose pants inside
+Level
+Critlcal Impact
+packaging
+Package
+nct sgaled
+conpelely
+Screws loose Or
+Level
+Critical impact
+missing
+Packaging does not
+Level Il
+Needs review
+malcl siqned sample
+Minor issue
+Missing safety labels
+Level |
+observed
+Sharp edges on plaslic
+Needs reviev:
+components
+Minor issue
+Connector not warking
+observed
+Incorrect onentation In
+Lavel
+box
+Inccrect quantity
+assorment
+Minor isSue
+Hinges
+0ccd
+Level
+observed
+Missing distributor
+Level |
+infomalion
+Supervlsed by:
+Date;
+Mot

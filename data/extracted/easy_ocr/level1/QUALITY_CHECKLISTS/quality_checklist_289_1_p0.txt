@@ -1,0 +1,100 @@
+Audit Trail
+#8739390
+Date: 17.07.2025
+Product
+MX-450L
+Customer
+TURKEY
+Item
+Description
+Pressure Valve
+Entries include both visua
+and functiona
+insnecticn
+Confirm that sampling levels comply with customer
+agreements
+Rcnr
+the quality register for sampling-
+Ian rererences; Use this extract
+coordinate sign-ofl with the
+QA manjger
+Ensure allnon-
+conforming marks are cleariy documented. The follawing table outlines Inspection
+criteria and classification levels Check that
+ction steps follow the approve
+procedure:
+Audit Criteria
+Check
+Category
+Lomments
+Intensity
+Product
+Requlremente
+Critical
+Major
+Mlinor
+unhold
+Paint smearine
+scratones
+Leve
+Dusteocbris
+de packaging
+Leve
+MlinorKsue Dbserved
+Caror
+damagedor
+markings incorrect
+Level II
+Needs reviev
+Rubber Siitch not working
+Levem
+Incorrect quantity
+Wsurmen
+Sharmp edges
+plastic
+components
+Minor issue observed
+ncomect narcoge Or
+label
+Leven
+Mlinorissue Oosened
+Shipping mark
+illegible
+Msyine
+Necds review
+Screws loose
+Mssing
+Level
+Crtical Impact
+Dead
+live Insect in
+packaging
+AQL Level
+Critical
+Mlinon
+Default
+Customer specific
+Ensure that all remarks have
+corresponding
+evidence
+attachments; All critical and major inspection points have
+been
+addressed
+Use this closure
+epoT
+update the quality KPI dashboard. Archive this summary
+the dudit-readiness
+folder. Overa
+quaity satus
+indicates compliance with defired AQL levels
+Inspection summary
+filed for
+regulatory
+comnp
+liance
+uems Mared
+for hold require Jdditiona
+before release
+iems
+antpce
+revie"

@@ -1,0 +1,88 @@
+COMPONENT BREAKDOWN
+Customer_ID: FRANCE
+Coordinator:_Jan Kowalski
+Date
+2024-0+19
+Product ID: NE-245A
+Intemal No
+3841385
+Order QbL: 245
+The parts manifest here is designed to support procurement workflows:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Bearing
+1.55
+10%
+PCS
+1.50
+54.00
+Eco
+compliant
+620272
+Bearing
+1.74
+590
+pCs
+1.50
+15.00
+Imported
+Control
+2.47
+PCS
+12.00
+96.00
+Urgent
+Panel
+Mount
+Beanng
+0.39
+296
+pCS
+10.50
+Certified
+batch
+6202 ZZ
+Cable Tie
+0.95
+590
+PCS
+0.95
+33.25
+Pack (100L
+Shaft
+2.03
+590
+pCS
+8.00
+8.00
+ROHS
+compliant
+500mm
+Terminal
+3.17
+296
+pCs
+3.40
+105.40
+ISO-
+verfied
+Block 4R
+All listed components have been verified for availability and compliance
+Review this summary
+against the master budgeting sheet Totals include estimated over-consumption allowances and
+current unit rates
+The cost subtotal supports financial forecasting for the next cycle:
+Total
+Amounc
+322.15
+Approved By:
+Sourcing Department:
+6202

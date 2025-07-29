@@ -1,0 +1,115 @@
+Production Log
+Report No;; PR-419
+Customer: TURKEY
+Shift:
+(Night)
+Date: 11-02-2025
+nquinment
+Task
+Technician
+From
+Finish
+Total
+Uwagi
+Stage
+duratlon
+MC-204
+Assembly
+Magdalena
+09.15
+10.49
+Recalibrated
+dciJvco
+Witkowska
+MC-206
+Cutting
+Piotr
+13.30
+14.17
+Recalibrated
+Delayed
+Wandowsti
+MC- 202
+Polishing
+Piotr
+12.00
+12.52
+Delaycd
+Lewandowski
+MC-206
+Drillirg
+Przemyslav:
+09.30
+10.21
+plogress
+Wasik
+MC- 202
+Assembly
+Mateusz
+06.30
+07.11
+Recalibrated
+Delayed
+Jarzvna
+MC-20A
+Welding
+Dawid
+11.00
+11-41
+leteo
+Oszmianczuk
+MC- 205
+Welding
+Wiktor
+13.15
+15.06
+NA
+Delaycd
+Kopczyrski
+MC-208
+Assembly
+Piotr
+06.15
+06.36
+Recalbrateo
+Delayed
+Lewandovski
+MC-201
+Cutting
+Agnieszka
+07:15
+08 00
+Completed
+Zielinska
+MC-206
+Welding
+Mateusz
+06.15
+07-35
+progress
+Jarzyna
+Pant ID
+Target Qty
+Achieved Qty
+Rejected Qty
+Scrap
+Rework Qty
+Comments
+WD-1805
+129
+119
+7.7590
+Scrap
+canfirmed
+Xk-610U
+220
+9.9170
+FT-730X
+199
+170
+14.577
+Rewon
+needeo
+Appraved bv;
+Prepared by:
+Coinp

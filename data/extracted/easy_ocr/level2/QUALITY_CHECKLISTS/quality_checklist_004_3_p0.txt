@@ -1,0 +1,64 @@
+Inspection Record
+Quality Check Items
+Sample
+Category
+Notes
+Tier
+Component Criteria
+Hold
+Incorrect orientalion
+DOX
+Leve
+Crilical Impact
+Wood splinter
+sharp point
+Level
+Minor issue observed
+product
+Paint smearing or scratches
+Needs
+Incorrect barcode
+label
+Critica
+UpaCI
+Rubber Swich not wokking
+Visual defec_
+housing
+Critical impact
+Battery not_included
+LvE
+Minor issue observed
+Missing distributor information
+Needs review
+Missing safety labels
+Leve
+Packaging does not match
+Level III
+Critical impact
+signed sample
+Dustidobris inside packaging
+Carton
+damaged
+Level Il
+Critical impact
+markings incorrect
+Product doesn t power on _
+Leve
+Minor issue observed
+Exposed nail with sharp point
+Leve
+Package
+sealed
+Level
+Needs review
+completely
+Sharp edges on plastic
+components
+Reference Standards
+Standard
+Edition
+CE Directive
+2020
+UL61010
+3d Ed
+Tovich

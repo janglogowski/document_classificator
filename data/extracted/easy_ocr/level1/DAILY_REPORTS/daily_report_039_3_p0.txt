@@ -1,0 +1,137 @@
+Production
+Report No:: PR-676
+Customer: FINLAND
+Shift: =
+(Night)
+Date: 21-08-2024
+Machine
+Operation
+Operator
+From
+End Time
+Mime
+Uwagi
+Condition
+Spent
+MC-207
+Assembly
+Magdalena
+12.00
+12;53
+Recalibrated
+Completed
+Witkowska
+MC-206
+Assembly
+Bartosz
+08-00
+09.56
+116
+Delay
+Completed
+Wvaimvniaz
+MC-201
+Assembly
+Dawid
+06.15
+07;10
+Recalibrated
+propress
+Oszmianiczuk
+MC-203
+Polishing
+Mateusz
+11.30
+13.13
+103
+Delayed
+Jarzyna
+MC-207
+Assembly
+Wiktor
+09.15
+10;48
+NYA
+Delayed
+Kopczynski
+MC 201
+Polishing
+Magdalena
+09.30
+09.55
+Recalibrated
+progress
+Witkowska
+MC-206
+Polishing
+Nadia Sauter
+13.30
+15,30
+Delaved
+MC-202
+Drilling
+Jan Kowalski
+W8-QIE
+08;35
+progress
+MC-204
+Drilling
+Mateusz
+14:15
+16;04
+Recalibrated
+Completed
+Jarzyna
+MC-208
+Welding_
+Nadia Sauter
+06-0
+07.57
+Dela
+Completed
+MC-201
+Polishing
+Agnieszka
+14.30
+15,01
+Delayed
+Zielinska
+Refer -
+remarks for any rework or quality concems_
+Ensure routine maintenance
+Jeqween
+shifts
+maintain
+consistentoutpul: Archive this output smmary tar end-al-day reporting
+The performance recap supports the
+morning briefing agenda Overall praductian performance met expectations farthe day;
+Part ID
+Planned
+Actual Qty
+Rejected
+Scrap %
+Reworked
+Comments
+output
+Qty
+Units
+AL 1150
+225
+202
+10.2296
+GH-7701
+118
+100
+19.2570
+XK-6IOU
+234
+202
+13.6856
+Rawane
+needed
+HF-390A
+105
+13.9376
+Approved by;
+Prepared by: _
+Log

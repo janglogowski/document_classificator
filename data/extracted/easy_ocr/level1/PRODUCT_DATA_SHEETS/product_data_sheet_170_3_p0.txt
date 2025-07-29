@@ -1,0 +1,35 @@
+Component Overview
+Report
+8192374
+Product ID: PW-51SY
+2024-10-12
+Model Txpe
+Cooling Circulation
+Design Pressure
+210 bar
+Svstem
+Throughput
+60 Limin
+Supply Voltage
+480 VI60 Hz
+Cooling
+4ir-coDI
+Reservoir Capacity
+Protection
+Clas5
+Frame Material
+Stainless Stee
+Frame
+Dimensions (LxWxH)
+1000
+650
+1000 mi
+Type
+Gedr
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+No:;
+Date.
+raciatou
+Pump
+Pumip

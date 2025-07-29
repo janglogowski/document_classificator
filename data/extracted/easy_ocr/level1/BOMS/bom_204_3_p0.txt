@@ -1,0 +1,80 @@
+COMPONENT BREAKDOWN
+Review the materials tally for compliance with budget allowances AIl line-item costs are current as
+per vendor quotes. AIl entries reflect the latest inventory and supplier rates. This section outlines the
+parts, unit prices and total amounts for
+assembly. This summary lists every item required, with per -
+unit pricing details _
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Hex Bolts
+0.25
+13.25
+ISO-verified
+M12
+Cable lie
+42.75
+grade
+Pack (100)
+Stainless
+0.35
+14.00
+For export
+Bolt MB
+35.10
+High grade
+Resistant
+Sleeve
+Stainless
+0.35
+11.90
+For export
+Bolt MB
+Epoxy
+pcs
+277.40
+Resin Kit
+compliant
+Protective
+21,60
+Imported
+Sleeve
+50mm
+Shaft
+pCS
+8.00
+48.00
+Imported
+50omm
+Rubber
+pCS
+16.50
+Urgent
+Stopper
+Hex Bolts
+pCS
+0.25
+2.50
+ISO-verified
+M12
+Rubber
+pCS
+0.50
+ISO-verified
+Gasket
+80mm
+Customer ID: BELGIUM
+Coordinator: Anna Nowak
+Date: 2023-10-08
+Product ID: MX-450L
+Internal No_
+2536781
+Order Qty: 180
+Total Amount:
+487.00
+High
+Heat

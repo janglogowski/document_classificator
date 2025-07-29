@@ -1,0 +1,69 @@
+Product Overview
+Refer -
+this configuration summary for unit-designation mapping; This report extract is prepared for design-
+verification audits;
+The following information outlines perfcrmance characteristics and design data; This
+technical overviev supports the product-release checklist
+lease reviev" tne
+specifications and material
+composition listed below:
+Product
+SL-430M
+Document No::
+PR-5SO
+Prepared by: Laura Rossi
+Approved by: Laura Rossi
+Date: 2025-03-10
+Model Type
+Pncumatic
+Control Unit
+Operating Pressure
+180 bar
+Throughput
+75 Umin
+Operating Voltage
+230
+50 Hz
+Filtration
+10 Um return
+25 pm
+Control Valve
+Manual Override 3/2
+suction
+Protection Class
+P6s
+Working Temp
+58C to 45 C
+All specifications meet the design requirements and industry standards: Document control numbers are
+Included
+traceability. Overa
+contiguration
+within defined design and safety margins. Refer to
+parameter table for operating ranges and tolerances
+any missing parameters for urgent specification
+updates, Material choices
+process dala have been verified for compliance, Use this summary
+check with BOM and
+inspection reports.
+Material 0i Construction;
+Subcomponent
+Raw Material
+Powc
+Swico
+Polycarbonate
+Coppez
+Sink
+Limminum 606d
+Conn
+Glass-Filled Nxon
+Carbon Steel
+Support Foot Stee
+Stainless Steel 304
+Capacitor A50V
+Elmminum
+6061-T6
+Range
+Flag
+and
+Coss-
+Snec

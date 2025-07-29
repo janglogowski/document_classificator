@@ -1,0 +1,72 @@
+COMPONENT BREAKDOWN
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Grease
+pCS
+30.40
+For export
+Tube 250ml
+Copper
+8.40
+ISO-verified
+Wire 3mmn
+Spacer Zmm
+0.15
+2.10
+Hinge
+alignment
+adjusted
+Rubber
+16,00
+Gasket
+80mm
+Insulation
+3.20
+99.20
+ISO-verified
+Foam Pad
+Shatt
+136.00
+High
+s0Omm
+Battery
+25.00
+975.00
+SKF brand
+Pacy
+Protective
+82.80
+Switch
+Sleeve
+tested OK
+s0mm
+Fuse SA
+15,60
+SKF brand
+Shaft
+8.00
+200.00
+s0omm
+Aluminum
+4.50
+139.50
+Bracket
+alignment
+adjusted
+Customer
+D: TURKEY
+Coordlnator: Jan Kowalski
+Date: 2024-03-04
+Product ID: MX 450L
+Internal No.: 5099570
+Order Qty: 339
+Total
+Amount
+705.00
+Grade
+Hinge

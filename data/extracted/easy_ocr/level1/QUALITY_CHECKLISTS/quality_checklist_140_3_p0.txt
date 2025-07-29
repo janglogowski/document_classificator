@@ -1,0 +1,44 @@
+Compliance
+Audit Criteria
+Sample
+Defect Class
+Comments
+Tier
+Product Requirements
+Critical
+Major
+OnHold
+Dead
+Live Insectin
+Level III
+Critical impact
+Bing
+Rubber Switch not working
+Level II
+Criticalimpa
+Functionality test failed
+Issue Jbservad
+Nol asseinbled a5
+Minor issue observed
+drawing
+Hinges
+OCSC
+LCVGI
+Critical impact
+Missing logo
+waming
+label
+Incorrect quantily Or
+Critical impact
+Assortment
+Reference Standards:
+Standard
+Edition
+RoHS
+2020
+Ul6i0IO
+4th Ed
+Log
+Minor
+pocke
+Minor

@@ -1,0 +1,126 @@
+Report No:: PR-796
+Customer: FRANCE
+Shift:
+(Evening)
+Date: 16-09-2024
+Equipment
+ask
+Technician
+From
+End Time
+Time Spent
+Notes
+Status
+MC-207
+Drillirg
+Barost
+13.00
+13-37
+Delay
+progress
+Wawrzyniak
+MC-208
+Drilling
+Agnieszka
+07.00
+07-59
+Recalibrated
+Completed
+Zielinska
+MC-209
+Polishing
+Piotr
+10,00
+11.49
+In progress
+Lewandovski
+MC-207
+Polishing
+Mateusz
+11330
+12-06
+progress
+Jarzvna
+MC-206
+Polishing
+Piotr
+07,30
+08.05
+N/A
+prozress
+Lewandowski
+MC-202
+Assemblv
+40na Nowa
+06.30
+08.23
+leten
+NC201
+Polishing
+Nowvar
+06.00
+06.47
+Delayed
+MC-20}
+Polishing
+Magdalena
+14:15
+15.06
+NZA
+Delayed
+Witkowska
+MC-207
+Cutting
+AnnaNowval
+11.00
+12.40
+Delayed
+Archive this output summan
+end-of-day reparting
+Check material consumptian against standard usage
+032s
+Confirm that scrap percentages align with quality benchmarks. Ensure routine maintenance between shifts
+maintain consistent output:
+Product ID
+Target Qty
+Actua
+Qty
+Scrap
+Qty
+Rejection %
+Reworked
+Nates
+Units
+CE-gosl
+248
+248
+D.D0X
+AZ-3OOT
+8.207
+Scrap
+cantirmed
+TL-9oOX
+125
+108
+13.60%
+Rework
+needeo
+NU-440Z
+156
+156
+D.DDX
+Scrap
+cantirmed
+MC-540X
+10,537
+Scrap
+confirmed
+VR-940T
+205
+7.2876
+Rewon
+needeo
+Approved by:
+Prepared by:_
+Comp
+Anna

@@ -1,0 +1,131 @@
+Dimensional
+Inspection performed by Jan Kowalski on 2025-05-30.
+Review recorded tolerances against engineering specitications; The inspection register below highlights any out-of-
+Rolernce
+parts. This surrimary of measurements supports metrology traceability- This section details the measured
+Values
+talerances;
+and status
+flags. Belaw are the recorded
+Measurement
+compared against nominal tolerances
+This data extract
+prepared for quality-control sign-off,
+Environmenta
+Conditions: Temperature
+20.8
+Humidity: 56 %
+Item Code
+Componcnt
+Dim;
+ominal
+Actual
+Diff
+Status (V(X)
+FT-730X
+Thickness
+64.86
+64.94
++0.08
+PASS
+BZ-S60F
+Plastic Rivets
+inner
+80.96
+80.93
+0.03
+PASS
+Diameter
+KP-320E
+Steel Sheet
+Wiath
+47.31
+47,14
+0.17
+PASS
+A36
+GH-770J
+Rubber
+Length
+75.47
+75,45
+0.02
+PASS
+Gasket 8Omm
+SL-430M
+Inner
+81.88
+82,03
++0,15-
+PASS
+piametci
+QN-Z70H
+Graphite Pad
+Depth
+96.91
+96.94
++0.03
+PASS
+DX-777T
+Wooden
+Depth
+56.48
+56,68
++0,20
+PASS
+palet
+MC-540X
+Hex Bolts
+Height
+43,80
+43,69
+0.11
+PASS
+M12
+JD-700w
+Wiath
+80.37
+8047/5
+0.12
+P4SS
+RM-86ON
+Wooden
+Wiath
+35,44
+35,56
++0,12
+PASS
+Pallet
+CN-150C
+Plastic Rivets
+Thickness
+87.39
+87.52
++0.13
+PASS
+MC-S40X
+Plastic Rivets
+Height
+19.35
++0.18
+pasc
+LK-8908
+shaft
+DOMm
+Width
+57.86
+57.86
++0.00
+PASS
+RE-850C
+Steel Sheet
+width
+75.31
+75.45
++0.14
+PASS
+A36
+Log
+Hinge
+Hinge'
+Hinge

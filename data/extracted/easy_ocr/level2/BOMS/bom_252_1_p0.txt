@@ -1,0 +1,62 @@
+BOM Report
+Customer
+D: CANADA
+Coordinator: Peter Schmidt
+Date: 2023-11-30
+Product ID:VR-94T
+Intemal No_7765051
+Order QY: 359
+The component roster below includes unit costs and batch codes- Use this breakdown to verify
+sourcingand cost estimates
+Belowis the component listing and associated costs forthe upcoming
+production batch: This section outlines the parts, unit prices and total amounts for assembly:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Clamp
+1.16
+086
+pcs
+1.75
+15.75
+High
+120mm
+grace
+Spring
+243
+290
+0.05
+1.20
+EcO
+Washer
+compliant
+M1o
+Gasket
+3-48
+500
+1.25
+2.50
+ROHS
+Sheet A4
+compliant
+Battery
+2.92
+pcs
+25.00
+75.00
+For expont
+Pack
+All sourcing notes have been logged for audit purposes
+Total Amount:
+94.45
+Approved By:
+Sourcing Department:
+Ring
+PcS

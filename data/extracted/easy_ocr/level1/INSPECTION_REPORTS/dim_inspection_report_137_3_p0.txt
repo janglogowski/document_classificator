@@ -1,0 +1,97 @@
+Tolerance Check
+Inspection performed by Peter Schmidt on 2025-04-02.
+Review recorded
+Olerances
+against engineering specitications
+Below are the recorded
+Measmcements comnarem
+nomnina
+tolerarces. This data extract
+prepared
+quallty-contral sign-off. Check that all dlmensions comply
+with ISO and company standards- Tnis summary
+MpasureMeni
+supports metrology traceability- This report
+presents
+the dimensiona
+Measurements
+and inspection results
+Environmenta
+Conditions: Temperature: 21.1
+Humidity: 51 %
+Product
+Ref
+Part Name
+Micasurcmcnc
+Target
+Observed
+Diff
+Status
+(vX)
+TR-2COB
+phite Pad
+Thickness
+10.22
+10.23
++00I
+Gh-7701
+Steel
+Sneet
+Length
+23.87
+23.80
+0,07
+436
+LP-SSSV
+Power Switch
+Height
+99,39
+99,51
+40.12
+LP-SSSV
+~Ring NBR
+Winth
+69,94
+69.82
+0,12
+60mm
+MR-160H
+phite Pad
+Wiath
+89,61
+89.72
++0.11
+RE-850C
+Graphite Pad
+Height
+32.88
+32.69
+Kv-390k
+Battery Pack
+Inner
+75.09
+75.12
++0.03
+Diameter
+LK-8908
+Waaden
+Depth
+6.01
+6.19
++0.18
+Pallet
+NF-2454
+Rubher
+Wiath
+81,41
+81-54
+40.13
+Gasket 80mm
+NU-440Z
+Waaden
+Depth
+95.99
+95.92
+0.07
+Pallet
+agalnst

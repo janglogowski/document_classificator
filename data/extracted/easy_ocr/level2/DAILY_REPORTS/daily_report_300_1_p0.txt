@@ -1,0 +1,129 @@
+Shift Summary
+Report No :
+PR 092
+Custoniar
+BRAZIL
+supervisor;
+Peter
+Scnmidi
+Decsnmmenl 
+Quality Control
+Deie
+24-09-2023
+shift:
+(Nighl)
+Equipment
+pFocas?
+Operator
+Fom
+Finish
+ota
+Uwagi
+muraton
+MC-206
+Welding
+Magdalena
+08.15
+08.57
+N/A
+Wltkowska
+MC-209
+Polishing
+Magcalena
+12.00
+13.24
+Deiay
+Thtcowski
+MC-209
+Assciciy
+an Kowalski
+12:4-
+MC 206
+Drilling
+Jantowalse
+Ju Mu
+T45
+MA
+MC 208
+Welding
+Baitosz
+11:15
+1305
+110
+Delay
+Wawizynlak
+MC-205
+Polishing
+Agnieszka
+06;CO
+06,27
+Zielinska
+MC 207
+Welding
+Nadia Sauter
+11,00
+12.51
+MC-201
+Welding
+Pioti
+11;00
+12.43
+Weia 
+Lawandots
+MC-201
+Drilling
+Nadia Sauter
+14.30
+14.51
+MC-209
+Cutting
+Maleust
+12.30
+14.03
+Recalibrated
+aryna
+MC-201
+As3amoiv
+Wiktor
+13;30
+14.40
+Kopczyrski
+producted
+Target QY
+Produced Qty
+Rejected Qty
+Failure
+Notes
+NF-?454
+242
+240
+0.8396
+Rewo
+neeqed
+RE-850C
+Rew'ork needed
+VF-2ZID
+205
+181
+11.7184
+Scrap
+conitmned
+XD-T1OR
+220
+14.6190
+Scrap
+continmied
+ZR-zo5r
+36&
+confirmed
+DX-777T
+203
+9310
+Rawonk naeded
+Preparedby:
+Carles Gaicia
+KUCROYCO
+Knma
+Nowak
+H1-oo
+Screp

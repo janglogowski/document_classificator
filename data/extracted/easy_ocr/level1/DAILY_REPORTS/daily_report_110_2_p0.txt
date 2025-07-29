@@ -1,0 +1,88 @@
+Production Log
+Redar ND;:
+PR-878
+Cuslamier-
+NORWAY
+gudenvisoi
+Peter Schmict
+Department:
+Assemdiy
+Snift;
+(Moming)
+15-10-2024
+This dashboard sectian highlights any production bottlenecks
+Refer
+this log
+mianitor shift productivily and cycle
+counts
+AIl throughput figures are recorded for caparity =
+anning; The line-output register captures
+production
+events
+for the day:
+Equipment
+Process
+Wvorkcr
+Bcgin
+End
+Duration
+Remarks
+emperaturc
+Energv
+Time
+Imin]
+(kWh)
+MC-202
+Assembly
+Dawid
+09.30
+10.45
+Delay
+66.4
+2.48
+Oszmianczuk
+MC-206
+Polisning
+Kagia Sauter
+09.15
+10.45
+60.6
+134
+MC-208
+Drilling
+Przemysiav
+08.30
+10.27
+58.3
+2.95
+Wasik
+MC-208
+Assembly
+Agnieszka
+09.00
+10.05
+59.1
+1.27
+Zielinska
+MC-20A
+Assembly
+Przemyslaw
+07.C0
+08.12
+67.7
+2.69
+Wasik
+MC 207
+Assembiy
+Kagia
+Sauter
+07:15
+07.56
+Recallbrated
+63.4
+2.91
+Prepared by:
+Lnna Nawak
+Approved p%:
+Knnj
+Kowak

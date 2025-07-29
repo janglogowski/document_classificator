@@ -1,0 +1,52 @@
+Unit Data Specification
+Document No.
+PR-683
+Product ID: VF-2ZOD
+Date: 2024-12-18
+Model Uype
+Pneumalic Control Unt
+Design Pressure
+180 bar
+Juid Flow
+30 Lnin
+Operating Voltage
+480
+60Hz
+Motor Power
+Z5kW
+Noise Level
+68 dB(A
+Battery Capacity
+Frame Matera
+Hminum
+Frame
+Protection Class
+IPS5
+Dimensions LxWxHL
+1200 x 700 x 41005
+Iltration
+inline;
+10 um
+Charging
+Wime
+return
+Component Materials Overview:
+Label
+Raw Materal
+Specification
+Connector
+illed Nylon
+UL-listed
+Ring NBR 60mm
+Nitrile Rubber (NBRE
+Electrical grade
+Graphite Pad
+Graphite Pad
+Hrance
+Ceramic Oxide
+DIN EN 10025
+Prepared by: Jan Kowalski
+Approved by: Laura Rossi
+Glass
+Ciass
+Fuse

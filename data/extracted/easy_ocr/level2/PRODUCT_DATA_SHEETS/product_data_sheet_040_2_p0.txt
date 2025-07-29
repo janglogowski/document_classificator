@@ -1,0 +1,71 @@
+Product Overview
+provdes
+'specifcations
+matcnni
+details . This techical overvlew supports the product-release
+Thts data sheet
+Information outllnes performance characteristics and deslgn data Please review the
+checklst: The following
+comdofo
+Isted below: The parameter register below Includes operating Writs and
+snecificatlans und materlal
+rotings:
+RX T402
+Product
+PR-HAQ
+Aeport
+Prepared by; Peter Schmdt
+Approved by: Jan Kowalski
+Date; 2024-04-19
+Coollng Crculatlon
+Design Pressure
+300 Dar
+Unit Type
+System
+480 V / G0HI
+Flai Hato
+LAe
+Voltage
+Conero
+Valve
+Manual Override 3/2
+Working Terp. Rarke
+10 €to 55"C
+Fraie Materh
+Powder conted SiCe
+Welaht
+parameters for urgert specification updates; Material choices and process data
+AaV
+bcen verltied
+Flac any mssing
+clatue nole
+Irdicates the data sheet 
+rendy for Felease
+Use chls summary t0 cross-check with
+fot comipiiancu:
+BOM and inspectlon reports Overall canllguratlon
+within delled deslgn arid safety narguns;
+Material
+Construction:
+Labu
+Corpositlon
+ZAC plated Steel
+Hex Balts M4?
+Suainles Stee
+Support Foot Steel
+Ceramlc Oxide
+Cue
+Aluminum 6061-16_
+Hqat Sink AlU
+Carkon Stucl 436
+Steel Sheet 436
+sicone Rubo@r
+Coallng Gel Patk
+Vle d Nylon
+Gonnector 2p
+Digltal Dlsplay Urit
+ABS Plastic
+nd
+Ko .
+Toth
+Glas'

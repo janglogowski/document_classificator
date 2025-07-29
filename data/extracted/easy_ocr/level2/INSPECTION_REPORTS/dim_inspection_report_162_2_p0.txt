@@ -1,0 +1,53 @@
+Dimensional
+insoector
+LauraKossi
+Inspection Date
+2025-01-15
+This report presents Ihe dimensional measurements and inspeclion resulls. All measured values are
+timestamped for audit purposes_
+Refer to the dimensional llog for all component size readings
+Check that all
+dimensions comply with ISO and company standards: Entries include both passifail markers and deviation
+magnitudes. Review recorded tolerances against engineering specifications_
+Product Ref
+RM-86ON
+PL-6012
+MR-160H
+NE-2454
+Part Name
+Batter Pack
+Woaden Pallet
+Bearing 6202 7Z
+Battery Pack
+Dim
+Thickness_
+Depth
+Length
+Inger Diameter
+Hominal
+50.52
+65.22
+13.90
+48.41
+Actud
+50.59
+65.0/
+13.96
+48.24
+Delta
++0,07
+PassIFall
+Record any measurement anomalies for follow-up analysis. Refer to deviation column for any out-of-
+tolerance measurements. Confirm that pass rates meet the defined acceptance criteria.
+Instrument Calibration
+Instrument
+Serial No:
+Last Calibration Date
+CMM
+76302
+2024-08-05
+Caliper
+25171
+2025-02-18
+Log
+Log:

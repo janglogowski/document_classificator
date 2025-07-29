@@ -1,0 +1,54 @@
+Unit Configuration
+Document No;
+5450916
+Procuct ID: ON-Z70H
+Dale: 2025-03-17
+Configuration Type
+Cooling Circulation
+Operating Pressure
+300 bar
+System
+Fluid Flow
+75 Limin
+Supply Voltage
+480 V / G0 Hz
+Filtration
+10 um rotum 25 um
+Battery Capacity
+10 Ah
+suctiom
+Noise Level
+70 dBiA)
+Charging_ Time
+Pump Iype
+Piston Pump
+Component Haterials Qverview;
+Pait
+Raw Malerlal
+Specliicallon
+O RIng NBR G0mm
+Nitile Rubbet (NBR)
+KulcOnosive
+Support Fool Sleel
+Staliless Steel 304
+Heat-resistant
+LDcm
+EVC (Rigid]
+Class
+tolerance
+Insulated Tube 2Smin
+Thernioplaslic Polyurelhane
+Electrical grade
+{TPU;
+Hcat Sink ALU
+Aluminum Go61-T6
+IP6T rated
+Wcoden Pellet
+Trcated Pine Wood
+DINEN 10025
+Digital Display_ Unit
+ABS Plastic
+UL-Iisted
+Prepared by: Laura Rossi
+Approved by: Carlos Garcia
+wg

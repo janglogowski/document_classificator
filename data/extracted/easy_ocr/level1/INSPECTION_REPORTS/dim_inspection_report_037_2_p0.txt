@@ -1,0 +1,69 @@
+Component Dimensional Check
+ecnnician
+Peter Schmid
+Inspection Date
+2025-04-11
+Product Ref
+MX-450L
+FT-730X
+XK-G1OU
+QP-6G0F
+MC-540X
+VR-940T
+GL-9805
+Part Name
+Plastic
+Rubber
+Graphite
+Set
+Graphite
+Hex Bolts
+Hinge Set
+Rivels
+Gaskel
+Pad
+Pad
+M12
+8Omm
+Measurement
+Hale
+Hale
+Lengin
+Widlh
+Widin
+Hole
+Wmner
+Diameter
+Target
+72.71
+44.22
+84.96
+92.00
+73.49
+75.33
+79.17
+Observed
+72.67
+44 6
+84.78
+Delta
+0.06
+PassiFall
+This assessment reflects the latest metrology results
+All dimensions within tolerance have been marked as
+OK
+Components
+inspection require immediate review and corrective action:
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Caliper
+26476
+2025-04-27
+Lase
+Scanner
+49017
+2025-05-22
+Hinge
+failing

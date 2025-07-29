@@ -1,0 +1,92 @@
+COMPONENT BREAKDOWN
+Review the matera s taly for compfance with budget atowances Ths secton Outfres te parts;
+untt prices and total amounts for assemby
+Use ts schedule 0i parts t0 atgn wth souronng
+stock eve =
+This extraci shoxs te bll of components and total projected spend
+No
+hem
+Oyy
+Uoh
+Rate
+Amount
+Remans
+Desciptol
+Ventaton
+5.60
+268.80
+Highgrace
+Gud
+Cable Tie
+0.95
+21-85
+Cemfed
+pal
+Pac (100
+Rubber
+050
+1050
+Gaskel
+cu
+Clamp
+DCS
+1.75
+7350
+Ring
+Iu
+Plasuc
+Pc3
+0.20
+3.20
+Cemfed
+3@
+Riess
+1500
+450.00
+Eco
+Digita
+complant
+Display
+Unt
+Spnng
+PCS
+0.05
+245
+Waste
+K1o
+Rubber
+0.55
+10.45
+ROrS
+coupen
+Senaton
+PCS
+5.60
+11200
+For expon
+Gia
+Beanng
+PCS
+150
+450
+ROHS
+cmden
+6202 Z7
+Check that component quanfties algn witn producion nun requirements
+Al souong notes nave
+Eeen Iogged for audt puPoses
+Customer_IDFRANCE
+Coqnae Cale Gana
+Date
+2022-14127
+Proquc IDHC HOX
+Intemalko : 1520938
+Ore Q1L 253
+402
+AMounf
+857.25
+and
+OCS
+PCS
+DS
+PCS

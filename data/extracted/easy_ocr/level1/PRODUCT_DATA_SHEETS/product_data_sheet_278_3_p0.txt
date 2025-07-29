@@ -1,0 +1,56 @@
+Component Overview
+Report
+9220044
+Product ID: LP-555v
+2024-12-27
+Configuration Type
+Cooling Circulation
+Operating Pressure
+250 bar
+Svstci
+Fluid Flow
+48 Limin
+Voltage
+60 Hz
+Charging Time
+Battery Capacity
+10 Ah
+Frame Materia
+Stainless Stee
+Frame
+Total Weight
+230kg
+Service Interval
+1000
+Filtration
+10 4mteturn
+Pump Iype
+Vane Pump
+Dimensions ILXWxH
+1200 *
+700 * 1100 mmn
+Component Materjals Overview::
+Subcomponent
+Raw Materia
+Specification
+Rubber Gasket 80mm
+Nitrile Rubber INBR)
+IP6? rated
+Bearing 6202
+Stainless Steel 304
+Heat-resistant
+Cable Tie Pack (100]
+Nitue Rubber INBRA
+Aniicorrosivl
+Heat Sink ALU
+Aluminum 6061-T6
+EN 10025
+Gasket
+Nitrile Rubber INBR)
+DIN EN 10025
+Prepared by: Peter Schmidt
+Approved by: Anna Nowak
+No:;
+Date.
+Loline
+Sncet

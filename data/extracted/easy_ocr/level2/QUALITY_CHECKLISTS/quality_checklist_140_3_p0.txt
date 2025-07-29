@@ -1,0 +1,48 @@
+Compliance Log
+Audit
+Criteria
+Sample
+Defect Class
+Product"
+Tler
+Comments
+Requjements
+Dead
+Lnve insectin
+Critical
+Major
+OnHold
+Packaring
+LevelIII
+Rubber Swtch notworang
+Criticalimpact
+Functionality test
+Level II
+Not assembledas
+Crucal impact
+drawng
+Issue observed
+Duse
+Leveim
+Minor issue observed
+ALBC
+orwatning
+Lanel
+limpact
+Incorrect
+quantly
+assontmen
+Standards:
+Critical impact
+Standard
+Rohs
+Edition
+UL 61010
+2020
+Ath Eda
+Hinor
+Kinor
+Hinges
+Histing (
+Cntic41
+Aeletence

@@ -1,0 +1,103 @@
+Report _
+PR-765
+Customer;
+TURKEY
+Supervisar:
+Nowak
+Department:
+Logistics
+Date
+09-202
+Shift:
+(Eveningi
+Machine ID
+Task
+Technician
+From
+End Time
+Duration
+Comments
+(min)
+MC-205
+Drilling
+Agnieszka
+13;00
+14.24
+Delay
+Zielinska
+MC-201
+Welding
+Magdalena
+14.30
+16304
+Witkowska
+MC-201
+Polishing
+Przemystaw
+07;15
+09.12
+Delay
+Wasik
+MC-201
+Assembly
+Anni
+Nowak
+08 30
+10:2 ,
+MC-207
+Drilling
+Wiktor
+12.30
+14.16
+106
+NA
+Kopczyriski
+MC-201
+Drilling
+Magdalena
+11;15
+12.40
+Witkowska
+MC-206
+Drilling
+Przemystaw
+12:00
+13.44
+104
+Recalibrated
+Wasik
+MC-207
+Welding
+Nadia Sauter
+IO : DO
+1728
+Delav
+Item ID
+Target Qty
+Achieved Qty
+Defect Qty
+Rejection
+Notes
+RX-3102
+210
+6,2556
+Pw-515Y
+15.7496
+Rework needed
+GL-9BOS
+8.7056
+Scrap
+conlirmed
+BZ-660F
+290
+3.0198
+Pewwannecdedi
+Pw-51SY
+8.6190
+Prepared by:
+Anni
+Nowak
+Approved by;
+Carlos Garcia
+No :
+Anna

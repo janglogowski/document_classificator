@@ -1,0 +1,78 @@
+Inspection Summary
+This summary supports the production-release
+gate_
+Ensure all non-conforming marks are clearly
+documented: Refer to the quality
+register
+sampling-plan references. Please reviow each checklist point
+and mark the sampling results. Use this extract to coordinate sign-off with the QA manager:
+Product ID
+SL 430M
+Customer ID
+BELGIUM
+Item Descrption
+Ventilation Grd
+Audit Criteria
+Check
+Severity
+Notes
+Intensity
+Product Requirements
+CR
+MA
+Hold
+Rubber Switch not working
+Level !
+Not assembled as per
+Level III
+Minor issue observed
+draving
+Product doesnt poweron
+Missing disuibutor Information
+Level
+Crilical Impact
+Carton Is damaged or
+Level =
+markings incorect
+Incorrect
+qvantty
+Level II
+Needs review
+assonment
+Missing
+warning labe
+Crilical impact
+Baltery not included
+Level
+Needs (eview
+Shipping mark
+illegible or
+Level
+Missing
+Color
+Mismatchn
+Critical impact
+Missing safety labels
+Needs review
+incorrect
+orientation in box
+Critical impact
+Screws loose or missing
+Level
+Needs review
+Dustldebrs inside
+packaging
+Wrong product size
+Levei
+Needs review
+Dead
+live insect in
+Level
+packaging
+Sharp edges on plastic
+Level |
+Needs review
+components
+Supervised by:
+Date:
+qualitly.

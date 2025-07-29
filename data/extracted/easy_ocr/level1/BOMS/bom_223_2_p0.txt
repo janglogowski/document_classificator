@@ -1,0 +1,36 @@
+Customer ID: SWEDEN
+Prepared by: Anna Nowak
+Product ID: AL-115Q
+Internal No:: 9959552
+No
+Item
+Plastic Cover
+Sheet A36
+Plastic Cover
+Insulation Foam
+Description
+150x150
+150x150
+Pad
+508
+UOM
+pcs
+pCS
+Unit Price
+110
+LOO
+Amount
+558.80
+155.00
+693.00
+376.00
+Remarks
+Hinge alignment
+Switch tested
+SKF brand
+SKF brand
+adjusted
+OK
+TOTAL: 5,782.80
+Steet
+aty

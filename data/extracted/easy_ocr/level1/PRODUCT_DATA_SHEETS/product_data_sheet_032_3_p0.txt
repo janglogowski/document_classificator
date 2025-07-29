@@ -1,0 +1,49 @@
+Unit Data Specification
+Interno
+2038506
+Product ID
+SB-1400
+2024-11-24
+Unit Type
+Pneumatic Contral
+Rated Pressure
+210 bar
+Throughput
+30 Limin
+Operating Voltage
+230 V
+50Hz
+Total Welght
+250
+Contro
+Valve
+Proportional 4/2
+Charging Time
+Mlountine
+Wall mounted
+Mator Powcr
+Battery Capacity
+Reservoir Capacity
+Noise Leve
+70 dB(A)
+Component Materials Overview:
+Specification
+Bearing 6202 Z
+Stainless Steel 304
+UL-istec
+WNom
+Pallet
+Trealed Pine
+WNadd
+Ipby raled
+Insulated lUbe 2smin
+Thermoplastic Polyurethane (TPU)
+certified
+Pressure Valve
+Brass CZ1ZI
+Electrica
+Prepared by: Anna Nowak
+Approved by: Laura Rossi
+Date:
+Unit
+Brade

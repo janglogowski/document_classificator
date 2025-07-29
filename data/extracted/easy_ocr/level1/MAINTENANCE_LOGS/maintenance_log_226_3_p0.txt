@@ -1,0 +1,134 @@
+Equipment Record Report
+Performed On: 2025-03-05
+Carlc"
+Gurciin
+Perommeddy:
+Laura
+RCsgi
+This log records all maintenance activities performed
+the equipment;
+Ailechnician comments are recorded {or
+maintenance trend Anaiysis
+Confirm that service intervals follow the preventive schedule
+Usethis reccrd
+plan upcoming
+Up<CBC
+Jndrepains
+Entngs include Wor < orders
+technician assi4nmgnts
+and part Chanag;
+Section
+Unit Code
+MC-219
+HC-270
+YC-231
+MC-223
+MC-257
+MC-248
+Machlne
+CNC Mlling
+plaeme
+Cnel
+Packaging
+LaeerCuter
+Convevo
+Belt
+Assembly
+Huchin
+Rubot
+Service Type
+Preventn e
+Corrective
+comective
+Loireciive
+Cotrecina
+Preventin
+Technician
+Laune
+Hassi
+Peler Schmicg
+Jeter Schmidt
+Laura Hossi
+Laura Hasse
+Lauia Roza
+Duration
+Notos
+5 vitch
+Clinration
+WAntengo
+Wcrn Busket
+Changed oil
+Waoden Dallct
+ccnacis
+~heckok
+Aoobeals
+renaced
+checked;
+cleaned
+Section
+Unit Codc
+MC-207
+HC-257
+MC248
+MC-223
+MC-270
+HC-231
+Nac hine
+Fudraulic
+Convveyor Belt
+Assemol
+Laser Cutter
+Fasma Cutter
+Packaging
+Press
+3ob0
+Selvice
+Prevenive
+Corrective
+ngpectiot
+Preventive
+Inspection
+Preventive
+WecanictAn
+AnnaNotta
+Lauiz
+Roee
+Lna NOEk
+Ian Kowvelski
+Schmldi
+JlanKotvalge
+Duration
+Notes
+Refilled oil
+Worn easket
+Alienment ot
+CharEeo cil
+Replaced
+Replaced
+IHLP 461,
+cuplalcud,
+filters,
+coolini
+chalinla
+adiusted
+Archwetnis summar
+tne CHNstoriuuture rererence
+Check remaining life-cycles ofkey components from this report_
+Reter
+remiarks lorany (ollowv-unactians
+Dilnstuplic emniunas
+Use this closure nate
+updale the maintenance KPI tracker ,
+Overall equipment condition
+gatisfactory post-maintenance
+Confmmthatellcorrectiv
+actions were properly closed out.
+Uptimc (%)
+Errorcount
+commcnts
+95 A104
+Halt tiahtenuc
+Sloneo
+bllct?
+Tupe
+hinzus

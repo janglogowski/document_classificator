@@ -1,0 +1,99 @@
+BOM Report
+This section outlines the parts, unit prices and total amounts for assembly. Ensure each
+component meets the specified quality standards_
+All line-item costs are current as per vendor
+quotes
+Use this breakdown t0 verily sourcing and cost estimates_
+Review the materials tally for
+compliance with budget allowances
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Packaging
+pCS
+48.00
+Eco
+Box
+compliant
+Ventilation
+pcs
+5.60
+207.20
+ROHS
+Grid
+compliant
+Plastic
+pCs
+1.10
+5.50
+ROHS
+Cover
+compliant
+150x150
+Venminal
+pCS
+3.40
+54.40
+Block 4P
+Hinge Set
+pcs
+2.50
+42.50
+Li-Ion
+battery
+installed
+Control
+pcs
+12.00
+144.00
+Urgent
+Panel
+Mount
+Gasket
+pCs
+1,25
+12.50
+For export
+Sheet A4
+Set
+pcs
+57.50
+Shaft
+pCs
+8.00
+120.00
+s0Omm
+Rubber
+pCS
+0.50
+18.00
+Gasket
+80mm
+Stainless
+pcs
+0.35
+ROHS
+Bolt M8
+compliant
+Epoxy
+pCs
+7.30
+321.20
+ROHS
+Resin Kit
+compliant
+Customer ID: FRANCE
+Coordinator: Laura Rossi
+Date: 2024-04-15
+Product ID: NE-245A
+Intemal
+No:: 6649852
+Order Qty:219
+Total
+Amount:
+1,031.85
+Hinge

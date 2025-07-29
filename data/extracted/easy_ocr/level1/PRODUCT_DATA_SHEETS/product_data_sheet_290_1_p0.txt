@@ -1,0 +1,81 @@
+Component Overview
+Praiect:
+SL-4JUMI
+8870656
+Prepared Bv:
+Peter Schmiat
+Approved By:
+Larios
+Garcia
+Location; Plant IC
+2024-12-29
+Check that all material
+align with supplier certifications
+Use this spec sheet
+validate assembly Instructions:
+Reiei
+configuration
+sumrdn
+for unit-designatian mapping: Confirm that performance
+ranges
+comply with
+project requirements_
+Unit Type
+Cooling Circulation
+Design Pressure
+250 bar
+Svslem
+Flow Rate
+60 L{min
+Operating Voltage
+230 V / 50 Hz
+Reservoir Capacity
+160
+Cooling
+Air-cooled oil radiator
+Protection Class
+Frame Material
+Aluminum Frame
+Type
+Control Valve
+Directional 43
+Total Weight
+230 kB
+Battery Capacity
+Mounting
+Skid base with vbration
+Working
+10'to 50'c
+Pads
+SLrvice
+Interval
+500
+MOISl
+Levei
+dBIAI
+Filtration
+10 um retum; 25 um
+Charging Time
+suction
+Material
+Construction-
+Ktem
+Raw Materia
+Ring NBR 60mm
+Nitrile Rubber INBRL
+Gasket
+cheer 44
+Nitrile Rubbe
+INBR;
+Tetlon Tape Roll
+Teflon Tape Roll
+Digital Display Unit
+ABS Plastic
+Sneet 436
+Carbon Steel 436
+Date
+SpCcs
+Pump
+Pump
+Temp
+Range

@@ -1,0 +1,65 @@
+Customer ID: SWEDEN
+Propared by: Peter Schmidt
+Product ID: HF-390A
+Internal No;: 3683651
+This section ouilinas (he parts , unit prices ard total amounts for assembly
+AII entries rellect the
+Iatest inventory and supplier ratos;
+This document providles
+detalled breakdown of all
+comporonts requlred for (he assembly process.
+The component roster below includes unil costs
+and balch codes
+Utom
+Digilal
+Cortrol
+Control
+Spacor
+Termlnal
+Control
+Description
+Display
+Panol
+Pangl
+2mm
+Block 4P
+Pangl
+Unit
+Mount
+Mouni
+Mount
+Qly
+824
+612
+676
+785
+886
+757
+UOM
+pCs
+pCs
+pCS
+pCS
+Unit Price
+15,00
+12 00
+12.00
+0,15
+12. 0O
+Amount
+12,360,00
+7,344.00
+8,112.00
+117.75
+3,012.40
+9,084,00
+Remarks
+Imported
+Imported
+Certified
+Eca
+ROHS
+baleh
+compllant
+compllant
+TOTAL: 40,030.15

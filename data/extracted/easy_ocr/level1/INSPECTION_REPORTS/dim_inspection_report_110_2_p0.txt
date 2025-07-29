@@ -1,0 +1,68 @@
+Measurement Summary Sheet
+Supenviso
+Lalra
+R0ssi
+Inspection Date
+2024-09-04
+Product Ref
+PW-515Y
+RE-850C
+RX-3102
+RM-860M
+Component
+Bearing 6202
+Plastic
+WD-1805
+WD-180S
+Graphite Pad
+Shafl 500mm
+Steel
+Plastic
+Rivels
+Dim
+436
+Rivets
+Length
+Hole
+Innei
+inickness
+Depth
+Hole
+Dlameter
+Target
+74.76
+17.51
+19.41
+12.04
+56,.78
+98 37
+Actua
+74.94
+19.38
+DIff
++0.18
+56,74
+3.10
+PassIFall
+Overall inspection summary indicates acceptable qualily levels
+Please address
+NOK items before
+proceeding to the next production stage: Review failed items
+Ihe corrective-action
+verify measurement data with CAD nominal values
+register: Cross
+Instrument Calibralion Log:
+Instrument
+Serlal No:
+Calibration
+Date
+34617
+2024-10-21
+Micrometer
+81957
+2025-04-01
+Sneel
+any
+against
+Last
+Calipor

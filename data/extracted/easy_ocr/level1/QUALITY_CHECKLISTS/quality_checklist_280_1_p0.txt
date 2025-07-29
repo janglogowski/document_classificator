@@ -1,0 +1,101 @@
+Inspection Sheet
+#1800404
+Date: 17.07.2025
+Product
+TY-3506
+Customer
+BRAZIL
+Item Description
+Capacitor 450V
+AIl checklist entries are timestamped tor traceahility. Reter
+the quality register tor sampling-plan reterences This
+checklist captures quality inspection points and sampling levels. Below are the items to be verified during the final
+product review,
+ease revev
+each checklist point and mark the sampling results
+Inspection Checklist Points
+Sample Tier
+Category
+Remarks
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Incorrect orientation
+box
+Leve
+Cutical imPact
+Rubuci
+Switch not working
+[@vici
+Colo
+mismnatch
+lcvc
+Critical impact
+Product doesn
+power On
+Minor
+ISSUC
+oosenved
+Missing distributor
+Critical impact
+information
+Rubbertexture
+Glossiness
+Needs reviewv
+mismatch
+Not assembled J5 per drawing
+Leve
+Mnocissue
+onsened
+Loose parts insice packaging
+Needs review
+Lonneco
+noiwonaing
+Visual defect on housing
+leue
+Critical Impact
+DCAC
+Ive inSCCL in
+LevelII
+Critical impact
+Packaging
+Packaging does not match
+Level II
+sifneo
+Jampie
+Missing
+waming
+abel
+Needs review
+Missing safcty labels_
+lcvc
+Critical impact
+Hinges
+OOSC
+Leve
+revie y
+Incorrect Qmanity
+Level II
+aesormneni
+AQL Level
+Critical
+Major
+Mnor
+Default
+Customer
+specific
+Ensure that all remarks have corresponding evidence attachments
+ensure supervised sign-off on any non-
+conforming points Refer
+noCCs
+for any observed defects
+deviations Archive this summary
+the audit-readiness
+folder. Items marked for hold require additional review before
+ease.
+Necds
+[0so
+Necds
+Please

@@ -1,0 +1,97 @@
+Shift Summary
+Report No:: PR-237
+Customer: SWEDEN
+Shlft: € (Night)
+Date; 26-08-2024
+Machine ID
+Pracess
+Technician
+From
+umne
+Spent
+Remarks
+tatus
+MC-202
+As5emoiy
+Wiktor
+Fd
+13.21
+Completed
+Kopczwiski
+MC-207
+Drilling
+Magdalena
+09,30
+J10 06
+NfA
+Completed
+Witkowska
+MC-208
+Polishing
+Przemiyslaw
+08.15
+09.15
+(lmnnleren
+Wasik
+MC-206
+Assembly
+Mateusz
+10.15
+10.56
+progress
+arzyna
+MC-202
+Welding
+Plctr
+12,00
+13.27
+Delay
+Delaved
+Lewandowski
+MC-205
+Polishing
+Magualena
+07:00
+07.26
+NJA
+roeness
+Mko st?
+MC-201
+Polishing
+14.15
+14-59
+Completed
+Kepczynski
+Mc-oun
+Welding
+Nadia Sauter
+14.30
+16,09
+Recallbrated
+Cuminlered
+Part ID
+Planned Qty
+Acrua
+Oty
+Rejected Qty
+Rejection
+Remory
+Qty
+Nates
+WD-T8
+261
+14.1876
+Scram
+Fontined
+HF-3904
+203
+14.2980
+RE-850c
+7-.1792
+Rework
+feedec
+RM-86ON
+6670
+Approved hy:
+Prepared by:
+Wiktor

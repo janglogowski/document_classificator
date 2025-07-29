@@ -1,0 +1,101 @@
+Report No:
+PR 338
+Customer
+NORWAI
+Supervisor:
+Garcia
+Depantment
+Assemplv
+Date:
+03-2024
+Shift:
+AMorning
+Machine
+Operation
+Warke
+Fram
+End Time
+Total Time
+Comments
+MC-208
+Drilling
+Bartosz
+14,30
+15.21
+Recalibrated
+Wawnyniak
+MC 208
+Polishing
+Agnieszka
+1330
+14.58
+Recalibrated
+Zielinska
+MC 205
+Pollshing
+Plotr
+13.30
+15.11
+101
+Recallbrated
+Lewandowski
+MC 204
+Welding
+Wiktor
+09;00
+10.58
+118
+Recalibrated
+Kopczyrski
+MC 203
+Cutung
+Dawld
+10.00
+11.29
+N/A
+Oszmianczuk
+MC 201
+Assembly
+Rowaise
+06 0d
+0644
+Recalbnated
+MC-205
+Assembly
+10.30
+11.12
+Delav
+Kopczyriski
+MC 207
+Polishing
+Magdalena
+12.15
+1238
+Recalibrated
+witkowska
+Item
+Planned Output
+Achieved Qt
+Defect Qty
+scrp
+XD-710R
+112
+13.8596
+TY-RJov
+300
+6793
+Rework needed
+Ku-SYQ
+230
+5496
+Rewon
+needed
+RE-85OC
+-76%
+Prepared D%:
+Peter Schmidt
+Approved Dy:
+Carlos Garcia
+Carlos
+Wiktor
+Uwali

@@ -1,0 +1,52 @@
+Unit Configuration
+Report
+PR-658
+Product ID: HF-3904
+Date: 2024-06-25
+Model Type
+Hydraulic
+Unit
+Rated Pressure
+180 bar
+Flow Rate
+48 Limin
+Supply Voltage
+400
+50Hz
+Mator
+Power
+OIl Lype
+HLP 46
+Workingicmp
+Ranec
+10 C to 50*€
+Servlce Interval
+1000 B
+Charging Time
+Cooling
+Water-cooled
+exchange
+Total Weight
+230 kg
+Component Materials Overview:
+Kem
+Base
+Specification
+Cannectar 2P
+Glass-Filled Nion
+Anticorrosive
+Capacitor
+45 @
+Aluiminuim G0gcT6
+Electrica
+Grapnite Pad
+Grapnite Pad
+certified
+Pressure Valve
+Brass CZ1ZI
+Ipb / rated
+Prepared by: Peter Schmidt
+Approved by: Peter Schmidt
+No:
+Poxer
+Elde

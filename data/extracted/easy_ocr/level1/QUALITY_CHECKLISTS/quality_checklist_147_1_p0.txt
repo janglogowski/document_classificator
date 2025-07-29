@@ -1,0 +1,109 @@
+Conformance Report
+#4799763
+Date: 17.07.2025
+Product
+DX-777T
+Customer ID
+TURKEY
+Item Description
+Cahle Iie Pack (100)
+Use this extract
+coordinate siCn-atr with the QA manager; This checklist
+nualt inspection
+points and
+sampling levels The following table outlines Inspection criteria and classification levels Archive this Iist in the quality
+manarement svstem_
+revev
+each checklist
+mark the sampling results
+Belov are tne
+items
+verified during the final product review; This section details quality requirements and test points for the batch. This
+summary supports the production-release quality gate: Check that inspection steps follow the
+audiovco
+procedure:
+Review Points
+Check
+Category
+Notes
+Intensity
+ProgWicE
+Requlrements
+Critc
+Major
+Minor
+OnHold
+Palnt smearing
+scraicncs
+Cutica 
+Umpacl
+Connector not
+working
+Lcvc
+Sharp edges
+plastic
+Level
+camiponenis
+Missing logo
+warning label
+Necds review
+Exposed nai
+point
+Level
+Mino
+Issue anseneo
+Package
+not sealed
+Level III
+completely
+Shipping mark is illegibi
+Missing
+Product doesn't powrer on
+Leve
+ng daes not match
+LevelE
+Critical impact
+sipned 5amoie
+Missing distributor
+Critical impact
+ntonmation
+Carton
+camaged or
+Level II
+Minor issue observed
+marking: incorrect
+Incorrect
+Darcode
+abel
+Leve
+assembled as per drawing
+eve
+Mino
+isme aneeneo
+AQL Level
+Crilica
+aior
+Midr
+Default
+Customer specific
+Please
+ensure supenvised
+sign-off on any non-conforming points- Use this closure
+repart to update the quality KPI
+dashboard
+Refer t0 notes far any observed defects
+devations
+Ensure that
+remarks have corresponding
+evicence
+Jttachment
+Archive tnis summary
+the audit-readiness folder. Items marked for hold
+additional
+revieibetore release
+copture
+noint 
+th
+shatp
+Packah
+requin

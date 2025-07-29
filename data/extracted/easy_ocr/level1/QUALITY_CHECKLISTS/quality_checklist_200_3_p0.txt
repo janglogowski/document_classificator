@@ -1,0 +1,32 @@
+Inspection Record
+Audit Criteria
+Sample
+Classification
+Oosenations
+component Critera
+Critical
+Malor
+Minor
+OnHold
+Functionality test tailed
+LevelII
+Instruction Manua
+missing
+LevelII
+Critical impact
+damaged
+Dustfdebris inside packaging
+Minor issue observed
+Wrong product size
+Leve
+Minar issue ohserved
+Packaging daes not match
+Minar issue observed
+signed sample
+Reterence Standands?
+Standard
+Edition
+CE Directive
+2020
+EC 61010
+4th Ed.

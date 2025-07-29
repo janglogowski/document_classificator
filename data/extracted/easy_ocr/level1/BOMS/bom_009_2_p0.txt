@@ -1,0 +1,53 @@
+Customer ID: CANADA
+Prepared by: Anna Nowak
+Product ID: HF-390A
+Internal No.: 3351387
+AIl line-item costs are current as per vendor quotes
+Use this breakdown to verify sourcing and cost
+estimates. Review the materials tally for compliance with budget allowances. This extract shows the
+bill of components and total projected spend. Please review the itemized list of parts and material
+specifications before procurement: This section outlines the parts, unit prices and total amounts for
+assembly
+Item
+Rubber
+Wooden
+Protective
+Stainless
+Clamp
+Wooden
+Description
+Stopper
+Pallet
+Sleeve
+Bolt M8
+120mm
+Pallet
+smm
+Qty
+616
+345
+UOM
+pcs
+Unit Price
+15.00
+15.00
+Amount
+338.80
+5,175.00
+438.20
+63.70
+808.50
+10,170.00
+Remarks
+Urgent
+Imported
+Certitied
+ROHS
+Urgent
+Hinge
+batch
+compliant
+alignment
+adjusted
+TOTAL: 17,994.20
+Ring

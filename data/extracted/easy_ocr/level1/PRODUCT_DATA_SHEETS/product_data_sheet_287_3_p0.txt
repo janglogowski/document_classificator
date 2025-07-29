@@ -1,0 +1,62 @@
+Unit Data Specification
+Document No: PR-100
+Product ID: LP-555v
+2025-03-23
+Unit Type
+Pneumatic Contro
+Rated Pressure
+210 bar
+Flow Rate
+30 Lmin
+Voltage
+400
+50Hz
+Cooling_
+Water-cooled exchanger
+Total Weight
+230kg
+Moisc Lcvci
+70 dBIAI
+servicc interval
+500 h
+Oil Type
+HLP 46
+Motor Power
+Battery Capacity
+Reservoir Capacity
+160 [
+Component Materials Overvieve:
+Labe
+Camposition
+Specification
+LED Light Strip_
+Glass-Filled Myior
+IS0 2768
+Bearing
+020Z
+Stalnless Steel 304
+cefed
+Pressure Valve
+Gras5
+CZ121
+Aniicorrosiv@
+Nut M6
+Zinc Plated Stecl
+IP6? rated
+Heat Sink ALU
+Aluminum 6061-Te
+IP67 rated
+Hinge Set
+Stainless Stee
+rated
+Cooling Gel Pack
+Silicone Rubber
+Ciast
+tolerance
+Prepared by:
+Nowak
+Approved by: Anna Nowak
+Date;
+Unit
+0767
+Anna

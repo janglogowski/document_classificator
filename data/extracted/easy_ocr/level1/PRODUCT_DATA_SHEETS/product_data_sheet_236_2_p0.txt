@@ -1,0 +1,64 @@
+Product Data Sheet
+Ensure all referenced standards are up t0 date. Entrics include both mechanical and electrical
+specifications;
+This report extract
+prepared for design-verification audits; Check that all material specs
+align with supplier certifications_
+The parameter register below includes operating limits and ratings:
+Product ID;
+MR160H
+Document No::
+PR-102
+Prepared by: Anna Nowak
+Approved by: Anna Nowak
+Date: 2025-04-21
+Unit Type
+Hydraulic Power Unit
+Design Pressure
+210 bar
+Flow Rate
+48 Lmin
+Operating
+Voltage
+400
+S0Hz
+Battery Capacity
+Pump Type
+Vane Pump
+Reservoir Capacity
+120 L
+Total Weight
+230 kg
+Cooling
+Hur-Cocieo
+oil radiator
+Check thal all section headers follow Ihe product temiplate:
+Refer t0 parareter lable for operating ranges
+and tolerances. AlI summary comments have been recorded
+the revision log- Overall configuration is
+within defined design and safety margins
+Flag any missing parameters for urgent specification updates.
+Material
+Construction:
+Subcomponent
+Raw Material
+Fuse 5A
+Ceramic Oxide
+Battery Pack
+Lihim
+on Cel
+Pack
+Wooden Pallet
+Treated Pine Wood
+ED Light Strip
+illed Nylon
+Heat Sink ALU
+Aluminum 6061-16
+Pressure Valve
+Brass CZ12E
+Nut M6
+Zinc-Plated Steel
+LocM
+PVC (Rigid)
+Gias?
+Wiring

@@ -1,0 +1,53 @@
+Unit Configuration
+Ensure all referenced standards are up
+dute
+The following infomation outlines performance characteristics and
+design data. This section details the configuration and parameter set for the product: Below are the technical
+parameters and construction materials forthe unit- The parameter register below includes operating limits and
+ratings,
+Product ID
+RE-850C
+Document
+6046481
+preparec
+bv: Jan Kowalski
+Approved by: Laura Rossi
+Date: 2023-09-07
+Unit Type
+Cooling Circulation
+Operating Pressure
+180 bar
+System
+Flow Rate
+60 L/min
+Supply Voltage
+230V
+50 Hz
+Control Valve
+Propantional 4/2
+Batter Capacity
+10 Ah
+Dimensions (LxWxH)
+1000
+650
+1000 mm
+Cooling
+WNater-caoled
+exonanee
+All specifications meet the
+requirements
+industry standards Materal
+choices and process cata
+been
+verified for compliance. Flag any missing parameters for urgent specification updates: Archive this summary for future
+design-change management This summary reflects the latest revision of the product data. This closure note indicates
+the data sheet
+readi
+ease
+Refer
+Darameter
+table for operating ranges
+and tolernces
+Ho;
+desiain
+have

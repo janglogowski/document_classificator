@@ -1,0 +1,39 @@
+Component Overview
+Docurent Mo: PR-543
+Procta ID-8Z-S60F
+Date 2025-03-01
+Unit
+Ecen Cravaton
+Design Pressure
+210 Da
+FlonRate
+ZL
+4e
+SuPplyWoltage
+ZOVIE
+Herelave
+Ra
+OiUype
+nPa
+Conto
+Botonnl2
+DimensioniH)
+1200 4nm
+TotalWeiam
+20/
+FnmaMatemal
+Reno
+Pump
+Z
+Pz
+Dy: Peter Schmidt
+Approvedby:
+Notak
+Type
+Codung 
+Cnarging
+Vale
+LP
+Du2
+Prepared
+Anna

@@ -1,0 +1,56 @@
+Customer ID: NORWAY
+Prepared by: Carlos Garcia
+Product ID: FT-730X
+Internal No:: 9514574
+Use this breakdown to verify sourcing and cost estimates The component roster below includes unit costs
+and batch codes. This summary lists every item required
+with per-unit pricing details: The parts manifest
+here
+designed to support procurement workflows:
+Item
+Rubber
+Protective
+Power
+Set
+Ceramic
+Stainless
+Description
+Stopper
+Sleeve
+Switch
+Disc 8Ornm}
+Bolt M8
+sOmm
+Qty
+124
+990
+131
+344
+UOM
+pcs
+Unit Price
+2,50
+2.10
+0.35
+Amount
+68.20
+237.60
+188.00
+327.50
+722.40
+222.95
+Remarks
+Hinge
+SKF brand
+Certified
+For export
+Certified
+Hinge
+alignment
+batch
+batch
+alignment
+adjusted
+adjusted
+TOTAL: 2,766.65
+Hinge

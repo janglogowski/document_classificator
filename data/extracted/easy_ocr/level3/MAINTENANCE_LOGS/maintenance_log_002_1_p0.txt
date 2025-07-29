@@ -1,0 +1,82 @@
+Machine
+Summary #2989734
+2023-12-20
+Unit Code
+Maching
+Jervice
+Type
+MC-268
+Paini Boolh
+Technician
+Duration
+Are?
+Notes
+Correclive
+Carios Garcia
+Piant 2B
+Refiiled oil
+MC-280
+Packaging
+Preventive
+Laura Rossi
+(HLP 461
+Line
+Plant IC
+Wooden
+pallel
+MC-221
+Assembly
+Preventive
+Jan Kawailski
+checked,
+Robol
+Plani IC
+Worn gasket
+MC-231
+sserbly
+Corrective
+Jan Kowwalski
+Piani -
+redlace
+Robal
+Changed o1l
+MC-292
+Hyaraulic
+ano teis
+Correciie
+Peter Schmiot
+Plant 28
+Warn
+gaskel
+MC-2ro
+CNC Milling
+Preventwve
+Laura Rossi
+(eplaced
+Machine
+Plani 1C
+MC-209
+Lulne
+Unspecion
+Anna Nowas
+Piant 34
+Wooden
+polci
+checked,
+Service summanes have been farwarded t0 the eng neering team; Ensure
+plan No crilical faulls were
+latesl
+next prevCntive service
+scheduled accarding
+during Ihe
+inspectian; Confirm Ihat =
+corrective actions were properly closed
+Lubricalion Checked
+Calibratian Verified
+Emergency Stop Tested
+Autharized by:
+Operalor
+Log
+Date
+Prcas
+'inc

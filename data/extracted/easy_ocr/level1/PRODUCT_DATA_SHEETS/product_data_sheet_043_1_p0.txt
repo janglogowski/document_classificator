@@ -1,0 +1,78 @@
+Product Overview
+Project:
+MX-450L
+Report No:
+9268814
+Prepared By:
+Laura Rossi
+Approved By:
+Carlos Garcia
+Location: Plant 34
+Date; 2024-08-28
+Below are the technical parameters and construction materials for the unit: Refer to this configuration
+summary for unit-designation mapping
+The following information oullines performance characteristics and
+design dala
+Check that all material specs align with supplier certifications_
+This report extract
+prepared for
+design-verification audits
+Configuration Type
+Cooling Circulation
+Rated Pressure
+180 bar
+System
+Flow Rate
+48 Lmin
+Supply Voltage
+480 V I60Hz
+Battery Capacity
+Noise Level
+70 dB(A
+Filtration
+Vm inline
+10 pm
+Reservoir Capacity
+160
+(Clurn
+Total Weight
+250 kg
+Dimensions (LxWxH)
+1200
+700 x 1100 mm
+Motor Power
+11kW
+Service Interva
+1000
+Mounting
+Wall-mounted
+Control Valve
+Directional 4/3
+Oil Type
+HLP 46
+Protection Class
+P67
+Frame Material
+Aluminum Frame
+Working Temp: Range
+10'C to 50'C
+Pump Type_
+Vane Pump_
+Overall configuration is within defined design and safety margins. All summary comments have been
+recorded in the revision log;
+This closure note indicates the data sheet
+ready for release: Document
+control numbers are included for traceability.
+Data sheet has been peer-reviewed by the engineering team.
+Archive tnis summary for future design-change management:
+Material
+Construction;
+Composition
+Power Swilch
+Polycarbonale
+Copper
+Heal Sink ALU
+Aluminun 6061-T6
+Capacitor 450V
+Aluminun 6061-T6
+Mem

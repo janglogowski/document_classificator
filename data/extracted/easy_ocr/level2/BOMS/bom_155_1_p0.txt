@@ -1,0 +1,63 @@
+BOM Report
+Customer ID: FRANCE
+Coordinator: Anna Nowak
+Date: 2023-05-24
+Product ID: PL-601Z
+Internal No:
+938361
+Order Qty: 37
+Refer to this parts register t0 plan raw-material purchasing: Ensure each component meets the
+specified quality standards:
+This document provides
+detailed breakdown of all components
+required for the assembly process_
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Control
+2.01
+59/0
+pCS
+12.00
+420.00
+ROHS
+Panel
+compliant
+Mount
+Epoxy
+0.61
+pCS
+7,30
+102.20
+Resin Kil
+Clamp
+1.42
+59/
+pCS
+1.75
+75.25
+ROHS
+compliant
+Stainless
+2.32
+0%
+pCs
+0.35
+6.65
+SO
+Bolt M8
+verified
+Tota
+Amount:
+604.10
+Approved By:
+Sourcing Department:
+Ring
+120mm

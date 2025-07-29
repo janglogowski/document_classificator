@@ -1,0 +1,81 @@
+Praicct:
+KP3Z0E
+Interno
+PR-266
+Prepared By:
+Ljura
+Rossi
+Appraved
+Jan Kawalski
+Location; Plant ?8
+Date; 2025-01-14
+Unit Type
+Cooling Circulation
+Rated Pressure
+300
+System
+Flow Rate
+75 Lamin
+Operating Voltage
+480 V I 60Hz
+Frame Material
+powder-caled Steei
+Noise Leve
+68 dBIAJ
+Miator POWCi
+Working Temp: Range
+5'C to 45"C
+Cantronvane
+Proponional 4/2
+Type
+Piston
+Mounting
+Wall-mountec
+Service
+Interua
+12 months
+Reservoir Cam
+pacity
+120
+Dimensions (LxWxHI
+1200 * 700* 1100 mm
+Total Weight
+180 kg
+Oil Type
+HLP 68
+Archive this summary for future design-change management; All specitications meet the design requirements and
+Industry standards. Thls summary reflects the latest revision of the product data. Check that all section headers follow
+the product template-
+Material
+Construction:
+Labe
+Rawv Materia
+Thermal Fuse
+Ceramic Oxide
+Nut M6
+Zinc-Plated
+0-Ring NBR GOmm
+Nitrile Rubber INBR)
+Her Balls M17
+Aied Stee
+Bearing 6202 22
+Stalnless
+Pover Switcm
+'alvcarbonate
+Copper
+Insulated
+de /mm
+Thermonlastic Polyurethane (TPU)
+Stainless Steel 304
+Cable Tie Pack (100)
+Nitrile Rubber INBRI
+Gaskel
+Sheet 44
+Nitrile Rubber INBRL
+Rubber Gasket 8Ornm
+Nltrile Rubber INBR 
+pal
+Pump
+Pump
+Ster
+Hinge

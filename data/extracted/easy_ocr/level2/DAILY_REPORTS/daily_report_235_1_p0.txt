@@ -1,0 +1,127 @@
+Production Log
+Report No;
+PR-716
+Customer;
+TURKE
+Supervisor:
+Jan Kowalski
+Dapartmonl:
+Aasambly
+Dale'
+05-05-2025
+Shilg
+(Morning)
+Machine
+Operatlon
+Oparator
+Froin
+Duration
+Uwagi
+Kml
+MC-205
+Cutung
+wiktOr
+12.15
+1247
+Ok
+Kopezyrski
+MC-205
+Assenibly
+Przemyslaw
+09,15
+10,58
+10}
+Delay
+Wesik
+MC-203
+Assembly
+Malcusz
+12.15
+13,04
+OK
+Jarzyta
+MC-202
+Drilling
+Przemy slerv
+04*15
+16*11
+116
+Rocallbrated
+Waslk
+MC-201
+Assembly
+Dawld
+11 00
+14,35
+Delay
+Oszmianczuk
+MC-204
+Polishing
+Maleusz
+12,15
+14,07
+112
+Recallbrated
+Jarzyna
+MC-205
+Assanibly
+Dawid
+08 0o
+0B.,36
+NA
+Oazinanezuk
+MC 207
+Cultng
+~an Kowalski
+06X00
+07,44
+Rocalbraled
+MC-206
+Welding
+Magdalena
+07*15
+08,50
+Dolay
+Wilkowska
+MC-207
+Drilling
+Nadla Sautars
+14,00
+14,35
+Product ID
+lanned Oty
+Prodlucad Qty
+Dofact Oly
+Scrp
+Uwagi
+PL-801Z
+282
+280
+0,719
+Scrap
+confrned
+RX-310Z
+207
+100
+D,18%0
+Rework
+nuudud
+MR- IG0H
+103
+7.77%
+AL-T50
+107
+105
+1,87*0
+Rawork
+Muedce
+RX-3iOZ
+201
+194
+3,48%
+Rework
+needed
+Preparodby:
+Feter Schmici
+Approvod Dy'
+Canlos Garcla

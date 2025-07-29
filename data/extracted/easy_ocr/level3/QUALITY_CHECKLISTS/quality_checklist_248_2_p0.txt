@@ -1,0 +1,43 @@
+Inspection Summary
+This summaly supports the productior -release quality gate. Ail checklist entries are Iimeslamped for
+traccability  Check Ihat inspectlan sleps follow the appraved procedure: Use Ihis list I0 contin adneience t0 
+AqLand safely slandards, Conlirm thal sampling levels comply with cuslemer agreements;
+Product ID
+KV-o0K
+Customer ID
+BELGIUM
+Item Descrfiion
+Spacet 2mm
+Revlew Points
+Inspection
+Classification
+Observations
+Depth
+Design Specs
+CR
+MA
+Hold
+inconec
+barcode Ur label
+Critical impadi
+Produci doesnt
+poier on
+Level
+Issue oosenied
+Hinges
+10CSE
+Leve
+Needs review
+Colar mismatch
+Level
+Needs review
+Exposed nail with sharp
+Level
+Needs review
+point
+Incorrect quanity
+Needs review
+assonunent
+Supervised by:
+Date;
+not

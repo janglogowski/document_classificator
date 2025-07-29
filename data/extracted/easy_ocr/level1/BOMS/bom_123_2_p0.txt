@@ -1,0 +1,55 @@
+Customer ID: NORWAY
+Prepared by: Laura Rossi
+Product ID: TX-820V
+Interna
+No:: 3946637
+Below is the component
+listing and associated costs for the upcoming production batch: The parts
+manifest here
+designed to support procurement workflows Review the materials tally for compliance
+with budget allowances This summary lists every item required, with per-unit pricing details. This section
+outlines the parts; unit prices and total amounts for assembly. All Iine-itemn costs are current as per
+vendor quotes:
+Item
+Battery
+Control
+Packaging
+Cable Tie
+Epoxy Resin
+Aluminum
+Description
+Pack
+Panel
+Box
+Pack (1001
+Bracket
+Mount
+Qty
+155
+156
+969
+689
+UOM
+Unit Price
+25,00
+12,00
+4,50
+Amount
+3,875.00
+1,872.00
+969.00
+654.55
+6,657.60
+2,218.50
+Remarks
+High
+Eco
+Hinge
+Li-Ion
+compliant
+alignment
+battery
+adjusted
+installed
+TOTAL: 16,246.65
+Brade

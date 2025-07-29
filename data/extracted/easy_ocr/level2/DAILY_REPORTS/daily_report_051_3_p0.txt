@@ -1,0 +1,147 @@
+DAILY PRoDUcTiON REPORT
+Customer: TURKEY
+Report No
+PR-328
+Date:
+31-10-2023
+Shift: =
+(Morning)
+Comments
+Conditlon
+Operator
+Begin
+Auralrion
+Equipmenf
+Task
+Delaved
+06.30
+06,57
+MC-206
+Wfelding
+Conipleted
+Zielinska
+06.59
+Delaved
+Anna Nowiak
+06.15
+MC 202
+Welding
+12 00
+13.36
+MC-207
+Drilling
+Magdal
+Delayed
+Wakovisk?
+pelay
+10-30
+11;09
+MC201
+Assembtv
+Pnzemys"aw
+Celayed
+Wislk
+NJA
+08,30
+09.24
+MC-201
+Dr lling
+Oaxndanczuk
+Recaliorated
+erogress
+L7Ul
+48-
+Delzycd
+Nadia Sacer
+MC204
+Drilllog
+Kowalski
+06,15
+0812
+MC-2OO
+Welding
+12,00
+43,01
+Bartosz
+MC-204
+Welding
+Wawrzuniak
+Delay
+Conipletec
+10.00
+11.09
+Weiding
+Piotr
+MC 209
+Lewandowski
+NJA
+09.30
+10.15
+MC 208
+Drllling
+Agnieszka
+Complered
+Zielska
+11.15
+12*48
+Mc- 204
+Assembly
+Delay
+progress
+Zielinska
+14.28
+Przemystaw
+13.15
+MC-201
+Drilling
+Wasi k
+pending
+Rsle;
+Knsute
+'shift-nandove
+nules
+have bcen arcnived for revcw_
+Fnylt
+'adjustrents -
+shift schedules =
+All operotornotes
+consistent output: Record
+foc tne
+intenance between shifts
+mairtain :
+This closure summary
+feadiness
+routine
+summary for end-0f day reporting
+staffing here: Archive this autput
+production run
+Rework
+UwJCi
+Achleved Qty
+Defect Qty
+Scrap
+Coun
+Ilem
+Target Qty
+Rework
+71406
+GH-7701
+Rework
+0.2076
+neeced
+248
+Ty-3506
+Rewotk
+9 4170
+ncedco
+Rl-SGON
+Prepared by: _
+Telal
+ABnlc52ka
+pipster
+competed
+Aeniesks
+incde
+Sanal,e
+naedec
+ApnT@Ved

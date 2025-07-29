@@ -1,0 +1,87 @@
+Production Log
+Redar ND;:
+PR-99
+Cusiamer-
+NORWAY
+Supervisor:
+Anna Nowak
+Department:
+Painting
+Date;
+28-02-2025
+Shift:
+iorning
+Equipment
+Task
+Worke
+Start Time
+Total Time
+Comments
+MC 208
+Welding
+Jan Kowalski
+09.30
+09.58
+MC 202
+Drilling
+Magdalena
+14-15
+15.00
+N{A
+witkowska
+MC-208
+Cutting
+Piotr
+07.00
+08.24
+Lewandowski
+MC 201
+Assembly
+Przemysiaw
+09.00
+09.23
+Wasik
+MC-208
+Polishing
+Bartosz
+10.30
+11.42
+Wawrzyniak
+MC 202
+Cutting
+Dawid
+08.30
+10.01
+N{A
+Oszmianczuk
+MC-208
+Drilling
+Mlaleusz
+11.30
+13.01
+Recallbrated
+arzvna
+Progiict
+Planned Output
+Achieved
+Qty
+Defect QtY
+Comment
+-20%0
+RCwOIKnecucd
+Reworaneeded
+6990
+Revorkneeded
+3yuk
+contirmem
+Gh-770
+3.655
+Scrap confirmed
+Prepared by:
+Carlos Garcia
+Appraved
+Anna Nowak
+Deljy
+Scrl
+Scrap
+Jby:

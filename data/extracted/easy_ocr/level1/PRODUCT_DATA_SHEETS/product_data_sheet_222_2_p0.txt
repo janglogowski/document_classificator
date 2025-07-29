@@ -1,0 +1,75 @@
+Check that all material
+sdecs
+align with supplie
+certifications: Tnis technica
+averview supports the
+product-
+1p35e
+checklist: Use this spec
+validate assembly instructions Entries include both mechanical and electrica
+specifications. Ensure all referenced standards are up
+date: This section details the configuration and parameter
+for the product; Confirm that performance ranges comply with project requirements_
+PraductId
+MS-GOOP
+Repart
+7812232
+Prepared bv: Anna Nowak
+Approved by: Carlas
+Garcia
+Date: 2024-07-25
+Configuration Uype_
+pneumalc
+Control Unit
+Design Pressure
+210 par
+Flot Rate
+Lmin
+Supply
+230 '
+50 Hz
+Total Weight
+250 kg
+Filtration
+um inling, 1Q um return
+Mlotor Power
+Battery Capacity
+Mounting
+Skid base with
+vbration
+pads
+Archive this summary for future
+cesipn
+change management
+This closure
+indicates the data sheet
+rejoy tor
+reledse
+missing parameters for urgent specification updates_
+summary comments have been recorded in
+the revision
+Check that all section headers follow the product template
+Material of Construction:
+Suucomponeni
+Raw Material
+Gasket ehccm
+Mte
+Ruboc
+(NBR
+Support Foot Stee
+Stainless Stee
+Heat Sinz ALO
+Aluminum 6061-T6
+Teflor
+Tape Roll
+Teflon Tape Roll
+Power Switch
+Polycarbonate
+Copper
+Light Strip
+Glass-Filled Nylon
+shect
+No :
+Voltoge
+Flag =
+ob

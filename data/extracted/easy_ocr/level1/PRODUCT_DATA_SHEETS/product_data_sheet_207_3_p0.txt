@@ -1,0 +1,25 @@
+Component Overview
+Interng
+8493035
+Product ID: WD-1805
+Date: 2025-02-27
+Configuration Type
+Cooling Circulation
+Rated Pressure
+210 bar
+Svstem
+Flow Rate
+43 Limin
+Supply Voltage
+230 Va
+50 Hz
+Noise Leve
+72 dBIA)
+Charging Time
+Service Intenva
+500
+Protection Class
+IP6S
+Mator Power
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia

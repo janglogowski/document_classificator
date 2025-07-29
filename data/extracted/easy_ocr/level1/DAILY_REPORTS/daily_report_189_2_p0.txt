@@ -1,0 +1,71 @@
+Keuan No :
+PR 703
+Customer
+BRAZIL
+Supervisor:
+Anna Nowak
+Department:
+Logistics
+Shife:
+(Morning)
+12-12-2024
+The
+following data captures production targets; actual
+outout
+andanv deviarions
+Entries include all start/stop times
+and operator ass
+'gnments_ Use this shift summary to drive continuous improvement actions
+Equipment
+Task
+Technician
+Gtart
+Time
+Comments
+Temp ("C)
+Energy
+Spent
+(kWh)
+MC-209
+Welding
+Agnieszka
+13.00
+13.54
+77.4
+1.98
+Zielinska
+MC-206
+Assembly
+4nna
+07:15
+07,39
+69 4
+2,04
+Nowak
+MC-209
+Assembly
+12.15
+12*45
+66.7
+Kowalski
+MC-204
+Welding
+05.30
+07,54
+58,8
+1,44
+Kowalski
+MC-208
+Assembly
+Agnieszka
+09,30
+10.18
+62,6
+1.17
+Ziclinska
+Prepared bv;
+Anna Nowak
+Approved b%:
+Larios
+harcia
+Time

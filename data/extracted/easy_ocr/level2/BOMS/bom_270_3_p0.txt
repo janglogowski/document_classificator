@@ -1,0 +1,80 @@
+BILL OF MATERIAL
+Item
+Qly
+UOM
+Descriplion
+Amount
+Remarks
+Steel
+5,00
+60,00
+Sheet 436
+Imported
+Grease
+pCS
+81.70
+Tube
+High grade
+250ml
+Plastic
+pCS
+0,20
+6,00
+Rivets
+Imported
+Sensor
+pCs
+0,95
+2.85
+ISO-
+Ciip
+verilied
+pCS
+1.75
+68.25
+Imported
+Ring
+120mm
+Ceramic
+pCS
+2.10
+52,50
+Disc
+Hex Bolts
+pCS
+0.25
+9.00
+M12
+ROHS
+Aluminum
+pCs
+4,50
+135,00
+compliant
+Brackel
+Swltch
+Ceramic
+tested OK
+Disc 80mm
+pCS
+2.10
+6.30
+SKF brand
+Veris Ginarreview confirms thal all items are ready far requisition; Al llsted
+verified for availability and compliance,
+components have been
+Customer ID;SWEDEN
+Coordinator: Laura Rossi
+Date; 2025-05-09
+Product ID
+BZ-G60F
+Internal No:
+9817305
+Qly: 238
+Total
+Amount:
+421,60
+Rate
+Clamp
+B0mm
+Order

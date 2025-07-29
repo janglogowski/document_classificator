@@ -1,0 +1,80 @@
+Component Dimensional Check
+sudervisor
+Pelli scnmid
+Inspection Datc
+202412 21
+This summary of measurements supports metrology traceability: This section details the measured values; tolerances;
+ano status
+Please review the Inspection results for cach component listed below:
+Product Rel
+VR-94QL
+RXSiu
+RM-86ON
+FFsuX
+56JF
+KP-JZQE
+AZ-JOQT
+Name
+Hinge Set
+Hinge Set
+Rubber
+batten
+Woogen
+Bearine
+Gfapnite
+Gasket
+Pallet
+620222
+Pad
+comm
+Dlm;
+Tmfn
+Length
+Depth
+Tncknest
+Tnickness
+Wath
+Hale
+Diameter
+arzet
+88.02
+57.62
+83.41
+14-24
+63.14
+63.46
+60.43
+Observed
+8/.J6
+57.57
+83.55
+74.20
+63.05
+03.34
+60.55
+peltz
+~QUb
++0.0S
+HU-14
+-004
++0.2
+Pass Fail
+Cross-verify measurement data with CAD nominal values
+Refer to devlation column for any out-of-tolerance
+measurements
+any components requiring
+-machining or adjustment;
+Instrument
+Calibration Log:
+instrument
+Serial No
+Last Calibration Date
+CMM
+61479
+2024-10
+Laser
+Scanner
+53470
+2025-04-06
+@lags -
+Fiag =

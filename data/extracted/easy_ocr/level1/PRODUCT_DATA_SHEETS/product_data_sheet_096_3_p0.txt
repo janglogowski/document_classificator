@@ -1,0 +1,35 @@
+Component Overview
+Document No.
+5325480
+Product ID: MR-160H
+Date: 2024-04-12
+Unit Type
+Pueumatic Contol Unt
+Design Pressure
+210 bar
+Fluid Flow
+60 Lmin
+perating Voltage
+230 V IS0Hz
+Motor Power
+75kW
+Protection Class
+IP67
+Cooling
+Air-cooled oil radiator
+Mounting
+Skid base with vibration
+pads
+Dimensions (LxWxH)
+1200
+700
+1100 Mm
+Frame Material
+Kiuminum
+Frame
+Noise Level
+68 dB(A)
+Oil Type
+HLP 68
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia

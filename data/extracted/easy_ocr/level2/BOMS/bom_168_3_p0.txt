@@ -1,0 +1,106 @@
+BOH
+Refer t0 this parts reg ster to plan raw-matera
+components and total
+purchasing This extract shows te bllof
+Prorerted spendThe folowing table summarzes the materia s=
+Auanttes reeded for the Curent projec Al mne-item
+and
+Review the matera s taly
+Dosts are Cuttent a5 per vendor quotes
+for comptance with DuCget
+oxarces
+Uze tns breakcoxn to
+souroing and cost esumates
+venty
+htem
+0l
+VoH
+Descupton
+Amount
+Remans
+Hex Bols
+PC3
+0.25
+8.75
+Hinga
+aignment
+Sonng
+acied
+Waster
+0.05
+0.15
+Eco
+Ko
+complant
+Hex Bols
+H2
+0.25
+3.75
+Cemfed
+Temial
+Datch
+Bbck4P
+3.40
+6 80
+Cenfed
+Gasket
+Dacd
+Shee 4
+1-25
+37 50
+batery
+Mae
+Pack
+PC
+25.00
+Z30.00
+Heh grace
+Sran
+DCS
+8.00
+FoomM
+304.00
+Tute
+pcs
+1.90
+87.40
+Impored
+250ml
+PCS
+1-75
+15.75
+Inm
+Insuaton
+Foam Pad
+PCS
+3.20
+85.40
+S0-
+Plastc
+veifed
+PCS
+0.20
+Riets
+Swiich
+tezted OK
+Revew this summary against the master budgeting
+CustoneDNORMAY
+Counor4a
+Rredtg ID 6L2803
+Lovar
+Date_202412-70
+Intema
+1:8183495
+Ore-Q1L 393
+Jolal Amouns
+201-10
+Repon
+Rate
+412
+LHon
+Battely
+Greas?
+Clamp
+Ring
+0.60
+sneel

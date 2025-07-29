@@ -1,0 +1,145 @@
+Equipment Record Report
+Performed On: 2025-01-28
+Notva
+Apfovud D
+Carlos Garcia
+Strviced
+and coneciive maintenanee{asks:
+Reter to the naintenance (edlater
+dctailud
+tollowing entries detal
+lrunie
+hatall downtime events are properly
+categarized and (Ogged.
+The equipment log below includes TA44
+senvict histories. Check_
+Tective
+Thus section captures equipment stalus and any maintenance observations Use this record
+cados Jao
+noles
+upcoming upkeep
+reDalna
+Ensue
+all safety checks wore completed during servicing
+plan
+Saction A:
+MC-264
+HC-239
+MC-222
+HC-281
+MC 271
+MC 278
+Machine 
+Ass Embly
+Assembly
+Paint Booth
+Paint Booth
+Hydraulie
+CNcHillinz
+Press
+Nacnine
+Robot
+Robot
+Prevanmive
+Tnspection
+Service [ype
+Ecton
+Preventive
+PTG ema(
+Inspecton
+Schmidt
+Peter Schmidt
+ian K0 Valek
+Carlos
+Gafci
+Cano
+Caicia
+Operator
+Cados Gaic e
+Downtimg
+Replaced
+Refilled oll
+Changed olll
+Li-Ion battery
+Tghtened
+Li-lon battery
+Notus
+(HLP 46).
+and tiltets
+pack sericed
+oose boits
+pack sciviced
+cccani_
+Section
+Machine ID
+NC-271
+MC-222
+MC-264
+MC-278
+MC-239
+MC-2B1
+hidnaulic
+Paint Booth
+Assembly
+CNC Milling
+Larembly
+PainkRcoin
+Macning
+Pre5z
+Rabol
+Maching
+Robot
+Inspection
+Comactive
+nydection
+Loiruct @
+Semice
+Type
+Unshectiom
+CotruciC
+Gatcis
+Keter
+Schmidt
+Anne
+Nowak
+Anne
+Nowak
+Anna Nowak
+CarlosG8ICIB
+Dpone
+Canas
+Dotntume
+Hotes
+Li-Ion battery
+easket
+Wooden
+Algnment of
+Genaor
+Dack senwced;
+renlacec
+chacked.
+hinges
+recallbralcd:
+MdsiBC
+forool-caure
+investigation. Service summaries have been forwarded
+engineering tcam
+3ei
+Flag any recurring Issue:
+thatall conective acliong were
+properly closed out. This
+remarks forany (allowup acticng
+parts replacements
+Confitm
+asset-managemont dashboard: Usethis
+note to update the maintenance KPI tracker_
+log summany supports
+Commenis
+ctrorcoune
+Uptlme
+Replaced filter
+07 274
+Pelel
+poler
+Wota
+cosufe

@@ -1,0 +1,63 @@
+Product Data Sheet
+Below are the technica
+purameters unc
+construction materials for the unit This technica
+overview supports the
+product-release checklist. Please revicw the specifications and material composition listed below: Ensurc all
+referenced standards are Up to date. Use this spec sheet
+validate assembly instructions
+Product ID
+MX-450L
+Renart
+PR-580
+Prepared bv: Laura Rassi
+Anproved bY: Peter Schmidt
+Date;
+2025-03-15
+Configuration Type
+Coolling Circulation
+Rated Pressure
+210 bar
+System
+Fluid Flow
+75 tin
+Voltage
+400
+50 Hz
+Total Wclght
+250 kg
+Noise Level
+68 dBIAL
+Filtration
+inline, 10 um return
+Dimensions (LxWxH)
+1000
+650x 1000 mm
+Control Valve
+Proportiona
+Battery Capacity
+10 Ah
+All specifications meet the design requirements and industry standards. Document contro
+numoers Jre
+included for
+traceability- Data sheet has been
+peer-reviewed by the engineering team. This closure note indicates the data sheet is
+ready tor
+lease. Flag any missing parameters for urgent specitication updates
+Reter =
+parameter table for
+operating ranges and tolerances All summary comments have been recorded
+the revision log:
+Material ot Construction:
+Item
+Lamposition
+NulN6
+Zinc-Plated Stee
+baiteiy Pack
+Lithlum- Ion Cell Pack
+Ol
+PVC (Rigid
+Rubber Gasket 8Omm
+Nitrile Rubber INBR)
+No :
+Wiing

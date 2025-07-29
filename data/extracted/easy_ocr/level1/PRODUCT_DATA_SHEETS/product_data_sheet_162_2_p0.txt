@@ -1,0 +1,39 @@
+Product Overview
+This data sheet provides key specitications and material details. Check that all material specs align with
+supplier cenifications. Confimm that performance ranges comply with prcject requirements
+This section
+details tne
+configuration and parameter set for the product  The following information outlines perfommance
+characteristics and design data
+Product ID:
+QN-7Z0H
+Interal No:
+PR-172
+Prepared by: Jan Kowalski
+Approved by: Peter Schmidt
+Date: 2023-12-06
+Model Type
+Hydraulic Power Unit
+Design Pressure
+300 bar
+Throughput
+60 Umin
+Supply Voltage
+230
+S0Hz
+Noise Level
+70 dB(A)
+Filtration
+10 pm return
+25 Hm
+svcton
+Charging Time
+Archive this summary for future design-change management;
+Overall configuration
+within defined design
+and salety margins
+All summary comments have been recorded
+the revision log
+Use this summary to
+cross-check with BOM and inspection reports. All specifications meet the design requirements and industry
+standards

@@ -1,0 +1,133 @@
+Machine
+Summary
+Perfoned On: 2023-10-02
+Authorized by;
+Laura Ro3s
+Uperaltor
+Laura Ross
+Ensure all safety checks were
+completed during servicing: Use this summary -
+jorecas
+parts replacement and resource
+neods. Below
+Sumiman
+SCMICC aclions Jno
+downlImcs
+Ior cch machinc
+The equlpment log below includes fault
+codes and corrective notes. The following entries detail preventive and corrective maintenance tasks.
+Section A:
+Unit Code
+MC-226
+MC-273
+MC-270
+MC-212
+MC-277
+MC-290
+Machinc
+CNC Miling
+Lathe
+Assembly
+Hydraulic
+Lathe
+Hycraulic
+Mlacnine
+Ranat
+Pmess
+Pres
+Type
+Corective
+Corrective
+Pravantive
+Inspectian
+Inspection
+Preventive
+Technician
+Peter Schmidi
+Carlos Garcia
+Jan Kowalski
+Canps Garcia
+Kunnd Kowak
+Jan Kowalski
+duratian
+Worn gasket
+Qasket
+Swiitch
+Alignment
+No issues
+Calbration
+replaced
+laced,
+contacts
+hinges
+ond
+Cneck
+eaned
+aqmusieo
+Section
+Unl Code
+MC 247
+A-298
+MC 273
+MC 227
+MC 216
+MC 212
+Machine
+Laine
+Paint Booth
+Latne
+Convevor
+Belt
+Paint Booth
+Hycraulic
+Type
+Insdaclan
+Inspeciion
+Pravaniiva
+Inspuchan
+PrEVEMIVE
+Corrective
+Technician
+Peler Schidi
+Peler Schmidl
+Peler Schidl
+LauraRos
+4nna Nowk
+Peler Schmidl
+Duration
+Notes
+Worn gasket
+Refilled oil
+Li-Ion battery
+Tightened
+No issues
+Li-Ion battery
+repiaced
+(HLP 4614
+pack
+lonse bolts_
+found,
+pack
+seniceo
+seniceo
+Ensure tha: each service entry has
+the required approvals
+any recurring issues for root-cause investigation Check
+remraining Iile-cyclas
+key cumponents
+fram lhis repon
+Service summaries have
+Deen
+iar vardac
+engineenng
+tcam
+Uptime
+Error
+Hotes
+92.87%0
+Log
+Notet
+Wom
+Pre3?
+Fleq =
+Count

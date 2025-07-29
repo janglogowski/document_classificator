@@ -1,0 +1,27 @@
+Unit Data Specification
+Report No: 2780606
+Product ID
+BZ-660F
+Date: 2023-08-30
+Unit Type
+Cooling Circulation
+Operating Pressure
+180 bar
+Syslem
+Flow Rate
+Operating Voltage
+400 VLSO Hz
+Working
+emp: Range
+10'C to 50"
+Charging Time
+Motor Power
+kW
+Pump Type
+Gear Pump
+70 dBLA)
+Cooling
+Air-cooled oil radiator
+Noise Level
+Prepared by: Carlos Garcia
+Approved by: Jan Kowalski

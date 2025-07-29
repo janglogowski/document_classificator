@@ -1,0 +1,101 @@
+Equipment Record Report
+2023-11-12
+Belov
+Vmmar
+LeryIce
+Ctlons aro
+wntimes foreach michine
+Eiltecnnirian comment are rerordedfor mainterance
+Er erd analysis; Use this $ Urraty
+Iar ecase cty (cpl:cement andtesourcC necds
+This section captures equiprrent status anday
+maintenance odservations
+Iihe equipmeni Iop
+ciincludes tauiccodes and corrective notes
+Spare Parts Used:
+Fart Name
+Fart No
+aty Used
+LI-Ion Battery Pack
+p-4435
+7ong
+Seaiinz Gasket
+8908
+Unlt Code
+Equlpment
+senvice Iype
+Ie chnician
+Duranon
+Last Check
+IMonan
+Mc773
+Aeemblv
+Inspection
+LMMA Roxt
+2073-17-03
+Cnanged oil
+Robot
+ind Filters
+MC-Z1D
+Convevoi
+Cofrecuive
+Carlcs Garcla
+2025-05-18
+Calidralic^
+check OK
+MC-202
+Aemblv
+Cocrecuve
+No*ak
+2023-09-29
+Cnanped QiI
+Rohct
+and Filters
+MC-257
+Laser Cutter
+Inscection
+Jan Kowalski
+2024-Uj-Ua
+Mc-789
+Peicacoln
+Prevective
+Votal
+2024-05-09
+No # ues
+found
+MC-211
+Laser Gintier
+Preventiye
+Jankouralsk
+2023-11-14
+Replaced
+fuse (54)
+MC-285
+Lonvevoi
+Preventiye
+IanKoutalsk
+7073-17-06
+Wooden
+pallet
+checked
+MC-231
+Plasma
+cocrecuve
+Ljura Rosst
+2023-03-07
+Chnked oil
+Culte
+and Mulecs
+Mdcli
+CAC Mine
+Corecuivt
+TanADVSk
+7077-10-G
+L-lon
+Machine
+battery pack
+senced
+Signed off:
+Anna Nowar
+Pertucme 
+Cunioy Gurcia

@@ -1,0 +1,88 @@
+Compliance Log
+#4468728
+Date: 17.07.2025
+Product
+TX-820V
+Customer
+BELGIUM
+Item Description
+Digital Display Unit
+Entries include both visual and functianal inspection items
+Use this extract =
+coordinate 5iEn-ott with the QA
+manager. The following table outlines inspection criteria and classification levels Refer
+the quality register for
+sampling-plan references
+This summary supports the production-release quality Gate, Confirm that sampling levels
+comply with custome
+aereements
+Quality Check Items
+Inspection
+Category
+Remarks
+Depth
+Component Crteria
+Crudc
+Major
+Mlnar
+OnHold
+Packaging does not match
+Leveli
+Minor Issue observed
+signed sample
+paint
+smearing or scratches
+Levei
+Critical impact
+Missing satety labels
+Level
+Minor issue observed
+Dead
+live insect in
+Level [
+Needs review
+packaging
+Package
+not sealed
+Level III
+completel
+Incorrect parcode
+lahes
+Needs
+teview
+Instruction manua
+Missinp
+Needs
+teview
+or damaped
+Screws
+Dose
+missing
+Criticalimnact
+AQL
+levei
+Critical
+Minor
+Detauic
+Customer
+specific
+Caneciive
+aclions are scheduled for Identified Issues_
+All surmary
+comimens havedeen Valgaled
+by the QA team:
+This summary supports the end-of-line quality certification,
+ensure supervised sign-aff on any non-ronforming
+points This final note contirms the checklist
+comoi
+approved_
+marked for hold require additional
+review before release
+Confirm that all
+sarpling -
+rEsulls dle
+within acceptable limits
+Vajor
+Plejse
+ana
+tem s

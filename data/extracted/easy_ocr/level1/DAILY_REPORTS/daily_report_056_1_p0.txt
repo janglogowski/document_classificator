@@ -1,0 +1,84 @@
+Production Log
+Repart No::
+PR-999
+Cuslamer-
+TURKEY
+Supervisor
+Kowalski
+Department:
+Vaintenance
+Date
+12-07-2025
+Snitt:
+(Evening)
+Machine
+Operation
+Operator
+Begin
+Time
+Notes
+MC 206
+Drilling
+Nadia Sauter
+09-00
+10.04
+Delay
+MC 204
+Cutting
+Przemysiaw
+09.30
+10.04
+N/A
+Wasik
+MC-209
+Welding
+Agnieszka
+11.15
+12.05
+Delay
+Ziellriska
+MC 201
+Welding
+Przemysiav
+09.15
+10.18
+Kccambrarcc
+Wasik
+MC-201
+Assemblv
+Raula
+Saulem
+O7-00
+07.33
+Delay
+MC 205
+Drilling
+wiktor
+08-15
+09.29
+Konczvnsi
+Item
+Target Qty
+Actual Qty
+Rejected Qty
+Rejection
+Remarks
+QP-660F
+215
+3.5990
+Kewoneneeded
+BZ-G60F
+202
+460,
+58-140D
+233
+72yu
+scrap contirmem
+Xk-G10U
+0764
+Rewor needed
+Prepared b%:
+Peter Schmidt
+Approved by:
+Peter Schmict
+Tot a

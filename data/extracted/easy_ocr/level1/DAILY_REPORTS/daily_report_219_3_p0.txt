@@ -1,0 +1,117 @@
+Report No:: PR-130
+Customer: FINLAND
+Shift:
+(Evening)
+Date: 08-01-2024
+Machine
+Operation
+Technician
+Begin
+Finish
+Total
+Remarks
+duration
+MC-206
+Welding
+Wiktor
+07.00
+08.05
+Kopczytski
+progress
+MC-207
+Drlling
+Przemysiaw
+11,00
+11.26
+Wasik
+progress
+MC-209
+Polishing
+Bartosz
+12.30
+13.29
+Waurziak
+progress
+MC-207
+Assembly
+Jan Kowalski
+11;15
+12.24
+progress
+MC-206
+Cutting
+Piotr
+11.00
+11.23
+Completed
+Lewandowski
+MC-209
+Drilling
+Maleusz
+09:15
+10.25
+Completed
+Jarzyna
+MC-202
+Cutting
+Agnieszka
+07.30
+09.03
+Recalibrated
+Delayed
+Zielinska
+MC-205
+Drilling
+Mateusz
+11.00
+11.57
+Delay
+Jarzyna
+progress
+Archive this output summary
+end-of-day reporting; The performance recap supports the moming briefing
+agenda
+This closure summary signals readiness for (he next production run: All production largets have
+been logged; deviations are highlighted above:
+Item ID
+Planned
+Produced
+Defect Qty
+Scrap
+Rework Qty
+Notes
+Qutput
+QtY
+TX-B20v
+203
+183
+85%0
+Rework
+needed
+SL-430M
+274
+268
+2.19%0
+Rework
+needed
+LP-SSSV
+233
+227
+58%0
+Scrap
+confirmed
+RE-850C
+258
+250
+3.10%
+Rework
+needed
+LK-890B
+219
+216
+37%0
+Scrap
+coniirmed
+Approved by:
+Prepared by: ,
+Stage

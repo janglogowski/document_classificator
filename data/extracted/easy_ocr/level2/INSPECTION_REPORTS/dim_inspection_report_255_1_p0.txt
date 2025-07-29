@@ -1,0 +1,204 @@
+Inspection Results Summary
+Product
+component
+Dlmenslons
+Rarkot
+olunnncd
+Actuni
+DI
+Hef
+Tool
+Aut
+(uum)
+Hf-JIA
+HVex Holls
+Holu
+6597
+10,20
+(Good/udl
+Mi}
+65,97
++0,00
+Dopin
+PASs
+RL ASOC
+Power
+Hetrhg
+A070
+10,J0
+40,66
+Swltch
+0,04
+PaSs
+Ms G0'
+Shnft
+Longth
+04,40
+10,20
+Scumnot
+5OOmnm
+04,49
+J00i
+Callot
+Pass
+MS Goop
+Plastle
+Innot
+0527
+40,20
+Rivcts
+Dinmctot
+J5.14
+0,4J
+Micromoto
+Pass
+VR 'AOT
+Rubbot
+Helkht
+0a
+40,20
+58,81
+Gasut
+0,08
+Dopth
+Pass
+AQatn
+Gauke
+KP' Hz0
+Stoel Sheet
+tonkth
+4114
+10,20
+41,25
+4jg
+4011
+Mcusuring
+Pass
+NUAAO
+Rubber
+Topa
+04,62
+40,H0
+94,59
+0,01
+Callper
+PASs
+Goskot
+Dlmeter
+wumm
+VR 9ut
+Plastic
+Vodth
+27.J8
+0,H0
+17.31
+10,Du
+Mousurlng
+PASs
+ap G60r
+Woaden
+Widua
+62,02
+10 /0
+Follat
+64,10
+70,18
+CMM
+Pass
+AMa
+QoarIng
+Thikc knoss
+71,42
+40,20
+73 48
+BGON
+6202I
+10,06
+Mr
+Pass
+NL 24SA
+Bcnring
+Thlcknesa
+69,50
+40,20
+Schn
+6202 1
+64,51
+10,01
+Luio
+PAss
+Scu
+ON //|
+@ototy
+Wuto
+75,69
+L0,70
+75,75
+Pack
+4040
+PaSs
+Dldmetot
+XkG1OU
+Plaselc
+Hole
+Q,'M
+Scunner
+Rlvcts
+40,20
+45,0}
+10,12
+Dopth
+Pass
+MK: Ig0i(
+Rubbor
+Holo
+747)
+10,70
+Gubo
+Guskot
+74,71
+'0,05
+CMM
+PAss
+M
+H-JIA
+0 Rng NOR
+Longth
+25,J6
+10, 20
+25,51
+uomms
+#015
+Moasurmng
+PASs
+T-Tj0X
+Grphlte
+Holght
+15,62
+40, 20
+15,40
+Tan
+Pud
+011
+Mcasurig
+PaSs
+He-JyQA
+0 Hna Ni
+With
+14,04
+070
+4697
+0,42
+M
+Lom
+PASs
+Scunnot
+Summary
+Passed: 17, Falled; 
+@aule
+Llt
+Innci
+Kivots
+opt
+Utct
+T4p

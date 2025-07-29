@@ -1,0 +1,60 @@
+Machine Log Summary #9730519
+Date: 2025-05-14
+Machine
+Equlpment
+Type
+Technlclan
+Downtlme
+Noter
+MC 229
+Palnm
+Preventive
+Anna Nowak
+Piant 1C
+Worr
+Pusct
+fepiared
+MC-260
+Latne
+unscection
+Anna
+Nowak
+Plant 28
+Cnanged oll
+and Mters
+MC 294
+Lathe
+prevenmt
+Garcij
+Plant 1C
+Tigh cned
+Jdose bolty
+MC-236
+Laser Cuttet
+Preventive
+Arna Nowak
+Plant 28
+No issues
+Touno
+MC-727 *
+Paint Booth
+Inspectlon
+Laura Rosai
+Plant ZR
+Worn Gasket
+fepluced;
+Maintenance
+notes are uchived (0r
+compllance wudits: This Icg summary supports the asset-management
+Taults vere found
+during the latest Inspaction
+Ensure that E
+dashboard, No critical
+each service entry hasthe required approvals
+Luucicuc Or Cnerked
+Callbration Verified
+Emerrency Sto? Teted
+Authorized by:
+Operator;
+@octh
+Carl0}

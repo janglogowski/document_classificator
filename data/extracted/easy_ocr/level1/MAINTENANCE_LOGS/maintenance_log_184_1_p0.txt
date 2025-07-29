@@ -1,0 +1,79 @@
+Equipment Record Report #4156450
+Dale:
+2024-01-17
+Unit Codc
+EquipMcnt
+pcrato
+Duration
+Commcnts
+MC-233
+CNC Milling
+Inspection
+Lanios Garcia
+Plant 1C
+Machine
+MC-2B0
+Faint Bootn
+Lorrective
+Anna Nowar
+Flant 3/
+Li-Ion battery
+Dacksrced
+MC-2UY
+Paint Booth
+Inspection
+Anma Nowar
+Plant 34
+No I55u2s
+{aund
+MC-282
+Lathe
+Inspection
+Carlos Garcia
+Plant 1C
+"ehteneo
+ldcse bolu
+MC 237
+Axembly
+Inspection
+Carlos Garcia
+Plant 26
+Plenmcnt 0t
+Robcl
+hinges
+aciusted
+MC-249
+CNc
+Lorrective
+Jeter Scnmidt
+Flant ZB
+Wodden pallet
+Machine
+cnectan
+MC-258
+Packaglng Llne
+Locrective
+Jeter Scnmidt
+Plant 3/
+Wouden pallet
+checked
+All maintenance durations are recorded fct
+pentormunce metric;
+Allnintenanco tuskshavc bucn complcted
+ner scheduic,
+Cvera
+uipment condition
+satistactory post-maintenance
+Maintenance noles
+are archwed tor compliance audits
+Use thls
+cldsuc
+Mucale Ine maintenance
+[racker.
+Lubricaticm
+Checked
+Calibralicnverfied
+Emcrecncy Stop esicd
+Sigred olf;
+Perfor med by;
+Miing

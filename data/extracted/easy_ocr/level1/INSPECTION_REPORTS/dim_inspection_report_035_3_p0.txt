@@ -1,0 +1,81 @@
+Inspection performed by Laura Rossi on 2024-04-04.
+Anclc No
+Part Name
+Mcasurement
+Target
+Actuai
+Diff
+Status
+(ViX)
+RE-850C
+Shaft S00mm
+Depth
+51.22
+51.30
++0.08
+PASS
+RE-850C
+Plastic Rivets
+Inickness
+99.38
+PASS
+DX-777T
+Rubber
+Thickness
+79,07
+79.07
+PASS
+Gaske
+80mm
+QP-660F
+Hex Bolts
+Depth
+92.09
+92.12
++0.03
+PASS
+M12
+AZ-30OT
+Plastic Rivets
+45,95
+46.02
++0.07
+PASS
+QN-770H
+Wooden
+Height
+26,71
+26.87
++0.16
+PASS
+Pallet
+NE-2454
+Shaft S00mm
+Thickness
+4OOC
+PASS
+T-Sz0v
+Battery Pack
+Hole
+31.93
+PASS
+MR-160H
+Shaft
+Thickness
+22.02
+PASS
+Graphite Pad
+nickness
+97.86
+97.85
+PASS
+LP-S55v
+Shaft S0Omm
+Depth
+81.04
+310S
++00I
+PASS
+Depth
+sodinm
+-9401

@@ -1,0 +1,120 @@
+Inspection Summary
+#1429163
+Date: 17.07.2025
+Product
+TY-3506
+Customer
+BRAZIL
+Item
+description
+Hex Bolts M1Z
+All checklist entries
+timestamnedor
+traceability, Use this extract
+roardinate
+sign-otf with the QA manager; The
+following table outlines inspection criteria and classification levels. Entries include both visual and functional
+inspection items
+Archive tnis list
+the quality-management system
+Review Points
+Check
+Severity
+Comments
+Intensity
+Companent Criteria
+Critical
+Mlaior
+Mlinor
+OnHold
+incorrect
+ientation
+Leve
+Visua
+detect on housing
+Levei
+Meeds reviev
+Screws
+D0S
+rlssing
+LAT
+Critical
+Impacl
+splinter or sand
+Doinl
+Level |
+Critical impact
+on product
+Package
+nonscaicd
+Level |
+Needs reviev:
+completely
+MlisSIne saletv Idbels
+Leve
+Crilical
+Impall
+Palnt smearing or scratches
+'Le
+Crtic
+Ipall
+Dustldebris Inside packaging
+Criticab
+Impact
+Packaging does not match
+signed samp
+Exposed na
+with sharp point
+Needs reviev'
+Incorrect quantity =
+Needs reviev:
+Jesartmen
+Functionality test failed
+Critical impact
+Instruction Manua
+missing
+Level |
+Critical impact
+damaged
+Rubber Switch nat working
+Level
+issue obsenred
+Hinges loose
+Critical
+impact
+Rubber
+textune
+Elossiness
+Leve [
+Critical impact
+mismatch
+Dead
+Iive insectin
+Needs reviev:
+packaging
+Wrong product
+Level
+Minorissue obsered
+AQL Level
+Critical
+Mjior
+Mimor
+Default
+Customer specific
+Use this closure
+repom
+update the quality KPI dashboard. Confim that all
+sampling
+resuts
+within acceptable
+limits. Checklist results have been reported to the quality manager_
+Ensure that all remarks
+have corresponding
+evidence
+Jttachmente
+Corrective
+actions are scheduled for identified issues
+Items marked for hold require additiona
+revieubefor recjse
+Wocd
+Minor

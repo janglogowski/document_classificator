@@ -1,0 +1,88 @@
+Component Dimensional Check
+Inspection performed by Anna Nowak on 2025-02-01.
+Item Code
+Measurement
+Nominal
+Actua
+Status MVA)
+CN-l50C
+Paiver Swaitch
+Hole
+0.11
+CE-90SL
+Hex Bolls
+Length
+92.13
+92.26
++0.13
+M1Z
+RE 850C
+Stecl Shcet
+UcEOCSS
+7.54
+7.65
++0.11
+A36
+QP-GCDF
+Graphle Pad
+Hole
+36
+66.15
+0I0
+LK-8908
+Plastlc Rivets
+Hole
+67.64
+67.55
+HF-3904
+Wooden
+Hole
+13.81
+13.67
+0.14
+Pallet
+MC-S4OX
+Bearing 6202
+Lengtn
+29,55
+29,51
+00a
+MR-160H4
+Hex Bolts
+Depth
+45 6
+75.60
+M1Z
+XD-710R
+Battery Pack
+hickness
+77.63
+Ms-600?
+Wooden
+Heignt
+87.40
+87,22
+U &
+Pallet
+MS-6COP
+Rubber
+58.78
+58.63
+0.15
+Gasker
+somm
+ZR-ZOSR
+Bearing 6202
+Depth
+34-53
+34.43
+0.10
+RE- 850C
+Hinge Set
+Width
+79.23
+79.24
+Name
+Delta
+Hole
+70,0l

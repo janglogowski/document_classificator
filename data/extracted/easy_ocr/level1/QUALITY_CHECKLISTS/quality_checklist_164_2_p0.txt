@@ -1,0 +1,88 @@
+Inspection Register
+Ensure all non
+~conforming
+Marks
+are clearly documented
+Refer
+the quality register for sampling plan references:
+All checklist entries are
+timestamnedtor
+traceability; This section details quality requirements and test points for the
+batch: This closure summary indicates compliance with inspection criteria. Use this Iist to confirm adherence
+AQL
+and safety standards This summary supports the production-release quallty gate- Archive thls Iist In the quality-
+manazement
+svstem;
+Product ID
+PW-515Y
+Customer ID
+NORWAY
+Item Description
+Insuated Mbe /5mm
+Quality Check
+Sample Tier
+Ciassitication
+Comments
+Item spe
+Hold
+Exposed nail with
+Leve
+Needc
+IAE
+Package
+not sealed completely
+Leve
+Critical impact
+Lolor mismatch
+Runbe
+Switch not working
+Leve
+Connector nor
+working
+Leve
+Needs (eview
+Visu?
+defect on
+nusine
+Needs Teview
+Batteryv nt included
+Leve
+Missing
+cistrinuto
+Tntormation
+LEUF
+proquct 5ize
+Leve
+Needs review
+Incorrect quantity
+Jssomment
+Leve
+Needs
+Teview
+edges on plastic
+Minor issue observed
+components
+Ioose
+Danainsine
+packaging
+Minor issue observed
+Screws
+oose Or Missing
+Dusl
+debris Inside packaging
+Critical Impact
+Missing
+waming label
+Level II
+Need
+Tt
+Missing satet abels
+LCvCi
+Critical impact
+Supervised by:
+Date:
+nems
+sharp
+Puint
+Wrong
+Sharp

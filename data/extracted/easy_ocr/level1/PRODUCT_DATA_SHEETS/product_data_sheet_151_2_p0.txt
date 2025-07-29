@@ -1,0 +1,97 @@
+Unit Configuration
+Confirm that performance ranges comply with project requirements
+Use this spec sheet
+validate assembly
+instructions
+AIl data entries are traceable
+design revision history: Use this sheet -
+confirm engineering
+requirements and tolerances. This section details the
+configuration
+and parameter set for the product; The
+following
+intormatior
+outlines performance characteristics and design data, Entries include both mechanical and electrica
+specifications:
+Praducd
+VR-94OT
+Documenl No :
+PR-115
+Prepared by: Peter Schmidt
+Approved by: Carlos Garcia
+Date: 2023- 11-08
+Model Type
+Hydraulic Power Unit
+Rated Pressure
+210 bar
+Flow
+aTe
+30 L{min
+Operating Voltage
+60 Hz
+Total Weight
+230 ke
+Frame Material
+Powder-coated Stee
+Working Temp. Range
+5 "Cto45"C
+Filtration
+10um
+erurt
+Oil Type
+HLP 32
+anv Missin
+parameters for
+snecincatian updates
+Document contrc
+numbers are included tor
+traceability. Material choices Jnd
+process data have been verified for compliance
+Confirm that all test conditions are
+accurately represented
+Data sheet has been peer-reviewed by the engineering
+Wc
+Ensure
+ossary t@ris match
+the engineering nomenclature
+Check that
+sectian headers follow the product
+late_
+MaterIal .
+Construction:
+Subcomponent
+Raw Material
+Connector 2P
+0i35s
+Filled Nulon
+Battery
+Lthium-Jon
+Pack
+Gaske
+Nitrile Rubber INBRL
+Glapmile
+Glapmlle
+NBR 6Orui
+Nitfile Rubber
+UNBK
+Switcn
+Polycarbonate
+Loppci
+Pressure Valve
+3rass
+Rubber Gasket 8Omm
+Nitrile Rubber INBR)
+Digital Display Unit
+ABS Plastic
+Insulated Tube 25mm
+Thermoplastic Polyurethane (TPU)
+Heat Sink ALU
+Kiuminum
+6061-16
+inling,
+Flaz =
+uibent
+temo
+Sheet
+Rine
+Powel

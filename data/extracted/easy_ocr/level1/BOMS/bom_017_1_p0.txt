@@ -1,0 +1,88 @@
+COMPONENT BREAKDOWN
+Customer ID: GREECE
+Coordinator: Jan Kowalski
+Date: 2024-10-06
+Product ID: JD-ZOOW
+Internal No;: 6169494
+Order Qty; 476
+Refer to this parts
+egister
+plan raw-material
+purchasing: The parts manifest here is designed
+support procurement workflows: This document provides
+detailed breakdown of all components
+required for the assembly process;
+Item
+Consumption
+Extra %
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Power
+105
+1.20
+22.80
+Eco
+Switch
+compliant
+Packaging
+10%
+1.00
+23.00
+Eco
+Box
+compliant
+Wooden
+3.25
+15.00
+285.00
+High
+Pallet
+grade
+Hinge Set
+3.48
+2.50
+115.00
+export
+Spring
+2.46
+10%6
+0.05
+1.40
+Washer
+M1O
+Packaging
+0.91
+1.00
+36.00
+SKF brand
+Box
+Shaft
+3,04
+8.00
+24,00
+Switch
+500nm
+tested OK
+Clamp Ring
+0,72
+1.75
+40.25
+Hinge
+120mm
+alignment
+adjusted
+Shaft
+3.19
+8.00
+368,00
+Switch
+500nm
+tested OK
+Total Amount;
+915.45
+Approved By:_
+Sourcing Department:

@@ -1,0 +1,81 @@
+Inspection Record
+The following table outlines Inspection criteria and classification levels
+Entries Include both visua
+and functianal
+inspection items; Archive this list in the quality-management system; Check that inspection steps follow the appraved
+procedure. This checklist captures quality inspection points and sampling levels
+Product ID
+QP-660F
+custamcrId
+BRAZIL
+Item Description
+support Foot Stee
+Inspection Checklist Points
+Inspection
+Severity
+Remarks
+Depth
+Component Criteria
+Hold
+Pronuct doesn
+Huu_Ai
+Level
+Needs (eview
+uncorrec
+quantity
+as5orment
+Leve
+Issue
+Dpserven
+Erpased nai
+with sharp point
+Leve
+Minor issue Dbserved
+Visual defect on housing
+LevA
+Need
+Tetiet
+Color mismatch
+Leve
+Mnor issue Obsenveo
+Package
+not sealen
+completely
+Rubber texture
+glossiness
+Needs revlew
+msmalch
+Dust/debris Inside Packaging
+Le
+splinter
+sharp point on
+Level
+product
+Paint smearing
+scratches
+Levem
+Criticakimnact
+Uncorrect barcoce 0r lapel
+Leve
+Shipping
+Markis
+illegible
+Level
+missing
+Not assembled
+per orawing
+Leve
+Critical impact
+Battery not included
+Missing distributo_
+untarnmatar
+Level
+Need
+Tevet
+Rubber Switch not working
+Leve
+Mior Issue Obseived
+Supervised by: _
+Date:
+Minor
+Wood

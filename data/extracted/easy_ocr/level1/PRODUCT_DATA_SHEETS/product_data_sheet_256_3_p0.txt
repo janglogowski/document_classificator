@@ -1,0 +1,59 @@
+Product Data Sheet
+Document No:: PR-780
+Product ID
+2OOB
+Date: 2025-04-14
+Configuration Type
+Cooling Circulation
+Design Pressure
+210 bar
+System
+Fluid Flow
+75 Limin
+Voltage
+400
+50 Hz
+Dimensions
+LxWxH)
+1000
+650
+1000 mm
+Battery Capacity
+Frame
+Material
+Stainless Steel
+Frame
+Total Weight
+250 KB
+Mounting
+wall-miounted
+Filtration
+Fe
+25 Min
+suction
+Component Materials Overview:
+Uecm
+KJw Matend
+Specification
+Cable Tie Pack (100)
+Nitrile Rubber (NBRI
+certified
+Support Foot Steel
+Stainless Steel 304
+Class
+tolerance
+Ring NBR SOmm
+Nitrile Rubber (NBR)
+Electrica
+grade
+Capacitor
+450v
+Aluminum 6061-16
+IP6Z rated
+Battery Pack
+Lithiumxlan
+Cel Pac
+UL-Ilsted
+Prepared by: Laura Rossi
+Approved bv: Peter Schmidt
+10 /m

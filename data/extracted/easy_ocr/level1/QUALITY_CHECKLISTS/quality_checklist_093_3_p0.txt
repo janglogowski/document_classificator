@@ -1,0 +1,75 @@
+QC Checklist
+Review Polnts
+Sampling
+Defect Class
+Observations
+Leve
+Praduct
+Requirements
+Critical
+Major
+Minor
+OnHold
+Wrong
+size
+Leve
+Critical impact
+Carton
+damaged Or
+Ings incorrect
+Level II
+Critical impact
+Paint smearing
+scratcnes
+Functionality test falled
+Levc
+Mnor issue
+Onsened
+connetior not
+working
+Leve
+Sharp edges
+plastic
+components
+Level
+Needs review
+Battery not included
+Lcvc
+revievi
+Rubber texture 0r glosslness
+misiatch
+Incorrect arientation
+Leve
+Critical impact
+Colo
+mismatcn
+LCVe
+Keeds reviey
+Missing
+Wuming
+abel
+Levei
+Nceds reviev
+Weac
+live insect
+packaging
+Screws
+JOJSC
+missing
+LPYP
+MinoriSSMc
+observed
+Shipping mark is illegible
+missing
+Level
+Minar issue observed
+Reference Standards:
+Standaro
+Directive
+2015
+IEC 61010
+3rd Ed;
+Produci
+Needs
+Jok2
+Edition

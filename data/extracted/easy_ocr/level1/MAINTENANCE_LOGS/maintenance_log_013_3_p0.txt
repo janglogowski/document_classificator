@@ -1,0 +1,146 @@
+KuMOIZCC
+Jan Kawaske
+Operaior
+JanKowaski
+Confirm tha
+serce
+Iniena2
+preventive schedule
+Refer
+tne Maintenance
+recisier
+cetailed service
+histories
+Tnis section captures
+aquipmeni status ano
+any maintenance observations
+Ensure
+safety
+cnecks Were
+comolele d
+servicing. This Maintenance extracl
+prepared (0r corrpliance aud t trails.
+Section
+Unit Code
+MC-233
+MC-212
+MC-276
+MC-261
+MC-272
+MC-245
+Equipment
+Laser Culller
+Lalhe
+Laser Culler
+Laser Culler
+Conveyor Bell
+Assumbly
+Kcol
+ype
+inspection
+Corrective
+Corrective
+inseciion
+Lomecive
+Lcttectiv €
+Technician
+Annz
+KOwak
+Lauta
+Rossi
+Amna Nowak
+Puler Schmicl
+Anna Kowak
+Laura
+RoSs
+Downtime
+Comments
+Refilled cil
+Wocden
+No issues
+Alignment of
+No issues
+(HLP 46}.
+pallel
+Iouno
+lound
+checked
+adjusted.
+Section
+Code
+MC-245
+MC-?33
+MC-261
+MC-276
+MC-253
+MC-272
+cquipment
+AsscMIbI
+Lasut Cullut
+Lasur
+Cullur
+Laser
+culier
+Lasci Culici
+Cenveyor Bell
+Robot
+Type
+Ptevenive
+Cctrective
+Prevente
+Cameciive
+Comecine
+Inspectiom
+Technician
+Cailas
+GGalca
+Laura Rossl
+Launa
+Rossi
+Cancs
+Garcia
+Jankovalst
+Carlos Gaicia
+Downtime
+Comments
+Alignment =
+Changed oill
+Li-Ion ballery
+Replacud
+Relilled Eil
+Rujlacga
+hingcs
+and Itets
+pack
+coCant
+(HLP 46}.
+5A1
+adiuslcu
+senviceu
+Ensurenexl
+preventive
+sertice
+scheduled
+according
+plan. Servica summaries have
+Deem
+onvaro8d
+engineering
+team
+Flag any recurring Issues for rool-cause investgation: Use thig closure note
+update the maintenance
+(racker
+maintenance duraticns are recorded for
+performance metrics,
+Contrmn Tnat
+comeciive aciions were
+properly closed ouL
+Uptime ("
+Error
+Count
+Comments
+92.7586
+fdllox
+Guritg
+6ungos
+Unlt

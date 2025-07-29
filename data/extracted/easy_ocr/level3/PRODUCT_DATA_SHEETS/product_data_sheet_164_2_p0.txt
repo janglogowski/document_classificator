@@ -1,0 +1,35 @@
+Unit Data Specification
+Check Inal all materal specs align with supplier certiiicalions Confirm thal perfomance ranges comply witn
+projeau requnemens
+Ese (Js spec sheet t0 valldate assembly instructions: Reter Io Ihis conliguration 
+summary for unit-designallon mapping: Ensure all referenced standards are up to dale:
+Rroducl
+MS SQOP
+Repol No;
+PR-446
+Prepared by:_Jan Kowalski [ Appreved by: Peter Schmidt $ Date: 2024-01-08
+Model Lpe
+Hydraulic Power Unit
+Operating Pressure
+210 par
+Flow Rate
+Voltage_
+230VI50Hz
+Dimenslons [XWxHL
+1200
+Z00XH0O mm
+Pump Type
+Vare Pump
+Service Interval
+7000
+Cooling
+cooled
+exchanger
+Prolection Class
+IP54
+Nolse Level
+72 dB(A)
+Flag any missing parameters far urgent specification updates. Confirm that all test conditions are accurately
+represented  Dala sheet has been peer-reviewed by Ihe engineering team: Material choices and process
+data have been yerifjed for compliance. Usg this summary t0 cross-check with BOM and inspectiun reports
+Watet-C

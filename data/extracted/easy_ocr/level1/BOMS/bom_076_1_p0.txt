@@ -1,0 +1,98 @@
+COMPONENT BREAKDOWN
+Customer ID: POLAND
+Coordinator: Peter Schmiat
+Date: 2025-06-06
+Product ID: GL-9805
+Interna
+No : 3709028
+Order Qty: 296
+Review the materials tally for compliance with budget allowances. This document provides &
+detailed breakdown of all components required for the assembly process Use this breakdownto
+verify sourcing and cost estimates:
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+1.92
+206
+pcs
+1.10
+40.70
+Cover
+150x150
+Epoxy Resin
+1.51
+206
+pcs
+"30
+87.60
+Fuse 54
+0.67
+1090
+pcs
+0.30
+10.20
+grade
+Plastic
+0.55
+096
+pcs
+0.20
+9.00
+For expont
+Rivets
+Sensor Clip
+10"0
+pcs
+095
+2.85
+export
+Hinge Set
+1.15
+109
+pcs
+120.00
+For export
+Spacer
+0.67
+10%0
+3.90
+Zmm
+Hex Bolts
+1.97
+pcs
+0.25
+2.50
+Switch
+M12
+tested OK
+Plastic
+3.31
+1090
+0.20
+6.00
+Switch
+Rivets
+tested OK
+Rubber
+3,05
+286
+pCs
+0.50
+8.50
+ROHS
+Gasket
+compliant
+80mm
+This closure summary validates that all parts are approved for release
+Total Amount:
+291.25
+Approved By:
+Sourcing Department:
+High

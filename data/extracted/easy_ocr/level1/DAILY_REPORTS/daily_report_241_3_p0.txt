@@ -1,0 +1,102 @@
+DAILY PRODUCTION REPORT
+Report No:: PR-802
+Customer: TURKEY
+Shift: =
+(Night)
+Date: 31-10-2024
+Machine
+Task
+Technician
+Begin
+Total
+Notes
+Status
+duration
+MC-209
+Cutting
+Bartosz
+14.15
+15.53
+Delayed
+Wawrzyniak
+MC-204
+Drilling
+Mateusz
+14.30
+15.20
+Recalibrated
+Progress
+Jarvna
+MC-203
+Welding
+14-06
+14.33
+Delay
+Completed
+Kowalski
+MC-208
+Polishing
+Mateusz
+12.30
+13.40
+NA
+progress
+Jarzyna
+MC-201
+Drilling
+Agnieszka
+08.15
+09.55
+100
+NA
+Delayed
+Zieliiska
+Check materia
+consumption against standard usage rates
+Confirm that scrap percentages align with quality
+benchmarks- All praductian targets have been logged; deviatians are highlignted abave
+Nate any unscheduled
+stops inthe dovntime register. This closure summary signals readiness for the next production run:
+Productd
+planned
+Qty
+praduced
+detect
+Qty
+Rejection %
+Rewonk
+Qty
+Uwagi
+Qty
+VF-220D
+278
+266
+4.320
+Rework
+needed
+PL-601z
+128
+109
+14.B490
+XK-610U
+299
+9.3696
+Scrap
+confirmed
+SL 430M
+124
+108
+12.9048
+Scrap
+conninmied
+ZR-2OSR
+176
+164
+8240
+Rework
+neAdeC
+RX-31OZ
+299
+6.0292
+Approvedby:
+Prepared Dy:

@@ -1,0 +1,108 @@
+Shift Summary
+Report No;
+PR-335
+Custcmer:
+TURKE
+Supervisor:
+Jan Kowalski
+Department:
+Painting
+Date:
+24-02-2024
+Shift:
+(Evening
+Machine
+Operation
+Worker
+From
+Total
+Comments
+duration
+MC-20g
+Drilling
+Przemyslaw
+08.30
+08.51
+NA
+Wasik
+MC-201
+Welding
+Mateusz
+10.30
+11.43
+Delay
+Jarzma
+MC-201
+Drilling
+Magdalena
+09.15
+09.42
+Recalibrated
+Witkowska
+MC-203
+Cutting
+Nadia Sauter
+09.30
+40.31
+Recalibrated
+MC-205
+Polishing
+Jan Kowalski
+07.15
+08.37
+Recalibrated
+MC-207
+Drilling
+Piotr
+06.30
+08.24
+NA
+Levandowski
+MC-203
+Drilling
+Dawid
+13.15
+14.52
+NA
+Oszmianczuk
+MC-208
+Drilling
+Przemyslaw
+10.00
+10.22
+Wasik
+MC-204
+Cutting
+Bartosz
+07.00
+07.22
+Wawrzyniak
+Product ID
+Target Qty
+Produced Qtx
+Scrap Qty
+Rejection %
+Remarks
+VF-2200
+161
+136
+15.53%0
+QP-660F
+173
+98%
+Rework
+320E
+Mujo
+WD-1805
+14.38%0
+QN-770H
+208
+195
+6.2596
+confirmed
+Prepared DX:
+Laura Rossi
+Approved DY:
+aura Rossi
+neaded
+Scrap

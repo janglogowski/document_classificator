@@ -1,0 +1,75 @@
+Component Dimensional Check
+ecnnician
+Peter Schmid
+Inspection Date
+2024-11-29
+This
+eport presents Ihe dimiensional measurements and Inspeclion results:
+All measured values are
+timestamped for audit purposes. Please review the inspection results for each component listed below- This
+data extract
+prepared for quality-control sign-off , Below are the recorded measurements compared
+against nominal tolerances_
+Entries include both pass/fail markers and deviation magnitudes:
+Item Code
+KP-320E
+WD-1805
+XD-T1OR
+TL-90OX
+XD-7I0R
+VR-940T
+Component
+Plastic
+Rubber
+Rubber
+Shaft 500mm
+Hex Bolts
+Battery Pack
+Rivels
+Gaskel
+Gaskei
+M12
+Bmm
+Bmm
+Mcasurcmcnt
+Thickness
+Width
+Depth
+Width
+Depth
+Lengih
+Nomina
+43.12
+50.38
+33;
+15.87
+14.03
+Observed
+33,63
+13.,87
+Delta
+400s
+FU05
+F08
+40 4
+U16
+PassiFail
+Archive (nis inspection summary for regulatory documentation;
+Refer 
+deviation column for any out-of-
+tolerance measurements
+Components failing inspection require immediate review and corrective action.
+Instrument Calibration Log
+Instrument
+Serial No_
+Last
+Calibration Date
+Micrometer
+29606
+2024-09-02
+Micrometer
+49649
+2024-08-23
+Micrometer
+30822
+2024-08-27

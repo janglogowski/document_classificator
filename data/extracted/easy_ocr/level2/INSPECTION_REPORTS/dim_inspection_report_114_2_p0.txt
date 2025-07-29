@@ -1,0 +1,88 @@
+Tolerance Check
+ecnnican
+Caros Garcia
+Inspection Date
+2025 06-25
+Entries include both pass fall markers and deviation magnitudes. This section detalls Ihe measured values
+tolerances; and status flags_ Review recorded tolerances against engineenng specifications_ The inspection
+below highlights any out-of-tolerance pants_  This report presents the dimensional measurements and
+inspection results:
+Product
+XK-610U
+VF-220D
+XK-61OU
+OP-E6OF
+TL-P0OX
+RM-B6ON
+VF-220D
+Pant Name
+Beaning
+Bearing
+Graphite
+Sleel
+Potat
+Hex Bolls
+Mtch
+620277
+620277
+Pad
+Sheet 436
+Swtch
+412
+Dim:
+Jnner
+Wath
+Thickness
+Height
+Hole
+Depth
+Wotn
+Diameter
+homina
+86.85
+26.19
+7.63
+75.50
+22.39
+68-41
+22.39
+Opsened
+86.87
+26.14
+75.52
+2241
+68.12
+22.44
+Diff
++0l02
+~0,05
++0.15
++0.,02
+7.02
+-0,01
+-0l05
+Pass Fail
+Ensure status flags
+updated in the quality management system Cross-verify measurement data with
+CAD nominal values Overal
+inspection summary indicates acceplable quality levels:
+Instnument Calibration
+Instrument
+Serial No
+Last Calibration Date
+Micrometer
+26835
+2025 03 01
+O
+93182
+2025 0+-24
+Caliper
+19016
+202410-.15
+Loser
+Scncer
+91167
+2025-02-19
+register
+Poxer
+Log

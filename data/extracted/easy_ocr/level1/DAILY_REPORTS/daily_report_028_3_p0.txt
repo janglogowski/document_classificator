@@ -1,0 +1,95 @@
+Shift Summary
+Report No:: PR-645
+Customer: BRAZIL
+Shift:
+(Night)
+Date: 01-12-2023
+Equipment
+Tasi
+lecnnician
+Start Time
+Tota
+Time
+Uwagi
+Condition
+MC-204
+Polishing
+Anna
+12.15
+14,13
+118
+Delay
+Lompi
+eted
+Nawak
+MC-206
+Palishing
+Bartosz
+14.30
+16,25
+115
+Campleted
+Wawrzyniak
+MC-201
+Pollshing
+Anns
+09.00
+09242
+Delayed
+Nowak
+MC-207
+Polishing
+Anno
+07.00
+07.46
+progress
+Nowak
+MC-20Z
+Drilling
+Bartosz
+14.30
+15.10
+Delayed
+Wawiyniak
+Archive
+output summary for @nd-of-day
+eporting Ensure
+routine maintenance
+Detween
+shifts
+Mtaincain
+consistent output. Nate any unscheduled stops
+the downtime register, Record any adjustments
+shift schedules
+staffing here Confirm that scran percentages align with quality benchmarks _
+Item
+Target Qty
+Achieved Qty
+Rejected Qty
+Rework
+Remarks
+Count
+AL-1150
+183
+9.4196
+Rework
+needed
+LK-8908
+233
+14.02%6
+Revork
+needed
+NE-2ASA
+156
+9.624
+TY-350G
+219
+14.615
+Scrap
+confirmed
+XK-610U
+13.6756
+Approved bv:
+Prepared bv:
+Delav
+Scrap

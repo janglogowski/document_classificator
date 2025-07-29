@@ -1,0 +1,109 @@
+DAILY PRODUCTION REPORT
+Repont
+Customer:
+PR-344
+~Supemvisor:
+NORWAY
+Department:
+Peter Schmidt
+Haintenance
+Shift:
+08-01-2024
+C(Night)
+Machine D
+Process
+Operator
+HC-203
+From
+End"
+Time
+Dawid
+08.00
+Spent
+Uwari
+Oszmianczuk
+08.38
+HC-201
+Kowalski
+12.00
+HC-202
+Assembly
+730?
+Fenieszea
+03.30
+Recalibrated
+10.25
+Ziclinska
+MC-203
+Polishing
+Wiktor
+11.30
+11-53
+Kopczynski
+NIA
+MC-202
+Wktor
+08.00
+08.24
+MC-209
+Kopczymski
+Recalitrated
+Assembly
+Bantosz
+14.00
+14.45
+Wawzyniak
+Delay
+MC-205
+Cutting
+Dawid
+10.15
+11:16
+MC-2o3
+Oszmlanczuk
+Welding
+Sauter
+07:15
+09-20
+Itcm ID
+Planned Qty
+Acnleved
+SL-A3OM
+acrar
+236
+Comments
+CN-1S0C
+9390
+Rework
+ceaed
+VF-220D
+5586
+252
+Mc-540X
+212
+15.1530
+0.4710
+Scrap
+DX-7771
+confirmed
+Pw-5157
+243
+4Jo -
+209
+13.9970
+confimed
+Prepared by:
+Approved by:
+Peter Schmiat
+Anne
+Nowak
+Ne :
+Doto-
+Time
+Cutung
+Cutung
+Delo/
+Driluna
+Nad z
+Scrap
+Scrap

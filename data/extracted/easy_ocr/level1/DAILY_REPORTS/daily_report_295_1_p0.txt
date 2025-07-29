@@ -1,0 +1,108 @@
+Report No
+PR-314
+Custoner:
+BRAZIL
+Sypervisor:
+Kowalski
+Department:
+Machining
+02-2025
+Shift
+(Nigt)
+Machine ID
+Operation
+Worker
+From
+End Time
+Total
+Comments
+duration
+MC-204
+Welding
+Mateusz
+13.00
+13.59
+Recalibrated
+Jarza
+MC-206
+Assembly
+Agnieszka
+13.15
+13.45
+Delay
+Zielinska
+MC-201
+Welding
+Agnieszka
+09.30
+11.12
+102
+Recalibrated
+Zieliiska
+MC-205
+Drilling
+Mateusz
+12.30
+13.32
+Jarza
+MC-208
+Polishing
+Przernyslaw
+13.15
+15.02
+Wasik
+MC-201
+Drilling
+Agnioszka
+08.00
+09.47
+107
+NIA
+Zieliska
+Part ID
+Planned
+Produced Qty
+Defect Qty
+Scrap %
+Remarks
+Output
+PW-s15Y
+237
+208
+12.24%6
+confirmed
+QP-660F
+257
+220
+14.40%0
+Scrap
+confirmed
+RX-310Z
+298
+273
+39%
+Rework
+needed
+GL-9805
+149
+133
+10.74%0
+conimed
+XD-71OR
+148
+144
+2.705
+Scrap
+confirmed
+TL-9OOX
+173
+12.72%
+Rework
+Prepared
+Carlos Garcia
+Approved PX
+Peter Schmidt
+Date
+Scrap
+Scrap
+needed

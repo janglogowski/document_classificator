@@ -1,0 +1,96 @@
+Inspection performed by Carlos Garcia on 2023-12-26.
+Product Ref
+Part Name
+XK-610U
+Hex Bolts
+Measurement
+Target
+Observed
+Delta
+Status
+Thickness
+78,52
+78.61
+(VIXI
+M1z
++0.09
+GH-770]
+Graphite
+Wanet
+5-36
+Diametet
++0.13
+BZ-660F
+Plastic Rlvets
+width
+TR-ZODB
+46.92
+40.76
+Battery Pack
+oncm
+88.13
+88.04
+0,09
+Diamete
+Power Switch
+Depth
+30 24
+XK-610U
+Shaft
+80,16
+tnckness
+4673
+CE-9O5L
+Steel
+Depth
+37.71
+37.60
+58-140D
+MX-4S0L
+Depth
+Depth
+37,66
+37.50
+6Omm
+0.16
+NU-4402
+Wooden
+Depth
+76,54
+Pallet
+76,55
+Tu0i
+Lk-8908
+Hex Bolts
+Width
+19,42
+19.34
+0.08
+KV-Jgok
+inner
+81,51
+81.33
+0.18
+Diameter
+VR-940T
+Shaft
+TR-?OOB
+Depth
+36.38
+36.40
+Powr
+Switch
+inncr
++0.02
+68.37
+68,25
+Diameter
+-0.12
+Pad
+3504
+soomm
+shcet
+Hinke
+0-Ring F
+Klnge
+somm

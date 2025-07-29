@@ -1,0 +1,133 @@
+DAILY PRODUCTION REPORT
+Repont No
+PR-568
+Customer;
+BRAZIL
+bupenvior_
+schmuE
+Department:
+Maintenange
+Shift:
+AMorning
+18-01-2025
+The following data captures production targets, actual output; and any deviations The
+culpul
+r@gister captures
+productian events for
+the day- This dashboard section highlights any production bottlenecks-
+Machine
+Task
+Worker
+Begin
+End Time
+Total
+Uwagi
+Temp
+Powcr
+Time
+Draw
+MC-209
+Welding
+Piotr
+13.00
+14.33
+60.8
+2.56
+Levandowski
+MC-207
+Polishing
+Knna Nowak
+10.15
+11,29
+66.8
+1.48
+MC-209
+Weldirg
+Wawid
+07.00
+07,36
+Recalibrated
+79.6
+2.96
+szmianczuk
+MC-207
+Polishing
+Przemyslaw
+11.30
+13.16
+106
+Kecalbratec
+1.49
+Wasik
+Mc-208
+Welding
+Anna
+Nowak
+14.15
+15332
+Delay
+1.12
+MC 205
+Polishing
+Plotr
+12,15
+13.42
+Delay
+2.14
+Lewandowski
+MC 201
+Drilling
+Plotr
+08,30
+10-00
+Recallbrated
+62.8
+2,43
+Lewandowski
+MC-204
+Assembix
+Piotr
+10.15
+12,06
+Delay
+79.0
+200
+lewandotsei
+MC-204
+Welding
+Agnieszka
+06.30
+07,39
+67.6
+2.46
+Ziclirska
+Mc-205
+Drilling
+Dawid
+07.15
+07.51
+78,8
+2.84
+Oszmianczuk
+MC-203
+Assembly
+Dawid
+11.30
+12.17
+63.5
+1.48
+Oszmiaiczuk
+MC-201
+Assembly
+Jan Kowalski
+10.15
+12.02
+Recalibrated
+60,1
+1.76
+Prepared by:
+Ljurd Rosse
+Approved by:
+KowJisk
+Peter
+Hine

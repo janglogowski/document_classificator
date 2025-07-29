@@ -1,0 +1,79 @@
+Unit Configuration
+Confin that Performance Tanges complywath project requirementsUse this spec sheet to valdate assembly
+Instncnons
+All data entries are traceable to design revision history Use this sheet to confirm engineering
+requrements and tolerances This secticn detals the conf guration and parameter set for the produc_The following
+Inforiatlon outlines performanze charzcteristics ad deslgn data.Entfies Include botn mechanica! and electrical
+spedtcations
+Proouct ID:
+VR-940T
+Document Noa:
+PR-115
+Preparec DY:
+Schmiat
+Approved DV: Carlos Garcia
+Date: 2023-11-08
+Model Type
+Jtonlig
+Power Uot
+Rated Pvessure
+210 Dar
+Row Rate
+20 Lnin
+Operating Voltage
+CBV
+60 Hz
+Totz
+Weight
+2301
+Framz Material
+Powcer-coated Steel
+Uotkine
+Hemo
+Range
+sciojSC
+Fitranion
+Suminine iQum teturn
+oiwee
+HLP 32
+Flag any
+missing parameters for urgent speofization updates
+Dooument control rumbers are incluced f0T
+[razeabllity Materiai choices and process datz
+NJC
+been verfieo for compliance- Confirm that allltest conditions are
+accurately rcpreserted  Data :hect has been peer-revieredby tre engiceering team Ensure glossany tcrnts match
+the enginzering nomenclature_ Checkthar a lsection neacers followtne product template
+Aaterial of Ccnstruzton:
+Subcomponert
+Ral44e
+Conneco
+Glas--Filled Aylon
+Batter  Pack
+Jtumticn Lei
+Pack
+Gasker Sneet A4
+Aatnle Rubder
+Acri
+Graphite Pad
+Grapnite
+NBR 60Mm
+Mittile Rubber (MBRI
+Powver Slyilch
+Polcmocte
+Copper
+Pressure Valve
+Biass C121
+Rubole
+Gaaoeitt
+Ralad
+MnbR)
+Dlettal Displar Untt
+ABS Plastic
+Insutatea Tube 2mnm
+Tnermoplastic Poiqurethane (IPUJ
+Heat Sink ALV
+Lroniunt
+6051-T6
+Petet
+-Rin}

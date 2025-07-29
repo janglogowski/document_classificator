@@ -1,0 +1,54 @@
+BILL OF MATERIAL
+Customer ID: TURKEY
+Coordinator: Carlos Garcia
+Date; 2023-04-27
+Product ID: ZR 205R
+Internal No.: 2612457
+Order Qty: 400
+All entries reflect the latest inventory and supplier rates
+Please review the itemized list of parts and
+material specifications before procurement: Refer to this parts register to plan raw-material
+purchasing: This extract shows the bill of components and total projected spend
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Control
+2.06
+290
+12.00
+36.00
+ROHS
+Panel
+compliant
+Mount
+Copper
+1.63
+109
+0.60
+High
+Wire 3mm
+grade
+Gasket
+0.6
+090
+pcs
+1.25
+57.50
+Sheet A4
+Battery
+2.73
+290
+pcs
+25.00
+125.00
+Pack
+Total Amount:
+226.30
+Approved By:
+Sourcing Department:

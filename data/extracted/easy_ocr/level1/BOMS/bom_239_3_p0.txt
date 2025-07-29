@@ -1,0 +1,89 @@
+COMPONENT BREAKDOWN
+Below is the component listing and associated costs for the upcoming production batch
+All entries reflect
+the latest inventory and supplier rates: Review the materials tally for compliance with budget allowances.
+This document provides
+detailed breakdown of all components required for the assembly process. This
+section outlines the parts; unit prices and total amounts for assembly: This summary lists
+item
+required, with per-unit pricing details
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+1.10
+58.30
+Certified
+Cover
+batch
+150x150
+Battery
+25.00
+900.00
+Pack
+compliant_
+Shaft
+328.00
+Urgent
+S0Omm
+Cable Tie
+0,95
+8.55
+Certified
+Pack (100)
+batch
+Wooden
+15.00
+75.00
+Pallet
+Packaging
+1.00
+22.00
+Eco
+Box
+compliant
+Terminal
+3.40
+136.00
+ISO-verified
+Block 4P
+Spring
+0.05
+0.35
+Washer
+M1O
+Power
+1,20
+16.80
+Hinge
+Switch
+alignment
+adjusted
+Battery
+25.00
+900.00
+Hinge
+Pack
+alignment
+adjusted
+Clamp
+1.75
+78.75
+120mm
+AIl sourcing notes have been logged for audit purposes This final review confirms that all items are ready
+for requisition_
+Customer ID: POLAND
+Coordinator: Carlos Garcia
+Date: 2023-12-17
+Product ID: VR-940T
+Internal No.
+6861187
+Order Qty: 232
+Total Amount:
+2,523.75
+evcni
+Ring

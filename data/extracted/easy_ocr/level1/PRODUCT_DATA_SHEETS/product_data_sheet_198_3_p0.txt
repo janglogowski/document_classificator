@@ -1,0 +1,26 @@
+Component Overview
+Document No: PR-921
+Product ID: Pw-515Y
+Date: 2024-10-15
+Model Type
+Cooling Circulation
+Design Pressure
+250 bar
+System
+Flow Rate
+30 Lmin
+Supply Voltage
+JOQV LS0Hz
+Batter Capacity
+Oil Type
+HLP 32
+Resenoin
+Capacity
+120 L
+Motor Power
+Working
+Scto 45'c
+Prepared by: Laura Rossi
+Approved by: Peter Schmidt
+Temp
+Rangg

@@ -1,0 +1,92 @@
+This data sheet pravides
+specifications and
+materiz
+details. Below are the technical parameters and construction
+materials forthe unit Entries include both mechanical and electrical specitications Use this sheet
+confirm
+engineering requirements
+dnd tolcrances
+Check that all material specs align with supplier certifications Please
+review the specifications
+and materia
+compasition listed belaw: The parameter register below includes operating
+limits and ratings
+ProductId
+NE-2454
+Report
+3304801
+Prepared bv: Peter Schmint
+Approved Dy: Jan Kowalski
+Date: 2024-08-18
+Type
+Pneumatic
+Contral Unit
+Design Pressure
+210 par
+Fluid Flow
+60 L{min
+Operating Voltage
+480
+G0 Hz
+Reservoir
+capacity
+120
+Working Temp
+Range
+to 558C
+Filtration
+10 um retum; 25 um
+Protection Class
+IP6?
+suction
+Oil Type
+HLP 32
+any Missing
+parameters for urgent specilication updates_
+All specifications meet the design requirements and
+industry standards, Reter to parameter table
+operating ranges and tolerances
+Archive this summary tor future
+design:
+management: AIl summary
+commente
+have been recorded in the revision log Ensure that the listed
+materials are approved for the applicatian. This summary reflects the latest revision of the product data.
+Material -
+Construction:
+suncomnonent
+Base
+Nut M6
+Steel
+Capacito
+4S0
+Aluminum 6061-T6
+Pressur
+Vake
+Brass CZ12I
+Hex Bolts M12
+Zinc-
+lated Steel
+Battery Pack
+Lithium-Ion Cell Pack
+LED Light Strp
+Glass-Filled Nulon
+Cable Tie Pack (1001
+Nitrile Rubber INBR)
+Cooling Gel Pack
+Silicone Rubber
+Steel Sheet 436
+Carban Steel 436
+Support Foot Stee
+Stainless Stee
+Ring NBR GOmm
+Nitrile Rubber INBRL
+Therma
+Fus e
+Ceramic Oxide
+No;
+Modt
+Flaz =
+cnang
+Zinc
+Plated

@@ -1,0 +1,70 @@
+Unit Data Specification
+This section details the configuration and paramete
+set for the
+product
+This report extract
+prepared for design
+verification audits. This technica
+ovciic
+supports the product-release checklist Ensure all referenced standards are
+up to date Use this spec sheet ta validate assembly instructians Check that
+material specs
+Ilign with
+certifications_
+praductId
+AZ-300T
+Report
+PR-145
+Preparec
+bv; Peter Schmiat
+Approved by: Anna
+Nowak
+Date; 2024-06-15
+Unit Type
+Cooling Circulation
+Design Pressure
+180 bar
+System
+Throughput
+48 L{min
+Operating Voltage
+480V / 60Hz
+Working Temp
+Range
+10"Cto 55"C
+Charging Tme
+Filtration
+1Q um return
+Dimensions (LxWxH)
+1200 * 7OOX 1100mm
+Oil Type
+HLP 68
+Confirm that all test conditions are accurately represented
+All specifications meet the design requirements
+industnstandands
+Archive this summary for future design-change management_
+AlI summary comments have been
+recordeo
+the revision log: Flag any missing parameters
+urgent specification updates
+Material ot Construction:
+Part
+Jase
+Tellon Tape Roll
+Teflon Tape Roll
+PICssurc
+Vaive
+Sra52
+LLIZL
+Cable Tie Pack (100j
+Nitrile Rubber INBR
+Grapnite
+Graphite Pad
+NBR 60mm
+Nitrile Rubber INBR)
+Support Foot Steel
+Stainless Steel 304
+supplier
+No :
+inline
+~Ring

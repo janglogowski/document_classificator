@@ -1,0 +1,68 @@
+Component Overview
+Project;
+MX-450L
+Document No;:
+6257230
+Prepared
+Anna Nowak
+Approved Byi
+Location; Plant 1C
+Date: 2024-12-12
+Unit Type
+Pneumatic Control Unit
+Operating Pressure
+180 ba
+Flow Rate
+48 Lmin
+Supply
+480 5
+60 Hz
+Mounting_
+Rack frame
+Frame Material
+Powdercojicd Steci
+Cooling
+Air-cooled oil radiator
+Service Intenva
+12 months
+Working
+JO Ct0 50"(
+Motor Power
+55
+Battery Capacity
+Noise Leve
+70 EBIAL
+Tota
+Weight
+230
+Filtration
+1Qum
+Terunn
+Protection Ciass
+ip54
+Resenoir
+Capacity
+120 [
+Charging Time
+Dimensions
+LXWxH)
+1200 * 700 * 1100 mM
+Material of Construction:
+pant
+Compasition
+Teflon Tape Roll
+Teflan Tape Roll
+Canacitor 450v
+Aluminum 6061-T6
+Hinge Set
+Stainless
+304
+Runber
+Gasket &umm
+Nitrile Rubber INBRI
+Kowal
+Voltage
+Teme
+Range
+nllne
+Stec

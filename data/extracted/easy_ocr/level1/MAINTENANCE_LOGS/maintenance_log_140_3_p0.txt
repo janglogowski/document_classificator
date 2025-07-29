@@ -1,0 +1,117 @@
+Authorized bX;
+Peter Schmidt
+Operator:
+Jetcr Scnmidt
+The following entries
+detai prevenve
+cortecve
+maintenance tasks. This section captures equipment stalus
+malntcnancc coservallons
+Thls service surmary supports lhc
+abillty enginccring revlo . Rcler
+Uhe maintenance
+reqistentCt
+detailed service histories
+The equipment Icg
+Deicu
+includes
+fauli codes and corrective notes
+Ensure all
+salat
+checks wrere compleled
+servicing
+Please revie v this log
+TeCen Serace
+dates; lypes, and remarks_
+Section A:
+Unit Code
+MC-268
+MC-281
+KC-216
+MC-4
+MC 238
+Machine
+CNC Milling
+Plasma
+Cumer
+Paint Booth
+Paint Baoth
+Conveyor Belt
+Macnine
+Lypc
+Preventive
+Preventive
+coneciive
+Preventive
+nspeclon
+Operator
+Anna Nowak
+Laura
+Ros;i
+JanKowalski
+Carlos Garcia
+Carios Garcia
+Downtime
+Comments
+Replaced
+Fuse
+Sensor
+Refilled oil (HLP
+Replaced
+Tightened
+OOEF
+racaltbrhlac
+Caolan
+JCs
+Section B:
+Unit Code
+MC-271
+MC-?68
+MC-?81
+MC-?38
+MC-216
+Machine
+Paint Booln
+CNC Milling
+Plasma Culler
+Conveyor Belt
+Paint Baoth
+Muchine
+Tvpe
+Prevenve
+Prevenme
+Corte ctive
+Inspectan
+Preventive
+Operato
+Carot
+Garcia
+ara
+R0s4i
+Jan Kavalski
+Peler Schmidt
+Lavra Rossi
+Downtme
+Comments
+Wdocen pallet
+Replaced iuse
+Charged 0il and
+Senscr
+Wom
+gaskei
+cnucked
+len;
+ruC ulibralua
+[uplaceo
+Refer
+remarks for any follow-Up acions
+reglacemenle
+Overall equipmen: condition
+salisfactory post-
+maintenance
+Uptlme (%)
+Ertor Count
+Nolcs
+93 46%6
+during
+pars

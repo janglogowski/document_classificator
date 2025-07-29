@@ -1,0 +1,55 @@
+Equipment Record Report #3292235
+Date: 2024-09-15
+Unm Codc
+Machinc
+Scnvice Uype
+Technican
+Duration
+Commcnt
+MC-232
+Agemdii
+preventive
+Annz
+Mowar
+Plant 34
+L-on patten
+Ronot
+Dacksennced
+MC-271
+Cuter
+Lotrecuve
+Carlos Garcia
+Plant 1C
+L-ion patten
+Ockeenincrd
+Mc-28
+Aemdhi
+Frevemtive
+cetericimiot
+Plant 28
+Red aceo
+Ropot
+coquni
+MC-246
+Aydrulc Press
+Preventive
+Carlos Garcia
+Plant 28
+Swtch contacts
+Cleaned
+any recuming EsLes for root-cause invesugation Check remaining
+Ilife-cycles
+components from this repor Overall
+equicmentconcidon
+rtistacton post-Maintemacce
+Maintenance tasks have been completed
+per schedule:
+Luprcalion Checked
+Calibration Verfied
+Emenzency
+Stop_
+ered
+Siened off;
+Performed bY:
+Hleb =
+0let

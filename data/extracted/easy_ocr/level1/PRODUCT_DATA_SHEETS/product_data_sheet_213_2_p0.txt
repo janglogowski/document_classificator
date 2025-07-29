@@ -1,0 +1,39 @@
+Unit Configuration
+The parameter register below includes operating limits and
+Confim that perfomance ranges comply
+with project requirements;
+Refer t0 this configuration summary for unit-designation mapping
+Please review
+specifications and material composition listed below. Ensure all referenced standards are up to date_
+Product ID:
+MS-600P
+Report No :
+3437141
+Prepared by: Carlos Garcia
+Approved Dy: Laura Rossi
+Date: 2024-11-17
+Configuration Type
+Pneumatic Control Unit
+Design Pressure
+180 bar
+Throughput
+48 Lmin
+perating
+230 _
+S0Hz
+Noise Level
+68 dB(A)
+Cooling
+Air-cooled oil radiator
+Battery Capacity
+Maleria
+choices and process data have been verified for compliarce: Use this summary`
+cross-check wilh
+BOM and inspection reports
+Document control numbers are included for traceability. Ensure that the listed
+materials
+approved for the application; This summary reflects the latest revision of the product data
+Check that all section headers follow the product template:
+ralings
+Voltage
+are .

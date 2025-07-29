@@ -1,0 +1,80 @@
+BILL OF MATERIAL
+Customer ID: SWEDEN
+Coordinator: Peter Schmidt
+Date:
+2024-08-03
+Product ID: TX-820V
+Interna
+No : 6596225
+Order Qly: 53
+This summary lists every item required
+with per-unit pricing details. This document provides
+detailed breakdown of all components required for the assembly process:
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Shaft
+0.42
+10%
+pCS
+8.00
+264.00
+For
+50Omm
+export
+Ceramic
+2%
+pCS
+2.10
+23.10
+ROHS
+Disc 80mm
+compliant
+Sensor Clip
+2.22
+pCS
+0.95
+3.80
+Switch
+tested
+Ok
+Termina
+0.78
+10%
+pCS
+3.40
+57.80
+High
+Block 4P
+grade
+Gasket
+2.45
+5%
+pCS
+1,.25
+2.50
+ROHS
+Sheel A4
+compliant
+Digital
+1.77
+5*/
+pCS
+15.00
+570.00
+ISO-
+Display Unit
+verified
+Verily that all remark items meet the sourcing department's standards. The cost subtotal supports
+financial forecasting for the next cycle
+Total
+Amount:
+Approved By:
+Sourcing Department:

@@ -1,0 +1,122 @@
+Equipment Record Report
+Performed On: 2024-05-13
+Signed off
+Peter Schmidt
+perc medbv"
+Jan <owalski
+Eniries include wrork orders
+luchnician assignmunts
+Durt chanacs
+Entsure all salely checks
+WetO cmplelud during
+servicing: Use Ihis summary
+orecast parls rcplacumentand rOSOUrce necu:
+Conficm Inal service Intervals Iollow Ine
+Crevenve scnecue
+Use this recorc
+pian upcoming
+Upkee0 anq repairs
+Check 
+downtime events are properly
+categorized and logged
+Section A:
+Machine ID
+Mc/5
+MC ?46
+KC ?01
+MC 216
+MC 223
+MC 267
+Equipment
+Latha
+Laee
+Cutter
+Plasma Cuter
+Packaging
+Paint Booth
+Conveyor Belt
+Lype
+Preventive
+Inspecticn
+Preventvve
+Corective
+Correciive
+Corrective
+Technician
+Laura
+Ross
+Peler Schmidt
+4nna Nowak
+Kowalski
+pPater schmidi
+Jan Koaiski
+Dawntime
+Notes
+Tightened
+Replaced
+Sensor
+Tightened
+Sensor
+Alignment
+Icase tolts
+(5A):
+racalibraled
+loose bolls
+recalibrated
+hinges
+acjysted
+Seclon B;
+Machine
+MC-299
+MC-280
+MC-250
+MC-223
+MC-297
+MC-246
+Equipment
+CNC Mlimo
+CNC Milling
+Lame
+Paini Booln
+Conveyor Bell
+Lasur Culler
+Machig
+Machue
+Type
+Comecwe
+Lcrective
+Prevene
+Comeciive
+Preveniive
+Ccrective
+Technician
+Anna Voval
+Callos Gaicia
+Arna Navak
+Cano
+Garcia
+Carlos Garca
+Carla'
+Gaicia
+Downtime
+Notes
+Wvonn
+gaskel
+RDIssuBS
+Refilled oil
+Refilled oil
+Rionmeni
+Relilled oil
+[Cplucud
+Iouma
+(HLP 461.
+(HLP 46}-
+MmCCS
+(HLP 46).
+aqiuste 0
+Uptlme (%)
+Etor Count
+commicnts
+92.61%
+RBplaced fllet
+nata

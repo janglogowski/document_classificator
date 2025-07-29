@@ -1,0 +1,71 @@
+Product Overview
+Producl D; WD- 1805
+Date: 2024-01-09
+Internal
+PR-829
+Fressuic
+180 bac
+Hydraulic Power Unit
+Design
+Model Type
+480
+60 Hz
+Limr
+Supply_Voltage
+Fluld Flow
+Gear Pump
+HLP 32
+Pump Wpe
+Oil Type
+Control Valve
+Nanua
+Override 3/2
+Skid base with vbration
+Mlountine
+Pads
+Battery Capacity
+5 An
+Moton
+Powier
+Powcer-coated Steel
+Levc
+70 dBial
+Hramme
+Materia
+Noise
+Component Materials Overview:
+Specllication
+Subcomnunent
+Raw Materlal
+45uv
+Ruminum
+6064-16
+UL-listed
+Copacilom
+Stainless Steel 304
+Electricai Brace
+Support Foot Stecl
+KMBR
+IS0 2768
+Gasket Sheet
+Nitrile Rubber
+AluminuM
+6061-16
+ISO 2768
+Heat Sink ALU
+Nitrile Rubber_(NBR)
+IP6? rated
+~Ring NBR SOrnm
+Glass-Fillcd
+RoHS compliant
+Connector
+Carbon Steel A36
+ISO 2768
+Steel Sheet 436
+IP67 rated
+Tredicc
+Pine Wodo
+Wooden Pallet
+Approved by: Jan Kowalski
+Prepared by: Peter Schmidt
+Kvion

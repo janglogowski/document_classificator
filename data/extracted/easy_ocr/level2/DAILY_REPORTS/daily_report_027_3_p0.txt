@@ -1,0 +1,109 @@
+Production
+Report No;: PR-441
+Customer: SWEDEN
+Shift:
+(Morning)
+Date: 28-08-2024
+Machine
+Task
+Technician
+Start Time
+End Time
+Total
+comnments
+Status
+duration
+MC-206
+Polishing
+Nadia Sauter
+14-00
+15-50
+Recalibrated
+Delayed
+MC-203
+Assembly
+Piotr
+13.30
+14-35
+NJA
+Completed
+Lewandowski
+MC-201
+Polishing
+Dawid
+06.30
+08.16
+106
+NYA
+Completed
+Oszmianczuk
+MC-208
+Welding
+Piotr
+07.30
+09.14
+Delayed
+Lewan
+dowski
+MC-204
+Drilling
+Magdalena
+06.15
+07.45
+Delayed
+Witkowska
+MC-206
+Assembly
+Magdalena
+12.30
+13.20
+progress
+Witkowska
+Record any adjustments t0 shift schedules or
+staffing
+here
+Archive this output summary for end-of-day reporting;
+Nore
+Jnv Unscheduleo
+stops
+the downtime register. This closure summary signals readiness for the next production
+Refer [
+remarks for any rework
+quality =
+concarne
+Ensure shift-handover notes include any pending
+Product ID
+Planned
+Achieved Qty
+Scrap Qty
+Rejection -
+Rework
+Output
+count
+KP-320E
+141
+140
+0.7196
+Scrap
+coneneo
+LK-890B
+2.53%
+Scrap
+confiumed
+JD-ZCOW
+10.2896
+MS-GOOP
+10.06"8
+LP-SSSV
+0.00%8
+Scrap
+confirmed
+CN-IS0C
+11.39%6
+Scrap
+contirmed
+Approved DY:_
+Prepared by:
+Log
+Issuesa
+Notes

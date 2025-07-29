@@ -1,0 +1,82 @@
+Inspection Register
+#4766039
+Date: 17.07.2025
+Product ID
+NE-2454
+Customer
+BRAZIL
+Item Description
+Thermal Fuse
+Archive thls list in the quallty-managemnent systein: All checklist ertries are tlmnestarnped (ar traceabillily- Use
+this list to confirm adherence to AQL &nd safety standards. This closure summary indicates compliance with
+inspection criteria: Below are the items
+LC verified during the final productrevicw.
+Inspection Checklist Points
+Sampling
+Classification
+Notcs
+Level
+Compomen
+Criteria
+Carton
+damaged
+markings
+Mirior Issue observed
+incorieci
+Nat assembled as per drawing
+Packaging dces not match
+Level Il
+signed sample
+Package
+not scaled
+Level |
+Minor Issug obseived
+Campletei
+Missing dlstributor Infarrnation
+Mnor ssue Obsenved
+Wood splinter or sharp pointon
+Critical impact
+picuuci
+Wnd@el
+Darcodeorabe
+Levem
+Needs review
+smearineor scratcnes
+Needs review
+Sharp
+Dn Dlastic
+Level III
+Critical impact
+combanents
+Exposednail_
+Sharp pcint
+Level II
+Needs review
+Connector
+notworking
+LAVA
+Minor issue Dhserved
+Loosepants Ins
+ide packaging
+Level
+Needs [avIe
+Wrong product size
+Leva
+Cutical Imduci
+Battery not included
+LevGI
+Mnor ssue Ob senved
+IncorrCci quanity Om
+Level IlI
+Miror Issue observed
+disorimiant
+AQL Level
+Critical
+Major
+Minc
+Default
+Customer
+specific
+Paint
+edees
+lth

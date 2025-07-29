@@ -1,0 +1,69 @@
+BILL OF MATERIAL
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Power
+pCS
+57.60
+Urgent
+Switch
+Control
+12.00
+264.00
+Panel
+Mount
+Wooden
+pCS
+15.00
+525.00
+Li-Ion
+Pallet
+battery
+installed
+Fuse 5A
+12.00
+High grade
+Ventilation
+pcs
+.60
+240.80
+SKF brand
+Grid
+Packaging
+42.00
+grade
+Box
+Control
+12.00
+60.00
+Parel
+Mount
+Shaft
+.00
+72.00
+ISO-verified
+soOmm
+Epoxy
+182.50
+ROHS
+Resin Kit
+compliant
+Verify that all remark items meet the sourcing department'$ standards.
+Customer ID: BRAZIL
+Coordinator: Anna Nowak
+Date: 2024-11-19
+Jroquct
+D: FT-730X
+Internal No_
+2630707
+Order Qty: 263
+Total Amount:
+1,455.90
+High
+pcs
+pCs
+pcs

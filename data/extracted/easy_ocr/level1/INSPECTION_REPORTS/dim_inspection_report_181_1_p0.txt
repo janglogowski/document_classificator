@@ -1,0 +1,151 @@
+Tolerance Check
+Item
+Component
+Dimensions
+Target
+Tolerance
+Actual
+Delta
+ool
+Status
+Cade
+(mm)
+(Good/Bad)
+VF-ZZ0D
+Wooden
+Length
+49.12
+10.20
+48 45
+~0.17
+Measuring
+Tane
+Bearing
+Hale
+99.35
+40.20
+99.52
+10.17
+Laser
+160H
+6202 Z7
+Gcanner
+Shaft
+Height
+10.43
++0,20
+10,47
+40 04
+Measuring
+600P
+s0Omm
+Tape
+TR-ZCOB
+Batter
+Length
+29.67
+40.20
+29.84
+10.17
+Laser
+Pack
+Gcanner
+CN-150C
+Bearing
+Width
+54.77
++0,20
+54,67
+~0.10
+Measuring
+6202 ZZ
+Tape
+AZ-300T
+0-Ring NBR
+Width
+49.04
+40.20
+48.96
+~U-U
+Depth
+60mm
+Gauge
+TX-820v
+Hinge Set
+Thickness
+50.49
++0,20
+50,64
++0.15
+Depth
+Gauge
+NE-2454
+Steel Sheet
+Depth
+8.77
++0.20
+8,84
++0,07
+Lasei
+Scanner
+XK-61QU
+0-Ring NBR
+Hole @
+37.39
++0,20
+37,29
+-0.10
+Measuring
+60mm
+Tape
+DX-777T
+Rubber
+nner
+56.03
+10.20
+56.18
++0.15
+Caliper
+Gasket
+Dlameter
+BOmm
+VF-2Z0D
+Plastic
+Lengtn
+85.99
++0.20
+86.01
++0.02
+Lusei
+RIvEls
+Scanner
+GL 9805
+Wooden
+Height
+41.65
+10.20
+41.81
++0.16
+Laser
+Palle
+Scanner
+KP-3Z0E
+Bearing
+Height
+46.52
+10.20
+46.35
+0.17
+mlcrometer
+6202 ZZ
+AZ JOOT
+0-Ring NBR
+Length
+55.51
+10.20
+55.32
+~0.19
+CMM
+GOmm
+Inspected Units
+V: 14 /X: 0

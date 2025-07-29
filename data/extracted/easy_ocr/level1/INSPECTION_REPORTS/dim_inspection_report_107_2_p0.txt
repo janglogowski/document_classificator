@@ -1,0 +1,78 @@
+Measurement Summary Sheet
+Hechnician
+AaLowak
+Inspection Date
+2025-03-18
+The following dala caplures key dimensions and any devialions identilied
+Entries Include bolh passifall
+markers and deviation magnitudes. The
+inspection register below highlights any out-of-tolerance parts
+Ensure measurement methods align with calibration standards
+All measured values are timestamped for
+audit purposes. Use this examination summary -
+confim component confomity.
+Product Ref
+AZ-300T
+LK-B9OB
+AL-1150
+VF-220D
+TL-9OOX
+KP-320E
+Component
+Steel Sheet
+Battery Pack
+Hex Bolts
+Hex Bolts
+Graphite Pad
+Runber
+A36
+M12
+M12
+Gaskel
+BOmm
+Dlm
+Depth
+Width
+Wmei
+Width
+Hole
+Depth
+Diamete
+Nomina
+26.85
+38-58
+78.20
+37.71
+90.33
+Observed
+26.86
+36-07
+78.38
+90,
+37.81
+90.35
+Delta
++001
+OOC
++0.18
++O07
++0 10
++0.02
+Pass/Fail
+Please address any NOK items before proceeding
+the next production stage
+Archive this inspection
+summary for regulatory documentalion: Flag any components requiring re-machining
+adjustment: Record
+any measurement anomalies for follov-up analysis.
+Instrument Calibration Log:
+nstrumenc
+Serial No_
+Last
+Calibration Date
+CMM
+83440
+2024-09-23
+Mlcromieler
+98944
+2024-12-13

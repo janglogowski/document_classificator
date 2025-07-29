@@ -1,0 +1,69 @@
+Inspection Sheet
+Audit Criteria
+Check
+Severity
+Notes
+Intensity
+Product Requirements
+CR
+MA
+Hold
+Not assomblad as per
+Lovel
+Neads revlew
+drawing
+Incorrecli barcode or label
+Lovel
+Needs revlew
+Missing distributor informalion
+Levei
+Cnlicall impact
+Package
+nol soaled
+Lovel
+Crilical impact
+completoly
+Color mismatch
+Lovol[
+Minor Issue obsorved
+Scrows
+uusu Ul
+missing
+Loval
+Neods roviow
+Rubbor Swlich nol wiking
+Lovel
+Neods roviow
+Missing Iogo or warning label
+Level
+Needs revlew
+Wrong produci
+Lvei
+Needs revlew
+Sharp edges on plaslic
+components
+Missing safety labels
+Lavel
+Neuds ravlaw
+Incorrec
+oriontalion
+box
+LCvci
+Packaging doos not match
+Critical impact
+signed sampie
+Wood spllnter
+sharp point
+Minor Issue observed
+onproducl
+Rubber toxture or glossiness
+Lovel
+Critical Impact
+mismatch
+Relerence Standards:
+Standard
+Edilio
+ISQ 9001
+2020
+IEC 61010
+3rd Ed;

@@ -1,0 +1,122 @@
+Machine Log Summary
+Performed On: 2024-11-26
+Autnorizuo Dy;
+Rossi
+Uperatot;
+JanKow"Biski
+The following
+antres detailoreventn P
+Jno Correcu
+Maintenancetasks
+Please revieva this log for recent service dates
+pes
+and remarks. The equlpment log below includes fault codes and corrective notes
+This log records all maintenance
+activities periormeo cnthe gquipment; Ini; suction capturg ; Bquipmont statu; and any maintenancg Obsenvaticns
+Entrios
+Includework orderr
+technician axenments
+and part changes_
+Section _
+Unit Code
+MC 266
+HC71G
+MC ?12
+MC?77
+NC7A7
+HC247
+Equipment
+CNC Mlling
+Pia smna
+Culler
+CNC
+PackaRing
+Lulc
+Nachine
+Machine
+Machine
+Iype
+Inspucliom
+Inspeclion
+nsucclun
+Preveniivu
+cunectivu
+Inspection
+Operator
+Carlos
+Garcia
+ANACVa
+Peter Schmidt
+Laura Ross
+Peter Schmidi
+Laura Rossi
+Duration
+Note 9
+Wooden
+Nlgnment
+Tightened
+Refilled
+Changed
+Changed oll
+chaczBd
+hinges
+10030 bolts
+(HLP 46}.
+bnd titerg
+and tilterg
+aqlusted
+Sectlon
+Unlt Code
+MC266
+MC212
+MC-287
+MC?
+MC24
+MC216
+Fquinmcnt
+CNC
+Milling
+CNC Milling
+Packaging
+CNC Milling
+Lathe
+Plasma Cutter
+Machlne
+Hacnine
+Machine
+Type
+Pievenive
+Caniective
+COrciive
+Coieciiva
+Pieveniive
+Carieclive
+upcrator
+Curlos Garcia
+Kowalse
+Cano'
+Gurci
+Ann Roivak
+Anna No ak
+Anng
+Nowak
+Duration
+Nate s
+AliGnment ot
+Relllled oll
+Realaced luse
+Swltch
+Waadenpallel
+IHLP 46).
+contacte
+checked
+udusicd,
+cluuned
+Uptime (%o)
+Count
+Comments
+94-514
+Bolt tientened
+Mnlling
+Mullle
+hingae

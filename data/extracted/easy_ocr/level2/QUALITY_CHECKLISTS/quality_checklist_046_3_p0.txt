@@ -1,0 +1,74 @@
+Audit Trail
+Review Points
+Sampling
+Classification
+Notes
+Level
+Product Requirements
+Critical
+Major
+Minor
+OnHold
+Minor Issue
+Calor mismatch
+LevelIII
+observed
+nars
+inside
+Level III
+Critical impact
+packaging
+Missing distributor
+Critical impact
+Intormation
+Missing safety labels
+Critical impact
+Missing logo
+warning
+Level|
+Critical impact
+ade
+edges on plastic
+issue
+Level III
+components
+observed
+Dead
+Iive insectin
+Minor issue
+Level |
+packaging
+onsenved
+Expased nail with sharp
+Level III
+Critical impact
+point
+Wood splinter
+sharp
+Minor issue
+Level III
+point on product
+onsenved
+Instruction manualis
+Level !
+Critical impact
+Missing or
+damaged
+Minor issue
+Connectornot!
+working
+Level II
+ODSCNcd
+Packaging does not match
+Needs revie "
+signed sample
+Reference Standards:
+Standard
+Edition
+RoHs
+2011
+EC 61010
+3rd Ed;
+Loose
+snuto
+Minoi

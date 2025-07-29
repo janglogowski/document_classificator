@@ -1,0 +1,34 @@
+Customer ID: SWEDEN
+Prepared by: Laura Rossi
+Product ID: XK-610U
+Internal No:: 4681692
+The following table summarlzes the materials and quantities needed for the current project; Use this
+schedule of parts t0 align with sourcing and stock levels: Please review the itemized list of parts and
+materiat
+specifications before procurement: This document provides
+detailed breakdown of all
+components
+required for the assembly process: Refer t0 this parts register
+plan
+Hca
+~material
+purchasing, All line-item costs are current as per vendor quotes
+Item Description
+Steel Sheet A36
+Heat Resistant Sleeve
+Fuse SA
+Qty
+684
+846
+454
+UOM
+pcs
+Unit Price
+Amount
+3,420,00
+2,284.20
+136,20
+Remarks
+Swltch tested OK
+ROHS compliant
+TOTAL: 5,840.40

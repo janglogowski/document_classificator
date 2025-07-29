@@ -1,0 +1,131 @@
+Tolerance Check
+Gantus
+Tool
+Tolerancl
+Observcu
+Dilt
+(Good/nd)
+Dlmenslons
+Tarket
+Producl
+Component
+(uum)
+Dopih
+PASS
+40.20
+17,28
++0,07
+0 Ring NBR
+Helkht
+17.21
+Gaure
+~SS5V
+CMM
+PASS
+g0mm
+10,20
+#0,19
+MRe
+Hoxe Set
+Hole
+75.25
+PASS
+24,85
+70 (4
+Micrometer
+160H
+70,89
+10,20
+Pw-51S5Y
+Steel Shcet
+Wlch
+PaSs
+43G
+37,08
+40 U5
+CMM
+87,03
+10,20
+TY- ]506
+Rubbet
+Hole :
+Gasket
+10,49
+PASS
+xunan)
+8Z 37
+10,20
+82,56
+SCanet
+Pw-515Y
+Steci
+Sheet
+Heuht
+PASS
+40,02
+CMM
+43G
+40,92
+10. 20
+901,944
+KV-34ok
+Hcx Bolis
+Thickness
+Pass
+S[
+M1z
+1O,20
+84,58
+40,16
+Innet
+01.74
+Scinnd
+RX JIOZ
+Poviet
+Callpet
+PASS
+Swvitch
+@lumeLI
+58,61
+40,43
+0 Ring NuR
+Heleht
+58,48
+PA55
+TR-200u
+0.16
+Depth
+6Oion
+63.,14
+40,20
+62,98
+Gaure
+aP-6GUF
+Plastic
+Length
+PASS
+0,.19
+Luser
+Rwets
+40,64
++0,20
+AO 45
+Ecannct
+CM-L50C
+Hnge Set
+Kenpth
+PASS
+Meusunne
+40,20
+4812
+#0,12
+Thlcknes
+48 DO
+Wne
+PL 6012
+Snalt
+5 @ etm
+Inspected Units=
+V:11 / X: 0
+75,44
+t0 20

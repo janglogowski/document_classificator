@@ -1,0 +1,72 @@
+Component Dimensional Check
+ecnnician
+An Nowak
+Inspection Date
+2025 01-10
+Revlew recorded tolerances against engineering specilications.
+Use this results surmary t0 trigger any
+corrective actions: The
+following data captures key dimensions and any deviations identified
+The inspection
+register below highlights any out-of-tolerance parts;
+Product Ref
+RX 3102
+CE 905L
+JU-(JuYY
+CN/ (UF
+1R
+Component
+Steel Sheet
+Rubber Gasket
+Hex Bolts M12
+Steel Sheet
+Power Switch
+436
+80mm
+436
+Mcasurement
+Wdth
+Length
+Width
+Width
+Widin
+Nominal
+89.89
+IaBL
+32.62
+Observed
+89,86
+32.46
+78 Oo
+Delta
+03
+-016
+-0.13
+Pass Fall
+PASS
+PASS
+PASS
+Dsc
+ASS
+Inspection notes have been logged for traceability- This assessment reflects the latest metrology results:
+Record any measurement anomalies for follow-Up analysis_
+Ensure status
+updated in the quality
+management system;
+Instrument Calibration Log:
+Instrument
+Serial No:
+Last Calibration Date
+Micrometer
+99209
+2025-05-07
+Caliper
+26789
+2024-10-31
+Caliper
+8458
+2024-08-17
+Caliper
+85667
+2025-02-13
+flags

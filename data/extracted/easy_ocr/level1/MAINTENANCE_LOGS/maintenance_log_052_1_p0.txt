@@ -1,0 +1,88 @@
+Maintenance Checklist Report #6510756
+Date: 2024-05-24
+Unit
+Machine
+Service Type
+Operator
+Downtime
+Comments
+MC-206
+convcvoi
+Belt
+COMCCUivC
+Laula Ross
+Plant 1C
+Jantenco
+pos polts:
+MC-282
+Hydraulic
+Comective
+Jan Kowalski
+Plant 1C
+Wccdem
+Prass
+palel
+checked
+MC 221
+Hydraulic
+Insnectian
+Peter Schmict
+Plant IC
+sensc
+Press
+recalinrated
+MC-245
+piasma Cuter
+Cameclive
+Caros
+Garcia
+Plant 34
+Calibration
+Chec
+MC-244
+Hydraulic
+nspecuan
+Knnz
+Rowak
+Sensc
+Press
+recalibrateo
+MC-285
+Cunveyor Bell
+Prevenuvu
+Laula Ross
+Ruplacec
+coolani
+Ensure thal
+eacn serice
+entr
+the required
+approvals
+Use Ihis closure note
+updale
+mainterance
+KPI tracker;
+Ovura
+uquIPMIUIL
+conducn
+salislaclory
+Vasi-maIGnJNCC
+Conlirm thal all corteclive aclions
+eM
+properly
+clased Jui
+Refer =
+remarks fcr any follo "'-UP
+actions
+pans replacemenis
+No critical faults wiere found during the latest inspeciion
+Lubrication Checked
+Culibralion
+Verlieo
+Emeigenc
+Stop Tested
+Authorized DY:
+Operator:
+Code
+Piani
+Piani

@@ -1,0 +1,109 @@
+Shift Summary
+PR-537
+Report No :
+NORWAY
+Carlos GarciA
+Customer:
+Supervisor:
+Maintenance
+Department:
+06-2024
+Dale
+(Nighth
+Shift:
+Comments
+Start Time
+Finish
+duratlon
+Operation
+Operator
+Machine ID
+NIA
+10.56
+Piotr
+10,00
+MC-201
+Assambly
+Lewandowski
+Delay
+08-15
+09.14
+MC-204
+Drilling
+Magdalena
+NIA
+Witkowska
+08.27
+07-00
+Bar[osz
+MC-201
+Drilling
+Wawrzyniak
+1340
+Wiktom
+Polishing
+MC-zoe
+Konczyriski
+09.00
+09,57
+Jikior
+MC-202
+Assembly
+NIA
+Kopczyrski
+14.58
+Piotr
+MC-204
+Cutting
+Lewandowski
+NiA
+14,00
+14.57
+Nadia Sauter
+Mc-207
+Drllng
+Nadia Sauter
+13.00
+Delay
+MC-209
+Welding
+09.15
+09.54
+Wviktor
+MC-201
+Welding
+NA
+Kopczyniski
+14.21
+RJMosz
+13.30
+MC-202
+Drilling
+Wawmzyniak
+Remarks
+Failune
+Achleved Qty
+Defect Qty
+Scrp
+Product ID
+Target
+10.1150
+confirmed
+169
+PL-601Z
+Rework
+0.00
+202
+202
+6850
+Kv-390k
+TY-3506
+Anna Nowak
+Prepared bY:
+Laura Rossi
+Approved by:
+Total
+14.14
+413,00
+14;12
+nofocd

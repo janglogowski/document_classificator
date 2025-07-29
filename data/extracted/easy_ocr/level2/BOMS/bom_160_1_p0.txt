@@ -1,0 +1,99 @@
+BILL OF MATERIAL
+Customer ID: TURKEY
+Coordinator:_ Jan Kowalski
+Date
+2023
+Product
+D: XK-61OU
+Interna
+9549183
+Order Qty: 267
+Below
+the component listing and associated costs for the upcoming production batch: Ensure
+each component meets the specified quality standards_
+No
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Packaging
+2.85
+10%
+pCS
+1.00
+52.00
+Switch
+Box
+tested
+OK
+Protective
+3.13
+45.00
+Certified
+Sleeve
+batch
+S0mm
+LED Light
+1.02
+10%
+2.50
+27.50
+Certified
+Strip
+batch
+Stainless
+2.67
+pCS
+0.35
+14.35
+Bolt M8
+Grease
+pCS
+26.60
+Imported
+Tube 250ml
+Bearing
+0.98
+pCS
+69.00
+Imported
+6202
+Plastic
+pCS
+1.10
+24.20
+Cover
+150x150
+Grease
+2.82
+pCS
+1.90
+9.50
+For
+Tube 250ml
+export
+Grease
+0.82
+pCS
+1.90
+28.50
+Eco
+Tube 250ml
+compliant
+LED Light
+1.9
+2.50
+115.00
+SKF
+Strip
+brand
+Tota
+Amount:
+411.65
+Approved By:
+Sourcing Department:

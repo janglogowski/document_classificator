@@ -1,0 +1,86 @@
+Project
+SB-I4OD
+IntemalNo
+8279755
+Prepared BL
+Anna Nowak
+ApprovedBx
+Carkos Garcia
+Location: Plant 2B
+Date
+2025-06-14
+Please review the specifications and material composition listed below. The following information utlines
+perfomance characteristics and design data
+Use this spec sheet t0 validate assembly instructions. Entres
+include boin mechanical and elecincal
+specifications. Ensure all referenced standards are UP t0 date. Check
+that =
+material specs align with supplier certifications
+Configuration Type
+Hidraulic Poxer Unit
+Rated Pressure
+180 par
+Flow Rate
+48 Umin
+Supply Voltage
+480VI6OHz
+Protection Class
+IP6Z
+Reservol Capacity
+Frame Materal
+Pouder-coated Steel
+Cooling
+A-cooled Oulacao
+Qil Lxpe
+HLP 46
+Batteny Capacity
+2A
+Filtration
+pM Intine
+10 pm
+Working Temp. Range
+5 C t0 45C
+rewum
+Contro
+Valve
+Directional 43
+Noise Level
+372 dB(AL
+Mounting
+Rack frame
+Motor Power
+5.5kW
+Confimm that all test conditions are accurately represented This closure note indicates the data sheet Is
+ready for release. Document control numbers are included for traceability- Overall configuration
+Kithin
+defined design and safety margins
+Material 0f Construction:
+Iem
+Rau Maena 
+Iemal
+Ceramic Oxide
+Steel Sheet A36
+Carbon Steel A36
+Battery Pack
+Tmhmim
+on Cell Pack
+Winng Loom Im
+PVC (Rigid)
+Support Foot Steel
+Stainless Steel 304
+Fuse 5A
+Ceramic Oxide
+Diatal Display Untt
+ABS Plastic
+Cooling GelPack
+Silicone Rubber
+Teilon
+ape Roll
+Teilon Tape Roll
+Pressure Valve
+Brass CZ12I
+Gasket Sheet A4
+Nitle Rubber (NBRE
+Rubber Gasket BOmm
+Nitle Rubber (NBRI
+Fuse

@@ -1,0 +1,89 @@
+Production
+Kepon No:
+PR-207
+Customer
+TURKEY
+Supervisor:
+Peter Schmidt
+Department:
+Mhintenance
+Dale
+23-06-202
+Shift:
+(Evening)
+Machine ID
+Operation
+Operator
+Start Time
+Duration
+Notes
+(min)
+MC-203
+Drilling
+Dawid
+07:15
+09.01
+Oszmlarczuk
+MC 203
+Drilling
+Agnieszka
+09:15
+10.41
+Recalotateo
+Zieliriska
+MC-206
+Drilling
+Jan Kowalski
+10.30
+11.26
+Delay
+MC 209
+Drilling_
+4nna
+Novak
+10'30
+TJ:
+MC-201
+Welding
+Mateusz
+11:15
+12.33
+Jatzyna
+MC-202
+Polishing
+Przemystaw
+07:00
+08;54
+114
+Delay
+Wasik
+Product ID
+Target Qty
+Produced Qty
+Scrap Qty
+Scrap
+Remarks
+4306
+167-
+Rewanzneeded
+WD-1805
+268
+239
+10.8200
+TY-350G
+275
+259
+5.8256
+Scrap
+contirmed
+VR-940T
+149
+2.0156
+Scrap
+confirmed
+Prepared by:
+Peter Schmidt
+Approved
+Iancowelski
+Log
+by:

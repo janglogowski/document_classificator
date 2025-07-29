@@ -1,0 +1,74 @@
+Product Overview
+Entries include both mechanica
+and
+lectrical specifications. Use this sheet
+confirm engineering requirements and
+roiciances
+Confirm that performance ranges comply with project requirements This section details the configuration
+and parameter set far the product: All data entries are traceable
+design revision history;
+Product ID
+CN-150C
+Document No:
+8489831
+Prepared bv: Laura Rassi
+Approved by: Laura Rossi
+Wate.
+2024-04-26
+Mladei
+Type
+Hudraulic Powe
+Unit
+Operatine
+Pressure
+180 Dar
+Flow Rate
+30 Lltin
+Voltage
+A00
+S0HZ
+Working Temp. Range
+5 C to 45"C
+Filtration
+10 um return, 25 pm
+suctom
+Mator Powcr
+5.5 KW
+Battery Capacity
+Charging Time
+Mounting
+Rack frame
+This summary reflects the latest revision of the product data This closure
+note indicates the data
+rejdy
+reledse
+Dacument control
+numbers are included for traceability. Use this summary
+Cross
+~check with BOM and
+inspection reports Ensure glossary terms match the engineering nomenclature
+All specifications meet the design
+requirements and industry standards:
+Material ot Construction;
+Subcpmpanent
+Lamposition
+Tellon
+Tellan
+Lamnecion ZP
+Giass
+Filled Nylon
+Nut M6
+ZncPlated S7ce
+Wooden
+palet
+Treated Pine
+Therma
+Fus e
+Leramic Oxide
+Heat Sink ALU
+Aluminum
+6061-T6
+shect
+Tap
+Tape
+Wooo

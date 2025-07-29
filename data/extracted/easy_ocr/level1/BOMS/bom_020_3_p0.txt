@@ -1,0 +1,93 @@
+BILL OF MATERIAL
+Use this breakdown to verify sourcing and cost estimates. This document provides
+detailed
+breakdown of all components
+equired for the assembly process_
+The component roster below
+includes Unitcosts ana batch codes
+Ensure each comnponent meets the
+specified quality
+standards. The parts manifest here is designed t0 support procurement workflows. This section
+outlines the parts, unit prices and total amounts for assembly:
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description_
+Fuse 54
+SKF brand
+Plastic
+pCS
+1.10
+47.30
+High grade
+Covel
+150x150
+Hex Bolts
+pcS
+0.25
+1,25
+Certified
+M12
+batch
+Steel Sheet
+5.00
+185.00
+High grade
+A36
+Plastic
+pcs
+1.10
+39.60
+SKF brand
+Cover
+150x150
+Grease
+pCs
+1.90
+41.80
+High grade
+Tube 250ml
+Wooden
+pCs
+15.00
+15.00
+Certified
+Pallet
+batch
+Control
+pCs
+12.00
+336.00
+ISO-verified
+Panel
+Mount
+Bearing
+pCS
+22.50
+6202
+Hex Bolts
+pcS
+0.25
+6.75
+Switch
+M12
+tested OK
+Terminal
+pcs
+3.40
+3.40
+ISO-verified
+Block 4P
+Customer ID: FINLAND
+Coordinator: Carlos Garcia
+Date; 2025-06-19
+ProductID: CN-ISOC
+interna
+9593559
+Order Qty:
+Total Amount:
+698.90
+No;;

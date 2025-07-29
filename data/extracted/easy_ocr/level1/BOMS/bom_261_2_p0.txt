@@ -1,0 +1,64 @@
+Customer ID: FRANCE
+Prepared by: Carlos Garcia
+Product ID: GL-980S
+Internal No:: 1786683
+The parts manifest here
+designed to support procurement workflows.
+Below is the component
+listing
+associated costs for the upcoming production batch Please review the
+itemized list of
+parts and material specifications before procurement_
+The
+following table
+summarizes the materials
+quantities needed for the current project: This document provides a detailed breakdown =
+components required for the assembly process. Review the materials tally for
+of all
+compliance with
+budget allowarices_
+Item
+Set
+Plastic
+Hex Bolts
+Description
+Cover
+M12
+Protective
+Display
+Sleeve
+150x150
+Unit
+somm
+Qty
+958
+998
+505
+254
+UOM
+Unit Price
+1.T0
+0.25
+15.00
+I8u
+Amount
+287.40
+'147.50
+238.70
+249.50
+Remarks
+2.575.00
+457.20
+imported
+For export
+ROHS
+High grade
+Tesied
+compliant
+TOTAL:
+955.30
+Fuse=
+Hinge
+Digital
+pcs
+Switch

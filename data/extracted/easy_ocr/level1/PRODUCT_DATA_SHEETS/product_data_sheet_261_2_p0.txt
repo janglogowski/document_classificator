@@ -1,0 +1,52 @@
+Unit Data Specification
+The parameter register below includes operating limits and
+This technical overview supports the
+product-release checklist: Entries include both mechanical and electrical specifications
+Check that all
+materia
+specs align with supplier certifications. The following information outlines performance
+characteristics and design data
+Below are the technical parameters and construction materials for the unit
+AII dala entries are traceable
+design revision history.
+Product ID;
+MR-160H
+umterna
+No:
+4699424
+Prepared by: Carlos Garcia
+Approved by: Carlos Garcia
+Date: 2025-02-02
+Unit Type
+Hydraulc Power Unit
+Rated Pressure
+210 bar
+Fluid Flow
+60 Lmin
+Operating Voltage
+400 V IS0Hz
+Service Interval
+500
+Noise Level
+68 dBLA
+Frame Matenal
+Stainless Sleel Fraine
+Battery Capacity
+10 Ah
+Charging Time
+Pump Type
+Piston
+specifications meet the
+requirements and industry standards;
+Confirm that all test conditions are
+accurately represented. Material choices and process data have been verified for compliance
+This closure
+note indicates the data sheet
+ready for release. Refer
+paramCicr
+table for
+operating ranges and
+tolerances:
+ratings-
+Pump
+design

@@ -1,0 +1,89 @@
+DAILY PRODUCTION REPORT
+Report No "
+PR-220
+Cusiomier
+BRAZIL
+Supervisor:
+Anna Nowak
+Department:
+Machining
+Date
+19-12-2023
+Shift:
+(Morning
+Machine ID
+Operation
+Operator
+Start Time
+Finish
+Time Spent
+Uwagi
+MC-208
+Welding
+Bartosz
+14.00
+14.50
+Recalibrated
+Wawrziak
+MC-204
+Welding
+Dawd
+10.15
+10,53
+Oszmianczuk
+MC 204
+Polishing
+Nadia Sauter
+12.30
+13.40
+MC-207
+Drilling
+Przemyslaw
+14.30
+15.05
+Recalibrated
+Wasik
+MC-202
+Welding
+Agnieszka
+06.00
+06.23
+Zielinska
+MC-208
+Welding
+Anna Nowak
+07.30
+08.04
+Delay
+Part ID
+Planned
+Achicved Qty
+Scrap Qty
+Failure %
+Commcnts
+Output
+WD-1805
+220
+187
+15.00%
+Rework
+needed
+MR-160H
+7690
+ZR-2OSR
+148
+5.1390
+Rework
+needed
+GH7O
+3580
+XD-710R
+263
+240
+8,75%
+Rework
+needem
+Prepared by:
+Jan Kowalski
+Approved by:
+Laura Rossi

@@ -1,0 +1,90 @@
+Verification Log
+#5286843
+Date: 17.07.2025
+Product ID
+ZR-205R
+Customer ID
+IURKEY
+Item Descrption
+Numinum Brcket
+Confirm that sampling levels comply
+customer
+agreements. Use this list to confirm adherence t0 AQL
+and saiety standards
+This closure summary indicates compliance with inspection criteria_
+Please review
+each checklist point ad mark the sampling results. This checklist captures quality inspection points and
+sampling levels
+Check that inspection steps follow the approved procedure. All checklist entries are
+timestamped for traceability-
+Review Points
+Check
+Classification
+Notes
+Intensity
+Component Crtera
+MA
+Hold
+Insiruction manual
+messing
+damaged
+Connector not working
+Level [
+Rubber texture or glossiness
+Level III
+Critical impact
+mismatch
+Hinges loose
+Level II
+Citicalimpact
+Package
+not sealed
+completely
+Not assembled as per
+Level IllI
+Needs revie "
+crawng
+Color mismatch
+Crtical impact
+Loose parts inside packaging
+Level
+Minor issue obsenved
+Dustdebrs inside packaging_
+Level
+Minor issue obsenved
+Dead or live insect in
+Level IIlI
+Critical impact
+packaging
+Rubber Switch not working
+Needs review
+Missing distbutor
+Level III
+Minor issue observed
+infomation
+Screws boose ormissing
+Level_
+Minorissue obsenved
+Shipping mark is illegible
+Level /
+Minor issue observed
+missing
+Packaging does not match
+Level IlI
+Needs revie #
+signed sample
+AQL Level
+Critica
+Major
+Minor
+Default
+4.0
+Customer specific
+Please ensure supervised sign-off on any non-conforming points. Corrective actions are scheduled for
+identified issues_ Overal
+quality status indicates compliance with defined AQL levels_ Flag any open issues
+in the CAPA tracking system: Use this closure report t0 update Ihe quality KP
+casnboard
+Refer t0 notes for
+any observed defects 0r deviations. This summary supports tne end-of-line quality certification:
+Kh

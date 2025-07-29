@@ -1,0 +1,129 @@
+Machine Log Summary
+Performed On: 2024-10-21
+Authofized Dy:
+Annanowak
+Oneralton
+Patur 5 mmict
+This (0g rocords 0ll maintonance activitios performed
+on tne gquipment
+Entrie; includo wOrk ordcts
+EECnnician assienmcnt
+an pam chances
+The equipment (0n delova inciudes jault codes and comective notes
+Ihefollowing entries derail preventive
+and conoctiv
+mnintenancntask
+This maintenance cxtractis
+rcDarco
+comolianceauditarail
+Please reviow this log for
+recent Rervice dates; types,and remarks
+Section
+Nachinc 0
+MC-278
+MC-275
+MC-229
+MC-Zob
+MC-234
+MC-ZuJ
+Fquinment
+Lathe
+Hydraulic
+Packaging
+Convevo
+Belt
+Hvdraulic
+Convein
+Belt
+Prese
+Pruss
+Service Type
+nspecton
+Corrective
+Corrective
+Corrective
+Corrective
+Corrective
+Operalo
+Lauia Ros&i
+Petar %chmdt
+anos Gaici
+Onna Nawak
+Peier Scnmict
+Lali
+Roasi
+Duratiom
+Comments
+Tightened
+Li-lon battery
+Changed oil
+Switch
+Li-lon battery
+Swiich
+ICosc bolts
+Duck scmiccd.
+cuntact
+Dack scrvic UC.
+contacis
+cleaned
+cleaned
+Section
+Nachlne ID
+MC-266
+MC28S
+MC278
+MC-229
+MC-234
+KCn7 
+Fquinmrnt
+Contvn
+Belt
+Paini Bonih
+Latha
+Packaging
+Hdralulic
+CNC
+Milling
+Piess
+Machue
+Seqvice Type
+Inspuctiar
+inspuctar
+Pievenlivis
+insdccuan
+Pievenvis
+Insnectiam
+Operator
+Laura Rossi
+Laura Rossi
+Knnb Kcivar
+Peter Schmidt
+peter Schmidt
+Laura Rosgi
+Duratlon
+Commonts
+Wondcn malllet
+Callabraltinm
+Switch
+Won den nallet
+cnecreo
+checkOr
+contacts
+cneckeo
+cleaned
+This log summary supports
+asset-management dashboard_
+Record any spa
+pans U9ape toC
+nton
+aoustmen
+Use
+this closure noto
+updatu the maintonancu KPI tracker,
+Confirm thatall correctivu actions wCro properly closed out:
+Uptime (e)
+Etror Couni
+Comments
+95.0004
+lietas
+m:

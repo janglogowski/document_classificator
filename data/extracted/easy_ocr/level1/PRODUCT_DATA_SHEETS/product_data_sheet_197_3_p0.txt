@@ -1,0 +1,49 @@
+Unit Configuration
+Report No: 7750553
+Product ID
+RM-86ON
+Date: 2025-06-01
+Model Lype
+Hydraulc Power Unit
+Operating Pressure
+250 bar
+Fluid Flow
+30 Lmin
+perating Voltage
+480
+60Hz
+Protection Class
+IP54
+Reservoir Capacity
+Battery Capacity
+10 Ah
+Charging Time
+Frame Matenal
+powder-coated
+Steel
+Working Temp
+Range
+10"C to 558
+Component Materials Overview:
+Padt
+Base
+Specitication
+Cable_Tie Pack (100)
+Nitrle Rubber (NBRE
+UL-listed
+Nut M6
+Zinc--
+lated Stee
+IP6Z rated
+Wooden
+Treated Pine Wood
+Anticorrosive
+Capacitor 450V
+Aluminum 6061-T6
+RoHS compliant
+Tetlon Tape Roll
+Teflon Tape Roll
+UL-listed
+Prepared by: Laura Rossi
+Approved by: Anna Nowak
+Pallel

@@ -1,0 +1,74 @@
+Unit Configuration
+Praiect;
+PL-601Z
+merne
+PR-958
+Prepared By:
+Peter Schmiat
+Approved By:
+Peter Schmict
+Locatian: Plant 28
+Date; 2024-11-04
+Entries include both mechanical and electrical specifications. Use this =
+sheet
+Valdat
+assembly instructions:
+This technical overview supports the product-release checklist- The fallowing infarmation outlines performance
+characteristics and design data,
+Model Type
+Cooling Circulation
+Operating Pressure
+180 bar
+Sustem
+Throughput
+60 Llmin
+Operating Voltage
+480
+60 Hz
+Reservoir Capacity
+ype
+Gear Pump
+Dimensions (LxWxHI
+1200
+700 * 1100 mm
+Qil Type
+HLP 68
+Total Weight
+250
+Service Interval
+1000
+Noise Leve
+70 dBIAI
+Protection Class
+P6S
+Frame
+Materia
+Alumnum
+Framk
+Mounting
+WNaM-mnaunted
+Working Temp: Range_
+10 Cto 50*C
+Motor Power
+7SkW
+Cooling
+Kir-cooled Omlrqiator
+Control Valve
+Directional 4/3
+Thls closure note Indlcates the data sheet E
+ready for release: Check that all section headers follow the product
+template: Refer
+parameter table for operating ranges and tolerances
+Ensuge
+Kerm'
+match the engineering
+nomenclature
+Archive this summary for
+design-change management
+Overall configuration
+within defined
+design and safety margins. Document control numbers are Included for traceability-
+KpCC
+Pump
+lossary
+uture

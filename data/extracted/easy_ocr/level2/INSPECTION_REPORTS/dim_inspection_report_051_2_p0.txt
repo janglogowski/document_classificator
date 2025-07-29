@@ -1,0 +1,58 @@
+Dimensional Log
+Wenniun
+Lnr
+Notl
+Inspection Date
+207410-30
+This section deta ls the measured values tolerances,and status fla5s_
+Please revierthe
+inspection results foreach
+component listed below Revew recorded tclerances against engineering specifications Entries include both pass/Fail
+Markers ard Ceviation magnitudes
+Fmn Loda
+Pi5157
+43506
+H-BU
+14-8201
+Cempenent
+SeeSheri436
+Grphite Red
+Hei Belt lZ
+Sn s0nm
+Dim
+Incecemetet
+Hole
+Lenei
+Theceness
+anper
+25.06
+47-72
+97.91
+83.56
+LEDU
+2522
+42.75
+92 03
+831
+2.16
+-0,03
++014
+0.19
+Fass Fai
+This dosure Memo confinms that cimersional checks arz comp ete; Confim that Pass Fates meet tne defned
+acceptance cnteria Flag any components requifing
+~Machining
+aojustment
+Insuument CalbrationLCg:
+initrument
+SerialNo-
+Last Callbration Date
+Laser scanner
+92765
+2025-02-15
+CM
+64053
+2024-03-04
+CMM
+De
+2025-04-07

@@ -1,0 +1,72 @@
+Unit Data Specification
+Report
+5055772
+Product ID: TR-2008
+2024-11-14
+Configuration Type
+Pneumatic Contro
+Design Pressure
+250 bar
+Fluid Flow
+60 Limin
+Supply Voltage
+400
+50Hz
+Battery _
+ipacity
+Mounting
+Wam-mnounted
+Workingtcmp
+Ranec
+10C to 50*C
+Protection
+Nolse Level
+68 dB(
+Filtratian
+inline ,
+Mm returr
+Component Materia
+Overviere:
+Subcompanent
+Campositior
+Specitication
+Capacitor 4S0
+Aluminum
+6061-T6
+IS0 2768
+Gaskel
+Sheet
+Nitue Rubber INBR
+Electrical
+Siee
+Shee
+A36
+Carban
+Steel 436
+Lolerance
+LED Light Strip
+Giass
+Filled Nxlon
+Heat-resistant
+Wiring
+LoamIn
+PVC (Rigid_
+Gass
+colennce
+Support Foot Steel
+Stainless Steel 304
+Heat-resistant
+Bearing 6202
+Stainless Steel
+certitied
+Pressure Valve
+Brass CZ121
+Anticorrosive
+Prepared by: Jan Kowalski
+Approved by: Anna Nowak
+No::
+Date.
+Unit
+Class
+Blade
+Cass

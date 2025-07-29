@@ -1,0 +1,126 @@
+Shift Summary
+Report No_
+PR-341
+Customer: CANADA
+Shift:
+(Morning)
+Date: 18-01-2024
+Machine
+Process
+Technician
+Begin
+Finish
+Duration
+Comments
+Status
+(min
+MC-206
+Polishing
+Wiktor
+12.00
+12*48
+Delay
+Delayed
+Kopczynski
+MC-203
+Assembly
+Piotr
+11:15
+12.13
+Delay
+Delayed
+Lewandowski
+MC-208
+Welding
+Anna Nowak
+14.30
+15.24
+progress
+MC-203
+Assembiy
+Nadla Sauter
+10.15
+11,51
+Recalibrated
+Completed
+MC-203
+Pollishing
+Przemyslaw
+06.0U
+07.27
+Completed
+Wasik
+MC-207
+Cutting
+Anna Nowak
+11.30
+12.42
+Delay
+progress
+MC-201
+Cutting
+Anna Nowak
+13.30
+15.29
+119
+Recalibraled
+progress
+MC-206
+Assembly
+Przemyslaw
+10.30
+11.06
+Completed
+Wasik
+MC-206
+Welding
+Wiktor
+11.00
+12.05
+Kopczyrski
+progress
+MC-203
+Welding
+Piotr
+11.00
+11.32
+Delayed
+Lewandowski
+No critical delays were observed; please address any minor issues noted. All production targets have been
+logged; deviations are highlighted
+Record any adjustments
+shift schedules or staffing here.
+Overall
+production performance met expectations for (he day.
+Product ID
+Planned
+Actual Qty
+Scrap Qty
+Failure %
+Reworked
+Comments
+Output
+Units
+RX-3102
+219
+190
+13.249
+Scrap
+confirmed
+SL-430M
+12.15%0
+Lk-89OB
+195
+9,23%6
+Scrap
+contirmed
+BZ-660F
+277
+252
+9.03%6
+Scrap
+confirmed
+Approved by:
+Prepared by:
+Delay
+above

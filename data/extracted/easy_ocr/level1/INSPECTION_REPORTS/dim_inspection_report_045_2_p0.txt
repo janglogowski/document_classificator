@@ -1,0 +1,71 @@
+inepecici
+Peter Schmidt
+Inspection Dale
+2025-02-25
+Use Ihis examination summary
+confinm component confonity. All measured values are timestamped ior
+audit purposes. Reviev recorded tolerances
+engineering specifications:
+Item Code
+CN-150C
+CN-150C
+PW-5ISY
+PW-5ISY
+AL-115Q
+Component
+Plastic Rivets
+Graphite Pad
+Wooden Pallet
+Steel Sheet
+Battery Pack
+A36
+Mcasurcment
+Wdth
+Height
+Inner diameiem
+Length
+Widin
+Nominal
+4178
+11.92
+29.48
+5425
+56.76
+Actua
+41.81
+11.75
+29.38
+54.11
+Diff
++0,03
+-01z
+-0.10
+014
+Pass/Fail
+PASS
+PASS
+PASS
+PASS
+PASS
+Archive Inis
+inspection summary for regulatory documentation,
+Confim that pass rates meet the defined
+accepiance
+criteria:
+Cross-verify measurement data with CAD nominal values_
+Review failed items against
+the corrective-action register.
+Instrument Calibration Log:
+Instrument
+Seria
+Last Calibration Date
+Microneter
+77389
+2025-03-28
+Microme
+73994
+2025-06-09
+CMM
+25335
+2024-11-16
+agalnst

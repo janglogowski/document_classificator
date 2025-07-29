@@ -1,0 +1,101 @@
+COMPONENT BREAKDOWN
+Customer ID: POLAND
+Coordinator: Peter Schmnidt
+Date; 2025-06-06
+Product ID: GL-9B0S
+InternalNo.
+3709028
+Ordor Qty: 296
+Raviaw the materials tally for compliance with budget allowances: This dlocument provides =
+detallad brenkdown of all components requlred for the assambly procass; Use this braakdownto
+varty
+sourcing and cost estimatos 
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Plastic
+1.92
+290
+pCS
+1.10
+40.70
+Cover
+150*150
+Epoxy Resin
+1.51
+290
+87.60
+Fuso 54
+0.67
+1050
+pCS
+0,30
+10.20
+High
+Frade
+Plastic
+0%6
+pCs
+0,20
+9,00
+For expoit
+Rivets
+sunsom
+Cip
+10%0
+pCS
+2.85
+For oxport
+Sot
+1.15
+1090
+pCS
+120.00
+oxpoit
+Spacer
+0.67
+10%6
+pCs
+0,15
+3,90
+Dmn
+Hex Bolts
+1.97
+09o
+pCS
+0,25
+2.50
+Switch
+M12
+tested OK
+Plastic
+3.31
+1090
+pCS
+0,20
+6,00
+Switch
+Rivets
+tested OK
+Rubber
+3.,05
+290
+pCS
+0,50
+8.50
+ROHS
+Gaskat
+compllant
+BOmm
+This closure summary validatos that all parts are approved for release
+Totnl Amount:
+291.25
+Approved By:
+Sourcing Department:
+Hinge

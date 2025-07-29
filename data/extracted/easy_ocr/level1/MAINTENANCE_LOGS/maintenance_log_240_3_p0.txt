@@ -1,0 +1,142 @@
+Equipment Record Report
+Performed On: 2024-08-24
+Approved bX;
+Jan Kowalski
+senicedby
+Anna Navak
+Dulor
+Uhu Suraman
+scnicc
+Jcuons ald downlIr US
+Jach Macminc
+The lollowing untrnus
+Jelail DIovCmivc
+cofrucuvl
+maintenance lasks. Please
+vicwInis
+log Ior recent servicu ualos, Lypes,
+cmans
+AIl lechnician
+comments are recordec
+Ior Maintenance Trend analysis
+This log records
+maintenance
+aciivities perfcrmed on the
+equipment:
+Section A:
+Machine ID
+Mc/81
+VC ?88
+MC 244
+MC 213
+MC 296
+MC 242
+Machine
+Packaging
+Lase
+Cutter
+Laser Cutter
+CNC Milling
+Laser
+Cute
+Hydraulic
+Machine
+ype
+Inspection
+Preventive
+Inpechon
+Inspection
+Correciive
+Preventive
+Technician
+KCwalski
+Jan Koxaiski
+Laura Rosst
+Cands
+Garcia
+Anna
+owak
+Laura Rossi
+Downtime
+Comments
+Tightened
+Sensor
+Worn gasket
+Alignment
+Noiesues
+Wocden
+Icase kolts
+libraled:
+raplaced.
+hinges
+faund
+pallet
+adjusled
+chccked
+Seclion B;
+Machine
+MC-231
+MC-288
+MC-285
+MC-244
+MC-251
+MC-242
+Machine
+Conveyor Bell
+Laser Culler
+Hydraulc
+Laser Culler
+Paint Booih
+Hycraulic
+Press 
+Press
+Type
+pievenive
+Preventive
+Prevente
+Comeciive
+Prevenive
+Inspecton
+Technician
+Jankovalsk
+Lavna Poss
+Peler Schmidl
+Anna Nowak
+Peler Schidl
+Peler Schmidl
+Downtime
+Comments
+Replacud
+IssuBS
+antened
+Refilled oil
+Sensor
+Refilled oil
+ccolani;
+Iouma
+loose bolls
+(HLP 462
+fcca lbralcu
+(HLP 46).
+Caninn Ihalallcamuci
+Jcans
+MLIU Dryjem
+closed ul
+mnanienance
+duraluns
+are recorded Ior
+perlormance
+metncs Record any spare
+parts usage for inventory adjustment. Ensure next preventive service
+scheduled according
+Flan_ Archive this summary
+the CMMS for future reference
+maintenance tasks have
+Deen completed
+schedule-
+Uptime (%u)
+Error Couint
+Noter
+95 5484
+tightened
+Press

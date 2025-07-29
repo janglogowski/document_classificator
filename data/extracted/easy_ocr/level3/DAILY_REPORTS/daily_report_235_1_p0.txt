@@ -1,0 +1,127 @@
+Production
+Report No;
+PR716
+Customer
+JURKEY
+Supervisor;
+Jan Kowalski
+runeng
+Assembly
+Date:
+05-65-2025
+Shift
+(Morning)
+Machine
+Operation
+Operator
+From
+Duration.
+Uwagi
+MC-205
+Culling
+Wiklor
+12.15
+12.47
+Ok
+Kopczynski_
+MC 205
+Assembly
+Przemysiaw
+09.75
+103
+Wasik
+MC-203
+Assembly
+Mateusz
+12.15
+13.04
+Ok
+Jarzyna
+MC 202
+Orilling
+Przemyslaw
+14:15
+16.11
+116
+Wasik
+Recalibraled
+MC-201
+Assembly
+Dawid
+11-00
+19.55
+Oszmianczuk
+MC*204
+Polishing
+Maleusz
+12.15
+14-07
+112
+Recalibrated
+Jarzyna
+MC-205
+Assembly
+Dawid
+08.00
+08.36
+NIA
+Oszrianczuk
+MC-207
+Culting_
+Jan Kowalski
+06.00
+07.14
+MC-206
+Welding
+Magdalena
+07.15
+Recalibrated
+08.50
+Delay
+Wilkowska
+MC-207
+Drilling
+Nadia Sauter
+14.00
+14.35
+Product ID
+Planned Qty_
+Produced Qty
+Defect Qty
+Scrap
+Uwagi
+PL-6012
+282
+280
+0.7190
+Scrap
+RX-3102
+207
+188
+conimmed
+9.18%
+Rework
+MR-160H
+103
+needed
+AL-T150.
+107
+105
+1.8790
+Rework
+RX-3102
+201
+needed
+48%0
+Rework
+needed
+Prepared byE
+Peter Schmidt
+approved DYE
+Carlos Garcia
+Lod
+Depa
+70.58
+Delay
+Delay
+7740

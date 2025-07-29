@@ -1,0 +1,39 @@
+Component Overview
+Report
+4945331
+Product
+Kv-390K
+2024-09-25
+Model Type
+Pneumatic Contro
+Operating Pressure
+210 bar
+Fluid Flow
+75 Kmin
+Supply
+230 V
+50 Hz
+Cantrolvane
+Proponional 4/2
+Reservoir
+Capacity
+J60
+Tota
+Wclght
+250 kg
+servicc intervai
+500L
+Battery Capacity
+Filtration
+10 um return; 25 pm
+Suchon
+MOise Levli
+70 dBIA)
+Charging Time
+Preparec
+by: Jan Kowalski
+Approved by: Anna Nowak
+No:
+Date;
+Unit
+Voltage

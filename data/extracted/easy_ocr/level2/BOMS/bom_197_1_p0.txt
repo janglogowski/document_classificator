@@ -1,0 +1,109 @@
+BOM
+Customer ID; CANADA
+ID;ON-Z70n
+Coordiator Peter Schmid
+Date: 2024-06-28
+Intemal No : 8737012
+Qly279
+Item
+Description
+Consumption
+Extra
+Qty
+UOM
+Rate
+Rubber
+Remarks
+Gasket
+590
+pcs
+0.50
+20.00
+ISO-
+Heal
+verified
+3.44
+Resistant
+2.70
+Sleeve
+83.70
+Switch
+tested
+1.58
+Ok
+0.60
+23.40
+Switch
+Heat
+tested
+1.95
+Resistant
+2.70
+51.30
+OK
+Slceve
+Fuse 5A
+1,01
+alignment
+290
+PCS
+0.30
+adjusted
+Battery
+3.60
+Certified
+Pack
+090
+PCS
+patch
+25.00
+400.00
+ISO
+Hinge Set
+Copper
+0.67
+10%6
+Pc5
+2.50
+venfied
+0%0
+20.00
+Urgent
+0.60
+23.40
+Packaging
+alignment
+Box
+Pcs
+1.00
+aqusted
+6.00
+SKF
+Epoxy
+Resin Kit
+0%6
+pcs
+7.30
+prand
+240.90
+Li-Ion
+battery
+installed
+Total Amount:
+872.30
+Approved By:
+Sourcing Department:
+Report
+Produci
+Order
+Amount
+2.85
+bomm
+Copper
+Wire
+3mm
+Hinge
+Wire `
+3mm
+Hinge
+0.66

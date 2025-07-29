@@ -1,0 +1,134 @@
+DAILY PRODUCTION REPORT
+Repon No:: PR-357
+Customer: BRAZIL
+Shift: 
+(Evening)
+Date: 24-10-2024
+Equipment
+Task
+Worker
+From
+End"
+Total
+Uwagi
+Condition
+Time
+HC-201
+Welding
+Mateusz
+10.30
+10.59
+NIA
+Delayed
+Jamia
+MC-202
+Cutting
+Wktor
+10.30
+11.34
+Recalibrated
+Completed
+Kopczynski
+MC-205
+Wktor
+06.30
+07.04
+Delayed
+Kopczynski
+MC-205
+Drilling
+Piotr
+09.20
+10.11
+Delay
+Completed
+Lewandovski
+MC-203
+Drilling
+Wiktor
+13.30
+14.55
+progress
+Kopczyrski
+MC-202
+Polishing
+Magdalena
+14.30
+15.59
+Completed
+Wmkov ska
+MC-203
+Assembly
+Dawrid
+09.15
+10.43
+NIA
+Delayed
+Oszmianczuk
+MC-209
+Polishing
+Jankowalak
+07-15
+09.15
+Recalibrated
+Delayed
+MC-201
+Drilling
+Nadia Sauter
+10.00
+11319
+Delay
+piceTESS
+Note any unscheduled stops
+the dowmntime register- Ensure routine
+Maintcnance
+betwveen shifts [0 maintain
+consistentoutpul This closure summary signals readiness for the next productionrun
+Use this summary to
+update the overall production dashboard
+All production
+targets have been logged; deviations are highlighted
+above- Verify the final counts against inventon records
+Part ID
+Planned
+Achieved
+Scrap Qty
+Failure %
+Reworked
+Uwagi
+Output
+Qt
+Units
+NE-2454
+202
+176
+12.8798
+WD-1805
+149
+145
+2-6818
+AZ-300T
+136
+0.0018
+Rewtork
+needed
+AL-1150
+243
+237
+2.4798
+Rework
+needed
+CE-905L
+242
+210
+13.2296
+CN-1S0C
+208
+182
+12.5098
+confinmed
+Approved Dy:
+Prepared by:_
+Tmc
+Cuttina
+Sctep

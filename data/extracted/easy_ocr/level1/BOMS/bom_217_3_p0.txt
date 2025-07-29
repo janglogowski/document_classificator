@@ -1,0 +1,86 @@
+BOM Report
+The following table summarizes the materials and quantities needed for the current project: This
+section outlines the parts, unit prices and total amounts for assembly. All entries reflect the latest
+inventory and supplier rates. Use this schedule of parts t0 align with sourcing and stock levels
+line-item costs are current as per vendor quotes
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Hex Bolts
+pCS
+0.25
+6.25
+SKF brand
+M12
+Plastic
+pcs
+0.20
+1.40
+For export
+Rivets
+Control
+pcs
+12.00
+24.00
+High grade
+Panel
+Mount
+Control
+pCS
+12.00
+180.00
+Eco
+Panel
+compliant
+Mount
+Control
+pCs
+12.00
+420.00
+High grade
+Panel
+Mount
+LED Light
+2.50
+72.50
+Strip
+alignment
+adjusted
+Ventilation
+pCs
+5.60
+67.20
+High grade
+Grid
+Gasket
+pCS
+1.25
+48.75
+ROHS
+Sheet A4
+compliant
+Ventilation
+pcs
+5.60
+140.00
+ISO-
+Grid
+verified
+Please confirm supplier
+ead times to ensure timely delivery of all items.
+Customer ID: TURKEY
+Coordinator: Carlos Garcia
+Date;
+2023-05
+Product ID: MS-6OOP
+Intera
+No : 2425203
+Order Qty: 382
+Total
+Amount:
+960.10
+Hinge

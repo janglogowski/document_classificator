@@ -1,0 +1,26 @@
+Component Overview
+Document No:: PR-388
+Product
+D: TY-350G
+Date: 2025-07-10
+Configuration Type
+Cooling Circulation
+Design Pressure
+300 bar
+System
+Throughput
+30 Umin
+Voltage
+230 V !50 Hz
+Cooling
+Waler-cooled
+Working Temp. Range
+5*C to 45'C
+exchanger
+Mounting
+Wall-mounted
+Pump Type
+Piston Pump
+Charging Time
+Prepared by: Peter Schmidt
+Approved by: Laura Rossi

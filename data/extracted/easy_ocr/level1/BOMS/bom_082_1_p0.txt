@@ -1,0 +1,71 @@
+BOM Report
+Customer ID: TURKEY
+Coordinator: Anna Nowak
+Date: 2025-04-08
+ProductID: JD-700Wv
+Internal No.
+4700954
+Order Qty: 122
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Ceramic
+0.51
+2.10
+25.20
+ISO-
+Disc 8Omm
+verificd
+Protective
+2.23
+1090
+1.80
+72.00
+For export
+Sleeve
+5Omm
+Ceramic
+3.04
+1090
+2.10
+107.10
+Eco
+Disc 8Omm
+compliant
+Steel Sheet
+5.00
+15.00
+High
+A36
+grade
+Hinge Set
+2.50
+82.50
+Gasket
+1.64
+1.25
+26.25
+Sheet A4
+Packaging
+2.51
+296
+pcs
+.00
+31.00
+Imported
+Box
+Cross-verily totals with the ERP systern for corsistency. Ensure this materials summary
+reconciled
+with the purchase order. Verity that all remark items meet the sourcing department'
+standards_
+Review this summary against the master budgeting sheet:
+Total Amount:
+359.05
+Approved By:
+Sourcing Department:

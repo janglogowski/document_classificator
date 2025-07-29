@@ -1,0 +1,49 @@
+Customer ID: FINLAND
+Prepared by: Carlos Garcia
+Product ID: FT-730X
+Interna
+No.: 3901585
+This section outlines the parts, unit prices and total amounts for assembly. Review the materials
+tally for compliance with budget allowances_
+Refer to this parts register to plan raw-material
+purchasing: The parts manifest here is designed to support procurement workflows-
+Item
+Plastic
+Ventilation
+Gasket
+Ventilation
+Digital
+Spring
+Description
+Cover
+Grid
+Sheet A4
+Grid
+Display
+Washer
+150x150
+Unit
+M1O
+Qty
+549
+249
+UOM
+Unit Price
+5.60
+005
+Amount
+392.70
+3,074.40
+311.25
+1,327.20
+11,430.00
+20.55
+Remarks
+Urgent
+SKF brand
+Certified
+Eco
+SKF brand
+batch
+compliant
+TOTAL: 16,556.10

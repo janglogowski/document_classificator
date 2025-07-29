@@ -1,0 +1,65 @@
+Inspection Sheet
+#9580417
+Date: 17.07.2025
+Product ID
+MX AS0L
+Lustomer
+TuRAFY
+Item
+Description
+Bearing 6202 ZZ
+Ensure all non-conforming marks
+cieariv
+documented
+Use this list -
+stanoards
+Aelow
+confirm adhererice
+AQL and safety
+are Lne items
+be verified during the final product review. This surmary
+ease quality gate. This section detalls quality
+supports tHe production-
+requirements and test points for
+the batch  Use this extract to
+coordinate
+sign-off with the QA manager, This closure summary indicates compliance
+with inspection criteria. Confirm
+sampling levels comply with customer agreements; Refer '
+the quallty register for sampling:
+references
+Archive this list
+quality-management system-
+Audit Criteria
+Inspection
+Category
+Observations
+Depth
+Item Specs
+Incorrect barcode
+Jade
+Leve
+Missing distributor information
+Exposed na
+with sharp point
+Leve
+Issu@ onsemed
+Hinges loose
+Minor issue observed
+Meeds evieu
+Missing (ogo
+waming label
+LAVC
+Rubber Switch not working
+Leva
+Isque observed
+AQL Level
+Crltical
+Default
+Customer
+that
+Minot
+Vinor
+Malor
+Min Di
+Specilic

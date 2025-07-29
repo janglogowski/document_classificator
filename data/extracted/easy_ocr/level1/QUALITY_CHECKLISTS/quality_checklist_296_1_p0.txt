@@ -1,0 +1,102 @@
+Quality Checklist
+#3397244
+Date: 17.07.2025
+Product ID
+Kv-3S0K
+Customer ID
+POLAND
+Item Description
+Cable Tie Pack
+Check that inspection steps follow te approved procedure
+Canfirrn trat sampling levels comply with
+customer agreements
+Entries include both visual and functional inspection items. This closure summary
+indicates compliance wit Inspection criteria: Archive tnis list in the quality-management system This section
+detalls quallty requirements and test points for the batch: Use this extract
+coordinate slgr-off with the QA
+manager, Ensure all non-conforming marks are
+cieariy
+documented
+Use this list to confirm adherence -
+AQL
+and safety standards Refer t0 the quallity register for
+sampling-plan references
+Audit Criterla
+Check
+Category
+Notes
+Intensity
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Rubber texture
+Level |
+Needs reviev'
+slossiness mismatch
+Missing loga r warning
+Level III
+Critical impact
+Iabel
+Icanecl baiceug
+label
+Critical impact
+Battory not included
+Minor issue
+Missing safcty labels
+Levcl IlI
+obsenvea
+Hinges
+Todse
+Crlca
+upacl
+Minor issue
+Screws loose or missing
+ODSCNveo
+Ninorissme
+Functionality test failed
+Levcl Il
+ODScncd
+Conncctor not working
+LevelII
+Critical impact
+Paint smearing or
+Level III
+Critical impact
+scratches
+Dust/debris inside
+LevelII
+Critical impact
+packaging
+Incorect Orientatonincoy
+LevelIlI
+Critical impact
+Carton is damaged or
+Level /
+Needs reviev"
+markings incorrect
+Minor issue
+Product doesn't power on
+Level /
+observed
+Loose parts insice
+Criticalimpact
+packaging
+AQL Level
+Critical
+Maioi
+Minor
+Default
+Customer
+specific
+Insnection
+summary
+filed for regulatory compliance Use this closure report to
+quality KPI
+dashboard: This summary supports the end-of-line quality certification. Checklist results have been reported t0
+the quality manager
+Corectie #clont
+scheduled for identilied issues
+All critical and major Inspection
+update

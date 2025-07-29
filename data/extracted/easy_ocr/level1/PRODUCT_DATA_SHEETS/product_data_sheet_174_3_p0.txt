@@ -1,0 +1,63 @@
+Product Data Sheet
+Internal No:: PR-940
+Product ID: Kv-390K
+Date: 2023-08-02
+Contiguration Uype
+Hydraulc Power Unit
+Operating Pressure
+300 bar
+Throughput
+Lmin
+Operating Voltage
+400
+L50Hz
+Cooling
+Water-cooled
+Filtration
+return;
+exchangor
+suction
+Motor Power
+7.5kW
+Pump Type
+Pump
+Mounting
+Wall-mounted
+Total Weight
+250 kg
+Control Valve
+Directional 4/3
+Noise Lovel
+70 dB(A)
+Component Materials Overview: 
+Pant
+Raw Material
+Specification
+Battery Pack
+Lithium-Ion Cell Pack
+Heat-resistant
+Support Foot
+Stcc
+Stainless Steel 304
+ISO 2768
+Graphite
+Graphite Pad
+certified
+Rubber Gasket B0mm
+Nitrle Rubber (NBRE
+rated
+Steel Sheet
+Carbon Steel 436
+Therma
+Fuse
+Ceramic Oxide
+Anticorrosive
+Wooden Pallet_
+Treated Pine Wood
+Anticorrosive
+Prepared by: Anna Nowak
+Approved by: Peter Schmidt
+25 um
+VMi
+Vane
+Pac

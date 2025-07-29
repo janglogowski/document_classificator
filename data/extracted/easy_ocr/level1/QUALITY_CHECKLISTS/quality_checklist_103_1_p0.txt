@@ -1,0 +1,66 @@
+Inspection Summary
+#8819543
+Date: 17.07.2025
+Product ID
+TL 9OOX
+Customer ID
+TURKEY
+Itcm Doscription
+Shaft S0Omm
+The following table outlines inspection criteria and classification levels
+All checklist entries are timestamped
+traccability. Use this extract tO coordinate
+sign-off with the QA manager. Ensure all non-conforing
+marks are clearly documented. This section details
+quality requirements and test points for the batch:
+Archive this list in the quality-management system. This closure summary indicates compliance with
+inspection crileria;
+Inspection Checklist
+Sample
+Classification
+Observations
+Points
+Tier
+Design Specs
+Critical
+Major
+Minor
+OnHold
+Carton
+damaged or
+Level Il
+Critical impact
+markings incorrect
+Product doesn"
+nowver
+Level
+Minor issue observed
+Shipping mark
+illegible
+Level IlI
+prmissing
+Missing logo
+waming
+Minor issue observed
+abel
+Packaging does not
+Level Il
+malch signed sample
+Instruction manual |
+Level IlI
+Needs review
+missing
+damaged
+Rubber texture or
+Level
+Critical impact
+glossiness mismatch
+Missing distributor
+Level 
+information
+AQL Level
+Crtical
+Major
+Minor
+Default
+Customer specific

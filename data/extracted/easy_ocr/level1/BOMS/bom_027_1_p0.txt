@@ -1,0 +1,59 @@
+COMPONENT BREAKDOWN
+Customer ID: GREECE
+Coordinator: Carlos Garcia
+Date; 2025-01-07
+Product ID: MX-AS0L
+Internal No.
+5458749
+Order Qty: 159
+Item
+Consumption
+Extra
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Control
+3.06
+0c6
+12.00
+600.00
+Switch
+Panel
+tested OK
+Mount
+Aluminum
+1,24
+570
+pcs
+4.50
+139.50
+ROHS
+Bracket
+compliant
+Wooden
+1.76
+290
+pcs
+15.00
+75.00
+SKF
+Pallet
+brand
+Stainless
+1.09
+590
+0.35
+16.45
+Switch
+Bolt M8
+tested OK
+Final amounts include
+handling and logistics costs where applicable. This closure summary
+validates that all parts are approved for release_
+Total Amount:
+830.95
+Approved By:
+Sourcing Department:

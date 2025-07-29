@@ -1,0 +1,47 @@
+92
+2 HOLES 010
+35
+35
+2 FORI 010
+SM.
+5x45'
+THICKNESS
+mm
+SPESSORE
+mm
+MATERIAL
+SHEET RUBBER SUITABLE TO SEA WATER
+MATERIALE
+GOMMA TELATA IDONEA PER ACQUA DI MARE
+FIRST
+ISSUE
+AoSSi
+LU-I0-V8
+deschizione /oescription
+COMPILTC
+CONTROLTO
+LPprovfTO
+coumlod
+Chalaim
+aeeeouin
+cliente (Cusiouer
+costruzione/cosiruction
+DescrzichO
+descriptioh
+WAYOL/aBl
+NIb00
+FLAT GASKET
+KBL
+ULIRA "ECA POWER PROJECT
+KoslAr Brolkers Inrled
+MUNDRA
+GUARNIZIONE PIANA
+DSECNOADRAYENG
+TM.P_
+S.p.A _
+SCALA/SCALE
+Termomeccanica Pompe
+1218210025
+Spezia
+Italy
+DJle

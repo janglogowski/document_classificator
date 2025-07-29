@@ -1,0 +1,64 @@
+Quality Verification
+#5219537
+Date: 17.07.2025
+Product ID
+SB-140D
+Customer ID
+GREECE
+Item Description
+Plastic Cover 150x150
+Confirm that sampling levels comply with customer agreements
+Please reviev' each checklist
+and
+mark Ihe sampling resulls. This checklist caplures qualily inspeclion points and sampling levels: Use this
+extract t0 coordinate sign-off with the QA manager. Entries include both visual and functional inspection
+items; This section details quality requirements and test points for Ihe batch: This summary supports the
+production-release quallty
+Below are the items t0 be verifiled during the final product review. The
+following table outlines inspection criteria and classification levels
+to the quality register for sampling -
+plan reterences
+Audit Criteria
+Sample
+Classification
+Observations
+Design Specs
+Crltical
+Major
+Minor
+OnHold
+Missing sately labels
+Level |
+Shipping mark IS
+illegible
+Level l
+Needs review
+Or missing
+Connector not working
+Minor issue observed
+Visual defect on housing
+Level II
+Minor issue observed
+Not assembled as per
+Level II
+Needs review
+drawing
+Color mismatch
+Hinges loose
+Level /
+Critical impact
+AQL Level
+Crilical
+Major
+Mino
+Default
+Customer specifc
+This final note confims the checklist is complete and approved. Refer t0 notes for any observed defects Or
+deviations. Items marked for hold require additional review before release: Inspection summary
+filed for
+regulatory compliance
+Please ensure supervised sign-off on any non-conforming points
+point
+gate;
+Refer
+Tler

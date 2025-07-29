@@ -1,0 +1,123 @@
+Report
+PR-526
+Custamer:
+BRAZIL
+Supervisor:
+Jan Kowalski
+Department:
+Assembly
+Shift:
+(Morning)
+26-07-2023
+This section details the keymetrics and activities
+ecorded
+during the shift. The line-output register captures all
+production events for the day. The following data captures production targets, actual output
+and any
+duvintont
+Use this shilt summary
+drive cantinuous
+improvement actions
+Machine
+Task
+Technician
+From
+Total
+Uwagi
+Temperature
+Energy
+Time
+(kWh)
+MC-209
+Assembly
+Przemysiav
+14.30
+14.54
+Delay
+78.2
+Wasik
+MC-208
+Drilling
+Nowak
+13.30
+15,23
+113
+Recalibrated
+146
+MC-209
+Drilling
+Magdalena
+14.30
+14.59
+62.1
+2.04
+Witkawska
+MC-202
+Welding
+Mateusz
+06.30
+07:04
+Delay
+68.5
+Jaryna
+MC-203
+Polishing
+Przemystav
+07;15
+08,36
+73
+Wasik
+MC-206
+Drilling
+nna
+Nowak
+07:00
+08.54
+MC-202
+Polishing
+Jan Kawalski
+14.00
+15.22
+Recallbrated
+MC-203
+Drilling
+Barosz
+14.00
+14.20
+Wawrzyniak
+MC-206
+Cutting
+Amna
+Nowak
+13.00
+13.26
+MC-209
+Drilling
+Bartosz
+09.30
+110.06
+68.3
+Wawizyniak
+MC-208
+Wolding
+Dawid
+10:15
+11.53
+78.2
+2.40
+Oszmianczuk
+MC-20B
+Welding
+Rawalski
+11415
+13:11
+N/A
+53 9
+2.00
+Prepared by:
+Jan Kowalski
+Approved by:
+Peter Schmidt
+No;:
+Time
+Anna

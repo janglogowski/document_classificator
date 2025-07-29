@@ -1,0 +1,67 @@
+Unit Data Specification
+Praiect:
+MU-440L
+Report
+Ud `
+1987031
+Prepared Bv:
+Peter Schmict
+Approved By:
+Lnnakowak
+Location; Plant IC
+2023-10-22
+This section detalls the configuration and
+parameter set for the product: Thls technical
+Ovemie
+supports the
+praduct-release checklist: All data entries are traceable
+design revision history- Confirm that perfarmance ranges
+comply with project requirements This data sheet provides key specifications and material details,
+Model Iype
+Hudrjumc
+Powe
+Operating Pressure
+250 bar
+Throughput
+75 L/min
+Voltage
+230 :
+50 Hz
+Control Valve
+Propantiona
+Noise Level
+70 dBIA)
+Oil Type
+HLP 46
+Battery Capacity
+2 An
+Frame Material
+Seainiese
+Dimensions (LxWxH)
+1200 x 7OU X 1100 mL
+Cooling
+Water cooled exchanger
+Mounting
+Rack frame
+Total Welght
+180
+scruice nteruai
+1000 B
+Charging Time
+Iype
+Vane Pump
+Filtration
+inline, 10 um return
+Motor Power
+Working Temp:
+-10"Cto 50'C
+Reservoir
+Capacity
+Protectiom
+Clas5
+IPGZ
+Date
+Stee
+Frame
+Pump
+Range

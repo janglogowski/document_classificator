@@ -1,0 +1,83 @@
+BOM Repont
+AIl line-item costs are current as per vendor quotes: Refer to this parts register to plan raw-material
+purchasing: This extract shows the bill of components and total projected spend_
+The following table
+summarizes the materials and quantities needed for the current project: Please review the iternized
+list of parts and material specifications before procuremert: All entries reflect the latest inventory
+and supplier rates_
+Itemn
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Packaging
+pcs
+39-00
+For export
+Box E
+Fuse 54
+pcs
+0.30
+Hinge
+alignment
+adjusted
+Power
+pcs
+46.80
+Urgent
+Switch
+Hex Bolts
+pcs
+0.25
+7.50
+Li-lon
+M12
+battery
+installed
+Epoxy
+pcs
+7.30
+306.60
+Switch
+Resin Kit
+tested OK
+Set
+pCS
+2.50
+117.50
+Certified
+batch
+Grease
+pCs
+490
+89.30
+Switch
+250ml
+tasted OK
+Protective
+.80
+81.00
+Urgent
+Sleeve
+s0mm
+Rubber
+pcs
+0.50
+13.50
+Urgent
+Gasket
+Hctamn
+Customer ID: FRANCE
+Coordinator; Laura Rossi
+Date: 2024-03-16
+product
+ID: ZR-2OSR
+Internal No.
+1593768
+Order Qty: 449
+Total Amount:
+705.40
+Hinge
+Tubo

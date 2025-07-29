@@ -1,0 +1,89 @@
+Quality Inspection List
+Refer 
+the quality register for samplinE-plan references: This summary supports the production-release
+quality gata. Conflrmi that sampllng levels comply with customar agreenents. Check that Iaspection steps
+follov the approved procedure. All checklist entries are timestamped for treceability. Ensure allnon-
+conforming marks are clearly documented. Use this extractto coordinate sign-off ith the QA manager.
+Product ID
+TY-3SOG
+Customer ID
+POLAND
+lem
+Description
+Lopacicr
+450V
+Inspection Checklist Points
+Inspection
+Category
+Unsenariong
+Depth
+Product Requirements_
+Dustldebris inside
+ckaging
+Levei
+Functlona
+tesheled
+Leve
+Kat
+Dbsened
+Missing distributor Information
+LOVCL
+Critical Impact
+Paint smcaring
+GCratcncs
+Lcvci
+Nincr issue
+Doscned
+Color mismatch
+LovCi
+Issue observed
+Kncorrect
+quantity
+Level III
+ASGOFTMI
+Visual defect on housing
+LCVC
+Critical impact
+Battery not included
+LEVA
+Minor issue observed
+Incorrec
+oetcoop
+Ladei
+Package is not sealed
+completely
+Inf 3amety
+Iahels
+Critical impact
+Uncottecl Orientaton
+box
+Lavpi
+Packaging Joe:
+noimatcn
+Lavelil
+Naeds rcview
+saiale
+Insi UCIIOn manval
+mssing
+Level iI
+Needsreviev'
+damaged
+Missing ogc
+mamine
+Label
+Luvai
+Critical impact
+Carton
+damaged
+rarkings
+LevelI
+Critical impact
+Incortel
+Not assembled as per drawing
+LcV
+Supervised by:
+Dete:
+Minat
+nlnol
+Niss)
+ened

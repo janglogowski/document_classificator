@@ -1,0 +1,79 @@
+BOM Report
+The component roster below includes unit costs and batch codes: This section outlines the parts_
+unit prices and total amounts for assembly. This extract shows the bill of components and total
+projected spend_
+Ensure each component meets the specified quality standards.
+Item
+Qty
+UOM
+Rate
+Amount
+Remarks
+Description
+Epoxy
+7.30
+313.90
+ISO-verified
+Resin Kit
+Hex Bolts
+0.25
+3.75
+Urgent
+M12
+LED Light
+122.50
+Epoxy
+146.00
+Imported
+Resin Kit
+Spacer
+0.15
+5.85
+ISO-verified
+Zmn
+Spacer
+pCs
+0.15
+Eco
+compliant
+Heat
+2.70
+121.50
+Imported
+Resistant
+Sleeve
+Spring
+pCs
+SO-verified
+Washer
+M1o
+Plastic
+pCS
+0.20
+7.80
+Urgent
+Rivets
+Power
+pCS
+28.80
+Li-Ion
+Switch
+battery
+installed
+Aluminum
+pCS
+103.50
+For export
+Bracket
+Customer ID: POLAND
+Coordinator: Anna Nowak
+Date: 2023-06-16
+Product ID: TR-2OOB
+Internal No_
+5427696
+Order Qty: =
+Total Amount:
+858.25
+Strip
+pcs
+2mm

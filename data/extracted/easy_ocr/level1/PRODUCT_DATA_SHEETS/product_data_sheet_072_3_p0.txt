@@ -1,0 +1,64 @@
+Unit Data Specification
+Document No.
+9520566
+Product ID: TX-B20V
+Date: 2023-07-19
+Model Type
+Cooling Circulation
+Operating Pressure
+250 bar
+System
+Flow Rate
+75 Umin
+Operating Voltage
+230 V / 50 Hz
+Motor Power
+5kW
+Protection Class
+IP65
+Total Weight
+180 kg
+Dimensions (LxWxH)
+1000
+650 x 1000 mm
+Service Interval
+12 months
+Cooling
+Water-cooled
+exchanger
+Reservoir Capacity
+Control Valve
+Directional 43
+Component Materials Overview;
+Pant
+Raw Maleria
+Specilicalion
+Cable Tie Pack (100)
+Niule Rubber (NBR)
+Heat-resistant
+Cooling
+eipac 
+Silicone Rubber
+Anticorrosive
+Battery Pack
+Lithiun-Ion Cel
+Pack
+Heat-resistant
+Steel Sheet 436
+Carbon Steel A36
+UL-Iisted
+Insulated Tube 25mm
+Inermioplastic Polyurelhane
+RoHS compliant
+(TPU)
+Support Foot Steel
+Stainless Steel 304
+RoHS compliant
+Nut M6
+Zinc-Plated Steel
+DIN EN 10025
+Pressure Valve
+Brass CZ121
+RoHS compliant
+Prepared by: Laura Rossi
+Approved by: Carlos Garcia

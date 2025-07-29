@@ -1,0 +1,105 @@
+DAILY PRODUCTION REPORT
+KepoNo-
+PR-591
+Customer
+CANGDA
+Supervisor:
+4nne
+Nowak
+Departmiene;
+Painting
+Dale
+29-03-2025
+Shift:
+Momning)
+Machine ID
+Task
+Wvorkem
+Begin
+End Time
+Duration
+Remarks
+(min)
+MC 204
+Polishing
+Jan Kowalski
+14.15
+15.54
+MC 209
+Polishing
+Nadia Sauter
+12:00
+3;03
+MC-205
+Welding
+Wiktor
+09:15
+1;10
+Kopczynski
+MC-208
+Drilling
+Dawid
+7237
+1371
+Delay
+Oszmianczuk
+MC-208
+Welding
+Przemystav"
+14.30
+16.17
+Wasik
+MC-205
+Welding
+Mareust
+11;15
+TSu
+Delay
+Jarzyna
+MC-201
+Welding
+Wiktor
+07:00
+08.35
+Kopczyriski
+MC 202
+Drilling
+Magdalena
+06:15
+07.35
+Witkawska
+MC-206
+Drilling
+Przemystaw
+12:15
+13.59
+104
+Wasik
+Part
+Pianned
+Qty
+Achieved
+Qty
+Qty
+Fanlute
+Nates
+WD-180S
+0. 840
+SB-I40D
+109
+9206
+4Z-300T
+1402
+Rework needed
+WD-180S
+2556
+Rewark needed
+~GOOX
+12.6695
+Ruwarkneeded
+Prepared by:
+Laura Rossi
+Approved by:
+Carlos Garcia
+NIA
+Scrap

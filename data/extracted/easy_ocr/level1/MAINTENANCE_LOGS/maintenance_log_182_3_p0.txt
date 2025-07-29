@@ -1,0 +1,145 @@
+Maintenance Checklist Report
+Performed On: 2023-0g-17
+Authorized bx;
+Carlos Garcia
+OcGralor
+Pccr Scnmidi
+This service
+suMmarY suppors Ine reliabilily ungincering
+Cvigk
+LMs $uMIramy
+lorecast paits replacemenl and
+resource nyeus
+This log records all mainlenarce activilius perlormed on lhe equipment. Please revlew Ihls log
+rcccnl
+Serce
+Dale:
+types; and remarks
+The equipment log below includes
+Coce:
+corecive
+note:
+Section A:
+Machine
+MC-276
+MC-289
+KC-230
+MC-243
+MC-262
+MC-242
+Equipment
+Lathe
+Paint Booth
+Hydraulic
+Paint Booth
+Piasma Cutter
+Paint Booth
+Senvice Uxpe
+PICvCmvC
+Preventive
+CONCcivc
+COMCClivc
+Prcventive
+Inspection
+Technician
+Jankowals-
+Laia
+RORE
+Laura Rossi
+Lanra Ross
+Carlos Garcia
+Anna
+Ncxa
+Dowrntime
+Comments
+Replaced
+Wocden
+Replaced
+Replaced
+Switch
+Li-Ion battery
+5A)
+pallet
+(SA)
+(54).
+ccntacts
+Dack
+Enecked
+cleaned
+senriced
+Sectlon B:
+Machlnc ID
+MC 230
+MC 283
+MC 266_
+MC 289
+MC 262
+MC 243
+Equipment
+Hydraulic
+Plasma Cutter
+4rsemoi
+Paint Bocih
+Plasma Cutter
+Paint Boath
+Press
+Robol
+Senice
+Iype
+Comecwe
+Lcrective
+Corrective
+Comeciive
+preveniive
+Preventive
+Technician
+LaMM
+Koxalski
+Schmidt
+Carcs
+Schmid?
+Kowalski
+wownumic
+Comments
+Sensor
+Refilled oil
+Sensor
+Worn
+gasket
+Replaced
+Iseue3
+recalibrated:
+JHLP 46)
+recalbrated
+replace D
+fuse (54)
+jouna
+Maintenance
+noree
+for cnmpliance
+audits
+Service
+smmmanas
+have heen forwarded
+the engineering team;
+Ovel
+equipment condilion
+~salislaclory posl-mainlunarce
+AIlmaintynance durions
+cecorde d
+performance
+metncs Confirm that all corective actions were
+prcperly closed out:
+Uptime
+Etrorcount
+Comments
+95.60 %
+Replaced Tter
+rault
+Prss
+Jlut
+Rosei
+Peter
+Garcia
+Peter
+archhed

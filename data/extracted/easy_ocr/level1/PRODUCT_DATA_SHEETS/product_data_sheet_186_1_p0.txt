@@ -1,0 +1,102 @@
+Product Overview
+NU-4402
+Proieci;
+Report No
+9498221
+Carlos Gurcia
+prepa
+Ian Kovalski
+Approved By:
+Locations
+Plant 34
+Dale
+2025-01-28
+following information outlines performance characteristics and design data: Below are the technical parameters
+The
+sneel diovideske
+specifications and material details. This section
+and construction materials for the unit; This data
+details the configuration and parameter set for the product
+pressure
+210
+Unit Type
+cooling Circulation
+Design [
+System
+Fluid
+48 L{min
+Supply Voltage
+480
+60HZ
+Reservoir Capacity
+Charging
+J0 uM relurn
+Oil Type
+HLP 46
+Filtration
+qction
+Control Valve
+Directiona
+Battery Capacity
+Eir-copled
+radiator
+Working Temp
+Range
+45"C
+Cooling
+luminum
+Service Interva
+1000
+Frame
+Materiz
+Dimenslons (LxWxHI
+1000
+650* 1000 mm
+Noise Level
+68 dBLAA
+Skid base
+Wth vibntion
+Mlotor power
+7.5 kW
+Mounting
+030s
+Protection
+Class
+p54
+numners
+are indluded
+for traceablllty
+Ensure Blossary terms match the engineering nomenclature.
+Documient
+specilicatians meet the=
+requirements and industry standards; Check that =
+section headers follow the
+design
+renmesented
+All summary comments have been
+product template
+Confirm that all test conditions are accurately
+recorded
+revision log; This closure
+note indicates the data sheet
+ready for
+lease
+Material
+Construction:
+base
+Mhel
+Silicone Rubbe
+Cooling Gel Pack
+Thcrmanlasil
+lyurethane (TPU)
+nsulatec
+Tube 25mm
+Treated
+Pine Waao
+Woocen
+Pallet
+V
+Flow
+Timc
+Erame
+contro

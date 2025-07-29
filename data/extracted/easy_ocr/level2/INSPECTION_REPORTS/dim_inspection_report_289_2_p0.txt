@@ -1,0 +1,95 @@
+Dimensional Log
+Technician
+Peter_Schmidt
+Inspeclion Date
+2024-07-01
+All mneasured values are tiresiamped for audil purposes. Check Ihat all dlrnensions comply with ISO and
+company slandards_
+Refer t0 Ite dimensional log for all component size readings. This section details the
+measured values, tolerances  and status
+Piease review the inspection results for cach component
+listed below. Review" recorded tolerances
+engineering specifications.
+Praduct Raf
+OP-680F
+DX777
+WD-1805
+XX-GIQU
+GH-IT0J
+LP-555v
+RX-310z
+Component
+Hex Bolts
+Bearing
+Bearing
+Battery
+steel
+Rubher
+shat
+M12
+6202 ZZ
+6202 2
+Pack
+Sheei 436
+Gaskel
+5honm
+80mm
+ashnmchi
+Length
+Depth
+Thickness
+Length
+Depth
+Widn
+Width
+Target
+427
+98.73
+72.87
+45.95
+92.47
+83.26
+19.55
+Actual
+98.78
+92.49
+83,.33
+19,69
+Delta
+Tu9
+4U
+40.16
+Gou
+t M
+Tulo
+Tt 4
+PassiFall
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+PASS
+Confiri that pass rates rneet the cefined acceplance criteria. Ensure status Ilags are updated in Ihe quality
+management systern: Cross-verify measurement data with CAD nominal values- Flag any components
+requiring
+~machining
+adjustnient
+Inslrument Calbrallon Log:
+Unstrument
+Serial Mo.
+Calibration Date
+Lajer
+Scanner
+26822
+2025-02-04
+Calper
+93423
+2024-08-14
+Caliper
+49621
+2024-12-31
+flags-
+against
+Last

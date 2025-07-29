@@ -1,0 +1,102 @@
+DAILY PRODUCTION REPORT
+KeponNo:
+PR 433
+Customer
+GREECE
+Supervisor:
+Nowak
+Department:
+Logistics
+Dale
+01-12-2023
+Shift:
+(Evening)
+Machine
+procese
+Operator
+Begin
+Finish
+duration
+Remarks
+(min)
+MC-201
+Welding
+Mateusz
+07.00
+07.39
+Jalzvna
+MC 205
+Welding
+Jankowalski
+06.15
+07.10
+NIA
+MC-203
+Drilling
+Nadia Sauter
+11.30
+13.06
+MC-205
+Polishing
+Wiktor
+10;15
+12,08
+Deiau
+pczynski
+MC-207
+Assemoly
+4nna
+Nowak
+13.15
+15.02
+MC-208
+Welding
+Mareust
+12.15
+1248
+Jarvna
+MC-203
+Assembly
+Magdalena
+09;15
+11;03
+108
+NIA
+Witkowska
+Part ID
+Planned
+Actua
+Qty
+Scrap Qty
+Failure %
+Comments
+Qutput
+SB-140D
+294
+251
+14,6396
+Scrap
+confirmed
+G1-480s
+292
+275
+8296
+Rewonneeded
+HF-3904
+250
+15,.2080
+QN-770H
+0.6356
+Scrap
+contirmed
+CE-9O5L
+250
+213
+8096
+Scrap
+confirmed
+Prepared by:
+Laura Rossi
+Approved by:
+LamteRossi
+Anna

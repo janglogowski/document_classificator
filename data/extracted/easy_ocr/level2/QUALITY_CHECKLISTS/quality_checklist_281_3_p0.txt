@@ -1,0 +1,44 @@
+Inspection Record
+Inspection Checklist Points
+Check
+Severity
+Remarks
+Intenslty
+Desizn Specs
+Conneco
+nolworxing
+Level
+Critical impact
+as5emibied
+drawing
+Leve
+Critical impact
+Loose parts inside Packaging
+Package
+not sea
+comnpletel
+Cntical impact
+Shard
+edges on plastic
+components
+Level |
+Minor issue observed
+Dust/debris Inside packaring
+LevE
+incorect omentalicn
+Minor issue observed
+Paint smearing
+~cralche
+ISsue duscrvec
+Missing satety labels
+LeveI
+Critical impact
+Reference Standards;
+Standard
+Edition
+ISO 9001
+201
+UL 61010
+Ath Ed
+Not
+Minor

@@ -1,0 +1,84 @@
+Equipment Record Report
+Performed On: 2024-05-30
+Kowalski
+Authorized
+cchmldi
+@pefaton
+ance >udil tams
+service summary supports the reliability ergineering review.
+Thls maintenance ExtraCI
+prepared
+CoM
+scnedrie
+The %qulpment Icg below includes fault codes and corrective notes:
+Confirm that service interva
+tolljw Ihe prE eriii
+Tne (cllowlng entries detail [eventivc and corrective
+lntenance tasks
+USC (nIs
+eccrd
+pian UcuM
+WDki#p ano ncpaits
+Section
+Mc-J82
+MC 211
+Unit Code
+MC-29
+Mic 25-
+plasma Cutter
+Curter
+CNC Milli g Macuine
+cquipmen
+Assembly Rapot
+Preventive
+Inspection
+Lortecive
+Preventive
+Type
+LaMma Russi
+Arina Nowak
+Jeterscnmict
+cchrnidl
+rchnician
+Oowntime
+sensor [ ecalibraieo_
+Li-lo baitery Dick
+Woaden Du
+Swltch contack
+Comments
+senicrd
+checred_
+cicane
+Section
+Nc-737
+MC-152
+MC-249
+Unit Code
+MC-231
+Aacembly Robor
+CNC Milling Machine
+Laser Cutlef
+Plarra Cutter
+mipmeng
+Prevtnive
+Inspection
+evenmv
+ydc
+Preventve
+Schmidt
+Annj Ruwak
+LJua Rosse
+peter
+Tecnnician
+Petef Scnmdi
+Downtime
+S inch contics
+Comments
+WUcn zasket {4pizceo
+Worn gasket replaced
+Cleanid
+Comment 
+Etror Couni
+Uptimc(%
+Tolttianterec
+98 045

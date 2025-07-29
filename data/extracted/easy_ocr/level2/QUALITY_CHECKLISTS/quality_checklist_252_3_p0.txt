@@ -1,0 +1,73 @@
+Inspection Checklist
+Reviow Points
+Check
+Category
+Notes
+Intensity
+Item Specs
+Critical
+Major
+OnHold
+Functionallty test failed
+Level
+Crilical impact
+Not assembled as per
+drawing
+Needs review
+Dustldebris inside
+Level =
+Minor issue
+packaging
+observed
+Hinges loose
+Levell
+Critical impact
+Package
+not sealed
+Minor Issue
+camoletel:
+Level
+observed
+Connector not working_
+Level
+Crilical impact
+Incorrect barcode or label
+Level [
+Minor issue
+observed
+Dead
+tve inseci In
+packaging
+Critical impact
+Product doesn t power on
+Minor issue
+observed
+Missing logo
+warning
+Level III
+Crilical impact
+Wood splinter
+sharp
+point on product
+Level (
+Critical impact
+Packaging does not
+match signed sample
+Level /
+Needs review
+Instruction manual
+missing or damaged
+Critical impact
+Carton
+damaged
+Level IlI
+markings
+Incanec
+Reference Standards
+Standard
+Edition
+8Q 9001
+2011
+EC 61010
+4th Ed
+Minor

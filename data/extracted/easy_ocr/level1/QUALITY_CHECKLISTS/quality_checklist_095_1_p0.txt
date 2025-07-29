@@ -1,0 +1,84 @@
+QC Checklist
+#1348481
+Date: 17.07.2025
+Product ID
+SB-I40D
+Customer ID
+TURKEY
+Item Descrption
+Gasket Sheet 44
+Please
+revie
+eacn
+checklist point and mark the sampling results
+Use this Iist to confirm adherence
+AQL
+safety standards.
+This closure summary indicates compliance with inspection criteria_
+Refer t0 the
+quality register for sampling-plan references
+This checklist captures quality inspection points and sampling
+levels.
+Below are the iterns t0 be verified during the finae
+product review:
+Review Points
+Inspection
+Severity
+Observations
+Depth
+Design Specs
+MA
+Hold
+Wood splinter
+sharp point
+Level |
+Critical impact
+on product
+Rubber Switch not working
+Leve
+Hinges
+onse
+Leve
+Minor issue observed
+Carton
+damaged or
+Critical impact
+markings incorroct
+Paint smearing or scratches
+LCVCI
+Minor issue observed
+Connector not working
+Critical impact
+Color mismatch
+Leve
+Sharp edges on plastic
+Level
+components
+Exposed nall with sharp
+Level |
+Critical impact
+point
+Missing satety labels
+Levei
+Minor issue observed
+Dustdebris inside
+Minor issue observed
+packaging
+Product doesn L power on
+Levei
+Minor issue observed
+Loose pans Inside
+Level III
+Critical impact
+packaging
+AQL Level
+Critica
+inor
+Default
+Customer
+pecific
+Checklist results have been reported -
+the quality manager. Corrective actions are scheduled for identified
+issues. Please ensure supervised sign-off on any non-conforming points. All critical and major inspection
+points have been addressed_
+Overall quality status indicates compliance with defined AQL levels_

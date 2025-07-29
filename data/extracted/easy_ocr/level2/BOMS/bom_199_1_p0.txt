@@ -1,0 +1,99 @@
+BILL
+OF MATERIAL
+Customer ID; FINLAND
+Coordinator;
+NoiJz
+Product ID: FT-730X
+UInterna
+Date: 2023-07-23
+6885369
+Order O9L: 397
+The component roster below includes unit costs and batch =
+and cost
+estimates.
+codes Use this
+breakdownto verify
+tem
+Consumpticn
+Extra %
+Qty
+VoM
+Description
+Rate
+Amount
+Remarks
+Aluminum
+198
+Bracket
+4450
+36.00
+Switch
+tested
+Power
+186
+Swvitch
+1.20
+25.20
+Switch
+[ested
+Hinge Scl
+2.43
+L57
+Insulation
+2.46
+12.50
+Foam Pad
+3.20
+115.20
+Li-lon
+battery
+Termina
+3.03
+nstalled
+Block 48
+3.40
+91.80
+imported
+LED Uight
+2.83
+sulp
+250
+82.50
+High
+Protective
+214
+Brade
+Sleeve
+1780
+23.€0
+Swritch
+soMm
+Fested
+LED Vgnt
+227
+Uo
+Strip
+2-50
+1C0.00
+Clamp Ring
+3.42
+excom
+120mm
+175
+64.75
+USO-
+Wovden
+veriiied
+Pallet
+15.00
+405.00
+Ensure archival ofthis materials summary for compliance
+records
+Tote
+Amnun
+961.75
+Appfoved By;
+Department:
+Annz
+sourging
+souicing

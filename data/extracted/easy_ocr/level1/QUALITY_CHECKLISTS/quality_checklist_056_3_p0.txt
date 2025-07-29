@@ -1,0 +1,80 @@
+Inspection Record
+Audit Criteria
+Sampling
+Category
+Notes
+Level
+Component
+Critical
+OnHold
+Carton is darnaged or
+Level II
+markings incorrect
+Missing satety
+Adels
+Laveli
+Critical impact
+Praduct doesn"
+power On
+Needs
+avieu
+Screu
+morcr
+missing
+Culca
+Inpuci
+ISSLC
+Rubber Switch not working
+Level IIl
+ODSGNCu
+Shipping mark
+illegible
+Level III
+Critical impact
+Missing
+Hinges
+loasc
+Needs t@view
+Loose parts inside
+Level Il
+Needs review
+packaging
+Incorect barcode Or label
+Level !
+Sharp edges on plastic
+Level /
+Needs review
+components
+Dustidebris inside
+Level IlI
+packaging
+Package
+not sealed
+Minor issue
+Level /
+completely
+obscncd
+Battery not included
+Level |
+Incorrect quantity
+ass0ninent
+ISSuC
+Wrong product size
+Level IlI
+obseN0
+Connecio
+not working
+Cntical
+impact
+Reference Standards:
+Standard
+Edition
+RoHS
+2020
+IEC 61010
+3rd Ed.
+Criterta
+Hajor
+Minor
+Minor
+Minor

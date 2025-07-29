@@ -1,0 +1,43 @@
+Customer ID: CANADA
+Prepared by: Anna Nowak
+Product ID: LK-890B
+Internal No:: 9585671
+This document provides
+detailed breakdown of all components required for the assembly
+process. This summary lists every item required, with per-unit pricing details. This extract shows
+the bill of components and total projected spend_
+~item costs are current as per vendor
+quales
+Ensure each component meets the specified quality standards_
+Use this breakdown t0
+verify sourcing and cost estimates
+No
+Item
+Ceramic Disc
+Protective
+Ventilation Grid
+Protective
+Description
+80mm
+eeve summ
+eeve_s0mm
+Qty
+623
+350
+408
+UOM
+pcS
+Unit Price
+Amount
+539.30
+12140
+960.00
+73440
+Remarks
+Urgent
+ROHS compliant
+Eco compliant
+ROHS compliant
+TOTAL:
+5,355.10
+line

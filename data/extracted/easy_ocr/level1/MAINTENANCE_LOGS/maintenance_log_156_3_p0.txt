@@ -1,0 +1,149 @@
+Signud oll:
+Peler Schmidt
+Penonedbv:
+Anna
+Nowat
+Below
+sumimtany
+senicy aclions
+unu dOwMUmIC -
+Gch macminc
+reviow Ihis Iag
+recenL service dalos.
+type3,
+remarks This service summary
+zupooms Ine
+reliability engineering review"
+This section captures
+equiomeni
+Sams
+ad anv mainierance
+obsenancns
+The following entries detail preventive and corrective
+maintenance Tasks
+Ensutc
+saloly cnecks viere compleled curing
+servicing:
+Section A:
+Unit Code
+MC 291
+Mc 208
+MC 225
+MC 248
+MC 226
+Mc76o
+Machine
+Hydraulic
+Assembly
+Assurnbly
+Laser Culler
+CNC Milling
+Lalhe
+Pices
+Robal
+Rcjot
+Machine
+Service Type
+Corective
+Correciive
+Inspecton
+Corrective
+Preventive
+Corrective
+Uperator
+Carlos Garcia
+Laura Ross_
+Peler Schmidt
+Cano: Gurcia
+Ana kowak
+Carlos Garcia
+Duration
+Comment
+Replaced
+Calibraian
+Replaced
+Sensor
+Alignmenl
+Woni
+gaskel
+cowlant
+check OK
+fusc (54}
+recalioraled.
+[colaccd
+Jdiusied
+Section
+Unit Code
+MC-248
+MC-260
+MC-226
+MC-225
+MC-208
+MC-29
+Machine
+Laser Cutter
+Latnc
+CNC Ming
+Assembly
+AsscmbI
+Hydraullc
+Machine
+Robot
+Press
+Service Type
+Inspection
+Inspection
+Inspecton
+Unspeciion
+Comecive
+Preventive
+Opcrator
+Lalma Rass
+Jankowvalski
+Carios
+Gaicia
+Laln?
+Rosai
+Anna *owak
+Carlos Garcia
+Duration
+comments
+Wuouu
+Wom gaskel
+Woin daskyi
+Li-Ion ballety
+Swilch
+Changed oil
+rep aceC
+rediacec
+pacr
+coniacts
+Ano Wtef
+cnecrcd
+sen CCO
+cicanec
+Conlirmn thalall coriecllve actions " CIc
+propeny
+clascd aut
+Ovcrall equipment concilion
+salislactory post-malntenance
+Use this closure
+update the maintenance KPI tracker, Refer
+remarks fcr any follow"-up actions
+parts
+replacemenl:
+ensure next prevenive
+senvice
+schedulad according
+plan. Flag any recuring
+issues for TDCI-cause
+Investigation. All malntenance duratlons
+ccorded for performance metrics
+Uplime (%)
+Eqor Count
+Nol
+98 5402
+Replaced filter
+plonsu
+@ngos
+Robol

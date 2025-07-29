@@ -1,0 +1,79 @@
+inspector
+Peter _cnmidc
+inspection Date
+2025-01-11
+Refer
+the dimensiona
+log for all component size readings This data extract
+prepared far quality-contro
+sign-off;
+All measured values are timestamped for audit purposes
+The following data captures key dimensions and any
+deviations identified:
+Lodi
+RX-31OZ
+62-660F
+Dx
+XD-/JUR
+QN-/{UF
+XD-ZIOR
+TX-820v
+Name
+Steel Sheet
+0-Ring NBR
+Shaft
+graphte
+graphite
+Powet
+Rupber
+A36
+somm
+oomm
+Surirch
+Gaske
+Komm
+Dlm
+Tmfn
+Length
+Depth
+width
+Helght
+Depth
+Helght
+Diameter
+Nomina
+Observed
+73.8 1
+10.13
+7uw
+28-QO
+37.56
+peltz
+~DUs
+C
++0.0S
+pass Fail
+Review failed items apainst the corrective-action register. Please address any NOK items
+Detore
+proceeding to the
+Nex nroquctian
+stage Reter
+deviation column faranyout-ot-tolerance
+measurements
+Instruicnc
+Calibration Log:
+Instrument
+Serial No.
+Calibration Date
+Caliper
+88801
+2024-07-22
+Micrometer
+59471
+2024-07-26
+Civil
+84105
+2025-02-23
+Caliper
+88938
+2025-03-24

@@ -1,0 +1,81 @@
+BOM Report
+Refer to this parts register to plan raw-material purchasing_
+Use this breakdown t0 verify sourcing
+and cost estimates
+This document provides
+detailed breakdown of all components required for
+the assembly process. Please review the itemized Iist of parts and material specifications before
+procurement, Review the materials tally for compliance with budget allowances
+Ilem
+Qty
+UOM
+Rate
+Amouni
+Remarks
+Description
+Ventilation
+pCS
+5.60
+224.00
+SKF brand
+Grid
+Battery
+pcs
+25.00
+425.00
+For export
+Pack
+Rubber
+pcs
+0.50
+24.00
+Gasket
+80mm
+Bearing
+pcs
+25.50
+ISO-
+6202
+verified
+Sensor
+pcs
+0.95
+45.60
+Switch
+Clip
+tested OK
+Ventilalion
+pcs
+5.60
+162.40
+SKF brand
+Grid
+Terminal
+pCS
+3.40
+85.00
+For export
+Block 4P
+Clamp
+pCS
+1.75
+63.00
+Eco
+Ring
+compliant
+120mm
+Insulation
+pCS
+3.20
+160.00
+Foam Pad
+Customer ID: TURKEY
+Coordinator:_ Jan Kowalski
+Date; 2023-02-20
+Product ID: VF-220D
+Internal
+No:: 8451715
+Order Qty: 69
+Tota_
+Amount
+1214.50
