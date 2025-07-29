@@ -11,6 +11,7 @@ import datetime
 #---lists used by the generator---#
 fonts = ['Arial','Calibri']
 inspectors = ['Anna Nowak', 'Jan Kowalski', 'Peter Schmidt', 'Laura Rossi', 'Carlos Garcia']
+
 products = [
     'MC-540X', 'TR-200B', 'HF-390A', 'PL-601Z', 'DX-777T',
     'TX-820V', 'MX-450L', 'RX-310Z', 'VF-220D', 'GL-980S',
@@ -22,11 +23,12 @@ products = [
     'AZ-300T', 'XD-710R', 'RE-850C', 'MR-160H', 'TL-900X'
 ]
 dimensions = ['Thickness', 'Width', 'Length', 'Hole Ø', 'Height', 'Depth', 'Inner Diameter']
+
 components = [
     'Steel Sheet A36','Hex Bolts M12','Rubber Gasket 80mm','O-Ring NBR 60mm',
     'Bearing 6202 ZZ','Shaft 500mm','Plastic Rivets','Graphite Pad',
-    'Battery Pack','Hinge Set','Power Switch','Wooden Pallet'
-]
+    'Battery Pack','Hinge Set','Power Switch','Wooden Pallet']
+
 tools = ['Caliper', 'Micrometer', 'CMM', 'Laser Scanner', 'Depth Gauge', 'Measuring Tape']
 
 column_synonyms = {
@@ -36,24 +38,21 @@ column_synonyms = {
     "Nominal (mm)": ["Target", "Nominal"],
     "Measured (mm)": ["Observed", "Actual"],
     "Deviation": ["Diff", "Delta"],
-    "Status (OK/NOK)": ["Pass/Fail"]
-}
+    "Status (OK/NOK)": ["Pass/Fail"]}
 
 titles = [
     "Tolerance Check",
     "Measurement Summary Sheet",
     "Dimensional Log",
     "Inspection Results Summary",
-    "Component Dimensional Check"
-]
+    "Component Dimensional Check"]
 
 inspector_labels = ["Inspector", "Technician", "Supervisor"]
 
 status_sets = [
     ("OK", "NOK"),
     ("PASS", "FAIL"),
-    ("V", "X")
-]
+    ("V", "X")]
 
 insp_intros = [
     "This report presents the dimensional measurements and inspection results.",
@@ -71,8 +70,7 @@ insp_intros = [
     "Check that all dimensions comply with ISO and company standards.",
     "Use this results summary to trigger any corrective actions.",
     "All measured values are timestamped for audit purposes.",
-    "This data extract is prepared for quality-control sign-off."
-]
+    "This data extract is prepared for quality-control sign-off."]
 
 insp_summaries = [
     "All dimensions within tolerance have been marked as OK.",
@@ -90,8 +88,7 @@ insp_summaries = [
     "This closure memo confirms that dimensional checks are complete.",
     "Ensure status flags are updated in the quality management system.",
     "Cross-verify measurement data with CAD nominal values.",
-    "Record any measurement anomalies for follow-up analysis."
-]
+    "Record any measurement anomalies for follow-up analysis."]
 
 def add_horizontal_line(paragraph):
     p = paragraph._p
@@ -149,10 +146,11 @@ def add_dimensional_table(doc, products, components, dimensions, tools, layout_t
     status_ok, status_nok = random.choice(status_sets)
 
     if layout_type == 2:
+
         headers = [
             "Product ID", "Component Name", "Dimension",
-            "Nominal (mm)", "Measured (mm)", "Deviation", "Status (OK/NOK)"
-        ]
+            "Nominal (mm)", "Measured (mm)", "Deviation", "Status (OK/NOK)"]
+        
         header_labels = [random.choice(column_synonyms.get(h, [h])) for h in headers]
         num_measurements = random.randint(4, 7)
         table = doc.add_table(rows=len(header_labels), cols=num_measurements + 1)
@@ -185,8 +183,7 @@ def add_dimensional_table(doc, products, components, dimensions, tools, layout_t
                 f"{nominal:.2f}",
                 f"{measured:.2f}",
                 f"{deviation:+.2f}",
-                status
-            ]
+                status]
 
             for row_idx, val in enumerate(values):
                 cell = table.cell(row_idx, col)
@@ -201,14 +198,12 @@ def add_dimensional_table(doc, products, components, dimensions, tools, layout_t
     elif layout_type == 3:
         headers = [
             "Product ID", "Component Name", "Dimension",
-            "Nominal (mm)", "Measured (mm)", "Deviation", "Status (V/X)"
-        ]
+            "Nominal (mm)", "Measured (mm)", "Deviation", "Status (V/X)"]
     else:
         headers = [
             "Product ID", "Component", "Dimensions",
             "Nominal (mm)", "Tolerance (mm)", "Measured (mm)",
-            "Deviation", "Tool", "Status (Good/Bad)"
-        ]
+            "Deviation", "Tool", "Status (Good/Bad)"]
 
     header_labels = [random.choice(column_synonyms.get(h, [h])) for h in headers]
     table = doc.add_table(rows=1, cols=len(header_labels))
@@ -237,8 +232,7 @@ def add_dimensional_table(doc, products, components, dimensions, tools, layout_t
             random.choice(products),
             random.choice(components),
             random.choice(dimensions),
-            f"{nominal:.2f}",
-        ]
+            f"{nominal:.2f}",]
 
         if layout_type == 1:
             base_values += [
@@ -246,14 +240,12 @@ def add_dimensional_table(doc, products, components, dimensions, tools, layout_t
                 f"{measured:.2f}",
                 f"{deviation:+.2f}",
                 random.choice(tools),
-                status
-            ]
+                status]
         else:
             base_values += [
                 f"{measured:.2f}",
                 f"{deviation:+.2f}",
-                status
-            ]
+                status]
 
         for i in range(len(base_values)):
             if i < len(row):
@@ -266,8 +258,8 @@ def add_summary_section(doc, ok_count, nok_count):
     formats = [
         f"Summary – Passed: {ok_count}, Failed: {nok_count}",
         f"Final Count: {ok_count} OK, {nok_count} NOK",
-        f"Inspected Units – V: {ok_count} / X: {nok_count}",
-    ]
+        f"Inspected Units – V: {ok_count} / X: {nok_count}"]
+    
     p = doc.add_paragraph()
     run = p.add_run(random.choice(formats))
     run.bold = True
@@ -303,7 +295,6 @@ def generate_dimensional_inspection_report(doc_number: int, output_folder: str):
     doc = Document()
     layout_type = random.randint(1, 3)
     #layout_type = 3
-
     font = random.choice(fonts)
     style = doc.styles['Normal']
     style.font.name = font

@@ -7,11 +7,13 @@ from pdf2image import convert_from_path
 from PIL import Image, ImageEnhance, ImageOps
 from scipy.ndimage import gaussian_filter
 
+#--- main function ---#
 def imitate_scans(
     mode: str = "default",
     level: str = "level2",
     input_folder: str = None,
     output_folder: str = None):
+
     """
     Convert PDFs to 'scans' (JPEGs) with augmentations.
 
@@ -26,25 +28,24 @@ def imitate_scans(
 
     input_folder/output_folder override config paths if provided.
     """
-    # load single config.yaml from cwd (project root)
+
+    # --- load config.yaml --- #
     cfg = yaml.safe_load(open("config.yaml", encoding="utf-8"))
-    # project_root may be relative, so resolve it
+
     ROOT = os.path.abspath(cfg["paths"]["project_root"])
     POPPLER = cfg["paths"]["poppler"]["bin_path"]
 
-    # grab per-level settings under augmentation.levels
     try:
         pdf_cfg  = cfg["augmentation"]["levels"][level]["pdf"]
         proc_cfg = cfg["augmentation"]["levels"][level]["process_image"]
     except KeyError:
         raise KeyError(f"Level '{level}' not found under augmentation.levels in config.yaml")
 
-    # determine in/out paths
     if mode == "default":
         base_in  = input_folder or os.path.join(ROOT, cfg["paths"]["data"]["raw"])
         out_docs = output_folder or os.path.join(
-            ROOT, cfg["paths"]["data"]["scans"]["docs"][level]
-        )
+            ROOT, cfg["paths"]["data"]["scans"]["docs"][level])
+        
     elif mode == "test":
         base_in  = input_folder or os.path.join(ROOT, cfg["generator_settings"]["test"]["output_folder"])
         out_docs = output_folder or base_in
@@ -223,9 +224,9 @@ def imitate_scans(
         return pil
 
     # ---------------------- Processing ---------------------- #
-
     print(f"=== Start scan imitation ({mode}, {level}) ===")
 
+    # test mode
     if mode == "test":
         pdfs = [f for f in os.listdir(base_in) if f.lower().endswith(".pdf")]
         for pdf in pdfs:
@@ -242,12 +243,12 @@ def imitate_scans(
                 img.save(
                     os.path.join(base_in, name),
                     "JPEG",
-                    quality=random.randint(*proc_cfg["jpeg_quality_range"])
-                )
+                    quality=random.randint(*proc_cfg["jpeg_quality_range"]))
+                
         print(f"=== Scan imitation ({mode}) complete ===")
         return
 
-    # default mode: walk each subfolder in raw/
+    # default mode (walk each subfolder in raw/)
     for sub in os.listdir(base_in):
         in_f = os.path.join(base_in, sub)
         if not os.path.isdir(in_f):
@@ -277,7 +278,6 @@ def imitate_scans(
         print(f"  >>>> saved {len(pdfs)} page(s) for '{sub}'")
 
     print(f"=== Scan imitation ({mode}, {level}) complete ===")
-
 
 if __name__ == "__main__":
     imitate_scans(mode="default", level="level3")

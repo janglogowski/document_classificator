@@ -13,11 +13,11 @@ from PIL import Image
 from sklearn.metrics import classification_report, accuracy_score
 from sklearn.model_selection import StratifiedShuffleSplit
 
-# --- load config --- #
+#--- load config ---#
 CFG  = yaml.safe_load(open("config.yaml", encoding="utf-8"))
 ROOT = os.path.abspath(CFG["paths"]["project_root"])
 
-# --- user params --- #
+#--- user params ---#
 level              = "level3"
 samples_per_sub    = 43
 batch_size         = 16
@@ -26,7 +26,7 @@ lr                 = 1e-4
 seed               = 42
 num_workers        = 0
 
-# --- paths --- #
+#--- paths ---#
 DOCS_DIR    = os.path.join(ROOT, CFG["paths"]["data"]["scans"]["docs"][level])
 DRW_DIR     = os.path.join(ROOT, CFG["paths"]["data"]["scans"]["technical_drawings"])
 OUT_DIR     = os.path.join(ROOT, CFG["paths"]["data"]["models"]["cnn_doc_vs_drw"])
@@ -40,7 +40,7 @@ IMG_EXTS = (".jpg", ".jpeg", ".png", ".tif", ".tiff", ".bmp")
 random.seed(seed)
 torch.manual_seed(seed)
 
-# --- collect files --- #
+#--- collect files ---#
 def collect_doc_images(doc_root, n_per_subfolder):
     paths = []
     for sub in sorted(os.listdir(doc_root)):
@@ -76,7 +76,6 @@ val_labels   = [all_labels[i] for i in val_idx]
 
 print(f"Train: {len(train_paths)}, Val: {len(val_paths)}")
 
-# --- transforms with more augmentation --- #
 train_tf = transforms.Compose([
     transforms.Resize((256, 256)),
     transforms.RandomRotation(5),
@@ -84,16 +83,14 @@ train_tf = transforms.Compose([
     transforms.ColorJitter(brightness=0.2, contrast=0.2),
     transforms.RandomPerspective(distortion_scale=0.2, p=0.5),
     transforms.ToTensor(),
-    transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
-])
+    transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])])
 
 val_tf = transforms.Compose([
     transforms.Resize((256, 256)),
     transforms.ToTensor(),
-    transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
-])
+    transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])])
 
-# --- dataset --- #
+#--- dataset ---#
 class ImgDataset(Dataset):
     def __init__(self, paths, labels, transform):
         self.paths = paths
@@ -110,7 +107,7 @@ val_ds   = ImgDataset(val_paths,   val_labels,   val_tf)
 train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True)
 val_loader   = DataLoader(val_ds,   batch_size=batch_size, shuffle=False)
 
-# --- light model: MobileNetV2 --- #
+#--- MobileNetV2 model ---#
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model  = models.mobilenet_v2(pretrained=True)
 model.classifier[1] = nn.Linear(model.last_channel, 2)
@@ -122,7 +119,7 @@ optimizer = torch.optim.Adam(model.parameters(), lr=lr)
 best_val_acc = 0.0
 history = []
 
-# --- training loop --- #
+#--- training loop ---#
 for epoch in range(1, num_epochs+1):
     model.train()
     tr_loss, tr_correct = 0.0, 0
@@ -163,7 +160,7 @@ for epoch in range(1, num_epochs+1):
         torch.save(model.state_dict(), MODEL_PATH)
         print(f"[INFO] Saved best model → {MODEL_PATH}")
 
-# --- evaluation --- #
+#--- evaluation ---#
 model.load_state_dict(torch.load(MODEL_PATH, map_location=device))
 model.eval()
 v_preds, v_true = [], []
@@ -190,8 +187,7 @@ metrics = {
     "final_val_accuracy": acc,
     "classification_report": report,
     "history": history,
-    "samples_per_subfolder": samples_per_sub
-}
+    "samples_per_subfolder": samples_per_sub}
 
 with open(METRICS_PATH, "w", encoding="utf-8") as jf:
     json.dump(metrics, jf, indent=2, ensure_ascii=False)

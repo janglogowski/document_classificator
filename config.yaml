@@ -46,6 +46,7 @@ paths:
   poppler:
     bin_path: "C:/poppler/Library/bin"
 
+
 #--- generator settings ---#
 generator_settings:
   default:
@@ -66,7 +67,7 @@ augmentation:
       process_image:
         resize_scale: 0.95
 
-        #--- contrast / brightness ---#
+        #--- contrast / brightness ---# 
         contrast_probability: 0.3
         contrast_range: [1.0, 1.15]
         brightness_probability: 0.3
@@ -240,7 +241,6 @@ augmentation:
         jpeg_quality_range: [25, 55]
 
 
-
 #--- ocr settings ---#
 tesseract_ocr:
   lang: "eng"                             
@@ -264,7 +264,7 @@ easy_ocr:
   max_dim: 1024         
   
            
-#--- doc-vs-drawing classifier settings ---#
+#--- doc-vs-drw classifier settings ---#
 doc_vs_drw_classifier:
   tfidf:
     stop_words:    "english"
@@ -278,6 +278,7 @@ doc_vs_drw_classifier:
     solver:       "lbfgs"
     class_weight: "balanced"
     random_state: 41
+
 
 #--- doc type model settings ---#                         
 doc_type_classifier:

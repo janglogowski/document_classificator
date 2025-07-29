@@ -10,27 +10,28 @@ import datetime
 
 #---lists used by the generator---#
 supervisors = ['Anna Nowak', 'Jan Kowalski', 'Peter Schmidt', 'Laura Rossi', 'Carlos Garcia']
+maintenance_types = ["Preventive", "Corrective", "Inspection"]
+locations = ["Plant 3A", "Plant 2B", "Plant 1C"]
+fonts = ['Arial', 'Calibri', 'Aptos']
+
 equipment_names = [
     "CNC Milling Machine", "Hydraulic Press", "Laser Cutter", "Lathe", "Plasma Cutter",
     "Assembly Robot", "Paint Booth", "Packaging Line", "Conveyor Belt"]
-maintenance_types = ["Preventive", "Corrective", "Inspection"]
+
 remarks_pool = [
     "Changed oil and filters.", "No issues found.", "Replaced coolant.",
     "Sensor recalibrated.", "Calibration check OK.", "Replaced fuse (5A).",
     "Worn gasket replaced.", "Tightened loose bolts.", "Refilled oil (HLP 46).",
     "Li-Ion battery pack serviced.", "Alignment of hinges adjusted.",
     "Switch contacts cleaned.", "Wooden pallet checked.",""]
-locations = ["Plant 3A", "Plant 2B", "Plant 1C"]
-fonts = ['Arial', 'Calibri', 'Aptos']
 
-titles = [
-    "Equipment Record Report", "Maintenance Checklist Report", "Machine Log Summary"
-]
+titles = ["Equipment Record Report", "Maintenance Checklist Report", "Machine Log Summary"]
+
 signature_roles = [
     ("Approved by:", "Serviced by:"),
     ("Signed off:", "Performed by:"),
-    ("Authorized by:", "Operator:"),
-]
+    ("Authorized by:", "Operator:")]
+
 column_synonyms = {
     "Equipment ID": ["Machine ID", "Unit Code"],
     "Equipment Name": ["Machine", "Equipment"],
@@ -39,8 +40,7 @@ column_synonyms = {
     "Downtime (hrs)": ["Downtime", "Duration"],
     "Last Maintenance": ["Previous Service", "Last Check"],
     "Location": ["Site", "Area"],
-    "Remarks": ["Notes", "Comments"]
-}
+    "Remarks": ["Notes", "Comments"]}
 
 maint_intros = [
     "This log records all maintenance activities performed on the equipment.",
@@ -58,8 +58,7 @@ maint_intros = [
     "Use this summary to forecast parts replacement and resource needs.",
     "All technician comments are recorded for maintenance trend analysis.",
     "This maintenance extract is prepared for compliance audit trails.",
-    "Confirm that service intervals follow the preventive schedule."
-]
+    "Confirm that service intervals follow the preventive schedule."]
 
 maint_summaries = [
     "All maintenance tasks have been completed as per schedule.",
@@ -77,8 +76,7 @@ maint_summaries = [
     "Archive this summary in the CMMS for future reference.",
     "Ensure that each service entry has the required approvals.",
     "Use this closure note to update the maintenance KPI tracker.",
-    "All maintenance durations are recorded for performance metrics."
-]
+    "All maintenance durations are recorded for performance metrics."]
 
 def get_synonym(key):
     return random.choice(column_synonyms.get(key,[key]))
@@ -143,8 +141,8 @@ def add_title(doc, layout_type):
 def add_maintenance_log_table(doc, layout_type, equipment_log):
     base_headers = [
         "Equipment ID", "Equipment Name", "Maintenance Type",
-        "Performed By", "Downtime (hrs)"
-    ]
+        "Performed By", "Downtime (hrs)"]
+    
     if layout_type == 2:
         base_headers.append("Last Maintenance")
     if layout_type != 3:
@@ -176,13 +174,12 @@ def add_maintenance_log_table(doc, layout_type, equipment_log):
                     random.choice(maintenance_types),
                     random.choice(supervisors),
                     f"{random.uniform(1.5, 4.0):.1f}",
-                    random.choice(remarks_pool)
-                ]
+                    random.choice(remarks_pool)]
+                
                 for row_idx, val in enumerate(values):
                     table.cell(row_idx, col_idx).text = val
 
             doc.add_paragraph("")
-
         return
 
     table = doc.add_table(rows=1, cols=len(headers))
@@ -198,8 +195,8 @@ def add_maintenance_log_table(doc, layout_type, equipment_log):
             equipment_name,
             random.choice(maintenance_types),
             random.choice(supervisors),
-            f"{random.uniform(1.5, 4.0):.1f}"
-        ]
+            f"{random.uniform(1.5, 4.0):.1f}"]
+        
         if layout_type == 2:
             values.append(get_random_date_within_2_years().strftime('%Y-%m-%d'))
         else:
@@ -246,8 +243,7 @@ def add_signature(doc, layout_type):
 def add_spare_parts_section(doc):
     parts_pool = [
         "Oil Filter", "Hydraulic Hose", "Sealing Gasket", "Sensor Module",
-        "Fuse 5A", "Li-Ion Battery Pack", "Hinge Set", "Switch Assembly"
-    ]
+        "Fuse 5A", "Li-Ion Battery Pack", "Hinge Set", "Switch Assembly"]
 
     n = random.randint(1, 4)
     table = doc.add_paragraph("Spare Parts Used:").insert_paragraph_before().add_run()._r
@@ -267,14 +263,12 @@ def add_spare_parts_section(doc):
         row[0].text = part
         row[1].text = part_no
         row[2].text = str(qty)
-
     doc.add_paragraph("")
 
 def generate_maintenance_log(doc_number: int, output_folder: str):
     doc = Document()
     layout_type = random.randint(1, 3)
     # layout_type = 3
-
     font_name = random.choice(fonts)
     font_size = Pt(8)
     style = doc.styles['Normal']
@@ -326,7 +320,6 @@ def generate_maintenance_log(doc_number: int, output_folder: str):
                     if i < len(intro_sentences) - 1:
                         run.add_text(" ")
             doc.add_paragraph("")
-
         add_performance_section(doc)
         
     if layout_type == 1:

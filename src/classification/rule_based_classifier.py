@@ -1,21 +1,21 @@
 import os
 import yaml
 import json
-from sklearn.metrics import classification_report, accuracy_score
+from sklearn.metrics import classification_report
 
 #--- load config ---#
 cfg = yaml.safe_load(open("config.yaml", encoding="utf-8"))
 ROOT = os.path.abspath(cfg["paths"]["project_root"])
 
 #--- select ocr engine and scan level  ---#
-engine = "easy_ocr"      # or "tesseract_ocr"
-level  = "level1"        # level1 / level2 / level3
+engine = "easy_ocr"      # easy_ocr or "tesseract_ocr"
+level  = "level1"        # level1/level2/level3
 
 #--- paths to extracted texts ---#
 DOCS_FOLDER = os.path.join(ROOT,cfg["paths"]["data"]["extracted"][engine][level])
 os.makedirs(DOCS_FOLDER, exist_ok=True)
 
-#--- load docs and true labels ---#
+#--- load docs and labels ---#
 docs = []
 true = []
 for root, _, files in os.walk(DOCS_FOLDER):
@@ -42,7 +42,7 @@ for root, _, files in os.walk(DOCS_FOLDER):
         else:
             true.append("other")
 
-#--- simple rule-based classifier ---#
+#--- rule-based classifier ---#
 def rule_classifier(text):
     t = text.lower()
     if any(k in t for k in ["unit price","line total","bill of material"]):
@@ -61,16 +61,14 @@ def rule_classifier(text):
 
 pred = [rule_classifier(d) for d in docs]
 
-#--- compute raw counts ---#
+#--- evaluate ---#
 total     = len(true)
 correct   = sum(t == p for t,p in zip(true, pred))
 incorrect = total - correct
 accuracy  = correct / total if total else 0.0
 
-#--- detailed report ---#
 class_report = classification_report(true, pred, digits=4, output_dict=True, zero_division=0)
 
-#--- print to console ---#
 print("=== Rule-based Classifier ===")
 print(f"Total docs:     {total}")
 print(f"Correct:        {correct}")
@@ -86,12 +84,11 @@ metrics = {
     "correct": correct,
     "incorrect": incorrect,
     "accuracy": accuracy,
-    "classification_report": class_report
-}
+    "classification_report": class_report}
 
 out_dir = os.path.join(ROOT,cfg["paths"]["data"]["models"]["rule_based_classifier"][engine],f"rule_based_metrics_{level}.json")
 
 with open(out_dir, "w", encoding="utf-8") as jf:
     json.dump(metrics, jf, indent=2, ensure_ascii=False)
 
-print(f"\nSaved metrics → {out_dir}")
+print(f"\nSaved metrics >>>> {out_dir}")

@@ -7,12 +7,12 @@ import yaml
 import time
 import json
 
-# --- load config --- #
+#--- load config ---#
 cfg          = yaml.safe_load(open("config.yaml", encoding="utf-8"))
 ROOT         = os.path.abspath(cfg["paths"]["project_root"])
 POPPLER_PATH = cfg["paths"]["poppler"]["bin_path"]
 
-# --- OCR engine settings --- #
+#--- OCR engine settings ---#
 engine = "tesseract_ocr"
 level  = "level2"
 
@@ -28,7 +28,7 @@ os.makedirs(OCR_STATS, exist_ok=True)
 
 pytesseract.pytesseract.tesseract_cmd = cfg["tesseract_ocr"].get("tesseract_cmd", "tesseract")
 
-# --- OCR settings from config --- #
+#--- OCR settings from config ---#
 ocr_cfg  = cfg[engine]
 IMG_EXTS = tuple(ocr_cfg["image_extensions"])
 PDF_EXT  = ocr_cfg["pdf_extension"]  
@@ -132,8 +132,7 @@ def summarize_folder(txt_root, engine, level):
         "median_words": int(np.median(arr)),
         "mean_words": float(arr.mean()),
         "99th_percentile": int(np.percentile(arr, 99)),
-        "max_words": int(arr.max())
-    }
+        "max_words": int(arr.max())}
     return summary
 
 if __name__ == "__main__":
@@ -161,8 +160,7 @@ if __name__ == "__main__":
             "avg_time_ms_per_file": round(avg_time_ms, 2)
         },
         "documents": docs_summary,
-        "drawings":  draw_summary
-    }
+        "drawings":  draw_summary}
 
     stats_path = os.path.join(OCR_STATS, f"ocr_stats_{engine}_{level}.json")
     with open(stats_path, "w", encoding="utf-8") as jf:

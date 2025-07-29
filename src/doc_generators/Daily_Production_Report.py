@@ -12,19 +12,21 @@ import datetime
 customers = ['NORWAY', 'POLAND', 'CANADA', 'BRAZIL', 'GREECE', 'FRANCE', 'TURKEY', 'SWEDEN', 'BELGIUM', 'FINLAND']
 fonts = ['Arial', 'Calibri', 'Aptos']
 supervisors = ['Anna Nowak', 'Jan Kowalski', 'Peter Schmidt', 'Laura Rossi', 'Carlos Garcia']
+
 operators = [
     'Anna Nowak', 'Jan Kowalski', 'Piotr Lewandowski', 'Agnieszka Zielińska',
     'Magdalena Witkowska', 'Nadia Sauter', 'Bartosz Wawrzyniak', 'Mateusz Jarzyna',
     'Wiktor Kopczyński', 'Przemysław Wąsik', 'Dawid Oszmiańczuk']
+
 departments = ["Machining", "Assembly", "Quality Control", "Painting", "Packaging", "Logistics", "Maintenance"]
 shifts = ["A (Morning)", "B (Evening)", "C (Night)"]
 machine_ids = [f"MC-2{str(i).zfill(2)}" for i in range(1, 10)]
+
 products = [
     'MC-540X','TR-200B','HF-390A','PL-601Z','DX-777T','TX-820V','MX-450L','RX-310Z','VF-220D','GL-980S',
     'AL-115Q','KP-320E','BZ-660F','QN-770H','SL-430M','ZR-205R','TY-350G','XK-610U','JD-700W','CN-150C',
     'VR-940T','MS-600P','LK-890B','FT-730X','NE-245A','PW-515Y','RM-860N','WD-180S','KV-390K','CE-905L',
-    'LP-555V','GH-770J','SB-140D','QP-660F','NU-440Z','AZ-300T','XD-710R','RE-850C','MR-160H','TL-900X'
-]
+    'LP-555V','GH-770J','SB-140D','QP-660F','NU-440Z','AZ-300T','XD-710R','RE-850C','MR-160H','TL-900X']
 
 column_synonyms = {
     "Product ID":     ["Product ID","Item ID","Part ID"],
@@ -42,8 +44,7 @@ column_synonyms = {
     "Duration (min)": ["Duration (min)","Time Spent","Total Time","Total duration"],
     "Temperature":    ["Temperature","Temp (°C)","Thermal Reading"],
     "Energy (kWh)":   ["Energy (kWh)","Energy Used","Power Draw"],
-    "Status":         ["Status","Stage","Condition"]
-}
+    "Status":         ["Status","Stage","Condition"]}
 
 daily_intros = [
     "This report summarizes the daily operations and output for the production line.",
@@ -61,8 +62,7 @@ daily_intros = [
     "Review the operational data to track compliance with daily goals.",
     "This dashboard section highlights any production bottlenecks.",
     "Use this shift summary to drive continuous improvement actions.",
-    "All throughput figures are recorded for capacity planning."
-]
+    "All throughput figures are recorded for capacity planning."]
 
 daily_summaries = [
     "All production targets have been logged; deviations are highlighted above.",
@@ -80,8 +80,7 @@ daily_summaries = [
     "Ensure shift-handover notes include any pending issues.",
     "The performance recap supports the morning briefing agenda.",
     "Archive this output summary for end-of-day reporting.",
-    "Use this summary to update the overall production dashboard."
-]
+    "Use this summary to update the overall production dashboard."]
 
 def get_synonym(col):
     return random.choice(column_synonyms.get(col, [col]))
@@ -138,8 +137,8 @@ def add_daily_report_info_table(doc, layout_type):
             random.choice(customers),
             random.choice(supervisors),
             random.choice(departments),
-            random.choice(shifts)
-        ]
+            random.choice(shifts)]
+        
         for i in range(5):
             table.cell(i, 0).text = labels[i]
             table.cell(i, 1).text = values[i]
@@ -159,8 +158,8 @@ def add_daily_report_info_table(doc, layout_type):
             random.choice(supervisors),
             random.choice(departments),
             date_str,
-            random.choice(shifts)
-        ]
+            random.choice(shifts)]
+        
         for i in range(6):
             table.cell(i, 0).text = labels[i]
             table.cell(i, 1).text = values[i]
@@ -191,8 +190,8 @@ def add_machine_operation_table(doc: Document, layout_type: int):
             f"{start:02}:{startm:02}",
             f"{end:02}:{endm:02}",
             str(dur),
-            random.choice(["OK","N/A","Delay","Recalibrated",""])
-        ]
+            random.choice(["OK","N/A","Delay","Recalibrated",""])]
+        
         if layout_type==2:
             vals += [f"{random.uniform(55,80):.1f}",f"{random.uniform(1,3):.2f}"]
         elif layout_type==3:
@@ -228,8 +227,8 @@ def add_production_output_summary(doc, layout_type):
             str(target),
             str(actual),
             str(scrap),
-            f"{scrap_pct:.2f}%" 
-        ]
+            f"{scrap_pct:.2f}%"]
+        
         if layout_type == 3:
             values.append(str(random.randint(0, 10)))
         values.append(random.choice(["", "Rework needed", "Scrap confirmed"]))

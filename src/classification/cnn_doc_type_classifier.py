@@ -24,7 +24,7 @@ os.makedirs(OUT_DIR, exist_ok=True)
 MODEL_PATH = os.path.join(OUT_DIR, f"cnn_doc_type_classifier_{level}.pth")
 METRICS_PATH = os.path.join(OUT_DIR, f"cnn_doc_type_classifier_metrics_{level}.json")
 
-#---hyper params---#
+#--- hyper params ---#
 BATCH_SIZE = 16
 NUM_EPOCHS = 10
 LR = 1e-4
@@ -49,7 +49,7 @@ val_tf = transforms.Compose([
     transforms.Normalize(mean=[0.485, 0.456, 0.406], 
                          std =[0.229, 0.224, 0.225])])
 
-#---dataset split---#
+#--- dataset split ---#
 full_dataset = datasets.ImageFolder(DATA_DIR, transform=train_tf)
 class_names = full_dataset.classes
 num_classes = len(class_names)
@@ -139,16 +139,15 @@ for epoch in range(1, NUM_EPOCHS + 1):
         "train_loss": train_loss,
         "train_acc": train_acc,
         "val_loss": val_loss,
-        "val_acc": val_acc
-    })
+        "val_acc": val_acc})
 
-    #---save best model---#
+    #--- save best model ---#
     if val_acc > best_val_acc:
         best_val_acc = val_acc
         torch.save(model.state_dict(), MODEL_PATH)
         print(f"[INFO] Saved new best model >>>> {MODEL_PATH}")
 
-#--- evaluation (full report)---#
+#--- evaluation ---#
 model.load_state_dict(torch.load(MODEL_PATH, map_location=device))
 model.eval()
 

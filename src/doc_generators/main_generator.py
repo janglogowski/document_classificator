@@ -12,13 +12,14 @@ from .Maintenance_log import generate_maintenance_log
 from .Product_Data_Sheet import generate_product_data_sheet
 
 def generate_database(mode: str = "default", output_folder: str = None, level: str = None):
+
     """
     Generate a set of PDF documents.
     mode:
       - "default": full training set, writes into subfolders per-type.
       - "test":    small test set, writes all into one level folder (no subfolders).
     """
-
+    
     config_path = os.path.join(PROJECT_ROOT, "config.yaml")
     if not os.path.exists(config_path):
         raise FileNotFoundError(f"Nie znaleziono config.yaml w {config_path}")
@@ -58,7 +59,6 @@ def generate_database(mode: str = "default", output_folder: str = None, level: s
             gen_func(i, dest)
 
     print(f"=== Finished generating into '{base}' ===")
-
 
 if __name__ == "__main__":
     generate_database("default")

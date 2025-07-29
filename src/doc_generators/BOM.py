@@ -16,10 +16,10 @@ products = [
     'TX-820V', 'MX-450L', 'RX-310Z', 'VF-220D', 'GL-980S',
     'AL-115Q', 'KP-320E', 'BZ-660F', 'QN-770H', 'SL-430M',
     'ZR-205R', 'TY-350G', 'XK-610U', 'JD-700W', 'CN-150C',
-    'VR-940T', 'MS-600P', 'LK-890B', 'FT-730X', 'NE-245A'
-]
+    'VR-940T', 'MS-600P', 'LK-890B', 'FT-730X', 'NE-245A']
 units = ['kg', 'pcs', 'm', 'liters']
 fonts = ['Arial', 'Calibri', 'Aptos']
+
 items = [
     ('Steel Sheet A36', 'kg', 5.00), ('Hex Bolts M12', 'pcs', 0.25), ('Rubber Gasket 80mm', 'pcs', 0.50),
     ('Bearing 6202 ZZ', 'pcs', 1.50), ('Shaft 500mm', 'pcs', 8.00), ('Packaging Box L', 'pcs', 1.00),
@@ -32,21 +32,21 @@ items = [
     ('Protective Sleeve 50mm', 'm', 1.80), ('Digital Display Unit', 'pcs', 15.00), ('Cable Tie Pack (100)', 'pcs', 0.95),
     ('Gasket Sheet A4', 'pcs', 1.25), ('Fuse 5A', 'pcs', 0.30), ('LED Light Strip', 'm', 2.50),
     ('Battery Pack', 'pcs', 25.00), ('Hinge Set', 'pcs', 2.50), ('Power Switch', 'pcs', 1.20),
-    ('Wooden Pallet', 'pcs', 15.00)
-]
+    ('Wooden Pallet', 'pcs', 15.00)]
+
 remarks_list = [
     '', '', 'SKF brand', 'High grade', 'Certified batch', 'Eco compliant',
     'Imported', 'ROHS compliant', 'ISO-verified', 'Urgent', 'For export',
-    'Li-Ion battery installed', 'Hinge alignment adjusted', 'Switch tested OK'
-]
+    'Li-Ion battery installed', 'Hinge alignment adjusted', 'Switch tested OK']
+
 bom_titles = ["BILL OF MATERIAL", "COMPONENT BREAKDOWN", "BOM Report"]
+
 header_synonyms = {
     "Item Description": ["Component", "Part Name", "Element"],
     "Qty": ["Quantity", "QTY", "Total"],
     "Unit Price": ["Rate", "Cost/unit"],
     "Amount": ["Line Total", "Sum", "Aggregate"],
-    "Remarks": ["Notes", "Comments"]
-}
+    "Remarks": ["Notes", "Comments"]}
 
 bom_intros = [
     "This document provides a detailed breakdown of all components required for the assembly process.",
@@ -64,8 +64,7 @@ bom_intros = [
     "The parts manifest here is designed to support procurement workflows.",
     "All line-item costs are current as per vendor quotes.",
     "This extract shows the bill of components and total projected spend.",
-    "Use this schedule of parts to align with sourcing and stock levels."
-]
+    "Use this schedule of parts to align with sourcing and stock levels."]
 
 bom_summaries = [
     "All listed components have been verified for availability and compliance.",
@@ -83,8 +82,7 @@ bom_summaries = [
     "Cross-verify totals with the ERP system for consistency.",
     "Any deviations from standard pricing have been annotated here.",
     "This closure summary validates that all parts are approved for release.",
-    "Ensure archival of this materials summary for compliance records."
-]
+    "Ensure archival of this materials summary for compliance records."]
 
 def add_horizontal_line(paragraph):
     p = paragraph._p
@@ -154,12 +152,10 @@ def generate_bom_table(doc, layout_type):
                 uom,
                 f"{unit_price:.2f}",
                 f"{amount:,.2f}",
-                random.choice(remarks_list)
-            ]
+                random.choice(remarks_list)]
 
             for row_idx, val in enumerate(values):
                 table.cell(row_idx, col).text = val
-
         return total
 
     elif layout_type == 3:

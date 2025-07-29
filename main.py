@@ -16,17 +16,17 @@ from PIL import Image
 from pdf2image import convert_from_path
 from collections import OrderedDict
 
-# --- Load config ---
+#--- load config ---#
 cfg  = yaml.safe_load(open("config.yaml", encoding="utf-8"))
 ROOT = os.path.abspath(cfg["paths"]["project_root"])
 
-# --- Pipeline manual override ---
+#--- manual override ---#
 ocr_engine     = "easy_ocr"         # "easy_ocr"/"tesseract_ocr"
 vsd_classifier = "cnn"              # "cnn"/"tfidf_lr"
 doc_classifier = "tfidf_lr"         # "cnn"/"tfidf_lr"
 level          = "level3"           # "level1"/"level2"/"level3"
 
-# --- Paths ---
+#--- paths ---#
 P       = cfg["paths"]
 DATA    = P["data"]
 MODELS  = DATA["models"]
@@ -39,7 +39,7 @@ METADATA_CSV  = os.path.join(ROOT, TESTS["metadata"])
 os.makedirs(INPUT_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
-# --- OCR settings ---
+#--- OCR settings ---# 
 ocr_cfg  = cfg[ocr_engine]
 img_exts = tuple(ocr_cfg["image_extensions"])
 pdf_ext  = ocr_cfg["pdf_extension"]
@@ -47,7 +47,7 @@ pdf_dpi  = ocr_cfg["pdf_dpi"]
 max_dim  = ocr_cfg["max_dim"]
 lang     = ocr_cfg["lang"]
 
-# --- Tesseract OCR function ---
+#--- tesseract OCR function ---#
 def ocr_tesseract(path):
     ext = os.path.splitext(path)[1].lower()
     text = ""
@@ -69,7 +69,7 @@ def ocr_tesseract(path):
             text += pytesseract.image_to_string(gray, lang=lang) + "\n"
     return text.strip()
 
-# --- EasyOCR function ---
+#--- easyOCR function ---#
 if ocr_engine == "easy_ocr":
     import easyocr
     langs = [lang] if isinstance(lang,str) else list(lang)
@@ -93,20 +93,20 @@ if ocr_engine == "easy_ocr":
             return "\n\n".join(out)
         return ""
 
-# --- Select OCR ---
+#--- select OCR ---#
 if ocr_engine=="tesseract_ocr":
     pytesseract.pytesseract.tesseract_cmd = cfg["tesseract_ocr"]["tesseract_cmd"]
     ocr_image = ocr_tesseract
 else:
     ocr_image = ocr_easyocr
 
-# --- Generate filename & log metadata ---
+#--- generate filename & log metadata ---#
 def generate_filename(doc_type, ext):
     uid = uuid.uuid4().hex[:6]
     safe = doc_type.replace(" ","_").lower()
     return f"{safe}_{uid}{ext}"
 
-# --- log metadata --- #
+#--- log metadata ---#
 def log_metadata(doc_type, src, new, classification_time=None):
     from openpyxl import Workbook, load_workbook
     from openpyxl.styles import PatternFill
@@ -139,9 +139,7 @@ def log_metadata(doc_type, src, new, classification_time=None):
 
     wb.save(excel_path)
 
-
-
-# --- Load text‐based models for doc vs drw ---
+#--- load text‐based models for doc vs drw ---#
 if vsd_classifier=="tfidf_lr":
     lr_vs = MODELS["lr_doc_vs_drw"]
     base_vs = os.path.join(ROOT,lr_vs,ocr_engine)
@@ -181,7 +179,7 @@ if vsd_classifier == "cnn":
         idx = vsd_cnn(t).argmax(dim=1).item()
         return ["document", "tech_drw"][idx]
 
-# --- Load doc‐type classifier ---
+#--- load doc‐type classifier ---#
 if doc_classifier=="tfidf_lr":
     lr_dt = MODELS["lr_doc_type_classifier"][ocr_engine]
     base_dt = os.path.join(ROOT,lr_dt)
@@ -198,16 +196,16 @@ else:
     dt_cnn_tf = transforms.Compose([
         transforms.Resize((256,256)),
         transforms.ToTensor(),
-        transforms.Normalize([0.485,0.456,0.406],[0.229,0.224,0.225])
-    ])
+        transforms.Normalize([0.485,0.456,0.406],[0.229,0.224,0.225])])
+    
     names = [
         "BOM",
         "DAILY_REPORT",
         "INSPECTION_REPORT",
         "MAINTENANCE_LOG",
         "PRODUCT_DATA_SHEET",
-        "QUALITY_CHECKLIST"
-    ]
+        "QUALITY_CHECKLIST"]
+    
     def predict_dt_cnn(path):
         ext=os.path.splitext(path)[1].lower()
         if ext in img_exts:
@@ -221,7 +219,7 @@ else:
         idx=dt_cnn(t).argmax(dim=1).item()
         return names[idx]
 
-# --- Main loop ---
+#--- main loop ---#
 print(f"\n=== Watching {INPUT_FOLDER} | OCR={ocr_engine} | VSD={vsd_classifier} | DT={doc_classifier} ===\n")
 while True:
     for fn in sorted(os.listdir(INPUT_FOLDER)):
@@ -236,7 +234,7 @@ while True:
         if vsd_classifier == "tfidf_lr" or doc_classifier == "tfidf_lr":
             text = ocr_image(src).strip()
 
-        # Stage 1: doc vs drw
+        # stage 1: doc vs drw
         if vsd_classifier == "tfidf_lr":
             p1 = vsd_model.predict(vsd_vect.transform([text]))[0] if text else "document"
         else:
@@ -245,7 +243,7 @@ while True:
         if p1 != "document":
             dstype = "tech_drw"
         else:
-            # Stage 2: doc‐type
+        # stage 2: doc‐type classifier
             if doc_classifier == "tfidf_lr":
                 text = ocr_image(src).strip()
                 dstype = dt_model.predict(dt_vect.transform([text]))[0] if text else "undefined"

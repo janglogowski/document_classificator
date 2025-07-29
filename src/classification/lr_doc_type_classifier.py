@@ -9,15 +9,15 @@ from sklearn.metrics import classification_report, accuracy_score
 import joblib
 import numpy as np
 
-# --- load config --- #
+#--- load config ---#
 cfg = yaml.safe_load(open("config.yaml", encoding="utf-8"))
 ROOT = os.path.abspath(cfg["paths"]["project_root"])
 
-# --- choose OCR engine and scan level --- #
+#--- choose OCR engine and scan level ---#
 engine = "tesseract_ocr"
 level = "level3"
 
-# --- derive paths --- #
+#--- derive paths ---#
 DOCS_FOLDER = os.path.join(ROOT, cfg["paths"]["data"]["extracted"][engine][level])
 MODEL_PATH = os.path.join(ROOT, cfg["paths"]["data"]["models"]["lr_doc_type_classifier"][engine], f"doc_type_classifier_{level}.pkl")
 VECT_PATH = os.path.join(ROOT, cfg["paths"]["data"]["models"]["lr_doc_type_classifier"][engine], f"doc_type_vect_{level}.pkl")
@@ -30,7 +30,7 @@ print(f"Training data folder: {DOCS_FOLDER}")
 print(f"Model will be saved to: {MODEL_PATH}")
 print(f"Vectorizer will be saved to: {VECT_PATH}")
 
-# --- gather all .txt and count empties --- #
+#--- gather all .txt and count empty ones ---#
 all_txt = []
 empty_txt = []
 for root_dir, _, files in os.walk(DOCS_FOLDER):
@@ -46,7 +46,7 @@ for root_dir, _, files in os.walk(DOCS_FOLDER):
 print(f"\nTotal .txt files found: {len(all_txt)}")
 print(f"Empty and skipped:       {len(empty_txt)}")
 
-# --- collect non-empty docs & labels --- #
+#--- collect non-empty docs & labels ---#
 docs, labels = [], []
 for root_dir, _, files in os.walk(DOCS_FOLDER):
     for fname in files:
@@ -80,7 +80,7 @@ print("Class distribution (all):", dict(dist))
 if not docs:
     raise RuntimeError(f"No .txt files found under {DOCS_FOLDER}")
 
-# --- TF–IDF vectorization --- #
+#--- TF–IDF vectorization ---#
 tfidf_cfg = cfg["doc_type_classifier"]["tfidf"]
 stop = tfidf_cfg.get("stop_words") or None
 
@@ -95,7 +95,7 @@ print(f"TF–IDF matrix shape: {X.shape}")
 
 y = labels
 
-# --- train/test split --- #
+#--- train/test split ---#
 split_cfg = cfg["doc_type_classifier"]["train_test_split"]
 print(f"\nSplitting data (test_size={split_cfg['test_size']})...")
 X_train, X_test, y_train, y_test = train_test_split(
@@ -108,14 +108,14 @@ print(f"Train size: {X_train.shape[0]}, Test size: {X_test.shape[0]}")
 print("Class distribution (train):", dict(Counter(y_train)))
 print("Class distribution (test):",  dict(Counter(y_test)))
 
-# --- train logistic regression --- #
+#--- train logistic regression ---#
 lr_cfg = cfg["doc_type_classifier"]["logistic_regression"]
 print("\nTraining LogisticRegression with config:", lr_cfg)
 model = LogisticRegression(**lr_cfg)
 model.fit(X_train, y_train)
 print("Model training complete")
 
-# --- evaluation --- #
+#--- evaluation ---#
 print("\nEvaluation on test set")
 y_pred = model.predict(X_test)
 acc = accuracy_score(y_test, y_pred)
@@ -123,19 +123,19 @@ report_dict = classification_report(y_test, y_pred, output_dict=True)
 print(f"Accuracy: {acc:.4f}")
 print(classification_report(y_test, y_pred))
 
-# --- cross-validation --- #
+#--- cross-validation ---#
 print("\nPerforming cross-validation...")
-cv_scores = cross_val_score(model, X, y, cv=5)  # <<<
+cv_scores = cross_val_score(model, X, y, cv=5)
 cv_mean = np.mean(cv_scores)
 cv_std = np.std(cv_scores)
 print(f"Cross-validation scores: {cv_scores}")
 print(f"Mean CV accuracy: {cv_mean:.4f}, Std: {cv_std:.4f}")
 
-# --- retrain on full data --- #
-print("\nRetraining model on full dataset (X, y)...")  # <<<
-model.fit(X, y)  # <<<
+#--- retrain on full data ---#
+print("\nRetraining model on full dataset (X, y)...")
+model.fit(X, y)
 
-# --- inspect top features per class --- #
+#--- inspect top features per class ---#
 feature_names = vectorizer.get_feature_names_out()
 for class_idx, class_label in enumerate(model.classes_):
     coefs = model.coef_[class_idx]
@@ -144,13 +144,13 @@ for class_idx, class_label in enumerate(model.classes_):
     for i in top10:
         print(f"  {feature_names[i]}")
 
-# --- save model & vectorizer --- #
+#--- save model & vectorizer ---#
 joblib.dump(model, MODEL_PATH)
 joblib.dump(vectorizer, VECT_PATH)
 print(f"\nSaved model → {MODEL_PATH}")
 print(f"Saved vectorizer → {VECT_PATH}")
 
-# --- save metrics to JSON --- #
+#--- save metrics to JSON ---#
 metrics = {
     "engine": engine,
     "level": level,
@@ -163,8 +163,7 @@ metrics = {
     "logistic_regression_params": lr_cfg,
     "cross_val_scores": cv_scores.tolist(),
     "cross_val_mean": cv_mean,
-    "cross_val_std": cv_std
-}
+    "cross_val_std": cv_std}
 
 metrics_path = os.path.join(os.path.dirname(MODEL_PATH), f"doc_type_classifier_metrics_{level}.json")
 os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
@@ -172,4 +171,4 @@ os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
 with open(metrics_path, "w", encoding="utf-8") as f:
     json.dump(metrics, f, indent=2, ensure_ascii=False)
 
-print(f"Saved metrics → {metrics_path}")
+print(f"Saved metrics >>>> {metrics_path}")

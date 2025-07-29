@@ -12,6 +12,8 @@ from docx.enum.table import WD_ALIGN_VERTICAL
 
 #---lists used by the generator---#
 customers = ['NORWAY', 'POLAND', 'CANADA', 'BRAZIL', 'GREECE', 'FRANCE', 'TURKEY', 'SWEDEN', 'BELGIUM', 'FINLAND']
+fonts = ['Arial', 'Calibri', 'Aptos'] 
+
 products = [
     'MC-540X', 'TR-200B', 'HF-390A', 'PL-601Z', 'DX-777T',
     'TX-820V', 'MX-450L', 'RX-310Z', 'VF-220D', 'GL-980S',
@@ -20,8 +22,8 @@ products = [
     'VR-940T', 'MS-600P', 'LK-890B', 'FT-730X', 'NE-245A',
     'PW-515Y', 'RM-860N', 'WD-180S', 'KV-390K', 'CE-905L',
     'LP-555V', 'GH-770J', 'SB-140D', 'QP-660F', 'NU-440Z',
-    'AZ-300T', 'XD-710R', 'RE-850C', 'MR-160H', 'TL-900X'
-]
+    'AZ-300T', 'XD-710R', 'RE-850C', 'MR-160H', 'TL-900X']
+
 items = [
     'Steel Sheet A36', 'Hex Bolts M12', 'Rubber Gasket 80mm', 'Bearing 6202 ZZ', 'Shaft 500mm',
     'Packaging Box L', 'Copper Wire 3mm', 'Insulation Foam Pad', 'Control Panel Mount',
@@ -32,10 +34,8 @@ items = [
     'Cable Tie Pack (100)', 'Gasket Sheet A4', 'O-Ring NBR 60mm', 'Fuse 5A', 'LED Light Strip',
     'Cooling Gel Pack', 'Graphite Pad', 'Support Foot Steel', 'Wiring Loom 1m',
     'Insulated Tube 25mm', 'Pressure Valve', 'Capacitor 450V', 'Thermal Fuse',
-    'Nut M6', 'Connector 2P', 'Heat Sink ALU', 'Teflon Tape Roll', 'Battery Pack','Hinge Set','Power Switch','Wooden Pallet'
-]
+    'Nut M6', 'Connector 2P', 'Heat Sink ALU', 'Teflon Tape Roll', 'Battery Pack','Hinge Set','Power Switch','Wooden Pallet']
 
-fonts = ['Arial', 'Calibri', 'Aptos'] 
 checklist_points = [
     "Shipping mark is illegible or missing",
     "Carton is damaged or markings incorrect",
@@ -66,8 +66,7 @@ checklist_points = [
     "Battery not included",
     "Rubber Switch not working",
     "Hinges loose",
-    "Dust/debris inside packaging"
-]
+    "Dust/debris inside packaging"]
 
 inspectors = [
     'Anna Nowak', 'Jan Kowalski', 'Piotr Lewandowski', 'Agnieszka Zielińska',
@@ -77,8 +76,7 @@ inspectors = [
 signature_roles = [
     ("Supervised by:","Date:"),
     ("Checked by:","Timestamp:"),
-    ("Verified by:","On:")
-]
+    ("Verified by:","On:")]
 
 column_synonyms = {
     "Product ID":      ["Product ID","Item ID","Part No."],
@@ -90,8 +88,7 @@ column_synonyms = {
     "MA":              ["MA","Major"],
     "MI":              ["MI","Minor"],
     "Hold":            ["Hold","Quarantine"],
-    "Notes":           ["Notes","Comments","Remarks"]
-}
+    "Notes":           ["Notes","Comments","Remarks"]}
 
 qc_intros = [
     "This checklist captures quality inspection points and sampling levels.",
@@ -109,8 +106,7 @@ qc_intros = [
     "All checklist entries are timestamped for traceability.",
     "Confirm that sampling levels comply with customer agreements.",
     "Archive this list in the quality-management system.",
-    "This closure summary indicates compliance with inspection criteria."
-]
+    "This closure summary indicates compliance with inspection criteria."]
 
 qc_summaries = [
     "All critical and major inspection points have been addressed.",
@@ -128,8 +124,7 @@ qc_summaries = [
     "Use this closure report to update the quality KPI dashboard.",
     "Ensure that all remarks have corresponding evidence attachments.",
     "This final note confirms the checklist is complete and approved.",
-    "All summary comments have been validated by the QA team."
-]
+    "All summary comments have been validated by the QA team."]
 
 def get_synonym(hdr):
     return random.choice(column_synonyms.get(hdr, [hdr]))
@@ -153,8 +148,7 @@ def add_quality_header(doc, layout_type):
         "Audit Trail", "Verification Log", "Inspection Checklist",
         "Quality Inspection List", "Inspection Register", "QC Checklist",
         "Compliance Log", "Quality Review", "Inspection Record",
-        "Quality Verification", "Inspection Summary", "Conformance Report"
-    ]
+        "Quality Verification", "Inspection Summary", "Conformance Report"]
     
     title_text = random.choice(titles)
     

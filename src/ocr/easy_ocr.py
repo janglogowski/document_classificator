@@ -126,7 +126,6 @@ def summarize_folder(txt_root, engine, level):
         "max_words": int(arr.max())
     }
 
-    # optional console print
     print(f"\nOCR stats for {txt_root}:")
     for k, v in summary.items():
         if k in ("engine","level","folder"): 
@@ -147,7 +146,6 @@ if __name__ == "__main__":
     total_files    = len(_file_durations_ms)
     avg_time_ms    = (sum(_file_durations_ms) / total_files) if total_files else 0.0
 
-    # get two summaries:
     docs_summary  = summarize_folder(DOCS_OUT,     engine, level)
     draw_summary  = summarize_folder(DRAWINGS_OUT, engine, level)
 
@@ -160,8 +158,7 @@ if __name__ == "__main__":
             "avg_time_ms_per_file": round(avg_time_ms, 2)
         },
         "documents": docs_summary,
-        "drawings":  draw_summary
-    }
+        "drawings":  draw_summary}
 
     stats_path = os.path.join(OCR_STATS, f"ocr_stats_{engine}_{level}.json")
     with open(stats_path, "w", encoding="utf-8") as jf:

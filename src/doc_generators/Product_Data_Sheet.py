@@ -12,6 +12,7 @@ import datetime
 fonts = ['Arial', 'Calibri']
 locations = ["Plant 3A", "Plant 2B", "Plant 1C"]
 supervisors = ['Anna Nowak', 'Jan Kowalski', 'Peter Schmidt', 'Laura Rossi', 'Carlos Garcia']
+
 products = [
     'MC-540X', 'TR-200B', 'HF-390A', 'PL-601Z', 'DX-777T',
     'TX-820V', 'MX-450L', 'RX-310Z', 'VF-220D', 'GL-980S',
@@ -20,8 +21,7 @@ products = [
     'VR-940T', 'MS-600P', 'LK-890B', 'FT-730X', 'NE-245A',
     'PW-515Y', 'RM-860N', 'WD-180S', 'KV-390K', 'CE-905L',
     'LP-555V', 'GH-770J', 'SB-140D', 'QP-660F', 'NU-440Z',
-    'AZ-300T', 'XD-710R', 'RE-850C', 'MR-160H', 'TL-900X'
-]
+    'AZ-300T', 'XD-710R', 'RE-850C', 'MR-160H', 'TL-900X']
 
 item_to_material = {
     'Steel Sheet A36': "Carbon Steel A36",
@@ -52,19 +52,14 @@ item_to_material = {
     'Nut M6': "Zinc-Plated Steel",
     'Connector 2P': "Glass-Filled Nylon",
     'Heat Sink ALU': "Aluminum 6061-T6",
-    'Teflon Tape Roll': "Teflon Tape Roll"
-}
+    'Teflon Tape Roll': "Teflon Tape Roll"}
 
-synonym_titles = [
-    "Component Overview", "Unit Data Specification", "Reference Configuration",
-    "Part Configuration Log"]
+synonym_titles = ["Component Overview", "Unit Data Specification", "Reference Configuration","Part Configuration Log"]
+section_order = ["param_first", "mat_first", "only_param", "only_mat"]
 
 column_synonyms = {
     "Component Name": ["Item", "Label", "Part", "Subcomponent"],
-    "Material": ["Raw Material", "Composition", "Base"]
-}
-
-section_order = ["param_first", "mat_first", "only_param", "only_mat"]
+    "Material": ["Raw Material", "Composition", "Base"]}
 
 pds_intros = [
     "This data sheet provides key specifications and material details.",
@@ -82,8 +77,7 @@ pds_intros = [
     "Use this spec sheet to validate assembly instructions.",
     "All data entries are traceable to design revision history.",
     "Confirm that performance ranges comply with project requirements.",
-    "This report extract is prepared for design-verification audits."
-]
+    "This report extract is prepared for design-verification audits."]
 
 pds_summaries = [
     "All specifications meet the design requirements and industry standards.",
@@ -101,8 +95,7 @@ pds_summaries = [
     "Use this summary to cross-check with BOM and inspection reports.",
     "Flag any missing parameters for urgent specification updates.",
     "This closure note indicates the data sheet is ready for release.",
-    "All summary comments have been recorded in the revision log."
-]
+    "All summary comments have been recorded in the revision log."]
 
 parameter_pool = {
     "Unit Type": ["Hydraulic Power Unit", "Pneumatic Control Unit", "Cooling Circulation System"],
@@ -125,15 +118,13 @@ parameter_pool = {
     "Mounting": ["Skid base with vibration pads", "Wall-mounted", "Rack frame"],
     "Battery Capacity": ["2 Ah", "5 Ah", "10 Ah"],
     "Charging Time": ["2 h", "4 h", "6 h"],
-    "Service Interval": ["500 h", "1000 h", "12 months"]
-}
+    "Service Interval": ["500 h", "1000 h", "12 months"]}
 
 parameter_synonyms = {
     "Unit Type": ["Unit Type", "Model Type", "Configuration Type"],
     "Design Pressure": ["Design Pressure", "Operating Pressure", "Rated Pressure"],
     "Flow Rate": ["Flow Rate", "Throughput", "Fluid Flow"],
-    "Voltage": ["Voltage", "Operating Voltage", "Supply Voltage"]
-}
+    "Voltage": ["Voltage", "Operating Voltage", "Supply Voltage"]}
 
 def generate_parameter_subset(layout_type):
     essential_keys = ["Unit Type", "Design Pressure", "Flow Rate", "Voltage"]
@@ -152,7 +143,6 @@ def generate_parameter_subset(layout_type):
     for key in selected_keys:
         header_choices = parameter_synonyms.get(key, [key])
         header = random.choice(header_choices)
-        # wybór wartości
         value = random.choice(parameter_pool[key])
         result.append((header, value))
     return result
@@ -257,11 +247,7 @@ def add_parameter_table(doc, layout_type):
     doc.add_paragraph("") 
 
 def add_material_table(doc, layout_type):
-    specs = [
-        "DIN EN 10025", "ISO 2768", "Class A tolerance", "IP67 rated",
-        "Heat-resistant", "Electrical grade", "UL-listed", "Anticorrosive",
-        "RoHS compliant", "CE certified"
-    ]
+    specs = ["DIN EN 10025", "ISO 2768", "Class A tolerance", "IP67 rated","Heat-resistant", "Electrical grade", "UL-listed", "Anticorrosive","RoHS compliant", "CE certified"]
 
     layout_variant = random.choice(section_order)
     if layout_variant == "only_param":
