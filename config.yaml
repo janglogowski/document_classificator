@@ -1,123 +1,134 @@
-#--- general structure and paths ---#
+# =========================
+# General paths and folders
+# =========================
 paths:
-  project_root: "."
+  project_root: "."       # Root of the project (absolute or relative)
+
   data:
-    raw: "data/raw"
-    generators:
+    scans: "data/scans"   # Pseudo-scans (JPG) created by the scan imitator
+
+    processed:
+      ocr_root:    "data/processed/ocr"      # Output of OCR (TXT files)
+      tables_root: "data/processed/tables"   # ETL tables (ocr.parquet, features.parquet, labels.csv)
+      metrics_root: "data/processed/metrics" # Metrics and statistics (OCR, model evaluation)
+
+    generators:            # Names of generator subfolders for each document type
       bom:                "BOMS"
       quality_checklist:  "QUALITY_CHECKLISTS"
       daily_report:       "DAILY_REPORTS"
       inspection_report:  "INSPECTION_REPORTS"
       maintenance_log:    "MAINTENANCE_LOGS"
       product_data_sheet: "PRODUCT_DATA_SHEETS"
-    scans:
+
+    scans:                 # Scan folders for each level of difficulty
       docs:
         level1:  "data/scans/docs/level1"
         level2:  "data/scans/docs/level2"
         level3:  "data/scans/docs/level3"
       technical_drawings: "data/scans/technical_drawings"
-    extracted:
-      tesseract_ocr:
-        level1:  "data/extracted/tesseract_ocr/level1"
-        level2:  "data/extracted/tesseract_ocr/level2"
-        level3:  "data/extracted/tesseract_ocr/level3"
-        technical_drawings: "data/extracted/tesseract_ocr/technical_drawings"
-      easy_ocr:
-        level1:  "data/extracted/easy_ocr/level1"
-        level2:  "data/extracted/easy_ocr/level2"
-        level3:  "data/extracted/easy_ocr/level3"
-        technical_drawings: "data/extracted/easy_ocr/technical_drawings"
-    test: "data/test"
-    models:
-      cnn_doc_type_classifier: "data/models/cnn_doc_type_classifier"
-      cnn_doc_vs_drw: "data/models/cnn_doc_vs_drw"
-      lr_doc_vs_drw: "data/models/lr_doc_vs_drw"
+
+    test: "data/test"       # Test data folder (optional)
+
+    models:                 # Paths to model weights and vectorizers
+      cnn_doc_type_classifier: "models/cnn_doc_type_classifier"
+      cnn_doc_vs_drw:         "models/cnn_doc_vs_drw"
+      lr_doc_vs_drw:
+        easy_ocr: "models/lr_doc_vs_drw/easy_ocr"
+        tesseract_ocr: "models/lr_doc_vs_drw/tesseract_ocr"
       lr_doc_type_classifier:
-        easy_ocr:      "data/models/lr_doc_type_classifier/easy_ocr"
-        tesseract_ocr: "data/models/lr_doc_type_classifier/tesseract_ocr"
+        easy_ocr:      "models/lr_doc_type_classifier/easy_ocr"
+        tesseract_ocr: "models/lr_doc_type_classifier/tesseract_ocr"
       rule_based_classifier:
-        easy_ocr:      "data/models/rule_based_classifier/easy_ocr"
-        tesseract_ocr: "data/models/rule_based_classifier/tesseract_ocr"
-    ocr_results: "data/ocr_results"
+        easy_ocr:      "models/rule_based_classifier/easy_ocr"
+        tesseract_ocr: "models/rule_based_classifier/tesseract_ocr"
+
+    ocr_results: "data/ocr_results"   # Optional folder for OCR statistics and logs
+
   tests:
-    input:    "tests/input"
-    output:   "tests/output"
-    metadata: "tests/metadata.csv"
+    input:    "tests/input"          # Folder for test input files
+    output:   "tests/output"         # Folder for test output files
+    metadata: "tests/metadata.csv"   # Metadata logging for test runs
+
   poppler:
-    bin_path: "C:/poppler/Library/bin"
+    bin_path: "C:/poppler/Library/bin"  # Path to Poppler binaries for PDF→Image
 
 
-#--- generator settings ---#
+# =========================
+# Generator settings
+# =========================
 generator_settings:
-  default:
-    num_documents: 300
-    output_folder: "data/raw" # database for traning the models
-  test:
-    num_documents: 5
-    output_folder: "tests/test_data/test_docs"  # database to test the models with new data
+  default:                         # Used for training datasets
+    num_documents: 1
+    output_folder: "data/raw"      # Database for training the models
+
+  test:                            # Used for test pipelines
+    num_documents: 1
+    output_folder: "tests/test_data/test_docs"  # Database to test the models
 
 
-#--- scan imitator settings ---#
+# =========================
+# Scan imitator settings
+# =========================
 augmentation:
   levels:
 
-    level1:
+    level1:                       # Light augmentation, clean scans
       pdf:
         dpi: 300
       process_image:
         resize_scale: 0.95
 
-        #--- contrast / brightness ---# 
+        # --- contrast / brightness --- 
         contrast_probability: 0.3
         contrast_range: [1.0, 1.15]
         brightness_probability: 0.3
         brightness_range: [0.95, 1.05]
 
-        #--- crop ---#
+        # --- crop ---
         crop_probability: 0.1
         crop_max_offset: [10, 10]
 
-        #--- rotate ---#
+        # --- rotate ---
         rotate_probability: 0.1
         rotate_angle_range: [-1.5, 1.5]
         rotate_180_probability: 0.0
 
-        #--- noise ---#
+        # --- noise ---
         noise_probability: 0.1
         noise_std_range: [0.3, 0.8]
 
-        #--- vertical streak ---#
+        # --- vertical streak ---
         vertical_streak_probability: 0.05
         vertical_streak_width_min: 10
         vertical_streak_width_max: 30
         vertical_streak_intensity_min: 0.97
         vertical_streak_intensity_max: 1.02
 
-        #--- dust ---#
+        # --- dust ---
         dust_probability: 0.05
         dust_count: 50
         dust_max_radius: 1
 
-        #--- motion blur ---#
+        # --- motion blur ---
         motion_blur_probability: 0.1
         motion_blur_size_options: [3, 5]
         motion_blur_directions: ["horizontal", "vertical"]
 
-        #--- page warp ---#
+        # --- page warp ---
         page_warp_probability: 0.05
         page_warp_amplitude: [0.5, 1.0]
 
-        #--- crumple map ---#
+        # --- crumple map ---
         crumple_map_probability: 0.05
         crumple_map_std: 2
         crumple_map_blur_kernel: [51, 51]
 
-        #--- vignette ---#
+        # --- vignette ---
         vignette_probability: 0.05
         vignette_strength: 0.2
         inverse_vignette_probability: 0.1
 
-        #--- textures ---#
+        # --- textures ---
         paper_texture_probability: 0.5
         paper_texture_paths:
           - "textures/paper1.jpg"
@@ -125,10 +136,10 @@ augmentation:
         paper_texture_opacity: 0.15
         paper_texture_scale: 1.0
 
-        #--- JPEG quality ---#
+        # --- JPEG quality ---
         jpeg_quality_range: [80, 95]
 
-    level2:
+    level2:                       # Medium degradation
       pdf:
         dpi: 300
       process_image:
@@ -176,15 +187,15 @@ augmentation:
 
         paper_texture_probability: 1
         paper_texture_paths:
-          - "textures/paper1.jpg"
-          - "textures/paper2.jpg"
-          - "textures/paper3.jpg"
+          - "data/assets/textures/paper1.jpg"
+          - "data/assets/textures/paper2.jpg"
+          - "data/assets/textures/paper3.jpg"
         paper_texture_opacity: 0.3
         paper_texture_scale: 1.0
 
         jpeg_quality_range: [55, 85]
 
-    level3:
+    level3:                       # Heavy degradation, worst-case OCR
       pdf:
         dpi: 200
       process_image:
@@ -232,39 +243,38 @@ augmentation:
 
         paper_texture_probability: 1
         paper_texture_paths:
-          - "textures/paper1.jpg"
-          - "textures/paper2.jpg"
-          - "textures/paper3.jpg"
+          - "data/assets/textures/paper1.jpg"
+          - "data/assets/textures/paper2.jpg"
+          - "data/assets/textures/paper3.jpg"
         paper_texture_opacity: 0.45
         paper_texture_scale: 1.2
 
         jpeg_quality_range: [25, 55]
 
 
-#--- ocr settings ---#
+# =========================
+# OCR settings
+# =========================
 tesseract_ocr:
-  lang: "eng"                             
-  pdf_dpi: 300                            
+  lang: "eng"
+  pdf_dpi: 300
   image_extensions: ['.jpg','.jpeg','.png','.tiff','.bmp']
-  pdf_extension:   '.pdf'
-  max_dim:           800                                       
+  pdf_extension: '.pdf'
+  max_dim: 800
   tesseract_cmd: "C:/Program Files/Tesseract-OCR/tesseract.exe"
 
 easy_ocr:
   lang:
     - en
-  pdf_dpi: 300                 
-  image_extensions:
-    - .jpg
-    - .jpeg
-    - .png
-    - .tiff
-    - .bmp
-  pdf_extension: ".pdf"
-  max_dim: 1024         
-  
-           
-#--- doc-vs-drw classifier settings ---#
+  pdf_dpi: 300
+  image_extensions: ['.jpg','.jpeg','.png','.tiff','.bmp']
+  pdf_extension: '.pdf'
+  max_dim: 1024
+
+
+# =========================
+# Doc-vs-Drw classifier settings
+# =========================
 doc_vs_drw_classifier:
   tfidf:
     stop_words:    "english"
@@ -280,11 +290,13 @@ doc_vs_drw_classifier:
     random_state: 41
 
 
-#--- doc type model settings ---#                         
+# =========================
+# Doc type classifier settings
+# =========================
 doc_type_classifier:
   tfidf:
     max_features: 1000
-    stop_words:   null       
+    stop_words:   null
   train_test_split:
     test_size:  0.2
     stratify:   true
@@ -296,5 +308,18 @@ doc_type_classifier:
     class_weight: "balanced"
     random_state: 41
 
+
+# =========================
+# Sampling settings
+# =========================
 sampling:
-  docs_per_subfolder: 100  
+  docs_per_subfolder: 100
+
+# =========================
+# Main pipeline settings
+# =========================
+defaults:
+  ocr_engine: "easy_ocr"
+  vsd_classifier: "cnn"
+  doc_classifier: "tfidf_lr"
+  level: "level3"
