@@ -119,19 +119,9 @@ Support for layout complexity levels:
 | Level   | Description                  |
 |---------|------------------------------|
 | level1  | Clean synthetic structure     |
-| level2  | Moderate noise/variation      |
-| level3  | Realistic layout + artifacts  |
+| level2  | Real-life examples (typical quality)    |
+| level3  | Heavily distorted, low-quality scans  |
 
-## FAQ
-
-Q: Do I need to retrain CNN every time?  
-A: No. Trained models are stored in `models/`, and loaded at runtime.
-
-Q: Why do I need OCR if CNN uses images?  
-A: Only `tfidf_lr` models require `.txt` input. CNNs work directly on image data.
-
-Q: Why are models split into doc_type and doc_vs_drw?  
-A: This allows the system to first determine if a file is a technical drawing or document, then classify document type only if needed.
 
 ## Author Notes
 
