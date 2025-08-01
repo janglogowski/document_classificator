@@ -8,7 +8,6 @@ This project provides an end-to-end machine learning pipeline for automatic clas
 - Scan simulation with artifacts
 - OCR extraction (Tesseract or EasyOCR)
 - Machine Learning & Deep Learning classification (Logistic Regression & CNN)
-- Organized CLI usage and modular architecture
 
 ## Folder Structure
 
