@@ -43,7 +43,7 @@ while True:
             continue
 
         src = os.path.join(INPUT_FOLDER, fn)
-        print(f"[→] {fn}")
+        print(f"[>] {fn}")
         start_time = time.time()
 
         text = ""
@@ -63,6 +63,6 @@ while True:
         shutil.move(src, os.path.join(OUTPUT_FOLDER, new_name))
         log_metadata(METADATA_CSV, dstype, src, new_name, ocr_engine, vsd_classifier, doc_classifier, level, classification_time)
 
-        print(f"[OK] → {new_name} (classified in {classification_time}s)\n")
+        print(f"[OK] >>>> {new_name} (classified in {classification_time}s)\n")
 
     time.sleep(1.0)

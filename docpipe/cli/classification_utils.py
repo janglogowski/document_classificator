@@ -46,7 +46,7 @@ def predict_doc_vs_drw(path, classifier, model, text, cfg):
     ocr_engine = cfg["defaults"]["ocr_engine"]
     if classifier == "tfidf_lr":
         model, vect = model
-        return model.predict(vect.transform([text]))[0] if text else "document"
+        return model.predict(vect.transform([text]))[0] if text else "undefined"
     else:
         ext = os.path.splitext(path)[1].lower()
         if ext in cfg[ocr_engine]["image_extensions"]:
