@@ -1,0 +1,157 @@
+COMPONENT BREAKDOWN 
+
+Customer ID: NORWAY 
+Product ID: QN-770H 
+
+Coordinator: Jan Kowalski 
+Internal No.: 4833223 
+
+Date: 2025-05-07 
+Order Qty: 187 
+
+The parts manifest here is designed to support procurement workflows. All line-item costs are 
+current as per vendor quotes. The component roster below includes unit costs and batch codes. 
+Ensure each component meets the specified quality standards. 
+
+No 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Item 
+Description 
+Control 
+Panel 
+Mount 
+Insulation 
+Foam Pad 
+Epoxy 
+Resin Kit 
+Protective 
+Sleeve 
+50mm 
+Cable Tie 
+Pack (100) 
+Plastic 
+Rivets 
+
+Consumption  Extra 
+
+Qty 
+
+UOM 
+
+Rate 
+
+Amount  Remarks 
+
+2.37 
+
+2.57 
+
+1.49 
+
+1.57 
+
+3.11 
+
+2.63 
+
+% 
+5% 
+
+5% 
+
+0% 
+
+22 
+
+pcs 
+
+12.00 
+
+264.00 
+
+5 
+
+3 
+
+pcs 
+
+3.20 
+
+16.00 
+
+pcs 
+
+7.30 
+
+21.90 
+
+10% 
+
+16 
+
+m 
+
+1.80 
+
+28.80 
+
+Certified 
+batch 
+Imported 
+
+SKF 
+brand 
+
+0% 
+
+0% 
+
+17 
+
+25 
+
+pcs 
+
+0.95 
+
+16.15 
+
+Urgent 
+
+pcs 
+
+0.20 
+
+5.00 
+
+Eco 
+compliant 
+
+Verify that all remark items meet the sourcing department’s standards. 
+
+Total Amount:  
+
+351.85 
+
+Approved By: _________________          Sourcing Department: _________________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

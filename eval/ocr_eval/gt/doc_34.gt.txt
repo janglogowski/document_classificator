@@ -1,0 +1,149 @@
+Equipment Record Report #7685673 
+
+Date: 2024-06-07 
+
+Machine ID 
+MC-232 
+
+Equipment 
+Packaging Line 
+
+Service Type 
+Corrective 
+
+Operator 
+Laura Rossi 
+
+Downtime 
+2.3 
+
+MC-225 
+
+Plasma Cutter 
+
+Preventive 
+
+Peter Schmidt 
+
+3.0 
+
+MC-222 
+MC-213 
+
+MC-287 
+
+MC-258 
+
+MC-256 
+
+MC-291 
+
+Packaging Line 
+Laser Cutter 
+
+Inspection 
+Preventive 
+
+Carlos Garcia 
+Peter Schmidt 
+
+3.0 
+3.4 
+
+Assembly 
+Robot 
+Packaging Line 
+
+Assembly 
+Robot 
+Plasma Cutter 
+
+Corrective 
+
+Carlos Garcia 
+
+2.6 
+
+Inspection 
+
+Laura Rossi 
+
+3.6 
+
+Inspection 
+
+Peter Schmidt 
+
+1.6 
+
+Corrective 
+
+Peter Schmidt 
+
+2.7 
+
+MC-207 
+
+Laser Cutter 
+
+Inspection 
+
+Laura Rossi 
+
+2.8 
+
+Area 
+Plant 2B 
+
+Plant 1C 
+
+Plant 2B 
+Plant 3A 
+
+Plant 3A 
+
+Plant 3A 
+
+Plant 1C 
+
+Plant 1C 
+
+Plant 1C 
+
+Notes 
+Sensor 
+recalibrated. 
+Li-Ion battery 
+pack serviced. 
+
+Calibration 
+check OK. 
+Tightened 
+loose bolts. 
+Tightened 
+loose bolts. 
+Replaced 
+coolant. 
+Li-Ion battery 
+pack serviced. 
+Li-Ion battery 
+pack serviced. 
+
+Maintenance notes are archived for compliance audits. Overall equipment condition is satisfactory post -maintenance. Refer to 
+remarks for any follow-up actions or parts replacements. Record any spare parts usage for inventory adjustment. 
+
+Lubrication Checked 
+Calibration Verified 
+Emergency Stop Tested 
+
+No 
+Yes 
+Yes 
+
+Authorized by: _______________________          Operator: _______________________ 
+
+ 
+ 
+ 
+ 
+

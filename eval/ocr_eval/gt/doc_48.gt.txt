@@ -1,0 +1,60 @@
+Product Overview 
+
+Project: 
+Document No.: 
+Prepared By: 
+Approved By: 
+Location: Plant 2B | Date: 2025-03-17 
+
+MX-450L 
+8992530 
+Peter Schmidt 
+Laura Rossi 
+
+Check that all material specs align with supplier certifications. Use this spec sheet to validate assembly instructions. 
+Please review the specifications and material composition listed below. The following information outlines 
+performance characteristics and design data. 
+
+Unit Type 
+Flow Rate 
+Dimensions (LxWxH) 
+Charging Time 
+Oil Type 
+Service Interval 
+Working Temp. Range 
+Cooling 
+Filtration 
+
+Pneumatic Control Unit 
+48 L/min 
+1000 x 650 x 1000 mm 
+4 h 
+HLP 46 
+1000 h 
+-10°C to 50°C 
+Water-cooled exchanger 
+5 μm inline, 10 μm return 
+
+Operating Pressure 
+Operating Voltage 
+Reservoir Capacity 
+Total Weight 
+Battery Capacity 
+Mounting 
+Motor Power 
+Control Valve 
+
+300 bar 
+480 V / 60 Hz 
+80 L 
+180 kg 
+2 Ah 
+Wall-mounted 
+5.5 kW 
+Directional 4/3 
+
+ 
+ 
+ 
+ 
+

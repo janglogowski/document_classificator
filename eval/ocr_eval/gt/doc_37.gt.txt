@@ -1,0 +1,200 @@
+This log records all maintenance activities performed on the equipment. Entries include work orders, technician assignments, and 
+part changes. The equipment log below includes fault codes and corrective notes. This section captures equipment status and any 
+maintenance observations. 
+
+Spare Parts Used: 
+
+Part Name 
+Hydraulic Hose 
+
+Part No. 
+P-7677 
+
+Unit Code 
+
+Machine 
+
+Type 
+
+Operator 
+
+Duration 
+
+Qty Used 
+5 
+
+Previous 
+Service 
+2024-12-07 
+
+MC-237 
+
+MC-212 
+
+CNC Milling 
+Machine 
+Laser Cutter 
+
+Inspection 
+
+Anna Nowak 
+
+1.8 
+
+Preventive 
+
+Jan Kowalski 
+
+2.5 
+
+2025-03-13 
+
+MC-240 
+
+Laser Cutter 
+
+Corrective 
+
+Carlos Garcia 
+
+3.6 
+
+2024-12-15 
+
+MC-217 
+
+Paint Booth 
+
+Corrective 
+
+Laura Rossi 
+
+2.2 
+
+2025-06-23 
+
+Preventive 
+
+Anna Nowak 
+
+2.2 
+
+2023-12-05 
+
+MC-294 
+
+MC-251 
+
+MC-295 
+
+Plasma 
+Cutter 
+Paint Booth 
+
+CNC Milling 
+Machine 
+
+Corrective 
+
+Inspection 
+
+MC-232 
+
+Lathe 
+
+Inspection 
+
+Peter 
+Schmidt 
+Peter 
+Schmidt 
+
+Peter 
+Schmidt 
+
+3.6 
+
+3.1 
+
+2.5 
+
+2025-07-17 
+
+2024-09-19 
+
+2024-12-13 
+
+MC-207 
+
+Plasma 
+Cutter 
+
+Inspection 
+
+Laura Rossi 
+
+1.7 
+
+2025-02-05 
+
+MC-278 
+
+Laser Cutter 
+
+Inspection 
+
+Carlos Garcia 
+
+2.5 
+
+2024-02-25 
+
+Signed off: 
+Performed by: 
+
+Anna Nowak 
+Anna Nowak 
+
+Area 
+
+Comments 
+
+Replaced 
+coolant. 
+No issues 
+found. 
+Calibration 
+check OK. 
+Changed oil 
+and filters. 
+Worn gasket 
+replaced. 
+Replaced 
+fuse (5A). 
+Alignment of 
+hinges 
+adjusted. 
+Alignment of 
+hinges 
+adjusted. 
+Alignment of 
+hinges 
+adjusted. 
+Replaced 
+fuse (5A). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

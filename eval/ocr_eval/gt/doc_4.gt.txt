@@ -1,0 +1,62 @@
+Customer ID: FRANCE 
+
+Prepared by: Anna Nowak 
+
+Product ID: CN-150C 
+
+Internal No.: 8314755 
+
+Ensure each component meets the specified quality standards. Please review the itemized list of 
+parts and material specifications before procurement. This document provides a detailed 
+breakdown of all components required for the assembly process. Use this breakdown to verify 
+sourcing and cost estimates. Review the materials tally for compliance with budget allowances. 
+
+1 
+Steel Sheet A36  Ceramic Disc 
+
+2 
+
+3 
+Terminal Block 
+4P 
+944 
+pcs 
+3.40 
+3,209.60 
+
+80mm 
+962 
+pcs 
+2.10 
+2,020.20 
+ROHS compliant  ROHS compliant  ROHS compliant 
+
+4 
+Clamp Ring 
+120mm 
+577 
+pcs 
+1.75 
+1,009.75 
+
+539 
+kg 
+5.00 
+2,695.00 
+Eco compliant 
+
+No 
+Item 
+Description 
+Qty 
+UOM 
+Unit Price 
+Amount 
+Remarks 
+
+TOTAL:  8,934.55 
+
+ 
+ 
+ 
+

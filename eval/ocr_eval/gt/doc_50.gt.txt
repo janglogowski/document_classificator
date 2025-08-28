@@ -1,0 +1,70 @@
+Product Overview 
+
+Report No.: PR-893 
+
+Product ID: AZ-300T 
+
+Date: 2023-12-15 
+
+Model Type 
+Throughput 
+Reservoir Capacity 
+Filtration 
+
+Pump Type 
+Service Interval 
+
+Pneumatic Control Unit  Design Pressure 
+60 L/min 
+80 L 
+10 μm return, 25 μm 
+suction 
+Gear Pump 
+12 months 
+
+Voltage 
+Control Valve 
+Noise Level 
+
+Total Weight 
+Dimensions (LxWxH) 
+
+180 bar 
+400 V / 50 Hz 
+Directional 4/3 
+≤ 70 dB(A) 
+
+250 kg 
+1200 x 700 x 1100 mm 
+
+Component Materials Overview: 
+Part 
+Hex Bolts M12 
+Fuse 5A 
+Rubber Gasket 80mm 
+Pressure Valve 
+Graphite Pad 
+
+Raw Material 
+Zinc-Plated Steel 
+Ceramic Oxide 
+Nitrile Rubber (NBR) 
+Brass CZ121 
+Graphite Pad 
+
+Specification 
+Anticorrosive 
+UL-listed 
+ISO 2768 
+RoHS compliant 
+Electrical grade 
+
+Prepared by: Peter Schmidt 
+
+ Approved by: Carlos Garcia 
+
+ 
+ 
+ 
+ 
+

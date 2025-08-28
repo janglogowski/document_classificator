@@ -1,0 +1,58 @@
+Customer ID: BELGIUM 
+
+Prepared by: Carlos Garcia 
+
+Product ID: ZR-205R 
+
+Internal No.: 5294230 
+
+No 
+Item 
+Description 
+Qty 
+UOM 
+Unit Price 
+Amount 
+Remarks 
+
+1 
+Gasket Sheet 
+A4 
+424 
+pcs 
+1.25 
+530.00 
+Li-Ion battery 
+installed 
+
+2 
+Heat Resistant 
+Sleeve 
+515 
+m 
+2.70 
+1,390.50 
+Switch tested 
+OK 
+
+3 
+Epoxy Resin Kit  Battery Pack 
+
+4 
+
+320 
+pcs 
+7.30 
+2,336.00 
+
+658 
+pcs 
+25.00 
+16,450.00 
+High grade 
+
+TOTAL:  20,706.50 
+
+ 
+ 
+

@@ -1,0 +1,79 @@
+Tolerance Check 
+
+Supervisor 
+Inspection Date 
+
+Jan Kowalski 
+2023-09-11 
+
+Article No. 
+Component 
+Dim. 
+Nominal 
+Observed 
+Diff 
+Pass/Fail 
+
+WD-180S 
+Plastic Rivets 
+Thickness 
+91.07 
+90.93 
+-0.14 
+OK 
+
+NE-245A 
+Plastic Rivets 
+Inner Diameter 
+94.48 
+94.48 
++0.00 
+OK 
+
+CN-150C 
+Battery Pack 
+Thickness 
+58.73 
+58.85 
++0.12 
+OK 
+
+LK-890B 
+Hinge Set 
+Height 
+50.25 
+50.38 
++0.13 
+OK 
+
+MS-600P 
+Plastic Rivets 
+Depth 
+30.46 
+30.60 
++0.14 
+OK 
+
+Inspection notes have been logged for traceability. All dimensions within tolerance have been marked as 
+OK. This closure memo confirms that dimensional checks are complete. Ensure status flags are updated in 
+the quality management system. 
+
+Instrument Calibration Log: 
+
+Instrument 
+Laser Scanner 
+CMM 
+
+Serial No. 
+13262 
+82135 
+
+Last Calibration Date 
+2024-12-17 
+2025-04-17 
+
+ 
+ 
+ 
+ 
+

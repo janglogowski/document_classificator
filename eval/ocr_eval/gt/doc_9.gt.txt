@@ -1,0 +1,68 @@
+Customer ID: GREECE 
+
+Prepared by: Peter Schmidt 
+
+Product ID: AL-115Q 
+
+No 
+Item 
+Description 
+Qty 
+UOM 
+Unit Price 
+Amount 
+Remarks 
+
+1 
+Ventilation 
+Grid 
+756 
+pcs 
+5.60 
+4,233.60 
+Imported 
+
+TOTAL:  5,884.30 
+
+Internal No.: 8237992 
+
+2 
+Stainless Bolt 
+M8 
+816 
+pcs 
+0.35 
+285.60 
+ROHS 
+compliant 
+
+3 
+Hinge Set 
+
+4 
+Fuse 5A 
+
+293 
+pcs 
+2.50 
+732.50 
+Urgent 
+
+840 
+pcs 
+0.30 
+252.00 
+Urgent 
+
+5 
+Rubber 
+Stopper 
+692 
+pcs 
+0.55 
+380.60 
+Switch tested 
+OK 
+
+ 
+

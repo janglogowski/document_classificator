@@ -1,0 +1,110 @@
+Inspection Results Summary 
+
+Supervisor 
+Inspection Date 
+
+Carlos Garcia 
+2024-04-22 
+
+Item Code 
+Component 
+
+Measurement 
+
+TR-200B 
+Graphite 
+Pad 
+Length 
+
+Nominal 
+Actual 
+Delta 
+Pass/Fail 
+
+21.24 
+21.21 
+-0.03 
+OK 
+
+XD-710R 
+Bearing 
+6202 ZZ 
+Depth 
+
+51.02 
+51.15 
++0.13 
+OK 
+
+XD-710R 
+Graphite 
+Pad 
+Thickness 
+
+16.49 
+16.57 
++0.08 
+OK 
+
+FT-730X 
+Hinge Set 
+
+QP-660F 
+Hinge Set 
+
+Depth 
+
+61.76 
+61.91 
++0.15 
+OK 
+
+Inner 
+Diameter 
+94.99 
+94.84 
+-0.15 
+OK 
+
+CN-150C 
+Power 
+Switch 
+Depth 
+
+69.08 
+68.94 
+-0.14 
+OK 
+
+LK-890B 
+O-Ring NBR 
+60mm 
+Inner 
+Diameter 
+53.12 
+53.18 
++0.06 
+OK 
+
+Ensure all measuring tools were properly calibrated. Confirm that pass rates meet the defined acceptance criteria. 
+Inspection notes have been logged for traceability. 
+
+Instrument Calibration Log: 
+
+Instrument 
+Caliper 
+Caliper 
+
+Serial No. 
+70063 
+52181 
+
+Last Calibration Date 
+2025-01-12 
+2025-02-10 
+
+ 
+ 
+ 
+ 
+

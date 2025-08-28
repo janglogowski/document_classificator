@@ -1,0 +1,202 @@
+Audit Trail 
+
+This section details quality requirements and test points for the batch. This summary supports the production-release 
+quality gate. Use this extract to coordinate sign-off with the QA manager. Please review each checklist point and mark 
+the sampling results. 
+
+Product ID 
+Item Description 
+
+LK-890B 
+Heat Sink ALU 
+
+Customer ID 
+
+NORWAY 
+
+Review Points 
+
+Inspection 
+Depth 
+
+Defect Class 
+
+Remarks 
+
+3 
+1 
+2 
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+Component Criteria 
+Dead or live insect in packaging 
+Exposed nail with sharp point 
+Color mismatch 
+Sharp edges on plastic 
+components 
+Battery not included 
+Wood splinter or sharp point on 
+product 
+Package is not sealed completely 
+Packaging does not match 
+signed sample 
+Functionality test failed 
+
+9 
+10  Missing safety labels 
+11  Wrong product size 
+12 
+
+Incorrect barcode or label 
+Shipping mark is illegible or 
+missing 
+Carton is damaged or markings 
+incorrect 
+Visual defect on housing 
+
+13 
+
+14 
+
+15 
+
+CR 
+
+MA  MI 
+
+Hold 
+
+V 
+
+V 
+
+V 
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Needs review 
+Critical impact 
+Needs review 
+
+Minor issue observed 
+
+Needs review 
+
+Critical impact 
+
+Critical impact 
+
+Needs review 
+
+Minor issue observed 
+Minor issue observed 
+Minor issue observed 
+Needs review 
+
+Critical impact 
+
+Critical impact 
+
+Level I 
+Level III 
+
+Level I 
+
+Level I 
+
+Level I 
+
+Level II 
+Level II 
+Level I 
+
+Level I 
+
+Level III 
+
+Level III 
+
+Supervised by: __________________      Date: ______________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

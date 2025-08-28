@@ -1,0 +1,252 @@
+Inspection Record 
+
+Date: 26.08.2025 
+
+#8554297 
+
+Product ID 
+Item Description 
+
+DX-777T 
+Rubber Gasket 80mm 
+
+Customer ID 
+
+BRAZIL 
+
+Entries include both visual and functional inspection items. Please review each checklist point and mark the 
+sampling results. This summary supports the production-release quality gate. This section details quality 
+requirements and test points for the batch. All checklist entries are timestamped for traceability. Use this list 
+to confirm adherence to AQL and safety standards. Check that inspection steps follow the approved 
+procedure. Below are the items to be verified during the final product review. 
+
+Inspection Checklist 
+Points 
+Component Criteria 
+Packaging does not 
+match signed sample 
+Color mismatch 
+Not assembled as per 
+drawing 
+Hinges loose 
+Missing distributor 
+information 
+Incorrect quantity or 
+assortment 
+Rubber Switch not 
+working 
+Screws loose or missing 
+Loose parts inside 
+packaging 
+Carton is damaged or 
+markings incorrect 
+Incorrect orientation in 
+box 
+
+X 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+Sample 
+Tier 
+
+Level I 
+
+Level II 
+
+Level II 
+
+Level I 
+
+Level III 
+
+Level III 
+
+Level I 
+
+Level II 
+
+12  Visual defect on housing 
+
+13  Wrong product size 
+
+Level II 
+
+Defect Class 
+
+Remarks 
+
+Critical  Major  Minor  OnHold 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Needs review 
+
+V 
+
+V 
+
+Needs review 
+
+Needs review 
+Minor issue 
+observed 
+
+Needs review 
+
+Minor issue 
+observed 
+Needs review 
+
+Minor issue 
+observed 
+Minor issue 
+observed 
+Critical impact 
+Minor issue 
+observed 
+
+14 
+
+15 
+
+Sharp edges on plastic 
+components 
+Dust/debris inside 
+packaging 
+
+Level II 
+
+V 
+
+Needs review 
+
+Needs review 
+
+AQL Level 
+Default 
+Customer specific 
+
+Critical 
+0 
+
+Major 
+2.5 
+
+Minor 
+4.0 
+V 
+
+Checklist results have been reported to the quality manager. Please ensure supervised sign-off on any non-
+conforming points. Use this closure report to update the quality KPI dashboard. Overall quality status 
+indicates compliance with defined AQL levels. Corrective actions are scheduled for identified issues. 
+Confirm that all sampling results are within acceptable limits. All critical and major inspection points have 
+been addressed. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

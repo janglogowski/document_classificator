@@ -1,0 +1,197 @@
+Shift Summary 
+
+Report No.: PR-643 
+
+Shift: C (Night) 
+
+Customer: TURKEY 
+
+Date: 28-02-2024 
+
+Process 
+
+Operator 
+
+Start Time 
+
+Finish 
+
+Total Time  Comments  Condition 
+
+Machine 
+ID 
+MC-209 
+MC-205 
+
+Drilling 
+Drilling 
+
+MC-205 
+
+Cutting 
+
+MC-208 
+
+Assembly 
+
+MC-208 
+
+Drilling 
+
+MC-208 
+
+Cutting 
+
+Anna Nowak 
+Mateusz 
+Jarzyna 
+Dawid 
+Oszmiańczuk 
+Agnieszka 
+Zielińska 
+Wiktor 
+Kopczyński 
+Bartosz 
+Wawrzyniak 
+
+12:30 
+08:00 
+
+14:25 
+09:39 
+
+06:15 
+
+08:05 
+
+10:15 
+
+11:48 
+
+12:30 
+
+13:57 
+
+11:30 
+
+12:34 
+
+115 
+99 
+
+110 
+
+93 
+
+87 
+
+64 
+
+OK 
+
+Completed 
+In progress 
+
+N/A 
+
+Delayed 
+
+Delay 
+
+In progress 
+
+Delayed 
+
+In progress 
+
+Overall production performance met expectations for the day. All production targets have been logged; 
+deviations are highlighted above. Use this summary to update the overall production dashboard. No critical 
+delays were observed; please address any minor issues noted. Ensure shift-handover notes include any 
+pending issues. All operator notes have been archived for review. 
+
+Item ID 
+
+Target Qty 
+
+ZR-205R 
+KV-390K 
+
+TL-900X 
+
+PL-601Z 
+
+299 
+113 
+
+271 
+
+242 
+
+RM-860N 
+
+228 
+
+Achieved 
+Qty 
+278 
+105 
+
+253 
+
+214 
+
+223 
+
+Defect Qty 
+
+Scrap % 
+
+21 
+8 
+
+18 
+
+28 
+
+5 
+
+7.02% 
+7.08% 
+
+6.64% 
+
+11.57% 
+
+2.19% 
+
+Reworked 
+Units 
+6 
+8 
+
+4 
+
+0 
+
+6 
+
+Remarks 
+
+Scrap 
+confirmed 
+Rework 
+needed 
+Scrap 
+confirmed 
+
+Approved by: ___________        Prepared by: ___________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,167 @@
+DAILY PRODUCTION REPORT 
+
+Report No.: 
+Customer: 
+Supervisor: 
+Department: 
+Shift: 
+
+PR-513 
+BRAZIL 
+Peter Schmidt 
+Assembly 
+A (Morning) 
+
+Entries include all start/stop times and operator assignments. Please review today’s operation log and output 
+summary for each workstation. The following data captures production targets, actual output, and any 
+deviations. 
+
+12-10-2023 
+
+Operation  Operator 
+
+Begin 
+
+Finish 
+
+12:15 
+13:00 
+
+13:26 
+13:43 
+
+Total 
+Time 
+71 
+43 
+
+Remarks 
+
+Delay 
+OK 
+
+Temperature  Energy 
+(kWh) 
+1.42 
+1.96 
+
+69.0 
+76.8 
+
+Machine 
+ID 
+MC-209 
+MC-202 
+
+Assembly 
+Drilling 
+
+MC-209 
+
+Polishing 
+
+MC-202 
+
+Drilling 
+
+MC-207 
+
+Drilling 
+
+Jan Kowalski 
+Dawid 
+Oszmiańczuk 
+Magdalena 
+Witkowska 
+Wiktor 
+Kopczyński 
+Magdalena 
+Witkowska 
+Anna Nowak 
+
+MC-201 
+MC-204 
+
+MC-202 
+
+Polishing 
+Assembly  Magdalena 
+Witkowska 
+Anna Nowak 
+
+Assembly 
+
+12:30 
+
+13:57 
+
+87 
+
+OK 
+
+55.4 
+
+07:30 
+
+08:24 
+
+54 
+
+Recalibrated  60.3 
+
+09:00 
+
+09:28 
+
+28 
+
+N/A 
+
+08:15 
+11:15 
+
+09:14 
+12:19 
+
+59 
+64 
+
+OK 
+
+06:00 
+
+07:15 
+
+75 
+
+Delay 
+
+78.4 
+
+75.0 
+63.8 
+
+62.9 
+
+2.12 
+
+1.25 
+
+1.88 
+
+2.37 
+1.53 
+
+1.88 
+
+Prepared by: 
+Approved by: 
+
+Laura Rossi 
+Carlos Garcia 
+
+ 
+ 
+ 
+ 
+

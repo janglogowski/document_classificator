@@ -1,0 +1,101 @@
+Unit Data Specification 
+
+Project: 
+Internal No.: 
+Prepared By: 
+Approved By: 
+Location: Plant 2B | Date: 2024-04-07 
+
+WD-180S 
+PR-378 
+Carlos Garcia 
+Peter Schmidt 
+
+Below are the technical parameters and construction materials for the unit. All data entries are traceable to design 
+revision history. Ensure all referenced standards are up to date. This data sheet provides key specifications and 
+material details. Use this sheet to confirm engineering requirements and tolerances. 
+
+Unit Type 
+
+Fluid Flow 
+Working Temp. Range 
+Mounting 
+Pump Type 
+Frame Material 
+Reservoir Capacity 
+Oil Type 
+Battery Capacity 
+
+Cooling Circulation 
+System 
+75 L/min 
+10°C to 55°C 
+Wall-mounted 
+Vane Pump 
+Stainless Steel Frame 
+160 L 
+HLP 32 
+2 Ah 
+
+Rated Pressure 
+
+300 bar 
+
+Voltage 
+Filtration 
+Dimensions (LxWxH) 
+Protection Class 
+Cooling 
+Control Valve 
+Motor Power 
+Total Weight 
+
+480 V / 60 Hz 
+5 μm inline, 10 μm return 
+1000 x 650 x 1000 mm 
+IP67 
+Air-cooled oil radiator 
+Directional 4/3 
+11 kW 
+250 kg 
+
+Document control numbers are included for traceability. Flag any missing parameters for urgent specification 
+updates. Archive this summary for future design-change management. Material choices and process data have been 
+verified for compliance. Refer to parameter table for operating ranges and tolerances. Use this summary to cross-
+check with BOM and inspection reports. 
+
+Material of Construction: 
+
+Label 
+Graphite Pad 
+Wooden Pallet 
+Hex Bolts M12 
+Bearing 6202 ZZ 
+Cable Tie Pack (100) 
+Battery Pack 
+Rubber Gasket 80mm 
+Nut M6 
+Cooling Gel Pack 
+Capacitor 450V 
+Connector 2P 
+Thermal Fuse 
+
+Base 
+Graphite Pad 
+Treated Pine Wood 
+Zinc-Plated Steel 
+Stainless Steel 304 
+Nitrile Rubber (NBR) 
+Lithium-Ion Cell Pack 
+Nitrile Rubber (NBR) 
+Zinc-Plated Steel 
+Silicone Rubber 
+Aluminum 6061-T6 
+Glass-Filled Nylon 
+Ceramic Oxide 
+
+ 
+ 
+ 
+ 
+

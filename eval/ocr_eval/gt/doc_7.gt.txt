@@ -1,0 +1,50 @@
+Customer ID: NORWAY 
+
+Product ID: MS-600P 
+
+Prepared by: Anna Nowak 
+
+Internal No.: 9289877 
+
+Please review the itemized list of parts and material specifications before procurement. This section 
+outlines the parts, unit prices and total amounts for assembly. The parts manifest here is designed to 
+support procurement workflows. This summary lists every item required, with per-unit pricing details. 
+
+1 
+Rubber Gasket 80mm 
+477 
+pcs 
+0.50 
+238.50 
+High grade 
+
+2 
+Plastic Cover 150x150 
+238 
+pcs 
+1.10 
+261.80 
+ISO-verified 
+
+3 
+Shaft 500mm 
+529 
+pcs 
+8.00 
+4,232.00 
+SKF brand 
+
+No 
+Item Description 
+Qty 
+UOM 
+Unit Price 
+Amount 
+Remarks 
+
+TOTAL:  4,732.30 
+
+ 
+ 
+ 
+

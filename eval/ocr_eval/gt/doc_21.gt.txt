@@ -1,0 +1,97 @@
+Inspection Results Summary 
+
+Supervisor 
+Inspection Date 
+
+Jan Kowalski 
+2024-09-05 
+
+Entries include both pass/fail markers and deviation magnitudes. Please review the inspection results for 
+each component listed below. This summary of measurements supports metrology traceability. 
+
+Product Ref  SL-430M 
+Component  Rubber 
+Gasket 
+80mm 
+Depth 
+69.53 
+69.69 
++0.16 
+PASS 
+
+Dim. 
+Nominal 
+Actual 
+Delta 
+Pass/Fail 
+
+KV-390K 
+Battery Pack  Plastic 
+Rivets 
+
+BZ-660F 
+
+KP-320E 
+Plastic 
+Rivets 
+
+XK-610U 
+Power 
+Switch 
+
+JD-700W 
+Shaft 500mm 
+
+Thickness 
+87.20 
+87.22 
++0.02 
+PASS 
+
+Depth 
+44.12 
+44.09 
+-0.03 
+PASS 
+
+Width 
+5.01 
+5.06 
++0.05 
+PASS 
+
+Depth 
+33.09 
+32.89 
+-0.20 
+PASS 
+
+Width 
+64.17 
+64.23 
++0.06 
+PASS 
+
+Components failing inspection require immediate review and corrective action. Record any measurement 
+anomalies for follow-up analysis. Confirm that pass rates meet the defined acceptance criteria. 
+
+Instrument Calibration Log: 
+
+Instrument 
+Laser Scanner 
+Laser Scanner 
+
+Serial No. 
+63772 
+87250 
+
+Last Calibration Date 
+2024-12-27 
+2024-10-11 
+
+ 
+ 
+ 
+ 
+ 
+

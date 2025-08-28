@@ -1,0 +1,178 @@
+Inspection Checklist 
+
+Inspection Checklist Points 
+
+Sampling 
+Level 
+
+Classification 
+
+Notes 
+
+C 
+1 
+
+2 
+
+3 
+4 
+
+5 
+
+6 
+7 
+8 
+9 
+10 
+11 
+
+12 
+
+Component Criteria 
+Missing logo or warning label 
+Wood splinter or sharp point 
+on product 
+Dust/debris inside packaging 
+Battery not included 
+Missing distributor 
+information 
+Paint smearing or scratches 
+Not assembled as per drawing 
+Screws loose or missing 
+Wrong product size 
+Product doesn't power on 
+Incorrect orientation in box 
+Rubber texture or glossiness 
+mismatch 
+Functionality test failed 
+Connector not working 
+
+Critical  Major  Minor  OnHold 
+
+Level II 
+
+Level II 
+
+Level I 
+Level II 
+
+Level III 
+Level I 
+Level I 
+
+Level I 
+Level II 
+
+Level II 
+Level I 
+
+V 
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Critical impact 
+
+Critical impact 
+Minor issue observed 
+
+Needs review 
+
+Needs review 
+Critical impact 
+
+Minor issue observed 
+
+Needs review 
+
+13 
+14 
+Reference Standards: 
+
+Standard 
+CE Directive 
+IEC 61010 
+
+Edition 
+2015 
+3rd Ed. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,146 @@
+Quality Review 
+
+All checklist entries are timestamped for traceability. Entries include both visual and functional inspection items. This 
+closure summary indicates compliance with inspection criteria. The following table outlines inspection criteria and 
+classification levels. This summary supports the production-release quality gate. This section details quality 
+requirements and test points for the batch. 
+
+Product ID 
+Item Description 
+
+PL-601Z 
+Rubber Stopper 
+
+Customer ID 
+
+FRANCE 
+
+Quality Check Items 
+
+Sampling 
+Level 
+
+Classification 
+
+Remarks 
+
+3 
+
+1 
+
+2 
+3 
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Component Criteria 
+Dead or live insect in 
+packaging 
+Functionality test failed 
+Exposed nail with sharp point 
+Battery not included 
+Wood splinter or sharp point 
+on product 
+Incorrect quantity or 
+assortment 
+Shipping mark is illegible or 
+missing 
+Missing distributor 
+information 
+Instruction manual is missing 
+or damaged 
+
+Critical  Major  Minor  OnHold 
+
+V 
+
+Level III 
+
+Level II 
+
+V 
+
+Level I 
+
+Level III 
+
+Level III 
+
+V 
+
+V 
+
+V 
+V 
+V 
+
+V 
+
+V 
+
+V 
+
+Minor issue observed 
+
+V 
+V 
+
+V 
+
+Needs review 
+Critical impact 
+Needs review 
+
+Needs review 
+
+Needs review 
+
+Minor issue observed 
+
+Supervised by: __________________      Date: ______________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

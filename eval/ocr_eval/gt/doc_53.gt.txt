@@ -1,0 +1,141 @@
+Verification Log 
+
+Review Points 
+
+Y 
+
+1 
+
+2 
+3 
+4 
+5 
+
+6 
+
+7 
+8 
+9 
+
+10 
+
+Design Specs 
+Missing distributor 
+information 
+Missing safety labels 
+Paint smearing or scratches 
+Wrong product size 
+Color mismatch 
+Carton is damaged or 
+markings incorrect 
+Loose parts inside packaging 
+Functionality test failed 
+Battery not included 
+Wood splinter or sharp point 
+on product 
+
+Reference Standards: 
+
+Sampling 
+Level 
+
+Level III 
+
+Level III 
+Level III 
+Level III 
+Level II 
+
+Level I 
+
+Level III 
+
+Level II 
+
+Standard 
+ISO 9001 
+IEC 61010 
+
+Classification 
+
+Observations 
+
+Critical  Major  Minor  OnHold 
+
+V 
+V 
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Needs review 
+
+Minor issue observed 
+Critical impact 
+Needs review 
+
+Needs review 
+
+Minor issue observed 
+Minor issue observed 
+Critical impact 
+
+Critical impact 
+
+V 
+V 
+
+V 
+
+V 
+V 
+
+V 
+
+V 
+
+V 
+
+Edition 
+2020 
+4th Ed. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

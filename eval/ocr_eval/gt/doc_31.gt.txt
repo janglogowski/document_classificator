@@ -1,0 +1,125 @@
+Maintenance Checklist Report #5953631 
+
+Date: 2023-11-18 
+
+Unit Code 
+MC-222 
+
+MC-245 
+
+MC-249 
+
+Equipment 
+Assembly 
+Robot 
+Packaging 
+Line 
+Conveyor Belt  Preventive 
+
+Corrective 
+
+Jan Kowalski 
+
+2.1 
+
+Jan Kowalski 
+
+2.4 
+
+Service Type  Operator 
+Corrective 
+
+Jan Kowalski 
+
+Duration 
+2.1 
+
+MC-243 
+
+Laser Cutter 
+
+Inspection 
+
+Jan Kowalski 
+
+3.8 
+
+MC-215 
+
+Paint Booth 
+
+Preventive 
+
+Laura Rossi 
+
+1.6 
+
+MC-252 
+
+MC-261 
+
+Assembly 
+Robot 
+Plasma Cutter  Preventive 
+
+Corrective 
+
+Jan Kowalski 
+
+3.2 
+
+Peter Schmidt 
+
+2.2 
+
+Site 
+Plant 3A 
+
+Plant 3A 
+
+Plant 1C 
+
+Plant 1C 
+
+Plant 1C 
+
+Plant 2B 
+
+Plant 2B 
+
+Notes 
+Worn gasket 
+replaced. 
+Calibration 
+check OK. 
+Switch 
+contacts 
+cleaned. 
+Tightened 
+loose bolts. 
+Replaced 
+coolant. 
+
+Switch 
+contacts 
+cleaned. 
+
+Overall equipment condition is satisfactory post-maintenance. This log summary supports the asset-management 
+dashboard. All maintenance tasks have been completed as per schedule. Record any spare parts usage for inventory 
+adjustment. 
+
+Lubrication Checked 
+Calibration Verified 
+Emergency Stop Tested 
+
+Yes 
+N/A 
+No 
+
+Approved by: _______________________          Serviced by: _______________________ 
+
+ 
+ 
+ 
+ 
+

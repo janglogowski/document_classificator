@@ -24,7 +24,6 @@ paths:
       docs:
         level1:  "data/scans/docs/level1"
         level2:  "data/scans/docs/level2"
-        level3:  "data/scans/docs/level3"
       technical_drawings: "data/scans/technical_drawings"
 
     test: "data/test"       # Test data folder (optional)
@@ -58,13 +57,16 @@ paths:
 # =========================
 generator_settings:
   default:                         # Used for training datasets
-    num_documents: 1
+    num_documents: 200
     output_folder: "data/raw"      # Database for training the models
 
   test:                            # Used for test pipelines
     num_documents: 1
     output_folder: "tests/test_data/test_docs"  # Database to test the models
 
+  eval:
+    num_documents: 10
+    output_folder: eval/ocr_eval/pdf
 
 # =========================
 # Scan imitator settings
@@ -131,8 +133,9 @@ augmentation:
         # --- textures ---
         paper_texture_probability: 0.5
         paper_texture_paths:
-          - "textures/paper1.jpg"
-          - "textures/paper2.jpg"
+          - "data/assets/textures/paper1.jpg"
+          - "data/assets/textures/paper2.jpg"
+          - "data/assets/textures/paper3.jpg"
         paper_texture_opacity: 0.15
         paper_texture_scale: 1.0
 

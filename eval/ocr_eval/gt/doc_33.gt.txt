@@ -1,0 +1,182 @@
+The equipment log below includes fault codes and corrective notes. This maintenance extract is prepared for compliance 
+audit trails. Use this summary to forecast parts replacement and resource needs. Use this record to plan upcoming 
+upkeep and repairs. This log records all maintenance activities performed on the equipment. 
+
+Spare Parts Used: 
+
+Part Name 
+Hydraulic Hose 
+Hinge Set 
+Fuse 5A 
+
+Part No. 
+P-6907 
+P-6842 
+P-4374 
+
+Qty Used 
+1 
+3 
+3 
+
+Machine ID  Equipment  Service 
+
+Operator 
+
+Downtime 
+
+Last Check  Area 
+
+Notes 
+
+MC-204 
+
+Lathe 
+
+Type 
+Inspection 
+
+Corrective 
+
+Preventive 
+
+Inspection 
+
+Inspection 
+
+Hydraulic 
+Press 
+Laser 
+Cutter 
+Assembly 
+Robot 
+Plasma 
+Cutter 
+
+CNC Milling 
+Machine 
+
+Corrective 
+
+Conveyor 
+Belt 
+Packaging 
+Line 
+Assembly 
+Robot 
+
+Preventive 
+
+Inspection 
+
+Preventive 
+
+Peter 
+Schmidt 
+Peter 
+Schmidt 
+Peter 
+Schmidt 
+Anna 
+Nowak 
+Anna 
+Nowak 
+
+Peter 
+Schmidt 
+
+Anna 
+Nowak 
+Jan 
+Kowalski 
+Jan 
+Kowalski 
+
+1.9 
+
+1.6 
+
+2.0 
+
+3.5 
+
+3.9 
+
+3.6 
+
+3.4 
+
+2.3 
+
+3.9 
+
+2023-09-07 
+
+2025-02-28  Refilled oil 
+(HLP 46). 
+Tightened 
+loose bolts. 
+Tightened 
+loose bolts. 
+2023-11-11  Changed oil 
+
+2023-09-23 
+
+and filters. 
+
+2024-03-30  Worn 
+
+2025-04-16 
+
+gasket 
+replaced. 
+Alignment 
+of hinges 
+adjusted. 
+2023-10-31  No issues 
+
+found. 
+
+2024-06-17  Replaced 
+fuse (5A). 
+
+2024-02-07  Changed oil 
+
+and filters. 
+
+MC-297 
+
+MC-240 
+
+MC-213 
+
+MC-201 
+
+MC-269 
+
+MC-220 
+
+MC-226 
+
+MC-268 
+
+Signed off: 
+Performed by: 
+
+Carlos Garcia 
+Laura Rossi 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

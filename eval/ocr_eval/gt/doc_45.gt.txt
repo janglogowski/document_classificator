@@ -1,0 +1,71 @@
+Product Overview 
+
+Project: 
+Internal No.: 
+Prepared By: 
+Approved By: 
+Location: Plant 2B | Date: 2023-10-28 
+
+MR-160H 
+2029280 
+Carlos Garcia 
+Carlos Garcia 
+
+Unit Type 
+
+Fluid Flow 
+Protection Class 
+Pump Type 
+Charging Time 
+Mounting 
+
+Battery Capacity 
+
+Frame Material 
+Service Interval 
+Total Weight 
+
+Cooling Circulation 
+System 
+60 L/min 
+IP65 
+Vane Pump 
+2 h 
+Skid base with vibration 
+pads 
+10 Ah 
+
+Aluminum Frame 
+500 h 
+180 kg 
+
+Design Pressure 
+
+180 bar 
+
+Supply Voltage 
+Working Temp. Range 
+Motor Power 
+Reservoir Capacity 
+Noise Level 
+
+230 V / 50 Hz 
+10°C to 55°C 
+7.5 kW 
+120 L 
+≤ 68 dB(A) 
+
+Filtration 
+
+Cooling 
+Oil Type 
+
+10 μm return, 25 μm 
+suction 
+Air-cooled oil radiator 
+HLP 46 
+
+ 
+ 
+ 
+

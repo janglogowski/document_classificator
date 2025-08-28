@@ -1,0 +1,86 @@
+Unit Data Specification 
+
+Project: 
+Document No.: 
+Prepared By: 
+Approved By: 
+Location: Plant 1C | Date: 2024-08-02 
+
+XD-710R 
+PR-434 
+Anna Nowak 
+Peter Schmidt 
+
+Below are the technical parameters and construction materials for the unit. This technical overview supports 
+the product-release checklist. The following information outlines performance characteristics and design 
+data. This section details the configuration and parameter set for the product. Use this spec sheet to validate 
+assembly instructions. 
+
+Configuration Type 
+
+Throughput 
+Battery Capacity 
+Motor Power 
+
+Cooling Circulation 
+System 
+30 L/min 
+2 Ah 
+7.5 kW 
+
+Working Temp. Range 
+Frame Material 
+Control Valve 
+Protection Class 
+
+10°C to 55°C 
+Aluminum Frame 
+Proportional 4/2 
+IP67 
+
+Design Pressure 
+
+210 bar 
+
+Voltage 
+Reservoir Capacity 
+Mounting 
+
+Pump Type 
+Total Weight 
+Dimensions (LxWxH) 
+Noise Level 
+
+400 V / 50 Hz 
+120 L 
+Skid base with vibration 
+pads 
+Gear Pump 
+250 kg 
+1000 x 650 x 1000 mm 
+≤ 72 dB(A) 
+
+Material of Construction: 
+
+Label 
+Insulated Tube 25mm 
+Cooling Gel Pack 
+O-Ring NBR 60mm 
+Wiring Loom 1m 
+Battery Pack 
+Graphite Pad 
+Thermal Fuse 
+
+Raw Material 
+Thermoplastic Polyurethane (TPU) 
+Silicone Rubber 
+Nitrile Rubber (NBR) 
+PVC (Rigid) 
+Lithium-Ion Cell Pack 
+Graphite Pad 
+Ceramic Oxide 
+
+ 
+ 
+ 
+

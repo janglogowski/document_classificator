@@ -1,0 +1,216 @@
+Compliance Log 
+
+Date: 26.08.2025 
+
+#5792854 
+
+Product ID 
+Item Description 
+
+GL-980S 
+Ceramic Disc 80mm 
+
+Customer ID 
+
+CANADA 
+
+Below are the items to be verified during the final product review. This checklist captures quality inspection 
+points and sampling levels. All checklist entries are timestamped for traceability. This section details quality 
+requirements and test points for the batch. Use this list to confirm adherence to AQL and safety standards. 
+Use this extract to coordinate sign-off with the QA manager. This closure summary indicates compliance 
+with inspection criteria. Please review each checklist point and mark the sampling results. 
+
+Quality Check Items 
+
+Design Specs 
+Product doesn't power on 
+Wrong product size 
+Shipping mark is illegible or 
+missing 
+Instruction manual is missing 
+or damaged 
+Missing safety labels 
+Paint smearing or scratches 
+Incorrect orientation in box 
+Package is not sealed 
+completely 
+Visual defect on housing 
+Carton is damaged or 
+markings incorrect 
+
+X 
+1 
+2 
+
+3 
+
+4 
+
+5 
+6 
+7 
+
+8 
+
+9 
+
+10 
+
+11  Color mismatch 
+12 
+
+Incorrect barcode or label 
+Incorrect quantity or 
+assortment 
+
+13 
+
+14  Connector not working 
+
+Inspection 
+Depth 
+
+Defect Class 
+
+Observations 
+
+Level III 
+Level II 
+
+Level II 
+
+Level II 
+
+Level III 
+Level I 
+Level I 
+
+Level I 
+
+Level III 
+Level II 
+
+Level III 
+
+Level III 
+
+C 
+V 
+
+M 
+
+H 
+
+m 
+V 
+
+Minor issue observed 
+Minor issue observed 
+
+V 
+V 
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Critical impact 
+
+Minor issue observed 
+Needs review 
+Critical impact 
+
+V 
+V 
+
+Needs review 
+
+Critical impact 
+
+Needs review 
+
+Minor issue observed 
+
+AQL Level 
+Default 
+Customer specific 
+
+Critical 
+0 
+
+Major 
+2.5 
+
+Minor 
+4.0 
+V 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

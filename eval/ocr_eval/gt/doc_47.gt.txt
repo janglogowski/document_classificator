@@ -1,0 +1,69 @@
+Unit Data Specification 
+
+Check that all material specs align with supplier certifications. This data sheet provides key specifications and material 
+details. Use this sheet to confirm engineering requirements and tolerances. This report extract is prepared for design-
+verification audits. Please review the specifications and material composition listed below. Use this spec sheet to 
+validate assembly instructions. Entries include both mechanical and electrical specifications. 
+
+Product ID: 
+Document No.: 
+Prepared by: Laura Rossi | Approved by: Peter Schmidt | Date: 2023-09-25 
+
+LK-890B 
+4309083 
+
+Model Type 
+Throughput 
+Protection Class 
+Pump Type 
+Service Interval 
+
+Hydraulic Power Unit 
+30 L/min 
+IP65 
+Vane Pump 
+1000 h 
+
+Operating Pressure 
+Voltage 
+Frame Material 
+Mounting 
+
+300 bar 
+400 V / 50 Hz 
+Aluminum Frame 
+Wall-mounted 
+
+Ensure that the listed materials are approved for the application. Archive this summary for future design-change 
+management. Check that all section headers follow the product template. Refer to parameter table for operating 
+ranges and tolerances. All summary comments have been recorded in the revision log. 
+
+Material of Construction: 
+
+Label 
+Gasket Sheet A4 
+Hex Bolts M12 
+LED Light Strip 
+Capacitor 450V 
+Insulated Tube 25mm 
+Teflon Tape Roll 
+Cooling Gel Pack 
+Wiring Loom 1m 
+
+Composition 
+Nitrile Rubber (NBR) 
+Zinc-Plated Steel 
+Glass-Filled Nylon 
+Aluminum 6061-T6 
+Thermoplastic Polyurethane (TPU) 
+Teflon Tape Roll 
+Silicone Rubber 
+PVC (Rigid) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

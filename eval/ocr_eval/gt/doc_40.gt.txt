@@ -1,0 +1,157 @@
+Equipment Record Report 
+
+Performed On: 2025-07-12 
+
+Approved by: 
+Serviced by: 
+
+Peter Schmidt 
+Carlos Garcia 
+
+Check that all downtime events are properly categorized and logged. Confirm that service intervals follow the preventive 
+schedule. Use this record to plan upcoming upkeep and repairs. Refer to the maintenance register for detailed service 
+histories. The equipment log below includes fault codes and corrective notes. 
+
+Section A: 
+
+Unit Code 
+Machine 
+
+MC-296 
+Paint Booth 
+
+Type 
+Technician 
+Duration 
+Notes 
+
+Inspection 
+Laura Rossi 
+3.8 
+Li-Ion battery 
+pack serviced. 
+
+MC-270 
+Assembly 
+Robot 
+Corrective 
+Jan Kowalski 
+3.2 
+Wooden pallet 
+checked. 
+
+MC-201 
+Paint Booth 
+
+Preventive 
+Peter Schmidt 
+1.7 
+Switch 
+contacts 
+cleaned. 
+
+MC-265 
+Hydraulic 
+Press 
+Inspection 
+Jan Kowalski 
+2.6 
+Li-Ion battery 
+pack serviced. 
+
+MC-239 
+Packaging 
+Line 
+Corrective 
+Jan Kowalski 
+3.5 
+
+MC-273 
+Laser Cutter 
+
+Inspection 
+Peter Schmidt 
+2.1 
+Sensor 
+recalibrated. 
+
+Section B: 
+
+Unit Code 
+Machine 
+
+Type 
+Technician 
+Duration 
+Notes 
+
+Uptime (%) 
+97.93% 
+
+MC-247 
+Packaging 
+Line 
+Preventive 
+Jan Kowalski 
+1.6 
+Replaced 
+coolant. 
+
+MC-265 
+Hydraulic 
+Press 
+Corrective 
+Laura Rossi 
+3.6 
+Worn gasket 
+replaced. 
+
+MC-262 
+CNC Milling 
+Machine 
+Preventive 
+Carlos Garcia 
+3.1 
+Refilled oil 
+(HLP 46). 
+
+MC-270 
+Assembly 
+Robot 
+Preventive 
+Peter Schmidt 
+2.5 
+Changed oil 
+and filters. 
+
+MC-224 
+Assembly 
+Robot 
+Preventive 
+Peter Schmidt 
+3.1 
+Worn gasket 
+replaced. 
+
+MC-239 
+Packaging 
+Line 
+Corrective 
+Anna Nowak 
+2.6 
+Calibration 
+check OK. 
+
+Error Count 
+0 
+
+Comments 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

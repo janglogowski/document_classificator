@@ -1,0 +1,170 @@
+BILL OF MATERIAL 
+
+Customer ID: FRANCE 
+Product ID: VR-940T 
+
+Coordinator: Laura Rossi 
+Internal No.: 9751131 
+
+Date: 2025-03-14 
+Order Qty: 317 
+
+This section outlines the parts, unit prices and total amounts for assembly. Refer to this parts 
+register to plan raw-material purchasing. 
+
+No 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Item 
+Description 
+Rubber 
+Gasket 
+80mm 
+Grease 
+Tube 250ml 
+Digital 
+Display Unit 
+Gasket 
+Sheet A4 
+Rubber 
+Stopper 
+Plastic 
+Rivets 
+Plastic 
+Cover 
+150x150 
+
+Consumption  Extra 
+
+Qty 
+
+UOM 
+
+Rate 
+
+Amount  Remarks 
+
+2.24 
+
+0.57 
+
+1.65 
+
+2.67 
+
+3.14 
+
+0.39 
+
+2.3 
+
+% 
+0% 
+
+10% 
+
+2% 
+
+0% 
+
+10% 
+
+0% 
+
+10% 
+
+18 
+
+pcs 
+
+0.50 
+
+9.00 
+
+25 
+
+41 
+
+2 
+
+1 
+
+28 
+
+18 
+
+pcs 
+
+1.90 
+
+47.50 
+
+pcs 
+
+15.00 
+
+615.00 
+
+pcs 
+
+1.25 
+
+2.50 
+
+pcs 
+
+0.55 
+
+0.55 
+
+pcs 
+
+0.20 
+
+5.60 
+
+pcs 
+
+1.10 
+
+19.80 
+
+For 
+export 
+SKF 
+brand 
+For 
+export 
+Eco 
+compliant 
+Eco 
+compliant 
+ROHS 
+compliant 
+
+Total Amount:  
+
+699.95 
+
+Approved By: _________________          Sourcing Department: _________________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

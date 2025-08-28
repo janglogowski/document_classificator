@@ -1,0 +1,48 @@
+Unit Data Specification 
+
+Document No.: 8363089 
+
+Product ID: GH-770J 
+
+Date: 2024-07-16 
+
+Model Type 
+Fluid Flow 
+Noise Level 
+Mounting 
+
+Pump Type 
+Total Weight 
+
+Hydraulic Power Unit 
+75 L/min 
+≤ 70 dB(A) 
+Skid base with vibration 
+pads 
+Piston Pump 
+180 kg 
+
+Operating Pressure 
+Voltage 
+Frame Material 
+Filtration 
+
+Battery Capacity 
+Service Interval 
+
+250 bar 
+230 V / 50 Hz 
+Powder-coated Steel 
+5 μm inline, 10 μm 
+return 
+10 Ah 
+1000 h 
+
+Prepared by: Carlos Garcia 
+
+ Approved by: Carlos Garcia 
+
+ 
+ 
+ 
+

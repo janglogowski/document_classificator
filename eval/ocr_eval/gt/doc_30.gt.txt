@@ -1,0 +1,197 @@
+Inspection performed by Peter Schmidt on 2023-10-13. 
+
+Refer to the dimensional log for all component size readings. Ensure measurement methods align with calibration 
+standards. Use this examination summary to confirm component conformity. Check that all dimensions comply with 
+ISO and company standards. All measured values are timestamped for audit purposes. The following data captures 
+key dimensions and any deviations identified. 
+Environmental Conditions: Temperature: 23.7 °C, Humidity: 53 % 
+
+Component  Measurement  Nominal 
+Thickness 
+Rubber 
+Gasket 80mm 
+Plastic Rivets 
+
+92.29 
+
+16.21 
+
+Product Ref 
+SL-430M 
+
+XD-710R 
+
+PL-601Z 
+XD-710R 
+KP-320E 
+XD-710R 
+
+RX-310Z 
+
+Hinge Set 
+Plastic Rivets 
+Graphite Pad 
+Hex Bolts 
+M12 
+Plastic Rivets 
+
+Inner 
+Diameter 
+Hole Ø 
+Hole Ø 
+Depth 
+Thickness 
+
+Inner 
+Diameter 
+Inner 
+Diameter 
+
+MS-600P 
+
+Hinge Set 
+
+JD-700W 
+GH-770J 
+
+LP-555V 
+NE-245A 
+
+TR-200B 
+
+PW-515Y 
+MC-540X 
+
+LP-555V 
+
+Thickness 
+
+Hole Ø 
+Hole Ø 
+
+Shaft 500mm  Width 
+Bearing 6202 
+ZZ 
+Hinge Set 
+O-Ring NBR 
+60mm 
+Wooden 
+Pallet 
+Hinge Set 
+Rubber 
+Gasket 80mm 
+Hex Bolts 
+M12 
+
+Width 
+
+Length 
+Width 
+
+Length 
+
+65.52 
+54.06 
+67.69 
+65.30 
+
+10.15 
+
+89.08 
+
+24.68 
+56.43 
+
+65.58 
+47.79 
+
+87.35 
+
+59.44 
+73.23 
+
+91.17 
+
+Actual 
+16.08 
+
+92.30 
+
+65.35 
+53.97 
+67.63 
+65.44 
+
+10.30 
+
+89.26 
+
+24.86 
+56.53 
+
+65.49 
+47.86 
+
+87.20 
+
+59.60 
+73.08 
+
+91.34 
+
+Diff 
+-0.13 
+
++0.01 
+
+-0.17 
+-0.09 
+-0.06 
++0.14 
+
++0.15 
+
++0.18 
+
++0.18 
++0.10 
+
+-0.09 
++0.07 
+
+-0.15 
+
++0.16 
+-0.15 
+
++0.17 
+
+Status (V/X) 
+OK 
+
+OK 
+
+OK 
+OK 
+OK 
+OK 
+
+OK 
+
+OK 
+
+OK 
+OK 
+
+OK 
+OK 
+
+OK 
+
+OK 
+OK 
+
+OK 
+
+ 
+

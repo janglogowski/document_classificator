@@ -1,0 +1,63 @@
+Product Overview 
+
+Please review the specifications and material composition listed below. Refer to this configuration summary 
+for unit-designation mapping. The parameter register below includes operating limits and ratings. Ensure all 
+referenced standards are up to date. This technical overview supports the product-release checklist. This 
+report extract is prepared for design-verification audits. 
+
+Product ID: 
+Report No.: 
+Prepared by: Carlos Garcia | Approved by: Carlos Garcia | Date: 2023-11-10 
+
+RX-310Z 
+PR-631 
+
+Model Type 
+Fluid Flow 
+Frame Material 
+Total Weight 
+
+Pneumatic Control Unit  Design Pressure 
+75 L/min 
+Powder-coated Steel 
+250 kg 
+
+Operating Voltage 
+Oil Type 
+Motor Power 
+
+300 bar 
+480 V / 60 Hz 
+HLP 46 
+7.5 kW 
+
+Ensure glossary terms match the engineering nomenclature. Use this summary to cross-check with BOM 
+and inspection reports. Overall configuration is within defined design and safety margins. Confirm that all 
+test conditions are accurately represented. All specifications meet the design requirements and industry 
+standards. 
+
+Material of Construction: 
+
+Part 
+LED Light Strip 
+Fuse 5A 
+Gasket Sheet A4 
+Steel Sheet A36 
+Teflon Tape Roll 
+Connector 2P 
+Graphite Pad 
+
+Base 
+Glass-Filled Nylon 
+Ceramic Oxide 
+Nitrile Rubber (NBR) 
+Carbon Steel A36 
+Teflon Tape Roll 
+Glass-Filled Nylon 
+Graphite Pad 
+
+ 
+ 
+ 
+ 
+

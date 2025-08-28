@@ -1,0 +1,83 @@
+Maintenance Checklist Report #7371372 
+
+Date: 2024-10-21 
+
+Machine ID 
+MC-296 
+
+MC-231 
+
+Machine 
+Hydraulic 
+Press 
+Lathe 
+
+Service Type 
+Corrective 
+
+Technician 
+Laura Rossi 
+
+Downtime 
+3.8 
+
+Preventive 
+
+Carlos Garcia 
+
+1.8 
+
+MC-255 
+
+Plasma Cutter  Corrective 
+
+Anna Nowak 
+
+3.7 
+
+MC-285 
+
+Lathe 
+
+Inspection 
+
+Jan Kowalski 
+
+3.7 
+
+Area 
+Plant 3A 
+
+Plant 3A 
+
+Plant 1C 
+
+Plant 3A 
+
+Comments 
+Changed oil 
+and filters. 
+Worn gasket 
+replaced. 
+Calibration 
+check OK. 
+Sensor 
+recalibrated. 
+
+Flag any recurring issues for root-cause investigation. Record any spare parts usage for inventory adjustment. Overall 
+equipment condition is satisfactory post-maintenance. All maintenance tasks have been completed as per schedule. 
+
+Lubrication Checked 
+Calibration Verified 
+Emergency Stop Tested 
+
+Yes 
+Yes 
+No 
+
+Approved by: _______________________          Serviced by: _______________________ 
+
+ 
+ 
+ 
+

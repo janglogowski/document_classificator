@@ -168,7 +168,7 @@ def run_ocr_batch(
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Batch OCR: scans → processed/ocr (no per-file meta).")
+    ap = argparse.ArgumentParser(description="Batch OCR: scans >>>> processed/ocr (no per-file meta).")
     ap.add_argument("--config",   type=str, default="config.yaml", help="Path to config.yaml")
     ap.add_argument("--engine",   type=str, choices=["tesseract_ocr", "easy_ocr"], required=True,
                     help="OCR engine to use")

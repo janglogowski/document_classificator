@@ -1,0 +1,116 @@
+Inspection Sheet 
+
+Date: 26.08.2025 
+
+#5457685 
+
+Product ID 
+Item Description 
+
+WD-180S 
+Insulation Foam Pad 
+
+Customer ID 
+
+FINLAND 
+
+Entries include both visual and functional inspection items. This summary supports the production-release 
+quality gate. Use this extract to coordinate sign-off with the QA manager. Confirm that sampling levels comply 
+with customer agreements. This closure summary indicates compliance with inspection criteria. 
+
+Review Points 
+
+Sampling 
+Level 
+
+Category 
+
+Y 
+Component Criteria 
+1  Wrong product size 
+2 
+
+Incorrect barcode or label 
+Missing logo or warning 
+label 
+Dead or live insect in 
+packaging 
+Screws loose or missing 
+
+3 
+
+4 
+
+5 
+
+Critical  Major  Minor  OnHold 
+
+Level I 
+
+Level II 
+
+Level III 
+
+V 
+
+V 
+
+V 
+
+Comments 
+
+Critical impact 
+
+Needs review 
+
+Minor issue observed 
+
+AQL Level 
+Default 
+Customer specific 
+
+Critical 
+0 
+
+Major 
+2.5 
+V 
+
+Minor 
+4.0 
+
+Confirm that all sampling results are within acceptable limits. All summary comments have been validated by 
+the QA team. Ensure that all remarks have corresponding evidence attachments. Use this closure report to 
+update the quality KPI dashboard. This summary supports the end-of-line quality certification. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

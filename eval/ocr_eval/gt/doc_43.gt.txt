@@ -1,0 +1,72 @@
+Product Overview 
+
+Report No.: PR-501  
+
+Product ID: QN-770H 
+
+Date: 2025-02-23 
+
+Configuration Type 
+Throughput 
+Cooling 
+Total Weight 
+Charging Time 
+Protection Class 
+
+Hydraulic Power Unit 
+30 L/min 
+Air-cooled oil radiator 
+250 kg 
+4 h 
+IP65 
+
+Rated Pressure 
+Operating Voltage 
+Battery Capacity 
+Pump Type 
+Working Temp. Range 
+Service Interval 
+
+210 bar 
+480 V / 60 Hz 
+5 Ah 
+Piston Pump 
+-10°C to 50°C 
+1000 h 
+
+Component Materials Overview: 
+Label 
+Thermal Fuse 
+Connector 2P 
+Nut M6 
+Wiring Loom 1m 
+Steel Sheet A36 
+Gasket Sheet A4 
+Battery Pack 
+
+Base 
+Ceramic Oxide 
+Glass-Filled Nylon 
+Zinc-Plated Steel 
+PVC (Rigid) 
+Carbon Steel A36 
+Nitrile Rubber (NBR) 
+Lithium-Ion Cell Pack 
+
+Specification 
+ISO 2768 
+UL-listed 
+RoHS compliant 
+CE certified 
+Anticorrosive 
+DIN EN 10025 
+UL-listed 
+
+Prepared by: Laura Rossi 
+
+ Approved by: Anna Nowak 
+
+ 
+ 
+ 
+

@@ -1,0 +1,154 @@
+BILL OF MATERIAL 
+
+The component roster below includes unit costs and batch codes. Use this breakdown to verify 
+sourcing and cost estimates. All entries reflect the latest inventory and supplier rates. The following 
+table summarizes the materials and quantities needed for the current project. 
+
+No 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+Item 
+Description 
+Heat 
+Resistant 
+Sleeve 
+Battery 
+Pack 
+Aluminum 
+Bracket 
+Spacer 
+2mm 
+Wooden 
+Pallet 
+Rubber 
+Stopper 
+Spacer 
+2mm 
+LED Light 
+Strip 
+
+Qty 
+
+12 
+
+27 
+
+10 
+
+34 
+
+52 
+
+29 
+
+8 
+
+37 
+
+UOM 
+
+m 
+
+Rate 
+
+2.70 
+
+Amount 
+
+Remarks 
+
+32.40 
+
+Imported 
+
+pcs 
+
+pcs 
+
+pcs 
+
+pcs 
+
+pcs 
+
+pcs 
+
+m 
+
+25.00 
+
+675.00 
+
+High grade 
+
+4.50 
+
+0.15 
+
+45.00 
+
+5.10 
+
+15.00 
+
+780.00 
+
+15.95 
+
+Certified 
+batch 
+
+Switch 
+tested OK 
+Imported 
+
+1.20 
+
+SKF brand 
+
+92.50 
+
+ISO-verified 
+
+0.55 
+
+0.15 
+
+2.50 
+
+Customer ID: POLAND 
+Product ID: MX-450L 
+
+Coordinator: Peter Schmidt 
+Internal No.: 8363404 
+
+Date: 2025-03-20 
+Order Qty: 395 
+
+Total Amount:  
+
+1,647.15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

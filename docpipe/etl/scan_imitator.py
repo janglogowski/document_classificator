@@ -12,23 +12,24 @@ def imitate_scans(
     mode: str = "default",
     level: str = "level2",
     input_folder: str = None,
-    output_folder: str = None):
+    output_folder: str = None,
+    config_path: str | None = None):
 
     """
-    Convert PDFs to 'scans' (JPEGs) with augmentations.
+    Convert PDFs to 'scans' (images) with augmentations.
 
     mode:
       - "default": read from data/raw/<subfolders>, write to
-                   data/scans/docs & technical_drawings
-      - "test":    flat: read all PDFs from one folder and overwrite
-                   them in-place with JPEGs
+                   data/scans/docs & technical_drawings (JPG)
+      - "test":    flat: read all PDFs from one folder and write JPEGs in-place
+      - "eval":    flat: read all PDFs from input_folder and write PNGs to output_folder
+                   with names '<stem>_<level>.png' (or '<stem>_<level>_pN.png' for multi-page)
 
     level:
-      - "level1" / "level2" / "level3"  -> selects augmentation strength block from YAML
+      - "level1" / "level2" / "level3" -> selects augmentation strength block from YAML
 
     input_folder/output_folder override config paths if provided.
     """
-
     # --- load config.yaml --- #
     cfg = yaml.safe_load(open("config.yaml", encoding="utf-8"))
 
@@ -43,14 +44,20 @@ def imitate_scans(
 
     if mode == "default":
         base_in  = input_folder or os.path.join(ROOT, cfg["paths"]["data"]["raw"])
-        out_docs = output_folder or os.path.join(
-            ROOT, cfg["paths"]["data"]["scans"]["docs"][level])
-        
+        out_docs = output_folder or os.path.join(ROOT, cfg["paths"]["data"]["scans"]["docs"][level])
+
     elif mode == "test":
         base_in  = input_folder or os.path.join(ROOT, cfg["generator_settings"]["test"]["output_folder"])
-        out_docs = output_folder or base_in
+        out_docs = output_folder or base_in  # in-place
+
+    elif mode == "eval":
+        if not input_folder or not output_folder:
+            raise ValueError("For mode='eval' you must pass both input_folder (PDFs) and output_folder (images).")
+        base_in  = input_folder
+        out_docs = output_folder
+
     else:
-        raise ValueError("mode must be 'default' or 'test'")
+        raise ValueError("mode must be 'default', 'test' or 'eval'")
 
     os.makedirs(out_docs, exist_ok=True)
 
@@ -226,7 +233,7 @@ def imitate_scans(
     # ---------------------- Processing ---------------------- #
     print(f"=== Start scan imitation ({mode}, {level}) ===")
 
-    # test mode
+    # --- TEST MODE --- #
     if mode == "test":
         pdfs = [f for f in os.listdir(base_in) if f.lower().endswith(".pdf")]
         for pdf in pdfs:
@@ -243,12 +250,37 @@ def imitate_scans(
                 img.save(
                     os.path.join(base_in, name),
                     "JPEG",
-                    quality=random.randint(*proc_cfg["jpeg_quality_range"]))
-                
+                    quality=random.randint(*proc_cfg["jpeg_quality_range"])
+                )
+
         print(f"=== Scan imitation ({mode}) complete ===")
         return
 
-    # default mode (walk each subfolder in raw/)
+    # --- EVAL MODE --- #
+    if mode == "eval":
+        pdfs = [f for f in os.listdir(base_in) if f.lower().endswith(".pdf")]
+        for pdf in pdfs:
+            src = os.path.join(base_in, pdf)
+            try:
+                pages = convert_from_path(src, dpi=pdf_cfg["dpi"], poppler_path=POPPLER)
+            except Exception as e:
+                print(f"   conversion error {pdf}: {e}")
+                continue
+
+            multi = len(pages) > 1
+            for idx, page in enumerate(pages):
+                img = process_image(page)
+                stem = os.path.splitext(pdf)[0]
+                if not multi:
+                    name = f"{stem}_{level}.png"
+                else:
+                    name = f"{stem}_{level}_p{idx+1}.png"
+                img.save(os.path.join(out_docs, name), "PNG")
+
+        print(f"=== Scan imitation ({mode}, {level}) complete ===")
+        return
+
+    # --- DEFAULT MODE --- #
     for sub in os.listdir(base_in):
         in_f = os.path.join(base_in, sub)
         if not os.path.isdir(in_f):
@@ -262,7 +294,7 @@ def imitate_scans(
             src = os.path.join(in_f, pdf)
             try:
                 pages = convert_from_path(src, dpi=pdf_cfg["dpi"], poppler_path=POPPLER)
-                print(f"  → converted {pdf}, pages: {len(pages)}")
+                print(f"   converted {pdf}, pages: {len(pages)}")
             except Exception as e:
                 print(f"   conversion error {pdf}: {e}")
                 continue
@@ -275,7 +307,7 @@ def imitate_scans(
                     "JPEG",
                     quality=random.randint(*proc_cfg["jpeg_quality_range"])
                 )
-        print(f"  >>>> saved {len(pdfs)} page(s) for '{sub}'")
+        print(f"  >>>> saved {len(pdfs)} file(s) for '{sub}'")
 
     print(f"=== Scan imitation ({mode}, {level}) complete ===")
 

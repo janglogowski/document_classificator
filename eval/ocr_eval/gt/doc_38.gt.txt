@@ -1,0 +1,156 @@
+Equipment Record Report 
+
+Performed On: 2024-07-26 
+
+Signed off: 
+Performed by: 
+
+Anna Nowak 
+Laura Rossi 
+
+The following entries detail preventive and corrective maintenance tasks. All technician comments are recorded for 
+maintenance trend analysis. The equipment log below includes fault codes and corrective notes. Use this summary to 
+forecast parts replacement and resource needs. This maintenance extract is prepared for compliance audit trails. Below is 
+the summary of service actions and downtimes for each machine. 
+
+MC-239 
+Hydraulic 
+Press 
+Preventive 
+Laura Rossi 
+2.7 
+Alignment of 
+hinges 
+adjusted. 
+
+MC-246 
+Hydraulic 
+Press 
+Preventive 
+Laura Rossi 
+3.1 
+
+Section A: 
+
+Unit Code 
+Equipment 
+
+Service Type 
+Technician 
+Duration 
+Notes 
+
+Section B: 
+
+Unit Code 
+Equipment 
+
+Service Type 
+Technician 
+Duration 
+Notes 
+
+Uptime (%) 
+98.83% 
+
+MC-298 
+Plasma Cutter  Hydraulic 
+
+MC-246 
+
+Preventive 
+Laura Rossi 
+2.1 
+Refilled oil 
+(HLP 46). 
+
+Press 
+Preventive 
+Anna Nowak 
+2.3 
+Replaced 
+coolant. 
+
+MC-243 
+CNC Milling 
+Machine 
+Preventive 
+Anna Nowak 
+2.0 
+
+MC-220 
+Plasma Cutter  Hydraulic 
+
+MC-214 
+
+Inspection 
+Laura Rossi 
+3.5 
+Li-Ion battery 
+pack serviced. 
+
+Press 
+Inspection 
+Jan Kowalski 
+3.0 
+Changed oil 
+and filters. 
+
+MC-239 
+Hydraulic 
+Press 
+Corrective 
+Jan Kowalski 
+1.8 
+Calibration 
+check OK. 
+
+MC-243 
+CNC Milling 
+Machine 
+Corrective 
+Anna Nowak 
+1.8 
+Changed oil 
+and filters. 
+
+MC-220 
+Plasma Cutter  Hydraulic 
+
+MC-214 
+
+MC-298 
+Plasma Cutter 
+
+Corrective 
+Jan Kowalski 
+2.3 
+
+Press 
+Preventive 
+Carlos Garcia 
+1.6 
+Sensor 
+recalibrated. 
+
+Preventive 
+Carlos Garcia 
+3.3 
+Sensor 
+recalibrated. 
+
+Error Count 
+5 
+
+Comments 
+Bolt tightened 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

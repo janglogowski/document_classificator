@@ -1,0 +1,78 @@
+Product Overview 
+
+Document No.: PR-999 
+
+Product ID: VR-940T 
+
+Date: 2024-01-28 
+
+Configuration Type 
+
+Throughput 
+Total Weight 
+Filtration 
+
+Motor Power 
+Working Temp. Range 
+
+Cooling Circulation 
+System 
+48 L/min 
+230 kg 
+10 μm return, 25 μm 
+suction 
+7.5 kW 
+5°C to 45°C 
+
+Design Pressure 
+
+180 bar 
+
+Operating Voltage 
+Charging Time 
+Protection Class 
+
+400 V / 50 Hz 
+2 h 
+IP54 
+
+Pump Type 
+
+Gear Pump 
+
+Component Materials Overview: 
+Item 
+O-Ring NBR 60mm 
+Bearing 6202 ZZ 
+Steel Sheet A36 
+Wiring Loom 1m 
+Cooling Gel Pack 
+LED Light Strip 
+
+Base 
+Nitrile Rubber (NBR) 
+Stainless Steel 304 
+Carbon Steel A36 
+PVC (Rigid) 
+Silicone Rubber 
+Glass-Filled Nylon 
+
+Specification 
+ISO 2768 
+DIN EN 10025 
+Heat-resistant 
+RoHS compliant 
+RoHS compliant 
+Anticorrosive 
+
+Prepared by: Peter Schmidt 
+
+ Approved by: Laura Rossi 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

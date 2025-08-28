@@ -1,0 +1,203 @@
+QC Checklist 
+
+Inspection Checklist Points  Check 
+
+Category 
+
+Observations 
+
+Y 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+Design Specs 
+Color mismatch 
+Carton is damaged or 
+markings incorrect 
+Shipping mark is illegible or 
+missing 
+Packaging does not match 
+signed sample 
+Connector not working 
+Instruction manual is missing 
+or damaged 
+Rubber texture or glossiness 
+mismatch 
+Rubber Switch not working 
+Not assembled as per 
+drawing 
+Dead or live insect in 
+packaging 
+Wood splinter or sharp point 
+on product 
+Incorrect orientation in box 
+Missing distributor 
+information 
+Product doesn't power on 
+
+14 
+Reference Standards: 
+
+Intensity 
+
+Level II 
+
+Level I 
+
+Level II 
+
+Level II 
+
+Level III 
+
+CR 
+
+MA 
+
+MI 
+
+Hold 
+V 
+
+Minor issue observed 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Critical impact 
+
+Needs review 
+
+Minor issue observed 
+
+V 
+
+Needs review 
+
+Needs review 
+
+Critical impact 
+
+V 
+
+Minor issue observed 
+
+Critical impact 
+
+V 
+
+Critical impact 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Minor issue observed 
+
+Critical impact 
+
+Minor issue observed 
+
+Standard 
+RoHS 
+UL 61010 
+
+Edition 
+2015 
+3rd Ed. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

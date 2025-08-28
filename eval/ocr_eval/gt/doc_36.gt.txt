@@ -1,0 +1,177 @@
+Equipment Record Report 
+
+2024-07-01 
+
+Confirm that service intervals follow the preventive schedule. All technician comments are recorded for maintenance trend 
+analysis. This log records all maintenance activities performed on the equipment. Use this record to plan upcoming upkeep 
+and repairs. 
+
+Spare Parts Used: 
+
+Part Name 
+Li-Ion Battery Pack 
+Li-Ion Battery Pack 
+Oil Filter 
+
+Part No. 
+P-7300 
+P-8998 
+P-7043 
+
+Qty Used 
+5 
+4 
+4 
+
+Unit Code 
+
+Equipment 
+
+MC-269 
+
+Lathe 
+
+Service 
+Type 
+Corrective 
+
+MC-260 
+
+Laser Cutter  Corrective 
+
+Operator 
+
+Duration 
+
+Last Check 
+
+Area 
+
+Notes 
+
+Peter 
+Schmidt 
+Jan 
+Kowalski 
+
+2.3 
+
+3.3 
+
+2024-05-19 
+
+2023-12-14 
+
+Replaced 
+fuse (5A). 
+Li-Ion 
+battery pack 
+serviced. 
+
+Corrective 
+
+Laura Rossi 
+
+3.9 
+
+2024-12-17  Worn gasket 
+
+MC-236 
+
+MC-271 
+
+CNC Milling 
+Machine 
+Lathe 
+
+Corrective 
+
+MC-218 
+
+Laser Cutter 
+
+Inspection 
+
+Jan 
+Kowalski 
+Jan 
+Kowalski 
+
+2.8 
+
+2.7 
+
+MC-257 
+
+MC-215 
+
+MC-270 
+
+Hydraulic 
+Press 
+
+Conveyor 
+Belt 
+Lathe 
+
+Preventive 
+
+Laura Rossi 
+
+3.2 
+
+Preventive 
+
+Preventive 
+
+Jan 
+Kowalski 
+Anna 
+Nowak 
+
+2.3 
+
+3.2 
+
+Signed off: 
+Performed by: 
+
+Laura Rossi 
+Anna Nowak 
+
+2024-12-30 
+
+replaced. 
+No issues 
+found. 
+Switch 
+contacts 
+cleaned. 
+2024-05-06  Wooden 
+
+2024-12-28 
+
+pallet 
+checked. 
+
+2025-07-12  Worn gasket 
+
+2024-02-19 
+
+replaced. 
+Sensor 
+recalibrated. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

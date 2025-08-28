@@ -1,0 +1,190 @@
+Confirm that service intervals follow the preventive schedule. Below is the summary of service actions and downtimes for 
+each machine. Ensure all safety checks were completed during servicing. This maintenance extract is prepared for 
+compliance audit trails. Use this record to plan upcoming upkeep and repairs. This service summary supports the 
+reliability engineering review. 
+
+Spare Parts Used: 
+
+Part Name 
+Sealing Gasket 
+Li-Ion Battery Pack 
+Hinge Set 
+
+Part No. 
+P-3178 
+P-9470 
+P-1093 
+
+Qty Used 
+5 
+5 
+4 
+
+Machine ID  Machine 
+MC-288 
+
+Packaging 
+Line 
+Laser 
+Cutter 
+Hydraulic 
+Press 
+Lathe 
+
+Type 
+Corrective 
+
+Inspection 
+
+Corrective 
+
+Preventive 
+
+MC-260 
+
+MC-265 
+
+MC-271 
+
+MC-289 
+
+Paint Booth 
+
+Inspection 
+
+MC-208 
+
+Paint Booth 
+
+Inspection 
+
+Operator 
+Carlos 
+Garcia 
+Peter 
+Schmidt 
+Jan 
+Kowalski 
+Jan 
+Kowalski 
+Jan 
+Kowalski 
+Laura Rossi 
+
+MC-214 
+
+MC-229 
+
+MC-277 
+
+MC-246 
+
+Laser 
+Cutter 
+
+Preventive 
+
+CNC Milling 
+Machine 
+
+Preventive 
+
+Hydraulic 
+Press 
+Conveyor 
+Belt 
+
+Corrective 
+
+Corrective 
+
+Jan 
+Kowalski 
+
+Peter 
+Schmidt 
+
+Jan 
+Kowalski 
+Carlos 
+Garcia 
+
+Duration 
+2.6 
+
+Last Check  Site 
+2024-11-05  Changed oil 
+
+Comments 
+
+2.0 
+
+3.2 
+
+1.5 
+
+3.1 
+
+3.5 
+
+2.0 
+
+2.7 
+
+2.9 
+
+2.2 
+
+2025-07-03 
+
+and filters. 
+Tightened 
+loose bolts. 
+
+2024-01-22  Replaced 
+fuse (5A). 
+2025-04-21  Calibration 
+check OK. 
+2024-02-10  Replaced 
+
+coolant. 
+
+2024-12-23  Changed oil 
+
+2024-05-29 
+
+2024-08-21 
+
+and filters. 
+Switch 
+contacts 
+cleaned. 
+Alignment 
+of hinges 
+adjusted. 
+2024-04-11  Replaced 
+fuse (5A). 
+2024-01-31  Calibration 
+check OK. 
+
+Authorized by: 
+Operator: 
+
+Peter Schmidt 
+Carlos Garcia 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,120 @@
+Tolerance Check 
+
+Technician 
+Inspection Date 
+
+Anna Nowak 
+2024-04-18 
+
+All measured values are timestamped for audit purposes. Review recorded tolerances against engineering 
+specifications. Use this results summary to trigger any corrective actions. Refer to the dimensional log for all 
+component size readings. 
+
+Article No. 
+Component 
+
+SL-430M 
+Rubber 
+Gasket 
+80mm 
+Measurement  Width 
+
+NU-440Z 
+Hex Bolts 
+M12 
+
+RM-860N 
+Wooden 
+Pallet 
+
+KV-390K 
+Steel Sheet 
+A36 
+
+FT-730X 
+Wooden 
+Pallet 
+
+Depth 
+
+Depth 
+
+Depth 
+
+Height 
+
+Nominal 
+Actual 
+Diff 
+Pass/Fail 
+
+96.63 
+96.68 
++0.05 
+OK 
+
+98.20 
+98.35 
++0.15 
+OK 
+
+33.87 
+33.97 
++0.10 
+OK 
+
+46.48 
+46.58 
++0.10 
+OK 
+
+95.59 
+95.65 
++0.06 
+OK 
+
+BZ-660F 
+Power 
+Switch 
+
+Inner 
+Diameter 
+70.64 
+70.54 
+-0.10 
+OK 
+
+KV-390K 
+Wooden 
+Pallet 
+
+Thickness 
+
+99.95 
+99.76 
+-0.19 
+OK 
+
+Refer to deviation column for any out-of-tolerance measurements. All dimensions within tolerance have been marked 
+as OK. Flag any components requiring re-machining or adjustment. 
+
+Instrument Calibration Log: 
+
+Instrument 
+CMM 
+Caliper 
+
+Serial No. 
+13098 
+17394 
+
+Last Calibration Date 
+2025-07-06 
+2024-10-12 
+
+ 
+ 
+ 
+ 
+ 
+

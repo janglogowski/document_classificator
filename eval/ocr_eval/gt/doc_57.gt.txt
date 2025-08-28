@@ -1,0 +1,159 @@
+Quality Inspection List 
+
+Audit Criteria 
+
+6 
+
+B 
+1 
+2 
+3 
+4 
+5 
+
+Item Specs 
+Connector not working 
+Exposed nail with sharp point 
+Incorrect orientation in box 
+Visual defect on housing 
+Paint smearing or scratches 
+Rubber texture or glossiness 
+mismatch 
+Shipping mark is illegible or 
+missing 
+Missing logo or warning label 
+Incorrect barcode or label 
+Instruction manual is missing 
+or damaged 
+Dead or live insect in 
+packaging 
+Reference Standards: 
+
+8 
+9 
+
+11 
+
+10 
+
+7 
+
+Check 
+Intensity 
+
+Level II 
+Level III 
+
+Level I 
+
+Level II 
+
+Level II 
+
+Level I 
+Level III 
+
+Defect Class 
+
+Notes 
+
+H 
+
+V 
+
+V 
+
+M 
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+m 
+V 
+
+V 
+
+V 
+V 
+
+C 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Needs review 
+Needs review 
+Critical impact 
+Minor issue observed 
+
+Critical impact 
+
+Critical impact 
+
+Critical impact 
+Needs review 
+
+Level II 
+
+V 
+
+V 
+
+Critical impact 
+
+Standard 
+CE Directive 
+IEC 61010 
+
+Edition 
+2020 
+3rd Ed. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -33,12 +33,13 @@ def generate_database(
 
     Modes:
       - "default": full training set. Writes into subfolders per type.
-      - "test": small test pack. Writes all PDFs into a single flat folder.
+      - "test":    small test pack. Writes all PDFs into a single flat folder per level.
+      - "eval":    evaluation set. Writes all PDFs into a single flat folder (no level).
     """
-    if mode not in ("default", "test"):
-        raise ValueError("mode must be 'default' or 'test'")
+    if mode not in ("default", "test", "eval"):
+        raise ValueError("mode must be 'default', 'test' or 'eval'") 
 
-    # Map generator keys -> functions
+    # Map generator keys >>> functions
     generators: List[Tuple[str, Callable[[int, str], None]]] = [
         ("bom", generate_bom_document),
         ("quality_checklist", generate_quality_checklist),
@@ -52,7 +53,7 @@ def generate_database(
     types_map: Dict[str, str] = cfg["paths"]["data"]["generators"]
 
     # How many documents per type
-    num_docs: int = int(cfg["generator_settings"][mode]["num_documents"])
+    num_docs: int = int(cfg["generator_settings"][mode]["num_documents"]) 
 
     # Base directory for generated PDFs
     base_dir = _resolve_base_dir(cfg, mode, output_folder)
@@ -62,11 +63,14 @@ def generate_database(
     if mode == "test":
         if not level:
             raise ValueError("Level must be specified for test mode.")
-        out_dir = base_dir / level          # flat folder for all types
+        out_dir = base_dir / level          
         out_dir.mkdir(parents=True, exist_ok=True)
         print(f"=== Generating {num_docs} PDFs per type into: {out_dir} (mode=test) ===")
+    elif mode == "eval":
+        out_dir = base_dir
+        out_dir.mkdir(parents=True, exist_ok=True)
+        print(f"=== Generating {num_docs} PDFs per type into: {out_dir} (mode=eval) ===")
     else:
-        # In default mode we expect per-type subfolders under base_dir
         out_dir = base_dir
         print(f"=== Generating {num_docs} PDFs per type into: {out_dir} (mode=default) ===")
 
@@ -74,7 +78,9 @@ def generate_database(
     for i in range(1, num_docs + 1):
         for key, gen_func in generators:
             if mode == "test":
-                dest = out_dir                              # flat: same folder for all
+                dest = out_dir                              
+            elif mode == "eval":
+                dest = out_dir                              
             else:
                 type_subdir = types_map[key]
                 dest = out_dir / type_subdir

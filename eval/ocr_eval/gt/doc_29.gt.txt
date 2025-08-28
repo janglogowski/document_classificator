@@ -1,0 +1,103 @@
+Measurement Summary Sheet 
+
+Supervisor 
+Inspection Date 
+
+Peter Schmidt 
+2024-09-18 
+
+Article No. 
+Part Name 
+
+Measurement 
+
+Target 
+Actual 
+Delta 
+Pass/Fail 
+
+MX-450L 
+Wooden 
+Pallet 
+Inner 
+Diameter 
+65.83 
+65.83 
++0.00 
+PASS 
+
+TX-820V 
+Hinge Set 
+
+RE-850C 
+Hinge Set 
+
+Height 
+
+40.79 
+40.88 
++0.09 
+PASS 
+
+Depth 
+
+12.31 
+12.28 
+-0.03 
+PASS 
+
+RE-850C 
+O-Ring NBR 
+60mm 
+Width 
+
+58.62 
+58.52 
+-0.10 
+PASS 
+
+SB-140D 
+Shaft 500mm  Bearing 6202 
+
+CE-905L 
+
+Height 
+
+77.83 
+77.65 
+-0.18 
+PASS 
+
+ZZ 
+Length 
+
+37.90 
+38.08 
++0.18 
+PASS 
+
+This assessment reflects the latest metrology results. Record any measurement anomalies for follow-up 
+analysis. Please address any NOK items before proceeding to the next production stage. 
+
+Instrument Calibration Log: 
+
+Instrument 
+Caliper 
+Micrometer 
+Micrometer 
+
+Serial No. 
+93615 
+29510 
+50501 
+
+Last Calibration Date 
+2025-03-18 
+2024-09-20 
+2024-10-11 
+
+ 
+ 
+ 
+ 
+

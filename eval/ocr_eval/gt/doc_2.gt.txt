@@ -1,0 +1,50 @@
+Customer ID: GREECE 
+
+Product ID: CN-150C 
+
+Prepared by: Anna Nowak 
+
+Internal No.: 1630262 
+
+Refer to this parts register to plan raw-material purchasing. Ensure each component meets the 
+specified quality standards. This summary lists every item required, with per-unit pricing details. All 
+line-item costs are current as per vendor quotes. 
+
+1 
+LED Light Strip 
+944 
+m 
+2.50 
+2,360.00 
+ISO-verified 
+
+2 
+Bearing 6202 ZZ 
+102 
+pcs 
+1.50 
+153.00 
+Urgent 
+
+3 
+Spacer 2mm 
+979 
+pcs 
+0.15 
+146.85 
+Certified batch 
+
+No 
+Item Description 
+Qty 
+UOM 
+Unit Price 
+Amount 
+Remarks 
+
+TOTAL:  2,659.85 
+
+ 
+ 
+ 
+

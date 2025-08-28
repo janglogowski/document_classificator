@@ -1,0 +1,158 @@
+Inspection performed by Carlos Garcia on 2023-10-07. 
+
+All measured values are timestamped for audit purposes. This report presents the dimensional 
+measurements and inspection results. Ensure measurement methods align with calibration standards. The 
+following data captures key dimensions and any deviations identified. Use this examination summary to 
+confirm component conformity. 
+Environmental Conditions: Temperature: 23.1 °C, Humidity: 58 % 
+
+Nominal 
+92.19 
+
+Actual 
+92.01 
+
+Item Code 
+VF-220D 
+
+CE-905L 
+
+VR-940T 
+
+QP-660F 
+
+SL-430M 
+
+TY-350G 
+
+KV-390K 
+
+MX-450L 
+
+TX-820V 
+
+RE-850C 
+
+Component  Dim. 
+O-Ring NBR 
+60mm 
+O-Ring NBR 
+60mm 
+Hinge Set 
+
+Thickness 
+
+Inner 
+Diameter 
+Inner 
+Diameter 
+Width 
+
+74.40 
+
+48.70 
+
+12.21 
+
+45.28 
+
+87.59 
+
+50.12 
+
+Height 
+
+Inner 
+Diameter 
+Height 
+
+Hole Ø 
+
+58.74 
+
+Hole Ø 
+
+94.83 
+
+Depth 
+
+72.76 
+
+Rubber 
+Gasket 
+80mm 
+Wooden 
+Pallet 
+Hinge Set 
+
+Bearing 
+6202 ZZ 
+Graphite 
+Pad 
+Steel Sheet 
+A36 
+Graphite 
+Pad 
+
+Diff 
+-0.18 
+
++0.02 
+
+-0.19 
+
+-0.16 
+
+-0.04 
+
+-0.09 
+
+-0.09 
+
++0.08 
+
++0.12 
+
++0.02 
+
+Status (V/X) 
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+74.42 
+
+48.51 
+
+12.05 
+
+45.24 
+
+87.50 
+
+50.03 
+
+58.82 
+
+94.95 
+
+72.78 
+
+ 
+

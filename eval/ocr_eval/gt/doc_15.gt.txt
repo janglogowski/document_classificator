@@ -1,0 +1,218 @@
+Shift Summary 
+
+Report No.: PR-150 
+
+Shift: C (Night) 
+
+Equipment 
+MC-201 
+
+Task 
+Welding 
+
+MC-201 
+MC-205 
+
+MC-209 
+MC-203 
+MC-209 
+
+MC-209 
+MC-208 
+MC-201 
+
+Welding 
+Drilling 
+
+Drilling 
+Drilling 
+Welding 
+
+Polishing 
+Polishing 
+Cutting 
+
+MC-203 
+
+Assembly 
+
+Begin 
+09:00 
+
+13:15 
+06:15 
+
+Operator 
+Agnieszka 
+Zielińska 
+Anna Nowak 
+Przemysław 
+Wąsik 
+Anna Nowak 
+Anna Nowak 
+Dawid 
+Oszmiańczuk 
+Anna Nowak 
+07:15 
+Nadia Sauter  13:15 
+06:30 
+Wiktor 
+Kopczyński 
+Magdalena 
+Witkowska 
+
+12:30 
+11:15 
+12:00 
+
+08:15 
+
+Customer: BRAZIL 
+
+Date: 01-11-2024 
+
+To 
+10:44 
+
+14:21 
+08:05 
+
+13:51 
+12:37 
+12:47 
+
+09:06 
+15:13 
+07:19 
+
+09:18 
+
+Total Time 
+104 
+
+Notes 
+Recalibrated  Completed 
+
+Stage 
+
+66 
+110 
+
+81 
+82 
+47 
+
+111 
+118 
+49 
+
+63 
+
+Delay 
+
+Delay 
+
+N/A 
+
+Recalibrated 
+Delay 
+
+Completed 
+Delayed 
+
+In progress 
+Delayed 
+Delayed 
+
+Delayed 
+In progress 
+Completed 
+
+N/A 
+
+In progress 
+
+Confirm that scrap percentages align with quality benchmarks. Record any adjustments to shift schedules or staffing 
+here. Ensure routine maintenance between shifts to maintain consistent output. Verify the final counts against 
+inventory records. 
+
+Product ID 
+
+LP-555V 
+
+MS-600P 
+
+MX-450L 
+
+BZ-660F 
+
+Planned 
+Output 
+106 
+
+224 
+
+265 
+
+208 
+
+Achieved Qty 
+
+Scrap Qty 
+
+Rejection % 
+
+94 
+
+198 
+
+234 
+
+201 
+
+12 
+
+26 
+
+31 
+
+7 
+
+11.32% 
+
+11.61% 
+
+11.70% 
+
+3.37% 
+
+Reworked 
+Units 
+6 
+
+5 
+
+2 
+
+4 
+
+Notes 
+
+Scrap 
+confirmed 
+Rework 
+needed 
+Scrap 
+confirmed 
+Scrap 
+confirmed 
+
+Approved by: ___________        Prepared by: ___________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

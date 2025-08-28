@@ -1,0 +1,177 @@
+Inspection Sheet 
+
+Date: 26.08.2025 
+
+#7737028 
+
+Product ID 
+Item Description 
+
+LK-890B 
+Connector 2P 
+
+Customer ID 
+
+CANADA 
+
+Use this extract to coordinate sign-off with the QA manager. Archive this list in the quality-management system. 
+Please review each checklist point and mark the sampling results. Confirm that sampling levels comply with customer 
+agreements. This closure summary indicates compliance with inspection criteria. All checklist entries are timestamped 
+for traceability. Check that inspection steps follow the approved procedure. Below are the items to be verified during 
+the final product review. The following table outlines inspection criteria and classification levels. 
+
+Review Points 
+
+Product Requirements 
+Carton is damaged or markings 
+incorrect 
+Connector not working 
+Hinges loose 
+Color mismatch 
+Shipping mark is illegible or 
+missing 
+Rubber Switch not working 
+Product doesn't power on 
+Dust/debris inside packaging 
+Missing safety labels 
+Rubber texture or glossiness 
+mismatch 
+
+X 
+
+1 
+
+2 
+3 
+4 
+
+5 
+
+6 
+7 
+8 
+9 
+
+10 
+
+Sampling 
+Level 
+
+Level I 
+
+Level I 
+Level I 
+Level III 
+
+Level I 
+
+Level III 
+
+Level I 
+
+Level I 
+
+Severity 
+
+Notes 
+
+CR 
+
+MA  MI 
+
+Hold 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+V 
+
+Needs review 
+
+Critical impact 
+Needs review 
+
+Critical impact 
+
+Critical impact 
+Needs review 
+Needs review 
+Critical impact 
+
+Needs review 
+
+AQL Level 
+Default 
+Customer specific 
+
+Critical 
+0 
+V 
+
+Major 
+2.5 
+
+Minor 
+4.0 
+
+All critical and major inspection points have been addressed. Inspection summary is filed for regulatory compliance. 
+Confirm that all sampling results are within acceptable limits. All summary comments have been validated by the QA 
+team. Ensure that all remarks have corresponding evidence attachments. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
