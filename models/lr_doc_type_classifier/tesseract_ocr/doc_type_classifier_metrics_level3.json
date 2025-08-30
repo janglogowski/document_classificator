@@ -1,76 +1,120 @@
 {
   "engine": "tesseract_ocr",
   "level": "level3",
-  "accuracy": 0.3118279569892473,
-  "classification_report": {
-    "bill_of_materials": {
-      "precision": 0.35,
-      "recall": 0.21875,
-      "f1-score": 0.2692307692307692,
-      "support": 32.0
-    },
-    "daily_report": {
-      "precision": 0.3611111111111111,
-      "recall": 0.40625,
-      "f1-score": 0.38235294117647056,
-      "support": 32.0
-    },
-    "inspection_report": {
-      "precision": 0.3103448275862069,
-      "recall": 0.2727272727272727,
-      "f1-score": 0.2903225806451613,
-      "support": 33.0
-    },
-    "maintenance_log": {
-      "precision": 0.2857142857142857,
-      "recall": 0.3333333333333333,
-      "f1-score": 0.3076923076923077,
-      "support": 30.0
-    },
-    "product_data_sheet": {
-      "precision": 0.2972972972972973,
-      "recall": 0.36666666666666664,
-      "f1-score": 0.3283582089552239,
-      "support": 30.0
-    },
-    "quality_checklist": {
-      "precision": 0.27586206896551724,
-      "recall": 0.27586206896551724,
-      "f1-score": 0.27586206896551724,
-      "support": 29.0
-    },
-    "accuracy": 0.3118279569892473,
-    "macro avg": {
-      "precision": 0.3133882651124031,
-      "recall": 0.31226489028213167,
-      "f1-score": 0.308969812777575,
-      "support": 186.0
-    },
-    "weighted avg": {
-      "precision": 0.3144477546034832,
-      "recall": 0.3118279569892473,
-      "f1-score": 0.30920881394488137,
-      "support": 186.0
+  "n_docs": 1371,
+  "n_classes": 6,
+  "classes": [
+    "BOM",
+    "DAILY_REPORT",
+    "INSPECTION_REPORT",
+    "MAINTENANCE_LOG",
+    "PRODUCT_DATA_SHEET",
+    "QUALITY_CHECKLIST"
+  ],
+  "vectorizer": {
+    "max_features": 1000,
+    "stop_words": null,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "strip_accents": "unicode",
+    "lowercase": true
+  },
+  "model": {
+    "name": "LogisticRegression",
+    "params": {
+      "max_iter": 1000,
+      "solver": "lbfgs",
+      "multi_class": "auto",
+      "class_weight": "balanced",
+      "random_state": 41
     }
   },
-  "train_size": 744,
-  "test_size": 186,
-  "tfidf_max_features": 1000,
-  "tfidf_stop_words": null,
-  "logistic_regression_params": {
-    "max_iter": 1000,
-    "solver": "lbfgs",
-    "multi_class": "auto",
-    "class_weight": "balanced",
-    "random_state": 41
+  "final": {
+    "accuracy": 0.46534306569343065,
+    "accuracy_ci95": [
+      0.41254501132506216,
+      0.5181411200617991
+    ],
+    "f1_macro": 0.4667835675016351,
+    "origin": {
+      "type": "cv_mean",
+      "k": 5
+    }
   },
-  "cross_val_scores": [
-    0.23655913978494625,
-    0.27419354838709675,
-    0.3172043010752688,
-    0.2903225806451613,
-    0.3064516129032258
-  ],
-  "cross_val_mean": 0.28494623655913975,
-  "cross_val_std": 0.028245001153900426
+  "cv": {
+    "k": 5,
+    "random_state": 41,
+    "accuracy_scores": [
+      0.48,
+      0.45255474452554745,
+      0.5255474452554745,
+      0.40875912408759124,
+      0.45985401459854014
+    ],
+    "accuracy_mean": 0.46534306569343065,
+    "accuracy_std": 0.038038944069429745,
+    "f1_macro_scores": [
+      0.48072417873292483,
+      0.45041573024008796,
+      0.525886068605884,
+      0.41437612094392556,
+      0.46251573898535286
+    ],
+    "f1_macro_mean": 0.4667835675016351,
+    "f1_macro_std": 0.03666089794275032,
+    "classification_report": {
+      "BOM": {
+        "precision": 0.5797872340425532,
+        "recall": 0.47186147186147187,
+        "f1-score": 0.5202863961813843,
+        "support": 231.0
+      },
+      "DAILY_REPORT": {
+        "precision": 0.375,
+        "recall": 0.5518867924528302,
+        "f1-score": 0.44656488549618323,
+        "support": 212.0
+      },
+      "INSPECTION_REPORT": {
+        "precision": 0.46511627906976744,
+        "recall": 0.42016806722689076,
+        "f1-score": 0.44150110375275936,
+        "support": 238.0
+      },
+      "MAINTENANCE_LOG": {
+        "precision": 0.3557312252964427,
+        "recall": 0.4017857142857143,
+        "f1-score": 0.37735849056603776,
+        "support": 224.0
+      },
+      "PRODUCT_DATA_SHEET": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 240.0
+      },
+      "QUALITY_CHECKLIST": {
+        "precision": 0.5024630541871922,
+        "recall": 0.45132743362831856,
+        "f1-score": 0.4755244755244755,
+        "support": 226.0
+      },
+      "accuracy": 0.4653537563822028,
+      "macro avg": {
+        "precision": 0.47968296543265926,
+        "recall": 0.4661715799092043,
+        "f1-score": 0.46778164949589757,
+        "support": 1371.0
+      },
+      "weighted avg": {
+        "precision": 0.4823989571080547,
+        "recall": 0.4653537563822028,
+        "f1-score": 0.4688848287386303,
+        "support": 1371.0
+      }
+    }
+  },
+  "holdout": null
 }

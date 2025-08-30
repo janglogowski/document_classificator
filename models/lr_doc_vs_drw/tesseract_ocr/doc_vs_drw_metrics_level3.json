@@ -1,43 +1,91 @@
 {
   "engine": "tesseract_ocr",
   "level": "level3",
-  "n_docs": 258,
-  "n_drawings": 258,
-  "train_size": 254,
-  "test_size": 64,
-  "accuracy": 0.734375,
-  "classification_report": {
-    "document": {
-      "precision": 0.6956521739130435,
-      "recall": 0.6153846153846154,
-      "f1-score": 0.6530612244897959,
-      "support": 26.0
-    },
-    "tech_drw": {
-      "precision": 0.7560975609756098,
-      "recall": 0.8157894736842105,
-      "f1-score": 0.7848101265822784,
-      "support": 38.0
-    },
-    "accuracy": 0.734375,
-    "macro avg": {
-      "precision": 0.7258748674443266,
-      "recall": 0.715587044534413,
-      "f1-score": 0.7189356755360372,
-      "support": 64.0
-    },
-    "weighted avg": {
-      "precision": 0.7315416224814422,
-      "recall": 0.734375,
-      "f1-score": 0.7312871351072074,
-      "support": 64.0
+  "n_docs": 430,
+  "n_classes": 2,
+  "classes": [
+    "document",
+    "tech_drw"
+  ],
+  "vectorizer": {
+    "max_features": 5000,
+    "stop_words": "english",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "strip_accents": "unicode",
+    "lowercase": true
+  },
+  "model": {
+    "name": "LogisticRegression",
+    "params": {
+      "max_iter": 500,
+      "solver": "lbfgs",
+      "class_weight": "balanced",
+      "random_state": 41
     }
   },
-  "tfidf_max_features": 5000,
-  "logistic_regression_params": {
-    "max_iter": 500,
-    "solver": "lbfgs",
-    "class_weight": "balanced",
-    "random_state": 41
-  }
+  "final": {
+    "accuracy": 0.7906976744186046,
+    "accuracy_ci95": [
+      0.7237623707013514,
+      0.8576329781358578
+    ],
+    "f1_macro": 0.7888640806836782,
+    "origin": {
+      "type": "cv_mean",
+      "k": 5
+    }
+  },
+  "cv": {
+    "k": 5,
+    "random_state": 41,
+    "accuracy_scores": [
+      0.7441860465116279,
+      0.7790697674418605,
+      0.813953488372093,
+      0.7441860465116279,
+      0.872093023255814
+    ],
+    "accuracy_mean": 0.7906976744186046,
+    "accuracy_std": 0.04822428221704121,
+    "f1_macro_scores": [
+      0.7419530823786142,
+      0.7753951890034365,
+      0.8114035087719298,
+      0.7436314363143631,
+      0.8719371869500474
+    ],
+    "f1_macro_mean": 0.7888640806836782,
+    "f1_macro_std": 0.0486563700351797,
+    "classification_report": {
+      "document": {
+        "precision": 0.7487684729064039,
+        "recall": 0.7958115183246073,
+        "f1-score": 0.7715736040609137,
+        "support": 191.0
+      },
+      "tech_drw": {
+        "precision": 0.8281938325991189,
+        "recall": 0.7866108786610879,
+        "f1-score": 0.8068669527896996,
+        "support": 239.0
+      },
+      "accuracy": 0.7906976744186046,
+      "macro avg": {
+        "precision": 0.7884811527527614,
+        "recall": 0.7912111984928476,
+        "f1-score": 0.7892202784253066,
+        "support": 430.0
+      },
+      "weighted avg": {
+        "precision": 0.7929141960844479,
+        "recall": 0.7906976744186046,
+        "f1-score": 0.7911901397497041,
+        "support": 430.0
+      }
+    }
+  },
+  "holdout": null
 }

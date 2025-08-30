@@ -3,7 +3,7 @@ import json
 import yaml
 import random
 from datetime import datetime
-from typing import List, Tuple, Dict
+from typing import List, Dict
 
 import numpy as np
 from PIL import Image
@@ -11,11 +11,13 @@ from PIL import Image
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
-from torchvision import transforms, models
-
+from torchvision import transforms
+from torchvision.models import mobilenet_v3_small, MobileNet_V3_Small_Weights
 from sklearn.metrics import classification_report, accuracy_score
 from sklearn.model_selection import StratifiedShuffleSplit
 
+
+# ------------------------- utils ------------------------- #
 
 def set_global_seed(seed: int = 42) -> None:
     random.seed(seed)
@@ -43,7 +45,6 @@ def save_json(path: str, obj: Dict) -> None:
         json.dump(obj, f, indent=2, ensure_ascii=False, default=convert)
 
 
-
 def load_json(path: str) -> Dict:
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -63,10 +64,7 @@ def list_images(root: str) -> List[str]:
 
 
 def collect_doc_images_deterministic(doc_root: str, n_per_subfolder: int, seed: int) -> List[str]:
-
-    rng = random.Random(seed)
     selected = []
-
     for sub in sorted(os.listdir(doc_root)):
         sub_path = os.path.join(doc_root, sub)
         if not os.path.isdir(sub_path):
@@ -75,20 +73,17 @@ def collect_doc_images_deterministic(doc_root: str, n_per_subfolder: int, seed: 
         if not imgs:
             continue
         imgs = sorted(imgs)
-        # Shuffle with a subfolder-dependent seed (stable)
         sub_rng = random.Random((seed, sub).__hash__())
         sub_rng.shuffle(imgs)
-        take = imgs[:min(n_per_subfolder, len(imgs))]
-        selected.extend(take)
-
+        selected.extend(imgs[:min(n_per_subfolder, len(imgs))])
     return selected
 
 
 def collect_drawings_deterministic(drw_root: str, cap: int, seed: int) -> List[str]:
     all_imgs = list_images(drw_root)
-    rng = random.Random(seed)
     if len(all_imgs) <= cap:
         return all_imgs
+    rng = random.Random(seed)
     idx = list(range(len(all_imgs)))
     rng.shuffle(idx)
     pick = [all_imgs[i] for i in idx[:cap]]
@@ -114,7 +109,7 @@ class ImgDataset(Dataset):
 def main():
     import argparse
 
-    ap = argparse.ArgumentParser(description="CNN doc vs technical drawing (MobileNetV2) — reproducible accuracy.")
+    ap = argparse.ArgumentParser(description="CNN doc vs technical drawing (MobileNetV3-Small) — simple training + unified metrics.")
     ap.add_argument("--config", type=str, default="config.yaml", help="Path to config.yaml")
     ap.add_argument("--level", type=str, default="level2", choices=["level1", "level2", "level3"])
     ap.add_argument("--samples-per-sub", type=int, default=43, help="Docs per subfolder (deterministic)")
@@ -122,6 +117,7 @@ def main():
     ap.add_argument("--batch-size", type=int, default=16)
     ap.add_argument("--epochs", type=int, default=3)
     ap.add_argument("--lr", type=float, default=1e-4)
+    ap.add_argument("--val-split", type=float, default=0.2, help="Holdout ratio (StratifiedShuffleSplit)")
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--num-workers", type=int, default=0)
     ap.add_argument("--reuse-selection", action="store_true", default=True,
@@ -139,8 +135,8 @@ def main():
     OUT_DIR  = os.path.join(ROOT, CFG["paths"]["data"]["models"]["cnn_doc_vs_drw"])
     os.makedirs(OUT_DIR, exist_ok=True)
 
-    MODEL_PATH    = os.path.join(OUT_DIR, f"cnn_doc_vs_drw_{args.level}.pth")
-    METRICS_PATH  = os.path.join(OUT_DIR, f"cnn_doc_vs_drw_metrics_{args.level}.json")
+    MODEL_PATH     = os.path.join(OUT_DIR, f"cnn_doc_vs_drw_{args.level}.pth")
+    METRICS_PATH   = os.path.join(OUT_DIR, f"cnn_doc_vs_drw_metrics_{args.level}.json")
     SELECTION_JSON = os.path.join(OUT_DIR, f"selection_doc_vs_drw_{args.level}.json")
     SPLIT_JSON     = os.path.join(OUT_DIR, f"split_doc_vs_drw_{args.level}.json")
 
@@ -148,6 +144,7 @@ def main():
     print(f"Drw dir  : {DRW_DIR}")
     print(f"Out dir  : {OUT_DIR}")
 
+    # --- Selection --- #
     if args.reuse_selection and os.path.exists(SELECTION_JSON):
         sel = load_json(SELECTION_JSON)
         doc_imgs = sel["doc_imgs"]
@@ -163,15 +160,17 @@ def main():
     print(f"Drawings selected: {len(drw_imgs)}")
 
     all_paths  = doc_imgs + drw_imgs
-    all_labels = [0] * len(doc_imgs) + [1] * len(drw_imgs)  # 0=doc, 1=tech_drw
+    all_labels = [0] * len(doc_imgs) + [1] * len(drw_imgs)
+    class_names = ["document", "tech_drw"]
 
+    # --- Split --- #
     if args.reuse_selection and os.path.exists(SPLIT_JSON):
         sp = load_json(SPLIT_JSON)
         train_idx = sp["train_idx"]
         val_idx   = sp["val_idx"]
         print("[INFO] Reusing saved split:", SPLIT_JSON)
     else:
-        sss = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=args.seed)
+        sss = StratifiedShuffleSplit(n_splits=1, test_size=args.val_split, random_state=args.seed)
         train_idx, val_idx = next(sss.split(all_paths, all_labels))
         save_json(SPLIT_JSON, {"train_idx": train_idx, "val_idx": val_idx})
         print("[INFO] Saved split:", SPLIT_JSON)
@@ -205,17 +204,34 @@ def main():
     train_ds = ImgDataset(train_paths, train_labels, train_tf)
     val_ds   = ImgDataset(val_paths,   val_labels,   val_tf)
 
-    train_loader = DataLoader(train_ds, batch_size=args.batch_size, shuffle=True,  num_workers=args.num_workers)
-    val_loader   = DataLoader(val_ds,   batch_size=args.batch_size, shuffle=False, num_workers=args.num_workers)
-
-    # --- Model: MobileNetV2 --- #
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = models.mobilenet_v2(pretrained=True)
-    model.classifier[1] = nn.Linear(model.last_channel, 2)
+    pin = bool(torch.cuda.is_available())
+    train_loader = DataLoader(train_ds, batch_size=args.batch_size, shuffle=True,  num_workers=args.num_workers, pin_memory=pin)
+    val_loader   = DataLoader(val_ds,   batch_size=args.batch_size, shuffle=False, num_workers=args.num_workers, pin_memory=pin)
+
+    # --- Model: MobileNetV3-Small (zamiana z V2) ---
+    model = mobilenet_v3_small(weights=MobileNet_V3_Small_Weights.DEFAULT)
+
+    # zamrażamy feature extractor
+    for p in model.features.parameters():
+        p.requires_grad = False
+
+    # podmieniamy ostatnią warstwę klasyfikatora
+    in_features = model.classifier[3].in_features
+    model.classifier[3] = nn.Linear(in_features, 2)
+
     model = model.to(device)
 
-    criterion = nn.CrossEntropyLoss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=args.lr)
+    # loss + optymalizator (label smoothing + weight decay)
+    try:
+        criterion = nn.CrossEntropyLoss(label_smoothing=0.1)
+    except TypeError:
+        criterion = nn.CrossEntropyLoss()
+    optimizer = torch.optim.Adam(
+        (p for p in model.parameters() if p.requires_grad),
+        lr=args.lr,
+        weight_decay=1e-4
+    )
 
     best_val_acc = 0.0
     history = []
@@ -225,7 +241,7 @@ def main():
         model.train()
         tr_loss, tr_correct = 0.0, 0
         for imgs, targets in train_loader:
-            imgs, targets = imgs.to(device), targets.to(device)
+            imgs, targets = imgs.to(device, non_blocking=True), targets.to(device, non_blocking=True)
             optimizer.zero_grad()
             outputs = model(imgs)
             loss = criterion(outputs, targets)
@@ -243,7 +259,7 @@ def main():
         v_preds, v_true = [], []
         with torch.no_grad():
             for imgs, targets in val_loader:
-                imgs, targets = imgs.to(device), targets.to(device)
+                imgs, targets = imgs.to(device, non_blocking=True), targets.to(device, non_blocking=True)
                 out = model(imgs)
                 loss = criterion(out, targets)
                 val_loss_sum += loss.item() * imgs.size(0)
@@ -255,7 +271,7 @@ def main():
         val_loss = val_loss_sum / len(val_ds)
         val_acc  = val_correct / len(val_ds)
 
-        print(f"Epoch {epoch}/{args.epochs} | tr_loss={train_loss:.4f} acc={train_acc:.4f} | val_loss={val_loss:.4f} acc={val_acc:.4f}")
+        print(f"Epoch {epoch}/{args.epochs} | tr_loss={new_float(train_loss)} acc={new_float(train_acc)} | val_loss={new_float(val_loss)} acc={new_float(val_acc)}")
         history.append({"epoch": epoch, "train_loss": train_loss, "train_acc": train_acc, "val_loss": val_loss, "val_acc": val_acc})
 
         if val_acc > best_val_acc:
@@ -269,38 +285,57 @@ def main():
     v_preds, v_true = [], []
     with torch.no_grad():
         for imgs, targets in val_loader:
-            imgs = imgs.to(device)
+            imgs = imgs.to(device, non_blocking=True)
             out  = model(imgs)
             preds = out.argmax(1)
             v_preds.extend(preds.cpu().tolist())
             v_true.extend(targets.tolist())
 
     acc = accuracy_score(v_true, v_preds)
-    report = classification_report(v_true, v_preds, target_names=["doc", "tech_drw"], output_dict=True)
+    report = classification_report(v_true, v_preds, target_names=class_names, output_dict=True)
 
     print("\n=== FINAL VALIDATION REPORT ===")
     print(f"Accuracy: {acc:.4f}")
-    print(classification_report(v_true, v_preds, target_names=["doc", "tech_drw"]))
+    print(classification_report(v_true, v_preds, target_names=class_names))
 
+    # --- Unified metrics --- #
     metrics = {
         "timestamp": datetime.now().isoformat(),
         "level": args.level,
-        "n_train": len(train_ds),
-        "n_val":   len(val_ds),
-        "final_val_accuracy": acc,
-        "classification_report": report,
-        "history": history,
-        "samples_per_subfolder": args.samples_per_sub,
-        "drawings_cap": args.drawings_cap,
+        "classes": class_names,
+        "img_size": 256,
+        "epochs": args.epochs,
+        "batch_size": args.batch_size,
+        "lr": args.lr,
         "seed": args.seed,
-        "reuse_selection": args.reuse_selection,
+        "reuse_selection": bool(args.reuse_selection),
+        "final": {
+            "accuracy": float(acc),
+            "origin": {"type": "holdout", "ratio": float(args.val_split)}
+        },
+        "cv": None,
+        "holdout": {
+            "test_size": float(args.val_split),
+            "train_size": int(len(train_ds)),
+            "test_size_abs": int(len(val_ds)),
+            "accuracy": float(acc),
+            "classification_report": report
+        },
+        "samples_per_subfolder": args.samples_per_sub,
+        "drawings_cap": args.drawings_cap
     }
-
     with open(METRICS_PATH, "w", encoding="utf-8") as jf:
         json.dump(metrics, jf, indent=2, ensure_ascii=False)
 
     print(f"\nSaved metrics >>>> {METRICS_PATH}")
-    print(f"Best model   >>>> {MODEL_PATH}")
+    print(f"Saved model   >>>> {MODEL_PATH}")
+
+
+def new_float(x: float) -> str:
+    try:
+        return f"{float(x):.4f}"
+    except Exception:
+        return str(x)
 
 
 if __name__ == "__main__":

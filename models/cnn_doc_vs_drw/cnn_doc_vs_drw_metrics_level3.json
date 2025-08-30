@@ -1,58 +1,57 @@
 {
-  "timestamp": "2025-07-28T12:41:53.606968",
+  "timestamp": "2025-08-29T21:23:10.834825",
   "level": "level3",
-  "n_train": 412,
-  "n_val": 104,
-  "final_val_accuracy": 1.0,
-  "classification_report": {
-    "doc": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 52.0
-    },
-    "tech_drw": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 52.0
-    },
-    "accuracy": 1.0,
-    "macro avg": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 104.0
-    },
-    "weighted avg": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 104.0
+  "classes": [
+    "document",
+    "tech_drw"
+  ],
+  "img_size": 256,
+  "epochs": 3,
+  "batch_size": 16,
+  "lr": 0.0002,
+  "seed": 42,
+  "reuse_selection": true,
+  "final": {
+    "accuracy": 0.9615384615384616,
+    "origin": {
+      "type": "holdout",
+      "ratio": 0.2
     }
   },
-  "history": [
-    {
-      "epoch": 1,
-      "train_loss": 0.1843489627308637,
-      "train_acc": 0.9247572815533981,
-      "val_loss": 0.005179797182790935,
-      "val_acc": 1.0
-    },
-    {
-      "epoch": 2,
-      "train_loss": 0.03903339806835628,
-      "train_acc": 0.9830097087378641,
-      "val_loss": 0.003063026197756139,
-      "val_acc": 1.0
-    },
-    {
-      "epoch": 3,
-      "train_loss": 0.025178190438275776,
-      "train_acc": 0.9951456310679612,
-      "val_loss": 0.0008763288362668111,
-      "val_acc": 1.0
+  "cv": null,
+  "holdout": {
+    "test_size": 0.2,
+    "train_size": 412,
+    "test_size_abs": 104,
+    "accuracy": 0.9615384615384616,
+    "classification_report": {
+      "document": {
+        "precision": 1.0,
+        "recall": 0.9230769230769231,
+        "f1-score": 0.96,
+        "support": 52.0
+      },
+      "tech_drw": {
+        "precision": 0.9285714285714286,
+        "recall": 1.0,
+        "f1-score": 0.9629629629629629,
+        "support": 52.0
+      },
+      "accuracy": 0.9615384615384616,
+      "macro avg": {
+        "precision": 0.9642857142857143,
+        "recall": 0.9615384615384616,
+        "f1-score": 0.9614814814814814,
+        "support": 104.0
+      },
+      "weighted avg": {
+        "precision": 0.9642857142857142,
+        "recall": 0.9615384615384616,
+        "f1-score": 0.9614814814814814,
+        "support": 104.0
+      }
     }
-  ],
-  "samples_per_subfolder": 43
+  },
+  "samples_per_subfolder": 43,
+  "drawings_cap": 258
 }

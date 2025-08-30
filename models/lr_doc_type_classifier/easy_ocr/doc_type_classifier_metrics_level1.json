@@ -1,76 +1,120 @@
 {
   "engine": "easy_ocr",
   "level": "level1",
-  "accuracy": 1.0,
-  "classification_report": {
-    "bill_of_materials": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 61.0
-    },
-    "daily_report": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 60.0
-    },
-    "inspection_report": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 60.0
-    },
-    "maintenance_log": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 60.0
-    },
-    "product_data_sheet": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 60.0
-    },
-    "quality_checklist": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 61.0
-    },
-    "accuracy": 1.0,
-    "macro avg": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 362.0
-    },
-    "weighted avg": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 362.0
+  "n_docs": 1808,
+  "n_classes": 6,
+  "classes": [
+    "BOM",
+    "DAILY_REPORT",
+    "INSPECTION_REPORT",
+    "MAINTENANCE_LOG",
+    "PRODUCT_DATA_SHEET",
+    "QUALITY_CHECKLIST"
+  ],
+  "vectorizer": {
+    "max_features": 1000,
+    "stop_words": null,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "strip_accents": "unicode",
+    "lowercase": true
+  },
+  "model": {
+    "name": "LogisticRegression",
+    "params": {
+      "max_iter": 1000,
+      "solver": "lbfgs",
+      "multi_class": "auto",
+      "class_weight": "balanced",
+      "random_state": 41
     }
   },
-  "train_size": 1446,
-  "test_size": 362,
-  "tfidf_max_features": 1000,
-  "tfidf_stop_words": null,
-  "logistic_regression_params": {
-    "max_iter": 1000,
-    "solver": "lbfgs",
-    "multi_class": "auto",
-    "class_weight": "balanced",
-    "random_state": 41
+  "final": {
+    "accuracy": 1.0,
+    "accuracy_ci95": [
+      1.0,
+      1.0
+    ],
+    "f1_macro": 1.0,
+    "origin": {
+      "type": "cv_mean",
+      "k": 5
+    }
   },
-  "cross_val_scores": [
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0
-  ],
-  "cross_val_mean": 1.0,
-  "cross_val_std": 0.0
+  "cv": {
+    "k": 5,
+    "random_state": 41,
+    "accuracy_scores": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "f1_macro_scores": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "f1_macro_mean": 1.0,
+    "f1_macro_std": 0.0,
+    "classification_report": {
+      "BOM": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 304.0
+      },
+      "DAILY_REPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 301.0
+      },
+      "INSPECTION_REPORT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 300.0
+      },
+      "MAINTENANCE_LOG": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 300.0
+      },
+      "PRODUCT_DATA_SHEET": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 300.0
+      },
+      "QUALITY_CHECKLIST": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 303.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1808.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1808.0
+      }
+    }
+  },
+  "holdout": null
 }

@@ -1,0 +1,84 @@
+{
+  "timestamp": "2025-08-29T18:06:29.628710",
+  "level": "level3",
+  "num_classes": 6,
+  "classes": [
+    "BOMS",
+    "DAILY_REPORTS",
+    "INSPECTION_REPORTS",
+    "MAINTENANCE_LOGS",
+    "PRODUCT_DATA_SHEETS",
+    "QUALITY_CHECKLISTS"
+  ],
+  "img_size": 224,
+  "epochs": 8,
+  "batch_size": 16,
+  "lr": 0.0001,
+  "seed": 42,
+  "reuse_split": true,
+  "final": {
+    "accuracy": 0.39226519337016574,
+    "origin": {
+      "type": "holdout",
+      "ratio": 0.2
+    }
+  },
+  "cv": null,
+  "holdout": {
+    "test_size": 0.2,
+    "train_size": 1446,
+    "test_size_abs": 362,
+    "accuracy": 0.39226519337016574,
+    "classification_report": {
+      "BOMS": {
+        "precision": 0.38461538461538464,
+        "recall": 0.2459016393442623,
+        "f1-score": 0.3,
+        "support": 61.0
+      },
+      "DAILY_REPORTS": {
+        "precision": 0.32608695652173914,
+        "recall": 0.25,
+        "f1-score": 0.2830188679245283,
+        "support": 60.0
+      },
+      "INSPECTION_REPORTS": {
+        "precision": 0.6666666666666666,
+        "recall": 0.3,
+        "f1-score": 0.41379310344827586,
+        "support": 60.0
+      },
+      "MAINTENANCE_LOGS": {
+        "precision": 0.32894736842105265,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.36764705882352944,
+        "support": 60.0
+      },
+      "PRODUCT_DATA_SHEETS": {
+        "precision": 0.4235294117647059,
+        "recall": 0.6,
+        "f1-score": 0.496551724137931,
+        "support": 60.0
+      },
+      "QUALITY_CHECKLISTS": {
+        "precision": 0.3707865168539326,
+        "recall": 0.5409836065573771,
+        "f1-score": 0.44,
+        "support": 61.0
+      },
+      "accuracy": 0.39226519337016574,
+      "macro avg": {
+        "precision": 0.41677205080724694,
+        "recall": 0.3922586520947176,
+        "f1-score": 0.3835017923890441,
+        "support": 362.0
+      },
+      "weighted avg": {
+        "precision": 0.41655618837590663,
+        "recall": 0.39226519337016574,
+        "f1-score": 0.3834271968509831,
+        "support": 362.0
+      }
+    }
+  }
+}

@@ -24,6 +24,7 @@ paths:
       docs:
         level1:  "data/scans/docs/level1"
         level2:  "data/scans/docs/level2"
+        level3:  "data/scans/docs/level3"
       technical_drawings: "data/scans/technical_drawings"
 
     test: "data/test"       # Test data folder (optional)
@@ -263,7 +264,7 @@ tesseract_ocr:
   pdf_dpi: 300
   image_extensions: ['.jpg','.jpeg','.png','.tiff','.bmp']
   pdf_extension: '.pdf'
-  max_dim: 800
+  max_dim: 3000
   tesseract_cmd: "C:/Program Files/Tesseract-OCR/tesseract.exe"
 
 easy_ocr:
@@ -280,16 +281,23 @@ easy_ocr:
 # =========================
 doc_vs_drw_classifier:
   tfidf:
-    stop_words:    "english"
-    max_features:  5000
-  train_test_split:
-    test_size:    0.2
-    stratify:     true
-    random_state: 41
+    stop_words: "english"
+    max_features: 5000  
+
   logistic_regression:
-    max_iter:     500
-    solver:       "lbfgs"
+    max_iter: 500
+    solver: "lbfgs"
     class_weight: "balanced"
+    random_state: 41
+
+  # --- evaluation ---
+  cv_splits: 5          
+  random_state: 41      
+  holdout_enabled: false 
+
+  train_test_split:
+    test_size: 0.2
+    stratify: true
     random_state: 41
 
 
@@ -299,17 +307,37 @@ doc_vs_drw_classifier:
 doc_type_classifier:
   tfidf:
     max_features: 1000
-    stop_words:   null
-  train_test_split:
-    test_size:  0.2
-    stratify:   true
-    random_state: 41
+    stop_words: null
+
   logistic_regression:
-    max_iter:     1000
-    solver:       "lbfgs"
-    multi_class:  "auto"
-    class_weight: "balanced"
+    max_iter: 1000
+    solver: lbfgs
+    multi_class: auto
+    class_weight: balanced
     random_state: 41
+
+  # --- evaluation ---
+  holdout_enabled: false
+  cv_splits: 5
+  random_state: 41
+
+  train_test_split:
+    test_size: 0.2
+    random_state: 41
+    stratify: true
+
+cnn_doc_type_classifier:
+  # --- evaluation ---
+  cv_splits: 1         
+  val_split: 0.2        
+  random_state: 42
+
+  # trainiung
+  epochs: 8
+  batch_size: 16
+  lr: 1e-4
+  img_size: 224
+  reuse_split: true    
 
 
 # =========================

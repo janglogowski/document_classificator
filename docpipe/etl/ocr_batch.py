@@ -50,12 +50,13 @@ def map_scans_to_output(
       .../processed/ocr/<engine>/technical_drawings/<file>.txt  (preserve subfolders if any)
     """
     rel = src.relative_to(scans_root)
+    sub = Path(*rel.parts[:-1]) if len(rel.parts) > 1 else Path()
+    dst_name = src.stem + ".txt"
+
     if is_docs:
-        doc_class = rel.parts[0] if len(rel.parts) > 1 else "UNKNOWN"
-        return ocr_root / engine / level / "docs" / doc_class / (src.stem + ".txt")
+        return ocr_root / engine / level / sub / dst_name
     else:
-        sub = Path(*rel.parts[:-1]) if len(rel.parts) > 1 else Path()
-        return ocr_root / engine / "technical_drawings" / sub / (src.stem + ".txt")
+        return ocr_root / engine / "technical_drawings" / sub / dst_name
 
 
 # ---------------------------- engines ----------------------------

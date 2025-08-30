@@ -1,7 +1,6 @@
 import os
 import time
 import shutil
-from datetime import datetime
 
 import yaml
 from docpipe.cli.ocr_utils import get_ocr_function
@@ -14,9 +13,9 @@ ROOT = os.path.abspath(cfg["paths"]["project_root"])
 
 # === User parameters === #
 ocr_engine     = "easy_ocr"         # "easy_ocr"/"tesseract_ocr"
-vsd_classifier = "cnn"              # "cnn"/"tfidf_lr"
+vsd_classifier = "tfidf_lr"              # "cnn"/"tfidf_lr"
 doc_classifier = "tfidf_lr"         # "cnn"/"tfidf_lr"
-level          = "level3"
+level          = "level1"
 
 # === Paths === #
 P = cfg["paths"]
@@ -30,7 +29,7 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 ocr_image = get_ocr_function(ocr_engine, cfg)
 
 # === Load models === #
-vsd_model = load_vsd_model(vsd_classifier, level, cfg)
+vsd_model = load_vsd_model(vsd_classifier, ocr_engine, level, cfg)
 doc_model, doc_names = load_doc_type_model(doc_classifier, ocr_engine, level, cfg)
 
 # === Watch loop === #
@@ -51,11 +50,11 @@ while True:
             text = ocr_image(src).strip()
 
         # Stage 1 – doc vs drw
-        pred_vsd = predict_doc_vs_drw(src, vsd_classifier, vsd_model, text, cfg)
+        pred_vsd = predict_doc_vs_drw(src, vsd_classifier, vsd_model, text, cfg, engine=ocr_engine)
         if pred_vsd != "document":
             dstype = "tech_drw"
         else:
-            # Stage 2 – doc type classification
+            # Stage 2 – document type
             dstype = predict_doc_type(src, doc_classifier, (doc_model, doc_names), ocr_image, text, cfg)
 
         classification_time = round(time.time() - start_time, 3)
