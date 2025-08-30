@@ -13,12 +13,12 @@ ROOT = os.path.abspath(cfg["paths"]["project_root"])
 
 # === User parameters === #
 ocr_engine     = "easy_ocr"         # "easy_ocr"/"tesseract_ocr"
-vsd_classifier = "tfidf_lr"              # "cnn"/"tfidf_lr"
+vsd_classifier = "cnn"              # "cnn"/"tfidf_lr"
 doc_classifier = "tfidf_lr"         # "cnn"/"tfidf_lr"
-level          = "level1"
+level          = "level3"
 
 # === Paths === #
-P = cfg["paths"]
+P = cfg["paths"] 
 INPUT_FOLDER  = os.path.join(ROOT, P["tests"]["input"])
 OUTPUT_FOLDER = os.path.join(ROOT, P["tests"]["output"])
 METADATA_CSV  = os.path.join(ROOT, P["tests"]["metadata"])
@@ -51,11 +51,13 @@ while True:
 
         # Stage 1 – doc vs drw
         pred_vsd = predict_doc_vs_drw(src, vsd_classifier, vsd_model, text, cfg, engine=ocr_engine)
-        if pred_vsd != "document":
-            dstype = "tech_drw"
-        else:
-            # Stage 2 – document type
+        if pred_vsd == "document":
+        # Stage 2 – document type
             dstype = predict_doc_type(src, doc_classifier, (doc_model, doc_names), ocr_image, text, cfg)
+        elif pred_vsd == "tech_drw":
+            dstype = "tech_drw"
+        else: 
+            dstype = "UNDEFINED"
 
         classification_time = round(time.time() - start_time, 3)
         new_name = generate_filename(dstype, ext)

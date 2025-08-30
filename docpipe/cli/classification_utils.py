@@ -11,8 +11,8 @@ def load_vsd_model(classifier, engine, level, cfg):
     if classifier == "tfidf_lr":
         base = os.path.join(
             cfg["paths"]["project_root"],
-            cfg["paths"]["data"]["models"]["lr_doc_vs_drw"][engine]
-        )
+            cfg["paths"]["data"]["models"]["lr_doc_vs_drw"][engine])
+        
         model = joblib.load(os.path.join(base, f"lr_doc_vs_drw_{level}.pkl"))
         vect  = joblib.load(os.path.join(base, f"doc_vs_drw_vect_{level}.pkl"))
         return (model, vect)
@@ -20,12 +20,25 @@ def load_vsd_model(classifier, engine, level, cfg):
         state_path = os.path.join(
             cfg["paths"]["project_root"],
             cfg["paths"]["data"]["models"]["cnn_doc_vs_drw"],
-            f"cnn_doc_vs_drw_{level}.pth"
-        )
+            f"cnn_doc_vs_drw_{level}.pth")
+
         model = mobilenet_v3_small(weights=None)
-        model.classifier[1] = nn.Linear(model.last_channel, 2)
+        if isinstance(model.classifier, nn.Sequential):
+            last_idx = None
+            for i in reversed(range(len(model.classifier))):
+                if isinstance(model.classifier[i], nn.Linear):
+                    last_idx = i
+                    break
+            if last_idx is None:
+                raise RuntimeError("Nie znaleziono warstwy Linear w model.classifier (MobileNetV3).")
+            in_features = model.classifier[last_idx].in_features
+            model.classifier[last_idx] = nn.Linear(in_features, 2)
+        else:
+            in_features = model.classifier[3].in_features
+            model.classifier[3] = nn.Linear(in_features, 2)
+
         state = torch.load(state_path, map_location="cpu")
-        model.load_state_dict(state)
+        model.load_state_dict(state, strict=False)
         model.eval()
         return model
 
