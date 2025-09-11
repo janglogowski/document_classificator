@@ -1,4 +1,3 @@
-# cm_final_per_engine_and_level.py
 import re
 from pathlib import Path
 import numpy as np
@@ -6,13 +5,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
-# ======== USTAWIENIA ========
-EXCEL_PATH = r"C:\Users\janek\Documents\GitHub\document_classificator\eval\conf_matrixes\HYBRID_EASYOCR.xlsx"
+EXCEL_PATH = r"C:\Users\janek\Documents\GitHub\document_classificator\eval\conf_matrixes\CNN_ONLY.xlsx"
 OUT_DIR    = Path(r"C:\Users\janek\Documents\GitHub\document_classificator\eval\conf_matrixes")
-NORMALIZE  = True      # True = procenty per klasa (wiersz); False = surowe liczby
+NORMALIZE  = True
 # ============================
 
-# mapping prawdziwych klas z nazwy pliku (gdy nie masz true_type w Excelu)
 CLASS_MAP = {
     r"^bom": "BOM",
     r"^daily[_\-]?report": "DAILY_REPORT",
@@ -48,9 +45,9 @@ def normalize_rows(cm: np.ndarray) -> np.ndarray:
 def plot_cm(cm, labels, title, outpath, normalize=True):
     arr = normalize_rows(cm) if normalize else cm
     fig = plt.figure(figsize=(8, 6))
-    im = plt.imshow(arr, interpolation="nearest")
+    im = plt.imshow(arr, interpolation="nearest", cmap="RdYlGn", vmin=0.0, vmax=1.0 if normalize else None)
     plt.title(title)
-    plt.colorbar(im)
+    plt.colorbar(im, fraction=0.046, pad=0.04)
     ticks = np.arange(len(labels))
     plt.xticks(ticks, labels, rotation=45, ha="right")
     plt.yticks(ticks, labels)
@@ -66,7 +63,6 @@ def plot_cm(cm, labels, title, outpath, normalize=True):
     plt.close(fig)
 
 def engine_tag(eng: str) -> str:
-    """Mapuj '-' (CNN) na czytelny tag."""
     e = (eng or "").strip().lower()
     if e in {"-", "none", "cnn"}:
         return "CNN"
@@ -74,7 +70,7 @@ def engine_tag(eng: str) -> str:
         return "tesseract_ocr"
     if e in {"easyocr", "easy_ocr"}:
         return "easy_ocr"
-    return eng  # fallback
+    return eng  
 
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -85,21 +81,16 @@ def main():
     if missing:
         raise ValueError(f"Brakuje kolumn: {missing}")
 
-    # ujednolicenie stringów
     for c in ["input_file","final_pred","ocr_engine","train_level","test_level"]:
         df[c] = df[c].astype(str).str.strip()
 
-    # infer true labels z nazwy pliku
     df["true_type"] = df["input_file"].apply(infer_true_type)
     df = df[df["true_type"] != "UNKNOWN"].copy()
 
-    # normalizacja wartości specjalnych
     df["ocr_engine_tag"] = df["ocr_engine"].apply(engine_tag)
-    # brak poziomu dla tech drawings: jeśli masz puste/NaN/None, ustaw '-'
     df["train_level"] = df["train_level"].replace({"": "-", "nan": "-", "None": "-"})
     df["test_level"]  = df["test_level"].replace({"": "-", "nan": "-", "None": "-"})
 
-    # === 1) Macierze per OCR (w tym CNN jako osobny silnik) — ALL LEVELS ===
     for eng in sorted(df["ocr_engine_tag"].unique()):
         sub = df[df["ocr_engine_tag"] == eng]
         if sub.empty:
@@ -107,20 +98,7 @@ def main():
         cm = confusion_matrix(sub["true_type"], sub["final_pred"], labels=ALL_LABELS)
         plot_cm(cm, ALL_LABELS, f"Final CM — {eng} (ALL LEVELS)", OUT_DIR / f"cm_final_{eng}_ALL.png", NORMALIZE)
 
-    # # === 2) Macierze per OCR + (train_level, test_level) ===
-    # # UWAGA: TECH_DRW ma train_level '-' (i często test_level '-'). To nie przeszkadza – grupy z '-' też będą generowane.
-    # for eng in sorted(df["ocr_engine_tag"].unique()):
-    #     sub_eng = df[df["ocr_engine_tag"] == eng]
-    #     for tr in sorted(sub_eng["train_level"].unique()):
-    #         for te in sorted(sub_eng["test_level"].unique()):
-    #             sub = sub_eng[(sub_eng["train_level"] == tr) & (sub_eng["test_level"] == te)]
-    #             if sub.empty:
-    #                 continue
-    #             tag = f"{eng}_{tr}_train_{te}_test"
-    #             cm = confusion_matrix(sub["true_type"], sub["final_pred"], labels=ALL_LABELS)
-    #             plot_cm(cm, ALL_LABELS, f"Final CM — {tag}", OUT_DIR / f"cm_final_{tag}.png", NORMALIZE)
-
-    print(f"Gotowe. PNG zapisane w: {OUT_DIR.resolve()}")
+    print(f"Saved in: {OUT_DIR.resolve()}")
 
 if __name__ == "__main__":
     main()

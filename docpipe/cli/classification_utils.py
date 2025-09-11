@@ -29,8 +29,6 @@ def load_vsd_model(classifier, engine, level, cfg):
                 if isinstance(model.classifier[i], nn.Linear):
                     last_idx = i
                     break
-            if last_idx is None:
-                raise RuntimeError("Nie znaleziono warstwy Linear w model.classifier (MobileNetV3).")
             in_features = model.classifier[last_idx].in_features
             model.classifier[last_idx] = nn.Linear(in_features, 2)
         else:
