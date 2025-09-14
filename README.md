@@ -2,59 +2,55 @@
 
 ## Overview
 
-This project provides an end-to-end machine learning pipeline for automatic classification of technical documents and drawings, including:
-
+This project provides an end-to-end machine learning pipeline for automatically classifying technical documents and drawings. Key features include:
 - Synthetic data generation (structured PDFs/images)
-- Scan simulation with artifacts
-- OCR extraction (Tesseract or EasyOCR)
-- Machine Learning & Deep Learning classification (Logistic Regression & CNN)
+- Scan simulation with common artifacts
+- OCR extraction using Tesseract or EasyOCR
+- Classification using machine learning and deep learning (Logistic Regression & CNN)
 
 ## Folder Structure
 
 ```
 project/
 ├── data/
-│   ├── assets/               # Textures, backgrounds for document generation
-│   ├── scans/                # Simulated scan images (from PDFs)
+│   ├── assets/            # Textures, backgrounds for document generation
+│   ├── scans/             # Simulated scans (from PDFs)
 │   │   └── docs/, technical_drawings/
 │   └── processed/
-│       ├── ocr/              # Extracted OCR .txt outputs
-│       └── metrics/          # Model evaluation metrics
-│
-├── models/                   # Trained models (LR/CNN), per level and OCR
+│       ├── ocr/           # Extracted OCR .txt outputs
+│       └── metrics/       # Model evaluation metrics
+├── models/                # Trained models (LR/CNN), organized by level and OCR engine
 ├── docpipe/
 │   ├── etl/
-│   │   └── extras/generators/   # Synthetic document generator
-│   ├── ocr/                     # OCR utility functions
-│   ├── models/                  # Training scripts for LR/CNN
-│   ├── cli/
-│   │   ├── pipeline_main.py     # Main classification pipeline
-│   │   ├── classification_utils.py
-│   │   ├── ocr_utils.py
-│   │   └── file_utils.py
-│
+│   │   └── extras/generators/  # Synthetic document generator scripts
+│   ├── ocr/                   # OCR utility functions
+│   ├── models/                # Training scripts for LR/CNN models
+│   └── cli/
+│       ├── pipeline_main.py   # Main classification pipeline
+│       ├── classification_utils.py
+│       ├── ocr_utils.py
+│       └── file_utils.py
 ├── tests/
-│   ├── input/               # Folder watched by pipeline (drop test files here)
-│   └── output/              # Classified files moved here
-│
-├── config.yaml              # Central configuration
-└── main.py                  # CLI entrypoint (runs pipeline_main)
+│   ├── input/           # Folder monitored by pipeline (drop test files here)
+│   └── output/          # Classified files moved here
+├── config.yaml          # Central configuration
+└── main.py              # CLI entry point (runs pipeline_main)
 ```
 
 ## How It Works
 
-1. Drop a `.jpg` or `.pdf` into `tests/input/`
-2. OCR is applied (EasyOCR or Tesseract)
-3. Stage 1: model distinguishes between document and technical drawing
-4. Stage 2: if document, classify the type (BOM, PDS, etc.)
-5. The file is renamed and moved to `tests/output/`
-6. Classification metadata is logged to Excel file
+1. Input: Drop an image (.jpg) or PDF (.pdf) into tests/input/.
+2. OCR: The file is processed with OCR (EasyOCR or Tesseract).
+3. Stage 1: A model determines if it is a document or a technical drawing.
+4. Stage 2: If identified as a document, another model classifies its type (BOM, PDS, etc.).
+5. Output: The file is renamed and moved to tests/output/.
+6. Logging: Classification metadata (filename, model, prediction, time) is logged to an Excel file.
 
 ## Pipeline Components
 
 ### 1. Synthetic Document Generation
 ```
-python docpipe/etl/extras/generators/generate_data.py
+python -m docpipe.etl.extras.generators.generate_data
 ```
 
 ### 2. OCR Batch Runner
@@ -70,11 +66,13 @@ python -m docpipe.models.lr_doc_vs_drw --engine easy_ocr --level level3 --config
 
 ### 4. Train CNN Classifiers
 ```
-python -m docpipe.models.cnn_doc_type_classifier
-python -m docpipe.models.cnn_doc_vs_drw
+python -m docpipe.models.cnn_doc_type_classifier --config config.yaml
+python -m docpipe.models.cnn_doc_vs_drw --config config.yaml
 ```
 
-## Run Main Pipeline via CLI
+## Running the Pipeline
+
+To run the main classification pipeline (continuously monitoring the input folder):
 
 ```
 python main.py
@@ -84,10 +82,11 @@ It continuously monitors `tests/input/` and classifies every new file.
 
 ## Config Explanation (config.yaml)
 
-- Choose OCR engine: `easy_ocr` or `tesseract_ocr`
-- Choose classification models: `cnn` or `tfidf_lr`
-- Set complexity level: `level1`, `level2`, `level3`
-- Paths are auto-resolved based on `project_root`
+Key configuration options:
+- OCR engine: easy_ocr or tesseract_ocr
+- Classification models: cnn or tfidf_lr (Logistic Regression)
+- Complexity level: level1, level2, or level3
+- Paths: Auto-resolved based on project_root in the config file
 
 ## Classification Labels
 
